@@ -1,0 +1,1117 @@
+topic: seediq
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 郭明正, Dakis Pawan, male, 1953-02-24
+collected: None
+revised: None
+video: sdqNr-seediq_dakis.mp3
+
+1.
+m,_
+FIL
+FIL
+
+#a 2.32, None, 2.94
+
+1.
+m,_
+FIL
+FIL
+
+#a 2.32, None, 2.94
+
+3.
+... a tikuh kari maanu di.\
+FIL little word what ASP
+FIL 小 話 什麼 動貌
+
+#a 4.52, None, 6.77
+
+4.
+... kes-un a==,_
+say-PF FIL
+說-受焦 FIL
+
+#a 6.77, None, 7.9
+
+5.
+pusu=ta bale a,\
+lower.trunk=1IPL.NOM real FIL
+樹幹底部=1IPL.NOM 真的 FIL
+
+#n pusu意為「樹幹的底部」，也可以指「根源」。
+#a 7.9, None, 9.17
+#n pusu意為「樹幹的底部」，也可以指「根源」。
+
+6.
+rudan nita seediq.\
+elderly 1IPL.POSS PN
+長者 1IPL.所有格 專名
+
+#e I am going to tell a story, the so-called origin of our Seediq ancestors. 
+#c 我要述說一個故事，所謂我們賽德克族的始祖起源之說。
+#n rudan可以指「祖先」或「長者」。這裡先統一標示長者。
+#a 9.17, None, 10.26
+
+7.
+... e,_
+FIL 
+FIL
+
+#a 10.26, None, 11.43
+
+8.
+... kari nii uri uri ge,_
+word this also also TOP
+話 這個 也 也 主題
+
+#a 11.43, None, 13.37
+
+9.
+... e,_
+FIL 
+FIL
+
+#a 13.37, None, 14.41
+
+10.
+... t<un>gesa-an=ku=na ima di,\
+teach<PFV>teach-LF=1SG.NOM=3SG.GEN who ASP
+教<完成>教-處焦=1SG.主格=3SG.屬格 誰 動貌
+
+#n 字根為tgesa。
+#a 14.41, None, 16.32
+#n 字根為tgesa。
+
+11.
+... sk-- a sk-tiwas pawan uri,\
+FS FIL late-PN PN also
+FS FIL 先-人名 人名 也
+
+#n sk-為表示人已故的前綴。
+#a 16.32, None, 18.33
+#n sk-為表示人已故的前綴。
+
+12.
+.. daka== sk-pawan nawi peni.\
+CONJ late- PN PN PART
+連接詞 先-人名 人名 語助詞
+
+#e The story was taught to me by the late Tiwas Pawan and Pawan Nawi.
+#c 這故事是已過世的Tiwas Pawan和 Pawan Nawi教我的。
+#n daka為daha ka簡稱。
+#a 18.33, None, 20.61
+
+13.
+.. ani si,\
+even say
+即使 說
+
+#n ani si也可以說ani sa表示「但是」。
+#a 20.61, None, 21.68
+#n ani si也可以說ani sa表示「但是」。
+
+14.
+.. huwa ka bobo de,\
+why NOM above PART
+為什麼 主格 之上 語助詞
+
+#n bobo這裡意為「之後」。
+#a 21.68, None, 22.92
+#n bobo這裡意為「之後」。
+
+15.
+.. egu ka rd-rudan n-da-an=mu s<m>iling uri ha.\
+AF.many NOM RED-elderly PFV-experience-LF=1SG.GEN consult<AF>consult also FIL
+主焦.多 主格 重疊-長者 完成-經歷-處焦=1SG.屬格 詢問<主焦>詢問 也 FIL
+
+#n nudaan過去；m-oda經歷。
+#a 22.92, None, 25.42
+#n nudaan過去；m-oda經歷。
+
+16.
+... m mesa ka kari=na.\
+FIL AF.say NOM word=3SG.GEN
+FIL 主焦.說 主格 話=3SG.屬格
+
+#e But afterwards, I have also consulted many elders, and the following is what he said.
+#c 但是之後，我也請教過許許多多的族老，他是這麼說的。
+#a 25.42, None, 27.08
+
+17.
+... en,_
+FIL
+FIL
+
+#a 27.08, None, 28.33
+
+18.
+.. niq-an kingan a,\
+EXIST-LF one FIL
+存在-處焦 一 FIL
+
+#a 28.33, None, 29.46
+
+19.
+.. e dgiyaq e dgiyaq e dgiyaq paru ha,\
+FIL mountain FIL mountain FIL mountain AF.big FIL,
+FIL 山巒 FIL 山巒 FIL 山巒 主焦.大 FIL
+
+#a 29.46, None, 31.7
+
+20.
+.. bnuhun kes-un=na,\
+PN say-PF=3SG.GEN
+地名 說-受焦=3SG.屬格
+
+#e There is a huge mountain.
+#c 有座大山脈。
+#a 31.7, None, 33.25
+
+21.
+.. bnuhun mesa kari=ta ita.\
+PN AF.say word=1IPL.GEN 1IPLNOM
+地名 主焦.說 話=1IPL.屬格 1IPL.主格
+
+#e We call (it) Bnuhun.
+#c 我們稱（它）為Bnuhun。
+#a 33.25, None, 34.76
+
+22.
+.. bnuhun nii na,\
+PN this PART
+地名 這個 語助詞
+
+#a 34.76, None, 35.94
+
+23.
+.. saya di na,\
+now ASP PART
+現在 動貌 語助詞
+
+#n di為語助詞，有起始貌之意。
+#a 35.94, None, 36.71
+#n di為語助詞，有起始貌之意。
+
+24.
+.. kiya ka==,_
+that NOM
+那個 主格
+
+#n kiya ka發展出言談功能，意近「所以」。
+#a 36.71, None, 37.58
+#n kiya ka發展出言談功能，意近「所以」。
+
+25.
+.. han,_
+first
+先
+
+#n han似乎來自ha-an(表示「去」)。
+#a 37.58, None, 38.13
+#n han似乎來自ha-an(表示「去」)。
+
+26.
+.. han a==,_
+first FIL
+先 FIL
+
+#a 38.13, None, 39.41
+
+27.
+.. han m-aduk seediq peni.\
+first AF-hunt PN PART
+先 主焦-狩獵 專名 語助詞
+
+#e This Bnuhun now has been the area to go hunting for the Seediq.
+#c 這個Bnuhun現在已經成為賽德克人去打獵的地方。
+#a 39.41, None, 40.78
+
+28.
+... a,_
+FIL
+FIL
+
+#a 40.78, None, 41.73
+
+29.
+m-aduk mesa ka toda ha,\
+AF-hunt AF.say NOM PN FIL
+主焦-狩獵主焦.說 主格 專名 FIL
+
+#e Todas call (it) “maduk” .
+#c Toda人稱為maduk。
+#n 這裡想要解釋Toda的語言中，打獵叫做maduk。
+#a 41.73, None, 43.5
+
+30.
+.. dup-un asi=ta kes-i ita.\
+chase-PF directly=1IPL.GEN say-PF.IMP 1IPL.NOM
+追趕-受焦 直接=1IPL.屬格 說-受焦.祈使 1IPL.主格
+
+#n dupun意為獵區，這裡暫分析為aduk「趕；追逐」的受焦。
+#n asi有「直接」的意思。
+#a 43.5, None, 45.18
+#n dupun意為獵區，這裡暫分析為aduk「趕；追逐」的受焦。
+#n asi有「直接」的意思。
+
+31.
+.. ita tgdaya peni.\
+1IPL.NOM PN PART
+1IPL.主格 專名 語助詞
+
+#e We, the Tgdaya call it Dupun.
+#c 我們Tgdaya人稱之為Dupun (狩獵的地方)。
+#a 45.18, None, 46.07
+
+32.
+.. ani dehuk saya na lmiqu nii na,\
+even arrive today PART mountain this PART
+即使 抵達 今天 語助詞 山 這個 語助詞
+
+#n dehuk引申義「直到」。dehuk ku sapah di我已經到家；nii ku dehuk sapah di我還沒到家。
+#n lmiqu統稱山。
+#a 46.07, None, 48.41
+#n dehuk引申義「直到」。dehuk ku sapah di我已經到家；nii ku dehuk sapah di我還沒到家。
+#n lmiqu統稱山。
+
+33.
+.. egu riyung ani maanu ka truma hiya,\
+AF.many very even what NOM inside there
+主焦.多 很 即使 什麼 主格 裡面 那裡
+
+#a 48.41, None, 50.43
+
+34.
+... camac peni,\
+animal PART
+動物 語助詞
+
+#e Even until now, in the mountain area there are still many animals.
+#c 即使至今，山區域內仍有很多動物。
+#a 50.43, None, 51.42
+
+35.
+... ma cbeyo si,\
+then past say
+然後 以前 說
+
+#n cbeyo si na「以前呢...  」。
+#a 51.42, None, 52.97
+#n cbeyo si na「以前呢...  」。
+
+36.
+.. cbeyo cbeyo ye wada so kenu a,\
+past past Q PST like which FIL
+以前 以前 疑問 過去 像 哪個 FIL
+
+#n ye疑問詞，這裡有「或許」的意思。
+#n so kenu合起來意為「如何」。
+#a 52.97, None, 54.74
+#n ye疑問詞，這裡有「或許」的意思。
+#n so kenu合起來意為「如何」。
+
+37.
+.. kenu cbeyo na ini kla-i ini kla-i s<m>epu si na,\
+which past PART NEG know-PF.IMP NEG know-PF.IMP count<AF>count say PART
+哪個 以前 語助詞 否定 知道-受焦.祈使 否定 知道-受焦.祈使 計算<主焦>計算 說 語助詞
+
+#e Then in the past, long long time ago, like we don’t know how to count.
+#c 然後以前，很久很久以前，好像不知道該如何計算了。
+#a 54.74, None, 56.85
+
+38.
+... e,\
+FIL
+FIL
+
+#a 56.85, None, 58.01
+
+39.
+... kika dgiyaq kes-un bnuhun nii na,\
+thus mountain say-PF PN this PART
+所以 山巒 說-受焦 專名 這個 語助詞
+
+#n 這裡kika為kiya ka縮稱。
+#a 58.01, None, 60.32
+#n 這裡kika為kiya ka縮稱。
+
+40.
+.. niq-an kingan qhuni paru.\
+EXIST-LF one tree AF.big
+存在-處焦 一 樹 主焦.大
+
+#e In the so-called Bnuhun, there existed a big tree.
+#c 在所謂的Bnuhun有一棵大樹。
+#a 60.32, None, 61.82
+
+41.
+... n== ye so,\
+FIL Q like
+FIL 疑問 像
+
+#a 61.82, None, 63.21
+
+42.
+.. ru-- kari na rudan ye,\
+FS word GEN elderly Q
+FS 話 屬格 長者 疑問
+
+#a 63.21, None, 65.16
+
+43.
+...(0.8) paru riyung sa qhuni nii.\
+AF.big very say tree this
+主焦.大 很 說 樹 這個
+
+#n sa為mesa簡稱。
+#a 65.16, None, 67.14
+#n sa為mesa簡稱。
+
+44.
+... ma== kika,\
+then thus
+然後 所以
+
+#a 67.14, None, 68.44
+
+45.
+... qhuni nii ne,_
+tree this PART
+樹 這個 語助詞
+
+#n ne為口誤，應為ge
+#a 68.44, None, 69.63
+#n ne為口誤，應為ge
+
+46.
+.. qhu-- qhuni nii ge,\
+FS tree this PART
+FS 樹 這個 語助詞
+
+#a 69.63, None, 70.85
+
+47.
+.. ga sohari ga tiloong maanu di==,_
+EXIST like EXIST AF.sit what ASP
+存在 像 存在主焦.坐 什麼 動貌
+
+#a 70.85, None, 72.98
+
+48.
+.. e dgiyaq peni.\
+FIL mountain PART
+FIL山巒 語助詞
+
+#e The elders said that this tree is very big, so it’s like it sits within the mountains.
+#c 族老說這棵樹非常大，所以像是座落在山巒之間。
+#a 72.98, None, 74.57
+
+49.
+.. ma netun=su so sthya-an,_
+then COND=2SG.NOM like see.from.afar-LF
+然後 條件詞=2SG.主格 像 遠看-處焦
+
+#a 74.57, None, 76.28
+
+50.
+.. sthya-an m-ita di na,\
+see.from.afar-LF AF-see ASP PART
+遠看-處焦 主焦-看 動貌 語助詞
+
+#a 76.28, None, 77.96
+
+51.
+.. qta-an=su peni,\
+see-LF=2SG.GEN PART
+看-處焦=2SG.屬格 語助詞
+
+#a 77.96, None, 78.71
+
+52.
+.. bubaro riyung.\
+AF.tall very
+主焦.高 很
+
+#a 78.71, None, 79.49
+
+53.
+.. qhuni nii paru riyung,\
+tree this AF.big very
+樹 這個 主焦.大 很
+
+#e Then if you look from afar, you see, this tree is very tall and very big.
+#c 如果你從遠處看，你看，這棵樹很高很大。
+#a 79.49, None, 80.78
+
+54.
+.. ma,\
+then
+然後
+
+#a 80.78, None, 81.41
+
+55.
+...(0.8) kika qhuni nii na,\
+thus tree this PART
+所以 樹 這個 語助詞
+
+#a 81.41, None, 83.53
+
+56.
+.. en==, 
+FIL
+FIL
+
+#a 83.53, None, 84.32
+
+57.
+...(1.0) pusu na peni na,\
+lower.trunk GEN PART PART
+樹幹底部 屬格 語助詞 語助詞
+
+#a 84.32, None, 86.26
+
+58.
+.. niq-an lhengo paru,\
+EXIST-LF cave AF.big
+存在-處焦 洞穴 主焦.大
+
+#e Then at the lower trunk of this big, there exists a big cave
+#c 然後這棵樹的底部，有一個大洞穴。
+#a 86.26, None, 87.45
+
+59.
+... ma,_
+then
+然後
+
+#a 87.45, None, 88.7
+
+60.
+.. lhengo niq-an lhengo,\
+cave EXIST-LF cave
+洞穴 存在-處焦 洞穴
+
+#a 88.7, None, 90.49
+
+61.
+... paru ka pusu na nii,\
+AF.big NOM lower.trunk PART this
+主焦.大 主格 樹幹底部 語助詞 這個
+
+#a 90.49, None, 91.83
+
+62.
+.. ani si bukuy pusu=na ge niq-an maanu di a,\
+even say behind lower.trunk=3SG.GEN PART EXIST-LF what ASP FIL
+即使 說 語助詞 後方 樹幹底部-3SG.屬格 語助詞 存在-處焦 什麼 動貌 FIL
+
+#a 91.83, None, 95.1
+
+63.
+.. ga s-- a scling-an qsiya dungan,\
+EXIST FS accumulate-LF water again
+存在 FS 累積-處焦 水 又
+
+#e Then the cave...   the big lower trunk...   behind the lower trunk, there is even a pool of accumulated water.
+#c 然後洞穴...  大樹幹底部...  在樹幹底部的後方又積了一池水。
+#n gcilung 腰部以上的深度，可積水的地方，海為gcilung paru。
+#a 95.1, None, 97.37
+
+64.
+... ma qsiya kii na,_
+then water that PART
+然後 水 那個 語助詞
+
+#a 97.37, None, 98.73
+
+65.
+.. m-s-bobo ka s-- s<n>cling-an=na hii di na gcilung kii di na,\
+AF-S-above NOM FIL accumulate<PFV>accumulate-LF=3SG.GEN there ASP PART pool that ASP PART
+主焦-S-之上 聚滿 主格FIL 累積<完成>累積-處焦=3SG.屬格 那裡 動貌 語助詞 水池 那個 動貌 語助詞
+
+#n m-s-bobo滿出；s-bobo浮。
+#n hiya、hii皆為「那裡」。
+#n gcilung水池，老一輩發音為rcilung。
+#a 98.73, None, 101.59
+#n m-s-bobo滿出；s-bobo浮。
+#n hiya、hii皆為「那裡」。
+#n gcilung水池，老一輩發音為rcilung。
+
+66.
+.. kika thuwe m-uda,\
+thus AF.slow AF-pass
+所以 主焦.慢 主焦-經過
+
+#a 101.59, None, 103.16
+
+67.
+.. maanu di berah=na ka qsiya nii m-usa,\
+what PART front=3SG.GEN NOM water this AF-go
+什麼 語助詞 前面=3SG.屬格 主格 水 這個 主焦-去
+
+#a 103.16, None, 105.19
+
+68.
+.. m-ttuting quri icin.\
+AF-fall AF.toward side
+主焦-掉落 主焦.往 邊
+
+#e Then the water...   the accumulated water overflowed the pool, and slowly flowed pass its (the tree) front to the other side.
+#c 然後水...  積水溢出水池，慢慢流經它前面，到另外一邊。
+#n icin另一邊(通常兩邊/個)。
+#a 105.19, None, 106.34
+
+69.
+... ma== pusu,_
+then lower.trunk
+然後 樹幹底部
+
+#a 106.34, None, 107.95
+
+70.
+kika beling nii peni na,\
+thus cave this PART PART
+所以 洞穴 這個 語助詞 語助詞
+
+#n beling為較小的洞。
+#a 107.95, None, 109.47
+#n beling為較小的洞。
+
+71.
+...  kiya ka,\
+that NOM
+那個 主格
+
+#a 109.47, None, 110.58
+
+72.
+.. p<n>spreq-an kes-un pusu=ta ba ita.\
+be.born<PFV>be.born-LF say-PF lower.trunk-1IPL.GEN real 1IPL.NOM
+出生<完成>出生-處焦 說-受焦 樹幹底部-1IPL.屬格 真的 1IPL.主格
+
+#e So the cave at the lower trunk was reportedly the real birthplace of our ancestors.
+#c 所以樹底這個洞穴，就是傳說中我們真正始祖起源之地。
+#n peruq破掉。pnspreq-an 特別表示卵生，在此延伸為由石頭中生出。
+#a 110.58, None, 113.02
+
+73.
+.. rudan ru-- a pusu=ta ba,_
+elderly FS FIL lower.trunk-1PL.GEN real 
+長者 FS FIL樹幹底部-1PL.屬格 真的
+
+#a 113.02, None, 114.66
+
+74.
+... rudan ita seediq mesa ka rudan.\
+elderly 1IPL.NOM PN AF.say NOM elderly
+長者 1IPL.主格 專名 主焦.說 主格 長者
+
+#a 114.66, None, 116.77
+
+75.
+.. ba rudan=ta cbeyo.\
+real elderly=1IPL.GEN past
+真的 長者-1IPL.屬格 以前
+
+#e (That is) the real origin of our ancestors, our Seediq ancestors, the elderly said, our real ancestors in the past.
+#c （那就是）我們賽德克始祖的真正起源，老人家說，我們過去真正的祖先。
+#a 116.77, None, 117.86
+
+76.
+.. kari nii ge uxe kari hndure nii uri ha.\
+word this PART NEG word recent this also FIL
+話 這個 語助詞 否定 話 最近 這個 也 FIL
+
+#a 117.86, None, 120.33
+
+77.
+.. kari ba kndalax cbeyo.\
+word real AF.come.from past
+話 真的 主焦.來自 以前
+ 
+#e This story was not recently told, but came from the past.
+#c 這個故事也不是最近才傳開的，而是來自過去。
+#a 120.33, None, 121.68
+
+78.
+.. ma,_
+then
+然後
+
+#a 121.68, None, 122.56
+
+79.
+... qta-un qta-un kes-un pusu qhuni nii na,\
+see-PF see-PF say-PF lower.trunk tree this PART
+看-受焦 看-受焦 說-受焦 樹幹底部 樹 這個 語助詞
+
+#e Then looking at this legendary lower trunk of the tree.
+#c 然後看看這個傳說中的樹幹底部。
+#a 122.56, None, 125.17
+
+80.
+... ye adoka gaga dgiyaq peni na,\
+maybe because EXIST mountain PART PART
+也許 因為 存在 山巒 語助詞 語助詞
+
+#a 125.17, None, 127.26
+
+81.
+...(0.7) qhuni ka baga=na sa,\
+tree NOM hand=3SG.GEN say
+樹 主格 手=3SG.屬格 說
+
+#a 127.26, None, 129.2
+
+82.
+.. a kana ba-- baga=na,_
+FIL all FIL hand=3.SG.GEN 
+FIL 全部 FIL 手=屬格
+
+#a 129.2, None, 131.06
+
+83.
+a daha baga=na.\
+FIL two hand=3SG.GEN
+FIL 二 手=3SG.屬格
+
+#a 131.06, None, 132.11
+
+84.
+.. ma teerang we mgrabang.\
+then chest PART ashen
+然後 胸膛 語助詞 灰白
+
+#n rabang灰色；mgrabang像灰白色。
+#a 132.11, None, 133.7
+#n rabang灰色；mgrabang像灰白色。
+
+85.
+.. mgrabang bhege ka teerang=na,\
+ashen white NOM chest=3SG.GEN
+灰白 白  主格 胸膛=3SG.屬格
+
+#e Maybe because it exists in the mountains, its hands are trees...  all its hands...  both of its hands...  and then the ashen chest, its chest is of the color ashen and white.
+#c 或許因為樹幹底部坐落在山巒間，它的手是樹...  它的全部手...  它的兩隻手...  ，然後灰白的胸膛，它的胸膛是灰白色。
+#n pusu qhuni 實際上為一塊巨石，並非指樹木。
+#a 133.7, None, 135.09
+
+86.
+... ma,_
+FIL 
+FIL
+
+#a 135.09, None, 135.87
+
+87.
+paru riyung qta-an.\
+AF.big very see-LF
+主焦.大 很 看-處焦
+
+#a 135.87, None, 136.91
+
+88.
+.. a ma kika,\
+FIL then thus
+FIL 然後 所以
+
+#a 136.91, None, 138.46
+
+89.
+.. a ye ma mesa ka kari rudan.\
+FIL like then AF.say NOM word elderly
+FIL 像 然後 主焦.說 主格 話 長者
+
+#e Then, so the elderly said (it) looked very huge.
+#c 然後，所以族老說看起來很大。
+#a 138.46, None, 140.4
+
+90.
+.. u ye ye sknuwan ka maanu di yani wada s-bgihun paru peni na,\
+FIL Q Q when NOM what ASP maybe PST S-wind AF.big PART PART
+FIL 疑問 疑問 何時 主格 什麼 動貌 可能 過去 S-風 主焦.大 語助詞 語助詞
+
+#e No one knows when, one day there was a big wind.
+#c 不知道什麼時候，有一天起了大風。
+#n yani仔細講為yaani
+#n bgihun風，老一輩講法為sbgihur。
+#a 140.4, None, 144.45
+
+91.
+.. wada=na maanu di grem-an a== bgihun ka,_
+PST=3SG.GEN what ASP snap-LF FIL wind NOM
+過去=3SG.屬格 什麼 動貌 <主焦>折斷 FIL 風 主格
+
+#a 144.45, None, 147.07
+
+92.
+.. baga=na a,_
+hand=3SG.GEN FIL 
+手=3SG.屬格 FIL
+
+#a 147.07, None, 148.06
+
+93.
+... baga=na narac,\
+hand=3SG.GEN right
+手=3SG.屬格 右
+
+#e The wind snapped its hand...  its right hand.
+#c 風折斷它的手...  它的右手。
+#n tgnarac「右邊」。
+#a 148.06, None, 149.15
+
+94.
+.. hon,\
+FIL
+FIL
+
+#a 149.15, None, 149.65
+
+95.
+.. ma,_
+then
+然後
+
+#a 149.65, None, 150.21
+
+96.
+.. ba-- baga=na narac narac nii na,\
+then FS hand=3SG.GEN right right this PART
+然後 FS 手=3SG.屬格 右 右 這 語助詞
+
+#a 150.21, None, 152.0
+
+97.
+.. wada m-gerung.\
+PST AF-break
+過去 主焦-斷裂
+
+#e Then this right hand broke.
+#c 然後它的右手斷了。
+#a 152.0, None, 153.06
+
+98.
+.. ma m-sngari a== baga-na irin ka== m-sngari dehuk saya mesa.\
+then AF-remain FIL hand=3SG.GEN left NOM AF-remain arrive today AF.say
+然後 主焦.剩下 FIL 手=3SG.屬格 左 主格 主焦-剩下 抵達 今天 主焦.說
+
+
+#e Then only the left hand remains until today, it is said.
+#c 然後據說至今只剩下左手了。
+#n tguirin「左邊」。
+#n saya可以指「今天」或「現在」。
+#a 153.06, None, 156.3
+
+99.
+... ma,_
+then
+然後
+
+#a 156.3, None, 157.22
+
+100.
+.. kika pusu kes-un=su=mu,_
+thus lower.trunk say-PF=2SG.NOM=1SG.GEN
+所以 樹幹底部 說-受焦=2SG.主格=1SG.屬格
+
+#a 157.22, None, 158.85
+
+101.
+.. beling kika pntuting-an=na rudan=ta kika cbeyo peni na,\
+cave thus born-LF=3SG.GEN elderly=1IPL.GEN thus past PART PART
+洞穴 所以 誕生處-處焦-3SG.屬格 長者-1IPL.屬格 所以 以前 語助詞 語助詞
+
+#e Then, the lower trunk I told you...   the cave was the birthplace of our ancestors in the past.
+#c 然後，我跟你說的樹幹底部...  這個岩洞就是我們祖先以前誕生之處。
+#a 158.85, None, 161.53
+
+102.
+... kiya si a== maanu di,\
+that say FIL what ASP
+那個 說 FIL 什麼 動貌
+ 
+#n kiya si那就是
+#a 161.53, None, 163.24
+#n kiya si那就是
+
+103.
+...(0.8) ciida si na,_
+then say PART
+當時 說 語助詞
+
+#a 163.24, None, 165.22
+
+104.
+.. da-- e,\
+FS FIL
+FS FIL
+
+#a 165.22, None, 166.13
+
+105.
+... kari=daha na,_
+word=3PL.GEN PART
+話=3PL.屬格 語助詞
+
+#e That is their story then.
+#c 那就是他們當時的故事。
+#a 166.13, None, 167.16
+
+106.
+... daha klegan kari=daha kingan we,_
+two kind word=3PL.GEN one PART
+二 種類 話-3PL.屬格 一 語助詞
+
+#e There are two versions of their story.
+#c 他們的故事，有兩種說法。
+#n kingan老人家可能說kingal。
+#a 167.16, None, 168.94
+
+107.
+... kingan mqedin ma kingan rseno,\
+one woman CONJ one man
+一 女人 連接詞 一 男人
+
+#n mqedin老一輩念mqedil。
+#a 168.94, None, 170.79
+#n mqedin老一輩念mqedil。
+
+108.
+.. p<n>speruq hiya mesa.\
+be.born<PFV>be.born there AF.say
+出生<完成>出生 那裡 主焦.說
+
+#e A woman and a man were said to be born there
+#c 據說一男一女在那裏誕生。
+#a 170.79, None, 171.85
+
+109.
+.. ma kingan kari=daha we,_
+then one word=3PL.GEN PART
+然後 一 話=3PL.屬格 語助詞
+
+#a 171.85, None, 173.1
+
+110.
+.. kingan mqedin ma daha rseno mesa,_
+one woman CONJ two men AF.say
+一 女人 連接詞 二 男人 主焦.說
+
+#e The other story says one woman and two men.
+#c 另一種故事說一女兩男。
+#a 173.1, None, 174.88
+
+111.
+... ma==,_
+then
+然後
+
+#a 174.88, None, 175.82
+
+112.
+.. kika,_
+thus
+所以
+
+#a 175.82, None, 176.43
+
+113.
+kingan mqedin kingan rseno nii e,_
+one woman one man this FIL
+一 女人 一 男人 這個 FIL
+
+#a 176.43, None, 178.14
+
+114.
+.. kika wada m prana ita di mesa ka rudan ha,\
+thus PST FIL increase 1IPL.NOM ASP AF.say NOM elderly FIL
+所以 過去 FIL 增加 1IPL.主格 動貌 主焦.說 主格 長者 FIL
+
+#e The elders said that these one man and woman reproduced us.
+#c 族老說那一女一男，就是繁衍我族的祖先。
+#n 焦點變化m-rana；prna-un；prna-an。
+#a 178.14, None, 180.32
+
+115.
+.. netun so,\
+COND like
+條件詞 像
+
+#a 180.32, None, 180.91
+
+116.
+.. daha rseno,\
+two man
+二 男人
+
+#a 180.91, None, 182.0
+
+117.
+.. kingan mqedin na,\
+one woman PART
+一 女人 語助詞
+
+#a 182.0, None, 182.92
+
+118.
+... daha ru--,_
+two FS
+二 FS
+
+#a 182.92, None, 183.76
+
+119.
+.. daha,\
+two
+二
+
+#a 183.76, None, 184.46
+
+120.
+... bale a==,_
+real FIL
+真的 FIL
+
+#a 184.46, None, 185.46
+
+121.
+... da-- teru mu-- teru seediq nii na m-speruq ciida.\
+FS three FS three people this PART AF-be.born then
+FS三個FS三個 人 這 語助詞 主焦-出生 當時
+
+#e Two men and one woman, these three people were born then.
+#c 兩男一女，這三個人呢那時候誕生。
+#a 185.46, None, 188.43
+
+122.
+... ma,_
+then
+然後
+
+#a 188.43, None, 189.36
+
+123.
+... kingan mqedin ma daha rseno.\
+one woman COND two man
+一 女人 連接詞 二 男人
+
+#e (They are) one woman and two men.
+#c 是一女兩男。
+#a 189.36, None, 190.86
+
+124.
+... ma niq-an kingan rseno ge,_
+then EXIST-LF one man PART
+然後 存在-處焦 一 男人 語助詞
+
+#a 190.86, None, 192.46
+
+125.
+.. ma mesa q<m>ita== kes-un,_
+then AF.say see<AF>see name-PF
+然後 主焦.說 看<主焦>看 稱作-受焦
+
+#n mesa認為
+#a 192.46, None, 194.43
+#n mesa認為
+
+126.
+.. ga=ta niq-an bobo dheran nii peni.\
+PROG=1IPL.NOM EXIST-LF above ground this PART
+進行=1IPL.主格 存在-處焦 上面 土地 這個 語助詞
+
+#e Then one man looked at the world where we now live.
+#c 然後一個男人看著我們現在居住的世界。
+#n bobo dheran土面，引申為「世界」。
+#a 194.43, None, 196.38
+
+127.
+... ma u^xe nii di uka ani m==aanu mesa si,\
+then NEG this ASP NEG any what AF.say say 
+然後 否定 這個 動貌 存在.否定 任何 什麼 主焦.說 說
+
+#e “Why isn’t there anything?” (he) said.
+#c 「為什麼什麼都沒有？」，他說。
+#n ma為什麼，為malux的縮稱。
+#a 196.38, None, 199.1
+
+128.
+.. m-aha ka=ku da uxe=ku m-enaq hini yamu naq enaq hini di mesa.\
+AF.FUT-go KA=1SG.NOM PART NEG=1SG.NOM AF-live here 2PL.NOM self live here ASP AF.say
+主焦.未來-去 KA=1SG.主格 語助詞 否定=1SG.主格 主焦-住 這裡 2PL.主格 自己 住 這裡 動貌 主焦.說
+
+#e “I am leaving. I’m not staying here. You stay here on your own.” (he) said.
+#c 「我要走了，我不待在這裡，你們自己居住在這裡吧。」他說。
+#n enaq動詞變化：m-enaq「有；居住」；niq-an 「有；居住」；nn-niq-an曾經住過。
+#n kaku不確定是否為口誤。
+#a 199.1, None, 201.51
+
+129.
+.. kika,\
+thus
+所以
+
+#a 201.51, None, 202.13
+
+130.
+... irih so,_
+replace like 
+替代 像 
+
+#n irih mu (so) tama 「叔叔」，字面意為「替代我爸爸」。
+#a 202.13, None, 203.31
+#n irih mu (so) tama 「叔叔」，字面意為「替代我爸爸」。
+
+131.
+daha kingan mqedin kingan,\
+two one woman one 
+二 一 女人 一
+
+#a 203.31, None, 204.78
+
+132.
+... a== rseno ka dheya kiya uri.\
+FIL man NOM 3PL.NOM that also
+FIL 男人 主格 3PL.主格 那個 也
+
+#e Therefore, (the story of one woman and two men) is similar to the story of one woman and one man.
+#c 所以，可以說（一女兩男的傳說）相似於一女一男的傳說。
+#a 204.78, None, 206.85
+
+133.
+... ma kingan rseno daka kingan mqedin nii ka,_
+then one man CONJ one woman this NOM
+然後 一 男人 連接詞 一 女人 這個 主格
+
+#a 206.85, None, 209.97
+
+134.
+... kiya ka pusu=ta bale ita,\
+that NOM lower.trunk=1IPL.GEN real 1IPL.NOM
+那個 主格 樹幹底部-1IPL.屬格 真的 1IPL.主格
+
+#e This one man and woman are our real origin.
+#c 這一男一女真的就是我們的根源。
+#a 209.97, None, 212.11
+
+135.
+.. rudan=ta ita kes-un seediq mesa,\
+elderly=1IPL.GEN 1IPL.NOM say-PF PN AF.say
+長者=1IPL.屬格 1IPL.主格 說-受焦 專名 主焦.說
+
+#e They are said to be the ancestors of us, the Seediq.
+#c 他們據說就是我們賽德克人的祖先。
+#n ta ita常重複。
+#a 212.11, None, 213.76
+
+136.
+.. kari=daha e rudan=ta dehuk saya.\
+word=3PL.GEN FIL elderly=1IPL.GEN arrive today
+話=3PL.屬格 FIL 長者=1IPL.屬格 抵達 今天
+
+#e Our elders said so even until now.
+#c 即使到了今天，我們族老們都還這麼說。
+#a 213.76, None, 215.41

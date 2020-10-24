@@ -1,0 +1,971 @@
+topic: hunting1
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 翁成, Mu'u Ka'angena, male, 1947-8-9
+collected: 00:10:27
+revised: 2017-6-6
+video: kkvNr_hunting1_Muu.mp3
+
+1.
+...(2.6) iku ia ka-namasia=ku.\
+1SG.NOM TOP be-namasia=1SG.NOM
+1SG.主格 主題 身為-namasia=1SG.主格
+
+#e I live in Namasia.
+#c 我是那瑪夏的人。
+#a 2.66, None, 6.38
+
+2.
+...(2.3) sua iku ngʉco pini-pining 'ʉnai ia, Ka-’angia-na Ka’angiana Mu’u iku.\
+NOM 1SG.NOM FIL RED-outside earth TOP FS KA-’angai-NA Mu’u 1SG.NOM
+主格 1SG.主格 FIL RED-外面 地 主題 FS KA-’angai-NA Mu’u 1SG.主格
+
+#e In my family, my name is Ka’angiana Mu’u.
+#c 我在家族的地裡,我叫Ka’angiana Mu’u。
+#a 6.38, None, 18.38
+
+3.
+...(2.1) makasua=cu.\
+do.like.that.AF=COS
+那樣做.主焦=COS
+
+#a 18.38, None, 21.89
+
+4.
+...(3.2) ni-ara-pipining=ku nesi, ni-ara-pipining=ku nesi, makasa xx.\
+PFV-become-outside=1SG.NOM here PFV-become-outside=1SG.NOM there do.like.that.AF xx 
+完成-變-外變=1SG.主格 這裡 完成-變-外面=1SG.主格 這裡 那樣做.主焦 XX
+
+#e That’s it. I was born here.
+#c 就這樣我是在這裡出生的。
+#a 21.89, None, 30.9
+
+5.
+...(5.3) ara-tatia=cu=ku,\ 
+become-big=COS=1SG.NOM
+變-大=COS=1SG.主格
+
+#a 30.9, None, 37.36
+
+6.
+... m-oha=cu=ku na takitutura, takitutura.\ 
+AF-go.toward=COS=1SG.NOM LOC FS school 
+主焦-去=COS=1SG.主格 處所 FS 學校
+
+
+#e Later, I grew up. I went to school.
+#c 後來長大了,我有去上學。
+#n takitutura 學校, 老師。
+#a 37.36, None, 47.17
+
+7.
+... me-hua ia, campe=ku m-ari-sinatʉ.\
+PST-that TOP just.now=1SG.NOM AF-take-word
+過去-那 主題 剛剛=1SG.主格 主焦-拿-字
+
+#e At that time, I just started to learn writing.
+#c 那時候剛剛開始寫字。
+#n campe 剛剛開始
+#a 47.17, None, 55.32
+
+8.
+...(4.5) <L2Ci nianciL2C>\
+first grade
+一 年級
+
+#e First grade.
+#c 一年級。
+#a 55.32, None, 61.14
+
+9.
+...(2.2) me-hua ia, pue’i=ku tanasa._
+PST-that TOP return=1SG.NOM house
+過去-那 主題 回來=1SG.主格 家
+
+#e At that time, I went home.
+#c 那時候,我回家。
+#a 61.14, None, 68.38
+
+10.
+...(0.8) ’esi ’inia cina=maku t<in>puru.\
+PROG there mother=1SG.GEN <PFV>-sit
+進行 那邊 媽媽=1SG.屬格 <完成>坐
+
+#e My mother sat there.
+#c 我媽媽在那邊坐下
+#n tupur-a 坐下!
+#a 68.38, None, 71.92
+
+11.
+...(3.2) makacang=ku m-aritakarʉ ngʉco nakʉv=in, uvungngung=ku.\
+immediately=1SG.NOM AF-take.up FIL clothes=3SG.GEN hide=1SG.NOM
+馬上=1SG.主格 主焦-拿起來 FIL 衣服=3SG.屬格 藏=1SG.主格
+
+#e I immediately took those clothes up and hide them.
+#c 我馬上把衣服拿起來又藏起來
+#a 71.92, None, 80.38
+
+12.
+...(6.9) ara-takarʉ=ku cina=maku nakʉvʉ, uvungngung=ku na mumu=in.\
+rise.up.AF=1SG.NOM mother=1SG.GEN clothes hide.AF=1SG.NOM LOC breast=3SG.GEN 
+起身.主焦=1SG.主格 媽媽=1SG.屬格 衣服 藏.主焦=1SG.主格 處所 胸部=3SG.屬格
+ 
+#e I tucked thoes clothes into my mother’s breast.
+#c 我就把衣服捆在媽媽的胸部。
+#a 80.38, None, 93.71
+
+13.
+...(0.9) makasua=cu.\
+do.like.that.AF=COS
+那樣做.主焦=COS
+
+#e That’s all
+#c 就這樣。
+#a 93.71, None, 95.47
+
+14.
+...(4.8) c<ʉm>ʉvʉrʉ=cu=ku,\
+<AF>grow=COS=1SG.NOM 
+<主焦>增長=COS=1SG.主格
+
+#a 95.47, None, 101.54
+
+15.
+...(3.0) ara-tatia=cu=ku,\
+become-big.AF=COS=1SG.NOM
+變-大.主焦=COS=1SG.主格
+
+#a 101.54, None, 105.69
+
+16.
+...(2.6) m-aripapa na-cuma=maku,\
+AF-follow ever-father=1SG.GEN
+主焦-跟隨 曾經-爸爸=1SG.屬格
+
+#a 105.69, None, 110.85
+
+17.
+...(0.9) m-oha na nʉmʉra.\
+AF-go LOC place.of.trees
+主焦-去 處所 多樹之地
+
+#e I had grown up, my father who has passed away took me into the mountains.
+#c 我已經增長了,長大了,我過去的爸爸帶著我到山上。
+#a 110.85, None, 112.95
+
+18.
+...(4.2) makasua=cu,\
+do.like.that.AF=COS
+做那樣.主焦=COS
+
+#a 112.95, None, 118.05
+
+19.
+...(0.9) m-aripapa=kua na-cuma=maku m-oha nʉmʉra._
+AF-take.along.with=1SG.OBL ever-father=1SG.GEN AF-go place.of.trees
+主焦-帶著走=1SG.斜格 曾經-爸爸=1SG.屬格 主焦-去 多樹之地
+
+#e At that time, my father always took me to the mountains.
+#c 那個時候我爸爸一直帶我去山上。
+#a 118.05, None, 122.0
+
+20.
+...(2.3) mise-n na-cuma=maku ’tupur-a nesi,\
+say-PF ever-father=1SG.GEN sit-IMP.AF here
+說-受焦 曾經-爸爸=1SG.屬格 坐下-IMP.主焦 這裡
+
+#a 122.0, None, 126.81
+
+21.
+...(0.7) c<ʉm>ʉ’ʉra ngʉco ta si-kamanʉng=maku ʉ ringee.\
+<AF>see FIL IRR IF-make=1SG.GEN FIL trap
+<主焦>看 FIL 非實現 工焦-製做=1SG.屬格 FIL 陷阱
+
+#e My father said ‘Sit here. See how I make the traps for big animals. 
+#c 我爸爸叫我在這邊坐下,說:「注意看我怎麼做大野獸的陷阱。」
+#a 126.81, None, 131.56
+
+22.
+...(1.8) m-on nia to==puru==,\
+AF-be.at there sit
+主焦-處在 那邊 坐
+
+#a 131.56, None, 135.19
+
+23.
+... ^kamanʉng cuma=ku ringee.\
+make father=1SG.GEN trap
+做 爸爸=1SG.屬格 陷阱
+
+#e I sat there for a while. My father kept making traps. 
+#c 我一直在那邊坐很久,我爸爸一直在做陷阱。
+#a 135.19, None, 138.23
+
+24.
+...(2.7) s<in>-tun pue’i=kim ’inia.\
+spend<PFV>-three return=1PL.NOM there
+過<完成>-三 回=1PL.主格 那裡
+
+#a 138.23, None, 143.22
+
+25.
+... ’ia’a ’inia ta’uro==ng, kai kai kai mise-n ta’urong.\ 
+ah there Formosan.barking.deer noise noise noise say-PF Formosan.barking.deer
+呀阿 那邊 山羌 嘎 嘎 嘎 這樣說 山羌
+
+ 
+#e We stayed there for three days. As we came back to there, ‘Wow! One muntjac.’ The muntjac bleated.
+#c 在那邊住三天,我們回到那邊. 哎呀! 一隻山羌。「嘎、嘎、嘎」山羌這樣叫。
+#n vʉrʉgʉngʉna 夜晚;nuvana 晚上;s<in>-pusan 過兩天
+#a 143.22, None, 148.54
+
+26.
+...(2.0) ma-ka-sua=cu,\
+AF-do-that=COS
+主焦-做-那個=COS
+
+#a 148.54, None, 151.29
+
+27.
+...(0.8) m-a-cang-cangarʉ cʉpʉng=maku ’ah.\
+AF-<RED>happy heart=1SG.GEN ah
+主焦-<重疊>開心 心=1SG.屬格 啊
+
+#a 151.29, None, 154.13
+
+28.
+... una-va ngʉco ni-mu-ringee.\
+EXIST-still FIL PFV-AF-trap
+主存在-還 FIL 完成-主焦-陷阱
+
+#e Then I was happy for catching a muntjac.
+#c 就這樣，我心裡很高興還有套到的(山羌)。
+#a 154.13, None, 156.5
+
+29.
+...(2.2) arane-en na-cuma=maku\ 
+From-if ever-father=1SG.GEN
+從-如果 曾經-爸爸=1SG.屬格
+
+#a 156.5, None, 160.31
+
+30.
+...(1.2) t<um>a-tuku-tuku navung=in me-pacai.\
+T<AF>-A-RED-hit head=3SG.GEN AF-die
+T<主焦>A-重疊-打 頭=3SG.屬格 主焦-死
+
+#e Dad was kept attacking its head until it died.
+#c 爸爸一直打他的頭,直到打死。
+#a 160.31, None, 164.77
+
+31.
+...(2.6) ma-ka-sua=cu,\
+AF-KA-that=COS
+主焦-KA-那=COS
+
+#a 164.77, None, 168.75
+
+32.
+...(1.6) pue’i=kim tanasa.\
+return.AF=1PL.NOM house
+回.主焦=1PL.主格 家
+
+#e Then, we went home. 
+#c 就這樣,我們就回家。
+#a 168.75, None, 172.03
+
+33.
+... sua ikim miana Kanakanavu ia,_
+NOM 1PL.NOM past Kanakanavu TOP
+主格 1PL.主格 過去 Kanakanavu 主題
+
+#a 172.03, None, 175.16
+
+34.
+... nuu ni-aracakan=ci ia,_
+if PFV-hunt=COS TOP
+如果 完成-打獵=COS 主題
+
+#a 175.16, None, 179.11
+
+35.
+... pue’i=ci tanasa ia,_
+return.AF=COS house TOP
+回.主焦=COS 家 主題
+
+#a 179.11, None, 180.92
+
+36.
+...(1.3) ara-susur-ʉn kangvang ngʉco pini-pining,\ 
+become-move-PF all FIL RED-outside
+變-移動-受焦 全部 FIL RED-廣場
+
+#a 180.92, None, 184.97
+
+37.
+... ivata=cu k<um>a-kʉn== k<um>a-kʉn,\
+come=COS FS K<主焦>A-eat 
+來=COS FS K<主焦>A-吃
+
+#a 184.97, None, 188.29
+
+38.
+...(1.6) nguai ni-vatu=cu kangvang pini-pining kangvang ma-manu mau’ura k<um>a-kʉn ngʉcoo,\
+FIL PFV-come=COS all <RED>-outside all RED-kid little K<AF>A-eat FIL 
+FIL 完成-來=COS 全部 重疊-外面 全部 重疊-孩子 小小 K<主焦>A-吃 FIL
+
+#a 188.29, None, 196.17
+
+39.
+... aramu ni-pu-ringe na-cuma=maku.\ 
+meat PFV-CAU-trap ever-father=1SG.GEN
+肉 完成-使役-陷阱 曾經-爸爸=1SG.屬格
+
+#e In the past, after we Kanakanavu people finished hunting, we went home calling our neighbors to come to eat the meat my father had caught.  
+#c 以前我們Kanakanavu人,當打獵完回家的時候,我們叫每一個家都來吃一吃我過去的爸爸套到的。
+#a 196.17, None, 200.35
+
+40.
+...(1.4) ma-ka-sua=cu.\
+AF-do-that=COS
+主焦-KA-那=COS
+
+#a 200.35, None, 202.58
+
+41.
+...(1.3) ara-tavarʉ’ʉ=cu=ku._
+become-know.AF=COS=1SG.NOM
+變-知道.主焦=COS=1SG.主格
+
+#e Then, I more understood the things.
+#c 我比較懂了。
+#n taku-tavarʉ’ʉ 懂了
+#a 202.58, None, 205.2
+
+42.
+...(1.2) pakanang=cu=ku.\
+understand.AF=COS=1SG.NOM
+懂.主焦=COS 1SG.主格
+
+#e I understood.
+#c 我懂了。
+#a 205.2, None, 207.33
+
+43.
+...(2.3) me-hua ia,_
+PST-that TOP
+過去-那 主題
+
+#a 207.33, None, 210.32
+
+44.
+...(0.7) maraa m-arang=cu na-cuma=maku.\
+more AF-old=COS ever-father=1SG.GEN 
+比較 主焦-老=COS 曾經-爸爸=1SG.屬格
+
+#e At that time, as I know things more, my father became aged.
+#c 當我比較懂事了,我的爸爸就比較老一點。
+#a 210.32, None, 214.55
+
+45.
+...(2.5) me-hua ia, m-ara-cicin=ku.\
+PST-that TOP AF-take-self=1SG.NOM
+過去-那 主題 主焦-拿-獨自=1SG.主格
+
+#a 214.55, None, 218.9
+
+46.
+... m-ohan nʉmʉra r<um>aringe.\
+AF-go place.of.trees R<AF>M-trap
+主焦-去 多樹之地 R<主焦>M-陷阱
+
+#a 218.9, None, 222.53
+
+47.
+... m-ara-cicin m-osa nʉmʉra r<um>aringe.\
+AF-take-self AF-go the.place.of.tree R<AF>A-trap
+主焦-拿-獨自 主焦-去 多樹之地 R<主焦>A-陷阱
+
+#e I went mountains making traps by myself.
+#c 那時候就自己去山上做套。
+#a 222.53, None, 228.31
+
+48.
+...(1.2) s<in>-sipatʉn pue’i=ku ’inia.\ 
+spend<PFV>-four return.AF=1SG.NOM there
+過<完成>-四 回去.主焦=1SG.主格 那邊
+
+#a 228.31, None, 232.51
+
+49.
+.. ’e ’inia takuisi ni-mu-ringe.\
+PROG there goat PFV-AF-trap
+進行 那邊 山羊 完成-主焦-陷阱
+
+#e After ten days, I went back there. I caught a goat there!
+#c 過了十天以後，我回去那，在那邊我套到山羊。
+#a 232.51, None, 235.07
+
+50.
+...(5.2) a a a m-isee ngʉcoo takuisi.\
+noise noise noise AF-say FIL goat
+嘎 嘎 嘎 主焦-說 FIL 山羊
+
+#a 235.07, None, 244.09
+
+51.
+.. ma-ka-sua=cu,\
+AF-KA-that=COS
+主焦-KA-那=COS
+
+#a 244.09, None, 245.03
+
+52.
+...(2.5) vura-’e=kua navung=in.\
+hit-PF=1SG.OBL head=3SG.GEN
+打-受焦=1SG.斜格 頭=3SG.屬格
+
+#e Then I hit its head.
+#c 然後我打他的頭。
+#a 245.03, None, 249.14
+
+53.
+...(1.7) vura-’e=kua navung=in.\
+hit-PF=1SG.OBL head=3SG.GEN
+打-受焦=1SG.斜格 頭=3SG.屬格
+
+#e I hit its head.
+#c 我打他的頭。
+#a 249.14, None, 251.95
+
+54.
+...(1.7) ha’uni ikua, ka’an=ku tatʉkʉvʉ.\
+carry 1SG.OBL NEG=1SG.NOM carry.AF
+背 1SG.斜格 否定=1SG.主格 背.主焦
+
+#e I could not carry it.
+#c 我背不動。
+#a 251.95, None, 256.2
+
+55.
+...(2.8) nakai,\
+but
+可是
+
+#a 256.2, None, 262.11
+
+56.
+...(1.9) te=maku te=maku p-ati-uru-un putu-kava.\
+FS IRR=1SG.GEN CAU-grip-first-PF askave-beast.hide
+FS 非實現=1SG.屬格 使役-抓-第一=受焦 刮-皮
+
+#a 262.11, None, 271.62
+
+57.
+...(2.5) masi ma-manʉng ngʉco ha’unun na takicu.\
+X RED-good FIL carry LOC mesh.bag
+X 重疊-好 FIL 背 處所 網袋   
+
+#e However, I knew that I had to askave the hide of the boar first, so that I could carry it with the mesh bag easily.
+#c 那時候我知道我要先剝皮, 這樣的話比較好用背網背。
+#a 271.62, None, 278.64
+
+58.
+...(1.7) ma-ka-sua=cu\
+AF-do-that=COS
+主焦-做-那個=COS
+
+#a 278.64, None, 281.36
+
+59.
+...(3.9) pue’=cu=ku tanasa ma-cang-cangarʉ na-cina=maku, na-cuma=maku ni-pue’i=cu ma-ka-sua=cu takuisi.\
+return=COS=1SG.NOM house AF-RED-happy ever-mother=1SG.GEN ever-father=1SG.GEN PFV-return=COS AF-do-that=COS goat
+回=COS=1SG.主格 家 主焦-重疊-開心 曾經-母親=1SG.屬格 曾經-父親=1SG.屬格 完成-回來=COS 主焦-做-那樣=COS 山羊
+
+#e I caught a goat. I took off its hide firstly. Then I went home. ‘You caught a goat!’ my parents said to me happily.
+#c 打到一個山羊,把皮先拿掉,就這樣回家了,他的爸媽看到他說,你打到了
+他們很高興。
+#a 281.36, None, 293.38
+
+60.
+...(1.3) ma-ka-sua=cu.\
+AF-do-that=COS
+主焦-做-那個=COS
+
+#a 293.38, None, 295.59
+
+61.
+...(3.5) ni-m-osa=ku na na ngʉcoo <L2JhetaiL2J>.\
+PFV-AF-go=1SG.NOM FS LOC FIL army
+完成¬-主焦-去=1SG.主格 FS 處所 FIL 軍隊 
+ 
+#e Then I entered the army.
+#c 就這樣我就去部隊。
+#a 295.59, None, 306.4
+
+62.
+...(4.6) m-osa=ku na <L2JhetaiL2J> pue’i=cu mintasʉ=cu=ku.\
+AF-go=1SG.NOM LOC army good=COS=1SG.NOM 
+主焦-去=1SG.主格 處所 軍隊 好=COS=1SG.主格
+
+#a 306.4, None, 314.33
+
+63.
+.. mintasʉ=cu=ku ma-ka-sua ngʉcoo tina’an=maku.\
+good=COS=1SG.NOM AF-do-that FIL body=1SG.GEN
+很有力氣=COS=1SG.主格 主焦-做-那 FIL 身體=1SG.屬格
+
+#e Then I became strong.
+#c 我的身體就那樣(有力氣)。
+#a 314.33, None, 318.41
+
+64.
+...(2.6) ma-ka-sua=cu=ku na ngʉnco cakʉran Namasia ihi na ngʉnco\
+AF-do-that=COS=1SG.NOM LOC FIL river Namasia this LOC FIL
+主焦-做-那=COS=1SG.主格 處所 FIL 河 那瑪夏 這個 處所 FIL
+
+#a 318.41, None, 330.99
+
+65.
+...(6.0) ikita Kanakanavu ia, pa-ka-si-n to-<L2Cliu siL2C>\
+1PL.NOM Kanakanavu TOP CAU-do-this-PF become-liusi
+1PL.主格 Kanakanavu 主題 使役-做-這個-受焦 變成-六溪
+  
+#e Just like this, we Kanakanavu are called liuxi because of the river.
+#c 就這樣,我們在楠梓仙溪這邊,我們卡那卡那富,就被叫做六溪。
+#a 330.99, None, 341.36
+
+66.
+.. m-o=ku ’inia r<um>aringee.\
+AF-go=1SG.NOM there R<AF>A-trap
+主焦-去=1SG.主焦 那邊 R<主焦>A-陷阱
+
+#a 341.36, None, 345.45
+
+67.
+...(2.3) pusu-ringee ikua vutun.\ 
+PUSU-trap 1SG.OBL deer
+PUSU-陷阱 1SG.斜格 鹿
+
+#e Then I caught a deer.
+#c 我就套了山鹿。
+#a 345.45, None, 349.53
+
+68.
+...(1.8) wow siree vutun tatia! mʉkʉn makai cacane ikua vutun!\ 
+wow wow deer big bind like xx 1SG.OBL deer  
+哇 哇 鹿 大 綁 像 xx 1SG.斜格 山鹿
+
+#e Oops! The deer was quite big!
+#c 哇塞！山鹿很大！
+#a 349.53, None, 357.36
+
+69.
+...(1.8) ka’an=ku tavara’ʉ ngʉnco pusa-an ’inia.\
+NEG=1SG.NOM know FIL move-PF 3SG.OBL
+否定=1SG.主格 知道 FIL 搬-受焦 3SG.斜格
+
+#a 357.36, None, 362.99
+
+70.
+...(0.8) pe-pacar-e kua.\ 
+CAU-die-PF 1SG.OBL
+使役-死-受焦 1SG.斜格
+
+#e I did not know how to move it, so I killed it.
+#c 不知道要怎麼樣搬，就用殺的。
+#a 362.99, None, 364.92
+
+71.
+...(1.6) m-ucan=ku m-okusa tanasa,\ 
+AF-go=1SG.NOM AF-go house
+主焦-去=1SG.主格 主焦-去 家
+
+#a 364.92, None, 368.58
+
+72.
+...(0.9) po-kari-kari cau.\
+say-RED-word people
+說-重疊-話語 人
+
+#e Then I went home and told people that. 
+#c 我就回家去跟人說。
+#a 368.58, None, 370.63
+
+73.
+.. sua cau ihua ia, ni-vua=maku kimparaa.\
+NOM people that TOP PFV-give=1SG.GEN money
+主格 人 那 主題 完成-給=1SG.屬格 錢
+
+#a 370.63, None, 375.19
+
+74.
+...(4.1) ni-vua=maku kimparaa si,_
+PFV-give=1SG.GEN money because
+完成-給=1SG.屬格 錢 因為
+
+#a 375.19, None, 382.02
+
+75.
+...(1.9) ’an=ku pua'an ku ’an=ku tavara’ʉ ngʉnco ma’un vutun.\
+FS FS FS NEG=1SG.NOM know FIL carry deer
+FS FS FS 否定=1SG.主格 知道 FIL 背 山鹿
+
+#e I gave money to that person because I could not carry it.
+#c 那個人我給他零錢，因為我背不動山鹿。
+#a 382.02, None, 389.7
+
+76.
+...(0.8) ma-ka-sua=cu\ 
+AF-do-that=COS
+主焦-做-那=COS
+
+#a 389.7, None, 391.33
+
+77.
+pue’i=kim tanasa._
+return=1PL.NOM.INCL house
+回去=1PL.主格.包含 家
+
+#e Then we went home.
+#c 就這樣,我們回家。
+#a 391.33, None, 394.38
+
+78.
+...(2.0) me-hua ia,_
+PST-that TOP 
+過去-那 主題
+
+#a 394.38, None, 397.68
+
+79.
+...(0.8) una pa ngʉnco pu’a ngʉnco aram.\
+EXIST yet FIL buy FIL meat
+有 還 FIL 買 FIL 肉
+
+#a 397.68, None, 403.55
+
+80.
+...(1.4) me-hua ia,_
+AF-that TOP
+主焦-那時候
+
+#a 403.55, None, 405.86
+
+81.
+...(4.0) ma-manʉng=pa ngʉnco me-hua kimparaa mara tatia=pa.\
+RED-good=yet FIL AF-that money more big=yet
+重疊-好=還 FIL 主焦-那個 比較 大=還
+
+#e It was good that money was big.
+#c 那個時候還好錢還比較大。
+#a 405.86, None, 415.89
+
+82.
+...(1.7) ma-ka-sua=cu,\
+AF-do-that=COS
+主焦-做-那樣=COS
+
+#a 415.89, None, 418.38
+
+83.
+...(3.8) s<in>-sʉpatʉn pue’i=ku nia sʉmasʉrʉcʉ,\
+take-four return=1SG.NOM there watch.the.trap
+過<完成>-四 回=1SG.主格 那裡 看套
+
+#a 418.38, None, 426.28
+
+84.
+...(3.1) po-ringee iikua mangʉrisi.\
+CAU-trap 1SG.OBL male.boar
+使役-陷阱 1SG.斜格 公山豬
+
+#e After four days, I went back there to see the traps. I caught a male boar.
+#c 然後四天後，我套到公山豬。
+#n itina 母山豬
+#a 426.28, None, 432.89
+
+85.
+...(5.0) po-ringee ikua mangʉrisi.\
+CAU-trap 1SG.NOM male.boar
+使役-陷阱 1SG.主格 公山豬
+
+#a 432.89, None, 439.67
+
+86.
+...(4.1) ka-icʉpʉ-n!\
+Wow STAT-fear-PF
+哇 狀態-怕-受焦
+	
+
+#e I caught a male boar. It looks frightening!
+#c 我套到一隻公山豬。牠非常嚇人。
+#a 439.67, None, 444.44
+
+87.
+...(1.1) nenen vanein ka-icʉpʉ-n\
+RED-what reason STAT-fear-PF
+重疊-什麼 原因 狀態-恐懼-受焦
+
+#a 444.44, None, 447.41
+
+88.
+.. sua ngʉnco_
+NOM FIL
+主焦 FIL
+	
+#e Why I felt afraid?
+#c 我為什麼會怕?
+#a 447.41, None, 448.59
+
+89.
+...(1.8) vavuru ia, noo ni-makurivi ipucʉn ia, an ka-’icʉpʉ-n\
+boar TOP if PFV-grow.outside tooth TOP NEG STAT-fear-PF 
+山豬 主題 如果 完成-外翻 牙齒 主題 否定 狀態-怕-受焦
+
+#e If the teeth of the boar grow outward, it will not be terrifying.
+#c 如果山豬的牙齒往外翻,那它不可怕。
+#a 448.59, None, 455.64
+
+90.
+... noo musutuviki mamia ia, ni-ara-papining na ivici nia iihua ia, ka-’icʉpʉ-n.\
+if protrude TOP PFV-become-out LOC mouth there that TOP STAT-fear-PF
+如果 突出 主題 完成-變-外面　處所 嘴巴 那裏 那個 主題 狀態-怕-受焦
+
+#e If the teeth of the boar protruded out around its mouth, that will be the most horrible one.
+#c 如果牙齒只有在嘴巴那裏凸出來,那個最可怕
+#a 455.64, None, 462.8
+
+91.
+...(2.4) ma-ka-sua=cu\ 
+AF-do-that=COS
+主焦-做-那樣=COS
+
+#a 462.8, None, 466.1
+
+92.
+...(1.4) pepacarʉ akua vavura ihua.\
+stab 1SG.GEN boar that
+刺 1SG.屬格 山豬 那
+
+#e Then I stabbed that boar.
+#c 就那樣,我刺那山豬。
+#a 466.1, None, 469.57
+
+93.
+...(2.0) cakʉpu iikua vavura iihua.\
+stab 1SG.NOM boar that
+刺 1SG.主格 山豬 那
+
+#e I stabbed that boar.
+#c 我刺那山豬。
+#a 469.57, None, 473.34
+
+94.
+...(1.6) macai=cu mamia._
+AF-die=COS only
+主焦-死=COS 只有
+
+#e Then it died.
+#c 就死了。
+#a 473.34, None, 476.05
+
+95.
+...(0.9) ma-ka-sua=cu\
+AF-do-that=COS
+主焦-做-那樣=COS
+
+#a 476.05, None, 477.86
+
+96.
+...(2.3) ’an=ku tatʉkʉvʉ.\
+NEG=1SG.NOM carry
+否定=1SG.主格 搬
+
+#e I could not carry it.
+#c 我又搬不動。
+#a 477.86, None, 481.79
+
+97.
+...(1.0) m-ocan=cu=ku tanasa.\
+AF-go=COS=1SG.NOM house
+主焦-走=COS=1SG.主格 家
+
+#e I went home.
+#c 我又回家了。
+#a 481.79, None, 484.36
+
+98.
+... po-kari cau ap-o’u-n nia.\ 
+say-word people CAU-carry-PF 3SG.OBL
+說-話語 人 使役-背-受焦 3SG.斜格
+
+#e I talked to a person and had him carry the boar.
+#c 我和人說話,叫他背。
+#a 484.36, None, 487.44
+
+99.
+... ap-u’-ʉn=aku ngʉnco vavuru ihua vʉn=maku kimpara vantuku ngʉnco ni-ma’un nia.\
+CAU-buy-PF=1SG.GEN FIL boar that give-PF=1SG.GEN money money FIL PFV-AF-carry 3SG.OBL 
+使役-買-受焦=1SG.屬格 FIL 山豬 那 給-受焦=1SG.屬格 錢 錢 FIL 完成-主焦-背 3SG.斜格
+
+#e I sold the boar, and I gave money to the person who carried it.
+#c 山豬拿去賣,然後我把錢給背的人。
+#a 487.44, None, 495.46
+
+100.
+...(4.2) ma-ka-sua=cu.\ 
+AF-do-that=COS
+主焦-做-那=COS
+
+#a 495.46, None, 500.42
+
+101.
+...(2.1) s<in>-sʉpatʉn pue’i=ku ’inia\
+take<PFV>-four return=1SG.NOM there
+拿<完成>-四 回去=1SG.主格 那裏
+
+#a 500.42, None, 504.7
+
+102.
+...(5.5) m-oha=ku inia c<ʉm>ʉ’ ʉra ringee=maku s<um>asʉrʉcʉ.\
+AF-go.toward=1SG.NOM there <AF>see trap=1SG.GEN S<AF>A-see
+主焦-去=1SG.主格 那裏 <主焦>看 套=1SG.屬格 看套子
+
+#e After four days, I went back there again to see my traps.
+#c 就這樣，過四天我又回去那邊，去看我的套。
+#a 504.7, None, 513.36
+
+103.
+...(4.4) u-can=cu ma\
+CN-one=COS only
+CN-一=COS 只有
+
+#a 513.36, None, 518.96
+
+104.
+...(0.9) ni-kamanʉng=maku ringee.\
+PFV-make=1SG.GEN trap
+完成-製作=1SG.屬格 套
+
+#e There was only one trap I made.
+#c 只有一個我做的套。
+#a 518.96, None, 521.49
+
+105.
+...(1.8) tara-kusa=ku 'inia akia vunʉnga.\
+see-toward=1SG.NOM there NEG.EXIST boar.trap
+看-朝向=1SG.主格 那裏 否定.存在 山豬套
+
+#e I saw around, but I didn’t see the boar trap.
+#c 我那裏到處看,沒有山豬套。
+#a 521.49, None, 526.09
+
+106.
+...(5.7) ni-mangʉtʉn=ku karu\ 
+PFV-cut=1SG.NOM tree
+完成-砍=1SG.主格 樹
+
+#e I cut the tree.
+#c 我砍樹。
+#a 526.09, None, 533.69
+
+07.
+...(2.5) ni-mangʉtʉn=ku karu\
+PFV-cut=1SG.NOM tree
+完成-砍=1SG.主格 樹
+
+#a 47.17, None, 55.32
+
+108.
+...(7.6) pata-cʉkʉ-cʉkʉ-ʉn=ku nia ngʉnco pangarʉ=maku,\
+CAU-RED-stab-PF=1SG.NOM there FIL spear=1SG.GEN  
+使役-重疊-刺=1SG.主焦 那裏 FIL 矛=1SG.屬格
+
+#a 537.47, None, 549.7
+
+109.
+...(1.6) nakai sua to’ona=maku ia, nimuriva’ʉ=ku.\
+however NOM place=1SG.GEN TOP wrong=1SG.NOM
+但是 主格 位置=1SG.屬格 主題 錯=1SG.主格
+
+#e I cut the tree, and tucked the spear into the earth. But I got the wrong way.
+#c 我砍樹,我把矛刺在地下，但是我走錯地方了。
+#a 549.7, None, 556.57
+
+110.
+...(2.0) cucuru na te=ku moon na amacara si amurucu ngʉnco vavuru._
+true originally IRR=1SG.NOM AF-stay LOC above because below FIL boar
+真的 本來 非實現=1SG.NOM 主焦-待 處所 上面 因為 下方 FIL 山豬
+
+#e Actually, I was above the boar, because the boar was below.
+#c 其實說真的,我本來在上面,因為山豬在下面。
+#a 556.57, None, 565.34
+
+111.
+...(4.7) makai, cʉ’rʉ-ʉn=maku tarisi takʉpucu mamia.\
+like.this look-PF=1SG.GEN rope round only
+這樣 看-受焦=1SG.屬格 繩子 圓圓 只
+
+#e I went to see the trap. It became round.
+#c 我去看套。是圓圓的了。
+#a 565.34, None, 573.97
+
+112.
+...(2.8) ara-sʉrʉcʉ mamia vavuru cakʉpe kua.\
+become-forward only boar stab 1SG.NOM
+變-前 只 山豬 刺 1SG.主格
+
+#e The boar showed up. I stabbed it.
+#c 山豬出現,我刺牠。
+#a 573.97, None, 580.24
+
+113.
+...(2.0) koo koo macai rangngʉt-ʉn tarisi\
+FS NEG AF-die break-PF rope
+FS 否定 沒 死 斷-受焦 繩子
+
+#a 580.24, None, 586.0
+
+114.
+...(2.0) ma-ka-sua rangngʉt-ʉn tarisi,\
+AF-do-that break-PF rope
+主焦-做-那 斷-受焦 繩子
+
+#a 586.0, None, 589.93
+
+115.
+...(6.8) rangngʉtʉn tarisi.\
+break rope
+斷 繩子
+
+#e Then, the rope broke.
+#c 就這樣,繩子斷了。
+#a 589.93, None, 597.86
+
+116.
+...(2.3) ma-ica na ngʉnco pesi=maku==.\
+AF-pass OBL FIL leg=1SG.GEN
+主焦-經過 斜格 FIL 腿=1SG.屬格
+ 
+#e The rope passed by my leg.
+#c 經過我的腿。
+#a 597.86, None, 604.18
+
+117.
+...(4.3) nakai ma-manʉng akia ngʉnco, ni-aratu’usu=kee tina’an=maku kapepe vangkavuka=maku.\
+like RED-good NEG.EXIST FIL PFV-touch=3SG.GEN body=1SG.GEN only pant=1SG.GEN
+像 重疊-好 否定.存在 FIL 完成-碰觸=3SG.屬格 身體=1SG.屬格 只有 褲子=1SG.屬格
+
+#e Luckily, I was not injured. It just touched my body and my pants.
+#c 還好沒有(受傷)。只是碰到我的身體,我的褲子。
+#a 604.18, None, 618.61
+
+118.
+...(0.9) ni ni-araresi=kee\
+FS PFV-tear=3SG.GEN
+FS 完成-撕破=3SG.屬格
+
+#e The pants was torn.
+#c 褲子破了。
+#a 618.61, None, 621.92

@@ -1,0 +1,2234 @@
+topic: holiday
+type: Narrative
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 朱阿良, kalaeh a oemaw, male, 1928-8-8
+collected: 2003-01-01
+revised: 2014-4-10
+video: SaiNr-holiday_kalaeh a 'oemaw.mp3
+
+1.
+C: isahini' kaysa'an 'ita' koSa'-en,/
+. now today 1IPL.NOM say-PF
+. 現在 今天 1IPL.主格 說-受焦
+
+#a 2.96, None, 4.35
+
+2.
+C: pasan kinolol a.\
+. holiday grave DM
+. 祭祀 墳墓 DM
+
+#e "Today is our Tombsweeping Day,"
+#c 「今天咱們來聊聊掃墓節的事。」
+#n C: 朱阿良先生, M, 77 K: 高德盛先生, M, 77
+#n Note: C: kalih a 'oemaw, M, 77K: paran a 'oemaw, M, 77
+#a 4.35, None, 5.32
+
+3.
+C: ... nimon noka== say-walo',/
+. . 2PL.GEN GEN LOC-東河
+. . 2PL.屬格 屬格 處格-東河
+
+#a 5.32, None, 7.59
+
+4.
+C: ...(0.9) nak'ino 'am==,\
+. . how FUT
+. . 如何 未來
+
+#a 7.59, None, 9.51
+
+5.
+C: ...(1.3) 'am== patabil ka kinolol ay.\
+. . FUT AF.do.worship ACC grave Q
+. . 未來 主焦.祭拜 受格 墳墓 疑問
+
+#e "How do you pay respects to the dead in Tungho?"
+#c 「你們東河的人是怎樣祭祖掃墓呢。」
+#a 9.51, None, 12.98
+
+6.
+K: ...(0.9) yami hiza so: nakhini rimrim'anan o:,\
+. . 1EPL.NOM there COND like.this dawn DM
+. . 1EPL.主格 那裡 條件詞 如此 早上 DM
+
+#a 12.98, None, 15.85
+
+7.
+K: .. isahini kaysa'an ma hoN.\
+. . now today ?? DM
+. . 現在 今天 ?? DM
+
+#e "If we go there at dawn."
+#c 「如果我們天亮時去那裡。」
+#a 15.85, None, 17.22
+
+8.
+C: ... hm,\
+. . BC
+. . BC
+
+#a 17.22, None, 17.61
+
+9.
+K: ... papaha:ih minsa'la' hiya-hiya m-insa'la',/
+. . who.comes.first AF.ahead who-RED AF-ahead
+. . 誰 主焦.先 誰-重疊 主焦-先
+
+#a 17.61, None, 20.45
+
+10.
+K: ... So: m-insa'la' kayzaeh.\
+. . COND AF-ahead AF.good
+. . 條件詞 主焦-先 主焦.好
+
+#e "Whoever arrives ahead, to arrive ahead is good."
+#c 「我們那邊如果早上 ... ... 今天呀，看看誰先到，如果最先到的就最好了。」
+#a 20.45, None, 21.67
+
+11.
+K: .. hiya' maybi:il atomal o:,\
+. . who AF.late most DM
+. . 誰 主焦.晚 最 DM
+
+#a 21.67, None, 23.12
+
+12.
+K: .. 'angang-en nasia koSa'-en 'ampowa' kin [ma'ngel nay].\
+. . scold-PF 3PL.GEN say-PF how very AF.slow Q
+. . 責罵-受焦 3PL.屬格 說-受焦 為什麼 非常 主焦.慢 疑問
+
+#e "Whoever comes last will get a scolding."
+#c 「誰最晚到，就會被罵說：『為什麼會這麼晚到呢？』」
+#a 23.12, None, 25.42
+
+13.
+C: [@ @ @]_
+. . . .
+. . . .
+
+#a
+
+14.
+K: .. nom talboewah,\
+. . for weed
+. . 為了 砍草
+
+#a 25.42, None, 26.34
+
+15.
+K: ...(0.9) isaa nak'isaza.\
+. . there like.that
+. . 那裡 像那樣
+
+#e "We do some weeding."
+#c 「然後我們就砍草。」
+#a 26.34, None, 27.73
+
+16.
+K: ... e= So: rima' yami ma' hoN,\
+. . FIL COND AF.go 1EPL.NOM also DM
+. . FIL 條件詞 主焦.去 1EPL.主格 也 DM
+
+#a 27.73, None, 29.86
+
+17.
+K: ... potngor ila saboeh.\
+. . AF.arrive PFV all
+. . 主焦.到達 完成 全部
+
+#e "Every member of the clan should be there."
+#c 「如果我們也（去掃墓），那們全姓的人就要通通都來。」
+#a 29.86, None, 31.25
+
+18.
+K: ...(0.9) 'aehae' sinraehoe' potngor ila saboeh isaa ma',/
+. . one clan AF.arrive PFV all then ??
+. . 一 氏族 主焦.到達 完成 全部 然後 ??
+
+#a 31.25, None, 33.94
+
+19.
+K: ... sizaeh XX ila tal[boewah-an] kayzaeh ila_
+. . AF.finish XX PFV weed-NMZ AF.good PFV
+. . 主焦.結束 XX 完成 <完成>砍草-名物化 主焦.好 完成
+
+#e "The weeding should have been finished (once all the clans have arrived)."
+#c 「一個姓的人全部到了，然後砍草的工作都做好了，全部的人就可以吃了。」
+#n XXX的部分聽不出實際的語音，此句解釋是發音人推測的
+#n Note: XXX portion is inaudible; the translation is an inference made by Informant.
+#a 33.94, None, 35.69
+
+20.
+C: [a=i],\
+. BC
+. BC
+
+#a 35.69, None, 36.04
+
+21.
+K: ... patabir ila,/
+. . AF.do.ritual PFV
+. . 主焦.祭祀 完成
+
+#a 36.04, None, 37.78
+
+22.
+K: ...(1.0) patabir so:.\
+. . AF.do.ritual COND
+. . 主焦.祭祀 條件詞
+
+#e "We do the rituals."
+#c 「然後就祭祖。」
+#a 37.78, None, 39.57
+
+23.
+K: ... sizaeh ila isaa ma,/
+. . AF.finish PFV then ??
+. . 主焦.結束 完成 然後 ??
+
+#a 39.57, None, 40.79
+
+24.
+K: .. 'a-'ayna:a' yami_
+. . RED-AF.wait 1EPL.NOM
+. . 重疊-主焦.等 1EPL.主格
+
+#a 40.79, None, 41.93
+
+25.
+K: ... to:o' sinraehoe'./
+. . three clan
+. . 三 氏族
+
+#e "After we finish (weeding), we wait for the others. There are three clans altogether."
+#c 「祭拜完了，然後我們（每一個人）就等三個姓的人通通到齊。」
+#n isaa ma 是固定用語。
+#n Note: isaa ma is a fixed expression.
+#a 41.93, None, 43.17
+
+26.
+C: ... o:,\
+. . BC
+. . BC
+
+#a 43.17, None, 43.96
+
+27.
+K: .. m==_
+. . FIL
+. . FIL
+
+#a 43.96, None, 44.35
+
+28.
+K: ... kaybaybaw o: baba:i',/
+. . Kao.clan DM Feng.clan
+. . 高姓 DM 風姓
+
+#e "The Kaybaybaws and the Babais."
+#c 「（等）高姓跟風姓的人（來）。」
+#a 44.35, None, 45.72
+
+29.
+C: ... a=,\
+. . BC
+. . BC
+
+#a 45.72, None, 46.34
+
+30.
+K: .. sizaeh ila saboeh 'a-'ayna:a' sizaeh saboeh m-wa:i' ila,\
+. . AF.finish PFV all RED-AF.wait AF.finish all AF-come PFV
+. . 主焦.結束 完成 全部 重疊-主焦.等 主焦.結束 全部 主焦-來 完成
+
+#a 46.34, None, 48.66
+
+31.
+K: .. m-wa:i' o: rihani' ba:ala'./
+. . AF-come DM here river
+. . 主焦-來 DM 這裡 河
+
+#e "We wait for everybody. Once everybody has finished, we come to the river."
+#c 「(每一個人就地)等全部的人都到齊，來到河邊這兒。」
+#a 48.66, None, 49.96
+
+32.
+C: ... m==_
+. . BC
+. . BC
+
+#a 49.96, None, 50.54
+
+33.
+K: (0) maray aleb a==.\
+. . AF.pass bridge DM
+. . 主焦.經過 橋 DM
+
+#e "We pass by the bridge."
+#c 「過橋 ... ... 」。
+#a 50.54, None, 51.17
+
+34.
+C: ... a==,/
+. . DM
+. . DM
+
+#a 51.17, None, 52.14
+
+35.
+K: .. isaa o: kaspinatabil hiza tektek-en saboeh_
+. . ?? DM things.for.offering there cut-PF all
+. . ?? DM 祭品 那裡 剁-受焦 全部
+
+#a 52.14, None, 54.25
+
+36.
+K: ...(0.9) [si']ael-en ila risaza.\
+. . eat-PF PFV there
+. . 吃-受焦 完成 那裡
+
+#e "The food to be offered has to be cut/sliced."
+#c 「然後把祭品全部剁成一塊一塊，然後吃掉。」
+#n isaa o: 是固定用語，是出現在句首的篇章標記。
+#n Note: isaa o: is a fixed expression, usually a discourse marker occurs in clause initial.
+#a 54.25, None, 56.15
+
+37.
+C: [uh=]
+. FIL
+. FIL
+
+#a 56.15, None, 56.36
+
+38.
+C: (0) paplange:-en noka saboeh_
+. . share-PF GEN all
+. . 分配-受焦 屬格 全部
+
+#e "Everything will be shared among everybody."
+#c 「大家分著吃。」
+#a 56.36, None, 57.39
+
+39.
+K: .. ehe,/
+. . BC
+. . BC
+
+#a 57.39, None, 57.82
+
+40.
+K: ... So: sizaeh ila isaa ma' tabin_
+. . COND AF.finish PFV ?? then until
+. . 條件詞 主焦.結束 完成 ?? 然後 到
+
+#a 57.82, None, 59.93
+
+41.
+K: .. 'amet isa lobih ila.\
+. . finish there AF.return PFV
+. . <主焦>結束 那裡 主焦.回去 完成
+
+#e "Right. After eating we return home."
+#c 「吃完然後就回家了。」
+#a 59.93, None, 61.19
+
+42.
+C: ... a=,\
+. . BC
+. . BC
+
+#a 61.19, None, 62.18
+
+43.
+K: .. nak kakhayza'an : nakhara',/
+. . like before [Man] like
+. . 像 以前 是 好像
+
+#a 62.18, None, 63.63
+
+44.
+K: ...(1.2) wa'-wa'isan ra'oe ka pinobae:aeh 'akoy ka pinobae:aeh tabin_
+. . RED-good.at drink ACC wine AF.many NOM wine until
+. . 重疊-很會 <主焦>喝 受格 酒 主焦.很多 主格 酒 到
+
+#a 63.63, None, 67.34
+
+45.
+K: ..  .. san--  o: aw'itol ma' isaa.\
+. . [Man] . FS [Jap] DM around then ??
+. . 三點 . FS 三時 DM 左右 然後 ??
+
+#e "People used to be good drinkers and used to drink a lot until around three in the afternoon."
+#c 「像以前呀，很多人都很會喝酒；酒有很多，喝到三點左右。」
+
+#n IU45有問題
+#a 67.34, None, 69.9
+
+46.
+C: [@]
+. .
+. .
+
+#a 69.9, None, 70.1
+
+47.
+C: haysia [XX @ @].\
+. still XX . .
+. 仍然 XX . .
+
+#e '(They were) still (drinking).'
+#c 「還在（喝），哈哈。」
+#a 70.1, None, 70.86
+
+48.
+K: [XX @ @]
+. XX . .
+. XX . .
+
+#a 70.86, None, 71.84
+
+49.
+K: ...(1.0) isaa isahini kayzaeh so: 'aehae' taew'an 'aehae'_
+. . DM now AF.good COND one family one
+. . 然後 現在 主焦.好 條件詞 一 家 一
+
+#a 71.84, None, 74.95
+
+50.
+K: ... kinae'hae'an ma' isaa.\
+. . one.bottle then ??
+. . 一瓶 然後 ??
+
+#e "Now the situation is much better. So if each household brings one bottle, "
+#c 「 ... ... 然後，如果一家（帶）一瓶酒的話，然後 ... ... ,」
+#a 74.95, None, 76.08
+
+51.
+K: ... 'al'alak hara ra'oe,/
+. . youth like drink
+. . 年輕人 像 <主焦>喝
+
+#a 76.08, None, 77.93
+
+52.
+K: .. o: wa'wa'isan saboeh.\
+. . DM good.at all
+. . DM 很會 都
+
+#e  "The young people were very good drinkers. (There might not be enough wine.)"
+#c 「年輕人這樣喝酒好像（每個人）都很行。」
+#n wa'isan 'strong' 強、強壯, wa'wa'isan 'be good at' 很會、好手
+#n Note: wa'isan 'strong', wa'wa'isan 'be good at'
+#a 77.93, None, 78.96
+
+53.
+C: ...(1.8) 'oka' ila o: XX ka==_
+. . otherwise ?? DM XX FIL
+. . 不然的話 ?? DM XX FIL
+
+#a 78.96, None, 82.04
+
+54.
+C: .. hiza ka pinatabir,\
+. . there NOM AF.do.ritual
+. . 那裡 主格 主焦.拜拜
+
+#a 82.04, None, 83.25
+
+55.
+C: ... taka'ino'-on nimon,/
+. . what.to.do-PF 2PL.GEN
+. . 怎麼樣.受焦 2PL.屬格
+
+#a 83.25, None, 84.57
+
+56.
+C: ...(0.9) talsasaboeh-en ay XX./
+. . share-PF Q XX
+. . 共享-受焦 疑問 XX
+
+#e "Otherwise, what are you going to do with the food but to share them with everybody?"
+#c 「不然的話，那個拜過的東西你們怎麼弄 ... ... （大家一起）享用嗎？」
+#a 84.57, None, 86.58
+
+57.
+K: ... o,\
+. . DM
+. . DM
+
+#a 86.58, None, 87.09
+
+58.
+C: ai=,\
+. BC
+. BC
+
+#a 87.09, None, 87.34
+
+59.
+K: ... ma=,\
+. . DM
+. . DM
+
+#a 87.34, None, 88.45
+
+60.
+C: ...(1.5) sa'sa'eh ka mae'iyaeh ma==',\
+. . every LNK person DM
+. . 每 連詞 人 DM
+
+#a 88.45, None, 91.44
+
+61.
+C: .. 'iska nonak baiw.\
+. . each self AF.buy
+. . 每 自己 主焦.買
+
+#e "Everybody buys his own things to offer."
+#c 「每個人買自己的東西。」
+#a 91.44, None, 92.55
+
+62.
+K: ... iska nonak baiw ni[ya]'om,\
+. . each self AF.buy 1EPL.GEN
+. . 每 自己 主焦.買 1EPL.屬格
+
+#a 92.55, None, 94.03
+
+63.
+C: [m==]
+. BC
+. BC
+
+#a 94.03, None, 94.38
+
+64.
+K: .. 'am 'akoy ma' 'akoy hara.\
+. . FUT many also AF.many like
+. . 未來 多 也 主焦.多 像
+
+#e "If you want to buy more you can buy more."
+#c 「我們自己要買多也可以買多，像 ... ... 。」
+#a 94.38, None, 95.96
+
+65.
+C: .. a==,\
+. . DM
+. . DM
+
+#a 95.96, None, 96.44
+
+66.
+K: ... tata'a==,/
+. . chicken
+. . 雞
+
+#a 96.44, None, 97.56
+
+67.
+K: ... 'aeyam_
+. . pork
+. . 豬肉
+
+#a 97.56, None, 98.68
+
+68.
+K: ..._ 
+. . [Man]
+. . 還有
+
+#a 98.68, None, 99.41
+
+69.
+K: ...(0.8)   hoN.\
+. . anyway[Jap] three.kinds[Man] [Man] DM
+. . 反正 三牲 啦 DM
+
+#e "Chicken, pork, or anything, as long as there are three kinds."
+#c 「雞啊，豬肉呀，還有 ... ... 反正三牲就是啦。」
+#a 99.41, None, 101.35
+
+70.
+C: .. o=,\
+. . BC
+. . BC
+
+#a 101.35, None, 101.91
+
+71.
+K: .. hara==_
+. . like
+. . 像
+
+#a 101.91, None, 102.61
+
+72.
+K: .. to:o' sinraehoe',\
+. . three kinds
+. . 三 種
+
+#e "Three kinds of offerings."
+#c 「諸如三牲啦，」
+#a 102.61, None, 103.57
+
+73.
+C: ...(1.3) oh_
+. . BC
+. . BC
+
+#a 103.57, None, 105.02
+
+74.
+K: .. o ?? ?? ??,\ 
+. . DM [Man] [Man] [Man]
+. . DM 還有 水果 啦
+
+#e "Also fruits."
+#c 「還有水果啦，」
+#a 105.02, None, 106.53
+
+75.
+C: oh==,\
+. BC
+. BC
+
+#a 106.53, None, 106.81
+
+76.
+K: ... ??
+. . [Man]
+. . 還有
+
+#a 106.81, None, 107.65
+
+77.
+K: ... tintinawbon hara'_
+. . ricecake like
+. . 米糕類 像
+
+#e "And ricecakes."
+#c 「還有像糯米糕。」
+#a 107.65, None, 109.03
+
+78.
+C: .. oh==,\
+. . BC
+. . BC
+
+#a 109.03, None, 109.43
+
+79.
+K: .. isaa baiw ka isaa si-patabir ??,\ 
+. . then AF.buy ACC that RF-offer [Jap]after
+. . 就 主焦.買 受格 那些 指焦-祭拜 之後
+
+#a 109.43, None, 111.0
+
+80.
+K: .. si'ael-en saboeh_
+. . eat-PF all
+. . 吃-受焦 全部
+
+#e "You buy the food for offering, and then eat them afterwards."
+#c 「然後就買那些東西來祭拜，之後就把那些吃光光。」
+#a 111.0, None, 112.34
+
+81.
+C: .. oh==,\
+. . BC
+. . BC
+
+#a 112.34, None, 112.59
+
+82.
+K: .. 'okay alibih ray taew'an.\
+. . NEG AF.take.home LOC home
+. . 沒有 主焦.帶回 處格 家
+
+#e  "You never take them home."
+#c 「沒有帶回家。」
+#a 112.59, None, 113.7
+
+83.
+C: ... oh_
+. . BC
+. . BC
+
+#a 113.7, None, 114.36
+
+84.
+C: ...(1.7) 'oka' i: kosa==_
+. . NEG LNK AF.say
+. . 沒有 連詞 主焦.說
+
+#e "Nobody says (you can't take them home)."
+#c 「沒有說（可以帶回家）。」
+#a 114.36, None, 117.27
+
+85.
+C: .. a== isikil== s==inraehoe' hiza'_
+. . FIL NEG.with clan there
+. . FIL 不跟 氏族 那裡
+
+#e "We don't distinguish between different clans."
+#c 「沒有說跟其他姓的人區分。」
+#a 117.27, None, 119.45
+
+86.
+C: ...(1.1) i== moyo,/
+. . FS 2PL.NOM
+. . FS 2PL.主格
+
+#a 119.45, None, 121.29
+
+87.
+C: .. 'aehae' sinraehoe' hiza ma_
+. . one clan there DM
+. . 一 氏族 那裡 DM
+
+#a 121.29, None, 122.42
+
+88.
+C: .. ma==,\
+. . DM
+. . DM
+
+#a 122.42, None, 123.22
+
+89.
+C: ... ta si-sa-saboeh-en no isaa==,\
+. . exhort RF-RED-all-PF DAT that
+. . exhort 指焦-重疊-大家一起-受焦 予格 那
+
+#a 123.22, None, 124.68
+
+90.
+C: ...(0.8) si-sa-baiw ka== isaa ka patabir o:.\
+. . RF-SA-buy ACC those LNK offering DM
+. . 指焦-SA-買 受格 那些 連詞 祭品 DM
+
+#e "One clan helps buy the things needed for everybody"
+#c 「你們那邊一個姓的人替其他人買祭品給大家。」
+#a 124.68, None, 127.64
+
+91.
+K: (0) 'oka' yami 'okay sa-seme: ka rayhil_
+. . NEG 1EPL.NOM NEG Ca-AF.contribute ACC money
+. . 沒有 1EPL.主格 沒有 Ca重疊-主焦.捐 受格 錢
+
+#e "No. We don't contribute money."
+#c 「我們這兒是沒有捐錢的。」
+#a 127.64, None, 129.18
+
+92.
+C: (0) m==,\
+. . BC
+. . BC
+
+#a 129.18, None, 129.54
+
+93.
+K: .. sason ray== a_
+. . there LOC FIL
+. . 那裡 處格 FIL
+
+#a 129.54, None, 130.79
+
+94.
+K: .. a pasbaki' nara ka rayhil sisiroton,\
+. . FIL AF.do.ritual COND NOM money RF.contribute
+. . FIL 主焦.祖靈祭 條件詞 主格 錢 指焦.蒐集
+
+#a 130.79, None, 132.88
+
+95.
+K: ... hiza pasankinolol nonak ba:iw koza'.\
+. . that sweep.tomb self buy how.much
+. . 那個 掃墓節 自己 買 多少
+
+#e "We contribute money for the pasbaki celebration. But we buy for our own on tombsweeping."
+#c 「在那裡 ... ... 啊 ... ... 祖靈祭的話錢就蒐集在一起；那個是掃墓節，自己買多少（就多少）。」
+#n raroton af 'gather 收集, si-roton rf 'gather 收集', sisiroton 'contribute 捐獻'
+#n Note: raroton af 'gather, si-roton rf 'gathre', sisiroton 'contribute'
+#a 132.88, None, 135.54
+
+96.
+C: .. m,\
+. . BC
+. . BC
+
+#a 135.54, None, 135.88
+
+97.
+K: .. aras-en si-patabir_
+. . take-PF RF-offer
+. . 帶去-受焦 指焦-祭拜
+
+#e "Take them to be offered."
+#c 「東西帶過去拜拜，」
+#a 135.88, None, 137.04
+
+98.
+K: ... lobih isaa\
+. . AF.return then
+. . 主焦.回來 然後
+
+#e "Then come home."
+#c 「然後回來家裡，」
+#a 137.04, None, 137.92
+
+99.
+C: .. sia,\
+. . 3SG.NOM
+. . 3SG.主格
+
+#a 137.92, None, 138.26
+
+100.
+K: (0) si'ael-en saboeh_
+. . eat-PF all
+. . 吃-受焦 全部
+
+#e "Then consume everything."
+#c 他們把東西全部吃完。
+#a 138.26, None, 138.92
+
+101.
+C: ... a-- [XX]_
+. . FS XX
+. . FS XX
+
+#a 138.92, None, 140.06
+
+102.
+K: ['okay alibih ka==] ray taew'an\
+. NEG AF.take ACC LOC home
+. 沒有 主焦.帶回 受格 處格 家
+
+#e "Never taking them home."
+#c 「沒有（把祭品）帶回家裡。」
+#a 140.06, None, 140.9
+
+103.
+C: .. uhN,\
+. . BC
+. . BC
+
+#a 140.9, None, 141.03
+
+104.
+K: ... hiya' m-alibih ma' isaa itayso'-on_
+. . who AF-take also there ignore-PF
+. . 誰 主焦-帶回 也 就 不管-受焦
+
+#e "We don't care if somebody takes them home."
+#c 「如果有誰（把祭品）帶回家，（我們）也不會管。」
+#a 141.03, None, 143.2
+
+105.
+K: So: 'am m-a[libih] ka alibih o: isaa_
+. COND FUT AF-take ACC AF.take.IMP DM that
+. 條件詞 未來 主焦-帶回 主格 主焦.帶.祈使 DM 那
+
+#e "What needs to be taken home should be taken home."
+#c 「如果要帶回去家裡，也可以（讓他們）帶回家裡。」
+#a 143.2, None, 144.53
+
+106.
+C: [ai==]
+. DM
+. DM
+
+#a
+
+107.
+C: .. eh,\
+. . DM
+. . DM
+
+#a 144.53, None, 144.96
+
+108.
+K: .. noka 'inaz'azema komoSa: sia ila hiza marke.\
+. . GEN conscience FIL 3SG.NOM PFV there miser
+. . 屬格 思想 FIL 3SG.NOM 完成 那裡 小氣鬼
+
+#e "(We know) he's a miser."
+#c 「（我們）心裡就會想說：『他是個吝嗇鬼。』」
+#a 144.96, None, 146.91
+
+109.
+K: [@@]
+. .
+. .
+
+#a 146.91, None, 147.57
+
+110.
+C: [@@]@
+. .
+. .
+
+#a 147.57, None, 148.59
+
+111.
+K: [XX--]
+. .
+. .
+
+#a 148.59, None, 148.92
+
+112.
+C: [XX--]
+. .
+. .
+
+#a 148.92, None, 149.35
+
+113.
+C: .. niyaom rini raremewan ??_ 
+. . 1EPL.GEN here PN [Man]
+. . 1EPL.屬格 這裡 向天湖 是
+
+#a 149.35, None, 151.07
+
+114.
+C: ... kosa yami paspaso: sinraehoe',\
+. . FIL 1IPL.NOM every clan
+. . FIL 1IPL.主格 每 氏族
+
+#e "Here in Xiangtianhu, each clan buys their own things for offering."
+#c 「我們向天湖這兒是 ... ... 我們每個姓的人呀 ... ... 。」
+#a 151.07, None, 152.94
+
+115.
+K: ... ah'\
+. . BC
+. . BC
+
+#a 152.94, None, 153.51
+
+116.
+C: ... o== to:o' sinraehoe' hini rini raremewan\
+. . FIL three clan here here PN
+. . FIL 三 氏族 這裡 這裡 向天湖
+
+#e "There are three clans here in Xiangtianhu."
+#c 「向天湖這兒有三個姓 ... ..。」
+#a 153.51, None, 156.06
+
+117.
+C: ... noka sayna'ase: lasia ma' isaa,\
+. . GEN Chiung 3PL.NOM then ??
+. . 屬格 芎姓 3PL.主格 然後 ??
+
+#a 156.06, None, 158.06
+
+118.
+C: ...(0.7) lasia nonak mak-sasome ba:iw.\
+. . 3PL.NOM self AF-contribute AF.buy
+. . 3PL.主格 自己 主焦-捐錢 主焦.買
+
+#e "The Sayna'ases contribute money to buy the things they need."
+#c 「然後芎姓他們 ... ... 他們自己捐錢來買東西。」
+#a 158.06, None, 160.3
+
+119.
+C: ... []
+. . . 1EPL.NOM Chu .
+. . . 1EPL.主格 朱姓 .
+
+#e "We titiun ... "
+#c 「我們朱家呀 ... ... 」
+
+#n IU119文字有問題
+#a
+
+120.
+K: ... [XX]
+. . XX
+. . XX
+
+#a 160.3, None, 161.83
+
+121.
+C: ... ai== titiyon m-wa:i' kanyami_
+. . BC Chu AF-come 1EPL.LOC
+. . BC 朱姓 主焦-來 1EPL.處格
+
+#e "The Sayna'ases come to us Titiuns."
+#c 「芎姓的人來朱家這兒，我們 ... ...。 」
+#a 161.83, None, 163.22
+
+122.
+C: ... sememel ka rayhil 'oyae ba:iw.\
+. . AF.contribute ACC money together AF.buy
+. . 主焦.捐 受格 錢 一起 主焦.買
+
+#e "We Titiuns also contribute money and buy the things together."
+#c 「我們朱家捐錢(給他們)，也一起買東西。」
+#a 163.22, None, 165.37
+
+123.
+K: .. a==_
+. . BC
+. . BC
+
+#a 165.37, None, 165.65
+
+124.
+C: .. tilsa saboeh_
+. . ?? all
+. . ?? 一起
+
+#e "We help each other."
+#c 「一塊兒(買)。」
+#a 165.65, None, 166.37
+
+125.
+K: ... 'aehae',\
+. . one
+. . 一
+
+#a 166.37, None, 167.05
+
+126.
+K: .. anoka baba:i' ma' nak'isaa 'oyae.\
+. . GEN Feng also like.that together
+. . 屬格 風 也 像那樣 也
+
+#e "The Babai clan also does that."
+#c 「風家他們也是那樣做的。」
+#n line 126 音與 transcription 有差異
+#n Note: transcription of IU126 is different from sound file.
+#a 167.05, None, 168.34
+
+127.
+C: ... nak isaa o:_
+. . like that DM
+. . 像 那樣 DM
+
+#e "I see."
+#c 「那樣喔。」
+#a 168.34, None, 169.16
+
+128.
+K: (0) a==_
+. . BC
+. . BC
+
+#a 169.16, None, 169.63
+
+129.
+C: ... isaso==,\
+. . there
+. . 那裡
+
+#a 169.63, None, 170.95
+
+130.
+C: ...(1.0) nak kaysa'an hara_
+. . like today like
+. . 像 今天 像
+
+#a 170.95, None, 172.8
+
+131.
+C: ... ma==,\
+. . then
+. . 然後
+
+#a 172.8, None, 173.99
+
+132.
+C: .. So:,\
+. . COND
+. . 條件詞
+
+#a 173.99, None, 174.76
+
+133.
+C: .. hiya'_
+. . who
+. . 誰
+
+#a 174.76, None, 175.11
+
+134.
+C: ...(0.9) pinabilis ka rayhil ma' isaa,\
+. . AF.take.charge ACC money then ??
+. . 主焦.負責 受格 錢 然後 ??
+
+#a 175.11, None, 177.6
+
+135.
+C: ... isaa rima' ba:iw ka==.\
+. . there AF.go AF.buy ACC
+. . 那裡 主焦.去 主焦.買 受格
+
+#e "The person in charge of the money has to buy the things."
+#c 「像 ... ... 像今天 ... ... 誰負責這筆錢，就(負責)去買東西。」
+#a 177.6, None, 179.04
+
+136.
+K: ...(0.8) o=
+. . BC
+. . BC
+
+#a 179.04, None, 179.92
+
+137.
+C: ... a=,\
+. . FIL
+. . FIL
+
+#a 179.92, None, 180.81
+
+138.
+C: ...  hiza,\
+. . [Man]matter that
+. . 東西 那個
+
+#a 180.81, None, 181.84
+
+139.
+C: ...(0.8) isaa_
+. . FIL
+. . FIL
+
+#a 181.84, None, 182.84
+
+140.
+C: ...(1.2) nak niya'om noka==,\
+. . like 1EPL.GEN GEN
+. . 像 1EPL.屬格 屬格
+
+#a 182.84, None, 185.12
+
+141.
+C: ... titiyon zeh--_
+. . Chao FS
+. . 朱姓 FS
+
+#a 185.12, None, 186.32
+
+142.
+C: .. hisia kama==_
+. . 3SG.NOM KAMA
+. . 3SG.受格 KAMA
+
+#a 186.32, None, 187.07
+
+143.
+C: .. hao la==,\
+. . there 3SG..NOM
+. . 那裡的人 3SG.主格
+
+#a 187.07, None, 187.86
+
+144.
+C: .. makbowa kil,\
+. . uncle(pn) and
+. . bowa叔叔 和
+
+#a 187.86, None, 189.01
+
+145.
+C: ... iro: e:won lasia to:o',/
+. . PN PN 3PL.NOM three
+. . 人名 人名 3PL.主格 三
+
+#a 189.01, None, 191.5
+
+146.
+C: ...(0.8) kama rima' baiw.\
+. . KAMA go.AF buy.AF
+. . KAMA 去.主焦 買.主焦
+
+#e "In our Tition clan, the persons in charge of buying the things are Uncle Makbowa, Iro:, and Ewo:n."
+#c 「像我們朱家是 ... .恩 ... .Bowa叔叔跟Iro還有Ewon他們三個專門負責去買東西。」
+#n la==是lasia未講完整；iro:此人為朱先生之弟弟，也是朱先生弟弟的女兒的名字。
+Note: la== is a truncation/incompleted utterance of lasia.
+iro: is Chu's younger brother; daughter of Chu's younger brother
+#a 191.5, None, 192.93
+
+147.
+K: ai==,\
+. BC
+. BC
+
+#a 192.93, None, 193.44
+
+148.
+C: ... a-- So: baiw-in ma' isaa,\
+. . FS COND buy-PF then ??
+. . FS 條件詞 買-受焦 然後 ??
+
+#a 193.44, None, 195.11
+
+149.
+C: ...(1.0) baiw-in m-wa:i' aras-en ila rini raremewan_
+. . buy-PF AF-come take-PF PFV here PN
+. . 買-受焦 主焦-來 帶-受焦 完成 這裡 向天湖
+
+#e "After buying the things, they take them here to Xiangtianhu."
+#c 「買到了然後就帶到向天湖這裡。」
+#a 195.11, None, 198.11
+
+150.
+C: ... yami' hini ka==,\
+. . 1EPL.NOM here NOM
+. . 1EPL.主焦 這裡 主格
+
+#a 198.11, None, 199.53
+
+151.
+C: ... kama== talek ka== 'aeyam_
+. . KAMA cook ACC meat
+. . KAMA <主焦>煮 受格 豬肉
+
+#a 199.53, None, 202.29
+
+152.
+C: ...(0.9) ka== tinawbon hara ka katawbonon_
+. . ACC rice.cake like ACC rice
+. . 受格 糯米糕 像 受格 糯米
+
+#e "We here take care of cooking the meat and the rice-cakes."
+#c 「我們這裡負責煮豬肉和糯米糕。」
+#a 202.29, None, 205.71
+
+153.
+K: (0) isaso: kas-patabir 'aras-en ray taew'an_
+. . there KAS-offer take-PF LOC home
+. . 在那裡 KAS-<完成貌>祭拜 帶-受焦 處格 家
+
+#a 205.71, None, 207.38
+
+154.
+K: rini si'ael-en_
+. here eat-PF
+. 這裡 吃-受焦
+
+#a 207.38, None, 208.07
+
+155.
+K: ray'isaso ray kakololan.\
+. there LOC grave
+. 在那裡 處格 墓園
+
+#e "Do you take the food offerings home, or eat them there at the graveyard?"
+#c 「把祭拜過的東西帶到家裡吃,還是在墓園那裡吃?」
+#a 208.07, None, 208.12
+
+156.
+C: (0) 'oka' a risaso ri=
+. . NEG FIL there FS
+. . 沒有 FIL 那裡 FS
+
+#e "No. (We eat them) there."
+#c 「沒有。(我們在)那裡(吃)。」
+#n 以上三句不清楚
+#n Note: last three sentences are not clear.
+#a 208.12, None, 209.58
+
+157.
+K: (0) ray kinkinololan zi'saza_
+. . LOC grave there
+. . 處格 舊墓 那裡
+
+#a 209.58, None, 210.66
+
+158.
+K: ...(0.9) ma== sipaplangi anoka== saboeh.\
+. . DM divide GEN all
+. . DM 一起 屬格 全部
+
+#e "Everybody takes the food to the graveyard where we gather to eat."
+#c 「大家把食物帶到舊墓那裡一起吃。」
+#a 210.66, None, 214.14
+
+159.
+C: ...(0.8) e== pa'apol ri'saza,\
+. . FIL CAU-distribute there
+. . FIL 使役-分 那裡
+
+#a 214.14, None, 216.24
+
+160.
+C: ...(0.8) so: hiya koSa:_
+. . COND who say
+. . 條件詞 誰 <主焦>說
+
+#e "The food is distributed to everyone."
+#c 「在那裡就地分。」
+#a 216.24, None, 217.89
+
+161.
+C: .. 'okay 'amet-i ma' isaa,/
+. . NEG finish-PF then ??
+. . 沒有 結束-受焦 就 ??
+
+#a 217.89, None, 219.34
+
+162.
+C: ...(0.9) alibih-in isaa so:_
+. . take.home-PF there ??
+. . 帶.家-受焦 那裡 ??
+
+#e "Leftover food is taken home."
+#c 「沒有吃完就可以帶回家。」
+#a 219.34, None, 221.5
+
+163.
+C: ...(1.3) hiya' nihiya' 'amet-en ma' isaa_
+. . who who.GEN finish-PF then ??
+. . 誰 誰.屬格 結束-受焦 就 ??
+
+#e "(It is good) if one's food is entirely consumed."
+#c 「吃完(是最好)。」
+#a 221.5, None, 224.36
+
+164.
+C: ...(1.5) ma==,\
+. . DM
+. . DM
+
+#a 224.36, None, 226.18
+
+165.
+C: .. 'amet-en_
+. . finish-PF
+. . 結束-受焦
+
+#a 226.18, None, 226.91
+
+166.
+C: .. hiza,\
+. . there
+. . 那裡
+
+#a 226.91, None, 227.59
+
+167.
+C: ...(0.9) haysani ila sa' isaa.\
+. . now PFV DM that
+. . 現在 完成 往年 ??
+
+#e "Nowadays it's not the same anymore
+#c 「現在沒有那樣了。」
+#n sa' isaa在此指'往年', sa' isaa here refers to 'previous years'
+#a 227.59, None, 229.25
+
+168.
+C: .. 'a'akoy ila ka==,\
+. . many PFV FIL
+. . 太多 完成 FIL
+
+#a 229.25, None, 230.61
+
+169.
+C: ...(0.8) 'ae-'aewhaey so: rima' pa-baiw-in.\
+. . RED-AF.bad COND AF.go CAU-buy-PF
+. . 重疊-主焦.不好 條件詞 主焦.去 使役-買-受焦
+
+#e "It's not good to buy too much meat."
+#c 「買太多不好。」
+#a 230.61, None, 232.85
+
+170.
+C: ...(1.0) aeyam hayza o: lampez tintin sam'iyaeh tintin hini'\
+. . meat EXIST DM ten kilo twenty kilo this
+. . 豬肉 有剩 DM 十 斤 二十 斤 這樣
+
+#e "If you need to buy meat, there will be around ten to twenty kilos."
+#c 「如果買個十斤二十斤的豬肉。」
+#a 232.85, None, 237.29
+
+171.
+C: ...(0.8) hini 'aehae' so: kik haebae:aen ka mae'iyaeh m-wa:i' isaa pa'apol-on hini 'am ino'an nanaw poa'aw 'am amet/
+. . this one COND NEG AF.many NOM man AF-come FIL distribute-PF here FUT how only how.come FUT AF.finish
+. . 這個 一 條件詞 不 主焦.多 主格 人 主焦-來 FIL <完成>分-受焦 這裡 未來式 如何 只 如何.來 未來式 主焦.結束
+
+#e "How could you consume everything if you buy too much food?"
+#c 「如果沒有太多人來,那如何吃完所有的東西呢?」
+#a 237.29, None, 242.93
+
+172.
+C: ...(0.9) isaa ma' isaa' alibih-in ray taew'an.\
+. . then DM that take-PF LOC home
+. . 然後 DM 那 帶-受焦 處格 家
+
+#e "You have to take them home."
+#c 「要把它們帶到家裡。」
+#a 242.93, None, 245.3
+
+173.
+K: .. ay 'a'-apol-on naehaen ay so: m-wa:i' inaray kinololan./
+. . INT RED-distribute-PF still Q COND AF-come from grave
+. . 感嘆 重疊-分-受焦 還要 嗎 條件詞 主焦-來 從 墓地
+
+#e "From the graveyard, are the food taken home still going to be distributed?"
+#c 「如果從墓地回來,還要再分(帶回家的食物)嗎?」
+#a 245.3, None, 247.75
+
+174.
+C: (0) ma rihaw ray kinkinololan . XX . [hi-]hiwae-en [hi-]hiwae-en.\
+. . DM there LOC grave . XX . RED-cut-PF RED-cut-PF
+. . DM 在那兒 處格 墓園 . XX . 重疊-切-受焦 重疊-切-受焦
+
+#e "They are sliced at the graveyard."
+#c 「在墓園那裡切成一塊一塊的。」
+#a 247.75, None, 249.64
+
+175.
+K: [a=] [XX] o:,/
+. DM XX DM
+. DM XX DM
+
+#a 249.64, None, 250.85
+
+176.
+C: .. 'a'ap--,/
+. . FS
+. . FS
+
+#a 250.85, None, 251.3
+
+177.
+C: .. pa'a'apol a risao ka 'ima==,\
+. . AF.distribute FIL there ACC PROG
+. . 主焦.分 FIL 那裡 受格 進行
+
+#a 251.3, None, 253.19
+
+178.
+C: .. ra-roton risa.\
+. . Ca-AF.gather there
+. . Ca重疊-AF.集中 那裡
+
+#e "Then they are distributed to the people gathered there."
+#c 「就集中在那兒分東西。」
+#a 253.19, None, 254.27
+
+179.
+C: ...(1.1)  nakhini 'am patabir ma isaa,/
+. . [Man] like.this FUT AF.do.worship that ??
+. . 就是說 像.這樣 未來 主焦.祭拜 那樣 ??
+
+#a 254.27, None, 257.6
+
+180.
+C: ... hini ray asang ma' rima' ka saboeh ka korkoring tatini',\
+. . here LOC neighborhood FIL AF.go NOM all LNK children old
+. . 這裡 處格 鄰居 FIL 主焦.去 主格 全部 連詞 小孩子 老人
+
+#a 257.6, None, 261.39
+
+181.
+C: ... matna'amet ila isaa o:_
+. . AF.all.go PFV there DM
+. . 主焦.全部.去 完成 那裡 DM
+
+#e "In rituals like this, everybody in the neighborhood goes."
+#c 「像這樣的祭拜,全部都要去。」
+#a 261.39, None, 262.88
+
+182.
+C: ...(0.9) uN So: sizaeh ila 'ita',\
+. . FIL COND AF.finish PFV 1IPL.NOM
+. . FIL 條件詞 主焦.完 完成 1IPL.NOM
+
+#a 262.88, None, 264.92
+
+183.
+C: ... makakpeh m-wa:i' ray taew'an ila hiza_
+. . separate.AF AF-come LOC house PFV there
+. . 各自.主焦 主焦-回 處格 家 完成 那裡
+
+#e "Once we finish, we separate ways and go home."
+#c 「如果拜完了,我們就各自回家。」
+#a 264.92, None, 267.27
+
+184.
+C: ...(0.8) So:_
+. . COND
+. . 條件詞
+
+#a 267.27, None, 268.42
+
+185.
+C: ... m-wa:i' hiza lasia in--,/
+. . AF-come there 3PL.NOM FS.
+. . 主焦-來 那 3PL.主焦 FS.
+
+#a 268.42, None, 270.03
+
+186.
+C: .. inay kam rawas hiya' kosa: a komsi'ael ma' isaa_
+. . from ?? far who say FIL lunch then ??
+. . 從 ?? 遠方 誰 說.主焦 FIL 中餐 然後 ??
+
+#a 270.03, None, 272.82
+
+187.
+C: ... mak'aehae' a kanman.\
+. . sometimes FIL 1SG.LOC
+. . 有時候 FIL 1SG.處格
+
+#e "If somebody wants to have lunch, they sometimes (come) to my house."
+#c 「從遠地來的人,如果有人要吃中飯,有時候可以去我那邊。」
+#n ma isaa是固定用詞。
+#n Note: ma isaa is a fixed expression.
+#a 272.82, None, 274.29
+
+188.
+C: ...(0.9) ila hiza kala mini' ... isaa ila hiza kala kalih a ta:aw.\
+. . go there LOC PN . then go there LOC PN LNK PN
+. . 到 那裡 處格 人名 . 就 到 那裡 地方 人名 連詞 人名
+
+#e "They either come to Mini's house or to Kalih-a-taaw's house."
+#c 「他們可能到Mini的家或到Kalih-a-taaw的家。」
+#n mini'是朱先生弟弟的名字。
+Note: mini' is Chu's younger brother
+#a 274.29, None, 278.51
+
+189.
+C: .. pa'pa'apol-on naehaen,\
+. . distribute-PF still
+. . 分-受焦 還
+
+#a 278.51, None, 280.08
+
+190.
+C: .. so: hiya 'am==_
+. . COND who FUT
+. . 條件詞 誰 要
+
+#a 280.08, None, 280.73
+
+191.
+C: ... kala hiya' 'am komsi'ael ma' isaa,/
+. . LOC who FUT AF.have.lunch then ??
+. . 地方 誰 要 主焦.吃午餐 就 ??
+
+#a 280.73, None, 282.54
+
+192.
+C: ...(0.8) kita' ila lasia [nonak XX].\
+. . depends PFV 3PL.NOM self XX
+. . <完成>決定 完成 3PL.主格 自己 XX
+
+#e "They themselves decide where to have lunch."
+#c 「他們自己決定要在誰那裡吃午餐。」
+#a 282.54, None, 284.39
+
+193.
+K: ['am pas-]paso sinraehoe ila o:.\
+. FUT RED-each clan PFV DM
+. 要 重疊-各個 姓氏 完成 DM
+
+#e "Each clan makes their own decisions."
+#c 「要各個姓氏自己決定。」
+#a 284.39, None, 285.44
+
+194.
+C: ... ma' e==,\
+. . DM FIL
+. . DM FIL
+
+#a 285.44, None, 286.02
+
+195.
+K: (0) [nasia] baba:i',\
+. . 3SG.GEN PN
+. . 3SG.屬格 風姓
+
+#a 286.02, None, 286.72
+
+196.
+C: [ehe],\
+. BC
+. BC
+
+#a 286.72, None, 286.92
+
+197.
+K: (0) baba:i' ma' isaa kala-baba:i' nonak ma==,\
+. . PN then ?? LOC-PN self FIL
+. . 風姓 那 ?? 處格-風姓 自己 FIL
+
+#a 286.92, None, 289.23
+
+198.
+C: ... ksi'ael risa==.\
+. . have.lunch there
+. . <主焦>吃午餐 那裡
+
+#e "The Fengs have their lunch at the Feng homes."
+#c 「風姓的人在風家吃午餐」
+#a 289.23, None, 290.75
+
+199.
+K: ...(1.2) niyam-- niya'om So: isa inaray kinkinololan m-wa:i' isa==,\
+. . FS 1EPL.GEN COND FIL from grave AF-come FIL
+. . FS 1EPL.屬格 條件詞 FIL 從 墳幕 主焦-來 FIL
+
+#a 290.75, None, 294.8
+
+200.
+K: ... kaspinatabir 'aras-en.\
+. . things.for.offering take-PF
+. . 祭品 帶-受焦
+
+#e "The offerings brought from the cemetery"
+#c 「從墓地帶回祭品。」
+#a 294.8, None, 296.53
+
+201.
+K: ... nihiya' 'akoy titi'an_
+. . who.GEN AF.many a.little.bit
+. . 誰.屬格 主焦.多 一點
+
+#e "Who gets more?"
+#c 「誰（拿到）的多一點。」
+#a 296.53, None, 298.27
+
+202.
+K: ...(0.8) ??
+. . [Hakka]not.matter\
+. . 沒關係
+
+#e "It didn't matter."
+#c 「沒關係。」
+#a 298.27, None, 299.3
+
+203.
+K: .. si-roton saboeh_
+. . RF-accumulate all
+. . 指焦-合 全部
+
+#a 299.3, None, 300.31
+
+204.
+K: ... hihiwa[-'en] ila si'ael ila_
+. . cut-PF PFV eat PFV
+. . 切-受焦 完成 <主焦>吃 完成
+
+#e "All the offerings are gathered together, sliced and eaten."
+#c 「所有的祭品全部集合一起，切一切來吃。」
+#a 300.31, None, 301.7
+
+205.
+C: [m==]
+. BC
+. BC
+
+#a
+
+206.
+K: ...(1.3) [isaa] kamoenhael isaa 'aewhaey.\
+. . FIL last.year that AF.bad
+. . FIL 去年 就 主焦.不好
+
+#e "It was bad last year."
+#c 「去年就不好。」
+#a 301.7, None, 304.31
+
+207.
+C: [XX]
+. XX
+. XX
+
+#a
+
+208.
+K: ... 'i'ini' kosa si'ael ila,\
+. . not.yet FIL AF.eat PFV
+. . 還沒 FIL 主焦吃 完成
+
+#a 304.31, None, 306.35
+
+209.
+K: ... potoy ila,\
+. . AF.pack PFV
+. . 主焦打包 完成
+
+#a 306.35, None, 307.48
+
+210.
+K: ... paphahai potoy ila,\
+. . vie.for AF.pack PFV
+. . 搶著做 主焦.打包 完成
+
+#a 307.48, None, 308.96
+
+211.
+K: .. a[==] ato==_
+. . FIL FIL
+. . FIL FIL
+
+#e "Before the meal even started, people were already packing food for themselves."
+#c 「還沒開始吃之前，有人已經在搶著打包他們要吃的了。」
+#a 308.96, None, 310.25
+
+212.
+C: [m]
+. BC
+. BC
+
+#a
+
+213.
+K: ... aroma' 'am si'ael ila ka tatini' 'am ima raroton o:.\
+. . others FUT eat PFV NOM elder FUT PROG AF.gather DM
+. . 其他人 未來 <主焦>吃 完成 主格 老人 未來 進行 主焦集合 DM
+
+#e "The elders were still gathered for meeting when people started eating."
+#c 「當其他人在吃的時候，（為了大家的聚會）老人還在收。」
+#a 310.25, None, 314.22
+
+214.
+C: (0) uh=,\
+. . BC
+. . BC
+
+#a 314.22, None, 314.52
+
+215.
+K: (0) isaa a-si'ael ila o:,\
+. . there FUTeat PFV DM
+. . 那裡 未來<主焦>吃 完成 DM
+
+#a 314.52, None, 315.24
+
+216.
+K: ... kita-en 'oka' ila_
+. . see-PF NEG PFV
+. . 看-受焦 否定 完成
+
+#e "(After the meeting was over and) they were ready to eat, all the food was gone."
+#c  「（等到聚會已經結束，老人）他們準備要吃，所有吃的東西都沒了。」
+#a 315.24, None, 316.48
+
+217.
+C: @
+. .
+. .
+
+#a
+
+218.
+K: potoy-on ila_
+. pack-PF PFV
+. 打包-受焦 完成
+
+#e "(The food were already) packed."
+#c 「（吃的東西都）打包好了。」
+#a 316.48, None, 317.42
+
+219.
+C: @@@
+. .
+. .
+
+#a
+
+220.
+K: (0) kamoenhal isaa nakisaa 'aewhaey。\
+. . last.year there like.that AF.bad
+. . 去年 那裡 像那 主焦.壞
+
+#e "It was so bad last year."
+#c 「去年很不好。」
+#a 317.42, None, 319.16
+
+221.
+C: @@@
+. .
+. .
+
+#a
+
+222.
+K: ... isahini kaysa'an 'am manabih lasia.\
+. . now today FUT AF.say 3PL.NOM
+. . 那 今年 未來 主焦.說 3PL.NOM
+
+#e "They were already told ( ... ) this year."
+#c 「今年他們已經被說了。」
+#a 319.16, None, 321.17
+
+223.
+K: ... 'am kayzaeh ila  koSa:.\
+. . FUT AF.good PFV [Hak]announce say
+. . 未來 主焦.好 完成 [Hak]宣布 <主焦>說
+
+#e "The situation has improved."
+#c 「情況已經改善了。」
+#a 321.17, None, 323.13
+
+224.
+C: (0) uh
+. . BC
+. . BC
+
+#a 323.13, None, 323.31
+
+225.
+K: .. 'izi'-- ['izi' potoy naehaen]。\
+. . . NEG AF.pack first
+. . . 否定 主焦.打包 首先
+
+#e "Don't pack (before everybody has eaten)."
+#c 「(大家還沒吃之前)不打包。」
+#a 323.31, None, 324.9
+
+226.
+C: [XX] uN
+. XX BC
+. XX BC
+
+#a
+
+227.
+K: .. si'ael naehaen o: So: kayni' ila isaa.\
+. . AF.eat first DM COND not.want PFV FIL
+. . 主焦.吃 先 DM 條件詞 不要 完成 FIL
+
+#e "Eat first, then if there are any leftovers (that nobody wants),"
+#c 「先吃，如果還有剩下的（lit.別人不要的）,」
+#a 324.9, None, 327.09
+
+228.
+C: .. uN=,\
+. . BC
+. . BC
+
+#a 327.09, None, 327.75
+
+229.
+K: .. a nonak ila.\
+. . FIL self PFV
+. . FIL 自己 完成
+
+#e "It's up to yourself."
+#c 「看你自己了。」
+#a 327.75, None, 329.01
+
+230.
+K: ... aras aroma' 'aewhaey 'izik kosa 'a-- 'a'apol So: nihiya 'am koSa  mari' ila.\
+. . AF.take other bad NEG AF.say FS AF.distribute COND who.GEN FUT AF.say [Hak]each.one AF.take PFV
+. . AF.拿 其他 壞 否定 主焦說 FS AF.分配 條件詞 誰.屬格 未來 主焦.說 [Hak]各人 主焦.拿 完成
+
+#e "Don't mention about distributing the food. That's taboo. If say you want to bring home food, then you go ahead."
+#c 「別提怎麼分配食物，那是不能說的，如果你想要帶回家，直接做就好了」
+#n 'a'apol詞義為「分發」，並沒有重疊部分。
+#n Note: 'a'apol af 'distribute'. There is no morphological reduplication in this word.
+#a 329.01, None, 333.38
+
+231.
+K: ...(0.8) kaysa'an nakhara.\
+. . today like.that
+. . 今天 像那個
+
+#e "Today it's like"
+#c 「今天就像是那樣。」
+#n IU#229 與音檔有出入
+#n Note: transcription of IU 229 is different from sound file.
+#a 333.38, None, 334.88
+
+232.
+C: (0) eN=,\
+. . BC
+. . BC
+
+#a
+
+233.
+K: .. baza'-en ra:am-en 'am,\
+. . hear-PF know-PF FUT
+. . 聽-受焦 知-受焦 未來
+
+#a 334.88, None, 335.87
+
+234.
+K: ... ?? ??.\
+. . . AF.good PFV .
+. . . 主焦.好 完成 .
+
+#e "They listened and perhaps (the situation) improved."
+#c 「他們聽了，情況有改善。」
+#n IU234 ??
+#a 335.87, None, 336.93
+
+235.
+C: .. eN,\
+. . BC
+. . BC
+
+#a 336.93, None, 337.56
+
+236.
+K: ... 
+. . . XX .
+. . . XX .
+
+#a 337.56, None, 338.52
+
+237.
+C: niya'om isaa hiza,\
+. 1EPL.GEN that there
+. 1EPL.屬格 那 那裡
+
+#a 338.52, None, 339.89
+
+238.
+C: ...(0.9) talo-- sa-saboeh-en noka==,\
+. . FS RED-all-PF GEN
+. . FS 重疊-全部-受焦 屬格
+
+#a 339.89, None, 342.15
+
+239.
+C: ...(1.0) aniyami'a inoka titiyon no ma isa yami nonak hiwa' ka== 'aeyam,\
+. . 1EPL.POSS GEN Chu.clan ?? then ?? 1EPL.NOM self cut ACC meat
+. . 1EPL.所有格 屬格 朱姓 ?? 然後 ?? 1EPL.主格 自己 <主焦>切 受格 肉
+
+#a 342.15, None, 346.54
+
+240.
+C: ... tinawbon_
+. . rice.cake
+. . 糯米糕
+
+#e "We slice our own meat and rice-cakes."
+#c 「我們切我們（要）的豬肉和糯米糕。」
+#n IU#237 hiza 在音檔中聽起來像haw
+#n Note: unclear sound of 'hiza' in IU 237 seems to be 'haw'
+#n IU236 ??
+#a 346.54, None, 347.63
+
+241.
+C: ... 'a'apol ma' isaa,/
+. . AF.distribute DM ??
+. . 主焦.分配 DM ??
+
+#a 347.63, None, 348.78
+
+242.
+K: (0) 'a'apol ma'_
+. . AF.distribute DM
+. . 主焦.分配 DM
+
+#a 348.78, None, 349.12
+
+243.
+C: (0) ta--,\
+. . .FS
+. . .FS
+
+#a 349.12, None, 349.33
+
+244.
+C: ... 'a'apol ma' isaa pa-'apol ka saboeh ila hiza sipaysiri ila hiza ray sinrahoe.\
+. . AF.distribute DM ?? CAU-AF.distribute NOM all PFV that RF.move.around PFV there LOC clan
+. . 主焦.分配 DM ?? 使役-主焦.分配 主格 全部 完成 那 指焦.處格 完成 那 處格 姓
+
+#e "We distribute them to all the clans."
+#c 「我們把食物分給各姓的人。」
+#a 349.33, None, 353.78
+
+245.
+K: (0) a==_
+. . BC
+. . BC
+
+#a 353.78, None, 354.13
+
+246.
+C: ... e== ... baba:i',/
+. . FIL . feng.clan
+. . FIL . 風姓
+
+#a 354.13, None, 356.23
+
+247.
+C: ... sayna'ase: titiyon karkarang,/
+. . Chiung.clan Chu.clan Hsieh.clan
+. . 芎姓 朱姓 解姓
+
+#a 356.23, None, 358.81
+
+248.
+C: ...(1.1) sepat sinraehoe na--,\
+. . four clan FS.
+. . 四 姓 FS.
+
+#a 358.81, None, 360.84
+
+249.
+C: ...(1.3) a,/
+. . FIL
+. . FIL
+
+#a 360.84, None, 362.37
+
+250.
+C: ... so'o 'anahiya ma' isaa ko'ngin rima' ma=,\
+. . 2SG.NOM whoever DM ?? [Hak]each go.AF DM
+. . 2SG.主格 無論是誰 DM ?? [Hak]個人 去.主格 DM
+
+#a 362.37, None, 364.81
+
+251.
+C: ... papsiba:i' ila hiza ila sizaeh ray sasinsinraehoe'.\
+. . give PFV there PFV finish LOC clan
+. . 給 完成 那 完成 完成 處格 姓
+
+#e "We distribute (the food) to all the clans."
+#c 「我們分食物給所有的姓的人。」
+#a 364.81, None, 368.61
+
+252.
+C: ...(0.8) pa-'apol ila so'o sizaeh ila ma-'apol hiza,\
+. . CAU-distribute PFV 2SG.NOM finish PFV AF-distribute there
+. . 使役-分配 完成 2SG.主格 完成 完成 主焦-分配 那裡
+
+#a 368.61, None, 371.74
+
+253.
+C: ...(0.8) isaa,\
+. . that
+. . 那
+
+#a 371.74, None, 372.77
+
+254.
+C: ...(1.0) hiza may isa==,\
+. . there until there
+. . 那裡 到 那裡
+
+#a 372.77, None, 374.55
+
+255.
+C: ... makakpoeh ila so: ina si'ael ila sil'-amet ka==,\
+. . AF.disperse PFV COND EXPER eat PFV eat-finish ACC
+. . 主焦.解散 完成 條件詞 經驗 <主焦><完成>吃 完成 <主焦>吃-完 受格
+
+#a 374.55, None, 377.73
+
+256.
+C: ... kaspinatabir ka==,\
+. . things.for.offering LNK
+. . 祭拜過的祭品 連詞
+
+#a 377.73, None, 379.63
+
+257.
+C: .. pinobae:aeh 'oyae may isa ila 'amet-en riza,\
+. . wine together until there PFV finish-PF there
+. . 酒 一起 到 那裡 完成 結束-受焦 那裡
+
+#a 379.63, None, 382.74
+
+258.
+C: ... lobih ila ray taew'an,\
+. . AF.return PFV LOC house
+. . 主焦.回去 完成 處格 房子
+
+#a 382.74, None, 384.3
+
+259.
+C: ...(0.8) [ka ka-] kasi'aelen ka 'aeyam walo' hara soya',\
+. . ?? FS food LNK meat sweets like ??
+. . ?? FS 食物 連詞 豬肉 糖 像 ??
+
+#a 384.3, None, 387.86
+
+260.
+K: [XX]
+
+. XX
+. XX
+
+#a
+
+261.
+C: ... tinawbon soya' ma== 'okay 'amet-i ila,\
+. . rice.cake ?? DM NEG finish-PF PFV
+. . 糯米糕 ?? DM 否定 完-受焦 完成
+
+#a 387.86, None, 391.22
+
+262.
+C: ...  as-- iska nonak ila arasen ray taew'an_
+. . [Hak]each FS. free self PFV take-PF LOC house
+. . 各人 FS. 自由 自己 完成 拿-受焦 處格 家
+
+#e "People just take the leftover rice-cakes home themselves."
+#c 「各人各自把剩下的米糕帶回家。」
+#a 391.22, None, 394.28
+
+263.
+K: ...(2.0) [ya] mina isaso:_
+. . YA MINA there
+. . YA MINA 那裡
+
+#e  "over there."
+#c "就在那兒。"
+#a 394.28, None, 397.43
+
+264.
+C: [XX]
+. XX
+. XX
+
+#a
+
+265.
+K: ...(2.0) hiza m-- aroma so: 'oka' o: hara a'./
+. . there FS. other COND NEG DM like ??
+. . 那 FS. 其他 條件詞 否定 DM 像 ??
+
+#e "If there is nothing else,"
+#c 「如果沒有其他事。」
+#a 397.43, None, 401.51
+
+266.
+K: ... aroma' o: a tata:a' 'aeyam [1 nanaw 1] isaa ma' [2 kayzaeh 2] siyamez ila kayzaeh siamez ila kayzaeh_
+. . other DM FIL chicken pork . still . DM ?? . AF.good . AF.mix PFV AF.good AF.mix PFV AF.good
+. . 其他 DM FIL 雞肉 豬肉 . 還 . DM ?? . 主焦.好 . 主焦.混合 完成 主焦.好 主焦.混合 完成 主焦.好
+
+#e "It's good to mix the chicken and pork together."
+#c 「雞肉和豬肉可以混合在一起。」
+#a 401.51, None, 405.37
+
+267.
+C: [1 m== 1] [2 e 2]
+. . BC . . BC .
+. . BC . . BC .
+
+#a
+
+268.
+K: ... si'ael ma' si'ael ila saboeh.\
+. . eat also AF.eat PFV all
+. . <主焦>吃 也 吃.主焦 完成 全部
+
+#e "Everybody shares the food."
+#c 「大家一起吃。」
+#a 405.37, None, 407.39
+
+269.
+K: ... kakhayza'an 'okik haebae'aen mae'iyaeh kayzaeh.\
+. . before NEG many person AF.good
+. . 以前 否定 多 人 主焦.好
+
+#e "There were not many people before, which is good."
+#c 「以前人不多, 很好。」
+#a 407.39, None, 409.47
+
+270.
+K: ... so: patabir o: m-wa:i' o: ray ra:an ray kapsiwazayan isaa [o:] mas-masa:eng_
+. . COND do.ritual.AF DM AF-come DM LOC road LOC at.the.lowest.place there DM RED-AF.sit
+. . 條件詞 祭拜 DM 主焦-來 DM 處格 路 處所 交叉路口 那裡 DM 重疊-主焦.坐
+
+#e "At tomb-sweeping, everybody gets down below the cemetery to sit down."
+#c 「如果來拜拜（拜好之後）在交叉路口休息。」
+#a 409.47, None, 413.38
+
+271.
+C: [m==]
+. BC
+. BC
+
+#a
+
+272.
+K: ... si'ael-en kayzaeh kik 'akoy ayra:i' o_
+. . eat-PF good NEG many AF.put.on.the.ground DM
+. . 吃-受焦 好 否定 多 主焦.擺在地上 DM
+
+#e "Good to eat. Not much food. They're placed on the ground."
+#c 「可以吃的不多。」
+#a 413.38, None, 415.68
+
+273.
+C: .. eN==,\
+. . BC
+. . BC
+
+#a 415.68, None, 416.16
+
+274.
+K: ... mas-masaeng isaa si'ael-en,/
+. . RED-AF.sit there eat-PF
+. . 重疊-主焦.坐 那 吃-受焦
+
+#a 416.16, None, 418.18
+
+275.
+K: rae'oe m-il-'amet./
+. drink AF-drink-finish
+. <主焦>喝 主焦-喝-完
+
+#e "put things on the ground, then sit down and eat and drink"
+#c 「把東西擺在地上, 坐著就吃了, 乾杯。」
+#a 418.18, None, 419.24
+
+276.
+C: ...(1.7) ah,\
+. . BC
+. . BC
+
+#a 419.24, None, 421.19
+
+277.
+K: ... haysani 'oka'o: so: roemae'oe,/
+. . now NEG COND drink
+. . 現在 否定 條件詞 <主焦>喝
+
+#a 421.19, None, 423.25
+
+278.
+K: ...(0.8) m-il-'akoy kakhayza'an ma'_
+. . AF-drink-many before also
+. . 主焦-喝-多 以前 也
+
+#a 423.25, None, 425.09
+
+279.
+K: .. pinobae:aeh 'okik 'akoy a.\
+. . wine NEG AF.many FIL
+. . 酒 否定 主焦.多 FIL
+
+#e "It's not the same nowadays. Once you start to drink, you tend to drink too much. There was not much wine in those days."
+#c 「現在不一樣了, 如果一喝酒就喝多. 以前酒也不多。」
+#a 425.09, None, 425.96
+
+280.
+C: .. a==,\
+. . BC
+. . BC
+
+#a 425.96, None, 426.4
+
+281.
+K: (0) binbinisitan rima' si-sapih m-wa:i' [raerae'oe eh].\
+. . container AF.go RF-change AF-come AF.drink FIL
+. . 酒瓶 主焦.去 RF-交換 主焦-來 AF.喝 FIL
+
+#e "People used to take bottles in exchange for wine to drink."
+#c 「酒瓶拿去換酒來喝。」
+#a 426.4, None, 428.9
+
+282.
+C: [@@@] @@
+. . .
+. . .
+
+#e @@
+#c @@
+#a

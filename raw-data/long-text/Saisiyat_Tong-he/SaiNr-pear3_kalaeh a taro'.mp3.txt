@@ -1,0 +1,401 @@
+topic: pear3
+type: Narrative
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 風秀郎, kalaeh a taro', male, 1937-01-25
+collected: 2002-01-01
+revised: None
+video: SaiNr-pear3_kalaeh a taro'.mp3
+
+1.
+'aehae' ka baki',\
+one NOM grandfather
+一 主格 爺爺
+
+#a 3.19, None, 4.41
+
+2.
+...(1.2) 'ima hangaw kaSna-'itol ray kaehoey babaw,\
+PROG set.a.ladder AF.move.up LOC tree above
+進行 <主焦>放樓梯 主焦.爬上去 處格 樹 上面
+
+#a 4.41, None, 7.86
+
+3.
+... 'ima rokrok ka boway.\
+PROG pick ACC fruit
+進行 <主焦>摘 受格 水果
+
+#e An old man climbed a ladder up a tree to pick fruits.
+#c 有一位爺爺正架著階梯準備爬上樹去摘水果。
+#a 7.86, None, 9.7
+
+4.
+...(2.8) taboe-en ray 'obos kaSra:i',/
+fill.in-PF LOC bag AF.move.down
+放進-受焦 處格 袋子 主焦.爬下來
+
+#a 9.7, None, 14.27
+
+5.
+... 'askan-en ray kala'.\
+put-PF LOC basket
+放-受焦 處格 籃子
+
+#e He put (the fruits) in (his) bag, came down and placed (them) in the basket.
+#c 他放(水果)到袋子, 下來, 放進籃子裡。
+#a 14.27, None, 15.72
+
+6.
+...(1.0) 'aehae' mari-in,\
+one take-PF
+一 拿-受焦
+
+#a 15.72, None, 17.46
+
+7.
+... boway ti:is-in noka hahako'./
+fruit wipe-PF GEN handkerchief
+水果 擦-受焦 屬格 包巾
+
+#e He took one fruit and wiped it with a handkerchief.
+#c 他拿一個水果, 用包巾擦一擦。
+#a 17.46, None, 19.89
+
+8.
+...(1.7) insa'an kaSna'itol ray kaehoey babaw naehaen.\
+now AF.move.up LOC tree above again
+現在 主焦.爬上去 處格 樹 上面 再
+
+#e (The old man) went up the tree again.
+#c (老人)又再爬上樹。
+#a 19.89, None, 23.73
+
+9.
+...(1.7) m-wa:i' 'aehae' ka==,/
+AF-come one NOM
+主焦-來 一 主格
+
+#a 23.73, None, 26.46
+
+10.
+...(1.1) mae'iyaeh 'ima hoehoe' ka Siri',\
+person PROG pull ACC goat
+人 進行 <主焦>拉 受格 羊
+
+#a 26.46, None, 29.1
+
+11.
+... may hiza,\
+AF.pass.by there
+主焦.經過 那裡
+
+#a 29.1, None, 30.39
+
+12.
+...(1.9) ilahiza kabih.\
+AF.move.to.that.place side
+主焦.到那裡 邊
+
+#e A man pulling a goat passed by there and went that way.
+#c 拉著羊的男人經過那裡往那個方向去。
+#a 30.39, None, 33.43
+
+13.
+...(0.9) m-wa:i' ka korkoring 'ima,/
+AF-come NOM child PROG
+主焦-來 主格 小孩 進行
+
+#a 33.43, None, 35.15
+
+14.
+.. papama' ray ka-papama'-an m-wa:i' ilahiza ray,/
+AF.ride LOC KA-ride-NMZ AF-come AF.move.there LOC
+主焦.騎 處格 KA-騎-名物化 主焦-來 主焦.到這裡 處格
+
+#a 35.15, None, 37.53
+
+15.
+...(1.1) eh==,/
+FIL
+FIL
+
+#a 37.53, None, 39.12
+
+16.
+...(0.8) tatini' 'aehae' 'am rokrok ka boway./
+old.man one also pick ACC fruit
+老人 一 也 <主焦>摘 受格 水果
+
+#e A boy came riding a bike and came to where the old man was picking fruits. Aah... An old man was picking fruits.
+#c 一個男孩騎著腳踏車來到老人摘水果的地方. 啊, 老人正在摘水果。
+#a 39.12, None, 41.41
+
+17.
+...(0.9) sisil ma==,/
+lift also
+<主焦>提起 也
+
+#a 41.41, None, 43.23
+
+18.
+.. pa-kalben ka ka-papama'-an,\
+CAU-AF.lay.down ACC KA-ride-NMZ
+使役-主焦.放倒 受焦 KA-騎-名物化
+
+#a 43.23, None, 44.59
+
+19.
+.. sisil ka boway,\
+lift ACC fruit
+<主焦>提 受焦 水果
+
+#a 44.59, None, 45.85
+
+20.
+...(1.3) mari-in 'in'alay ra:i' ka-papama'-an,\
+take-PF from ground KA-ride-NMZ
+拿-受焦 從 地 KA-騎-名物化
+
+#a 45.85, None, 48.99
+
+21.
+.. sik-ra:iw ila.\
+RF-leave PFV
+指焦-離開 完成
+
+#e (The boy) lay down his bike, lifted (the basket of) fruits, put (them) on his bike and left the old man.
+#c (男孩)放倒他的腳踏車, 提起一籃水果, 放到他的腳踏車, 然後離開。
+#a 48.99, None, 49.95
+
+22.
+...(1.2) ra:iw ila sia ray ra:an sasbong ka 'aehae' mae'iyaeh./
+AF.leave PFV 3SG.NOM LOC road AF.meet ACC one person
+主焦.離開 完成 3SG.主格 處格 路 主焦.遇見 受格 一 人
+
+#e He left, and then met somebody along the way.
+#c 他離開, 在路上遇見另一個男孩。
+#a 49.95, None, 53.59
+
+23.
+...(1.3) sia roSa' sasbong./
+3SG.NOM two AF.meet
+3SG.主格 兩 主焦.遇見
+
+#e Both of them met (along the way).
+#c 他們兩個(在路上)相遇。
+#a 53.59, None, 55.81
+
+24.
+.. tono' ka bato' m-alben.\
+bump ACC stone AF-fall.down
+<主焦>撞 受格 石頭 主焦-跌倒
+
+#e (His bike) hit a stone and (he) fell down.
+#c (她的腳踏車)撞到石頭, (他就)跌倒。
+#a 55.81, None, 57.38
+
+25.
+... si-sa:ah ka boway.\
+RF-fall.over.over NOM fruit
+指焦-散落 主格 水果
+
+#e The fruits spilled (all over the place).
+#c 水果散落(了滿地)。
+#a 57.38, None, 59.11
+
+26.
+...(1.3) m-wa:i' to:o' mae'iyaeh korkoring,\
+AF-come three person child
+主焦-來 三 人 小孩
+
+#a 59.11, None, 61.91
+
+27.
+...(1.9) tatilhaehael rokrok ka boway,\
+AF.help pick ACC fruit
+主焦.幫忙 <主焦>摘 受格 水果
+
+#a 61.91, None, 65.39
+
+28.
+...(1.5) boway mari-in papayhae'hae'-en ray .. kala'./
+fruit take-PF fully.filled-PF LOC . basket
+水果 拿-受焦 裝滿-受焦 處格 . 籃子
+
+#e Three children came and helped (the boy) pick the fruits up and put them (back) in the basket.
+#c 三個小孩過來幫忙(男孩)撿水果, 把它們放到籃子裡。
+#a 65.39, None, 69.3
+
+29.
+... 'in'alay ray ka-papama'-an,\
+from LOC KA-ride-NMZ
+從 處格 KA-騎-名物化
+
+#a 69.3, None, 71.16
+
+30.
+...(1.0) 'aras-en pama'-en ila,/
+bring-PF ride-PF PFV
+帶-受焦 騎-受焦 完成
+
+#a 71.16, None, 73.21
+
+31.
+... rima' ziza./
+AF.go there
+主焦.去 那裡
+
+#e (The boy) lifted (the basket) back to (his) bike and rode away taking (with him the basket).
+#c (男孩)提起(籃子)放回他的腳踏車, 然後騎走了。
+#a 73.21, None, 74.51
+
+32.
+...(1.1) eh==,/
+FIL
+FIL
+
+#a 74.51, None, 76.14
+
+33.
+... rawaS ila sowiti',/
+AF.far PFV a.bit
+主焦.遠 完成 一點
+
+#a 76.14, None, 77.2
+
+34.
+...(0.8) 'ima tatilhaehael to:o' mae'iyaeh korkoring,\
+PROG AF.help three person child
+進行 主焦.幫忙 三 人 小孩
+
+#a 77.2, None, 79.77
+
+35.
+... sanabih hiyop,/
+AF.towards.back blow
+主焦.朝後 <主焦>吹
+
+#a 79.77, None, 81.45
+
+36.
+...(1.1) koSa:==,/
+say
+<主焦>說
+
+#a 81.45, None, 82.76
+
+37.
+niSo ka tatpo',/
+2SG.GEN NOM hat
+2SG.屬格 主格 帽子
+
+#a 82.76, None, 84.32
+
+38.
+...(0.8) si-ngowip./
+RF-forget
+指焦-忘記
+
+#e When the boy have gone a bit far, the three children helped (him pick his hat up), turned back and whistled at him saying, "you forgot this hat".
+#c 當男孩走遠了一些, 三個男孩幫忙(撿起他的帽子), 回頭對著他吹(口哨), 說, 你忘了這帽子。
+#a 84.32, None, 85.55
+
+39.
+...(1.1) lobih hibih 'ae'ae:aew rima' min-obih.\
+AF.return turn.back AF.run AF.go MIN-return
+主焦.回來 <完成>回頭 主焦.跑 主焦.走 MIN-回來
+
+#e (The boy) turned back and (one of the children) ran and returned (his hat).
+#c (男孩)轉回頭, (其中一個小孩)跑過去(把他的帽子)還給他。
+#a 85.55, None, 88.97
+
+40.
+...(1.1) insa'an,\
+now
+現在
+
+#a 88.97, None, 90.68
+
+41.
+...(1.7) be:ay-en ka lapowar .. to:o',/
+give-PF NOM guava . three
+給-受焦 主焦 芭樂 . 三
+
+#a 90.68, None, 94.25
+
+42.
+...(0.9) ba-- si-be:ay hilasia./
+FS RF-give 3SG.ACC
+FS 指焦-給 3SG.受格
+
+#e Now (he took) three guavas (and) gave to them.
+#c 現在(他)拿了三個芭樂給他們。
+#a 94.25, None, 96.27
+
+43.
+... 'am papnae'hae' 'aehae' 'apol-on.\
+FUT every.person one distribute-PF
+未來 每 一 分-受焦
+
+#e To distribute to wach (of them).
+#c 每個小孩都給一個芭樂。
+#a 96.27, None, 98.37
+
+44.
+...(1.2) isaza tatini' rima' rokrok naehaen babaw ka boway.\
+FIL old.man AF.go pick still above ACC fruit
+FIL 老人 主焦.走 <主焦>摘 還 上面 受格 水果
+
+#e The old man was still up in the tree to pick fruits.
+#c 老人還在樹上摘水果。
+#a 98.37, None, 102.0
+
+45.
+...(0.8) kasra:i',/
+AF.move.down
+主焦.爬下來
+
+#a 102.0, None, 103.19
+
+46.
+.. m-wa:i' ki:im.\
+AF-come find
+主焦-來 <主焦>找
+
+#e (He) climbed down and looked for (the basket).
+#c (他)爬下來找(籃子)。
+#a 103.19, None, 104.21
+
+47.
+...(1.4) Sa: hini boway 'ima hayno' ay ila.\
+SA here fruit PROG where Q PFV
+SA 這裡 水果 進行 哪裡 疑問詞 完成
+
+#e Where have the fruits here gone?
+#c 水果哪裡去了。
+#a 104.21, None, 107.59
+
+48.
+...(1.3) sakosiza-en kita-en korkoring may isaza to:o' sahpi:ih,\
+look.around-PF see-PF child move.by that.place three AF.pass.by
+四下張望-受焦 看-受焦 小孩 經過 那地方 三 主焦.經過
+
+#a 107.59, None, 111.45
+
+49.
+...(0.8) ilahiza ila kabih naehaen m-anra:an.\
+AF.go.there PFV side still AF-walk
+主焦.到那裡 完成 邊 還 主焦-走路
+
+#e (He) saw three children pass by and walk toward that direction.
+#c (他)看到三個小孩經過, 往那個方向走下去。
+#a 111.45, None, 113.7
+
+50.
+...(1.2) oh .\
+DM .
+DM .
+
+#e DM
+#c DM
+#a 113.7, None, 115.92

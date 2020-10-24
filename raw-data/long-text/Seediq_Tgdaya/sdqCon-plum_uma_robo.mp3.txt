@@ -1,0 +1,820 @@
+topic: sdqCon-plum_uma_robo
+type: Conversation
+language: 賽德克語, Seediq, Tgdaya
+speaker: 邱紅春蘭, Uma Nokan, female, 1932
+collected: None
+revised: None
+video: sdqCon-plum_uma_robo.mp3
+
+1.
+U: kiya ma,_
+. that then
+. 那個 然後
+
+#a 3.75, None, 5.04
+
+2.
+U: asi a,_
+. must FIL
+. 一定 FIL
+
+#a 5.04, None, 5.16
+
+3.
+U: rtret-i a,_
+. knead-IRR FIL
+. 揉-未實現 FIL
+
+#a 5.16, None, 6.3
+
+4.
+U: muse-- qsiya tleetu,_
+. FS water lukewarm
+. FS 水 常溫
+
+#a 6.3, None, 7.49
+
+5.
+... XX
+. XX
+. XX
+
+#a 7.49, None, 9.73
+
+6.
+U: .. micux peni micux sato ma.\
+. AF.mix PART AF.mix sugar then
+. 主焦.攪拌 語助詞 主焦.攪拌 糖 然後
+
+#e That, then you should knead them in lukewarm water, and mix them with sugar.
+#c 那個，然後 要在常溫的水中搓揉，和砂糖攪拌。
+#a 9.73, None, 10.76
+
+7.
+U: ... <L2MshaokaiL2M> qsiya kii de,_
+. boil water that PFV.PART
+. 燒開 水 那個 完成.語助詞
+
+#a 10.76, None, 13.66
+
+8.
+U: ... kika,_
+. thus
+. 所以
+
+#a 13.66, None, 16.2
+
+9.
+U: ... 給他
+
+#a 16.2, None, 17.25
+
+10.
+U: ...(0.7) hnuun di maanu di.\
+. PART PFV.PART what PEV.PART
+. 語助詞 完成.語助詞 什麼 完成.語助詞
+
+#n 意思接近「什麼了呢？」。
+#a 17.25, None, 18.84
+#n 意思接近「什麼了呢？」。
+
+11.
+U: a bsag-un=su qsiya kiya di,_
+. FIL cool-PF=2SG.GEN water that PFV.PART
+. FIL 冷卻-受焦=2SG.屬格 水 那個 完成.語助詞
+
+#a 18.84, None, 19.76
+
+12.
+U: kii di ma,_
+. that PFV.PART then
+. 那個 完成.語助詞 然後
+
+#e Boil the water, and let the water cool down.
+#c 水燒開後，將水放著冷卻。
+#a 19.76, None, 21.07
+
+13.
+U: ... a tleetu de,_
+. FIL lukewarm PFV.PART
+. FIL 常溫 完成.語助詞
+
+#a 21.07, None, 22.23
+
+14.
+U: kika psa-i,_
+. thus put-IRR
+. 所以 放-未實現
+
+#a 22.23, None, 23.62
+
+15.
+U: ... kayu ka==,_
+. urn NOM
+. 甕 主格
+
+#a 23.62, None, 25.13
+
+16.
+U: anu ka <L2JumeL2J> ga di ma,_
+. FIL NOM plum EXIST PFV.PART then
+. FIL 主格 梅子 存在 完成.語助詞 然後
+
+#a 25.13, None, 26.16
+
+17.
+U: ... kika psa-i,_
+. thus put-IRR
+. 所以 放-非實現
+
+#a 26.16, None, 28.11
+
+18.
+U: ...(0.8) tleetu ka qsiya h<n>pure=su de,_
+. lukewarm NOM water <PFV>boil=2SG.GEN PFV.PART
+. 常溫 主格 水 <完成>煮=2SG.屬格 完成 語助詞
+
+#e When they are lukewarm, put the plums into an urn and add lukewarm water which you boiled.
+#c 常溫後把梅子置入甕中，放入你煮過常溫的開水。
+#a 28.11, None, 28.93
+
+19.
+U: psa-i,
+. put-IRR
+. 放-未實現
+
+#a 28.93, None, 31.68
+
+20.
+U: bo-- a cwaq-i 
+. FS FIL pour-IRR
+. FS FIL 倒-未實現
+
+#a 31.68, None, 32.41
+
+21.
+U: <L2JumeL2J> hiya ka qsiya di.\
+. plum there NOM water PFV.PART
+. 梅子 那裡 主格 水 完成.語助詞
+
+#a 32.41, None, 33.41
+
+22.
+U: ... kiya nanak.\
+. that self
+. 那個 自己
+
+#e Pour the water into where plums are, and that’s it.
+#c 把水倒入梅子那裡，就只有這樣。
+#n 長輩講nanak，年輕人講naq。
+#a 33.41, None, 35.04
+
+23.
+R: ... qsiya sato.\
+. water sugar
+. 水 糖
+
+#a 35.04, None, 35.97
+
+24.
+U: kiya sato peni.\
+. that sugar PART
+. 那個 糖 語助詞
+
+#a 35.97, None, 36.69
+
+25.
+U: .. qsiya sato kiya,_
+. water sugar that
+. 水 糖 那個
+
+#a 36.69, None, 37.76
+
+26.
+U: ...(0.8) qsiya h<n>pure=su sato kiya cwaq-i==,_
+. water <PFV>boil=2SG.GEN sugar that pour-IRR
+. 水 <完成>煮=2SG.屬格 糖 那個 倒-未完成
+
+#a 37.76, None, 39.21
+
+27.
+U: ... <L2JumeL2J> hiya di,\
+. plum there PFV.PART
+. 梅子 那裡 完成.語助詞
+
+#a 39.21, None, 41.73
+
+28.
+U: ... tleetu du wa,_
+. lukewarm PFV.PART PART
+. 常溫 完成.語助詞 語助詞
+
+#a 41.73, None, 42.91
+
+29.
+U: ...(1.2) cwiq-un,_
+. pour-PF
+. 倒-受焦
+
+#e That sugar water...that sugar water...you pour that sugar water you boiled into where plums are. When it’s lukewarm, then you pour it.
+#c 就是那糖水..那個糖水...你煮的那糖水，倒在梅子那兒。常溫了，你才倒。
+#a 42.91, None, 45.53
+
+30.
+U: kiya da baka di.\
+. that PFV.PART enough PFV.PART
+. 那個 完成.語助詞 夠 完成.語助詞
+
+#e That’s enough.
+#c 可以了。
+#a 45.53, None, 46.17
+
+31.
+...(1.4) XXX
+. XXX
+. XXX
+
+#a 46.17, None, 48.88
+
+32.
+B: lngag-i na pucaq nisu ta.\
+. tell-IRR PART black.bulbul 2SG.GEN 1IPL
+. 講-非實現 語助詞 紅嘴黑鵯 2SG.屬格 1IPL
+
+#e Tell about your black bulbul.
+#c 說一說你的紅嘴黑鵯。
+#a 48.88, None, 50.0
+
+33.
+R: ... m-hedu di wa,_
+. AF-finish PFV.PART PART
+. 主焦-完成 完成.語助詞 語助詞
+
+#e It’s finished.
+#c 完成了。
+#a 50.0, None, 52.03
+
+34.
+U: so m-hedu.\
+. like AF-finish
+. 像 主焦-完成
+
+#a 52.03, None, 52.93
+
+35.
+U: baka baka di.\
+. enough enough PFV.PART
+. 夠 夠 完成.語助詞
+
+#e It’s finished. Enough.
+#c 完成了，夠了。
+#a 52.93, None, 54.77
+
+36.
+U: ...(2.6) manu di,_
+. what PFV.PART
+. 什麼 完成.語助詞
+
+#a 54.77, None, 58.6
+
+37.
+U: ...(1.0) pkeru maha kes-un maha lmamu ricah,_
+. pour AUX.FUT say-PF go.FUT pick plum
+. 倒 助動詞.未來 說-受焦 去.未來 採 梅子
+
+#a 58.6, None, 60.72
+
+38.
+U: kes-un maha lmamu ricah han.\
+. say-PF go.FUT pick plum first
+. 說-受焦 去.未來 採 梅子 先
+
+#e Talk about picking plums first.
+#c 先說採梅子。
+#a 60.72, None, 61.79
+
+39.
+U: maha,_
+. go.FUT
+. 去.未來
+
+#a 61.79, None, 63.73
+
+40.
+U: .. ricah,_
+. plum
+. 梅子
+
+#a 63.73, None, 64.42
+
+41.
+R: ... m-usa lmamu ricah han.\
+. AF-go pick plum first
+
+#a 64.42, None, 65.51
+
+42.
+R: ... kika== rbeg-un=su
+. thus immerse=2SG.GEN
+. 所以 浸泡=2SG.屬格
+
+#a 65.51, None, 67.57
+
+43.
+R: ...(3.9) kiya da baka di.\
+. that PFV.PART enough PFV.PART
+. 那個 完成.語助詞 夠 完成.語助詞
+
+#e Go pick plums first, and immerse them in water. That’s all.
+#c 先去採梅子，然後泡水。就這樣。
+#a 67.57, None, 74.29
+
+44.
+U: ... @@@ ecu nak.\
+. @@@ dirty self
+. @@@ 髒 自己
+
+#a 74.29, None, 76.06
+
+45.
+U: @@@ ecu nak.\
+. @@@ dirty self
+. @@@ 髒 自己
+
+#e You are negligent.
+#c 好隨便。
+#a 76.06, None, 77.09
+
+46.
+@@@@
+. @@@@
+. @@@@
+
+#a 77.09, None, 78.18
+
+47.
+U: ma uxe kii di.\
+. why NEG that PFV.PART
+. 為什麼 否定 那個 完成.語助詞
+
+#e It’s not that way.
+#c 不是那樣。
+#a 78.18, None, 78.95
+
+48.
+XX
+. XX
+. XX
+
+#a 78.95, None, 79.93
+
+49.
+R: ...(11.7) a== m-usa lmamu ricah han.\
+. FIL AF-go pick plum first
+. FIL 主焦-去 採 梅子 先
+
+#e Go pick plums first.
+#c 先去採梅子。
+#a 79.93, None, 92.29
+
+50.
+R: ma kika,_
+. then thus
+. 然後 所以
+
+#a 92.29, None, 94.71
+
+51.
+R: so kiya di na.\
+. like that PFV.PART PART
+. 像 那個 完成.語助詞 語助詞
+
+#a 94.71, None, 96.06
+
+52.
+R: .. <L2MbangeL2M> a== maanu di,_
+. half FIL what PFV.PART
+. 半個 FIL 什麼 完成.語助詞
+
+#a 96.06, None, 97.48
+
+53.
+U: ...(1.2) <L2JhanzikangL2J>,_
+. half.an.hour
+. 半小時
+
+#a 97.48, None, 100.41
+
+54.
+R: <L2JhanzikangL2J>,_
+. half.an.hour
+. 半小時
+
+#a 100.41, None, 101.17
+
+55.
+R: maanu <L2JhanzikangL2J> kari seediq di.\
+. what half.an.hour word PN PFV.PART
+. 什麼 半小時 話 專名 完成.語助詞
+
+#a 101.17, None, 101.92
+
+56.
+R: ...(1.2) ini=ku kela kari seediq.\
+. NEG=1SG.NOM know word PN
+. 否定=1SG.主格 知道 話 專名
+
+#e Half an hour... what’s the word for half an hour in Seediq? I don’t know the word in Seediq.
+#c 半個小時...賽德克語半個小時怎麼說？我不知道賽德克的字是哪一個。
+#a 101.92, None, 104.3
+
+57.
+U: uqu nak <L2JhanzikangL2J> denu.\
+. temporarily self half.an.hour DM
+. 暫時 自己 半小時 DM
+
+#a 104.3, None, 105.06
+
+58.
+R: uqu nak <L2JhanzikangL2J> di ho ini=ku kela,_
+. temporarily self half.an.hour PFV.PART PART NEG 1SG.NOM know
+. 暫時 自己 半小時 完成.語助詞 語助詞 否定=1SG.主格 知道
+
+#a 105.06, None, 106.27
+
+59.
+R: .. kari seediq.\
+. word PN
+. 話 專名 
+
+#e Just say hanzikang for now? I don’t know the word in Seediq.
+#c 就說先說hanzikang嗎？我不知道賽德克的話是什麼？
+#a 106.27, None, 108.14
+
+60.
+R: ... hanzikang rbeg-un=su,_
+. half.an.hour immerse-PF=2SG.GEN
+. 半小時 浸泡-受焦=2SG.屬格
+
+#a 108.14, None, 109.06
+
+61.
+R: timu.\
+. salt
+. 鹽
+
+#a 109.06, None, 110.31
+
+62.
+R: ...(0.9) timu han na kika,_
+. salt first PART thus
+. 鹽 先 語助詞 所以
+
+#e Immerse them in salt first for half an hour.
+#c 先在鹽中浸半小時。
+#a 110.31, None, 111.65
+
+63.
+U: rbeg-un timu <L2MhaishiL2M> timu,_
+. immerse-PF salt or salt
+. 浸泡-受焦 鹽 還是 鹽
+
+#e Immerse in salt water or salt?
+#c 浸在鹽還鹽水裡？
+#a 111.65, None, 113.28
+
+64.
+R: un ma,_
+. yes then
+. 是 然後
+
+#a 113.28, None, 114.69
+
+65.
+R: ... <L2JokosuL2J> a,_
+. remove FIL
+. 移出 FIL
+
+#a 114.69, None, 115.66
+
+66.
+R: pstoyun dungan.\
+. remove again
+. 移出 又
+
+#e And remove them.
+#c 然後撈起來。
+#a 115.66, None, 116.67
+
+67.
+R: ... pstoyun di ma==,_
+. remove PFV.PART then
+. 移出 完成.語助詞 然後
+
+#a 116.67, None, 117.84
+
+68.
+R: kika,_
+. thus
+. 所以
+
+#a 117.84, None, 119.16
+
+69.
+R: .. rbeg-un=su qsiya dungan.\
+. immerse-PF=2SG.GEN water again
+. 浸泡-受焦=2SG.屬格 水 又
+
+#a 119.16, None, 119.72
+
+70.
+R: ... t-- rbeg-un=su qsiya tleetu dungan.\
+. FS immerse-PF=2SG.GEN water lukewarm again
+. FS 浸泡-受焦=2SG.屬格 水 常溫 又
+
+#a 119.72, None, 121.62
+
+71.
+R: ... kika==,_
+. thus
+. 然後
+
+#a 121.62, None, 124.31
+
+72.
+R: ...(1.0) kingan rabi.\
+. one night
+. 一 晚
+
+#e When they are removed, immerse them in lukewarm water for one night.
+#c 撈起來後，浸泡在常溫水中一晚。
+#a 124.31, None, 126.13
+
+73.
+R: ... kingan rabi rbeg-un=su qsiya tleetu.\
+. one night immerse-PF=2SG.GEN water lukewarm
+. 一 晚 浸泡-受焦=2SG.屬格 水 常溫
+
+#e Immerse them in lukewarm water for one night.
+#c 泡常溫水一個晚上。
+#a 126.13, None, 127.17
+
+74.
+R: ... te==,_
+. DM
+. DM
+
+#a 127.17, None, 129.48
+
+75.
+R: ... so kusun do pstoyun=su di.\
+. like next.day PFV.PART remove=2SG.GEN PFV.PART
+. 像 隔日 完成.語助詞 移出=2SG.屬格 完成.語助詞
+
+#e The next day, remove them from water.
+#c 第二天，再撈起來。
+#a 129.48, None, 130.67
+
+76.
+R: ...(1.1) pstoyun=su di ma kika==,_
+. remove=2SG.GEN PFV.PART then thus
+. 移出=2SG.屬格 完成.語助詞 然後 所以
+
+#a 130.67, None, 133.31
+
+77.
+R: ... p-hdag-un=su,_
+. CAU-dry-PF=2SG.GEN
+. 使役-乾-受焦=2SG.屬格
+
+#n hido「太陽」。
+#a 133.31, None, 135.51
+#n hido「太陽」。
+
+78.
+R: saso di peni.\
+. shadow PFV.PART PART
+. 陰影 完成.語助詞 語助詞
+
+#e After you remove them from water, dry them in the shadow.
+#c 你撈起來以後，放在陰影下陰乾。
+#a 135.51, None, 136.66
+
+79.
+R: ... p-hdag-un=su saso di,_
+. CAU-dry-PF=2SG.GEN shadow PFV.PART
+. 使役-乾-受焦=2SG.屬格 陰影 完成.語助詞
+
+#a 136.66, None, 137.83
+
+80.
+R: ... kika,_
+. thus
+. 所以
+
+#a 137.83, None, 139.27
+
+81.
+R: m-dengu hari do kika,_
+. AF-dry a.little PFV.PART thus
+. 主焦-乾 一點 完成.語助詞 所以
+
+#a 139.27, None, 139.85
+
+82.
+R: ...(0.8) kika tmaq-un=su di.\
+. thus smash-PF=2SG.GEN PFV.PART
+. 所以 擊爛-受焦=2SG.屬格 完成.語助詞
+
+#e When they dry a little, you smash them.
+#c 稍微乾的時候，把它們擊爛。
+#a 139.85, None, 141.88
+
+83.
+R: ... tmaq-un=su di ma,_
+. smash-PF=2SG.GEN PFV.PART then
+. 擊爛-受焦=2SG.屬格 完成.語助詞 然後
+
+#a 141.88, None, 143.43
+
+84.
+R: kika,_
+. thus
+. 所以
+
+#a 143.43, None, 144.7
+
+85.
+R: ... a p-da-un=su <L2MtosweL2M>,_
+. FIL CAU-experience-PF=2SG.GEN dehydrate
+. FIL 使役-經歷-受焦=2SG.屬格 脫水
+
+#e After you smash them, you dehydrate them.
+#c 將他們擊爛後，讓他們脫水。
+#a 144.7, None, 145.9
+
+86.
+R: ... p-da-un=su <L2MtosweL2M>,_
+. CAU-experience-PF=2SG.GEN dehydrate
+. 使役-經歷-受焦=2SG.屬格
+
+#a 145.9, None, 147.91
+
+87.
+R: ma kika,_
+. then thus
+
+#a 147.91, None, 148.88
+
+88.
+R: ... m-hedu=su p-oda <L2MtosweL2M> de kika,_
+. AF-finish=2SG.GEN CAU-experience dehydrate PFV.PART thus
+. 主焦-完成=2SG.屬格 使役-經歷 脫水 完成.語助詞 所以
+
+#a 148.88, None, 150.11
+
+89.
+R: ...(0.7) psa-un sato.\
+. put-PF sugar
+. 放-受焦 糖
+
+#e When you finish dehydration, add sugar.
+#c 完成脫水之後，放糖。
+#a 150.11, None, 152.31
+
+90.
+R: ...(0.9) m-ntena kana kiya da.\
+. AF-same all that PFV.PART
+. 主焦-一樣 全部 完成.語助詞
+
+#e Everything is the same.
+#c 所有都一樣。
+#n 這裡指之後的步驟和前面所說的一樣。
+#a 152.31, None, 154.02
+
+91.
+R: psa-un sato di ma,_
+. put-PF sugar PFV.PART then
+. 放-受焦 糖 完成.語助詞 然後
+
+#a 154.02, None, 155.17
+
+92.
+R: ani nak a==,_
+. any self FIL
+. 任何 自己 FIL
+
+#a 155.17, None, 156.15
+
+93.
+R: ... ani nak tikuh hari p<n>sa-an sato han.\
+. any self little a.little <PFV>put-LF sugar first
+. 任何 自己 少 一點 <完成>放-處焦 糖 先
+
+#e It does not matter if you put less sugar.
+#c 糖放少一點沒關係。
+#a 156.15, None, 157.27
+
+94.
+U: ini pra-i kiya.\
+. NEG boil-IRR that
+. 否定 煮-非實現 那個
+
+#e It’s not boiled?
+#c 不煮嗎？
+#a 157.27, None, 159.26
+
+95.
+B: ini pra-i kiya.\
+. NEG boil-IRR that
+. 否定 煮-非實現 那個
+
+#e It’s not boiled.
+#c 不煮。
+#a 159.26, None, 160.43
+
+96.
+R: ma betaq mn-teru psa-un sato cqan-un=su kiya.\
+. then arrive MN-three put-PF sugar pour-PF=2SG.GEN that
+. 然後 抵達 MN-三 放-受焦 糖 倒-受焦=2SG.屬格 那個
+
+#n mn-teru三次。
+#a 160.43, None, 161.15
+#n mn-teru三次。
+
+97.
+R: ... cqan-un <L2JsankayL2J>.\
+. pour-PF three.times
+
+#e You add sugar and remove it for three times.
+#c 放糖，然後倒掉，要三次。
+#a 161.15, None, 164.26
+
+98.
+R: mn-teru.\
+. MN-three
+. MN-三
+
+#a 164.26, None, 165.31
+
+99.
+R: ... mn-teru a psa-an do,_
+. MN-three FIL put-LF PFV.PART
+. MN-三 FIL 放-處焦 完成.語助詞
+
+#a 165.31, None, 166.72
+
+100.
+R: cqan-un han kika,_
+. pour-PF first thus
+. 倒-受焦 先 所以
+
+#a 166.72, None, 167.88
+
+101.
+R: .. pray-un sato de kika psa-un dungan.\
+. boil-PF sugar PFV.PART thus put-PF again
+. 煮-受焦 糖 完成.語助詞 所以 放-受焦 又
+
+#e After adding and removing three times, boil sugar and put in again.
+#c 放糖倒掉三次後，接著煮糖水再倒入。
+#a 167.88, None, 169.37
+
+102.
+R: ... kika nak kiya cqan-un di.\
+. thus self that pour-PF PFV.PART
+. 所以 自己 倒-處焦 完成.語助詞
+
+#a 169.37, None, 171.44
+
+103.
+R: .. kiya di.\
+. that PFV.PART
+. 那個 完成.語助詞
+
+#e Pour it in. That’s it.
+#c 就要倒入，就是那樣。
+#a 171.44, None, 173.16
+
+104.
+R: ...(1.2) baka di.\
+. enough PFV.PART
+. 夠 完成.語助詞
+
+#a 173.16, None, 174.94
+
+105.
+R: ... baka di @@@@
+. enough PFV.PART @@@@
+. 夠 完成.語助詞 @@@@
+
+#a 174.94, None, 175.87
+
+106.
+U: ...(1.7) qta-an <L2JzikangL2J>.\
+. see-LF time
+. 看-處焦 時間
+
+#e See the time.
+#c 要看時間。
+#a 175.87, None, 180.7

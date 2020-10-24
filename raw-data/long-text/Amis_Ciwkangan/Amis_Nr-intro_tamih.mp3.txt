@@ -1,0 +1,3028 @@
+topic: Religion and My Life
+type: Narrative
+language: 阿美語, Amis, Ciwkangan(長光)
+speaker: 林茂德, Tamih, male, 1926-03-06
+collected: 2007-01-05
+revised: 2014-1-16
+video: Amis_Nr-intro_tamih.mp3
+
+1.
+mi==-,\
+AF-
+主焦-
+
+#a 7.69, None, 8.99
+
+2.
+... pa-ka-fana’    kaku       tu==,\
+CAU-KA-know  1SG.NOM  OBL
+使役-KA-知道   1SG.主格   斜格
+
+#a 8.99, None, 11.37
+
+3.
+.. u==rip    aku.\
+life     1SG.GEN
+生命   1SG.屬格
+
+#e I am going to tell (the story) about my life.
+#c 我來敘述我的一生。
+#a 11.37, None, 12.61
+
+4.
+... u    ngangan   aku,\
+CN    name     1SG.GEN
+CN  名字     1SG.屬格
+
+#a 12.61, None, 14.66
+
+5.
+... ci==,\
+NCM.SG.NOM
+NCM.SG.主格
+
+#a 14.66, None, 15.34
+
+6.
+.. tamih.\
+PN
+人名
+
+#e My name is Tamih.
+#c 我的名字是Tamih。
+#a 15.34, None, 16.03
+
+7.
+... ci             tamih      kuni,\
+NCM.SG.NOM  PN        this.NOM
+NCM.SG.主格   人名      這個.主格
+
+#a 16.03, None, 17.86
+
+8.
+.. pa-ka-lima           nu==,\
+CAU-KA-name.after   GEN
+使役-KA-命名      屬格
+
+#a 17.86, None, 19.06
+
+9.
+.. mama  atu      ina,\
+father  CONJ   mother
+父親  連接詞  母親
+
+#a 19.06, None, 20.19
+
+10.
+.. takuwanan.\
+1SG.OBL
+1SG.斜格
+
+#e My father and mother named me Tamih.
+#c Tamih的名字是我爸爸和媽媽給我取的。
+#a 20.19, None, 21.04
+
+11.
+... u    suwal    nu==,\
+CN    talk    GEN
+CN  說話   屬格
+
+#a 21.04, None, 23.14
+
+12.
+...(0.8) mi-hofuc-ay    takuwanan,\
+AF-give.birth-AY   1SG.OBL
+主焦-生-AY       1SG.斜格
+
+#a 23.14, None, 25.31
+
+13.
+.. a==,\
+LNK
+連詞
+
+#a 25.31, None, 25.9
+
+14.
+.. ina     atu     mama    aku,\
+mother  CONJ  father  1SG.GEN
+母親    連接詞  父親  1SG.屬格
+
+#a 25.9, None, 27.54
+
+15.
+... yu    ma-fu==raw    kuna==,\
+FIL    AF-move    that.NOM
+FIL    主焦-遷徙   那個.主格
+
+#a 27.54, None, 30.4
+
+16.
+... niyaro’   a    tayni,\
+tribe     LNK    come
+部落    連詞    來
+
+#a 30.4, None, 31.87
+
+17.
+.. tuna       pa-niyaro’-an,\
+this.OBL    PA-tribe-AN
+這個.斜格   PA-村落-AN
+
+#a 31.87, None, 32.96
+
+18.
+.. itiya   a  ma-hofuc       i       tisuwanan,\
+there  LNK  AF-give.birth   LOC     2SG.OBL
+那裡 連詞  主焦-生       處格     2SG.斜格
+
+#a 32.96, None, 34.8
+
+19.
+.. sa’an.\
+so
+如此
+
+#e My mother and father, who gave birth to me, said ‘you were born when we moved to this village.’
+#c 生我的父母說，那時部落遷徙來到這個村落時生下你的，如此。
+#a 34.8, None, 35.42
+
+20.
+... saka==,\
+so
+如此
+
+#a 35.42, None, 36.8
+
+21.
+... a==     a==,\
+FIL FIL
+FIL  FIL
+
+#a 36.8, None, 38.1
+
+22.
+.. u      miheca’an     aku      anini,\
+CN    age        1SG.GEN   now
+CN  年齡       1SG.屬格   現在
+
+#a 38.1, None, 39.81
+
+23.
+... falu    a     polo     ira         ku       c’cay.\
+eight    LNK  ten     EXIST      NOM     one
+八      連詞  十      存在       主格      一
+
+#e Now, I am 81 years old.
+#c 所以，我現在的年齡，八十一歲。
+#a 39.81, None, 42.16
+
+24.
+... a       mi-sa-tapang=tu        kaku      tu,\
+FIL    AF-SA-begin=PFV      1SG.NOM  OBL
+FIL    主焦-SA-開始=完成     1SG.主格   斜格
+
+#a 42.16, None, 44.46
+
+25.
+... sa-ka-falu     a       polo     ira      ku     tusa.\
+IF-KA-eight   LNK     ten     EXIST   NOM   two
+工焦-KA-八   連詞     十      存在    主格    二
+
+#e I am almost 82 years old.
+#c 我已經開始（進入）八十二歲。
+#a 44.46, None, 46.95
+
+26.
+...(1.0) a==,\
+FIL
+FIL
+
+#a 46.95, None, 48.42
+
+27.
+.. itini     kaku        itini     i==,\
+here   1SG.NOM     here    LOC
+這裡   1SG.主格     這裡    處格
+
+#a 48.42, None, 50.09
+
+28.
+.. i   <L2MchangpinkuosiawL2M>,\
+LOC   chang.bin.elementary.school
+處格     長濱國小
+
+#a 50.09, None, 51.55
+
+29.
+.. a       mi-tilid,\
+LNK    AF-study
+連詞    主焦-學習
+
+#a 51.55, None, 52.56
+
+30.
+... tu       nu==,\
+OBL     GEN
+斜格     屬格
+
+#a 52.56, None, 53.55
+
+31.
+.. <L2MsiawsueiL2M>.\
+elementary.school
+小學
+
+#e I went to Chang-bin Elementary School here.
+#c 我在長濱國小這裡唸小學。
+#a 53.55, None, 54.4
+
+32.
+...(0.8) ta==,\
+then
+然後
+
+#a 54.4, None, 55.92
+
+33.
+... a==,\
+FIL
+FIL
+
+#a 55.92, None, 57.78
+
+34.
+.. ma-harek     a       mi-tilid,\
+AF-finish    LNK     AF-study
+主焦-完成   連詞    主焦-讀書
+
+#a 57.78, None, 58.81
+
+35.
+.. tu    <L2MsiawsueiL2M>,\
+OBL    elementary.school
+斜格      小學
+
+#a 58.81, None, 59.7
+
+36.
+... awa’-ay      ku==,\
+EXIST.NEG-AY  NOM
+存在.否定-AY   主格
+
+#a 59.7, None, 61.52
+
+37.
+.. pa-pa-ka’en     tu   kulung,\
+Ca-CAU-eat    OBL    cow
+Ca重疊-使役-吃   斜格  牛
+
+#a 61.52, None, 62.84
+
+38.
+.. sa    ku     ma-tuas-ay,\
+so    NOM    AF-old-AY
+如此  主格  主焦-老-AY
+
+#e After I graduated from elementary school, the elders said, ‘no one could take care of the cows.’
+#c 到我結束小學學業，當時老人家說沒有人餵牛。
+#a 62.84, None, 64.11
+
+39.
+.. saka      i       luma==’,\
+so      LOC     house
+如此      處格     房子
+
+#a 64.11, None, 65.53
+
+40.
+.. satu  kaku      a==,\
+DM  1SG.NOM  LNK
+DM  1SG.主格   連詞
+
+#a 65.53, None, 66.47
+
+41.
+.. pa-ka’en  tu==,\
+CAU-eat  OBL
+使役-吃   斜格
+
+#a 66.47, None, 67.56
+
+42.
+.. kulung.\
+cow
+牛
+
+#e Thus, I stayed at home to take care of the cows.
+#c 所以我一直在家餵牛。
+#a 67.56, None, 68.17
+
+43.
+.. (H)
+.
+.
+
+#a 68.17, None, 68.68
+
+44.
+.. ma-ngalay     a      mi-tilid,\
+AF-want      LNK    AF-study
+主焦-想要    連詞    主焦-唸書
+
+#e I wanted to study.
+#c 我想要念書。
+#a 68.68, None, 70.09
+
+45.
+.. nika,\
+although
+雖然
+
+#a 70.09, None, 70.6
+
+46.
+.. ca’ay-ay      ka===-,\
+NEG-AY      KA-
+否定-AY      KA-
+
+#a 70.6, None, 71.85
+
+47.
+... a==  edeng  ku   kamay,\
+FIL   fit     NOM  hand
+FIL  適合   主格  手
+
+#a 71.85, None, 73.43
+
+48.
+.. nu   ma-tuas-ay,\
+GEN   AF-old-AY
+屬格  主焦-老-AY
+
+#a 73.43, None, 74.3
+
+49.
+.. saka  mala-mi==-,\
+so     become-AF-
+如此  成為-主焦-
+
+#a 74.3, None, 75.34
+
+50.
+.. padang-ay.\
+help-AY
+幫忙-AY
+
+#e But there were not enough people to help the elders; thus I became their helper.
+#c 但老人家的人手不夠；所以我成為幫手。
+#a 75.34, None, 76.16
+
+51.
+... saka==,\
+so
+如此
+
+#a 76.16, None, 77.58
+
+52.
+... ta==,\
+then
+然後
+
+#a 77.58, None, 78.73
+
+53.
+... ma==-,\
+AF-
+主焦-
+
+#a 78.73, None, 80.2
+
+54.
+.. tuas     kaku,\
+grow.up    1SG.NOM
+長大     1SG.主格
+
+#a 80.2, None, 81.41
+
+55.
+.. ma==,\
+FS
+FS
+
+#a 81.41, None, 82.69
+
+56.
+... u    ka-lalu==’ud   nu    dipong,\
+CN   KA-war   GEN   Japan
+CN   KA-戰爭  屬格   日本
+
+#a 82.69, None, 85.07
+
+57.
+.. atu==,\
+CONJ
+連接詞
+
+#a 85.07, None, 85.67
+
+58.
+.. nini   u  padaka   itiya   saka.\
+this  CN   US   then    so
+這個 CN  美國  那時    如此
+
+#e When I grew up, there was a war between Japan and the US then.
+#c 我稍微長大後，那時候日本和美國正在打仗。
+#a 85.67, None, 87.52
+
+59.
+... mala-mi-simaw-ay,\
+become-AF-garrison-AY
+成為-主焦-駐守-AY
+
+#a 87.52, None, 89.13
+
+60.
+.. kaku      i   tapulu,\
+1SG.NOM  LOC  hill
+1SG.主格   處格  山丘
+
+#a 89.13, None, 90.26
+
+61.
+.. tu,\
+OBL
+斜格
+
+#a 90.26, None, 90.61
+
+62.
+.. mi-kacaw-ay     tu       <L2JhikukiL2J>,\
+AF-guard-AY     OBL        plane
+主焦-看守-AY   斜格        飛機
+
+#e I was garrisoned in the hill to take care of the soldiers who guarded the planes.
+#c 我成為駐守在山丘駐守，照顧監視飛機的人。
+#a 90.61, None, 92.23
+
+63.
+... anu      ira      ku==,\
+COND   EXIST   NOM
+條件詞   存在    主格
+
+#a 92.23, None, 93.37
+
+64.
+.. <L2JhikukiL2J>   nu==,\
+plane        GEN
+飛機        屬格
+
+#a 93.37, None, 94.44
+
+65.
+... u     padaka,\
+CN     US
+CN   美國
+
+#a 94.44, None, 95.64
+
+66.
+.. u      ma-mi-,\
+CN   Ca-AF-
+CN    Ca重疊-主焦-
+
+#a 95.64, None, 96.36
+
+67.
+.. pa-ka-fana’         a==,\
+CAU-KA-know    LNK
+使役-KA-知道    連詞
+
+#a 96.36, None, 97.27
+
+68.
+.. ma-emin,\
+AF-all
+主焦-全部
+
+#e If there were US planes, I would notify all the soldiers.
+#c 假如有美國的飛機，我都會通知。
+#a 97.27, None, 97.88
+
+69.
+... e    sepat    a      miheca,\
+FIL   four   LNK    year
+FIL   四    連詞     年
+
+#a 97.88, None, 99.57
+
+70.
+.. ta   ku       itira,\
+then  NOM    there
+然後  主格     那裡
+
+#a 99.57, None, 100.55
+
+71.
+... ta,\
+then
+然後
+
+#a 100.55, None, 101.36
+
+72.
+.. a==  ma-lepun=tu      ku,\
+FIL   AF-finish=PFV  NOM
+FIL   主焦-結束=完成 主格
+
+#a 101.36, None, 102.83
+
+73.
+.. ka-lalu’ud    sawad,\
+KA-war     finish
+KA-戰爭   結束
+
+#a 102.83, None, 104.03
+
+74.
+.. satu.\
+DM
+DM
+
+#e I stayed there for four years until the war was over.
+#c 我在那裡四年，戰爭結束了。
+#a 104.03, None, 104.65
+
+75.
+... ta   mi-padang=tu     kaku        tu,\
+then   AF-help=PFV    1SG.NOM     OBL
+然後   主焦-幫忙=完成  1SG.主格     斜格
+
+#a 104.65, None, 106.74
+
+76.
+... mi-hiya       tu==nini       u      tayal     nu,\
+AF-this.way    this.OBL    CN   work    GEN
+主焦-這樣     這個.斜格   CN  工作   屬格
+
+#a 106.74, None, 109.48
+
+77.
+.. ma-tuas-ay.\
+AF-old-AY
+主焦-老-AY
+
+#e Then I helped the elders with their work.
+#c 我就幫忙老人家的工作。
+#a 109.48, None, 110.52
+
+78.
+... mala-ma-linga==d-ay   ku,\
+become-AF-farm-AY    NOM
+成為-主焦-農務-AY  主格
+
+#a 110.52, None, 112.72
+
+79.
+.. tayal     aku.\
+work    1SG.GEN
+工作     1SG.屬格
+
+#e My job was farming.
+#c 我的工作是務農。
+#a 112.72, None, 113.83
+
+80.
+...(0.7) e==,\
+FIL
+FIL
+
+#a 113.83, None, 115.17
+
+81.
+.. na      ma==-,\
+PAST    AF-
+過去      主焦-
+
+#a 115.17, None, 115.71
+
+82.
+.. pa-harek      ku,\
+CAU-finish   NOM
+使役-結束  主格
+
+#a 115.71, None, 116.87
+
+83.
+... ka-lalu’ud     nu,\
+KA-war       GEN
+KA-戰爭     屬格
+
+#a 116.87, None, 118.42
+
+84.
+.. dipong   i.\
+Japan   DM
+日本    DM
+
+#a 118.42, None, 119.26
+
+85.
+... ira       ku      tayni    ku   hiya,\
+EXIST    NOM  come  NOM  this.way
+存在     主格   來   主格    這樣
+
+#a 119.26, None, 121.74
+
+86.
+.. ku==,\
+NOM
+主格
+
+#a 121.74, None, 122.21
+
+87.
+.. pa-tenak-ay    tu        suwal    nu    kawas,\
+CAU-preach-AY  OBL     speech    GEN   god
+使役-宣揚-AY   斜格     話      屬格    神
+
+#a 122.21, None, 124.19
+
+88.
+... mi-pa-ka-fana’=tu,\
+AF-CAU-KA-know=PFV
+主焦-使役-KA-知道=完成
+
+#a 124.19, None, 126.52
+
+89.
+... tu==nini      u,\
+this.OBL      CN
+這個.斜格  CN
+
+#a 126.52, None, 127.64
+
+90.
+.. <L2McituciawL2M>     hatira-ay.\
+Christianity        that.way-AY
+基督教          那樣-AY
+
+#e After the war of Japan was over, someone came to preach the words of God, to preach Christianity.
+#c 那時日本的戰爭結束，有人來傳授神的話語，傳授基督教這樣子。
+#a 127.64, None, 129.06
+
+91.
+... fahka’    ku      falucu’   aku         tu      nika==,\
+surprised    NOM    mind    1SG.GEN    OBL    although
+驚訝      主格     心      1SG.屬格    斜格     雖然
+
+#a 129.06, None, 131.62
+
+92.
+.. s==,\
+FS
+FS
+
+#a 131.62, None, 132.07
+
+93.
+... a     pa-si-fana’     nuya     pa-tenak-ay,\
+LNK  CAU-SI-know  that.GEN  CAU-preach-AY
+連詞   使役-SI-知道  那個.屬格  使役-宣揚-AY
+
+#a 132.07, None, 134.2
+
+94.
+.. tu   suwal     nu     kawas,\
+OBL  speech   GEN   god
+斜格  話     屬格    神
+
+#e I was amazed by the preacher.
+#c 對於那個傳授神的話語的人，我心裡很驚訝。
+#a 134.2, None, 135.33
+
+95.
+... saka==,\
+so
+如此
+
+#a 135.33, None, 136.76
+
+96.
+... a==,\
+FIL
+FIL
+
+#a 136.76, None, 138.65
+
+97.
+.. pa-su’elin=tu     kaku,\
+CAU-real=PFV   1SG.NOM
+使役-真的=PFV  1SG.主格
+
+#a 138.65, None, 139.98
+
+98.
+.. unini=tu      ku  su’elin==-ay    sa      kaku.\
+this=PFV    NOM  real-AY        so     1SG.NOM
+這個=完成   主格  真的-AY      如此    1SG.主格
+
+#e I believed in it. It was the truth, I thought.
+#c 我相信了，最真的（道理）就是這個。我如此想。
+#a 139.98, None, 142.89
+
+99.
+... saka==,\
+so
+如此
+
+#a 142.89, None, 144.27
+
+100.
+... a==  a==,\
+FIL  FIL
+FIL  FIL
+
+#a 144.27, None, 145.72
+
+101.
+.. tusa  miheca,\
+two  year
+二    年
+
+#a 145.72, None, 146.66
+
+102.
+.. kuni        ka-pi-sa-tayni,\
+this.NOM    KA-PI-SA-come
+這個.主格    KA-PI-SA-來
+
+#a 146.66, None, 147.9
+
+103.
+.. ni  nuya      pa-tenak-ay,\
+FS  that.GEN   CAU-preach-AY
+FS  那個.屬格  使役-宣揚-AY
+
+#e During those two years, the preachers kept coming.
+#c 這二年間那些宣教者不斷地來這。
+#a 147.9, None, 149.4
+
+104.
+... ma-palal=tu        ku     falucu’      aku         i,\
+AF-wake.up=PFV   NOM   heart      1SG.GEN     DM
+主焦-醒=完成      主格    心       1SG.屬格      DM
+
+#e My mind was enlightened.
+#c 我的心頓悟了。
+#a 149.4, None, 151.68
+
+105.
+.. ketun    sa      ku     falucu’    a==,\
+cut   so      NOM    heart    LNK
+切   如此    主格    心      連詞
+
+#a 151.68, None, 153.58
+
+106.
+.. pa-su’elin.\
+CAU-real
+使役-真的
+
+#e I firmly believed in it.
+#c 我決心要相信。
+#n ketun用在抽象地方表示決心。
+#a 153.58, None, 154.79
+
+107.
+... na      itiya     i,\
+PAST     then     DM
+過去      那時    DM
+
+#a 154.79, None, 156.4
+
+108.
+... a==,\
+LNK
+連詞
+
+#a 156.4, None, 157.8
+
+109.
+.. ira      ku      pi-kinkin,\
+EXIST   NOM    PI-ring
+存在    主格      PI-響
+
+#a 157.8, None, 158.79
+
+110.
+.. pi-hiya,\
+PI-this.way
+PI-這樣
+
+#a 158.79, None, 159.45
+
+111.
+.. pi-tahidang  na,\
+PI-invite  FS
+PI-邀請   FS
+
+#a 159.45, None, 160.59
+
+112.
+... nu       hiya,\
+GEN     this.way
+屬格     這樣
+
+#a 160.59, None, 161.55
+
+113.
+.. nuni        pa-tenak-ay,\
+this.GEN   CAU-preach-AY
+這個.屬格   使役-宣揚-AY
+
+#e From then on, a preacher called me to invite me to become a preacher.
+#c 從那時，有傳教士打電話邀請我當傳教士。
+#a 161.55, None, 162.67
+
+114.
+.. tu  anu       ma-ngalay     mi-tilid,\
+OBL  COND    AF-want      AF-study
+斜格  條件詞     主焦-想要    主焦-唸書
+
+#a 162.67, None, 164.26
+
+115.
+... ma-ma’an     mi-tilid,\
+AF-what     AF-study
+主焦-什麼     主焦-唸書
+
+#a 164.26, None, 165.85
+
+116.
+... ta    mala-,\
+till    become-
+到     成為-
+
+#a 165.85, None, 166.98
+
+117.
+.. pa-tenak-ay        kisu        sa’an.\
+CAU-preach-AY    2SG.NOM   said.so
+使役-宣揚-AY     2SG.主格    如此說
+
+#e If you want to study, you can study and become a preacher.
+#c 如果你想念書，可以讀書，直到你成為傳教者，如是說。
+#a 166.98, None, 168.76
+
+118.
+... ma-kanid      ku     falucu’   aku,\
+AF-expect     NOM    mind    1SG.GEN
+主焦-期盼    主格      心      1SG.屬格
+
+#e I was eager (to be a preacher).
+#c 我很期盼（變成一個傳教士）。
+#a 168.76, None, 170.79
+
+119.
+.. tala-cuwa,\
+to-where
+到-哪裡
+
+#a 170.79, None, 171.53
+
+120.
+... ca’ay  ka-edeng   ku==,\
+NEG   KA-fit     NOM
+否定  KA-適合    主格
+
+#a 171.53, None, 172.96
+
+121.
+.. mali   ku    tayal  nu==,\
+FS   NOM  work  GEN
+FS   主格  工作  屬格
+
+#a 172.96, None, 174.24
+
+122.
+.. ma-lingad-ay,\
+AF-farm-AY
+主焦-農務-AY
+
+#a 174.24, None, 175.1
+
+123.
+... nika,\
+although
+雖然
+
+#a 175.1, None, 176.06
+
+124.
+... a==,\
+LNK
+連詞
+
+#a 176.06, None, 177.16
+
+125.
+.. halili       sa      ku==,\
+grudging    SA      NOM
+勉強       SA     主格
+
+#a 177.16, None, 178.49
+
+126.
+.. mama     atu     ina      aku,\
+father      CONJ  mother  1SG.GEN
+父親      連接詞  母親   1SG.屬格
+
+#a 178.49, None, 179.74
+
+127.
+.. a       mi-hayda,\
+LNK    AF-agree
+連詞    主焦-同意
+
+#e There was a shortage of workers at the farm, my father and mother grudgingly agreed.
+#c 雖然農夫的生活非常不足，但是我的爸爸媽媽勉強答應。
+#a 179.74, None, 180.64
+
+128.
+.. ta    mi-tild      kaku,\
+then    AF-study    1SG.NOM
+然後   主焦-唸書   1SG.主格
+
+#e Then I studied.
+#c 然後我讀書。
+#a 180.64, None, 182.48
+
+129.
+... na      ma-harek     ka    mi-tilid        haw     i,\
+PAST     AF-finish    KA    AF-study      HAW    DM
+過去      主焦-完成   KA   主焦-唸書      HAW  DM
+
+#a 182.48, None, 184.9
+
+130.
+... a==,\
+LNK
+連詞
+
+#a 184.9, None, 185.87
+
+131.
+.. aluman-aluman=tu      ku  sarikaka  itini    i,\
+RED-many=PFV   NOM    disciple  here  DM
+重疊-很多=完成  主格     門徒    這裡  DM
+
+#e After I graduated, there were many disciples.
+#c 我畢業後，有很多信徒。
+#a 185.87, None, 188.53
+
+132.
+.. mala-,\
+become-
+成為-
+
+#a 188.53, None, 189.07
+
+133.
+... a==,\
+FIL
+FIL
+
+#a 189.07, None, 191.03
+
+134.
+.. singsi    tu      nu     itini-ay,\
+teacher  OBL    GEN    here-AY
+老師    斜格     屬格   這裡-AY
+
+#a 191.03, None, 192.5
+
+135.
+.. kaku      XX   pa-tenak.\
+1SG.NOM  XX  CAU-preach
+1SG.主格  XX   使役-宣揚
+
+#e I became a teacher here, preaching.
+#c 我成為老師在這裡宣教。
+#a 192.5, None, 193.87
+
+136.
+...(0.7) ca’ay   ka    itini       a         c’cay,\
+NEG   KA    here      LNK       one
+否定   KA     這裡    連詞        一
+
+#a 193.87, None, 196.09
+
+137.
+... unini      anu==,\
+this    COND
+這裡  條件詞
+
+#a 196.09, None, 197.8
+
+138.
+... <L2MchangpingL2M>  a    <L2TkuanL2T>,\
+PN         LNK        district
+地名         連詞        管區
+
+#a 197.8, None, 199.35
+
+139.
+.. tangansa       i       makuta’ay,\
+arrive     LOC      PN
+到達     處格      地名
+
+#e Not only here, I also went to Changbin and the port.
+#c 不止這裡一處，還從長濱到大港口。
+#a 199.35, None, 200.94
+
+140.
+... ca     ka-pi-tulas   kaku,\
+NEG   KA-PI-end   1SG.NOM
+否定   KA-PI-結束  1SG.主格
+
+#a 200.94, None, 202.62
+
+141.
+.. a     mi-rakat     a    mi-,\	
+LNK   AF-walk   LNK   AF-
+連詞   主焦-走   連詞   主焦-
+
+#a 202.62, None, 204.07
+
+142.
+... pa-tenak      tu      suwal    nu     kawas.\
+CAU-preach    OBL     talk    GEN    god
+使役-宣揚     斜格    話      屬格    神
+
+#e I kept preaching the words of God.
+#c 我不斷走路宣揚神的話語。
+#a 204.07, None, 206.15
+
+143.
+... saka==,\
+so
+如此
+
+#a 206.15, None, 207.39
+
+144.
+... itiya      i,\
+then      DM
+那時     DM
+
+#a 207.39, None, 208.28
+
+145.
+.. ca=ho        ka    alumnan,\
+NEG=IMPFV   KA   many
+否定=未完成   KA    很多
+
+#a 208.28, None, 209.23
+
+146.
+.. ku      pa-tenak-ay,\
+NOM  CAU-preach-AY
+主格    使役-宣揚-AY
+
+#e There weren’t many preachers at that time.
+#c 那個時候沒有很多傳教士。
+#a 209.23, None, 210.29
+
+147.
+... a==,\
+LNK
+連詞
+
+#a 210.29, None, 211.61
+
+148.
+.. kaku      a      c’cay   itini,\
+1SG.NOM  LNK  one   here
+1SG.主格  連詞   一    這裡
+
+#a 211.61, None, 213.15
+
+149.
+.. ci          fodo’,\
+NCM.SG.NOM  PN
+NCM.SG.主格  人名
+
+#a 213.15, None, 213.77
+
+150.
+.. ku     tihi       aku==,\
+NOM  company   1SG.GEN
+主格   同伴      1SG.屬格
+
+#e I (preached) on my own, or with Fodo’ sometimes.
+#c 我一個人（傳教），有時跟我的同伴Fodo’。
+#a 213.77, None, 214.9
+
+151.
+... saka==,\
+so
+如此
+
+#a 214.9, None, 216.48
+
+152.
+.. sa-aluman,\
+SA-many
+SA-很多
+
+#a 216.48, None, 217.36
+
+153.
+.. sa-aluman    satu.\
+SA-many    DM
+SA-很多   DM
+
+#e There were more and more (preachers) afterwards.
+#c 後來傳教士就愈來愈多了。
+#a 217.36, None, 218.63
+
+154.
+...(0.9) na   na   nu     iya,\
+PAST   PAST  GEN  then
+過去   過去   屬格  那時
+
+#a 218.63, None, 220.49
+
+155.
+.. i    pa-tireng=tu     kami  tu        <L2JkiokayL2J>,\
+DM  CAU-stand=PFV  1EPL.NOM  OBL  church
+DM  使役-站立=完成  1EPL.主格   斜格    教堂
+
+#a 220.49, None, 222.29
+
+156.
+.. itini,\
+here
+這裡
+
+#e And then we built a church here.
+#c 不久之後我們在這裡蓋教會。
+#a 222.29, None, 223.06
+
+157.
+... na    pa-tireng    tu      <L2JkiokayL2J>,\
+PAST   CAU-stand  OBL      church
+過去    使役-站立   斜格      教堂
+
+#a 223.06, None, 225.37
+
+158.
+.. saka,\
+so
+如此
+
+#a 225.37, None, 226.04
+
+159.
+... a==,\
+FIL
+FIL
+
+#a 226.04, None, 226.87
+
+160.
+.. sepat      a      miheca,\
+four      LNK   year
+四       連詞    年
+
+#a 226.87, None, 228.34
+
+161.
+...(0.8) ira    kuya         na       i==,\
+EXIST   that.NOM     from     LOC
+存在     那個.主格    從      處格
+
+#a 228.34, None, 230.54
+
+162.
+.. padaka,\
+US
+美國
+
+#a 230.54, None, 231.41
+
+163.
+.. ci            turis,\
+NCM.SG.NOM   PN
+NCM.SG.主格   人名
+
+#a 231.41, None, 232.58
+
+164.
+... mi==-,\
+AF-
+主焦-
+
+#a 232.58, None, 233.95
+
+165.
+.. nanam   tu      suwal   nu      Amis,\
+learn      OBL     speech  GEN    Amis
+學習    斜格     話     屬格     阿美族
+
+#e  Four years after we built the church, Turis, who was from the States, came here to learn Amis.
+#c 我們建教會的第四年，有一個從美國來叫做Turis的人，來學習阿美語。
+#a 233.95, None, 235.86
+
+166.
+... saka,\
+so
+如此
+
+#a 235.86, None, 236.81
+
+167.
+.. ma-tama     nira         kaku,\
+PF-find    3SG.GEN      1SG.NOM
+受焦-找到  3SG.屬格       1SG.主格
+
+#a 236.81, None, 238.25
+
+168.
+... adi==hay      ku     pi-licay    nira.\
+many      NOM    PI-ask     3SG.GEN
+很多     主格    PI-問      3SG.屬格
+
+#e He found me and asked many (questions).
+#c 他找到我，問我很多問題。
+#a 238.25, None, 241.35
+
+169.
+... ira       ku      tihi          nira,\
+EXIST   NOM   company      3SG.GEN
+存在    主格    陪伴          3SG.屬格
+
+#a 241.35, None, 243.29
+
+170.
+... ci==,\
+NCM.SG.NOM
+NCM.SG.主格
+
+#a 243.29, None, 244.43
+
+171.
+.. urok,\
+PN
+人名
+
+#a 244.43, None, 245.17
+
+172.
+... u     roma    satu  a     tihi        ira,\
+CN   other     DM  LNK  company   EXIST
+CN  其他      DM  連詞   陪伴     存在
+
+#a 245.17, None, 246.91
+
+173.
+.. ci             tuana.\
+NCM.SG.NOM    PN
+NCM.SG主格    人名
+
+#e He had a companion, Urok; another was Tuana.
+#c 他有同伴，像Urok，其次的同伴呢，有Tuana。
+#a 246.91, None, 247.85
+
+174.
+...(0.8) e    ca’ay    ka  ma-ti==ya,\
+FIL  NEG   KA  AF-this.way
+FIL  否定   KA  主焦-這樣
+
+#a 247.85, None, 250.17
+
+175.
+.. uni       urok   acu,\
+this   PN  FS
+這個 人名 FS
+
+#a 250.17, None, 251.19
+
+176.
+.. tu  atu   ni    tuana,\
+FS  CONJ   GEN  PN
+FS  連接詞  屬格  人名
+
+#a 251.19, None, 252.52
+
+177.
+.. kuya,\
+this.NOM
+這個.主格
+
+#a 252.52, None, 253.07
+
+178.
+... pi-tengil   nira       tu==,\
+PI-listen   3SG.GEN   OBL
+PI-聽     3SG.屬格   斜格
+
+#a 253.07, None, 255.21
+
+179.
+.. pa-si-fa==na’    aku        saka,\
+CAU-SI-know   1SG.GEN     so
+使役-SI-知道   1SG.屬格      如此
+
+#e After he heard what I taught him, he found that it was different from what Urok and Tuana spoke.
+#c 他發現不像Urok和Tuana（說的話），當他聽了我教他之後。
+#a 255.21, None, 257.01
+
+180.
+... repet-han      nira         kaku,\
+catch-HAN.PF     3SG.GEN    1SG.NOM
+抓-HAN.受焦       3SG.屬格    1SG.主格
+
+#e He grabbed hold of me.
+#c 他抓住我。
+#a 257.01, None, 259.46
+
+181.
+... kisu=tu          ku         malu-tihi,\
+2SG.NOM=PFV   NOM      become-company
+2SG.主格=完成    主格      成為-陪伴
+
+#a 259.46, None, 261.22
+
+182.
+.. aku            a==,\
+1SG.GEN      LNK
+1SG.屬格      連詞
+
+#a 261.22, None, 261.98
+
+183.
+... mi==-hiya,\
+AF-this.way
+主焦-這樣
+
+#a 261.98, None, 263.06
+
+184.
+.. mi-nanam    tu      tilid     nu     Amis,\
+AF-learn     OBL    word    GEN   Amis
+主焦-學習   斜格    文字    屬格   阿美族
+
+#e You are my companion when I study Amis.
+#c 你成為我學習阿美語的伴了。
+#a 263.06, None, 264.82
+
+185.
+.. mi-falic       kita         tu      fangcal-ay    a       cutad,\
+AF-translate    1IPL.NOM  OBL     good-AY    LNK     book
+主焦-翻譯     1IPL.主格   斜格     好-AY      連詞     書
+
+#a 264.82, None, 267.2
+
+186.
+.. sa’an.\
+said.so
+如此說
+
+#e Let us translate the Bible (into Amis).
+#c 我們來翻譯聖經。
+#a 267.2, None, 267.9
+
+187.
+... saka,\
+so
+如此
+
+#a 267.9, None, 268.87
+
+188.
+... na      iti==ya,\
+PAST     then
+過去      那時
+
+#a 268.87, None, 270.51
+
+189.
+... mi-sa-tapang=tu       kaku       a==,\
+AF-SA-start=PFV     1SG.NOM   LNK
+主焦-SA-開始=完成   1SG.主格    連詞
+
+#a 270.51, None, 273.14
+
+190.
+... pa-tihi         cingranan.\
+CAU-company   3SG.OBL
+使役-陪伴       3SG.斜格
+
+#e From then on, I started to accompany him.
+#c 從那時起，我開始與他作伴。
+#a 273.14, None, 274.9
+
+191.
+... tu==       lipa-lipay,\
+OBL     RED-week
+斜格     重疊-星期
+
+#a 274.9, None, 276.9
+
+192.
+... tayra    i==tini    i     sinku,\
+go    here   LOC   PN
+去  這裡   處格  地名
+
+#a 276.9, None, 279.06
+
+193.
+.. i    luma’    nira      a  pa-tihi,\
+LOC  house   3SG.GEN  LNK  CAU-company
+處格  房子  3SG.屬格   連詞  使役-陪伴
+
+#a 279.06, None, 280.73
+
+194.
+... mi-nanam     tu   ti,\
+AF-learn       FS  FS
+主焦-學習     FS  FS
+
+#a 280.73, None, 282.22
+
+195.
+.. tu      suwal     nu     Amis    cingra,\
+OBL    speech   GEN   Amis      3SG.NOM
+斜格    話     屬格   阿美族     3SG.主格
+
+#e Every week, I went to his house at Hsinkang so that he could study Amis with me.
+#c 每個星期，我都去他新港的家作陪，陪他學阿美語。
+#a 282.22, None, 283.68
+
+196.
+.. ta   mi-falic     kami,\
+then  AF-translate  1EPL.NOM
+然後  主焦-翻譯   1EPL.主格
+
+#a 283.68, None, 284.98
+
+197.
+.. tu      fangcal-ay    cutad.\
+OBL    good-AY     book
+斜格    好-AY       書
+
+#e And then we translated the Bible (into Amis).
+#c 然後我們(開始)翻譯聖經。
+#n fangcal-ay cutad聖經
+#a 284.98, None, 286.55
+
+198.
+... u     saka==,\
+CN    so
+CN  如此
+
+#a 286.55, None, 287.53
+
+199.
+.. itiya=ho  awa’-ay=ho        ku     tilid,\
+then=IMPFV  EXIST.NEG-AY=IMPFV  NOM  word
+那時=未完成  存在.否定-AY=未完成     主格  文字
+
+#a 287.53, None, 289.2
+
+200.
+.. nu     Amis,\
+GEN   Amis
+屬格   阿美族
+
+#a 289.2, None, 289.96
+
+201.
+... awa-ay=ho           ku      fangcal-ay   cutad,\
+EXIST.NEG-AY=IMPFV   NOM     good-AY    book
+存在.否定-AY=未完成      主格     好-AY      書
+
+#e At that time there was no written Amis, so there was no Amis Bible.
+#c 那時還沒有阿美語的文字，（因此）還沒有（阿美語的）聖經。
+#a 289.96, None, 292.2
+
+202.
+... na     i==ra       ci              turis,\
+PAST  EXIST    NCM.SG.NOM    PN
+過去    存在      NCM.SG.主格    人名
+
+#a 292.2, None, 294.47
+
+203.
+... ma-pa-tihi         aku           i,\
+PF-CAU-company  1SG.GEN     DM
+受焦-使役-陪伴    1SG.屬格     DM
+
+#e After Turis came, I accompanied (him).
+#c 從有Turis（來）之後，我陪著（他）。
+#a 294.47, None, 296.1
+
+204.
+... itiya=tu    mi-sa-tapang,\
+then=PFV  AF-SA-start
+那時=完成  主焦-SA-開始
+
+#a 296.1, None, 298.12
+
+205.
+.. ira    ku    tilid    nu   niam     u,\
+EXIST  NOM  word  GEN 1EPL.POSS  CN
+存在  主格 文字  屬格  1EPL.所有格  CN
+
+#a 298.12, None, 299.49
+
+206.
+.. Amis.\
+Amis
+阿美族
+
+#e Then we had written Amis.
+#c 那時開始有了我們阿美族的文字。
+#a 299.49, None, 300.39
+
+207.
+... ta,\
+then
+然後
+
+#a 300.39, None, 301.59
+
+208.
+... ma-cuwat=itu,\
+AF-spread=PFV
+主焦-擴散=完成
+
+#e (The written Amis) spread.
+#c 到後來慢慢擴散。
+#a 301.59, None, 302.97
+
+209.
+.. sa-ayaw-ay=ho        i,\
+SA-before-AY=IMPFV  DM
+SA-之前-AY=未完成    DM
+
+#a 302.97, None, 304.31
+
+210.
+... ca’ay-ay,\
+NEG-AY
+否定-AY
+
+#a 304.31, None, 305.41
+
+211.
+.. ka  pi-hayda   ku        <L2McengfuL2M>,\
+KA  PI-agree  NOM        government
+KA   PI-同意    主格        政府
+
+#a 305.41, None, 306.9
+
+212.
+.. tu,\
+OBL
+斜格
+
+#a 306.9, None, 307.39
+
+213.
+... tu  tunini       tiya      tu      nu,\
+FS  this.OBL    this.way  OBL   GEN
+FS  這個.斜格   這樣    斜格    屬格
+
+#a 307.39, None, 309.37
+
+214.
+.. <L2MlomaciL2M>    saka,\
+Roman.alphabet     so
+羅馬字            如此
+
+#e The government did not approve of the use of the Roman alphabet.
+#c 最當初的時候，政府不同意羅馬文字。
+#a 309.37, None, 310.5
+
+215.
+..u      <L2Mcu’infuhawL2M>  tiya        tilid,\
+CN      zhu.yin.symbol     that.OBL    word
+CN    注音符號          那個.斜格   文字
+
+#a 310.5, None, 312.47
+
+216.
+.. nu     Amis.\
+GEN   Amis
+屬格   阿美族
+
+#e (So) we used Zhuyin symbols to transcribe Amis words.
+#c (於是)阿美語文字是注音符號。
+#n 目前沒有發現tu和itu的差別。
+#a 312.47, None, 313.28
+
+217.
+... ura-an=ho        ku==,\
+that-AN=IMPFV    NOM
+那個-AN=未完成  主格
+
+#a 313.28, None, 315.06
+
+218.
+.. tili==d     saka,\
+word     so
+文字     如此
+
+#a 315.06, None, 316.28
+
+219.
+... mi-nanam.\
+AF-learn
+主焦-學習
+
+#e We learned Amis that way.
+#c （我們）還用那樣子的文字學習。
+#a 316.28, None, 317.24
+
+220.
+... saka,\
+so
+如此
+
+#a 317.24, None, 318.18
+
+221.
+... na           i==tiya,\
+PAST       then
+過去         那時
+
+#a 318.18, None, 319.37
+
+222.
+.. mi-sa-tapang,\
+AF-SA-start
+主焦-SA-開始
+
+#a 319.37, None, 320.28
+
+223.
+... tangasa      itini     i.\
+arrive    here    DM
+到     這裡    DM
+
+#a 320.28, None, 322.36
+
+224.
+...(0.7) i       hiya,\
+LOC   this.way
+處格   這樣
+
+#a 322.36, None, 323.75
+
+225.
+.. itini     i==,\
+here    DM
+這裡    DM
+
+#a 323.75, None, 325.01
+
+226.
+.. i==,\
+LOC
+處格
+
+#a 325.01, None, 325.9
+
+227.
+.. enem   a    polo’    ira,\
+six     LNK  ten     EXIST
+六    連詞  十     存在
+
+#a 325.9, None, 327.07
+
+228.
+.. ku    lima  mehica’an,\
+NOM  five   age
+主格    五   歳
+
+#a 327.07, None, 328.46
+
+229.
+.. aku     a,\
+1SG.GEN LNK
+1SG.屬格 連詞
+
+#a 328.46, None, 329.18
+
+230.
+... mipat    a       mi==-,\
+FS    LNK     AF-
+FS    連詞     主焦-
+
+#a 329.18, None, 330.81
+
+231.
+.. fa==lic      tu      fangcal-ay    cutad.\
+translate  OBL    good-AY      book
+翻譯    斜格     好-AY       書
+
+#e From then on until I was 65, I took on the task of translating the Bible (into Amis).
+#c 從那時候開始，一直到65歲，從事翻譯聖經的工作。
+#a 330.81, None, 333.3
+
+232.
+... na  nu      iya     i,\
+PAST  GEN    then   DM
+過去 屬格   那時   DM
+
+#a 333.3, None, 334.79
+
+233.
+.. mi-nukay=tu         ci==,\
+AF-return=PFV  NCM.SG.NOM
+主焦-回來=完成     NCM.SG.主格
+
+#a 334.79, None, 336.17
+
+234.
+.. turis    tayra  i        padaka,\
+PN    go  LOC    US
+人名   去  處格    美國
+
+#a 336.17, None, 337.86
+
+235.
+... ira=tu        ku     fa’eluh-ay     a==,\
+EXIST=PFV  NOM   new-AY      LNK
+存在=完成   主格    新-AY       連詞
+
+#a 337.86, None, 340.18
+
+236.
+... a       <L2MxuanjiaoshiL2M>,\
+LNK         preacher
+連詞         宣教士
+
+#a 340.18, None, 341.83
+
+237.
+... ci               afan.\
+NCM.SG.NOM    PN
+NCM.SF.主格    人名
+
+#e (After) Turis returned to the States, there was a new preacher, Afan.
+#c Turis回美國後，有了一位新的宣教師，Afan。
+#a 341.83, None, 343.11
+
+238.
+... ta   ci            afan=tu      kuni    pa-tuludang,\
+then  NCM.SG  PN=PFV   this.NOM   CAU-entrust
+然後  NCM.SG   人名=完成   這個.主格  使役-托付
+
+#a 343.11, None, 345.52
+
+239.
+.. ni      turis     tu      sa-pi-falic,\
+GEN    PN   OBL    IF-PI-translate
+屬格  人名 斜格    工焦-PI-翻譯
+
+#e Turis entrusted the task of Bible translation to Afan.
+#c （之後）Turis把翻譯工作委託給Afan。
+#a 345.52, None, 347.11
+
+240.
+... saka,\
+so
+如此
+
+#a 347.11, None, 348.31
+
+241.
+... ci        afan=tu      ku      tihi,\
+NCM.SG    PN=PFV    NOM    company
+NCM.SG     人名=完成   主格    陪伴
+
+#a 348.31, None, 350.41
+
+242.
+... ni   aku        a        mi==-,\
+FS  1SG.GEN  LNK     AF-
+FS  1SG.屬格   連詞     主焦-
+
+#a 350.41, None, 352.48
+
+243.
+.. falic      tu==,\
+translate  OBL
+翻譯    斜格
+
+#a 352.48, None, 353.38
+
+244.
+.. tilid,\
+word
+文字
+
+#e Afan and I translated the Bible together.
+#c Afan成了我的同伴，翻譯（阿美）文字。
+#a 353.38, None, 353.92
+
+245.
+... saka      anu      harateng-en,\
+so      COND    think-PF
+如此      條件詞   想-受焦
+
+#a 353.92, None, 355.48
+
+246.
+.. aku       i,_
+1SG.GEN  DM
+1SG.屬格  DM
+
+#a 355.48, None, 356.21
+
+247.
+... a==,\
+FIL
+FIL
+
+#a 356.21, None, 357.65
+
+248.
+... a  a,\
+FIL FIL
+FIL FIL
+
+#a 357.65, None, 358.93
+
+249.
+... tulu     a      polo’,\
+three   LNK     ten
+三     連詞     十
+
+#a 358.93, None, 359.88
+
+250.
+.. ku     mehica’an    aku,\
+NOM   year       1SG.GEN
+主格    年         1SG.屬格
+
+#a 359.88, None, 360.96
+
+251.
+.. a      ma-ta==yal      tu,\
+LNK   AF-work     OBL
+連詞   主焦-工作    斜格
+
+#a 360.96, None, 362.89
+
+252.
+... uni          su==wal      nu     Amis,\
+this     speech    GEN    Amis
+這個    話       屬格    阿美族
+
+#a 362.89, None, 364.88
+
+253.
+.. a       mi-pa-la-tilid,\
+LNK    AF-CAU-LA-word
+連詞    主焦-使役-LA-文字
+
+#e In retrospect, I spent thirty years developing a writing system for Amis.
+#c 回憶當時，我三十年的工作，將阿美語文字化。
+#a 364.88, None, 366.09
+
+254.
+... saka    harateng-en   aku        i._
+so    think-PF     1SG.GEN   DM
+如此   想-受焦      1SG.屬格    DM
+
+#a 366.09, None, 368.23
+
+255.
+... hatay   anu      ca’ay,\
+INT    COND   NEG
+感嘆   條件詞   否定
+
+#a 368.23, None, 369.58
+
+256.
+.. ka  tayni    ci            turis,\
+KA  come  NCM.SG.NOM   PN
+KA   來   NCM.SG.主格    人名
+
+#a 369.58, None, 370.77
+
+257.
+.. anu     ca’ay    ka==-,\
+COND  NEG    KA-
+條件詞  否定    KA-
+
+#a 370.77, None, 371.61
+
+258.
+.. ulah    kaku        a       mi-pa-tihi,\
+like    1SG.NOM   LNK    AF-CAU-company
+喜歡   1SG.主格   連詞    主焦-使役-陪伴
+
+#a 371.61, None, 373.24
+
+259.
+.. ku      ca      ka,\
+NOM   NEG    KA
+主格   否定    KA
+
+#a 373.24, None, 374.39
+
+260.
+.. ci-tilid     kami        u      Amis,\
+get-word  1EPL.NOM  CN    Amis
+得-文字   1EPL.主格  CN   阿美族
+
+#e I thought if Turis hadn’t come, or if I had not liked his company, we would not have developed a writing system for Amis.
+#c 我想，還好！如果Turis沒來，如果我不喜歡跟他作伴，我們就不會將阿美語文字化了。
+#a 374.39, None, 375.99
+
+261.
+.. sa      ku      falucu’   aku         a==,\
+so     NOM    heart    1SG.GEN    LNK
+如此   主格    心       1SG.屬格    連詞
+
+#a 375.99, None, 377.96
+
+262.
+... ma==-,\
+AF-
+主焦-
+
+#a 377.96, None, 379.94
+
+263.
+.. ulah.\
+like
+喜歡
+
+#e I felt gratified.
+#c 這是我心理所慶幸的。
+#a 379.94, None, 380.67
+
+264.
+... sa-anini  sa=tu     i,\
+SA-now  SA=PFV    DM
+SA-現在 SA=完成     DM
+
+#a 380.67, None, 381.82
+
+265.
+.. ci-tilid=tu        i,_
+get-word=PFV   DM
+得-文字=完成    DM
+
+#e Now (we) have written Amis.
+#c 現在有文字了。
+#a 381.82, None, 383.02
+
+266.
+... fangcal=itu,\
+good=PFV
+好=完成
+
+#a 383.02, None, 384.3
+
+267.
+.. ma-ulah=tu       ku      aluman-ay    a      mi-saosi  tu,\
+AF-like=PFV     NOM    many-AY  LNK    AF-read  OBL
+主焦-喜歡=完成   主格     很多-AY 連詞    主焦-讀  斜格
+
+#a 384.3, None, 386.5
+
+268.
+.. fangcal-ay   cutad,\
+good-AY    book
+好-AY       書
+
+#e It is good that many people read the Bible.
+#c 很好的是有很多人閱讀聖經。
+#a 386.5, None, 387.63
+
+269.
+... mala-tilid=tu,\
+become-word=PFV
+成為-文字=完成
+
+#a 387.63, None, 389.01
+
+270.
+.. ma==-lalen=tu       ku     caciaw.\
+AF-unify=PFV     NOM     speech
+主焦-統一=完成   主格      話
+
+#e Our speech was unified as we had a writing system.
+#c 有了文字，話語就統一了。
+#a 389.01, None, 390.86
+
+271.
+... itiya=ho     yu,\
+then=IMPFV    FIL
+那時=未完成     FIL
+
+#a 390.86, None, 391.91
+
+272.
+.. awa=ho           kuna,\
+EXIST.NEG=IMPFV   this.NOM
+存在.否定=未完成     這個.主格
+
+#a 391.91, None, 392.92
+
+273.
+... a==s  a  ku,\
+FS  LNK  NOM
+FS   連詞   主格
+
+#a 392.92, None, 394.87
+
+274.
+… tilid     nu      Amis   i,_ 
+word    GEN    Amis    DM
+文字    屬格    阿美族   DM
+
+#a 394.87, None, 396.07
+
+275.
+... ca      ka-lecad    ku     caciaw,\
+NEG    KA-same   NOM   speech
+否定    KA-相同   主格    話
+
+#a 396.07, None, 397.85
+
+276.
+.. nu      Amis    atu     timul,\
+GEN     Amis     CONJ   south
+屬格     阿美族    連接詞  南方
+
+#a 397.85, None, 399.29
+
+277.
+.. atu      i     sifu’ay.\
+CONJ   LOC   center
+連接詞  處格   中間
+
+#e At the time when there was no writing system of Amis, the Amis spoken in the south was different from that spoken in the central area.
+#c 那時還沒有阿美文字的時候，阿美語南方的語言和中部不同。
+#a 399.29, None, 400.81
+
+278.
+... saka   u==,\
+so  CN
+如此  CN
+
+#a 400.81, None, 401.9
+
+279.
+.. kami       u   <L2McangpingL2M>  ni,\
+1EPL.NOM  CN       PN    GEN
+1EPL.主格   CN    地名   屬格
+
+#a 401.9, None, 403.18
+
+280.
+.. unu          sifu’,\
+this     center
+這個   中間
+
+#a 403.18, None, 404.1
+
+281.
+.. kami           saka.\
+1EPL.NOM     so
+1EPL.主格      如此
+
+#e Changbin is located in the middle.
+#c 我們長濱在中間。
+#a 404.1, None, 404.91
+
+282.
+... unu     sifu’     a       suwal   ku,\
+this    center   LNK    speech  NOM
+這個   中間    連詞    話    主格
+
+#a 404.91, None, 406.78
+
+283.
+.. <L2MpiaocunLM2>  anini  nu,\
+standard     now   GEN
+標準       現在   屬格
+
+#a 406.78, None, 408.33
+
+284.
+.. suwal   niam            u    Amis.\
+speech  1EPL.GEN      CN     Amis
+話      1EPL.屬格     CN    阿美族
+
+#e Now the Amis spoken in the central area is considered the standard speech.
+#c 現在以中間的話作為我們的標準阿美語。
+#a 408.33, None, 409.75
+
+285.
+... na      i==ra      kunini       a      fangcal-ay       cutad,\
+PAST   EXIST   this.NOM    LNK   good-AY         book
+過去    存在     這個.主格   連詞    好-AY          書
+
+#a 409.75, None, 412.72
+
+286.
+...(0.7) wa==,\
+INT
+感嘆
+
+#a 412.72, None, 414.81
+
+287.
+... ma-lecad=tu      ku      caciaw.\
+AF-same=PFV   NOM   speech
+主焦-相同=完成   主格    話
+
+#e Our speech was unified after we had an Amis Bible.
+#c 從有了聖經之後，話語統一了。
+#a 414.81, None, 417.01
+
+288.
+... mi-ala=tu   kuya     amis-ay,\
+AF-take=PFV  that.NOM  north-AY
+主焦-採用=完成  那個.主格 北方-AY
+
+#a 417.01, None, 418.92
+
+289.
+.. mi-ala=tu       ku   i       timul-ay      tu,\
+AF-take=PFV   NOM  LOC   south-AY    OBL
+主焦-採用=完成  主格  處格  南方-AY     斜格
+
+#a 418.92, None, 420.57
+
+290.
+... nini     u       suwal   sa-ka==-,\
+this    CN     speech   IF-KA-
+這個   CN   話      工焦-KA-
+
+#a 420.57, None, 421.89
+
+291.
+.. lalen    sa=tu,\
+unify    SA=PFV
+統一   SA=PFV
+
+#a 421.89, None, 422.96
+
+292.
+... saka,\
+so
+如此
+
+#e Both the north and south areas adopted the unified speech.
+#c 北部的採用了，南部的也採用了這樣子的話語。
+#a 422.96, None, 423.79
+
+293.
+... unini      a,\
+this  LNK
+這個  連詞
+
+#a 423.79, None, 425.08
+
+294.
+.. nika    ci-tilid=tu    ku    sa-kala-,\
+although  get-word=PFV  NOM   SA-KALA-
+雖然    得-文字=完成   主格    SA-KALA-
+
+#a 425.08, None, 426.79
+
+295.
+... c’cay    nu  hiya,\
+one   GEN  this.way
+一   屬格  這樣
+
+#a 426.79, None, 427.84
+
+296.
+.. nu==nini       u,\
+this.GEN      CN
+這個.屬格    CN
+
+#a 427.84, None, 428.86
+
+297.
+.. u==,\
+CN
+CN
+
+#a 428.86, None, 429.45
+
+298.
+.. tilid     nu==,\
+word   GEN
+文字   屬格
+
+#a 429.45, None, 430.45
+
+299.
+.. a       ku      suwal   nunini    nu      Amis.\
+FIL   NOM    speech  this.GEN    GEN      Amis
+FIL   主格     話     這個.屬格   屬格      阿美族
+
+#e The Amis language was unified as there was a writing system.
+#c 所以文字化了，阿美的話語合而為一。
+#a 430.45, None, 432.24
+
+300.
+... saka==,\
+so
+如此
+
+#a 432.24, None, 433.06
+
+301.
+.. u==      a-aray-en,\
+CN    RED-thank-PF
+CN    重疊-謝-受焦
+
+#a 433.06, None, 434.16
+
+302.
+.. kunini-an      mi-kansia      tu,\
+this.NOM-AN    AF-grateful  OBL
+這個.主格-AN   主焦-感謝     斜格
+
+#a 434.16, None, 435.65
+
+303.
+... pi-kelid  nu      kawas   sa      ku==,\
+PI-guide  GEN   God     so      NOM
+PI-帶領  屬格    神     如此    主格
+
+#a 435.65, None, 437.6
+
+304.
+.. falucu’   nu,\
+heart    GEN
+心      屬格
+
+#a 437.6, None, 438.48
+
+305.
+.. u==    maku.\
+CN   1SG.POSS
+CN    1SG.所有格
+
+#e We thank God for guiding us; that’s what I think.
+#c 所以感謝，感謝神的引領，我是這樣想的。
+#a 438.48, None, 439.75
+
+306.
+... e   kaku        i,_
+FIL 1SG.NOM   DM
+FIL 1SG.主格    DM
+
+#a 439.75, None, 441.07
+
+307.
+... ca’ay-ay   kaku     pi-tilid,\
+NEG-AY  1SG.NOM  PI-study
+否定-AY  1SG.主格  PI-唸書
+
+#a 441.07, None, 442.68
+
+308.
+.. tu==,\
+OBL
+斜格
+
+#a 442.68, None, 443.04
+
+309.
+.. takaraw-ay  tu  pitilidan,\
+tall-AY  OBL   school
+高-AY  斜格   學校
+
+#a 443.04, None, 444.44
+
+310.
+.. nawhani,\
+because
+因為
+
+#a 444.44, None, 445.16
+
+311.
+... u     <L2MsiawsueiL2M>     ku      pitilidan     aku,\
+CN    elementary.school    NOM     school      1SG.GEN
+CN     小學             主格      學校      1SG.屬格
+
+#e I did not receive higher education because I only attended elementary school.
+#c 我呢，我沒有讀到很高的學校，因為，我只有讀小學。
+#a 445.16, None, 447.4
+
+312.
+... uni     ka-ulah   aku         a       mi==-,\
+this      KA-like  1SG.GEN    LNK    AF-
+這個    KA-喜歡   1SG.屬格    連詞    主焦-
+
+#a 447.4, None, 449.42
+
+313.
+.. saosi    tu    cutad,\
+read  OBL  book
+讀  斜格   書
+
+#a 449.42, None, 450.8
+
+314.
+.. ku    sa-ka-fana’     aku  tu==,\
+NOM  SA-KA-know  1SG.GEN  OBL
+主格   IF-KA-知道   1SG.屬格  斜格
+
+#a 450.8, None, 452.25
+
+315.
+.. ma-ma=='an      a       demak-an.\
+RED-what     LNK     thing-AN
+重疊-什麼    連詞    事情-AN
+
+#e I like reading the Bible, which helped me learn about many things.
+#c 我喜歡讀聖經，這使我了解任何事情。
+#a 452.25, None, 453.64
+
+316.
+... anini,\
+now
+現在
+
+#a 453.64, None, 454.58
+
+317.
+... a==,\
+FIL
+FIL
+
+#a 454.58, None, 456.47
+
+318.
+... a       pa-hanhan=tu      kaku.\
+FIL   CAU-breathe=PFV  1SG.NOM
+FIL   使役-呼吸=完成    1SG.主格
+
+#e Now I have retired.
+#c 現在，我休息了。
+#n 阿美語的休息是causative morpheme加上「呼吸」的的使役動詞。
+#a 456.47, None, 458.43
+
+319.
+... e   u       pi==,\
+FIL   CN    FS
+FIL   CN    FS
+
+#a 458.43, None, 459.69
+
+320.
+.. u    ka-ta==yal     aku      i    <L2JkiokayL2J>,\
+CN   KA-work    1SG.GEN  LOC     church
+CN   KA-工作    1SG.屬格  處格    教會
+
+#a 459.69, None, 461.55
+
+321.
+... ta==,\
+then
+然後
+
+#a 461.55, None, 462.61
+
+322.
+... e==,\
+FIL
+FIL
+
+#a 462.61, None, 464.5
+
+323.
+... e,\
+FIL
+FIL
+
+#a 464.5, None, 465.22
+
+324.
+.. e== e,\
+FIL FIL
+FIL FIL
+
+#a 465.22, None, 466.29
+
+325.
+.. lima  a       polo’,\
+five  LNK    ten
+五   連詞    十
+
+#a 466.29, None, 467.12
+
+326.
+.. ku    mehica’an      aku     a==,\
+NOM   year       1SG.GEN   LNK
+主格    年        1SG.屬格  連詞
+
+#a 467.12, None, 468.55
+
+327.
+... mi-kerid     tu==,\
+AF-lead     OBL
+主焦-帶領   斜格
+
+#a 468.55, None, 470.49
+
+328.
+.. <L2JkiokayL2J>.\
+church
+教會
+
+#e I have been working for the church for fifty years, leading the church.
+#c 我在教會工作，呃，五十年，帶領教會。
+#a 470.49, None, 471.13
+
+329.
+... saka  yu  mi-<L2MtuisiuL2M>,\
+so    FIL  AF-retire
+如此   FIL   主焦-退休
+
+#a 471.13, None, 473.03
+
+330.
+.. kaku    i,\
+1SG.NOM  LOC
+1SG.主格   處格
+
+#a 473.03, None, 473.53
+
+331.
+.. pitu    polo’  ira      ku     lima,\
+seven  ten  EXIST  NOM   five
+七    十  存在   主格     五
+
+#a 473.53, None, 475.18
+
+332.
+.. mehica’an    aku.\
+year       1SG.GEN
+年        1SG.屬格
+
+#e I retired when I was 75.
+#c 我七十五歲時退休。
+#a 475.18, None, 476.54
+
+333.
+... ta==,\
+then
+然後
+
+#a 476.54, None, 477.65
+
+334.
+... a   na    nu     iya,\
+FIL   PAST  GEN   then
+FiL    過去   屬格   那時
+
+#a 477.65, None, 478.83
+
+335.
+.. pa-hanhan    sa=tu  tangansa   anini,\
+CAU-breathe  SA=PFV   arrive  now
+使役-呼吸   SA=完成    到達   現在
+
+#a 478.83, None, 480.86
+
+336.
+.. kunini   XX   pa-hanhan,\
+this.NOM  XX   CAU-breathe
+這個.主格  XX  使役-呼吸
+
+#e At that time I was resting; now I’m still resting.
+#c 到那時候在休息，到現在還是在休息。
+#a 480.86, None, 482.75
+
+337.
+... nikawrila  pa-hanhan   sa    aku      i,_
+although  CAU-breathe  SA    1SG.GEN  DM
+雖然     使役-呼吸   SA   1SG.屬格  DM
+
+#a 482.75, None, 484.97
+
+338.
+.. nikawrila   ku,\
+although    NOM
+雖然       主格
+
+#a 484.97, None, 486.16
+
+339.
+.. pi-padang    aku         tu,\
+PI-help    1SG.GEN      OBL
+PI-幫忙   1SG.屬格      斜格
+
+#a 486.16, None, 487.45
+
+340.
+.. mamang-ay   a   <L2JkiokayL2J>,\
+small-AY    LNK    church
+小-AY      連詞    教會
+
+#a 487.45, None, 488.85
+
+341.
+.. itini     i==,\
+here    LOC
+這裡   處格
+
+#a 488.85, None, 489.91
+
+342.
+.. <L2MyongfuL2M>,\
+PN
+地名
+
+#a 489.91, None, 490.63
+
+343.
+.. tu   atu==,\
+OBL  CONJ
+斜格  連接詞
+
+#a 490.63, None, 491.52
+
+344.
+.. takumi.\
+PN
+地名
+
+#e Although I have retired, I still help small churches here like those in Yongfu and Takumi.
+#c 雖然我休息，我還是幫忙一些小教會，在永福和田組這裡。
+#a 491.52, None, 492.21
+
+345.
+... a==,\
+FIL
+FIL
+
+#a 492.21, None, 493.36
+
+346.
+.. ca-cali==w        sa       kaku        a,\
+Ca-borrow      SA      1SG.NOM    LNK
+Ca重疊-借      SA     1SG.主格     連詞
+
+#a 493.36, None, 495.23
+
+347.
+... tayra    tuna        tusa,\
+go    this.OBL     two
+去     這個.斜格    二
+
+#a 495.23, None, 496.57
+
+348.
+.. a    <L2JkiukayL2J>  a     mi==-,\
+LNK     church      LNK   AF-
+連詞     教會        連詞   主焦-
+
+#a 496.57, None, 497.42
+
+349.
+.. padang,\
+help
+幫忙
+
+#e I go to both churches in turn to help.
+#c 我輪流去這二個教會幫忙。
+#n ca-caliw 輪流
+#a 497.42, None, 498.02
+
+350.
+...(0.7) anu     ca’=ho      ka,\
+COND  NEG=IMPFV   KA
+條件詞  否定=未完成    KA
+
+#a 498.02, None, 500.01
+
+351.
+... a==,\
+FIL
+FIL
+
+#a 500.01, None, 501.64
+
+352.
+.. pa==tay    mi-ma'an    a       mi-tulas,\
+dead     AF-what   LNK     AF-stop
+死      主焦-什麼  連詞     主焦-停止
+
+#a 501.64, None, 503.69
+
+353.
+.. sa       ku==,\
+SA      NOM
+SA    主格
+
+#a 503.69, None, 504.18
+
+354.
+.. falucu’   aku         a       ma-ulah,\
+heart     1SG.GEN   LNK     AF-like
+心       1SG.屬格    連詞     主焦-喜歡
+
+#e As long as I’m not dead yet, why would I stop doing what I like?
+#c 如果沒有死的話，幹麻要停止呢？
+#a 504.18, None, 505.59
+
+355.
+.. ma-tayal,\
+AF-work
+主焦-工作
+
+#a 505.59, None, 506.52
+
+356.
+... unu    kawas,\
+??      God
+??      神
+
+#a 506.52, None, 507.53
+
+357.
+.. kuni        a        tayal  sa      ku==,\
+this.NOM   LNK      work    SA      NOM
+這個.主格   連詞      工作  SA    主格
+
+#a 507.53, None, 509.17
+
+358.
+.. ulah     nu      falucu’   aku,\
+like      GEN   heart     1SG.GEN
+喜歡      屬格   心      1SG.屬格
+
+#a 509.17, None, 510.64
+
+359.
+... u       sa-ka-lipa==hak      aku,\
+CN    IF-KA-happy    1SG.GEN
+CN  工焦-KA-happy  1SG.屬格
+
+#a 510.64, None, 512.72
+
+360.
+.. ku   pi-ta’ong     tu      kawas.\
+NOM  PI-worship   OBL     God
+主格   PI-敬拜    斜格      神
+
+#e It gratifies me to serve God; it gladdens me to serve God.
+#c 侍奉神的工作是我心理所慶幸的，敬拜神讓我很快樂。
+#a 512.72, None, 514.12
+
+361.
+... saka,\
+so
+如此
+
+#a 514.12, None, 514.98
+
+362.
+.. anini     i,\
+now      DM
+現在      DM
+
+#a 514.98, None, 515.64
+
+363.
+.. ca==cay=tu     kaku,\
+one=PFV  1SG.NOM
+一=完成   1SG.主格
+
+#e Now I’m alone.
+#c 現在我一個人了。
+#n cacay和c’cay似乎是口音的差異，目前沒有發現有意思相異之處。
+#a 515.64, None, 516.99
+
+364.
+... a==,\
+FIL
+FIL
+
+#a 516.99, None, 517.88
+
+365.
+.. ma-emin=tu       a==,\
+AF-all=PFV      LNK
+主焦-全部=完成   連詞
+
+#a 517.88, None, 519.07
+
+366.
+.. ma-tuas    ku==nini       wawa,\
+AF-old   this.NOM    child
+主焦-老  這個.主格    小孩
+
+#a 519.07, None, 520.6
+
+367.
+.. la-lima,\
+Ca-five
+Ca重疊-五
+
+#a 520.6, None, 521.3
+
+368.
+.. ku      wawa     aku.\
+NOM    child      1SG.GEN
+主格     小孩      1SG.屬格
+
+#e My children are all grown-up; I have five children.
+#c 小孩子們全都長大了，我有五個小孩。
+#a 521.3, None, 522.15
+
+369.
+... ta-tusa,\
+Ca-two
+Ca重疊-二
+
+#a 522.15, None, 523.16
+
+370.
+.. ku        fafahi’an,\
+NOM      female
+主格       女性
+
+#a 523.16, None, 524.06
+
+371.
+.. ta-tulu      ku      fayinayan,\
+Ca-three   NOM     male
+Ca重疊-三     主格      男性
+
+#e Two daughters and three sons.
+#c 二個女的，三個男的。
+#a 524.06, None, 525.52
+
+372.
+.. ta   ma-emin=tu  ci-tayal,\
+FS  AF-all=PFV  get-work
+FS  主焦-全部   得-工作
+
+#e All of them have work.
+#c （他們）全部都有工作了。
+#a 525.52, None, 527.74
+
+373.
+... saka==,\
+so
+如此
+
+#a 527.74, None, 529.05
+
+374.
+.. a==,\
+FIL
+FIL
+
+#a 529.05, None, 530.5
+
+375.
+.. fangcal  ku      tayal    nangra,\
+good     NOM   work    3PL.GEN
+好   主格    工作    3PL.屬格
+
+#e They have good jobs.
+#c 他們的工作很好。
+#a 530.5, None, 532.1
+
+376.
+.. fangcal  kuni   tireng   nangra    awa-ay,\
+good  this.NOM   body   3PL.GEN  EXIST.NEG-AY
+好    這個.主格   身體    3PL.屬格  存在.否定-AY
+
+#a 532.1, None, 534.35
+
+377.
+.. ku      adada-ay,\
+NOM     sick-AY
+主格     病痛-AY
+
+#e They are healthy.
+#c 身體很健康。
+#a 534.35, None, 535.34
+
+378.
+... ma==-hemak    ku      falucu’    aku.\
+AF-happy   NOM     heart    1SG.GEN
+主焦-快樂  主格      心      1SG.屬格
+
+#e I am satisfied.
+#c 我心裡很快樂。
+#a 535.34, None, 537.39
+
+379.
+... nika,\
+although
+雖然
+
+#a 537.39, None, 538.35
+
+380.
+... tala-cuwa    cacay,\
+to-where     one
+到-哪裡     一
+
+#a 538.35, None, 539.85
+
+381.
+.. kaku     itini     i    luma’     i,_
+1SG.NOM   here    LOC   house  DM
+1SG.主格    這裡   處格   房子    DM
+
+#a 539.85, None, 540.94
+
+382.
+.. pacina   a     mi-nukay       a      mi-lisu’,\
+rest  LNK    AF-return   LNK   AF-visit
+休息  連詞    主焦-回來      連詞   主焦-拜訪
+
+#a 540.94, None, 542.94
+
+383.
+.. cangra,\
+3PL.NOM
+3PL.主格
+
+#a 542.94, None, 543.55
+
+384.
+... a       pa-tihi      itini   i,\
+LNK   CAU-company  here  LOC
+連詞   使役-陪伴     這裡 處格
+
+#a 543.55, None, 545.27
+
+385.
+.. takuwanan.\
+1SG.OBL
+1SG.斜格
+
+#e Although I live alone at home, they would return to visit me and accompany me.
+#c 然而，不管（他們）在哪裡，我一個人在家休息，他們會回來探訪，跟我作伴。
+#a 545.27, None, 546.06
+
+386.
+... saka,\
+so
+如此
+
+#a 546.06, None, 546.95
+
+387.
+.. ma-nanam=tu         kaku        a    cacay  anini,\
+AF-get.used.to=PFV   1SG.NOM   LNK  one   now
+主焦-習慣=完成      1SG.主格    連詞  一    現在
+
+#a 546.95, None, 549.01
+
+388.
+.. nika,\
+although
+雖然
+
+#e Although I have been used to being alone,
+#c 雖然現在我習慣了一個人。
+#n mi-nanam「學習」，ma-nanam「習慣」。
+#a 549.01, None, 549.49
+
+389.
+... ira       ku==   s,\
+EXIST   NOM   FS
+存在    主格   FS
+
+#a 549.49, None, 550.88
+
+390.
+...(0.7) s  sa-ka-tusa   aku         a     fafahiyan   a     wawa,\
+FS     IF-KA-two    1SG.GEN    LNK    female    LNK   child
+FS   工焦-KA-二   1SG.屬格    連詞    女性     連詞    小孩
+
+#a 550.88, None, 553.88
+
+391.
+... ma==la-singsi       i,\
+become-teacher   LOC
+成為-老師       處格
+
+#a 553.88, None, 555.54
+
+392.
+.. <L2McangpingkuosiawL2M>,\
+chang.bin.elementary.school
+長濱國小
+
+#e My second daughter is teaching at Changbin Elementary School.
+#c 我第二個女兒在長濱國小當老師。
+#a 555.54, None, 556.64
+
+393.
+... itini     cingra       a,\
+here    3SG.NOM   LNK
+這裡   3SG.主格    連詞
+
+#a 556.64, None, 558.05
+
+394.
+.. ma-lu’   saka,\
+AF-live  so
+主焦-住  如此
+
+#a 558.05, None, 558.91
+
+395.
+.. ci-tihi        kaku,\
+get-company  1SG.NOM
+得-陪伴     1SG.主格
+
+#e She lives here to accompany me.
+#c 她住在這裡和我作伴。
+#a 558.91, None, 559.88
+
+396.
+.. ca’ay    ka      tu’ol        kunini,\
+NEG    KA    lonesome     this.NOM
+否定    KA     寂寞        這個.主格
+
+#a 559.88, None, 561.48
+
+397.
+.. falucu’   aku.\
+heart    1SG.GEN
+心     1SG.屬格
+
+#e I don’t feel lonely.
+#c 我的心不覺得寂寞。
+#a 561.48, None, 562.45
+
+398.
+... saka==,\
+so
+如此
+
+#a 562.45, None, 563.5
+
+399.
+... a==,\
+FIL
+FIL
+
+#a 563.5, None, 564.52
+
+400.
+.. hatira    ku      pa-si-fana’     aku      tu,\
+that.way  NOM  CAU-SI-know  1SG.GEN  OBL
+那樣    主格   使役-SI-知道   1SG.屬格   斜格
+
+#a 564.52, None, 566.66
+
+401.
+.. ni  nu    rakat     nu,\
+this  GEN  walk    GEN
+這個 屬格   走路     屬格
+
+#a 566.66, None, 568.02
+
+402.
+... u==,\
+FS
+Fs
+
+#a 568.02, None, 568.63
+
+403.
+.. urip     aku,\
+life     1SG.GEN
+人生     1SG.屬格
+
+#a 568.63, None, 569.63
+
+404.
+... hay.\
+DM
+DM
+
+#e I have now told you about the journey of my life.
+#c 我那樣子述說我的人生旅程，就是如此。
+#a 569.63, None, 570.5

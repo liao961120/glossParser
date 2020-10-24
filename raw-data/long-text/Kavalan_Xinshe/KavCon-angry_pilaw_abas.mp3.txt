@@ -1,0 +1,2343 @@
+topic: Angry
+type: Conversation
+language: 噶瑪蘭語, Kavalan, Xinshe (新社)
+speaker: 潘天利, Abas, male, 1933-03-22
+collected: 2005-12-01
+revised: 2013-9-12
+video: KavCon-angry_pilaw_abas.mp3
+
+1.
+P: pa-kunku=pa=iku,\
+. CAU-story=FUT=1SG.NOM
+. 使役-故事=未來=1SG.主格
+
+#a 4.41, None, 5.74
+
+2.
+.. tu==,\
+OBL
+斜格
+
+#a 5.74, None, 6.7
+
+3.
+.. zana  masang.\
+that  before
+那個  以前
+
+#e I will tell a story that happened in the past.
+#c 我要講以前的事情。
+#a 6.7, None, 7.89
+
+4.
+...(0.8) e==,\
+FIL
+FIL
+
+#a 7.89, None, 9.32
+
+5.
+.. zau==,\
+this
+這個
+
+#a 9.32, None, 10.23
+
+6.
+.. teRaq-an-na==,\
+this.way-LF-3SG.GEN
+這樣-處焦-3SG.屬格
+
+#a 10.23, None, 11.52
+
+7.
+.. aitanan   mai    tu     kelisiw   saizi,\
+1IPL.NOM NEG   OBL   money  like.this
+1IPL.主格   否定  斜格  錢      這樣
+
+#a 11.52, None, 13.62
+
+8.
+... nani,\
+DM
+DM
+
+#e We did not have money.
+#c 為了我們沒有錢的事情這樣。
+#n teRaq-an-ku ngid taqsi 我想要/願意讀書
+#a 13.62, None, 14.68
+
+9.
+... uany   nani,\
+that    DM
+那個   DM
+
+#a 14.68, None, 15.93
+
+10.
+.. Ra-hitay   ya,\
+be-soldier	   PART
+當-軍人    語助詞
+
+#a 15.93, None, 16.8
+
+11.
+.. ti-aRay,\
+NCM-PN
+NCM-人名
+
+#a 16.8, None, 17.79
+
+12.
+.. ‘nay   nani.\
+that   DM
+那個  DM
+
+#e A-Ray joined the army.
+#c A-Ray去當兵。
+#n A-Ray 是Pilaw的先生
+#a 17.79, None, 18.7
+
+13.
+... tu==,\
+DM
+DM
+
+#a 18.7, None, 20.43
+
+14.
+...(1.2) pameng  yau   ya,\
+suddenly  EXIST  NOM
+突然    存在   主格
+
+#a 20.43, None, 22.82
+
+15.
+.. pakelawkawayan   pa-sangi-an,\
+worker   CAU-do-LF
+工人    使役-做-處焦
+
+#a 22.82, None, 23.95
+
+16.
+.. tu  tianhua.\
+OBL  telephone
+斜格  電話
+
+#a 23.95, None, 24.89
+
+17.
+.. nani,\
+DM
+DM
+
+#e Suddenly, there came workers who worked on telecommunication.
+#c 突然有做電話的工人來。
+#n pakelawklawayan 來自 pa-kelawkaway-an ‘CAU-work-NMZ’
+#a 24.89, None, 25.81
+
+18.
+... o==,\
+INT
+感嘆
+
+#a 25.81, None, 27.28
+
+19.
+.. ho  ti-ngaday,\
+INT   NCM-PN
+感嘆   NCM-人名
+
+#a 27.28, None, 28.89
+
+20.
+.. qaya  tienhua,\
+this.way  telephone
+這樣   電話
+
+#a 28.89, None, 29.85
+
+21.
+.. tienhua saizi,\
+telephone this.way
+電話   這樣
+
+#a 29.85, None, 30.77
+
+22.
+.. s<m>anu   tamaikuan,\
+<AF>tell    1IPL.LOC
+<主焦>告訴  1IPL.處格
+
+#a 30.77, None, 31.92
+
+23.
+.. tu,_
+COMP
+補語詞
+
+#a 31.92, None, 32.52
+
+24.
+... tu==,\
+COMP
+補語詞
+
+#a 32.52, None, 33.65
+
+25.
+.. zau,\
+this
+這個
+
+#a 33.65, None, 34.2
+
+26.
+.. mai=isu	       qumuni   kiwku,\
+NEG=2SG.NOM  做什麼  PN
+否定=2SG.主格   do.what  人名
+
+#e Oh, Ngaday told me that, ‘You, Kiwku, don’t have any work to do.’
+#c 哦 (有一天) Ngaday 告訴我說, “Kiwku, 你現在也沒在做什麼事”。
+#n Kiwku 是Pilaw的日文名字
+#a 34.2, None, 35.63
+
+27.
+.. mai=iku   tu    qakelawkewayan,\
+NEG=1SG.NOM  OBL  work
+否定=1SG.主格   斜格  工作
+
+#e I have no work to do.
+#c 我沒有工作。
+#a 35.63, None, 37.75
+
+28.
+.. ‘nay  pa-sangi-an  tu	   tianhua,\
+that  CAU-do-NMZ   OBL   telephone
+那個 使役-作-名物化  斜格   電話
+
+#a 37.75, None, 39.3
+
+29.
+... zin-na   ni  ngaday  tu,\
+say-3SG.GEN    GEN   PN   DM
+說-3SG.屬格    屬格   人名   DM
+
+#e There were workers who did telecommunication.
+#c 有做電話的人。
+#n 做電話的工人是指電信局的工人
+#a 39.3, None, 41.12
+
+30.
+...(0.9) kasianem=ti=iku,\
+think=PFV=1SG.NOM
+想=完成=1SG.主格
+
+#a 41.12, None, 42.94
+
+31.
+.. spaR=ita  qibasi,_
+can=1IPL.NOM  wash
+會=1IPL.主格    洗
+
+#a 42.94, None, 44.61
+
+32.
+.. tu   qudus-na==,\
+OBL  clothes-3SG.GEN
+斜格  衣服-3SG屬格
+
+#a 44.61, None, 45.51
+
+33.
+.. XX zin-ku.\
+XX say-1SG.GEN
+XX 說-1SG.屬格
+
+#e I wonder why I should wash their clothes.
+#c 我心想我為何要洗別人的衣服。
+#a 45.51, None, 46.8
+
+34.
+.. qu==,\
+INT
+感嘆
+
+#a 46.8, None, 48.22
+
+35.
+.. <L2TahyangL2T>-ku  nani,\
+brother-1SG.GEN   DM
+兄弟-1SG.屬格   DM
+
+#n ahyang 為台語的 ‘阿兄’, 噶瑪蘭語應為qaqa-ku
+#a 48.22, None, 49.21
+#n ahyang 為台語的 ‘阿兄’, 噶瑪蘭語應為qaqa-ku
+
+36.
+.. quni,\
+can
+可以
+
+#a 49.21, None, 50.44
+
+37.
+.. qibasi  si   mana.\
+wash  COND    why
+洗   條件詞   為何
+
+#e My brother (said), ‘Why not wash (clothes)?’
+#c 我哥哥(說), ‘也可以洗衣服啊!’
+#a 50.44, None, 51.56
+
+38.
+.. azu==,\
+like
+好像
+
+#a 51.56, None, 52.25
+
+39.
+.. mai   qa-bula-an  tu   kelisiw,\
+NEG   QA-give-LF  OBL   money
+否定   QA-給-處焦  斜格  錢
+
+#a 52.25, None, 53.87
+
+40.
+.. zin-na=iku   ‘nay  tu.\
+say-3SG.GEN=1SG.NOM  that  DM
+說-3SG.屬格=1SG.主格  那個  DM
+
+#e He said to me, ‘It seems like they wouldn’t give you money.’
+#c 他對我說, ‘好像他們不給錢似的,(又不是沒給錢)’。
+#a 53.87, None, 55.19
+
+41.
+... a  kwa  ya,\
+INT  okay PART
+感嘆 好   語助詞
+
+#a 55.19, None, 56.82
+
+42.
+.. zin-ku  tu,\
+say-1SG.GEN  DM
+說-1SG.屬格  DM
+
+#e I said, ‘Alright.’
+#c 我就說好, 我就答應了。
+#a 56.82, None, 57.5
+
+43.
+.. yau=ti   ti-ngaday,\
+EXIST=PFV   NCM-PN
+存在=完成    NCM-人名
+
+#a 57.5, None, 58.49
+
+44.
+.. t<um>ungaw  tamaikuan,\
+<AF>deliver   1SG.LOC
+<主焦>送   1SG.處格
+
+#a 58.49, None, 59.53
+
+45.
+.. tu  qudus   a     yau    tu,\
+OBL  clothes  LNK  that   DM
+斜格  衣服   連詞   那個  DM
+
+#e Ngaday came and gave me the clothes.
+#c Ngaday就送衣服來我家。
+#a 59.53, None, 60.86
+
+46.
+... qibasi-an-ku=ti.\
+wash-LF-1SG.GEN=PFV
+洗-處焦-1SG.屬格=完成
+
+#e (Then) I washed (the clothes).
+#c 我就洗了(衣服)。
+#a 60.86, None, 63.08
+
+47.
+...(0.7) buying=iku,\
+busy=1SG.NOM
+沒空=1SG.主格
+
+#a 63.08, None, 64.64
+
+48.
+.. zin-na  ni    ngaday,\
+say-3SG.GEN  GEN  PN
+說-3SG.屬格   屬格  人名
+
+#a 64.64, None, 65.53
+
+49.
+.. ‘nay  mailiw,\
+that   take.turns
+那個   輪流
+
+#a 65.53, None, 66.78
+
+50.
+.. qaniyau   kelawkaway,\
+3SG.NOM   work
+3SG.主格    工作
+
+#a 66.78, None, 68.03
+
+51.
+.. masang  nani.\
+past   DM
+以前  DM
+
+#e ‘I’m busy,’ said Ngaday. They took turns working.
+#c Ngaday說: 我沒空. 他們輪流工作。
+#a 68.03, None, 69.09
+
+52.
+... tu,\
+DM
+DM
+
+#a 69.09, None, 70.08
+
+53.
+.. a  kwa   ya.\
+INT  okay  PART
+感嘆   好   語助詞
+
+#a 70.08, None, 70.79
+
+54.
+.. wiya=ti=iku  ya,\
+leave=PFV=1SG.NOM  PART
+離開=完成=1SG.主格  語助詞
+
+#a 70.79, None, 71.79
+
+55.
+.. qibasi  nani.\
+wash    DM
+洗   DM
+
+#e I started to wash the clothes.
+#c 我就去啦, 開始洗衣服啦。
+#a 71.79, None, 72.74
+
+56.
+... maiseng=ti   ya==,\
+dry=PFV    NOM
+乾=完成    主詞
+
+#a 72.74, None, 74.3
+
+57.
+.. ni-qibasi-an    a   yau,\
+PFV-wash-NMZ LNK  that
+完成-洗-名物化 連詞  那個
+
+#e The clothes that I washed were dried.
+#c 洗的衣服乾了。
+#a 74.3, None, 75.33
+
+58.
+.. tepik-an-ku=ti     tu==,\
+fold-LF-1SG.GEN=PFV  OBL
+摺-處焦-1SG.屬格=完成  斜格
+
+#e I folded them.
+#c 我摺好。
+#a 75.33, None, 76.99
+
+59.
+.. yau=ti  ya  pa-sa==-,\
+EXIST=PFV  NOM  CAU-FUT-
+存在=完成  主格   使役-未來-
+
+#a 76.99, None, 78.17
+
+60.
+.. iza-an=ay    pakelawkawayan  ‘nay,\ 
+do.something-NMZ=REL  worker   that
+做某事-名物化=關係詞  工人   那個
+
+#a 78.17, None, 79.46
+
+61.
+.. tu   tienhua	   nani,\
+OBL   telephone  DM
+斜格   電話     DM
+
+#e The workers of telecommunication came.
+#c 電信局的工人來。
+#n pa-sa-iza-an=ay 指工人
+#a 79.46, None, 80.5
+
+62.
+... o==,\
+INT
+感嘆
+
+#a 80.5, None, 81.82
+
+63.
+.. o,\
+INT
+感嘆
+
+#e (They yelled) “Oh, Oh.’
+#c (就叫)喂喂。
+#a 81.82, None, 82.54
+
+64.
+... a==  zau,\
+FIL   this
+FIL  這個
+
+#a 82.54, None, 83.84
+
+65.
+.. maiseng=ti  ya==,\
+dry=PFV   NOM
+乾=完成   主格
+
+#a 83.84, None, 84.7
+
+66.
+.. ni-qibasi-an    tu    qudus-niq,\
+PFV-wash-NMZ  OBL   clothes-1EPL.GEN
+完成-洗-名物化  斜格   衣服-1EPL.屬格
+
+#a 84.7, None, 86.5
+
+67.
+.. [zin-na].\
+say-3PL.GEN
+說-3PL.屬格
+
+#e They said, “Are our clothes dry?”
+#c 這個我們洗的衣服乾了嗎?
+#a 86.5, None, 86.54
+
+68.
+A: [zin-na ni aRay] saiza.\
+. say-3SG.GEN GEN PN maybe
+. 說-3SG.屬格 屬格 人名 可能
+
+#a 86.54, None, 86.57
+
+69.
+P: ipil-an  ni   aRay  nani,\
+. hear-LF   GEN  PN    DM
+. 聽-處焦  屬格   人名  DM
+
+#e Perhaps (it) was heard by ARay.
+#c 可能被ARay聽到了。
+#n ARay是Pilaw的先生
+#a 86.57, None, 88.34
+
+70.
+.. tu,\
+DM
+DM
+
+#a 88.34, None, 90.43
+
+71.
+.. a  maiseng=ti   yu,\
+INT  dry=PFV   PART
+感嘆  乾=完成   語助詞
+
+#a 90.43, None, 92.34
+
+72.
+.. zin-ku   antangi    qawtu-an-niq,\
+say-1SG.GEN  later   come-LF-1EPL.GEN
+說-1SG.屬格  等一下  來-處焦-1EPL.屬格
+
+#a 92.34, None, 94.19
+
+73.
+.. m-ala,\
+AF-take
+主焦-拿
+
+#a 94.19, None, 94.84
+
+74.
+.. zin-na     pakelawkawayan,\
+say-3PL.GEN  worker
+說-3PL.屬格    工人
+
+#a 94.84, None, 96.79
+
+75.
+.. nayau   tu.\
+that.way   DM
+那樣     DM
+
+#e “Oh, they were already dry,” I said. “We will come later to take (our clothes)’, said the workers.
+#c “哦, 乾了”, 我說. “我們等一下來拿”, 他們說。
+#a 96.79, None, 97.63
+
+76.
+.. qamet-an-na=ti  XX,\
+remember-LF-3SG.GEN=PFV  XX
+記得-處焦-3SG.屬格=完成   XX
+
+#a 97.63, None, 98.84
+
+77.
+.. ni  a  anem  ya aRay   wa,\
+GEN  FS  heart  NOM  PN  PART
+屬格  FS  心  主格  人名  語助詞
+
+#e ARay kept this in mind.
+#c ARay把聽到的話放在心裡。
+#a 98.84, None, 100.32
+
+78.
+.. mai   ta-lepaw-an,\
+NEG   LOC-home-LOC
+否定  處格-家-處格
+
+#e (When) I was not at home.
+#c 我不在家的時候。
+#a 100.32, None, 101.46
+
+79.
+.. pisapat  a  napawan-ta  nayau.\
+misbehave NOM  wife-1IPL.GEN  that.way
+亂來  主格   太太-1IPL.屬格  那樣
+
+#e Our wife misbehaved.
+#c 我們的老婆亂來。
+#a 101.46, None, 103.51
+
+80.
+.. X [nayau]   [X],\
+X  that.way   X
+X  那樣     X
+
+#a 103.51, None, 103.55
+
+81.
+A: [m],\
+. BC
+. BC
+
+#a 103.55, None, 104.5
+
+82.
+.. [mai=imi     t<m>anan ya],\
+NEG=1EPL.NOM  <AF>return  PART
+否定=1EPL.主格   <主焦>回  語助詞
+
+#e We wouldn’t return.
+#c 我們不回來。
+#a 104.5, None, 104.92
+
+83.
+P: [en ya],\
+. yes PART
+. 對 語助詞
+
+#a 104.92, None, 105.95
+
+84.
+.. mana==,\
+why
+為什麼
+
+#a 105.95, None, 107.43
+
+85.
+.. ada  ngid-an-an=ti.\
+ADA want-LF-3SG.GEN=PFV
+ADA 想要-處焦-3SG.屬格=完成
+
+#n ada qatiw-an-ku 我應該會去
+#a 107.43, None, 108.9
+#n ada qatiw-an-ku 我應該會去
+
+86.
+... zin-na  saiza,\
+say-3SG.GEN  perhaps
+說-3SG.屬格   可能
+
+#a 108.9, None, 110.45
+
+87.
+.. ni  aRay  tu,\
+GEN PN  DM
+屬格 人名  DM
+
+#a 110.45, None, 111.44
+
+88.
+.. wiya=ti,\
+leave=PFV
+離開=完成
+
+#a 111.44, None, 112.26
+
+89.
+.. RaRiw-an=ti=iku   ya,\
+run-LF=PFV=1SG.NOM   PART
+跑-處焦=完成=1SG.主格  語助詞
+
+#a 112.26, None, 113.84
+
+90.
+.. tu==,\
+DM
+DM
+
+#e ‘I want to go to...,’ thought ARay.
+#c ‘我想要去...’ ARay這樣想。
+#a 113.84, None, 114.23
+
+91.
+.. matiw=ti   ta-tengan-an,\
+AF.go=PFV  LOC-aunt-LOC
+主焦.去=完成  處格-阿姨-處格
+
+#a 114.23, None, 115.43
+
+92.
+.. ti-zingay-an,\
+NCM-PN-LOC
+NCM-人名-處格
+
+#a 115.43, None, 116.48
+
+93.
+... nani,\
+DM
+DM
+
+#e (He) went to our aunt, Zingay’s place.
+#c ARay就去大姐zingay家。
+#a 116.48, None, 117.36
+
+94.
+.. qan=pa=ita=ti  saRabi-ika,\
+eat=FUT=1IPL.NOM=PFV  have.dinner-LF.IMP
+吃=未來=1IPL.主格=完成   吃晚飯-處焦.祈使
+
+#e Let’s have dinner.
+#c 要吃晚飯了。
+#a 117.36, None, 118.56
+
+95.
+.. qeRas-ika  ya   tama-su,\
+call-LF.IMP  NOM  father-2SG.GEN
+叫-處焦.祈使  主格  父親-2SG.屬格
+
+#e Call your father (to come home for dinner).
+#c 叫你爸爸(回來吃晚飯)。
+#a 118.56, None, 120.14
+
+96.
+...(0.7) zau,\
+this
+這個
+
+#a 120.14, None, 121.56
+
+97.
+.. zinan,\
+PN
+人名
+
+#a 121.56, None, 122.33
+
+98.
+.. wiya=ti  ya==,\
+leave=PFV  NOM
+離開=完成  主格
+
+#a 122.33, None, 123.44
+
+99.
+.. ti-zinan.\
+NCM-PN
+NCM-人名
+
+#e Zinan went (to call his father).
+#c Zinan去(叫爸爸)。
+#n Zinan is Pilaw’s son.
+#a 123.44, None, 124.33
+
+100.
+... taqa  yu   abu,\
+NEG  PART  mother
+否定  語助詞 阿母
+
+#a 124.33, None, 125.82
+
+101.
+.. yau   tayan   q<m>an,\
+EXIST  there   <AF>eat
+存在  那裡  <主焦>吃
+
+#a 125.82, None, 127.23
+
+102.
+.. zin-na.\
+say-3SG.GEN
+說-3SG.屬格
+
+#e Zinan said, ‘Mom, (Father) did not want to (come home); (he) had dinner there.’
+#c Zinan 說, ‘(他)不要, 阿母, (爸爸他)在那邊吃了’。
+#a 127.23, None, 127.98
+
+103.
+...(1.5) a==,\
+FIL
+FIL
+
+#a 127.98, None, 130.02
+
+104.
+.. azu   q<m>an  tu   Raq,\
+seem   <AF>eat  OBL   wine
+好像   <主焦>吃  斜格  酒
+
+#a 130.02, None, 131.37
+
+105.
+.. zin  ni  zinan,\
+say   GEN  PN
+說   屬格  人名
+
+#e Zinan said, ‘(It) seems that (father) drank.’
+#c Zinan說, ‘好像有喝酒’。
+#a 131.37, None, 132.64
+
+106.
+... kidad-an-na  sayza,\
+it.doesn’t.matter-LF-3SG.GEN  perhaps
+沒關係-處焦-3SG.屬格   可能
+
+#a 132.64, None, 134.18
+
+107.
+.. q<m>an   tu   Raq,\
+<AF>eat   OBL   wine
+<主焦>吃  斜格   酒
+
+#a 134.18, None, 135.02
+
+108.
+.. zin-ku,\
+say-1SG.GEN
+說-1SG.屬格
+
+#e It doesn’t matter that he drank.
+#c 他喝酒沒關係。
+#a 135.02, None, 135.78
+
+109.
+... azkaw,\
+INT
+感嘆
+
+#a 135.78, None, 137.35
+
+110.
+.. sebi=ti   ya  sunis   a   zau,\
+hungry=PFV  NOM  child LNK  this
+餓=完成  主格  小孩  連詞  這個
+
+#e Alas, the children were hungry.
+#c 哎呦,小孩肚子餓了。
+#a 137.35, None, 139.46
+
+111.
+.. kun-an-ku   pa-qan-an-na,\
+first-LF-1SG.GEN  CAU-eat-LF-3SG.GEN
+先-處焦-1SG.屬格  使役-吃-處焦-3SG.屬格
+
+#a 139.46, None, 140.89
+
+112.
+.. sunis-ku  kin-tulu.\
+child-1SG.GEN  CLF.HUM-three
+小孩-1SG.屬格  人量詞-三
+
+#e I fed the three children first.
+#c 我先給三個小孩吃飯。
+#n kun-an-ku qibasi 我先洗衣服
+#a 140.89, None, 142.24
+
+113.
+... nani,\
+DM
+DM
+
+#a 142.24, None, 143.47
+
+114.
+... mana,\
+why
+為什麼
+
+#a 143.47, None, 144.5
+
+115.
+...(0.9) XX,\
+XX
+XX
+
+#a 144.5, None, 146.61
+
+116.
+.. nengi=ti    tazian,\
+good=PFV  there
+好=完成  那邊
+
+#a 146.61, None, 147.47
+
+117.
+.. qaliw-an  XX,\
+at.will-LF  XX
+隨便-處焦  XX
+
+#a 147.47, None, 148.13
+
+118.
+.. qan-an,\
+eat-LF
+吃-處焦
+
+#e It doesn’t matter that he had meals there.
+#c 在那邊吃飯也可以。
+#a 148.13, None, 148.89
+
+119.
+.. zin-ku   mai  tu,\
+say-1SG.GEN   NEG OBL
+說-1SG.屬格   否定  斜格
+
+#a 148.89, None, 150.43
+
+120.
+... tangi   nani,\
+now  DM
+現在  DM
+
+#a 150.43, None, 152.26
+
+121.
+.. yau=ti,\
+EXIST=PFV
+存在=完成
+
+#a 152.26, None, 153.11
+
+122.
+...(0.7) aw,\
+INT
+感嘆
+
+#a 153.11, None, 154.63
+
+123.
+...(0.8) mai=iku      ta-paw-an,\
+NEG=1SG.NOM  LOC-home-LOC
+否定=1SG.主格  處格-家-處格
+
+#a 154.63, None, 156.6
+
+124.
+.. simunang=isu,\
+have.affairs=2SG.NOM
+外遇=2SG.主格
+
+#a 156.6, None, 157.82
+
+125.
+.. zin-na.\
+say-3SG.GEN
+說-3SG.屬格
+
+#e ‘When I was not at home, you had affairs,’ said he.
+#c 我不在,你跟人家約會, 他這麼說。
+#n simunang 輕鬆
+#a 157.82, None, 159.07
+
+126.
+.. wa,\
+INT
+感嘆
+
+#a 159.07, None, 159.93
+
+127.
+.. simunang    azu=iku       qumuni,\
+have.affairs  like=1SG.GEN  do.what
+外遇    好像=1SG.屬格   做什麼
+
+#a 159.93, None, 161.73
+
+128.
+.. zin-ku.\
+say-1SG.GEN
+說-1SG.屬格
+
+#e I didn’t do anything.
+#c 我又沒有做什麼。
+#a 161.73, None, 162.68
+
+129.
+.. oh,\
+INT
+感嘆
+
+#a 162.68, None, 163.27
+
+130.
+.. niana  qibasi-an-su,\ 
+what  wash-LF-2SG.GEN
+什麼  洗-處焦-2SG.屬格
+
+#a 163.27, None, 164.64
+
+131.
+.. o  nayau,\
+INT  that.way
+感嘆  那樣
+
+#a 164.64, None, 165.82
+
+132.
+.. a  tazungan.\
+NOM  girl
+主格  女孩
+
+#e Why did you wash others’ clothes? Girls are like that.
+#c 你為什麼要洗人家的衣服,女孩子就是那樣。
+#a 165.82, None, 166.93
+
+133.
+.. a  pisapat,\
+FIL  at.will
+FIL  隨便
+
+#a 166.93, None, 168.08
+
+134.
+.. k<m>ilim  tu==,\
+<AF>look.for  OBL
+<主焦>找  斜格
+
+#a 168.08, None, 169.4
+
+135.
+.. zau,\
+this
+這個
+
+#a 169.4, None, 169.8
+
+136.
+.. zin-na,\
+say-3SG.GEN
+說-3SG.屬格
+
+#e ‘You were asking for trouble,’ said he.
+#c ‘你隨便找(麻煩)’ 他這樣說。
+#a 169.8, None, 170.38
+
+137.
+.. nayau=isu,\
+that.way=2SG.NOM
+那樣=2SG.主格
+
+#a 170.38, None, 171.26
+
+138.
+.. mai=iku    ta-paw-an,\
+NEG=1SG.NOM  LOC-home-LOC
+否定=1SG.主格  處格-家-處格
+
+#a 171.26, None, 172.76
+
+139.
+.. zin-na.\
+say-3SG.GEN
+說-3SG.屬格
+
+#e ‘When I wasn’t at home, you were like that,’ said he.
+#c ‘我不在的時候,你就是這樣’, 他這樣說。
+#a 172.76, None, 173.54
+
+140.
+... akaw  sayza,\
+INT   perhaps
+感嘆  可能
+
+#a 173.54, None, 175.3
+
+141.
+.. qibasi=iku   nani,\
+wash=1SG.NOM  DM
+洗=1SG.主格  DM
+
+#a 175.3, None, 176.54
+
+142.
+.. namani  ^yau,\
+NAMANI  EXIST
+NAMANI  存在
+
+#a 176.54, None, 177.25
+
+143.
+.. ni   lazat   a  yau,\
+GEN  person LNK  that
+屬格  人  連詞  那個
+
+#a 177.25, None, 178.21
+
+144.
+.. ta-lepaw-an-ta  ni,\
+LOC-home-LOC-1IPL.GEN  Q
+處格-家-處格-1IPL.屬格   疑問
+
+#e While I was washing the clothes, was that person at our home?
+#c 我洗衣服的時候,那個人有在我們家嗎?
+#n namani mai=isu qawtu ni 你不要來嗎?
+#a 178.21, None, 179.34
+
+145.
+.. wi==ya=ti  ta-qati-an,\
+leave=PFV  LOC-outside-LOC
+離開=完成 處格-外面-處格
+
+#a 179.34, None, 180.98
+
+146.
+.. qaniyau  si.\
+3PL.NOM  PART
+3PL.主格  語助詞
+
+#e They were outside our house (too).
+#c 他們也在外面。
+#a 180.98, None, 181.83
+
+147.
+.. pa-sangi-an,\
+CAU-do-NMZ
+使役-做-名物化
+
+#a 181.83, None, 182.49
+
+148.
+.. s<m>angi  tu <L2JlintuL2J>     yu,\
+<AF>do  OBL  electricity  PART
+<主焦>做  斜格  電   語助詞
+
+#a 182.49, None, 183.82
+
+149.
+.. ipil-ika  ya  ti-ngaday.\
+hear-LF.IMP NOM  NCM-PN
+聽-處焦.祈使  主格  NCM-人名
+
+#a 183.82, None, 184.98
+
+150.
+... zin-ku.\
+say-1SG.GEN
+說-1SG.屬格
+
+#e ‘They are workers of telecommunication. You could ask Ngaday,’ said I.
+#c ‘他們是做電的,你去問Ngaday’ 我這樣說。
+#a 184.98, None, 186.33
+
+151.
+.. mai  ya  ti-ngaday,\
+NEG  NOM  NCM-PN
+否定  主格  NCM-人名
+
+#a 186.33, None, 187.66
+
+152.
+.. pawRat-an-na=iku   nani,\
+force-LF-3SG.GEN=1SG.NOM  DM
+勉強-處焦-3SG.屬格=1SG.主格  DM
+
+#a 187.66, None, 188.89
+
+153.
+... anu==,\
+if
+如果
+
+#a 188.89, None, 190.04
+
+154.
+.. nayau,\
+that.way
+那樣
+
+#a 190.04, None, 190.62
+
+155.
+.. mai=iku   qibasi.\
+NEG=1SG.NOM  wash
+否定=1SG.主格  洗
+
+#e If Ngaday hadn’t asked me to do it, I wouldn’t have washed their clothes.
+#c 要不是ngaday要我做,我也不會洗衣服。
+#a 190.62, None, 191.93
+
+156.
+.. qu  ti-kingciang,\
+INT  NCM-PN
+感嘆  NCM-人名
+
+#a 191.93, None, 192.94
+
+157.
+.. qibasi-ika   ya,\
+wash-LF.IMP  PART
+洗-處焦.祈使  語助詞
+
+#a 192.94, None, 194.22
+
+158.
+... qawman  bula-an  tu   kelisiw,\
+definitely   give-LF  OBL  money
+一定    給-處焦  斜格  錢
+
+#a 194.22, None, 196.3
+
+159.
+.. zin  ni  kingciang,\
+say GEN  PN
+說 屬格  人名
+
+#e Kingciang said, ‘Wash the clothes. (They) will definitely give you money.’
+#c Kingciang說就洗衣服啊,(他們)一定會給錢。
+#n Kingciang是Pilaw的哥哥
+#a 196.3, None, 197.19
+
+160.
+.. teRaq-an-ku   qibasi.\
+agree-LF-1SG.GEN  wash
+答應-處焦-1SG.屬格  洗
+
+#e So I agreed to wash their clothes.
+#c 我才答應洗衣服。
+#a 197.19, None, 198.39
+
+161.
+.. unay  nani.\
+that  DM
+那個 DM
+
+#e That’s it.
+#c 就這樣。
+#a 198.39, None, 199.7
+
+162.
+...(1.1) mai  bunay  anem-na,\
+NEG  let.up  heart-3SG.GEN
+否定  消氣  心-3SG.屬格
+
+#e His anger didn’t mitigate.
+#c 他一直生氣沒有消氣。
+#a 199.7, None, 202.56
+
+163.
+A: bunay=pa  ni,\
+. let.up=FUT  NI
+. 消氣=未來  NI
+
+#e He was still angry.
+#c 一直生氣。
+#a 202.56, None, 203.47
+
+164.
+.. [XX],\
+XX
+XX
+
+#a 203.47, None, 203.51
+
+165.
+P: [bi-bidas-an-na=iku],\
+. RED-curse-LF-3SG.GEN=1SG.NOM
+. 重疊-罵三字經-處焦-3SG.屬格=1SG.主格
+
+#e He kept cursing me.
+#c 他一直罵我三字經。
+#a 203.51, None, 203.58
+
+166.
+.. nazau=ay   tazungan,\
+this.way=REL  girl
+這樣=關係詞  女生
+
+#a 203.58, None, 206.59
+
+167.
+.. ^sapaquni-an,\
+forsake-LF
+拋棄-處焦
+
+#a 206.59, None, 208.0
+
+168.
+.. zin-na.\
+say-3SG.GEN
+說-3SG.屬格
+
+#e ‘(I) don’t want this kind of wife,’ said he.
+#c ‘我不要這樣的女孩子’, 他這樣說。
+#a 208.0, None, 208.67
+
+169.
+A: sapaquni-an,\
+. forsake-LF
+. 拋棄-處焦
+
+#e That’s fine.
+#c 不要就不要。
+#a 208.67, None, 210.23
+
+170.
+P: mai   ni-anem-an-ku=isu   si,_
+. NEG  PFV-heart-LF-1SG.GEN=2SG.NOM  PART
+. 否定 完成-心-處焦-1SG.屬格=2SG.主格  語助詞
+
+#a 210.23, None, 212.29
+
+171.
+.. zin   na  anem-ku,\
+say    GEN  heart-1SG.GEN
+說   屬格  心-1SG.屬格
+
+#a 212.29, None, 213.16
+
+172.
+.. tabu-an-ku,\
+wrap-LF-1SG.GEN
+包-處焦-1SG.屬格
+
+#e I don’t love you (anymore). I kept it in my heart. (I wrapped it in my heart.)
+#c 我不喜歡你. 我放在心裡沒講出來。
+#a 213.16, None, 214.29
+
+173.
+.. m-sukaw   ngibiR-na.\
+AF-bad    mouth-3SG.GEN
+主焦-壞  嘴巴-3SG.屬格
+
+#e What he said is mean.
+#c 他講話不好聽。
+#n 也可以說 m-sukaw sikawmanan
+#a 214.29, None, 216.3
+
+174.
+.. aka  nani   yu.\
+this.way  DM  PART
+這樣  DM  語助詞
+
+#e That’s it.
+#c 就是這樣。
+#a 216.3, None, 217.23
+
+175.
+...(0.8) a==tu,\
+and
+和
+
+#a 217.23, None, 219.43
+
+176.
+...(1.1) nayau  ya  tu.\
+that.way  PART  DM
+那樣  語助詞  DM
+
+#a 219.43, None, 221.7
+
+177.
+...(0.8) o,\
+INT
+感嘆
+
+#a 221.7, None, 223.13
+
+178.
+.. o  tama  ti-piwi,\ 
+INT father  NCM-PN
+感嘆 父親  NCM-人名
+
+#a 223.13, None, 224.22
+
+179.
+.. qa^yau   m-iza  yu,\
+EXIST  AF-do.something  PART
+存在  主焦-做某事  語助詞
+
+#a 224.22, None, 226.17
+
+180.
+.. bangbang  tata,\
+add.fuel.to.the.fire  3SG.NOM
+火上加油   3SG.主格
+
+#a 226.17, None, 227.71
+
+181.
+.. o  nayau  zi   kwa,\
+INT  that.way  ZI  PART
+感嘆  那樣  ZI  語助詞
+
+#a 227.71, None, 228.94
+
+182.
+.. tazungan,\
+girl
+女生
+
+#e Piwi added fuel to the fire.
+#c Piwi又火上添油。
+#a 228.94, None, 229.78
+
+183.
+.. zin-na==,\
+say-3SG.GEN
+說-3SG.屬格
+
+#a 229.78, None, 230.85
+
+184.
+.. pa==dames=ti   ya,\ 
+diligent=PFV  PART
+努力=完成  語助詞
+
+#e So ARay was still angry.
+#c ARay還是很生氣。
+#a 230.85, None, 232.44
+
+185.
+.. yau=ti  ya  ti==,\
+EXIST=PFV  NOM  FS
+存在=完成  主格  FS
+
+#a 232.44, None, 233.63
+
+186.
+.. tengan-ku,\
+aunt-1SG.GEN
+阿姨-1SG.屬格
+
+#a 233.63, None, 234.13
+
+187.
+.. pa==,\
+FS
+FS
+
+#a 234.13, None, 234.64
+
+188.
+.. ti-aRay   ni,\
+NCM-PN  Q
+NCM-人名 疑問
+
+#a 234.64, None, 235.45
+
+189.
+.. s  snayau.\
+FS  that.way
+FS  那樣
+
+#a 235.45, None, 236.29
+
+190.
+.. pisapat  m-qila  tu   tengan-ku,\
+at.will  AF-scold  OBL   sister.in.law-1SG.GEN
+隨便  主焦-罵    斜格  嫂嫂-1SG.屬格
+
+#a 236.29, None, 238.3
+
+191.
+.. zin-na.\
+say-3SG.GEN
+說-3SG.屬格
+
+#e Why did you scold my sister-in-law?
+#c 你為什麼隨便罵我的弟妹?
+#a 238.3, None, 238.94
+
+192.
+... m-qila  ni,\
+AF-scold  Q
+主焦-罵  疑問
+
+#e Did you scold her?
+#c 有罵嗎?
+#a 238.94, None, 240.37
+
+193.
+.. nayau=imu,\
+that.way=2PL.NOM
+那樣=2PL.主格
+
+#e You are like that.
+#c 你們就是那樣。
+#a 240.37, None, 241.27
+
+194.
+.. pa<ta>tapun-an-na=ti  ya==,\
+<RED>together-LF-3SG.GEN=PFV  NOM
+<重疊>一起-處焦-3SG.屬格=完成  主格
+
+#a 241.27, None, 243.13
+
+195.
+.. tengan-ku   ti-cingay  m-qila.\
+sister.in.law-1SG.GEN  NCM-PN  AF-scold
+嫂嫂-1SG.屬格  NCM-人名  主焦-罵
+
+#e He scolded my sister-in-law as well.
+#c 又罵我的嫂嫂。
+#n matapun=iku tu kaput-ku 我跟朋友一起
+#n patatapun-an-ku ya kaput-ku matiw sasaqay 我跟朋友一起去玩
+#a 243.13, None, 244.69
+
+196.
+... tangi  a,\
+now  PART
+現在 語助詞
+
+#a 244.69, None, 245.99
+
+197.
+.. tepus-an-na=ti   ni   shuyzun  saiza,\
+unable-LF-3SG.GEN=PFV GEN  PN  perhaps
+無法-處焦-3SG.屬格=完成  屬格 人名  可能
+
+#a 245.99, None, 247.59
+
+198.
+.. m-ipil  ni-bibidas-na  tamaikuan,\
+AF-listen  PFV-curse-3SG.GEN  1SG.LOC
+主焦-聽   完成-罵-3SG.屬格  1SG.處格
+
+#e Shuyzun couldn’t listen to him curse me anymore.
+#c Shuizun聽不下去他一直罵我。
+#n tepus-an-ku takan zau 我沒法搬這個桌子
+#n tepus-an-ku saqay-an tu lazan a zau 我不想走路(因為很遠)
+#a 247.59, None, 249.63
+
+199.
+...(0.7) yau=ti  yu,\
+EXIST=PFV  PART
+存在=完成  語助詞
+
+#e (Shuyzun) came.
+#c (Shuyzun)就來了。
+#a 249.63, None, 251.19
+
+200.
+...(1.8) aRay  ya,\
+PN  PART
+人名  語助詞
+
+#a 251.19, None, 253.78
+
+201.
+.. zin   ni,\
+say  GEN
+說  屬格
+
+#a 253.78, None, 254.92
+
+202.
+.. shuyzun.\
+PN
+人名
+
+#a 254.92, None, 255.83
+
+203.
+.. pisapat=isu,\
+at.will=2SG.NOM
+隨便=2SG.主格
+
+#a 255.83, None, 256.81
+
+204.
+.. m-qila  ta==-,\
+AF-scold  LOC-
+主焦-罵  處格-
+
+#a 256.81, None, 257.91
+
+205.
+.. napawan-su.\
+wife-2SG.GEN
+太太-2SG.屬格
+
+#e Why did you scold your wife?
+#c 你為什麼隨便罵你的老婆?
+#a 257.91, None, 258.95
+
+206.
+.. yau=iku,\
+EXIST=1SG.NOM
+存在=1SG.主格
+
+#a 258.95, None, 260.0
+
+207.
+.. <L2MwobaozhengnaL2M>,\
+I.ensure
+我保證
+
+#a 260.0, None, 261.0
+
+208.
+.. t<m>ayta  tu  napawan-su,\
+<AF>see  OBL  wife-2SG.GEN
+<主焦>看  斜格  太太-2SG.屬格
+
+#e I ensure that (your wife didn’t misbehave because) I saw her every day.
+#c 我保證(她沒有做壞事,因為)我每天看你老婆。
+#a 261.0, None, 262.41
+
+209.
+.. zin-na  ni  shuyzun.\
+say-3SG.GEN GEN PN
+說-3SG.屬格  屬格  人名
+
+#a 262.41, None, 264.01
+
+210.
+... qumuni=isu  snayau,\
+do.what=2SG.NOM  that.way
+做什麼=2SG.主格  那樣
+
+#e Why did you do this?
+#c 你為什麼這樣?
+#a 264.01, None, 265.58
+
+211.
+.. saqaqabi-an  ni==,\
+everyday-LF  GEN
+每天-處焦   屬格
+
+#a 265.58, None, 267.05
+
+212.
+.. kelawkawy  napawan-su,\
+work  wife-2SG.GEN
+工作  太太-2SG.屬格
+
+#e Your wife works every day.
+#c 你老婆每天工作。
+#a 267.05, None, 268.4
+
+213.
+.. mai  yu==,\
+NEG  PART
+否定  語助詞
+
+#a 268.4, None, 269.72
+
+214.
+.. azu   ‘laq   napawan-su,\ 
+like  others   wife-2SG.GEN
+像   別人    太太-2SG.屬格
+
+#a 269.72, None, 271.27
+
+215.
+... zin-na=ti  ni   shuyzun.\
+say-3SG.GEN=PFV  GEN  PN
+說-3SG.屬格=完成  屬格  人名
+
+#e ‘Your wife is not like others,’ said Shuyzun.
+#c ‘你的老婆不像別人’ Shuyzun這樣說。
+#a 271.27, None, 273.19
+
+216.
+.. anu  naquni  zin-su  haw,\
+if  how  say-2SG.GEN  PART
+如果  怎樣  說-2SG.屬格  語助詞
+
+#a 273.19, None, 274.73
+
+217.
+.. yau  aiku,\
+EXIST 1SG.NOM
+存在  1SG.主格
+
+#a 274.73, None, 275.21
+
+218.
+.. <L2MbaozhengL2M>-an-na  aisu  tu==,\
+ensure-LF-3SG.GEN  2SG.NOM  OBL
+保證-處焦-3SG.屬格  2SG.主格  斜格
+
+#a 275.21, None, 276.73
+
+219.
+.. zau.\
+this
+這個
+
+#e I can ensure you that...
+#c 我跟你保證這個事情。
+#a 276.73, None, 277.22
+
+220.
+.. naquni  napawan-su,\
+how  wife-2SG.GEN
+如何  太太-2SG.屬格
+
+#a 277.22, None, 278.67
+
+221.
+.. zin-na=ti   ni   shuyzun.\
+say-3SG.GEN=PFV  GEN  PN
+說-3SG.屬格=完成  屬格  人名
+
+#e Shuyzun said.
+#c Shuyzun說。
+#a 278.67, None, 279.82
+
+222.
+.. kawka  m-limet  ma,\
+KAWKA  AF-quiet  MA
+KAWKA  主焦-安靜  MA
+
+#e He was speechless.
+#c 他不講話。
+#a 279.82, None, 281.33
+
+223.
+.. Rabi   ‘nay   nani,\
+evening  that   DM
+傍晚   那個  DM
+
+#a 281.33, None, 282.54
+
+224.
+.. k<m>ilim=ti=iku  tu,\
+<AF>look.for=PFV=1SG.NOM  OBL
+<主焦>找=完成=1SG.主格  斜格
+
+#a 282.54, None, 283.36
+
+225.
+.. kyataya,\
+damn
+髒話
+
+#e That evening, I looked for (medicine).
+#c 那天晚上我找(農藥)。
+#a 283.36, None, 284.29
+
+226.
+.. qangi=pa=ita   m-patay,\
+just=PFV=1IPL.NOM  AF-die
+乾脆=完成=1IPL.主格  主焦-死
+
+#e I wanna die.
+#c 乾脆我去死。
+#a 284.29, None, 285.47
+
+227.
+.. yau=ita   sa-kulusay-an,\
+EXIST=1IPL.NOM  FUT-walk.to.and.fro-NMZ
+存在=1IPL.主格   未來-走來走去-名物化
+
+#a 285.47, None, 287.71
+
+228.
+.. kelawkelaway,\
+work
+工作
+
+#a 287.71, None, 288.38
+
+229.
+.. pilay=ita    nani.\
+tired=1IPL.NOM  DM
+累=1IPL.主格  DM
+
+#e I walked to and fro while working. I feel tired.
+#c 我每天走來走去工作,很累。
+#a 288.38, None, 289.44
+
+230.
+.. nazau   wanay=pama,\
+this.way  WANAY=still
+這樣   WANAY=還
+
+#e He is still mean to me.
+#c 還對我不好。
+#a 289.44, None, 290.96
+
+231.
+.. naquni,\	
+how
+如何
+
+#a 290.96, None, 291.95
+
+232.
+.. kawka  nengi,\
+just   good
+才  好
+
+#a 291.95, None, 293.02
+
+233.
+.. mai  tu   kelisiw   na,\
+NEG  OBL  money   PART
+否定  斜格  錢   語助詞
+
+#e What should we do? We do not have money.
+#c 怎樣才能有錢? 沒有錢吶。
+#a 293.02, None, 294.47
+
+234.
+.. anu  yau  kelisiw   haw,\
+if  EXIST  money  PART
+如果  存在  錢    語助詞
+
+#a 294.47, None, 295.58
+
+235.
+.. mai=iku   qibasi.\
+NEG=1SG.NOM  wash
+否定=1SG.主格  洗
+
+#e If we had had money, I wouldn’t have washed the clothes.
+#c 有錢的話我不會去洗衣服。
+#a 295.58, None, 296.81
+
+236.
+.. mai  tizit  a  zau   lanas-ta,\
+NEG  thing LNK this  thing-1IPL.GEN
+否定  事情  連詞  這個  事情-1IPL.屬格
+
+#e This thing would not have happened.
+#c 不會發生這樣的事情。
+#n yau=ti izit a zau 有這樣的事情
+#n m-Rayngu=iku tu tizit a zau 我不知道會這樣子
+#n tizit a yau 那樣的事情
+#a 296.81, None, 298.84
+
+237.
+.. zin-na  pizi-an-ku   ta-anem-an-ku   t<m>abu  nani.\
+say-3SG.GEN  put-LF-1SG.GEN  LOC-heart-LOC-1SG.GEN <AF>wrap DM
+說-3SG.屬格  放-處焦-1SG.屬格  處格-心-處格-1SG.屬格 <主焦>包 DM
+
+#e I kept this in mind.
+#c 放在心裡。
+#a 298.84, None, 301.12
+
+238.
+... k<m>ilim=iku   tu  iyu   kya,\
+<AF>look.for=1SG.NOM  OBL  medicine  PART
+<主焦>找=1SG.主格  斜格  藥   語助詞
+
+#a 301.12, None, 303.61
+
+239.
+.. nani,\
+DM
+DM
+
+#e I looked for the medicine.
+#c 走路去找藥。
+#a 303.61, None, 304.29
+
+240.
+.. qa  qa==,\
+FS  FS
+FS  FS
+
+#a 304.29, None, 304.92
+
+241.
+.. patay=pa=ita.\
+die=FUT=1IPL.NOM
+死=未來=1IPL.主格
+
+#e I’d rather die.
+#c 乾脆我去死。
+#a 304.92, None, 305.81
+
+242.
+.. patay=ita   Rayngu-an-ta==,\
+die=1IPL.NOM  not.know-LF-1IPL.GEN
+死=1IPL.主格   不知道-處焦-1IPL.屬格
+
+#a 305.81, None, 307.81
+
+243.
+.. nia-nianu.\
+RED-what
+重疊-什麼
+
+#e If I die, I won’t know anything.
+#c 死了就什麼是也不知道了。
+#a 307.81, None, 308.79
+
+244.
+A: azu=ti  aisu  saiza  aiku==,\
+. like=PFV  2SG.NOM  perhaps  1SG.NOM
+. 像=完成 2SG.主格  可能 1SG.主格
+
+#a 308.79, None, 310.54
+
+245.
+.. nayau==,\
+that.way
+那樣
+
+#e You’re like me.
+#c 你和我一樣。
+#a 310.54, None, 311.47
+
+246.
+P: kilim-an-ku=ti  ya==,\
+. look.for-LF-1SG.GEN=PFV  NOM
+. 找-處焦-1SG.屬格=完成  主格
+
+#e I looked for...
+#c 我找...
+#a 311.47, None, 313.32
+
+247.
+.. yau   ngatu-ta  qaynay  mu-nebi.\
+EXIST  residue-1IPL.GEN  last.time  AF-hide
+存在  剩-1IPL.屬格    上一次   主焦-藏
+
+#e The remaining pesticides. (I) hid (them somewhere).
+#c 上次剩下的藥. (我)收起來。
+#n mu-nebi=iku tu iyu 我把藥藏起來
+#n nebi-an-ku iyu tazian 我把藥藏在這裡
+#a 313.32, None, 315.18
+
+248.
+.. mi-hunsya   tu,\
+AF-spray.pesticides   OBL
+主焦-放農藥  斜格
+
+#a 315.18, None, 316.43
+
+249.
+.. tazuq   qawman   yau=pama,\
+rice.seedling  definitely  EXIST=still
+秧苗  絕對   存在=還
+
+#e There must be some remaining pesticides.
+#c 一定還有一點點。
+#n hunsya-an-ku zena 水田我放藥過了
+#n pun=ti=iku hunsia tu zena
+#a 316.43, None, 318.22
+
+250.
+.. ki==lim-an-ku  mai,\
+look.for-LF-1SG.GEN  NEG
+找-處焦-1SG.屬格  否定
+
+#a 318.22, None, 320.37
+
+251.
+.. [k<m>kala],\
+<AF>find
+<主焦>找到
+
+#e I kept looking for it. I didn’t find it.
+#c 我一直找沒找到。
+#a 320.37, None, 320.41
+
+252.
+A: [sinpi-an-su]  tu  mai  qizi  tayan,\
+. destiny-LF-2SG.GEN   OBL NEG  QIZI  there
+. 命-處焦-2SG.屬格   斜格  斜格  QIZI  那邊
+
+#e Your life still hadn’t ended.
+#c 還沒有到死掉的命。
+#n sinpi-an-su qa-patay-an 你活該
+#n tanem 墳墓
+#n qizi ta-tanem-an 在墳墓那邊
+#n qizi qatazian maded 在這邊坐
+#a 320.41, None, 321.02
+
+253.
+P: en  si  yu  nani,\
+. yes  PART  PART DM
+. 是  語助詞  語助詞  DM
+
+#e Perhaps.
+#c 可能是。
+#a 321.02, None, 324.36
+
+254.
+.. mai,\
+NEG
+否定
+
+#a 324.36, None, 324.97
+
+255.
+.. azu  teRi=ti   kya.\
+like  daybreak=PFV  PART
+像   天亮=完成   語助詞
+
+#e I didn’t find it. It was already dawn.
+#c 找不到, 就天亮了。
+#a 324.97, None, 326.47
+
+256.
+...(0.7) en==,\
+FIL
+FIL
+
+#a 326.47, None, 328.0
+
+257.
+... tabRabi  nani,\
+morning    DM
+早上  DM
+
+#a 328.0, None, 329.61
+
+258.
+...(1.0) tayta-an-ku  mai=ti  yu,\
+see-LF-1SG.GEN  NEG=PFV  PART
+看-處焦-1SG.屬格  否定=完成  語助詞
+
+#a 329.61, None, 331.68
+
+259.
+.. ti-aRay,\
+NCM-PN
+NCM-人名
+
+#e I didn’t see ARay.
+#c 沒有看到RRay。
+#a 331.68, None, 332.2
+
+260.
+.. wiya=ti   qi-paRin  matiw,\
+leave=PFV  take-wood  AF.go
+離開=完成  拿-木材   主焦.去
+
+#e (He) went to take wood.
+#c 去拿木材。
+#a 332.2, None, 333.27
+
+261.
+.. t<m>ayta   tu   ni-kelawkaway-an-ku   tawi==an,\
+<AF>see  OBL PFV-work-NMZ-1SG.GEN  there
+<主焦>看  斜格 完成-工作-名物化-1SG.屬格  那邊
+
+#a 333.27, None, 335.04
+
+262.
+.. ta-bawbi-an,\
+LOC-vegetable.farm-LOC
+處格-菜園-處格
+
+#e To see the vegetable farm.
+#c 去看菜園。
+#a 335.04, None, 335.93
+
+263.
+.. paluma=iku  tu,\
+plant=1SG.NOM  OBL
+種菜=1SG.主格  斜格
+
+#a 335.93, None, 336.85
+
+264.
+.. qawbiq,\
+yam.leaves
+地瓜葉
+
+#e I planted yam leaves.
+#c 我種地瓜葉。
+#a 336.85, None, 337.54
+
+265.
+.. mudu=ita   tu  babuy  masang  nani.\
+AF.raise=1IPL.NOM  OBL  pig  past  DM
+主焦.養=1IPL.主格  斜格  豬  以前 DM
+
+#e We kept pigs.
+#c 我們養豬。
+#n qudu-an-ta babuy ni buya 我們養buya的豬
+#a 337.54, None, 339.53
+
+266.
+... yau=ti,\
+EXIST=PFV
+存在=完成
+
+#e (He) came back.
+#c (他)回來了。
+#a 339.53, None, 341.02
+
+267.
+... m-utung  tu   taquq,\
+AF-kill  OBL    chicken
+主焦-殺  斜格   雞
+
+#a 341.02, None, 342.67
+
+268.
+... pa-lana-an-niq=ti   ya,\
+PA-wait-LF-1EPL.GEN=PFV  PART
+PA-等-處焦-1EPL.屬格=完成  語助詞
+
+#e We kept waiting.
+#c 我們一直等。
+#a 342.67, None, 345.28
+
+269.
+.. sunis-ku,\
+child-1SG.GEN
+小孩-1SG.屬格
+
+#a 345.28, None, 345.71
+
+270.
+.. mai=pama  q<m>an  sa-,\
+NEG=still  <AF>eat   SA-
+否定=還   <主焦>吃  SA-
+
+#a 345.71, None, 346.4
+
+271.
+.. taRabi   nani.\
+breakfast  DM
+早餐   DM
+
+#e My child hadn’t had breakfast yet.
+#c 小孩還沒吃早餐。
+#n m-lana=iku tu qawtu-an ni buya 我在等buya來
+#a 346.4, None, 347.44
+
+272.
+A: [mai=ti  <L2TamaL2T>  unay],\
+. NEG=PFV  grandmother  that
+. 否定=完成  阿媽   那個
+
+#e Was Grandmother dead?
+#c 阿媽不在了嗎?
+#a 347.44, None, 348.32
+
+273.
+P: [qa-qan-qan=pa=ita],\
+. QA-eat-eat=FUT=1IPL.NOM
+. QA-吃-吃=未來=1IPL.主格
+
+#a 348.32, None, 348.58
+
+274.
+... mai=ti.\
+NEG=PFV
+否定=完成
+
+#e No.
+#c 不在了。
+#a 348.58, None, 351.26
+
+275.
+...(0.7) akwa  qan=pa=ita,\
+hurry.up  eat=FUT=1IPL.NOM
+快點   吃=未來=1IPL.主格
+
+#e Hurry up.
+#c 快點!
+#a 351.26, None, 353.16
+
+276.
+.. mai=pama q<m>an,\
+NEG=still  <AF>eat
+否定=還  <主焦>吃
+
+#a 353.16, None, 354.13
+
+277.
+.. sunis  a  zau,\
+child  LNK  this
+小孩  連詞  這個
+
+#e The child hadn’t had breakfast.
+#c 小孩還沒吃。
+#a 354.13, None, 354.9
+
+278.
+.. li==ngi-an-ku  qaya,\
+next-LF-1SG.GEN  also
+旁邊-處焦-1SG.屬格  也
+
+#e I was next to...
+#c 我就在旁邊。
+#a 354.9, None, 356.3
+
+279.
+... XX nani,\
+XX  DM
+XX  DM
+
+#a 356.3, None, 357.6
+
+280.
+.. tu,\
+DM
+DM
+
+#a 357.6, None, 358.27
+
+281.
+A: taqsi,\
+. study
+. 讀書
+
+#a 358.27, None, 359.61
+
+282.
+.. taqa=imu  sunis  a  zau,\
+NEG=2PL.NOM  child LNK this
+否定=2PL.主格  小孩  連詞  這個
+
+#a 359.61, None, 361.05
+
+283.
+.. muna  q<m>an,\
+AF.first  <AF>eat
+主焦.先  <主焦>吃
+
+#e The child had to eat first.
+#c 小孩要先吃。
+#a 361.05, None, 362.34
+
+284.
+.. saluna=pa=ti  sunis,\
+what.to.do=FUT=PFV  child
+怎麼辦=未來=完成  小孩
+
+#a 362.34, None, 363.49
+
+285.
+.. qa-ngid taqsi.\
+QA-want study
+QA-要 讀書
+
+#e The child had to go to school.
+#c 小孩子要去上學怎麼辦?
+#n saluna=pa=ti=iku 我怎麼辦?
+#a 363.49, None, 364.67
+
+286.
+P: m-lana=imi   kyami,\
+. AF-wait=1EPL.NOM  PART
+. 主焦-等=1EPL.主格  語助詞
+
+#a 364.67, None, 366.04
+
+287.
+.. zin-ku,\
+say-1SG.GEN
+說-1SG.屬格
+
+#a 366.04, None, 367.0
+
+288.
+.. q<m>an=ti=imi  sataRabi  tu,\
+<AF>eat=PFV=1EPL.NOM  breakfast  DM
+<主焦>吃=完成=1EPL.主格  早餐  DM
+
+#e We ate breakfast first.
+#c 我們等不到, 我們先吃。
+#a 367.0, None, 368.9
+
+289.
+... unay=ti   nengi=ti==,\
+that    good=PFV
+那個   好=完成
+
+#a 368.9, None, 371.16
+
+290.
+.. ti==,\
+FS
+FS
+
+#a 371.16, None, 372.1
+
+291.
+.. timaiku  ti-aRay,\
+1SG.OBL   NCM-PN
+1SG.斜格    NCM-人名
+
+#e (After) that, ARay treated me well.
+#c 之後,ARay就對我很好了。
+#a 372.1, None, 373.48
+
+292.
+.. nayau  ya.\
+that.way  PART
+那樣   語助詞
+
+#a 373.48, None, 374.35
+
+293.
+... q<m>nut=iku   tu    ngid   qan   tu   iyu.\
+<AF>angry=1SG.NOM  TU  want  eat  OBL  medicine
+<主焦>生氣=1SG.主格  TU  要   吃  斜格   藥
+
+#e I was so angry that I wanted to take medicine (to commit suicide).
+#c 我很生氣,想要吃藥(自殺)。
+#a 374.35, None, 378.1
+
+294.
+A: [nayau],\
+. that.way
+. 那樣
+
+#a 378.1, None, 378.16
+
+295.
+P: [nayau],\
+. 那樣
+. 那樣
+
+#a 378.16, None, 378.38
+
+296.
+A: q<m>nut=ita  ngid=ita   qan    tu   iyu,\
+. <AF>angry=1IPL.NOM  want=1IPL.NOM  eat  OBL  medicine
+. <主焦>生氣=1IPL.主格  要=1IPL.主格   吃  斜格  藥
+
+#a 378.38, None, 381.36
+
+297.
+.. saizi.\
+exactly
+的確
+
+#e We were angry and wanted to take medicine (to commit suicide).
+#c 我們很生氣,想要吃藥(自殺)。
+#a 381.36, None, 382.18

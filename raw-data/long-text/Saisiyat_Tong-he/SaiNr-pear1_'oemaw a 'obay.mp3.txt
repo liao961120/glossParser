@@ -1,0 +1,977 @@
+topic: pear1
+type: Narrative
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 趙山河, 'oemaw a 'obay, male, None
+collected: 2002-01-01
+revised: None
+video: SaiNr-pear1_'oemaw a 'obay.mp3
+
+1.
+hayza' 'aehae',/
+EXIST one
+有 一
+
+#a 6.11, None, 7.08
+
+2.
+...(1.5) ka tatini'.\
+NOM old.man
+主格 老人
+
+#e There was an old man.
+#c 有一個老人。
+#a 7.08, None, 9.67
+
+3.
+...(3.6) rima' ila ray,\
+AF.go PFV LOC
+主焦.去 完成 處格
+
+#a 9.67, None, 13.95
+
+4.
+... pamowa'-an ka,/
+plant-NMZ GEN
+<完成>種-名物化 屬格
+
+#a 13.95, None, 15.19
+
+5.
+...(1.1) bo-boway .\
+RED-fruit .
+重疊-水果 .
+
+#e (He) went to an orchard.
+#c 去了果園。
+#n bo-boway (1) 做肥料的草, (2)剛長出來的水果
+#n Note: (1) grass used for fertilizer; (2) newly-grown fruit
+#a 15.19, None, 16.73
+
+6.
+...(1.3) 'isaa o:,\
+FIL FIL
+FIL FIL
+
+#a 16.73, None, 18.59
+
+7.
+...(1.1) min-boway ila ka,/
+MIN-fruit PFV FIL
+MIN-水果 完成 FIL
+
+#a 18.59, None, 20.8
+
+8.
+... niya pamowa'-an .\
+3SG..GEN plant-NMZ .
+3SG.屬格 <完成>種-名物化 .
+
+#e The trees that he planted have borne fruits.
+#c 他的果園長了水果。
+#a 20.8, None, 22.1
+
+9.
+...(1.7) 'isaa ka tatini',/
+that NOM old.man
+那個 主格 老人
+
+#a 22.1, None, 24.8
+
+10.
+...(1.0) ma' ... rima' ila ma,\
+also . AF.go PFV also
+也 . 主焦.去 完成 也
+
+#a 24.8, None, 26.85
+
+11.
+...(0.9) ki-boway,\
+KI-fruit .
+摘水果 .
+
+#e  
+#c  
+#n 零零散散的摘
+#n Note: to pick/pluck one by one
+#a 26.85, None, 28.43
+
+12.
+... rokrok ka boway .\
+pick ACC fruit .
+<主焦>摘 受格 水果 .
+
+#e The old man went to pick the fruits."
+#c 那個老人去摘水果了。
+#a 28.43, None, 30.05
+
+13.
+...(2.1) 'isaa o:,/
+FIL DM
+FIL DM
+
+#a 30.05, None, 32.84
+
+14.
+...(3.1) rokrok ka boway,\
+pick ACC fruit
+<主焦>摘 受格 水果
+
+#a 32.84, None, 35.75
+
+15.
+... 'oka' 'araS ka kala' .\
+Neg AF.bring ACC basket .
+<完成>否定 主焦.帶 受格 籃子 .
+
+#e He picked fruits, but he did not bring any basket."
+#c 摘水果，可是都沒有帶著籃子。
+#n romokrok 全部摘 pick/pluck everything
+#n 'inoka' 沒有準備 not prepared
+#n 'inokay koSa' 沒有人提醒 完全沒準備 no reminder from anybody;  #n entirely unprepared
+#a 35.75, None, 37.64
+
+16.
+...(0.9) niya noka,\
+3SG.GEN use
+3SG.屬格 用
+
+#a 37.64, None, 39.44
+
+17.
+...(1.9) 'obos,\
+pocket
+口袋
+
+#a 39.44, None, 41.96
+
+18.
+...(1.9) noka kaybae:en,/
+use clothes
+用 衣服
+
+#a 41.96, None, 44.62
+
+19.
+... tino,/
+use.as
+當成
+
+#a 44.62, None, 45.68
+
+20.
+...(0.8) kala' 'ano o: isaza .\
+basket FIL DM there .
+籃子 FIL DM 那裡 .
+
+#e (so he used) his clothes-pocket for a basket.
+#c 就用衣服的口袋來當作他的籃子。
+#a 45.68, None, 47.75
+
+21.
+...(1.2) 'araS-en o:,/
+bring-PF DM
+帶-受焦 DM
+
+#a 47.75, None, 49.36
+
+22.
+... ta'as ila ray,\
+let.loose PFV LOC
+<完成>放在地上 完成 處格
+
+#a 49.36, None, 51.39
+
+23.
+...(0.8) (r)ay ra:i',/
+LOC ground
+處格 地
+
+#a 51.39, None, 52.78
+
+24.
+...(1.1) 'isaa ka kala' 'aSkan hayza (r)ay ... ra:i'.\
+that NOM basket put.down EXIST LOC . ground
+那個 主格 籃子 <完成>放下 存在 處格 . 地
+
+#e There was a basket put on the ground.
+#c 帶著就放在 ... ... 地上，地上有一個剛放下的籃子。
+#a 52.78, None, 56.97
+
+25.
+...(2.4) 'isa o: niya ka,\
+FIL FIL 3SG.GEN FIL
+FIL FIL 3SG.屬格 FIL
+
+#a 56.97, None, 60.19
+
+26.
+...(1.2) ka-rokrok-an ka 'isa ka bo-boway kaehoey kin,\
+KA-pick-NMZ NOM that NOM RED-fruit tree very
+KA-摘-名物化 主格 那個 主格 重疊-水果 樹 很
+
+#a 60.19, None, 63.89
+
+27.
+.. 'i-babaw .\
+i-above .
+非常上面 .
+
+#e He was picking fruits on top of the tree.
+#c 他要摘水果的地方非常的高。
+#a 63.89, None, 64.78
+
+28.
+...(1.7) 'isahiza ka tatini',\
+that NOM old.man
+那個 主格 老人
+
+#a 64.78, None, 67.91
+
+29.
+... rima' ta'itol ila ha:o babaw o:,/
+AF.go AF.move.up PFV there above DM
+主焦.去 主焦.爬上去 完成 那裡 上面 DM
+
+#a 67.91, None, 70.5
+
+30.
+... rokrok ka,\
+pick ACC
+<主焦>摘 受格
+
+#a 70.5, None, 72.53
+
+31.
+...(1.0) boway .\
+fruit .
+水果 .
+
+#e The old man went up the tree to pick fruits there.
+#c 那個老人爬到樹上那邊，在摘水果。
+#a 72.53, None, 73.83
+
+32.
+... o:,/
+INT
+感嘆
+
+#a 73.83, None, 75.35
+
+33.
+... isaza,\
+FIL
+FIL
+
+#a 75.35, None, 76.34
+
+34.
+...(1.1) 'aehae' mae'iyaeh,\
+one person
+一 人
+
+#a 76.34, None, 78.26
+
+35.
+...(1.4) nila,\
+AF.arrive
+主焦.到達
+
+#a 78.26, None, 80.07
+
+36.
+...(0.9) 'ima hoehoeh ka 'aehae' ka Siri' .\
+PROG pull ACC one ACC goat .
+進行 <主焦>拉 受格 一 受格 羊 .
+
+#e A person came pulling a goat.
+#c 那裡有一個人拉著一頭羊。
+#n kaminoehoeh ka siri'; hoemoehoeh 把東西拉走 to pull something
+#a 80.07, None, 83.31
+
+37.
+...(2.2) y~a-- niya 'inaz'azem koSa: o:,/
+FS 3SG.GEN thought say DM
+FS 3SG.屬格 思想 <主焦>說 DM
+
+#a 83.31, None, 87.48
+
+38.
+... hini ka,/
+this NOM
+這個 主格
+
+#a 87.48, None, 88.83
+
+39.
+.. hoehoeh ka Siri',/
+pull ACC goat
+<主焦>拉 受格 山羊
+
+#a 88.83, None, 90.23
+
+40.
+... 'am m-wa:i' ma ta-tilhaehael ka hini ka tatini' .\
+FUT AF-come also Ca-AF.help ACC this ACC old.man .
+未來 主焦-去 也 Ca重疊-主焦.幫忙 受格 這個 受格 老人 .
+
+#a 90.23, None, 94.38
+
+41.
+...(1.4) mo- rokrok ka,\
+FS pick ACC
+FS <主焦>摘 受格
+
+#a 94.38, None, 96.96
+
+42.
+.. ka boway .\
+ACC fruit .
+受格 水果 .
+
+#e (He) thought this (man) pulling a goat has come to help the old man pick fruits.
+#c 他心想，這個拉著羊的人要來幫忙這個老人摘水果。
+#n haehaelhaehael
+#a 96.96, None, 98.61
+
+43.
+...(1.5) 'isaa o:,/
+FIL DM
+FIL DM
+
+#a 98.61, None, 100.48
+
+44.
+...(1.4) 'isaa ka,/
+that NOM
+那個 主格
+
+#a 100.48, None, 102.37
+
+45.
+... hoehoeh ka Siri' lososo:oi: ila-ha:o kabih .\
+pull ACC goat AF.go.straight AF.go-there side .
+<主焦>拉 受格 羊 主焦.直直走 主焦.到-那裡 邊 .
+
+#e (But) that (man) pulling a goat proceeded on his way.
+#c 那個拉著羊的人一直走走到另外一邊去了。
+#a 102.37, None, 106.02
+
+46.
+...(3.7) hini o:,\
+this DM
+這個 DM
+
+#a 106.02, None, 109.73
+
+47.
+... ina rorol 'aehae' ka,\
+EXPER follow one NOM
+經驗 <主焦>跟隨 一 主格
+
+#a 109.73, None, 111.34
+
+48.
+...(0.8) ka korkoring,/
+NOM child
+主格 小孩
+
+#a 111.34, None, 112.87
+
+49.
+... 'am 'ima papama' ka ka-papama'-an ka,\
+FUT PROG AF.ride ACC KA-ride-NMZ ACC
+未來 進行 主焦.騎 受格 KA-騎-名物化 受格
+
+#a 112.87, None, 115.6
+
+50.
+...(0.8) ka-papama'-an noka korkoring .\
+KA-ride-NMZ GEN child .
+KA-騎-名物化 屬格 小孩 .
+
+#e A child riding on his bike followed.
+#c 這個有一個跟在後面 ... ... 有個小孩騎著他的腳踏車。
+#a 115.6, None, 118.28
+
+51.
+...(2.8) 'isaa o:,/
+FIL DM
+FIL DM
+
+#a 118.28, None, 121.56
+
+52.
+...(0.9) ka tatini',/
+NOM old.man
+主格 老人
+
+#a 121.56, None, 122.94
+
+53.
+...(1.1) 'okay sahoeroe' ka 'isaza ka korkoring .\
+NEG AF.discover ACC FIL ACC child .
+否定 主焦.發現 受格 FIL 受格 小孩 .
+
+#e The old man didn't see the child.
+#c 那個老人沒有看到那一個小孩。
+#a 122.94, None, 126.5
+
+54.
+...(1.9) tatini' ha:o ray,\
+old.man there LOC
+老人 那裡 處格
+
+#a 126.5, None, 129.44
+
+55.
+...(1.0) kaehoey babaw 'okay sa-sahoero-i .\
+tree above NEG RED-see-PF .
+樹 上面 否定 重疊-看見-受焦 .
+
+#e (Because) the old man was up in the tree (and) didn't see.
+#c 老人在樹上面那邊，（所以）沒有看到。
+#n sahoero不期而遇 meet unexpectedly
+#a 129.44, None, 132.12
+
+56.
+...(1.1) 'isaza ka rokrok ni,\
+that NOM pick GEN
+那個 主格 <完成>摘 屬格
+
+#a 132.12, None, 134.45
+
+57.
+... baki' ka,\
+grandfather ACC
+爺爺 受格
+
+#a 134.45, None, 135.85
+
+58.
+...(0.9) boway .\
+fruit .
+水果 .
+
+#e There (were) the fruits picked by (the old man).
+#c 那個老人摘下來的水果，
+#a 135.85, None, 137.35
+
+59.
+... ray ra:i' 'askan roSa' ila ka,\
+LOC ground put.down two PFV NOM
+處格 地 <完成>放下 二 完成貌 主格
+
+#a 137.35, None, 139.9
+
+60.
+...(1.5) kala' .\
+basket .
+籃子 .
+
+#e There were two baskets on the ground.
+#c 摘了兩個籃子放在地上。
+#a 139.9, None, 141.69
+
+61.
+...(2.1) 'inak'ino' 'isaa korkoring.\
+how.come that child
+為了什麼 那個 小孩
+
+#e  
+#c  
+#n takita' 'inak'ino'an 來看一看是什麼樣的 to see what it's like
+#n takoSa': yami 'am lobih takoSa' 我們要回去了就這樣說 We are leaving
+#n tolaeh ila noka ingangang
+#a 141.69, None, 145.15
+
+62.
+...(1.5) m-arma',/
+AF-steal
+主焦-偷
+
+#a 145.15, None, 147.26
+
+63.
+...(1.5) 'aehae' kala',/
+one basket
+一 籃子
+
+#a 147.26, None, 149.28
+
+64.
+... niya 'araS-en papama' ka ka-papama'-an .\
+3SG.GEN bring-PF AF.ride ACC KA-ride-NMZ
+3SG.屬格 帶-受焦 主焦.騎 受格 KA-騎-名物化 .
+
+#e The child (suddenly/unexpectedly) took one basket and rode on his bike.
+#c 不知道怎麼了那個小孩偷了一個籃子，騎著腳踏車帶走了。
+#a 149.28, None, 152.34
+
+65.
+...(1.0) 'isaa ka tatini' .. kaSra:i' ila ay,\
+that NOM old.man . AF.move.down PFV LOC
+那個 主格 老人 . 主焦.著地 完成 處格
+
+#a 152.34, None, 155.83
+
+66.
+'inaray kaehoey babaw .\
+from tree above .
+從 樹 上面 .
+
+#e The old man climbed down from the top of the tree.
+#c 那個老人從樹上下來。
+#a 155.83, None, 157.23
+
+67.
+...(3.6) kita' ka nisia rokrok ka kala' .\
+see ACC 3SG.GEN pick ACC basket .
+<主焦>看 受格 3SG.屬格 <完成>摘 受格 籃子 .
+
+#e He saw the basket (of fruits that he) picked.
+#c 看著他採的幾籃（水果）。
+#a 157.23, None, 162.73
+
+68.
+...(2.3) komoSa:,\
+DM
+DM
+
+#a 162.73, None, 165.5
+
+69.
+...(0.9) hayno' ila hini ma'an rokrok ka,\
+where PFV this 1SG.GEN pick ACC
+哪裡 完成 這個 1SG.屬格 <完成>摘 受格
+
+#a 165.5, None, 168.02
+
+70.
+... 'aehae' kala' ka boway hini .\
+one basket ACC fruit this .
+一 籃子 受格 水果 這個 .
+
+#e And he said, where has one basket (of fruit) I picked gone?
+#c 說道：我剛剛採的那一籃水果跑去哪裡了呢？
+#a 168.02, None, 170.28
+
+71.
+...(1.8) o: 'isaza,\
+DM then
+DM 那個
+
+#a 170.28, None, 172.5
+
+72.
+...(2.2) korkoring o:,/
+child DM
+小孩 DM
+
+#a 172.5, None, 175.15
+
+73.
+... kilwa'is ila ma',\
+with.effort PFV also
+<主焦>努力 完成 也
+
+#a 175.15, None, 176.99
+
+74.
+...(1.4) rima' .. 'ae'ae:aew ila rima' .\
+AF.go . AF.run PFV AF.go .
+主焦.去 . 主焦.跑 完成 主焦.去 .
+
+#e (The child) rode his bike with all his might and ran away.
+#c 小孩子奮力地跑走了。
+#a 176.99, None, 179.95
+
+75.
+...(1.6) sia nak'ino./
+3SG.NOM how
+3SG.主格 如何
+
+#e What on earth happened?
+#c 他結果怎麼了呢？
+#a 179.95, None, 182.36
+
+76.
+... komoSa:,\
+DM
+DM
+
+#a 182.36, None, 183.48
+
+77.
+... yo 'aehae' naehaen ka korkoring m-wa:i',\
+again one later NOM child AF-come
+又 一 還 主格 小孩 主焦-來
+
+#a 183.48, None, 186.32
+
+78.
+...(1.3) ray ra:an./
+LOC road
+處格 路
+
+#e Later on the road came another child.
+#c 在路上又有一個小孩子來了。
+#a 186.32, None, 188.11
+
+79.
+...(1.7) roSa' ila,\
+two PFV
+二 完成
+
+#a 188.11, None, 190.5
+
+80.
+...(0.7) sasbong ila ka,\
+AF.meet PFV ACC
+主焦.相遇 完成 受格
+
+#a 190.5, None, 192.37
+
+81.
+... ka-papama'-an ila ka.\
+KA-ride-NMZ PFV DM
+KA-騎-名物化 完成 DM
+
+#e On the road, two bikes crashed.
+#c 兩輛腳踏車相遇。
+#a 192.37, None, 193.73
+
+82.
+...  ila m-alben ila ray ... ra:i'.\
+PFV AF-fall.down PFV LOC . ground
+<日 汽車 日> 完成 主焦-倒下 完成 處格 . 地
+
+#e (Two bikes) fell on the ground.
+#c 從腳踏車上跌到地上，摔得一踏糊塗。
+#n tola'a 鰻魚 eel
+#n tolaeh ila ni yaba' pasiayo'on 小孩子不聽話 被爸爸罵的一塌糊塗 the #n child won't listen at all and so was scolded by his father.
+#n tolaeh ila noka 'inangang 被罵的一塌糊塗 to be scolded severely
+#n toemolaeh ila nanaw
+#a 193.73, None, 196.71
+
+83.
+... hiza ka boway ray kala',\
+that NOM fruit LOC basket
+那個 主格 水果 處格 籃子
+
+#a 196.71, None, 198.69
+
+84.
+.. si-sae:aeh ila,/
+RF-spill.all.over PFV
+指焦-溢出 完成
+
+#a 198.69, None, 200.24
+
+85.
+... ray ra:i'.\
+LOC ground
+處格 地
+
+#e The fruits in the basket fell all over the ground.
+#c 那籃子裡的水果都灑出來到地上去了。
+#a 200.24, None, 201.12
+
+86.
+...(1.2) hiza 'ima haebae:aen ka korkoring kita' koSa:,\
+that IMA many NOM child see say
+那個 IMA 多 主格 小孩 <主焦>看 <主焦>說
+
+#a 201.12, None, 205.03
+
+87.
+... anh,\
+FS
+FS
+
+#a 205.03, None, 205.78
+
+88.
+.. 'ampowa ila hini korkoring,\
+why PFV this child
+為什麼 完成 這個 小孩
+
+#a 205.78, None, 207.64
+
+89.
+.. m-alben ray ra:i'.\
+AF-fall.down LOC ground
+主焦-倒下來 處格 地
+
+#e Those (three) children saw (the fall) and said 'what's with this child who fell on the ground?
+#c 那邊有很多小孩看到就說：這個小朋友怎麼跌到地上了呢？
+#a 207.64, None, 208.86
+
+90.
+.. Sa kita'-en .. hini' ka boway,\
+exhort see-PF . this NOM fruit
+exhort 看-受焦 . 這個 主格 水果
+
+#a 208.86, None, 210.88
+
+91.
+...(0.8) ray ra:i',\
+LOC ground
+處格 地
+
+#a 210.88, None, 212.29
+
+92.
+.. si-sae:aeh ila.\
+RF-spill.all.over PFV
+指焦-溢出 完成
+
+#e They went and saw; the fruits have fallen all over the ground.
+#c 看到了這些水果倒出來撒在地上。
+#a 212.29, None, 213.3
+
+93.
+...(0.8) kita'-en ka korkoring noka saboeh,\
+see-PF NOM child GEN all
+看-受焦 主格 小孩 屬格 全部
+
+#a 213.3, None, 217.12
+
+94.
+... rokrok hini ka boway o:./
+pick this ACC fruit DM
+<主焦>摘 這個 受格 水果 DM
+
+#e (We) see that all the children then (worked) together to pick up the fruits.
+#c 那些小孩子一起撿水果。
+#a 217.12, None, 219.37
+
+95.
+... 'askan-en o: .. ray kala'.\
+put.down-PF DM . LOC basket
+放下-受焦 DM . 處格 籃子
+
+#e (They) put (the fruits) in the basket.
+#c 放在籃子裡。
+#a 219.37, None, 221.35
+
+96.
+...(1.5) nak'isaza ka korkoring,/
+like.that NOM child
+像那樣 主格 小孩子
+
+#a 221.35, None, 224.64
+
+97.
+... rokrok ka boway.\
+pick ACC fruit
+<主焦>摘 受格 水果
+
+#e This way the children were picking up the fruits.
+#c 像那樣子小孩子一起撿水果。
+#a 224.64, None, 226.58
+
+98.
+...(1.4) sia nak'ino 'isaa./
+3SG.NOM how that
+3SG.主格 如何 那個
+
+#e What on earth has happened?
+#c 他怎麼會這樣呢？
+#a 226.58, None, 228.81
+
+99.
+...(1.3) ka ... korkoring kin,\
+NOM . child really
+主格 . 小孩 非常
+
+#a 228.81, None, 231.63
+
+100.
+...(1.1) 'ae-'aewhay o:./
+RED-AF.bad INT
+重疊-主焦.壞 感嘆
+
+#e These children were really bad.
+#c 那些小孩都那麼壞，
+#n 'ae'aewhay 每一個都很壞every one is bad;
+#n 'a'aewhay 比壞還要更壞 worse than bad; 
+#n lasia ima kakayzaeh 他們每一個人都很好All of them are good.
+#a 231.63, None, 233.55
+
+101.
+... ma: .. m-arma' hiza ka boway ma: 'araS-en ila si'ael-en ila roSa'./
+too . AF-steal this ACC fruit too bring-PF PFV eat-PF PFV two
+也 . 主焦-偷 那個 受格 水果 也 帶來-受焦 完成 吃-受焦 完成 二
+
+#e They have not only stolen the fruits, but have also taken and eaten two.
+#c 也偷走了那些水果，還吃了兩個。
+#a 233.55, None, 237.43
+
+102.
+...(0.9) oh,\
+FIL
+FIL
+
+#a 237.43, None, 238.54
+
+103.
+.. 'isaza o: komoSa:,\
+then DM DM
+那個 DM DM
+
+#a 238.54, None, 239.91
+
+104.
+...(2.7) hiza tatini ... tatini' koSa: o:.\
+that old.man . old.man say DM
+那個 老人 . 老人 <主焦>說 DM
+
+#e Then the old man said,
+#c 然後那個老人說，
+#a 239.91, None, 244.67
+
+105.
+...(1.4) ma'an hini ka 'aehae' ha-hila 'ma rokrok ka boway hini o: hayno' ila ma' 'aehae' kala'.\
+1SG.GEN here NOM one Ca-sun also pick NOM fruit this DM where PFV also one basket
+1SG.屬格 這個 主格 一 Ca重疊-日升 也 <完成>摘 主格 水果 這個 DM 哪裡 完成 也 一 籃子
+
+#e Where has the basket of fruits which I have picked today gone?
+#c 我花了一天採的水果到哪裡去了呢？
+#a 244.67, None, 250.01
+
+106.
+.. ki:im ki:im ki:im .. 'okay tihoeroe-i o:./
+look.for look.for look.for . NEG find-PF DM
+<主焦>尋找 <主焦>尋找 <主焦>尋找 . 否定 找到-受焦 DM
+
+#e He looked for (the fruits), but did not find (them).
+#c 找呀找呀找呀沒有找到。
+#a 250.01, None, 252.96
+
+107.
+.. 'isaa komoSa: ay,\
+FIL DM INT
+那個 DM 感嘆
+
+#a 252.96, None, 255.75
+
+108.
+.. nisia ra:am-en komoSa:,\
+3SG.GEN know-PF COMP
+3SG.屬格 知道-受焦 補語詞
+
+#a 255.75, None, 257.77
+
+109.
+.. hini ka korkoring m-wa:i'.\
+this NOM child AF-come
+這個 主格 小孩 主焦<完成>-來
+
+#e The child (children) came.
+#c 他可能想說這個小孩已有來過。
+#a 257.77, None, 259.47
+
+110.
+.. hini' noka korkoring 'araS-en ila ay ka hini ka boway.\
+this GEN child take-PF PFV INT NOM this NOM fruit
+這個 屬格 小孩 帶-受焦 完成 感嘆 主格 這個 主格 水果
+
+#e This child took this fruit.
+#c 這個水果被小孩子帶走了。
+#a 259.47, None, 262.76
+
+111.
+...(0.9) hm .. koSa: ma',\
+FIL . say also
+FIL . <主焦>說 也
+
+#a 262.76, None, 265.51
+
+112.
+.. 'ana nak'isaa 'al'alak,\
+although like.that youth
+雖然 像那樣子 年輕人
+
+#a 265.51, None, 266.53
+
+113.
+.. So: korkoring si'ael ka hini ka boway,\
+COND child eat ACC this ACC fruit
+條件詞 小孩 <主焦>吃 受格 這個 受格 水果
+
+#a 266.53, None, 268.39
+
+114.
+ma' 'ampowa 'aewhay,/
+also why AF.bad
+也 為什麼 主焦.壞
+
+#e Although that (the child took the fruit away), there's nothing wrong with the child's eating the fruit.
+#c 雖然那些水果被小孩子吃掉了，那也不錯。
+#a 268.39, None, 269.38
+
+115.
+kayzaeh o:,/
+AF.good INT
+主焦.好 感嘆
+
+#e Good.
+#c 也不錯呀!
+#a 269.38, None, 270.14
+
+116.
+.. 'isaa tatini' ma-'az-'azem komoSa:,\
+that old.man AF-RED-think COMP
+那個 老人 主焦-重覆-想 補語詞
+
+#a 270.14, None, 273.59
+
+117.
+ai-o ta-si'ael-aw ka korkoring o:,\
+INT TA-eat--AW NOM child DM
+感嘆 TA-吃-AW 主格 小孩 DM
+
+#e The old man thought, 'Let the children eat.'
+#c 那個老人想說就讓那些小孩子們吃好了。
+#a 273.59, None, 277.21
+
+118.
+yami tatini' 'ana 'okay si'ael ma',\
+1EPL.NOM old.man although NEG AF.eat also
+1EPL.主格 老人 雖然 否定 主焦.吃 也
+
+#a 277.21, None, 278.86
+
+119.
+...(1.2) kayzaeh ila o:.\
+AF.good PFV INT
+主焦.好 完成 感嘆
+
+#e It's all right even if we old people don't eat (the pears).
+#c 我們老人即使沒有吃也還好。
+#a 278.86, None, 281.16
+
+120.
+'isa ma'an ka,/
+that 1SG.GEN NOM
+那個 1SG.屬格 主格
+
+#a 281.16, None, 282.49
+
+121.
+payaka:i' papay hini.\
+tell until here
+<完成>說 到 這裡
+
+#e My story ends here.
+#c 我說的故事就到這邊。
+#a 282.49, None, 284.23
+
+122.
+ma'alo'
+thank
+謝謝
+
+#e Thanks.
+#c 謝謝。
+#a 284.23, None, 285.47

@@ -1,0 +1,806 @@
+topic: Pear story
+type: Narrative
+language: 魯凱語, Rukai, Vedai
+speaker: 巴山光, Legaile, male, None
+collected: None
+revised: None
+video: RukaiNr-pear_legaile.mp3
+
+1.
+e yakai ku,_
+FIL EXIST NOM
+FIL 存在 主格
+
+#a 10.62, None, 12.04
+
+2.
+...(1.0) abubulu kikai ka,_
+story this NOM
+故事 這個 主格
+
+#a 12.04, None, 14.88
+
+3.
+...(1.4) a-pelaeal-ane=li.\
+NMZ-say-NMZ=1SG.GEN
+名物化-說-名物化=1SG.屬格
+
+#e There is a story which I would say.
+#c 我要說一個故事。
+#a 14.88, None, 17.84
+
+4.
+...(1.5) kudra yakai ku e,_
+that EXIST NOM FIL
+那個 存在 主格 FIL
+
+#a 17.84, None, 21.33
+
+5.
+...(1.0) tadrusa ku ta-ru<drau>drange._
+two NOM TA-<RED>old
+兩個 NOM TA-<重疊>老
+
+#e There are two old people.
+#c 有兩個老人。
+#a 21.33, None, 24.15
+
+6.
+...(1.1) kuini tangea la ka,_
+this one then NOM
+這個 一個 然後 NOM
+
+#a 24.15, None, 27.23
+
+7.
+...(0.7) kia-ka-<mura>-murau.\
+KIA-KA-<RED>-pomelo
+KIA-KA-<重疊>-柚子
+
+#e One is (taking) pomelo.
+#c 一個在採柚子。
+#a 27.23, None, 29.33
+
+8.
+...(0.8) kuini tangea la ka,\
+this one then NOM
+這個 一個 然後 主格
+
+#a 29.33, None, 32.07
+
+9.
+...(0.9) wa-bili-bilibili ku,\
+REAL-RED-pull OBL
+實現-重疊-拉 斜格
+
+#a 32.07, None, 34.67
+
+10.
+...(0.8) kiyu ka tainge-ane ka pa-<gua>-guagu kuini ki kiyu.\
+goat NOM one-NMZ NOM CAU-<RED>-sheep this OBL goat
+羊 主格 一個-名物化 主格 使役-<重疊>-放 這個 斜格 羊
+
+#e Another is pulling the goat：Another one is sheepping the goat.
+#c 另一個在拉著羊：另一個在放羊。
+#a 34.67, None, 38.01
+
+11.
+...(0.9) kuini e kia-ka-<mura>-murau kuini tutumu,\
+this FIL KIA-KA-<RED>-pomelo this old.man
+這個 FIL KIA-KA-<重疊>-柚子 這個 老人
+
+#a 38.01, None, 41.5
+
+12.
+...(0.9) la kia-ka-<mura>-murau si,\
+then KIA-KA-<RED>-pomelo CONJ
+然後 KIA-KA-<重疊>-柚子 CONJ
+
+#a 41.5, None, 44.26
+
+13.
+...(1.3) la e==,_
+then FIL
+然後 FIL
+
+#a 44.26, None, 46.65
+
+14.
+... ikai ku wa-lriba-lribate mua lrikili ku tangea,_
+EXIST NOM REAL-RED-PASS go bicycle NOM one
+存在 主格 實現-重疊-經過 去 單車 主格 一個
+
+#a 46.65, None, 50.7
+
+15.
+...(0.7) langukathabarane.\
+young.man
+年輕人
+
+#e When the old man was harvesting the pomelo, a young man rode a bike passing by.
+#c 當這老爺爺在採柚子的時候，有一個年輕人騎單車經過。
+#n yacengecenge ka langukathabarane 青壯年的年輕人，此為完整用法。
+#a 50.7, None, 52.58
+
+16.
+... la drele kuini ki tutumu si.\
+then see this OBL old.man SI
+然後 看 這個 斜格 老人 SI
+
+#e (he) looks this old man.
+#c (他)看這個老人。
+#a 52.58, None, 54.63
+
+17.
+... sai belenge si kai pu-<lringa>-lringau yaie,\
+when above CONJ NEG <RED>think DM
+當 上面 連接詞 否定 <重疊>-想到 DM
+
+#a 54.63, None, 57.12
+
+18.
+... malra pu-belenge ku akuvaeva ki karadradre._
+take put-above OBL one OBL basket
+拿 放-上去 斜格 一個 斜格 籃子
+
+#e When (old man) did not notice, (the young man) take one basket and put it up.
+#c 當(老人)沒有注意到時，(年輕人)就把一籃拿走放上去。
+#a 57.12, None, 60.94
+
+19.
+... pu-a kuini ki lrikilr=ini si,\
+put-REAL this OBL bicycle=3SG.GEN CONJ
+放-實現 這個 斜格 單車=3SG.屬格 連接詞
+
+#a 60.94, None, 63.12
+
+20.
+... e ka-tuase.\
+FIL KA-walk.away
+FIL KA-走開
+
+#e He put this in the bicycle and leave.
+#c 他放進單車後就離開。
+#a 63.12, None, 64.96
+
+21.
+...(1.5) la ka-tua-tuase si,\
+then KA-RED-walk.away CONJ
+然後 KA-重疊-走開 連接詞
+
+#a 64.96, None, 67.87
+
+22.
+.. ikai ku kain-<ganan>-ganai ku ma-dradresenge=ini.\
+EXIST NOM <RED>-come NOM MA-meet=3SG.OBL
+存在 主格 <重疊>來 主格MA-碰面=3SG.斜格
+
+#e When he is leaving, there is (a person) coming to meet him.
+#c 當他離開的時候，有(個人)正在過來跟他碰面。
+#a 67.87, None, 71.8
+
+23.
+...(1.0) la sa ma-dradresenge yaie,\
+then when MA-meet DM
+然後 當 MA-碰面 DM
+
+#a 71.8, None, 74.26
+
+24.
+...(0.9) e==,_
+FIL
+FIL
+
+#a 74.26, None, 75.93
+
+25.
+... nau drele-ana kikai._
+want see-firstly this
+想要 看-先 這個
+
+#e Then, when meeting，he want to see this person firstly.
+#c 然後當碰面的時候，(他)想先看(這個人)。
+#a 75.93, None, 78.78
+
+26.
+... ma-lra-lribate la iya,_
+REC-RED-pass then say
+互相-重疊-經過 然後 說
+
+#a 78.78, None, 80.63
+
+27.
+... la mua-lrane kudra talrupunu=ini,_
+then go-drop that hat=3SG.GEN
+然後 去-掉 那個 帽子=3SG.屬格
+
+#a 80.63, None, 83.06
+
+28.
+... lau kilrikilri ucucusu ki lrenege kuini e==._
+then trap bump OBL stone this FIL
+然後 拐到 碰撞 斜格 石頭 這個 FIL
+
+#a 83.06, None, 86.37
+
+29.
+... kuini lrikil=ini si mua-dreke.\
+this bicycle=3SG.GEN CONJ go-fall
+這個 腳踏車=3SG.屬格 連接詞 去-跌倒
+
+#e (When) they are passing each other, his hats fells and then he traps and bumps his bicycle against a stone.
+#c (當)互相經過時，然後他的帽子掉了，然後碰到石頭拐到了他的腳踏車然後跌倒。
+#a 86.37, None, 89.33
+
+30.
+... sa mua-dreke la ngi-sarade kuini e,_
+when go-fell then self-scatter this FIL
+當 跌倒 然後 自身-散落 這個 FIL
+
+#a 89.33, None, 92.32
+
+31.
+...(0.7) e tainge-ane ka kupa=ini.\
+FIL one-NMZ NOM steal=3SG.NOM
+FIL 一個-名物化 KA 偷=3SG.主格
+
+#e When (he) is falling，the one that he steal scatters.
+#c 當(他)跌倒的時候，然後他偷的那一(籃)就散落了。
+#a 92.32, None, 95.7
+
+32.
+... la kainganai la ikai ku e,_
+then come then EXIST NOM FIL
+然後 來 然後 存在 主格 FIL
+
+#a 95.7, None, 98.63
+
+33.
+.. tadulru ku._
+three FS
+三 FS
+
+#e Then, there are three people coming.
+#c 然後有三個人來了。
+#a 98.63, None, 100.3
+
+34.
+... e,_
+FIL
+FIL
+
+#a 100.3, None, 101.82
+
+35.
+...(1.4) ki-a-ipibu ku vavalake ku tangea la ikai ku yacengecenge ku tadrusa.\
+PASS-REAL-mix NOM child NOM one then EXIST NOM young.man NOM two
+被動-實現-混合 主格 小孩 主格 一個 然後 存在 主格 年輕人 斜格 二
+
+#e One child is mixed (in)，and then there are two young mans.
+#c 混了一個小孩，然後有兩個年輕人。
+#a 101.82, None, 106.81
+
+36.
+...(0.8) la pararubu-ana kuini ki alisu siludu kuini,\
+then help-firstly this OBL woman pick this
+然後 幫忙 先 這個 斜格 女生 撿 這個
+
+#a 106.81, None, 111.23
+
+37.
+...(0.8) e kamurau si.\
+FIL pomelo SI
+FIL 柚子 SI
+
+#e Then, (they) help this woman to pick up this pomelo.
+#c 然後，(他們)先幫忙這個女生撿這個柚子。
+#a 111.23, None, 113.2
+
+38.
+.. la maka siludu-nga kuini kamurau,_
+then MAKA pick-PFV this pomelo
+然後 MAKA 撿-完成 這個 柚子
+
+#a 113.2, None, 115.37
+
+39.
+... e,_
+FIL
+FIL
+
+#a 115.37, None, 116.6
+
+40.
+... la e malra kuini._
+then FIL take this
+然後 FIL 拿 這個
+
+#e Then (they) picked up this pomelo, and then take…
+#c 然後(他們)撿完這柚子，然後拿…。
+#n 此句為非完整句。
+#a 116.6, None, 118.9
+
+41.
+... nau ka-tuase-nga la iya kuini alisu si.\
+want KA-walk.away-PFV then say this girl CONJ
+想 KA-走開-完成 後 然後 說 這個 女孩 連接詞
+
+#e Then, this girl wants to leave.
+#c 然後這女生想離開。
+#a 118.9, None, 121.07
+
+42.
+... la ka-tua-tuase kuini la-lasu ma-u-vaga-vagai,\
+然後 <重疊>離開 這些 複數-男生 互相-<重疊>分開
+
+#a 121.07, None, 125.05
+
+43.
+.. la drele kudra talrupunu kuini ki alisu._
+然後 看到 那個 帽子 這個 斜格 女孩
+
+#e Then (when) these men are leaving and separating, they see that hat of this girl.
+#c 然後當這些男生正離開與分開時，他們看到了這女生的那個帽子。
+#a 125.05, None, 126.73
+
+44.
+... la malra kuini talrupunu si,\
+then take this hat CONJ
+然後 拿 這個 帽子 連接詞
+
+#a 126.73, None, 129.72
+
+45.
+... la e ka-tuase ana,_
+then FIL KA-walk.away firstly
+然後 FIL KA-走了 先
+
+#a 129.72, None, 131.97
+
+46.
+... e==,_
+FIL
+FIL
+
+#a 131.97, None, 133.24
+
+47.
+.. bai kuini na-mua adreke mualai kuini sarirane ki,_
+give this PFT-go fell for this good OBL
+給 這個 完成-去 跌倒 為了 這個 好的 斜格
+
+#a 133.24, None, 137.0
+
+48.
+... e==,_
+FIL
+FIL
+
+#a 137.0, None, 138.35
+
+49.
+...(1.5) ki-dremedreme=ini.\
+KI-heart=3PL.GEN
+KI-心=3PL.GEN
+
+#e Then, (they) take this hat and go firstly to give this (girl) who fall for the good of their heart.
+#c 然後(他們)拿這帽子而且先去給這個摔倒過(的女孩)因為他們的善心。
+#a 138.35, None, 140.96
+
+50.
+.. kuini e==,_
+this FIL
+這個 FIL
+
+#a 140.96, None, 142.48
+
+51.
+.. ta-ngi-mia-mia-ne kuini abulru yaie.\
+NMZ-self-RED-say-NMZ this story
+名物化-自身-重疊-說-名物化 這個 故事
+
+#e This, for the sake of this story.
+#c 這個，照這個故事來說。
+#a 142.48, None, 144.99
+
+52.
+... lu e==,_
+IRR FIL
+非實現 FIL
+
+#a 144.99, None, 146.78
+
+53.
+... pi-ane kuini ka umaumase yaie,\
+do-NMZ this NOM human DM
+做-名物化 這個 主格 人 DM
+
+#a 146.78, None, 149.62
+
+54.
+... ki-a-pa-dra-dresenge madu ku a-ma-tikuru-ane amia drel-a kuini ki alisu ku,_
+PASS-REAL-CAU-RED-meet would NOM NMZ-MA-hardship-NMZ say-IMP this 
+被動-實現-使役-重疊-遇到 會 主格 名物化-MA-苦難-名物化 說 看-祈使 這個 
+OBL girl OBL
+斜格 女生 斜格
+
+#a 149.62, None, 154.41
+
+55.
+.. kuini ki lasu kuini e._
+this OBL boy this
+這個 斜格 男孩 這個
+
+#e If human do this, they would encounter hardship；say, see the woman and man.
+#c 人如果這樣做的話，就會遭到苦難，(我)說，你看那個女生(跟)男生。
+#a 154.41, None, 155.47
+
+56.
+.. kupa kuini e==,_
+steal this FIL
+偷 這個FIL
+
+#a 155.47, None, 157.15
+
+57.
+... malra-malra kuini marudrange si,_
+RED-take this old.man SI
+重疊-拿 這個 老人 SI
+
+#a 157.15, None, 159.17
+
+58.
+... la mua dreke si._
+then go fall CONJ
+然後 去 跌倒 連接詞
+
+#e (They) steal the taking of the old man，and then fall.
+#c (他們)偷了這老人在採的東西，然後跌倒了。
+#a 159.17, None, 160.63
+
+59.
+.. sa mua dreke si e mia-nga kuini yaie,\
+when go fall CONJ like-PFV this DM
+當 去 跌倒 連接詞 像-完成 這 DM
+
+#a 160.63, None, 163.53
+
+60.
+... e==,_
+FIL
+FIL
+
+#a 163.53, None, 164.81
+
+61.
+... kuini la-lasu kuini tatulru kuini yacengecenge,_
+this PL-man this three this young.man
+這個 複數-男生 這個 三 這個 年輕人
+
+#a 164.81, None, 167.24
+
+62.
+.. la ngualai kuini tharinane kuini ki-dreme-dreme=lini yaie,\
+then because this kind this KI-RED-heart=3PL. NOM DM
+然後 因為 這個 善良 這個 KI-重疊-心=3PL.主格 DM
+
+#a 167.24, None, 169.8
+
+63.
+... iya ani ka pa-u-cilri ki alisu kai talrupunu la iya si ka-tuase._
+say why NOM CAU-toward-down OBL girl this hat then say SI KA-walk.away
+說 怎麼 NOM 掉了 斜格 女孩 這個 帽子 然後 說 SI KA-離開
+
+#e When (they) fall like this, the three young man say “why this hat of the girl drops” and leave.
+#c 當(他們)跌倒變成這樣時，這三個年輕的男生因為他們的心很善良，然後說這女孩的帽子怎麼掉了就這樣說就離開。
+#a 169.8, None, 173.69
+
+64.
+.. saulri bai tainge-ane ka sabulruane kuini ki alisu kudra kuini ki lasu kudra,_
+return give one-NMZ NOM lesson this OBL girl that this OBL boy that
+歸還 給 一個-名物化 主格 教訓 這個 斜格 女孩 那個 這個 斜格 男孩 那個
+
+#a 173.69, None, 178.0
+
+65.
+... e==,_
+FIL
+FIL
+
+#a 178.0, None, 179.31
+
+66.
+.. ta-pa-ngi-mi-ane=ini kuini kai pualringalringau kuini marudrange,\
+NMZ-CAU-self-like-NMZ=3SG.GEN NEG think this old.man
+名物化-使役-自身-像-名物化=3SG.數格 否定 想到 這個 老人
+
+#e (This) gives a lesson to this girl and that boy, the old man did not think that it would be like this.
+#c (這件事)給了這個女孩還有那個男孩，這老人沒有想到它會像這樣。
+#n 本句發音人亦無法完全確定語意，需再檢查。
+#a 179.31, None, 182.68
+
+67.
+.. la kirimu malra kuini e,_
+then quick take this FIL
+然後 快 拿 這 FIL
+
+#a 182.68, None, 184.89
+
+68.
+... e,_
+FIL
+FIL
+
+#a 184.89, None, 186.1
+
+69.
+.. malra-malra kuini kamurau si ka-tuase sa u-lebe-nga kuini marudrange.\
+RED-take this pomelo CONJ KA-walk.away when toward-down-PFV this old.man
+重疊-拿 這個 柚子 連接詞 KA-走開 當 向-下-完成 這 老人
+
+#e When this old man comes down, they take this pomelo.
+#c 當這老人下來的時候，(他們)很快地把柚子拿走了。
+#a 186.1, None, 189.19
+
+70.
+... ainu ku malra-malra=li la iya si ka-sama=li.\
+where NOM RED-take=1SG.OBL then say SI KA-surprise=1SG.OBL
+哪裡 主格 RED-拿=1SG.斜格 然後 說 SI KA-驚訝=1SG.斜格
+
+#e The old man is surprise and say “where is my pomelo?”
+#c (老人)很驚訝然後說「我採的(柚子)在哪裡？」
+#a 189.19, None, 191.58
+
+71.
+.. wa-lriba-lribate kuini tatulru kuini e,_
+REAL-RED-pass this three this FIL
+實現-重疊-經過 這 三 這 FIL
+
+#a 191.58, None, 193.82
+
+72.
+... e tatulru kuini laukathabarane,\
+FIL three this young.man
+FIL 三個 這 年輕人
+
+#a 193.82, None, 196.81
+
+73.
+.. palribulu kuini,_
+help this
+幫助 這個
+
+#a 196.81, None, 198.05
+
+74.
+... e==._
+FIL
+FIL
+
+#a 198.05, None, 199.19
+
+75.
+... alisu.\
+girl
+女孩
+
+#e This three young man are passing and helping this girl. 
+#c 這三個年輕人正在經過，幫助這女孩。
+#a 199.19, None, 200.5
+
+76.
+... la ka mia kuini ta-pelael-ane=li kuini abulru,\
+then NOM like this NMZ-say-NMZ=1SG.OBL this story
+然後 主格 像 這個 名物化-說-名物化=1SG.斜格 這 故事
+
+#e Then, (it is) like the story I say.
+#c 然後像我說的這個故事。
+#a 200.5, None, 203.94
+
+77.
+.. lu pasalrivane ka umaumase ma-tiakuru madu yakai ku wabulru muduane ku,_
+IRR do.bad.thing NOM human MA-poor would EXIST NOM lesson 1SG.OBL NOM
+非實現 做壞事 主格 人 可憐 會 存在 主格 教訓 1SG.斜格 主格
+
+#a 203.94, None, 208.31
+
+78.
+... e ika kadalrane madu.\
+FIL one way would
+FIL 一個 道路 會
+
+#e This is what I learned: people would be poor if they do bad things.
+#c 人如果做壞事會很可憐，這是我學到的。
+#a 208.31, None, 210.32
+
+79.
+.. la kuini tatulru ka la-malala tainge-ane ka e==,_
+then this three NOM PL-man one-NMZ NOM FIL
+然後 這 三 主格 複數-男士 一-名物化 主格 FIL
+
+#a 210.32, None, 213.4
+
+80.
+... e==,_
+FIL
+FIL
+
+#a 213.4, None, 214.75
+
+81.
+.. p-<eala>-ela kuini ki alisu tapiapiane madu ka umaumase wa-tuma-tumane madu ka umaumase.\
+<RED>say this OBL girl follow would NOM human REAL-RED-do NOM human
+<重疊>說 這個 斜格 女孩 順從 要 主格 人 實現-重疊-做 要 主格 人
+
+#e These three men is telling this girl another (way) to be a human.
+#c 這三個男士告訴這女孩另一(種)做人的(道理)。
+#n 本句發音人也無法確定真實語意為何。
+#a 214.75, None, 218.77
+
+82.
+... e amani kuini kudra,_
+FIL it.is.exactly this that
+FIL 就是 這個 那個
+
+#a 218.77, None, 220.84
+
+83.
+... e==,_
+FIL
+FIL
+
+#a 220.84, None, 222.15
+
+84.
+... nau p-<ela>-ela kuini,_
+want <RED>say this
+想要 說 這個
+
+#a 222.15, None, 224.34
+
+85.
+... e abubulru.\
+FIL story
+FIL 故事
+
+#e This is exactly the story I want to say.
+#c 這就是我想說的故事。
+#n abubulru 跟 abulru 都有故事的意涵，但前者有傳說的意味存在。
+#a 224.34, None, 226.18
+
+86.
+... kudra ngu-a-kai kuini ki,_
+that from-REAL-this this OBL
+那個 從-實現-這個 這個 斜格
+
+#a 226.18, None, 227.87
+
+87.
+... marudrange kudra,_
+old.man that
+老人 那個
+
+#a 227.87, None, 229.75
+
+88.
+.. kia-ka-<mura>urau la ikai kudra pasalriu iniane.\
+KIA-<RED>-pomelo then EXIST that crime 3SG.OBL
+KIA-<重疊>-柚子 然後 存在 那個 犯罪 3SG.斜格
+
+#e From the old man is taking pomelo，there is that crime of other.
+#c 從這個老人採柚子，就有他人犯罪。
+#a 229.75, None, 233.48
+
+89.
+.. la ngi-mia-lri-nga kuini kudra ta-pi-ane=ini kadrua kudra,_
+then self-like-LRI-PFV this that NMZ-do-NMZ=3SG.GEN EXIST.NEG
+然後 自己-像-LRI-完成 這個 那個 名物化-做-NMZ=3SG.屬格 存在.否定 那個
+
+#a 233.48, None, 236.03
+
+90.
+.. musathane=ini la pi-a kuini pasalriu kai palribulu ana._
+good.luck=3SG.GEN then do-REAL this crime NEG help firstly
+好運氣=3SG.屬格 然後 做-實現 這個 犯罪 沒有 幫助 先
+
+#e The one who makes a crime will not have good luck
+#c 犯罪者不會有好運氣，也不會先幫忙。
+#n 此處句式混亂，發音人翻譯上有困難。
+#a 236.03, None, 239.64
+
+91.
+... ki-a-saulri ana kuini talrupunu=ini,\
+PASS-REAL-return firstly this hat=3SG.GEN
+被動-實現-歸還 先 這個 帽子=3SG.屬格
+
+#a 239.64, None, 242.65
+
+92.
+.. pa-u-cilr=ini.\
+CAU-toward-down=3SG.GEN
+使役-向-下=3SG.屬格
+
+#e His hat which dropped is return firstly.
+#c 他掉的帽子先被歸還。
+#a 242.65, None, 243.88
+
+93.
+... la,_
+then
+然後
+
+#a 243.88, None, 244.81
+
+94.
+.. tainge-ane ka sa-pu-ki-dreme-drem-ane ki e,_
+one-NMZ NOM NMZ-put-KI-RED-heart-NMZ OBL FIL
+一-名物化 主格 名物化-放-KI-重疊-心-名物化 斜格 FIL
+
+#a 244.81, None, 247.19
+
+95.
+... e==,_
+FIL
+FIL
+
+#a 247.19, None, 248.47
+
+96.
+.. amani ku pa-iya kuini,_
+it.is.exactly NOM do-say this
+就是 主格 做-說 這個
+
+#a 248.47, None, 250.02
+
+97.
+.. ku pasalriu ku ta-ka-umaumas-ane=ini.\
+OBL crime OBL NMZ-KA-human-NMZ=3SG.GEN
+斜格 犯罪 斜格 名物化-KA-人-名物化=3SG.屬格
+
+#e (Another thing) should be put in mind is exactly that his personality will make crimes.
+#c 另一件要放在心上(的事)就是說他的個性會犯罪。
+#n 此句發音人無法完全保證是對的，需再確認。
+#a 250.02, None, 251.94
+
+98.
+... kasane ku,_
+left NOM
+
+#a 251.94, None, 253.26
+
+99.
+... a-iya-ane=li._
+NMZ-say-NMZ=1SG.GEN
+名物化-說-名物化=1SG.屬格
+
+#e (This is) what I left to say.
+#c (這就是)剩下我要說的。
+#n kasane是「剩下」之意。
+#a 253.26, None, 254.61
+
+100.
+.. ma-kakelrete kuini ta-iya-ane=li.\
+MA-enough this NMZ-say-NMZ=1SG.NOM
+MA-足夠 這個 名物化-說-名物化=1SG.屬格
+
+#e My saying is enough. 
+#c 我要說的足夠了。
+#a 254.61, None, 256.28
+
+101.
+.. malalenga.\
+thanks
+謝謝
+
+#e Thanks.
+#c 謝謝。
+#a 256.28, None, 257.04
+
+102.
+.. <L2Mhao wanbiL2M>.\
+OK finish
+好 完畢
+
+#e OK, (it is) finished.
+#c 好，完畢。
+#a 257.04, None, 257.66

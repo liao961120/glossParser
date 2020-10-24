@@ -1,0 +1,982 @@
+topic: pear_bunuk
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 葉珠君, bunuk, female, 1958-04-24
+collected: 2008-01-05
+revised: 2014-2-19
+video: skzyNr-pear_bunuk.mp3
+
+1.
+...(1.0) a u== sa ku ayam tu sananal.\
+FIL CN DM NOM bird OBL morning
+FIL CN DM 主格 鳥 斜格 早上
+
+#e The cock made cockcrow in the morning.
+#c 雞在早上啼叫。
+#n 這裡的鳥應是指雞。
+#a 1.0, None, 3.68
+
+2.
+... maluk-ay a tamdaw sa ata,\ 
+AF.work-NMZ LNK people DM FS
+主焦.工作-名物化 連繫詞 人 DM FS
+
+#a 3.68, None, 6.11
+
+3.
+... ma-tabal a tayza maluk,\
+AF-early LNK go.there AF.work
+主焦-早 連繫詞 去那裡 主焦.工作
+
+#a 6.11, None, 7.63
+
+4.
+...(0.8) ya cacay a babalaki ya tatama a babalaki sa.\
+that one LNK old.people that male LNK old.people DM
+那個 一個 連繫詞 老人 那個 男性 連繫詞 老人 DM
+
+#e An old male farmer went to work early in the morning.
+#c 一位老農夫一早去工作。
+#n IU2 中的tamdaw 為阿美語; 撒奇萊雅語則為 tademaw「人」。
+#a 7.63, None, 11.5
+
+5.
+...(0.8) mi==-hiya tu heci nu kilang,\
+AF-this.way OBL fruit GEN tree
+主焦-這樣 斜格 果實 屬格 樹
+
+#a 11.5, None, 14.43
+
+6.
+...(0.8) ma-zuhem=tu sa sa,\
+AF-ripe=PFV DM DM
+主焦-熟=完成貌 DM DM 
+
+#e The fruits were ripe. 
+#c 果實成熟了。
+#a 14.43, None, 16.55
+
+7.
+.. kalic a mi==-ala tu heci nu kilang,\
+climb LNK AF-take OBL fruit GEN tree
+爬 連繫詞 主焦-拿 斜格 果實 屬格 樹
+
+#a 16.55, None, 19.32
+
+8.
+...(1.7) mi-kalic ciniza sa.\
+AF-climb 3SG.NOM DM
+主焦-爬 3SG.主格 DM
+
+#e He climbed the fruit tree to pluck the fruits.
+#c 他爬上果樹摘果實。
+#n kalic 為北勢阿美語; kacaw為撒奇萊雅語。
+#a 19.32, None, 22.06
+
+9.
+... yadah ku heci nya kilang niza.\
+many NOM fruit GEN.that tree 3SG.GEN
+許多 主格 果實 屬格.那個 樹 3SG.屬格
+
+#e His trees bore many fruits.
+#c 他的樹結很多果實。
+#a 22.06, None, 23.89
+
+10.
+... cacay a <L2TcaynaL2T> sa ma-tumes=tu.\
+one LNK basket DM AF-full=PFV
+一個 連繫詞 菜籃 DM 主焦-滿=完成貌
+
+#e There was a basket of fruits.
+#c 已裝滿一個菜籃。
+#n cayna 為閩南語，漢字譯成「菜籃」。
+#a 23.89, None, 26.21
+
+11.
+.. ma-bilil henay ciniza a mi==-,_
+AF-in.a.hurry still 3SG.NOM LNK AF-
+主焦-趕緊 仍然 3SG.主格 連繫詞 主焦-
+
+#a 26.21, None, 28.28
+
+12.
+...(0.9) mi==-pecu’ tya heci nya kilang,\
+AF-pluck OBL.that fruit GEN.that tree
+主焦-摘 斜格.那個 果實 屬格.那個 樹
+
+#a 28.28, None, 31.22
+
+13.
+... bili==l sa sa.\
+in.a.hurry DM DM
+趕緊 DM DM
+
+#e He plucked the fruits in a hurry.
+#c 他又趕緊摘果實。
+#a 31.22, None, 33.15
+
+14.
+... u tamdaw tu tamdaw sananal sa,\
+CN people OBL people morning DM
+CN 人 斜格 人 早上 DM
+
+#a 33.15, None, 35.48
+
+15.
+...(0.9) ma-bilil=tu ta-umah ku ta-umah-ay.\
+AF-in.a.hurry=PFV go-filed NOM go-field-NMZ
+主焦-趕緊=完成貌 去-田 主格 去-田-名物化
+
+#e Farmers went to work in a hurry.
+#c 去田裡的人趕緊到田裡去。
+#n 重疊型態 tam-tamdaw (人人) 為阿美語; ta-tademaw, tad-tadmaw 為撒奇萊雅語。
+#a 35.48, None, 38.55
+
+16.
+... pa-kan=tu ku zuma tu==,
+CAU-eat=PFV NOM other OBL
+使役-吃=完成貌 主格 其他 斜格
+
+#a 38.55, None, 40.75
+
+17.
+.. sizi MEI== MEI== sa ku sizi.\
+goat MEI MEI DM NOM goat
+羊 MEI MEI DM 主格 羊
+
+#e Other people fed goats.
+#c 其他的就餵羊去了。
+#n MEI 為羊叫聲 (bleat; 咩咩)
+#a 40.75, None, 43.43
+
+18.
+... kitin-en nu pa-kan-ay tu sizi.\
+pull-PF GEN CAU-eat-NMZ OBL goat
+牽-受焦 屬格 使役-吃-名物化 斜格 羊
+
+#e The person who fed goats pulled goats.
+#c 餵羊的人牽著羊。
+#a 43.43, None, 45.95
+
+19.
+...(1.5) ma-ka-batikal a tamdaw ma-batikal a tayza i== ka-tayza-an.\
+AF-KA-bicycle LNK people AF-bicycle LNK go.there PREP KA-go.there-LF
+主焦-KA-腳踏車 連繫詞 人 主焦-腳踏車 連繫詞 去那裡 介系詞 KA-去那裡-處格
+
+#e The cycler rode his bicycle to the place he wanted to go.
+#c 騎腳踏車的人就騎車到他要去的地方。
+#a 45.95, None, 51.03
+
+20.
+... iza kya cacay a wawa sa,\
+EXIST NOM.that one LNK child DM
+存在詞 主格.那個 一個 連繫詞 小孩 DM
+
+#a 51.03, None, 53.23
+
+21.
+...(0.4) bili==l sa ciniza ma-ka-batikal,\
+in.a.hurry DM 3SG.NOM AF-KA-bicycle
+趕緊 DM 3SG.主格 主焦-KA-腳踏車
+
+#a 53.23, None, 55.48
+
+22.
+... ma-tabesiw niza kya,\
+AF-pass.by 3SG.GEN NOM.that
+主焦-穿過 3SG.屬格 主格.那個
+
+#a 55.48, None, 57.44
+
+23.
+... ma- ma-tukuh niza kya==,\
+AF- AF-arrive 3SG.GEN NOM.that
+主焦- 主焦-到達 3SG.屬格 主格.那個
+
+#a 57.44, None, 59.67
+
+24.
+...(0.9) mi==-pecu’-ay tu heci,\
+AF-pluck-NMZ OBL fruit
+主焦-摘-名物化 斜格 果實
+
+#a 59.67, None, 62.14
+
+25.
+... nu kilang a babalaki.\ 
+GEN tree LNK old.people
+屬格 樹 連繫詞 老人
+
+#e A child rode his bicycle in a hurry, who passed by the farmer and arrived at where he plucked his fruits.
+#c 有一個小孩專心騎車穿過，然後到達農夫摘果實的地方。
+#n ma-tukuh 原形應為maka-tukuh (到達)。
+#a 62.14, None, 63.86
+
+26.
+... waw ma-tumes kina==,\
+WAW AF-full NOM.this
+WAW 主焦-滿 主格.這個
+
+#a 63.86, None, 65.99
+
+27.
+... <L2TcaynaL2T> sa kya== wawa.\
+basket say NOM.that child
+菜籃 說 主格.那個 小孩
+
+#e That child said that “Wow! That basket is full.”
+#c 小孩說：「哇!這菜籃已裝滿了。」
+#a 65.99, None, 68.91
+
+28.
+... padang-en aku a mi-ala sa,\
+help-PF 1SG.GEN LNK AF-take DM
+幫忙-受焦 1SG.屬格 連繫詞 主焦-拿 DM
+
+#a 68.91, None, 71.34
+
+29.
+... ala han niza ku cacay a <L2TcaynaL2T>,\
+take HAN 3SG.GEN NOM one LNK basket
+拿 HAN 3SG.屬格 主格 一個 連繫詞 菜籃
+
+#a 71.34, None, 74.19
+
+30.
+... nu heci nu kilang.\
+GEN fruit GEN tree
+屬格 果實 屬格 樹
+
+#e He helped him carry one basket of fruits.
+#c 他幫忙他拿了一個菜籃的果實。
+#n IU 28中padang 是阿美語; 撒奇萊雅語則為 edap。
+#a 74.19, None, 75.61
+
+31.
+...(0.8) pa-kacaw han niza i tiza i batikal niza.\
+CAU-climb HAN 3SG.GEN PREP there PREP bicycle 3SG.GEN
+使動-爬 HAN 3SG.屬格 介系詞 那裡 介系詞 腳踏車 3SG.屬格
+
+#e He put it onto a bicycle.
+#c 他把菜籃放到腳踏車上。
+#a 75.61, None, 79.61
+
+32.
+... ma-batikal ciniza,\
+AF-bicycle 3SG.NOM
+主焦-腳踏車 3SG.主格
+
+#a 79.61, None, 81.41
+
+33.
+... bili==l sa ciniza ma-batikal.\
+in.a.hurry DM 3SG.NOM AF-bicycle
+趕緊 DM 3SG主格 主焦-腳踏車
+
+#e He rode a bicycle in a hurry.
+#c 他趕緊騎車。
+#a 81.41, None, 83.72
+
+34.
+...(1.4) izaw kya tatayna,\
+EXIST NOM.that female
+存在詞 主格.那個 女性
+
+#a 83.72, None, 86.34
+
+35.
+... ma-ka-batikal i nu ayaw-an niza.\
+AF-KA-bicycle PREP GEN front-LF 3SG.GEN
+主焦-KA-腳踏車 介系詞 屬格 前面-處焦 3SG.屬格
+ 
+#e A girl rode a bicycle in front of him.
+#c 有一個女的騎腳踏車在他前面。
+#a 86.34, None, 88.46
+
+36.
+... wa ci Bedi’ sa kya==,\
+WA NOM.NCM PN DM NOM.that
+WA 主格.人名標記 人名 DM 主格.那個
+
+#a 88.46, None, 91.39
+
+37.
+...(1.0) tatama a wawa.\
+male LNK child
+男性 連繫詞 小孩
+
+#e That boy said, “Ah! it is Bedi’.”
+#c 那男孩說：「啊！是Bedi。」
+#a 91.39, None, 93.25
+
+38.
+...(1.2) ka-kapah ni Bedi’ sa.\
+CaRED-good GEN.NCM PN say
+Ca重疊-好 屬格.人名標記 人名 說
+
+#e Bedi’, it’s good." (Somebody said.)
+#c 「Bedi’，好好喔！」（有人這麼說。）
+#a 93.25, None, 95.83
+
+39.
+... siku==l sa a ma-tabesiw nya kayin kya,\
+look.back DM LNK AF-pass.by GEN.that miss NOM.that
+回頭看 DM 連繫詞 主焦-經過 屬格.那個 小姐 主格.那個
+
+#a 95.83, None, 99.36
+
+40.
+... wawa.\
+child
+小孩
+
+#e That child looked back when the girl passed by.
+#c 那小孩一直回頭當女孩經過時。
+#n kayin 為阿美語; kayuin為撒奇萊雅語。
+#a 99.36, None, 100.1
+
+41.
+... mi-sikul ciniza cay=tu ka-me==law niza kya,\
+AF-look.back 3SG.NOM NEG=PFV KA-see 3SG.GEN NOM.that
+主焦-回頭看 3SG.主格 否定詞=完成貌 KA-看 3SG.屬格 主格.那個
+
+#a 100.1, None, 102.68
+
+42.
+... i nu ayaw-an a baetu.\
+PREP GEN front-LF LNK stone
+介系詞 屬格 前面-處焦 連繫詞 石頭
+
+#e He looked back and did not see the stone in front of him.
+#c 他回頭看而沒看到前面的石頭。
+#n cay=tu 為 ca’ay=tu 的縮寫。
+#a 102.68, None, 104.13
+
+43.
+... matabi ma-skung nya== batikal nya wawa kya==,\
+MATABI AF-hit GEN.that bicycle GEN.that child NOM.that
+MATABI 主焦-撞 屬格.那個 腳踏車 屬格.那個 小孩 主格.那個
+
+#a 104.13, None, 107.83
+
+44.
+... kya baetu ma-pulin kya wawa.\
+NOM.that stone AF-trip NOM.that child
+主格.那個 石頭 主焦-跌倒 主格.那個 小孩
+
+#e That child hit a stone and tripped.
+#c 那小孩撞到石頭，然後跌倒。
+#n ma-skung原為「揍」，所以應為mata-bihkud「撞到」。
+#a 107.83, None, 110.44
+
+45.
+... ma-belun nani i tiza i batikal kya==,\
+AF-pour NANI PREP there PREP bicycle NOM.that
+主焦-倒 NANI 介系詞 那裡 介系詞 腳踏車 主格.那個
+
+#a 110.44, None, 113.81
+
+46. 
+... ya <L2TcaynaL2T> ya kanas,\
+that basket YA basket
+那個 菜籃 YA 籃子
+
+#a 113.81, None, 115.76
+
+47. 
+... ni-tumes-an nya babalaki tu==,\
+NI-full-PF GEN.that old.peopel OBL
+NI-滿-受焦 屬格.那個 老人 斜格
+
+#a 115.76, None, 118.64
+
+48. 
+...(0.8) heci nya kilang,\
+fruit GEN.that tree
+果實 屬格.那個 樹
+
+#a 118.64, None, 120.51
+
+49.
+... ma-belun i tiza i zazan.\
+AF-pour PREP there PREP road
+主焦-倒 介系詞 那裡 介系詞 路
+
+#e The fruits, which were put in the front of the bicycle, poured out and scattered on the road.
+#c 那老人裝滿的果實從腳踏車上倒出來倒在路上。
+#n ma-belun是水倒出來。
+#a 120.51, None, 122.34
+
+50.
+...(0.8) ya kya ci Tuy ma-^pulin ma-^pulin sa kya ta-tulu-ay a wawa.\ 
+that NOM.that NOM.NCM PN AF-trip AF-trip say NOM.that CaRED-three-NMZ LNK child
+那個 主格.那個 主格.人名標記 人名 主焦-跌倒 主焦-跌倒 說 主格.那個 Ca重疊-三-名物化 連繫詞 小孩
+
+#e The three children said, “That child tripped!”
+#c 那三個小孩說：「那小孩跌倒了。」
+#n 在阿美語中通稱男孩為Tuy。
+#a 122.34, None, 126.51
+
+51.
+... na=ma-melaw nuheni i zazan,\
+PAST=AF-see 3PL.GEN PREP road
+表過去=主焦-看 3PL.屬格 介系詞 路
+
+#a 126.51, None, 128.19
+
+52.
+... padang han nya ta-tulu-ay a wawa kya.\ 
+help HAN GEN.that CaRED-three-NMZ LNK child NOM.that
+幫忙 HAN 屬格.那個 Ca重疊-三-名物化 連繫詞 小孩 主格.那個
+
+#e The three children saw it on the road and helped him.
+#c 三個小孩在路上看到那就去幫忙。
+#a 128.19, None, 130.67
+
+53.
+... ci Tuy a mi==-,\
+NOM.NCM PN LNK AF-
+主格.人名標記 人名 連繫詞 主焦-
+
+#a 130.67, None, 132.11
+
+54.
+... lacul i tiza i==,\
+fill PREP there PREP
+裝 介系詞 那裡 介系詞
+
+#a 132.11, None, 133.73
+
+55.
+...(1.0) <L2TcaynaL2T> tya==.\
+basket OBL.that
+菜籃 斜格.那個
+
+#a 133.73, None, 135.8
+
+56.
+... nya heci nu kilang padang han nu a mi-hiya sa.\
+GEN.that fruit GEN tree help HAN GEN LNK AF-this.way DM
+屬格.那個 果實 屬格 樹 幫忙 HAN 屬格 連繫詞 主焦-這樣 DM
+
+#e The three children helped Tuy fill the basket with fruits.
+#c 那三個小孩就去幫忙Tuy 把菜籃裝滿果實。
+#a 135.8, None, 139.79
+
+57.
+... ma-tumes=tu kya==,\ 
+AF-full=PFV NOM.that
+主焦-滿=完成貌 主格.那個
+
+#a 139.79, None, 141.2
+
+58. 
+.. ni-sapud-an nuheni na=ma-laklak kya heci nya kilang sa.\
+NI-pick.up-PF 3PL.GEN PAST=AF-scatter NOM.that fruit GEN.that tree DM
+NI-撿拾-受焦 3PL.屬格 表過去=主焦-散落 主格.那個 果實 屬格.那個 樹 DM
+
+#a 141.2, None, 144.01
+
+59.
+...(0.8) alay sa kya== hiya kukay sa kya wawa.\
+thank.you say NOM.that this.way thank.you say NOM.that child
+謝謝 說 主格.那個 這樣 謝謝 說 主格.那個 小孩
+
+#e The child said thank you to those who helped him pick up the fruits.
+#c 那小孩跟幫忙他撿果實的說謝謝。
+#a 144.01, None, 148.2
+
+60.
+... mumul=tu ciniza.\
+leave=PFV 3SG.NOM
+離開=完成貌 3SG.主格
+
+#e He left.
+#c 他就走了。
+#a 148.2, None, 149.75
+
+61.
+...(0.8) ya ta-tutu-ay a wawa sa,\
+that CaRED-three-NMZ LNK child say
+那個 Ca重疊-三-名物化 連繫詞 小孩 說
+
+#a 149.75, None, 151.78
+
+62.
+...(2.0) cay pi-haymaw sa ma-sa-sa-kamu kuheni.\
+NEG PI-careful say AF-RED-do-words 3PL.NOM
+否定詞 PI-小心 說 主焦-重疊-做-話 3PL.主格
+
+#e Three children said, “he is not on purpose.”
+#c 三個小孩說：「他是不小心的。」
+#n haymaw表示「慢慢地」；pi-haymaw-i表示「請小心」；haymaw-en 表示「再見」。
+#a 151.78, None, 156.33
+
+63.
+...(0.9) tya,\
+OBL.that
+斜格.那個
+
+#a 156.33, None, 157.48
+
+64.
+... mumul=tu kya mi== si==,\
+leave=PFV NOM.that MI SI
+離開=完成貌 主格.那個 MI SI
+
+#a 157.48, None, 159.72
+
+65.
+.. mi==-ala-ay tya==,\ 
+AF-take-FAC OBL.that
+主焦-拿-表事實 斜格.那個
+
+#a 159.72, None, 161.58
+
+66.
+.. heci nya kilang a wawa sa.\ 
+fruit GEN.that tree LNK child DM
+果實 屬格.那個 樹 連繫詞 小孩 DM
+
+#e The child who took fruits left.
+#c 那個拿果實的小孩走了。
+#a 161.58, None, 163.21
+
+67.
+... ma-melaw nya cacay a wawa kya,\
+PF-see GEN.that one LNK child NOM.that
+受焦-看 屬格.那個 一個 連繫詞 小孩 主格.那個
+
+#a 163.21, None, 164.97
+
+68.
+... i ni kina tupel.\
+PREP here NOM.this hat
+介系詞 這裡 主格.這個 帽子
+
+#a 164.97, None, 166.57
+
+69.
+... ma-pawan niza sa.\
+PF-forget 3SG.GEN DM
+受焦-忘記 3SG.屬格 DM
+
+#e (we saw) he left his hat here.
+#c （我們看到）他把帽子忘在這裡。
+#a 166.57, None, 167.88
+
+70.
+... hyw,\
+HYW
+HYW
+
+#a 167.88, None, 168.69
+
+71.
+... ini kina tupel isu han niza kya== hiya.\
+here NOM.this hat 2SG.GEN be.said 3SG.GEN NOM.that this.way
+這裡 主格.這個 帽子 3SG.屬格 被說 3SG.屬格 主格.那個 這樣
+   
+#e He told him that your hat was here.
+#c 他跟他說你的帽子在這裡。
+#a 168.69, None, 171.58
+
+72.
+... pabeli-en niza tya tupel.\
+give-PF 3SG.GEN OBL.that hat
+給-受焦 3SG.屬格 斜格.那個 帽子
+   
+#e He gave him his hat.
+#c 他把帽子給他。
+#a 171.58, None, 173.58
+
+73.
+... na=ma-hetik isaw na=ma-pulin i kya tupel,\
+past=AF-fall.off ISAW past=AF-trip PREP NOM.that hat
+表過去=主焦-掉落 ISAW 表過去=主焦-跌倒 介系詞 主格.那個 帽子
+
+#a 173.58, None, 176.12
+
+74.
+... sa.\
+DM
+DM
+
+#e The hat dropped when the boy tripped.
+#c 帽子是因為跌倒掉下來的。
+#a 176.12, None, 176.77
+
+75.
+... pabeli han=tu niza tya tupel.\ 
+give HAN=PFV 3SG.GEN OBL.that hat
+給 HAN=完成貌 3SG.屬格 斜格.那個 帽子
+
+#e He have (him) the hat.
+#c 就把帽子給（他）。
+#a 176.77, None, 178.84
+
+76.
+...(1.2) alay=tu ni-pabeli-an isu tina,\ 
+thank.you=PFV NI-give-PF 2SG.GEN OBL.this
+謝謝=完成貌 NI-給-受焦 2SG.屬格 斜格.這個
+
+#a 178.84, None, 181.69
+
+77.
+... ni-sapud-an nu misu.\
+NI-pick.up-PF GEN 2SG.POSS
+NI-撿拾-受焦 屬格 2SG.所有格
+
+#e Thank you for giving me.
+#c 謝謝你給我的。
+#a 181.69, None, 183.82
+
+78.
+... anu nayi kamu sa,\ 
+COND NEG 2PL.NOM DM
+條件詞 否定詞 2PL.主格 DM
+
+#a 183.82, None, 185.23
+
+79.
+... hica han nu maku sa kya== ci Tuy.\
+how HAN GEN 1SG.POSS. say NOM.that NOM.NCM PN
+怎樣 HAN 屬格 1SG.所有格 說 主格.那個 主格.人名標記 人名
+
+#e Tuy said that I do not know what to do without you.
+#c Tuy說如果沒有你的話，我不知道怎如何是好。
+#a 185.23, None, 187.9
+
+80.
+... tya,\
+OBL.that
+斜格.那個
+
+#a 187.9, None, 188.77
+
+81.
+...(1.7) pa-anin han ni Tuy tya==,\ 
+CAU-allocate HAN GEN.NCM PN OBL.that
+使動-分配 HAN 屬格.人名標記 人名 斜格.那個
+
+#a 188.77, None, 192.25
+
+82.
+... nya i kanas-ay niza nya i <L2TcaynaL2T>-ay a heci nya kilang,\ 
+GEN.that PREP basket-FAC 3SG.GEN GEN.that PREP basket-FAC LNK fruit GEN.that tree
+屬格.那個 介系詞 籃子-表事實 3SG.屬格 屬格.那個 介系詞 籃子-表事實 連繫詞 果實 屬格.那個 樹
+
+#a 192.25, None, 196.03
+
+83.
+... pabeli,\ 
+give
+給
+
+#a 196.03, None, 196.9
+
+84.
+... si-ma-cacay kuheni,\
+have-AF-one 3PL.NOM
+有-主焦-一個 3PL.主格
+
+#a 196.9, None, 198.42
+
+85.
+... sa.\
+DM
+DM
+
+#e Tuy gave each person one fruit.
+#c Tuy分給每人一個果實。
+#a 198.42, None, 199.29
+
+86.
+... mumul=tu.\ 
+leave=PFV
+離開=完成貌
+
+#e He left.
+#c 離開了。
+#a 199.29, None, 200.51
+
+87.
+... ini aca nya ni-pabeli-an ni Tuy sa,\ 
+PREP here too GEN.that NI-give-PF GEN.NCM PN DM
+介系詞 這裡 也 屬格.那個 NI-給-受焦 屬格.人名標記 人名 DM
+
+#a 200.51, None, 204.7
+
+88.
+... ma-kilac kya wawa.\ 
+PF-allocate NOM.that child 
+受焦-分配 主格.那個 小孩
+
+#e It is Tuy who gave them.
+#c 是Tuy給他們的。
+#n ma-kilac 為阿美語; ma-wada’才是撒奇萊雅語。
+#a 204.7, None, 206.07
+
+89.
+... mu-kan kuheni.\ 
+AF-eat 3PL.NOM
+主焦-吃 3PL.主格
+
+#e They ate it.
+#c 他們就吃了。
+#a 206.07, None, 207.18
+
+90.
+... mu-culi==l sa kuheni a==,\ 
+AF-walk DM 3PL.NOM LNK
+主焦-走 DM 3PL.主格 連繫詞
+
+#a 207.18, None, 209.33
+
+91.
+... ma-tayza i pi-salama-an nuheni.\ 
+AF-go.there PREP PI-play-LF 3PL.POSS
+主焦-去那裡 介系詞 PI-玩-處焦 3PL.所有格
+
+#e They went to where they could play.
+#c 他們走到他們玩的地方。
+#n salama 為中部及南勢阿美語.
+#a 209.33, None, 212.6
+
+92.
+...(1.3) ma-tabesiw nuheni kya==,\ 
+AF-pass.by 3PL.POSS NOM.that
+主焦-經過 3PL.所有格 主格.那個
+
+#a 212.6, None, 215.6
+
+93.
+... kya hiya,\
+NOM.that this.way
+主格.那個 這樣
+
+#a 215.6, None, 216.79
+
+94.
+...(1.0) kya isaw kya mi-hiya-ay,\
+NOM.that ISAW NOM.that AF-this.way-FAC
+主格.那個 ISAW 主格.那個 主焦-這樣-表事實
+
+#a 216.79, None, 219.3
+
+95.
+... ya mi-pecu-ay tya heci nya kilang.\
+that AF-pluck-NMZ OBL.that fruit GEN.that tree
+那個 主焦-摘-名物化 斜格.那個 果實 屬格.那個 樹
+
+#e They passed by where the farmer was.
+#c 他們經過那裡果農的地方。
+#a 219.3, None, 221.5
+
+96.
+... ya mi-pecu-ay tya heci nya kilang ma-hamin=tu niza ta-sasa ciniza.\
+that AF-pluck-NMZ OBL.that fruit GEN.that tree AF-finish=PFV 3SG.GEN go-lower.part 3SG.NOM
+那個 主焦-摘-名物化 斜格.那個 果實 屬格.那個 樹 主焦-完成=完成貌 3SG.屬格 去-下面 3SG.主格
+
+#e The farmer who finished his plucking descended.
+#c 摘完了果實的果農下來了。
+#a 221.5, None, 225.15
+
+97.
+...(0.8) melaw han niza,\ 
+see HAN 3SG.GEN
+看 HAN 3SG.屬格
+
+#a 225.15, None, 226.64
+
+98.
+...(0.9) kya nayi=tu ku cacay a kanas.\
+NOM.that NEG=PFV NOM one LNK basket
+主格.那個 否定詞=完成貌 主格 一個 連繫詞 籃子
+
+#e He saw and one basket disappeared.
+#c 他看一籃怎麼不見了。
+#a 226.64, None, 229.22
+
+99.
+... i cuwa=tu== sa.\
+PREP where=PFV DM
+介系詞 哪裡=完成貌 DM
+
+#e Where was it?
+#c 到哪去了。
+#a 229.22, None, 230.95
+
+100.
+.. ma-biyalaw kya== mi==-pecu-ay tu,\ 
+AF-nervous NOM.that AF-pluck-NMZ OBL
+主焦-緊張 主格.那個 主焦-摘-名物化 斜格
+
+#a 230.95, None, 233.32
+
+101.
+... tu hiya cima ku mi-ala-ay sa.\ 
+OBL this.way who NOM AF-take-FAC DM
+斜格 這樣 誰 主格 主焦-拿-表事實 DM
+
+#e The farmer was nervous and wondered who took it away.
+#c 農夫很緊張想說是誰拿走了。
+#a 233.32, None, 235.93
+
+102.
+... wawa niza hakya,/ 
+child 3SG.GEN Q
+小孩 3SG.屬格 疑問
+
+#e Would it be his child?
+#c 是不是他的小孩。
+#a 235.93, None, 237.49
+
+103.
+.. anu cima hakya ma-liyuh ciniza mi si.\
+COND who Q AF-not.know 3SG.NOM MI SI
+條件詞 誰 疑問 主焦-不知道 3SG.主格 MI SI
+
+#e He did not know who did this.
+#c 他不知道到底是誰。
+#a 237.49, None, 239.69
+
+104.
+... mi-simsim kya babalaki.\
+AF-ponder NOM.that old.people
+主焦-心想 主格.那個 老人
+
+#e The old man wondered.
+#c 那老人一直想。
+#n mi-simsim 為阿美語, zateng才是撒奇萊雅語。
+#a 239.69, None, 241.84
+
+105.
+... ya ma-melaw niza kya ta-tulu-ay,\ 
+that PF-see 3SG.GEN NOM.that CaRED-three-NMZ
+那個 受焦-看 3SG.屬格 主格.那個 Ca重疊-三名物化
+
+#a 241.84, None, 243.88
+
+106.
+.. mu-kan== tya==,\ 
+AF-eat OBL.that
+主焦-吃 斜格.那個
+
+#a 243.88, None, 245.51
+
+107.
+...(0.8) tya heci nya kilang.\
+OBL.that fruit GEN.that tree
+斜格.那個 果實 屬格.那個 樹
+
+#e He saw those three people eating the fruits.
+#c 他看到那三人吃果實。
+#a 245.51, None, 247.27
+
+108.
+... a,/ 
+FIL
+FIL
+
+#a 247.27, None, 247.85
+
+109.
+... kya izaw i lima nuheni kya heci nya kilang sa kya babalaki.\ 
+Q EXIST PREP hand 3PL.GEN NOM.that fruit GEN.that tree say NOM.that old.people
+疑問 存在詞 介系詞 手 3PL.屬格 主格.那個 果實 屬格.那個 樹 說 主格.那個 老人
+
+#e That old man said that why they had fruits on their hands.
+#c 那老人說為何在他們手上有果實。
+#n 句首的kya在此不為指示詞。
+#a 247.85, None, 251.82
+
+110.
+... sa-bahka-sa kya babalaki.\
+SA-shock-SA NOM.that old.people
+SA-驚訝-SA 主格.那個 老人
+
+#e That old man was shocked.
+#c 那老人嚇一跳。
+#n bahka 為阿美語；ma-tawid才是撒奇萊雅語。
+#a 251.82, None, 253.83
+
+111.
+... nayi ku cacay a <L2TcaynaL2T>._
+NEG NOM one LNK basket
+否定詞 主格 一個 連繫詞 菜籃
+
+#e One basket disappeared.
+#c 一個菜籃不見了。
+#a 253.83, None, 255.4
+
+112.
+... tu==lu kina cima cacay kina tulu-ay a wawa,\
+three NOM.this who one NOM.this three-NMZ LNK child
+三 主格.這個 誰 一個 主格.這個 三-名物化 連繫詞 小孩
+
+#a 255.4, None, 258.97
+
+113.
+... ca’ay pa-ka-cacay a <L2TcaynaL2T>,\
+NEG CAU-KA-one LNK basket
+否定詞 使動-KA-一個 連繫詞 菜籃
+
+#a 258.97, None, 260.94
+
+114.
+... a <L2TcaynaL2T> sa kya==,\
+LNK basket say NOM.that
+連繫詞 菜籃 說 主格.那個
+
+#a 260.94, None, 262.24
+
+115.
+... simsim nya babalaki tya==,\
+ponder GEN.that old.people OBL.that
+心想 屬格.那個 老人 斜格.那個
+
+#a 262.24, None, 264.46
+
+116.
+...(0.9) heci nya kilang niza.\ 
+fruit GEN.that tree 3SG.GEN
+果實 屬格.那個 樹 3SG.屬格
+
+#e That old people thought that even though each child had one fruit, it was less than one basket.
+#c 那老人這樣想就算那三小孩一人一個也不到一個菜籃。
+#a 264.46, None, 266.52
+
+117.
+...(1.1) ma-biyalaw kya babalaki ta-cuwa=tu.\ 
+AF-nervous NOM.that old.people go-where=PFV
+主焦-緊張 主格.那個 老人 去-哪裡=完成貌
+
+#e The old man was nervous where the basket was.
+#c 那老人家很緊張到哪裡去了。
+#a 266.52, None, 269.67
+
+118.
+... tusa ka cacay ka sa kya babalaki a mi-zateng tu,\ 
+two KA one KA say NOM.that old.people LNK AF-think=PFV
+二個 KA 一個 KA 說 主格.那個 老人 連繫詞 主焦-想=完成貌
+
+#a 269.67, None, 273.54
+
+119.
+... ni-pecu-an niza a heci nu kilang.\ 
+NI-pluck-PF 3SG.GEN LNK fruit GEN tree
+NI-摘-受焦 3SG.屬格 連繫詞 果實 屬格 樹
+
+#e The old man wondered whether it was one or two baskets of his fruits.
+#c 老人想到底他摘的果實二籃還是一籃呢？
+#a 273.54, None, 275.79
+
+120.
+... ma-beyalaw kya babalaki tu cinizaan tu.\
+AF-nervous NOM.that old.people OBL 3SG.OBL TU
+主焦-緊張 主格.那個 老人 斜格 3SG.斜格 TU
+
+#e The old man himself was very nervous.
+#c 老人自己很緊張。
+#a 275.79, None, 278.58

@@ -1,0 +1,4293 @@
+topic: fishing
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 翁坤, Mu'u, male, 1932-12-14
+collected: 2012-12-08
+revised: 2017-6-6
+video: kkvNr-fishing_Muu.mp3
+
+1.
+...(19.2) sua   iku  ia,\
+NOM 1SG.NOM TOP
+主格 1SG.主格 主題
+
+#a 19.29, None, 21.0
+
+2.
+...(0.7) Ka’angiana Mu’u.\
+PN PN
+PN PN
+
+#a 21.0, None, 22.98
+
+3.
+... sua,_
+NOM
+主格
+
+#a 22.98, None, 24.17
+
+4.
+.. nganar=aku.\
+name=1SG.GEN
+名字=1SG.屬格
+
+#e I am Ka’angiana Mu’u, that is my name.
+#c 我是Ka’angiana Mu’u，(那是)是我的名字。
+#n nganai=maku可能採訪的時候會這麼說。
+#a 24.17, None, 24.98
+
+5.
+...(1.0) pʉʉ,_
+FS
+FS
+
+#a 24.98, None, 26.46
+
+6.
+.. te=ku,_
+IRR=1SG.NOM
+非實現=1SG.主格
+
+#a 26.46, None, 27.16
+
+7.
+.. pʉ’ʉna sua,_
+tell.stories NOM
+說故事 主格
+
+#n miʉra ia nipʉ’ʉna=ku 昨天我說了故事
+#n UU’na 故事
+#a 27.16, None, 28.5
+#n miʉra ia nipʉ’ʉna=ku 昨天我說了故事
+#n UU’na 故事
+
+8.
+...(0.9) makai,_
+like
+好像
+
+#a 28.5, None, 30.14
+
+9.
+... pinarupu misee.\
+fishing say
+釣魚 說
+
+#e I’m going to tell a story about fishing.
+#c 我要講比如說像釣魚的故事。
+#n makasua 那樣
+#a 30.14, None, 31.9
+
+10.
+...(1.1) sua,_
+NOM
+主格
+
+#a 31.9, None, 33.76
+
+11.
+... pinarupu misee ia,_
+fishing say TOP
+釣魚 說 主題
+
+#n misee 這裡有點像 ‘關於’
+#a 33.76, None, 35.53
+#n misee 這裡有點像 ‘關於’
+
+12.
+...(0.7) cucuru,\
+really
+的確
+
+#a 35.53, None, 36.89
+
+13.
+.. sua ka’an <L2TsaihuL2T> ia,_
+NOM NEG master TOP
+主格 否定 師傅 主題
+
+#n saihu是台語的“師傅”，Kanakanavu族語應該是tavarʉ’ʉ。這裡用saihu代表很厲害的意思。
+#a 36.89, None, 38.77
+#n saihu是台語的“師傅”，Kanakanavu族語應該是tavarʉ’ʉ。這裡用saihu代表很厲害的意思。
+
+14.
+... ka’an,\
+NEG
+否定
+
+#a 38.77, None, 39.84
+
+15.
+.. tavarʉ’ʉ,\
+know
+知道
+
+#a 39.84, None, 40.34
+
+16.
+.. pinarupu sii,_
+fishing because
+釣魚 因為
+
+#n 不是師父級的就不會釣魚, 因為
+#a 40.34, None, 41.4
+#n 不是師父級的就不會釣魚, 因為
+
+17.
+...(0.7) sua pinarupu ia,_
+NOM fishing TOP
+主格 釣魚 主題
+
+#a 41.4, None, 43.34
+
+18.
+...(0.8) tikirim=pi=kita,\
+find=PTC=1IPL.NOM
+找=助詞=1IPL.主格
+
+#n te=pi=kita tikirim 
+#n mu’ururua iikamu 你們先走(不能加pi)
+#n =pi, 這裡是指‘先’
+#a 43.34, None, 45.43
+#n te=pi=kita tikirim 
+#n mu’ururua iikamu 你們先走(不能加pi)
+#n =pi, 這裡是指‘先’
+
+19.
+...(0.8) piacapa.\
+fishing.pole
+釣竿
+
+#e Speaking of fishing, if we go fishing, you don’t know how to fish, then we find the fishing pole first.
+#c 如果說釣魚，不是很懂的話就不會釣魚, 因為釣魚我們要會懂先找釣竿。
+#n piacapa也會念成pecapa
+#a 45.43, None, 47.03
+
+20.
+...(0.8) sua piacapa kisʉ-ʉn ia,_
+NOM fishing.pole say-PV TOP
+主格 釣竿 說-受焦 主題
+
+#a 47.03, None, 49.65
+
+21.
+... noo ka=kia,\
+if NEG=1PL.NOM
+如果 否定=1PL.NOM
+
+#n 如果我們沒有買
+#n ka=kia就是ka’aan=kia
+#a 49.65, None, 50.95
+#n 如果我們沒有買
+#n ka=kia就是ka’aan=kia
+
+22.
+.. pu’a,\
+buy
+買
+
+#a 50.95, None, 51.71
+
+23.
+... nama-namarʉ sua,_
+RED-town NOM
+重疊-平地 主格
+
+#n namanamarʉ 平地(城鎮)
+#a 51.71, None, 53.7
+#n namanamarʉ 平地(城鎮)
+
+24.
+...(0.7) piacapa ia,/
+fishing.pole TOP
+釣竿 主題
+
+#a 53.7, None, 55.47
+
+25.
+... te=kita,\
+IRR=1IPL.NOM
+非實現=1IPL.主格
+
+#a 55.47, None, 56.53
+
+26.
+.. kamanʉng takacicin.\
+do by.oneself
+做 自己
+
+#a 56.53, None, 57.94
+
+27.
+... kapani,\
+bamboo.stick
+桂竹
+
+#e If we cannot buy the fishing pole on the plain (in the city), we will make it on our own.
+#c 如果我們沒有在平地買的話，釣竿我們要從桂竹那裏自己做。
+#n te=kita takacicin kamanʉng (孔老師認為必較好)
+#n kapani桂竹, to’oman 竹子的總稱
+#a 57.94, None, 59.02
+
+28.
+...(1.1) sua kapani ia,_
+NOM bamboo.stick TOP
+主格 桂竹 主題
+
+#a 59.02, None, 61.4
+
+29.
+... mʉngʉtʉn=pi=kita kapani.\
+AV.log=PTC=1IPLNOM bamboo.stick
+主焦.砍=助詞=1IPL.主格 桂竹
+
+#e We need to cut down bamboo sticks.
+#c 我們要先砍桂竹。
+#n te=pi=kita mʉngʉtʉn kapani (孔老師覺得比較好)
+#a 61.4, None, 63.61
+
+30.
+... umi’inacʉ,_
+straighten
+弄直
+
+#n 一定是用火弄直(matapuru起火, apuru火)
+#n ma’inacU 直的, apu’inacU 使役
+#a 63.61, None, 65.47
+#n 一定是用火弄直(matapuru起火, apuru火)
+#n ma’inacU 直的, apu’inacU 使役
+
+31.
+...(0.8) masii,_
+like.this
+這樣
+
+#n 這裡的masii要翻譯為 ‘才’
+#a 65.47, None, 67.01
+#n 這裡的masii要翻譯為 ‘才’
+
+32.
+.. mamanʉng ’urupacʉn,\
+good use-PV
+好 使用-受焦
+
+#a 67.01, None, 68.51
+
+33.
+... pinarupu.\
+go.fishing
+釣魚
+
+#e It we straighten it, it’ll be good to be used to fish.
+#c 弄直的話才會很好用來釣魚。
+#a 68.51, None, 69.56
+
+34.
+...(1.0) nakai,_
+but
+但
+
+#a 69.56, None, 71.39
+
+35.
+... ’inmamia ’apia-narasʉ=kitana  noo,_
+only CAU-bother=1IPL.GEN if
+僅 使役-困擾=1IPL.屬格  如果
+
+#n apia=narasU
+#n muru’inasU 困擾/困苦
+#n akuun apinarasU takacicin 不要困擾自己
+#n =kitana 有時可理解成大家
+#a 71.39, None, 74.42
+#n apia=narasU
+#n muru’inasU 困擾/困苦
+#n akuun apinarasU takacicin 不要困擾自己
+#n =kitana 有時可理解成大家
+
+36.
+...(0.8) te=ci=kita pinarupu ia,_
+IRR=COS=1IPL.NOM go.fishing TOP
+非實現=COS=1IPL.主格 釣魚 主題
+
+#a 74.42, None, 76.86
+
+37.
+...(1.0) k<um>a-koru=pi=kita ngica’ʉ.\
+<AV>RED-dig=PTC=1IPL.NOM earthworm
+<主焦>重疊-挖=助詞=1IPL.主格  蚯蚓
+
+#e If we’re to go fishing, we need to dig hard for earthworms.
+#c 只是當我們要釣魚的時候，只是讓我們困擾的是, 我們還要挖蚯蚓。
+#n miUra ia ni-komoru=ku 昨天我有挖過
+#n nikorUn-cu 挖過了
+#n 這裡發音人念得像ngiciU
+#a 76.86, None, 79.77
+
+38.
+...(1.3) k<um>a-koru=pi=kita ngʉca’ʉ tia pʉn.\
+<AV>RED-dig=PTC=1IPL.NOM earthworm IRR bait
+<主焦>重疊-挖=助詞=1IPL.主格 蚯蚓 非實現 餌
+
+#e We dig for earthworms and get them on the hook.
+#c 要先挖蚯蚓做餌。
+#n narupu 鉤子
+#n nipapʉn-an-cu (sua) Cuma Mu’u (sua) ngʉca’ʉ 某某蚯蚓已經鉤好了(sua擇一)
+#n ngʉca’ʉ sua nipapʉn-an-cu Cuma Mu’u (這句不太好)
+#n papʉn-an Mu’u sua ngUca’U
+#n tia 這裡是用來當作! 
+#n patimanUngUn tia tanasa=musu 我把它弄好當作你的家!
+#a 79.77, None, 83.82
+
+39.
+...(1.2) sua,_
+NOM
+主格
+
+#a 83.82, None, 85.51
+
+40.
+.. pʉn sua,\
+bait NOM
+餌 主格
+
+#a 85.51, None, 86.52
+
+41.
+.. pʉn ia,_
+bait TOP
+餌 主題
+
+#a 86.52, None, 87.37
+
+42.
+...(0.5) noo kai,\
+if NEG
+如果 否定
+
+#n noo ka’anin 若不
+#n nukai 或者
+#a 87.37, None, 88.63
+#n noo ka’anin 若不
+#n nukai 或者
+
+43.
+... pakinen na narupu ia,_
+hang  LOC hook TOP
+掛  地方 鉤 主題
+
+#n te=ku pakinen ngʉca’ʉ na narupu 加na比較好
+#n te=maku pakinenUn ngʉca’ʉ na narupu
+#n nipakinen=naku miʉra ngʉca’ʉ na narupu. 我昨天把魚餌掛好了
+#n nipaken=cu=maku tikuru 我已經把衣服掛好了(也可以nipakinen)
+#n pakinen 附著/連起來, tumatin掛, tumaten丟
+#a 88.63, None, 91.36
+#n te=ku pakinen ngʉca’ʉ na narupu 加na比較好
+#n te=maku pakinenUn ngʉca’ʉ na narupu
+#n nipakinen=naku miʉra ngʉca’ʉ na narupu. 我昨天把魚餌掛好了
+#n nipaken=cu=maku tikuru 我已經把衣服掛好了(也可以nipakinen)
+#n pakinen 附著/連起來, tumatin掛, tumaten丟
+
+44.
+... ka’an tia tavarʉ’ʉ-ʉn marinarupu sua,\
+NEG IRR know-PV hook NOM
+否定 非實現 知道-受焦 勾住 主格
+
+#n marinarupu 釣上來/上鉤
+#n ka’an tia tavarʉ’ʉ-ʉn arinarupUn sua vutukuru魚沒有辦法(不能被)釣上來
+#a 91.36, None, 93.94
+#n marinarupu 釣上來/上鉤
+#n ka’an tia tavarʉ’ʉ-ʉn arinarupUn sua vutukuru魚沒有辦法(不能被)釣上來
+
+45.
+... vutukuru.\
+fish
+魚
+
+#e We hook them up, (otherwise) we won’t be able to catch the fish.
+#c 鉤呢，如果沒有附著在魚鉤上，(不然)就不會鉤到那個魚。
+#a 93.94, None, 94.81
+
+46.
+...(0.9) sii sua vutukuru ia,_
+because NOM fish TOP
+因為 主格 魚 主題
+
+#a 94.81, None, 97.38
+
+47.
+... ’inmamia,\
+only
+僅
+
+#a 97.38, None, 98.92
+
+48.
+.. (COUGH)\
+(COUGH)
+(COUGH)
+
+#a 98.92, None, 99.25
+
+49.
+.. ngʉca’ʉ sua,\
+earthworm NOM
+蚯蚓 主格
+
+#a 99.25, None, 100.34
+
+50.
+.. kʉn=en.\
+eat=REL.3SG.GEN
+吃=關係.3SG.屬格
+
+#e Because the fish only eat earthworms.
+#c 因為魚呢，只有吃蚯蚓。
+#n kʉnen=kʉn-a=in
+#a 100.34, None, 100.9
+
+51.
+...(1.1) nakai sua,_
+but NOM
+但 主格
+
+#a 100.9, None, 102.96
+
+52.
+.. pinarupu misee ia,_
+go.fishing say TOP
+釣魚 說 主題
+
+#n 也可以用kisʉʉn
+#a 102.96, None, 104.31
+#n 也可以用kisʉʉn
+
+53.
+...(1.1) noo kakia <L2TsaihuL2T> ia,_
+if NEG=1PL.NOM master TOP
+如果 否定=1SG.主格 師傅 主題
+
+#n noo kakia (後面接動詞)
+#a 104.31, None, 107.09
+#n noo kakia (後面接動詞)
+
+54.
+...(0.7) te=kia,\
+IRR=1SG.NOM
+非實現=1SG.主格
+
+#a 107.09, None, 108.48
+
+55.
+... mokusa na,_
+AV.go LOC
+主焦.去 地方
+
+#a 108.48, None, 109.83
+
+56.
+.. ta-’una,_
+place
+地方
+
+#n to’ona ‘地方’
+#a 109.83, None, 110.7
+#n to’ona ‘地方’
+
+57.
+.. ta-isua vutukuru.\
+TA-place fish
+TA-地方 魚
+
+#e But speaking of fishing, if we don’t have the skill, we need to go to the place where there are fish.
+#c 但是有關釣魚，如果不是很會的話，(不懂得)要去經常有魚的地方。
+#n taisua cau有人的地方，ta’una 有...的地方，to’ona ...的位置
+#a 110.7, None, 111.85
+
+58.
+...(0.9) mata te=pi=kia pu’a,_
+and IRR=PTC=1PL.NOM buy
+和 非實現=助詞=1PL.主格 買
+
+#a 111.85, None, 114.46
+
+59.
+... narupu,\
+hook
+鉤
+
+#a 114.46, None, 115.86
+
+60.
+... pu’a ’uracʉ,\
+buy fishing.thread
+買 釣魚線
+
+#a 115.86, None, 117.97
+
+61.
+...(1.0) k<um>iri na,_
+<AV>tie LOC
+綁 地方
+
+#n kumiri 拴住(使之連接), momUUn 綁住
+#a 117.97, None, 120.01
+#n kumiri 拴住(使之連接), momUUn 綁住
+
+62.
+... sua,_
+NOM
+主格
+
+#a 120.01, None, 120.98
+
+63.
+.. tai... Uh..._
+FS  UH
+FS  UH
+
+#c 另外我們還要買魚鉤, 買魚絲, 栓在...
+#a 120.98, None, 121.95
+
+68.
+... piacapa.\
+fishing.pole
+釣竿
+
+#e Fishing pole.
+#c 釣竿。
+#a 126.78, None, 128.05
+
+69.
+...(1.2) kiri-in=ci  nia sua ’uracʉ,_
+tie-PV=COS there NOM fishing.thread
+栓-受焦=COS 那裡 主格 魚線
+
+#e ??
+#c 把魚線栓在那。
+#n 用kiri-in描述當下的情境。
+#a 128.05, None, 131.31
+
+70.
+...(0.7) k<um>iri nia sua narupu.\
+<AV>tie there NOM hook
+<主焦>綁 那裏 主格 鉤
+
+#e The fishing thread is tied up there on the hook.
+#c 把鉤子栓在那邊。
+#n kirin nia uracU 那個魚線栓在那邊
+#n kumiri nia narupu 說明那個動作
+#n kumiri sua Pani narupu, Pani在栓魚鉤
+#n kumiri Pani sua narupu, 把魚鉤栓在Pani那邊
+#n kumiri Pani narupu nia 通(Pani把narupu栓在那邊)
+#a 131.31, None, 133.81
+
+71.
+...(1.5) ka’an ’inmamia narupu sua kiri-a ’inia.\
+NEG only hook NOM tie-REL there
+否定 只 鉤 主格 栓-關係詞 那裡
+
+#e It’s not just about the hook where it (the thread) is tied.
+#c 不是只有魚鉤要栓在那邊。
+#a 133.81, None, 137.86
+
+72.
+...(1.1) kiri-n=pa nia ’uracʉ,_
+tie-PV=PTC there fishing.thread
+綁-受焦=助詞 那裏 魚線
+
+#a 137.86, None, 140.59
+
+73.
+.. k<um>iri inia narupu.\
+<AV>hang there hook
+<主焦>掛 那裡 鉤
+
+#a 140.59, None, 142.15
+
+74.
+...(0.8) ʉsʉ’ʉ-ʉn=cu varʉvarʉ,\
+put-PV=COS 鉛
+放-受焦=COS 鉛
+
+#e We still have to tie the thread first, and then tie it on the hook.
+#c 先要把魚絲栓在那哩，再把鉤子栓在那裡，然後再放鉛。
+#n varʉ 蛔蟲, vara火炭
+#a 142.15, None, 144.49
+
+75.
+...(0.8) noo kai isee varʉvarʉ ia,_
+if NEG ISEE lead TOP
+如果 否定 ISEE 鉛 主題
+
+#n isee= ’esi sian (也可以代換為una, 但isee有種人為刻意放置的)
+#a 144.49, None, 147.25
+#n isee= ’esi sian (也可以代換為una, 但isee有種人為刻意放置的)
+
+76.
+... ka’an=kita tavarʉ’ʉ pinarupu.\
+NEG=1IPL.NOM know go.fishing
+否定=1IPL.主格 知道 釣魚
+
+#e If we don’t put VARUVARU, then we cannot fish.
+#c 如果沒有放鉛的話，我們就不能釣魚。
+#a 147.25, None, 149.28
+
+77.
+...(1.0) noo ni-sʉ’ʉn=ci varʉvarʉ ia,_
+if  PFV-put=COS lead TOP
+如果 完成-放=COS 鉛 主題
+
+#a 149.28, None, 152.07
+
+78.
+... ni-sʉ’ʉ-ʉn=ci  nia pʉn.\
+PFV-put-PV=COS there bait
+完成-放=受焦=COS 那裡 魚餌
+
+#e If we already put lead, the we can put the bait there.
+#c 如果已經放了鉛，就可以放魚餌在那裡了。
+#a 152.07, None, 153.98
+
+79.
+...(0.9) sua pʉn kisʉ-ʉn ia ngica’ʉ.\
+NOM bait say-PV TOP earthworm 
+主格 魚餌 說-受焦 主題 蚯蚓 
+
+#e The bait here means the earthworm.
+#c 所謂的魚餌就是蚯蚓。
+#n 這裡聽起來像ngicia’U
+#a 153.98, None, 157.05
+
+80.
+...(1.2) ngʉca’ʉ ia,_
+earthworm TOP
+蚯蚓 主題
+
+#a 157.05, None, 159.33
+
+81.
+... nikora nʉmʉra.\
+PFV-dig mountain
+完成-挖 山
+
+#e As for the earthworms, we dig for them in the mountain.
+#c 蚯蚓呢，在草叢挖。
+#n nUmUra 草叢/深山
+#a 159.33, None, 161.22
+
+82.
+...(1.0) noo kakia <L2TsaihuL2T> tekirim tia pʉn ia,_
+if KAKIA master AV.find IRR bait TOP
+如果 KAKIA 師傅 主焦.找 非實現 魚餌 主題
+
+#a 161.22, None, 164.58
+
+83.
+... ka’an=kita tavarʉ’ʉ pinarupu.\
+NEG=1IPL.NOM know go.fishing
+否定=1IPL.主格 知道 釣魚
+
+#e If we’re not able to find any to serve as the bait, we cannot go fishing.
+#c 如果不會找要當作魚餌的，我們就沒辦法釣魚。
+#a 164.58, None, 166.67
+
+84.
+...(1.1) sua pinarupu misee ia,_
+NOM go.fishing say TOP
+主格 釣魚 說 主題
+
+#a 166.67, None, 169.3
+
+85.
+.. XX
+XX
+XX
+
+#a 169.3, None, 169.65
+
+86.
+...(0.7) mokusa=kia na ’aci._
+AV.go=1PL.NOM LOC converging.point
+主焦.去=1PL.主格  地方 河流匯集處
+
+#e To fish, we go to the converging point of the rivers.
+#c 講到釣魚，我們去河流的交匯處。
+#a 169.65, None, 171.86
+
+87.
+...(1.2) sua ’aci kisʉ-ʉn ia,_
+NOM converging.point say-PV TOP
+主格 河流匯集處 說-受焦 主題
+
+#a 171.86, None, 174.61
+
+88.
+...(0.7) kan tavarʉ’ʉ=kam.\
+KAN AV.know=2PL.NOM
+KAN 主焦.知道=2PL.主格
+
+#e You should know about the so-called ‘aaci’ (converging point of rivers).
+#c 這個所謂的'aci(河流匯集處)你們知道嗎 !?
+#a 174.61, None, 176.24
+
+89.
+... necʉre sua ’aci kisʉ-ʉn ia,_
+see.IMP NOM converging.point say-PV TOP
+看.命令 主格 河流匯集處 說-受焦 主題
+
+#a 176.24, None, 178.91
+
+90.
+... caniava noo,\
+if  if
+假如 如果
+
+#n ucaniava 假定
+#a 178.91, None, 180.23
+#n ucaniava 假定
+
+91.
+.. po-miri-’in sua cakʉran.\
+CAU-full-PV NOM river
+使役-滿-受焦 主格  河
+
+#e If the river level rises…
+#c 如果河水滿起來了…
+#a 180.23, None, 181.84
+
+92.
+...(1.1) pomiri-’in sua cakʉran,_
+inundate-PV NOM river
+水漲-受焦 主格  河
+
+#a 181.84, None, 184.45
+
+93.
+...(0.7) makai,\
+like
+像
+
+#a 184.45, None, 185.82
+
+94.
+... ru...urupacʉ-ʉn sapuarʉ rumariu’u ia,_
+FS use-PV net scoop.up TOP
+FS 使用-受焦 網子 撈 主題
+
+#a 185.82, None, 188.95
+
+95.
+... isua sua,_
+that NOM
+那 主格
+
+#a 188.95, None, 190.29
+
+96.
+... soraru kisʉ-ʉn.\
+typhoon say-PV
+颱風 說-受焦
+
+#e If the river level rises, we use the net to catch, and that is called typhoon.
+#c 如果河水漲了，比如像用魚網撈(魚)呢，那就是所謂的颱風。
+#n pariapara 風
+#n 使用漁網來撈魚
+#a 190.29, None, 191.7
+
+97.
+...(1.4) ’una=ci,_
+EXIST=COS
+存在=COS
+
+#a 191.7, None, 193.97
+
+98.
+.. tavʉna,\
+stream
+小溪
+
+#n vuanʉ 月亮
+#a 193.97, None, 194.87
+#n vuanʉ 月亮
+
+99.
+...(0.7) niaran rʉmʉra.\
+from mountain
+從 山上
+
+#a 194.87, None, 196.73
+
+100.
+... nonnon,\
+stream
+溪
+
+#n nonnon比tavʉna大 (cakʉran河，canumu tatia海)
+#a 196.73, None, 197.74
+#n nonnon比tavʉna大 (cakʉran河，canumu tatia海)
+
+101.
+.. tingee kisʉ-ʉn.\
+small say-PV
+小 說-受焦
+
+#e There’s a stream flowing from the mountain, and it’s called ‘nonnon’.
+#c 從山上流下來的溪水就是小溪。
+#a 197.74, None, 198.76
+
+102.
+...(0.9) ’una ’aci sumakusa,\
+EXIST conveging.point flow
+存在 河流匯集處 流
+
+#a 198.76, None, 201.55
+
+103.
+.. cakʉran na cikura ia,_
+river LOC waste.water TOP
+河 處格 汙水 主題
+
+#a 201.55, None, 203.15
+
+104.
+...(0.8) pitakusʉ-ʉn=cu nia narupu,\
+throw-PV=COS there hook
+丟-受焦=COS 那 鉤
+
+#e There’s the converging point where the muddied water flows, and the hook is tossed there.
+#c 有河流匯集處流著(因颱風造成的)髒水，魚鉤就丟到那了。
+#a 203.15, None, 205.48
+
+105.
+...(1.1) noo,_
+when
+當
+
+#a 205.48, None, 207.09
+
+106.
+.. pinarupʉ-ʉn=ci ia,_
+fish-PV=COS TOP
+釣魚-受焦=COS 主題
+
+#a 207.09, None, 208.27
+
+107.
+...(1.5) ruma’esi=ci nia vutukuru ia,\
+bite=COS there fish TOP
+咬=COS 那 魚 主題
+
+#n rumara’esi tacau ’ikua 狗咬我
+#a 208.27, None, 211.21
+#n rumara’esi tacau ’ikua 狗咬我
+
+108.
+.. arisʉ’ʉrʉ-ʉn=cu=mita makai vutukuru,\
+pull-PV=COS=1PL.GEN like fish
+拉-受焦=COS=1PL.屬格 像 魚
+
+#a 211.21, None, 212.99
+
+109.
+... mitatatiting=cu nia vutukuru makasia tatia na
+shake=COS there fish like.that big LOC
+搖晃=COS 那裏 魚 那樣 大 處格
+
+#e When fishing, if the fish bites the hook, it’ll shake there, and the fish is that big.
+#c 在釣魚時，魚咬那個鉤子的話，那邊搖來搖去，魚很大。
+#n 這裡mitatatiting需再確認。
+#a 212.99, None, 216.23
+
+110.
+...(1.0) imo sua,\
+so NOM
+所以 主格
+
+#n 這裡翻譯為‘就是’
+#a 216.23, None, 218.01
+#n 這裡翻譯為‘就是’
+
+111.
+...(0.8) po-’ʉ’ʉna makai,\
+say-story like
+說-故事 像
+
+#a 218.01, None, 220.01
+
+112.
+.. masi kanakanavu sua,\
+speak Kanakanavu NOM
+說 卡那卡那富 主格
+
+#a 220.01, None, 221.16
+
+113.
+.. pinarupu misee ia,_
+go.fishing say TOP
+釣魚 說 主題
+
+#a 221.16, None, 222.22
+
+114.
+... ka’an tavarʉ’ʉ sua,\
+NEG know NOM
+否定 知道 主格
+
+#a 222.22, None, 224.02
+
+115.
+... si-pinarupu ia,_
+IV-go.fishing TOP
+工焦=釣魚 主題
+
+#a 224.02, None, 225.39
+
+116.
+... ka’an tavarʉ’ʉ,\
+NEG know
+否定 知道
+
+#a 225.39, None, 226.34
+
+117.
+.. po-muamuarʉ.\
+say-casually
+說-隨便
+
+#e So, to speak about the fishing, if we don’t know how to fish, we cannot say anything wrong about it.
+#c 所以用卡那卡那富語講釣魚的故事呢，如果不會釣魚的話，就不能隨便講。
+#n ka’an pokarikari 我(可能生氣)不講話
+#a 226.34, None, 227.05
+
+118.
+...(1.2) ka’an tavarʉ’ʉ,\
+NEG know
+否定 知道
+
+#a 227.05, None, 229.08
+
+119.
+... po-’isua sua,\
+say-that NOM
+說-那個 主格
+
+#n na-tamu=maku (已過世)我的祖父/母
+#n na tanasa (na 也可指方位詞)
+
+#e We cannot talk about ...
+#c 不可以說關於...
+#a 229.08, None, 230.26
+#n na-tamu=maku (已過世)我的祖父/母
+#n na tanasa (na 也可指方位詞)
+
+120.
+... necʉre sua,\
+look.IMP NOM
+看.命令 主格
+
+#a 230.26, None, 231.37
+
+121.
+.. pinarupu misee ia,_
+go.fishing say TOP
+釣魚 說 主題
+
+#e You see, speaking of the fishing.
+#c 你看，說到釣魚(這件事)。
+#a 231.37, None, 232.65
+
+122.
+...(0.7) te-kiri-kirim=pi=kia  n..._
+RED-find=PTC=1SG.NOM  N
+重疊-找=助詞=1SG.主格 N
+
+#n tekirikirim找一找
+#a 232.65, None, 234.96
+#n tekirikirim找一找
+
+123.
+.. pʉnʉ ngʉ’cia’ʉ,\
+bait earthworm
+餌 蚯蚓
+
+#n ngica’ʉ為現代念法
+#a 234.96, None, 236.52
+#n ngica’ʉ為現代念法
+
+124.
+...(0.9) piacapa kapani.\
+fishing.pole bamboo
+釣竿   竹子
+
+#e We try to look for earthworms as the bait and bamboo fishing rod first.
+#c 我(們)先找一找蚯蚓那個餌和竹竿。
+#n to’omang (總稱/較粗的)竹子
+#a 236.52, None, 239.0
+
+125.
+...(0.8) noo kaa=kia ni-pu’a,\
+if NEG=1SG.NOM PFV.PV-buy
+如果 否定=1SG.主格 完成.受焦-買
+
+#n kaa=kia為ka’aan=kia 簡化的形式
+#a 239.0, None, 241.04
+#n kaa=kia為ka’aan=kia 簡化的形式
+
+126.
+.. punapunarʉ sua,_
+plain NOM
+平地 主格
+
+#n ningning 平地
+#n punapunarʉ (比ningning還平坦的)平地
+#n namanamarʉ (平地人住的)平地
+#a 241.04, None, 242.25
+#n ningning 平地
+#n punapunarʉ (比ningning還平坦的)平地
+#n namanamarʉ (平地人住的)平地
+
+127.
+...(0.7) piacapa ia,_
+fishing.pole TOP
+釣竿 主題
+
+#a 242.25, None, 243.82
+
+128.
+... mosikarʉ=pi=kia  ra-ka-kapani-a.\
+AV.enter=PTC=1SG.NOM  RA-KA-bamboo-REL
+主焦.進入=助詞=1SG.主格  RA-KA-竹子-關係詞
+
+#e If we cannot buy the fishing pole on the plain, we will need to enter areas where there are bamboos.
+#c 如果我們沒有在平地買到釣竿的話，就要進到有很多竹子的地方。
+#n ravatuvatua 很多石頭的地方
+#n racʉcʉnʉ/a 有很多草的地方
+#a 243.82, None, 246.51
+
+129.
+...(1.0) mariparici,_
+AV.cut
+主焦.割
+
+#n mariparici 剪/割，siariparici 剪刀
+#n ariparici-n=maku cʉn 那個草我用剪的
+#n mariparici=ku cʉn 我(正)在割草
+#n pariparici-n=maku Pani cʉʉn 我讓他割草
+#n *pariparici (似乎沒有這樣的形式)
+#a 246.51, None, 248.72
+#n mariparici 剪/割，siariparici 剪刀
+#n ariparici-n=maku cʉn 那個草我用剪的
+#n mariparici=ku cʉn 我(正)在割草
+#n pariparici-n=maku Pani cʉʉn 我讓他割草
+#n *pariparici (似乎沒有這樣的形式)
+
+130.
+...(0.7) avarai noo akia=ci ia kan,\
+no.matter if NEG=COS TOP KAN
+任何 如果 否定=狀態改變 主題 KAN
+
+#n noo akia=ci ia 一樣
+#n avara’e不論/任何
+#a 248.72, None, 251.44
+#n noo akia=ci ia 一樣
+#n avara’e不論/任何
+
+131.
+... mongʉtʉn=ci=kia mamia,\
+AV.cut.down=COS=1SG.NOM only
+主焦.砍=狀態改變=1SG.主格 只
+
+#a 251.44, None, 253.11
+
+132.
+.. to’omang noo,_
+bamboo if
+竹子 如果
+
+#a 253.11, None, 254.11
+
+133.
+... akia=ci kapani.\
+NEG=COS bamboo
+否定=狀態改變 竹子
+
+#e If there is not Kapani bamboo, we can only cut down any other bamboos.
+#c 如果沒有Kapani這個竹子的話，就只好砍(任何其他的)粗的竹子。
+#n marʉrʉ 鋸
+#a 254.11, None, 255.72
+
+134.
+...(1.0) apacoee noo akia=ci,_
+although if NEG=COS
+雖然 如果 否定=狀態改變
+
+#a 255.72, None, 258.14
+
+135.
+.. kapani ia,_
+bamboo TOP
+竹子 主題
+
+#a 258.14, None, 259.01
+
+136.
+... mongʉtʉn=ci=kia to’omang ma’ura.\
+AV.cut.down=COS=1SG.NOM bamboo small
+主焦.砍=狀態改變=1SG.主格 竹子 小
+
+#e If there isn’t the bamboo, we will cut down other smaller bamboos.
+#c 雖然如果沒有那個小竹子，(我們)就再砍較小一點的粗竹子。
+#n tanuku iisi ia una=pa maratingee tanuku iisi這個杯子比這個杯子小(這句用iisua不太好)
+#n ti’ingee 一點
+#n voo=ku tingee ‘uru 給我一點飯
+#n karu ti’ingee 小樹
+#n karu ma’ura 樹的碎片/苗
+#n karu sapi’i 一片一片的樹
+#n manu ti’ingee 小孩子
+#n *manu ma’ura (不能這麼說)
+#a 259.01, None, 261.35
+
+137.
+...(0.9) noo ka=kia mʉtʉa to’omang ia,_
+if NEG=1SG.NOM discover bamboo TOP
+如果 否定=1SG.主格 找到 竹子 主題
+
+#n mʉta 找到
+#n tikiriim 找
+#a 261.35, None, 264.14
+#n mʉta 找到
+#n tikiriim 找
+
+138.
+... mongʉtʉn=kia ma,\
+AV.cut.down=1SG.NOM only
+主焦.砍=1SG.主格 只
+
+#n ma=mamia
+#a 264.14, None, 265.58
+#n ma=mamia
+
+139.
+.. kanavunavu.\
+bamboo
+竹子
+
+#e If we don’t find the right bamboo, we simply cut down the Kanavunavu bamboo.
+#c 我們如果沒有找到(適合)的竹子，我(們)就(隨便)砍Kanavunavu這種竹子。
+#n kapani 小
+#n to’omang 中
+#n kanavunavu 大
+#a 265.58, None, 266.41
+
+140.
+... kumiri ’inia sua narupu,\
+AV.tie there NOM hook
+主焦.綁 那裡 主格 吊鉤
+
+#n umʉpʉcʉ 綁(如受傷綁繃帶等)
+#n momʉʉn 綁束(固定)
+#n kumiri 綁(如狗等等)
+#a 266.41, None, 268.52
+#n umʉpʉcʉ 綁(如受傷綁繃帶等)
+#n momʉʉn 綁束(固定)
+#n kumiri 綁(如狗等等)
+
+141.
+... pitatavʉrʉ  ca-canumu.\
+toss.into.water RED-water
+丟 CA-water
+
+#e (We) tie up the hook onto the bamboo, and toss it into the water.
+#c 把釣鉤綁在竹子上，丟到水裡。
+#n pitatavʉrʉ 指將物品丟/浸到水中
+#a 268.52, None, 270.34
+
+142.
+...(1.0) ruma’esi=ci ’inia vutukuru ia,_
+bite=COS 3SG.OBL fish TOP
+咬=狀態改變 3SG.斜格 魚 主題
+
+#n rumara’iri 咬
+#n *rumara’isi inia vutukuru inia (不行)
+#n rumara’isi vutukuru ’inia 那邊的魚咬(上鉤)
+#a 270.34, None, 272.95
+#n rumara’iri 咬
+#n *rumara’isi inia vutukuru inia (不行)
+#n rumara’isi vutukuru ’inia 那邊的魚咬(上鉤)
+
+143.
+...(0.7) ’an=cu arikʉnʉ-ʉn sii,_
+NEG=COS pull-PV because
+否定=狀態改變 拉-受焦 因為
+
+#a 272.95, None, 274.9
+
+144.
+... mecun sua kapani,\
+heavy NOM bamboo
+重 主格 竹子
+
+#n me’ecun 重
+#a 274.9, None, 276.76
+#n me’ecun 重
+
+145.
+... mecun sua vutukuru.\
+heavy NOM fish
+重 主格 魚
+
+#e When the fish bites it, it becomes hard to pull, because the bamboo is heavy and the fish is heavy too.
+#c 魚咬到(上鉤)他的話，拉不動了，因為竹子很重，魚(也)很重。
+#a 276.76, None, 278.2
+
+146.
+...(0.9) sua,\
+NOM
+主格
+
+#a 278.2, None, 279.39
+
+147.
+pina... po’isua  naru
+FS say-that FS
+FS 說-那個 FS
+
+#a 279.39, None, 280.79
+
+148.
+.. pinarupu misee ia
+fishing say TOP
+釣魚 說 主題
+
+#a 280.79, None, 281.95
+
+149.
+... nguai makasua pinarupu 
+exactly like.that fishing
+的確 那樣 釣魚
+
+#e Fishing is just like that.
+#c 釣魚這件事情就是那樣。
+#n nguai 用在確認/如此這般
+#n nguai sua Pani 尤其是Pani
+#a 281.95, None, 283.86
+
+150.
+... mʉʉ (noo) ni-marinarupu=ci=kia ia,_
+if ?? PFV-hook=COS=1SG.NOM TOP
+如果 ?? 過去-上鉤=狀態改變=1SG.主格 主題
+
+#a 283.86, None, 286.02
+
+151.
+... ’esi=ci makai sana cau ia,_
+EXIST=COS like there people TOP
+存在=狀態改變 像 那邊 人 主題
+
+#e If I have caught the fish, and there are people over there.
+#c 如果(當)釣到魚之後，人比如在那邊了。
+#n nesa 那邊
+#n nesi 這裡
+#n sana 那邊(更遠)
+#a 286.02, None, 288.06
+
+152.
+...(1.5) marisusunu=kia,/
+AV.yell=1SG.NOM
+主焦.呼喊=1SG.主格
+
+#a 288.06, None, 290.67
+
+153.
+...(0.7) ioo misee=kia,\
+IOO say=1SG.NOM
+IOO 說=1SG.主格
+
+#a 290.67, None, 292.82
+
+154.
+.. noo ni-marinarupu=ci=kia sua vutukuru.\
+if PFV-hook=COS=1SG.NOM NOM fish
+如果 過去-上鉤=狀態改變=1SG.主格 主格 魚
+
+#e When we catch the fish, we would yell, ‘ioooo’.
+#c 當我們吊上魚的時候，我們就會呼喊耶~~。
+#a 292.82, None, 294.87
+
+155.
+...(0.8) tarakusa=cu=kitana cau  ia’a._
+look.back=COS=1PL.OBL person IA’A
+回頭看=狀態改變=1PL.斜格 人 IA’A
+
+#e People look back at us.
+#c 人就望著我們看。
+#n tarakusa=cu 也有 ‘來吃飯囉’的含意(傳說KKV有精靈聽到‘吃’會來偷吃，所以用這樣的方式表達)
+#a 294.87, None, 297.32
+
+156.
+... comen sua,_
+fortunate NOM
+有福氣 主格
+
+#a 297.32, None, 298.71
+
+157.
+.. Cuma Wong-Kun ni-marinarupu vutukuru,\
+father PN PFV-hook fish
+父親 PN 過去-上鉤 魚
+
+#n comen 好福氣/好強/好厲害/羨慕/恭喜/你可以驕傲 !
+#a 298.71, None, 301.17
+#n comen 好福氣/好強/好厲害/羨慕/恭喜/你可以驕傲 !
+
+158.
+... tia misee.\
+IRR say
+非實現 說
+
+#e They would say, ‘Uncle Wung-Kun caught the fish! How fortunate!’
+#c 他們就會說，翁坤叔叔釣到魚好福氣!
+#a 301.17, None, 302.41
+
+159.
+...(0.7) imo sua ikita po-’ʉ’ʉna ia,_
+so NOM 1IPL.NOM say-story TOP
+所以 主格 1IPL.主格 說-故事 主題
+
+#a 302.41, None, 304.95
+
+160.
+... te=kita,_
+IRR=1IPL.NOM
+非實現=1IPL.主格
+
+#a 304.95, None, 306.05
+
+161.
+... masi manʉng pokarikari manasi._
+say good speak then
+說 好 說 才
+
+#e So, when we tell stories, we have to speak clearly.
+#c 所以我們講故事的時候，我們要說清楚。
+#n manasi 才
+#n masi ...pokarikari 一起出現比較順
+#a 306.05, None, 308.84
+
+162.
+... ka’an=kia masimuci.\
+NEG=1SG.NOM say.incorrectly
+否定=1SG.主格 說錯
+
+#e Then we won’t say incorrectly.
+#c 我們才不會說錯。
+#n pamuci 犯錯 nipamuci=ku 我犯錯
+#a 308.84, None, 310.49
+
+163.
+...(1.3) mataa,_
+and
+還有
+
+#a 310.49, None, 312.47
+
+164.
+... noo te-en,_
+if IRR=IN
+如果 非實現=IN
+
+#a 312.47, None, 313.94
+
+165.
+.. ’uturu sua kari ia,_
+three NOM word TOP
+三 主格 話 主題
+
+#a 313.94, None, 315.5
+
+166.
+... te=pa=ku,\
+IRR=PTC=1SG.NOM
+非實現=助詞=1SG.主格
+
+#a 315.5, None, 316.57
+
+167.
+... po’ocungun ia sua.\
+continue TOP NOM
+連接 主題 主格
+
+#e If I am to talk about three stories, I still need to continue.
+#c 如果要講三段話，我還要接下去(補充)。
+#a 316.57, None, 318.47
+
+168.
+...(0.7) uh,\
+UH
+UH
+
+#a 318.47, None, 319.85
+
+169.
+...(0.8) makai,\
+like
+像
+
+#a 319.85, None, 321.35
+
+170.
+... uh,_
+UH
+UH
+
+#a 321.35, None, 322.62
+
+171.
+... muru’ucang.\
+get.married
+結婚
+
+#e Like getting married.
+#c 像結婚。
+#n ’ucang 老婆/老公
+#n karʉ’a 男/女朋友
+#a 322.62, None, 323.77
+
+172.
+...(1.4) sua,_
+NOM
+主格
+
+#a 323.77, None, 325.87
+
+173.
+... tenannakʉ ia,_
+propose TOP
+求婚 主題
+
+#n te-nannakʉ, IRR-woman
+#a 325.87, None, 327.52
+#n te-nannakʉ, IRR-woman
+
+174.
+... makasi.\
+like.this
+這樣
+
+#e Like proposing.
+#c 要求婚這樣。
+#n te=ku canumu 我要水
+#a 327.52, None, 329.1
+
+175.
+...(1.3) sua kanakanavu miana ia,_
+NOM Kanakanavu in.the.past TOP
+主格 卡那卡那富 以前 主題
+
+#a 329.1, None, 332.31
+
+176.
+...(0.9) mokusa nia,\
+go there
+去 那裡
+
+#n nia 這裡指女方的家
+#a 332.31, None, 334.01
+#n nia 這裡指女方的家
+
+177.
+.. tia,_
+IRR
+非實現
+
+#a 334.01, None, 334.46
+
+178.
+... ng(u)coo amisen sua,_
+DM how.to.say NOM
+DM怎麼說 主格
+
+#n ng(u)coo 表示思考貌
+#a 334.46, None, 336.6
+#n ng(u)coo 表示思考貌
+
+179.
+... kisa-a Sumukun,\
+say-REL Bunun
+說-關係詞 布農族
+
+#e In the past, Kanakanavu people would go there
+#c 以前卡那卡那富人要去那裡，布農族話要怎麼說呢 ?
+#a 336.6, None, 337.93
+
+180.
+... uh,_
+UH
+UH
+
+#a 337.93, None, 338.95
+
+181.
+.. tia,_
+IRR
+非實現
+
+#a 338.95, None, 339.36
+
+182.
+.. po-nannakʉ misee.\
+say-woman say
+說-女人 說
+
+#e It’s the so-called ‘propose’.
+#c 就是要去‘求婚’。
+#a 339.36, None, 340.53
+
+183.
+...(1.0) sua po-nannakʉ ia,_
+NOM say-woman TOP
+主格 說-女人 主題
+
+#a 340.53, None, 343.05
+
+184.
+.. mokusa=kia nia,\
+AV.go=1SG.NOM there
+主焦.去=1SG.主格 那裡
+
+#a 343.05, None, 344.23
+
+185.
+...(0.9) ka’an=kia masi-manʉng cucuru.\
+NEG=1SG.NOM say-good really
+否定=1SG.主格 說-好 的確
+
+#e To propose, we would go there, and we wouldn’t say it very clearly.
+#c 求婚的話，我們會去那裏(女方家)，不會很直接地說。
+#a 344.23, None, 346.95
+
+186.
+...(1.7) pokarikari=kia,\
+speak=1SG.NOM
+說=1SG.主格
+
+#a 346.95, None, 349.86
+
+187.
+... ah ni-vatu=kia,\
+AH PFV-come=1SG.NOM
+AH 過去-來=1SG.主格
+
+#a 349.86, None, 351.67
+
+188.
+...(0.8) te=kia kan masi-tanam makarikari kamua.\
+IRR=1SG.NOM KAN say-try talk 2PL.OBL
+非實現=1SG.主格 KAN 說-試著 談話 2PL.斜格
+
+#e We came to try to talk to you.
+#c 我們來，試著要跟你們說。
+#n pokarikari 講話
+#n pokarikari=ku Pani 我在跟pani講話
+#n makarikari=ku (mata) Pani 我要跟Pani講話
+#a 351.67, None, 355.66
+
+189.
+...(0.9) uh.. man tarikukua=mu,\
+UH child chicken=2PL.GEN
+UH 小孩 雞=2PL.屬格
+
+#a 355.66, None, 358.42
+
+190.
+... te=kara=kia=e tavarʉ’ʉ ara-cani,\
+IRR=Q=1PL.NOM=POLITE know take-one
+非實現=疑問=1PL.主格=禮貌 知道 拿-一
+
+#n ‘=e’ 表示客氣/禮貌用語
+#a 358.42, None, 360.8
+#n ‘=e’ 表示客氣/禮貌用語
+
+191.
+... tia apa-cʉvʉrʉ-ʉn misee=kia mamia,\
+IRR CAU-grow-PV say=1SG.NOM only
+非實現 使役-成長-受焦 說=1SG.主格 僅
+
+#n cʉvʉrʉ 長大
+#n apa-cʉvʉrʉ-ʉn 這裡意為收養
+#n cumacʉvʉrʉ manu 小孩長大
+#a 360.8, None, 363.6
+#n cʉvʉrʉ 長大
+#n apa-cʉvʉrʉ-ʉn 這裡意為收養
+#n cumacʉvʉrʉ manu 小孩長大
+
+192.
+... sua kari.\
+NOM word
+主格 話
+
+#e We only say these words, ‘Can I take one of your little chicken to breed?’
+#c 我們只有這樣說這些話 : 我能不能拿一隻你們的小雞來養呢?
+#a 363.6, None, 364.67
+
+193.
+...(1.5) uh,_
+UH
+UH
+
+#a 364.67, None, 366.74
+
+194.
+...(0.8) sua,_
+NOM
+主格
+
+#a 366.74, None, 368.1
+
+195.
+.. kari isi ia,\
+word this TOP
+話 這 主題
+
+#a 368.1, None, 369.27
+
+196.
+...(0.7) kan ’una ’inia,_
+KAN EXIST there 
+KAN 存在 那裡
+
+#a 369.27, None, 370.86
+
+197.
+.. tava ma uh mara’an akanang.\
+know FS FS quickly understand
+知道 FS FS 快速  聽懂
+
+#e These words, some people there can understand quickly.
+#c 這樣的話，那邊有些(人)很快就聽懂。
+#n mara’an 不太會
+#n mara’an=ku tavarʉ’ʉ masi-kanakanavu
+#n ’aan akanang 聽不懂
+#n ’arapana’a 快一點
+#n pakavura 動作快點
+#n mara’an 很快
+#a 370.86, None, 372.92
+
+198.
+...(0.7) nakai sua makai ikia naturu ia,_
+but NOM like 1SG.NOM stupid TOP
+但 主格 像 1SG.主格 笨 主題
+
+#a 372.92, None, 376.01
+
+199.
+... ka’an mara’an akanang sii,\
+NEG quickly understand because
+否定 快速 聽懂 因為
+
+#a 376.01, None, 378.5
+
+200.
+...(0.7) manasʉ amisen sua cau isi manasʉ misee.\
+maybe why NOM person this maybe say
+或許 為什麼 主格 人 這 或許 說
+
+#e But for someone as stupid as I am, we cannot understand quickly, because we don’t know why this person say things like this.
+#c 但像我比較笨的，不會很快聽得懂，因為也許是(懷疑)這個人為什麼(這樣)講。
+#n amisen marivura’ʉ ’ikua 為什麼打我(不能用akua)
+#a 378.5, None, 382.5
+
+201.
+...(1.1) nokai,\
+or
+或者
+
+#n nukai 為現在的拼法
+#a 382.5, None, 384.36
+#n nukai 為現在的拼法
+
+202.
+... manasʉ te=pa kesone.\
+maybe IRR=PTC ask
+或許 非實現=助詞 問
+
+#e Or maybe we still need to ask.
+#c 或可能還要再詢問。
+#n noo ka’e iku moran Pani ia ’an ta(tia) mamanʉng
+#n siputukikio 如果不是我幫忙Pani的話，(他)不會成功。
+#a 384.36, None, 386.02
+
+203.
+...(0.9) anakaa te=su,\
+can.it.be IRR=2SG.GEN
+難道 非實現=2SG.屬格
+
+#n 這裡te=musu比較好
+#n anakaa 究竟
+#a 386.02, None, 388.19
+#n 這裡te=musu比較好
+#n anakaa 究竟
+
+204.
+... te=kara=kasu cucuru m-ara tarikuka sua ka’an=kara sa,_
+IRR=Q=2SG.NOM really AV-take chicken NOM NEG=Q NOM
+非實現=2SG.主格 的確 主焦.拿 雞 主格 否定=疑問 主格
+
+#n tarakuka/tarikuka/tarukuka 都可
+#a 388.19, None, 391.99
+#n tarakuka/tarikuka/tarukuka 都可
+
+205.
+... manu=kara cau tia misee.\
+child=Q person IRR say
+小孩=疑問 人 非實現 說
+
+#e They would say, ‘Could it be that you’re going to... Are you really going to take the chicken or not? Or is it someone’s child?’
+#c 會說，究竟你要...你是不是真的要拿那個雞，還是不是? 是不是人的小孩?
+#n manu=ka 等於manu=kara
+#a 391.99, None, 394.32
+
+206.
+...(1.3) noo masi’ʉnʉ’ʉna=pe ia masi’ʉnʉ’ʉna=ci=kia.\
+if say-again=PTC TOP say-again=COS=1SG.NOM
+如果 說-再=助詞 主題 說-再=狀態改變=1SG.主格
+
+#e If they say (ask) again, I will say again (clearly).
+#c 如果他再一次地說，我也再一次地說(如果他再問，我就再說清楚)。
+#n masi’ʉnʉ’ʉna 
+#n mati’ʉnʉ’ʉna 修理/重新做
+#n ’ʉna 故事(跟這個字跟沒關)
+#a 394.32, None, 398.24
+
+207.
+...(0.9) aah ’una=kara=kasu,\
+AAH EXIST=Q=2SG.NOM
+AAH 存在=疑問=2SG.主格
+
+#n aah 客氣用語
+#a 398.24, None, 400.68
+#n aah 客氣用語
+
+208.
+... man(u) nanakʉ na-te=ku,\
+child woman NA-IRR=1SG.NOM
+小孩 女生 NA-非實現=1SG.主格
+
+#n na-te/na-tia 說法較為間接
+#n nate=ku marivura’ʉ cau 我原本想要打人(但是沒有)
+#n masiraru=ku marivura’ʉ cau 我故意(應該)要打人(已經打了)(我原本就是打人的人)
+#n una manu nanakʉ te=kasu 有個女孩你想要
+#a 400.68, None, 402.9
+#n na-te/na-tia 說法較為間接
+#n nate=ku marivura’ʉ cau 我原本想要打人(但是沒有)
+#n masiraru=ku marivura’ʉ cau 我故意(應該)要打人(已經打了)(我原本就是打人的人)
+#n una manu nanakʉ te=kasu 有個女孩你想要
+
+209.
+... po-nannakʉ.\
+say-woman
+說-女人
+
+#e Do you have any girl that I wanted?
+#c 你有沒有女孩子，我想要求婚。
+#a 402.9, None, 404.57
+
+210.
+... te=maku arʉ-ʉn,\
+IRR=1SG.GEN take-PV
+非實現=1SG.屬格 拿-受焦
+
+#a 404.57, None, 405.95
+
+211.
+.. m,\
+FS
+FS
+
+#a 405.95, None, 406.37
+
+212.
+.. misee=kia.\
+say=1SG.NOM
+說=1SG.主格
+
+#e I say, ‘I want to marry (her)’.
+#c 我就說，我要娶回來。
+#a 406.37, None, 407.27
+
+213.
+...(1.3) noo makasia=kie-en pokarikari ia,_
+if like.that=1SG.NOM-IN speak TOP
+如果 那樣=1SG.主格=IN 說 主題
+
+#n kia=in > kieen 
+#n noo makasia pokarikari ia
+#n noo makasia pokarikari-in ia, 如果這樣說話
+#a 407.27, None, 410.33
+#n kia=in &gt; kieen 
+#n noo makasia pokarikari ia
+#n noo makasia pokarikari-in ia, 如果這樣說話
+
+214.
+... amanʉng=cu sua tamna,\
+understand=COS NOM POSS
+聽清楚=狀態改變 主格 所有格
+
+#n amanʉng=cu=ku kasua 我聽懂你的話了
+#n akanang 聽懂(tarakanang 認識/認得出/看得懂)
+#a 410.33, None, 412.42
+#n amanʉng=cu=ku kasua 我聽懂你的話了
+#n akanang 聽懂(tarakanang 認識/認得出/看得懂)
+
+215.
+... mamarang,\
+the.elderly
+長輩
+
+#a 412.42, None, 413.5
+
+216.
+.. tamna manu.\
+POSS child
+所有格 小孩
+
+#e If I speak that way, their parents will understand.
+#c 如果我這樣說的話，(小孩子的)長輩們就會聽得懂了。
+#n 這裡應該說成manu tamna mamarang
+#a 413.5, None, 414.7
+
+217.
+... aah,_
+AAH
+AAH
+
+#a 414.7, None, 415.65
+
+218.
+... makasua na-va kari=in isia va.\
+like.that NA-VA  word=3SG.GEN ISIA VA
+那樣 NA-VA 話=3SG.屬格 ISIA VA
+
+#e His words are like that.
+#c 他的話原來是那樣。
+#n =nava 原來(會意過來)
+#n’esee > ’esi變化過來
+#n 加了va，就表達‘原來是…’，此句也可以說成‘makasua va…’
+#a 415.65, None, 417.97
+
+219.
+... po-nannakʉ=kia misee.\
+say-woman=1SG.NOM say
+說-女人=1SG.主格 說
+
+#e (Now I see) he is proposing to us.
+#c 原來對方是在跟我們求婚這樣。
+#n ponannakʉ kimia 向我們求婚
+#n ponannakʉ=kia (na) Pani 我對Pani求婚
+#n ponannakʉ ‘ikua Pani Pani對我求婚
+#n ponannakʉ-ʉn=maku Pani 我要叫Pani去求婚
+#a 417.97, None, 419.89
+
+220.
+...(1.0) uh  makasua sua,\
+UH like.that NOM
+UH 那樣 主格
+
+#a 419.89, None, 422.34
+
+221.
+... po-nannakʉ kisʉ-ʉn.\
+say-woman say-PV
+說-女人 說-受焦
+
+#e The so-called proposing is like that.
+#c 所謂的求婚就是那樣!
+#a 422.34, None, 423.98
+
+222.
+...(0.8) nakai miana ikita Kanakanavu ia,_
+but in.the.past 1IPL.NOM Kanakanavu TOP
+但是 以前 1IPL.主格 卡那卡那富 主題
+
+#a 423.98, None, 427.25
+
+223.
+... apacoe noo,_
+although if
+雖然 如果
+
+#n apaco’e
+#a 427.25, None, 428.71
+#n apaco’e
+
+224.
+.. marivari=in ia,_
+respond=IN TOP
+回答=IN 主題
+
+#n noo marivari=in=cu nguain ia 若他已經回答了
+#a 428.71, None, 429.94
+#n noo marivari=in=cu nguain ia 若他已經回答了
+
+225.
+...(1.6) te=kara=kia,_
+IRR=Q=1SG.NOM
+非實現=疑問=1SG.主格
+
+#a 429.94, None, 432.54
+
+226.
+... miapacai,\
+AV.kill
+主焦.殺
+
+#a 432.54, None, 434.09
+
+227.
+...(1.0) ne-nen kusa,\
+RED-what on.earth
+重疊-什麼 到底
+
+#n kusa=kusai表達懷疑語氣 (究竟什麼)
+#n nen kusai nikUnan=in
+#n nen kusai 究竟是誰
+#a 434.09, None, 436.03
+#n kusa=kusai表達懷疑語氣 (究竟什麼)
+#n nen kusai nikUnan=in
+#n nen kusai 究竟是誰
+
+228.
+...(0.8) tarikuka=kara sua tutui=kara?\
+chicken=Q NOM pig=Q
+雞=疑問 主格 豬=疑問
+
+#e But we Kanakanavu people, in the past, if they responded, shall we kill any animals? Should it be chicken or pigs?
+#c 但是以前我們卡族呢，雖然若對方已經答覆了，我們是不是要宰殺什麼呢?究竟是雞還是豬?
+#a 436.03, None, 438.97
+
+229.
+...(0.8) ka’an=pi=kia tavarʉ’ʉ nakai,\
+NEG=PTC=1SG.NOM know but
+否定=助詞=1SG.主格 知道 但
+
+#a 438.97, None, 441.54
+
+230.
+...(0.8) noo pacʉpcʉpʉng=ku ia,_
+if think=1SG.NOM TOP
+如果 想=1SG.主格 主題
+
+#n 完整形式為pacʉpʉcʉpʉng
+#n cʉpʉngʉ 心
+#a 441.54, None, 444.12
+#n 完整形式為pacʉpʉcʉpʉng
+#n cʉpʉngʉ 心
+
+231.
+.. ikita kanakanavu mamarang miana ia,\
+1IPL.NOM Kanakanavu the.elderly in.the.past TOP
+1IPL.主格 卡那卡那富 長輩 以前 主題
+
+#a 444.12, None, 446.64
+
+232.
+...(1.0) makai tia,\
+like IRR
+像 非實現
+
+#n makasi 這樣
+#n makasua 那樣
+#a 446.64, None, 448.53
+#n makasi 這樣
+#n makasua 那樣
+
+233.
+... ucan mamia tarikuka se-rupaca noo,\
+one only chicken IV-use if
+一 只 雞 工焦-使用 如果             
+
+#e We don’t know, but when I think about it, Kanakanavu people used only one chicken in the past.
+#c 我們還不知道，但是我若(仔細地)想的話，以前卡族的老人家好像只要用一隻雞。
+#n see-, si-, sia-
+#n ucaan mamia tarikuka se-ruupaca noo ponnanakʉ求婚的時候只要用一隻雞
+#n ucaan mamia tarikuka uruupacʉʉn noo ponnanakʉ 只要一隻雞用在求婚
+#a 448.53, None, 451.32
+
+234.
+... caniava noo marivari=in sua,\
+if if respond=IN NOM
+假定 若  回答=IN 主格
+
+#n 應該是ucaniava
+#n ucaniava iovutu Pani 假如Pani來
+#n noo iiovutu=in Pani 若Pani來
+#a 451.32, None, 453.56
+#n 應該是ucaniava
+#n ucaniava iovutu Pani 假如Pani來
+#n noo iiovutu=in Pani 若Pani來
+
+235.
+... tamna,\
+POSS
+所屬
+
+#a 453.56, None, 454.57
+
+236.
+... manu su..  man nanakʉ.\
+child FS child woman
+小孩 FS 小孩 女生
+
+#e If the parents of the girl said yes.
+#c 假如擁有女孩子的(長輩)答應的話。
+#n 這裡的‘長輩’省略，... manu nanakʉ tamna mamarang, ta
+#a 454.57, None, 456.45
+
+237.
+...(1.0) nakai,\
+but
+但是
+
+#a 456.45, None, 458.24
+
+238.
+...(0.8) te=kara,\
+IRR=Q
+非實現=疑問
+
+#a 458.24, None, 459.74
+
+239.
+.. te=kara=kia,\
+IRR=Q=1SG.NOM
+非實現=疑問=1SG.主格
+
+#a 459.74, None, 460.43
+
+240.
+.. pu’a paici ’ap-ima ’inia,/
+AV.buy wine CAU-drink 3SG.OBL
+主焦.買 酒 使役-喝 3SG.斜格
+
+#a 460.43, None, 462.58
+
+241.
+.. ka’an=kara?\
+NEG=Q
+否定=疑問
+
+#e But, do we have to but them some wine to drink or not ?
+#c 但是我(們)是不是要買酒給他們喝，還是不用?
+#a 462.58, None, 463.55
+
+242.
+...(1.0) uh,_
+UH
+UH
+
+#a 463.55, None, 465.2
+
+243.
+... makasua sua,\
+like.that NOM
+那樣 主格
+
+#e It’s just like that.
+#c 就是那樣。
+#a 465.2, None, 466.79
+
+244.
+...(0.7) uh,_
+UH
+UH
+
+#a 466.79, None, 468.06
+
+245.
+.. kanakanavu miana tie=en,\
+Kanakanavu in.the.past IRR=IIN
+卡那卡那富 以前 非實現=IIN
+
+#n tieen > tia=iin, 此句省略了noo
+#n ucaniava 假設
+#n noo …iin 若
+#a 468.06, None, 469.66
+#n tieen &gt; tia=iin, 此句省略了noo
+#n ucaniava 假設
+#n noo …iin 若
+
+246.
+... ng(u)coo mosa,_
+DM AV.go
+DM 主焦.去
+
+#a 469.66, None, 471.32
+
+247.
+...(1.1) cocua,\
+others’.houses
+別家
+
+#a 471.32, None, 473.12
+
+248.
+.. po-nannakʉ,\
+say-woman
+說-女人
+
+#a 473.12, None, 473.86
+
+249.
+...(0.8) ’una=kara=kasu ka’an masi-manʉng mara’an sua,_
+EXIST=Q=2SG.NOM NEG say-good quickly NOM
+存在=疑問=2SG.主格 否定 說-好 說-好 很快 主格
+
+#e When Kanakanavu people went to other families to propose, would you say clearly and quickly.
+#c 以前卡族人若要去別家求婚的話，你有沒有很快的說清楚。
+#a 473.86, None, 477.2
+
+250.
+...(0.7) kanakanavu miana sua ’una=kasu manu nanakʉ misee.\
+Kanakanavu in.the.past NOM EXIST=2SG.NOM child woman say
+卡那卡那富 以前 主格 存在=2SG.主格 小孩 女生 說
+
+#e Kanakanavu people used to say, ‘Do you have girls?’
+#c 以前的卡族人就說你有沒有女孩子。
+#a 477.2, None, 480.81
+
+251.
+...(0.8) una=kara=kasu man,_
+EXIST=Q=2SG.NOM child
+存在=疑問=2SG.主格 小孩
+
+#a 480.81, None, 482.9
+
+252.
+.. tarikuka m,_
+chicken FS
+雞 FS
+
+#a 482.9, None, 484.12
+
+253.
+.. te m,_
+FS FS
+FS FS
+
+#a 484.12, None, 484.53
+
+254.
+.. na-te,/
+NA-IRR
+NA-非實現
+
+#n na-原本/表示過往的
+#a 484.53, None, 485.17
+#n na-原本/表示過往的
+
+255.
+.. =kia masi-tanam,\
+=1SG.NOM say-try
+=1SG.主格 說-嘗試
+
+#a 485.17, None, 486.52
+
+256.
+...(0.9) na-te=kia tanam ’apa-cʉvʉrʉ.\
+NA-IRR=1SG.NOM try CAU-grow
+NA-非實現=1SG.主格 嘗試 使役-成長
+
+#e Do you have any little chicken? I wanted to try to breed.
+#c 你有沒有小雞呢，我原本想說要試著飼養。
+#a 486.52, None, 489.23
+
+257.
+.. misee misee=kia mamia.\
+say say=1SG.NOM only
+說 說=1SG.主格 僅
+
+#e We only say this (to propose).
+#c 我(們)只(用這種方式)表達(求婚)。
+#n 過去不會直接說求婚，只能用養小雞的講法來講。
+#a 489.23, None, 490.9
+
+258.
+...(1.0) sua mamarang iikita mia.. marang=ta miana kanakanavu  ia,_
+NOM the.elderly 1IPL.NOM FS old=1IPL.NOM in.the.past Kanakanavu TOP
+主格 長輩 1IPL.主格 FS 長輩=1IPL.主格 以前 卡那卡那富 主題
+
+#a 490.9, None, 495.6
+
+259.
+...(0.8) makasua noo,\
+like.that if
+那樣 如果
+
+#a 495.6, None, 497.48
+
+260.
+.. noo pokarikari.\
+if speak
+如果 說
+
+#e We the elderly… we the elderly in the past, are like that when speaking.
+#c 我們老人家，我們以前的老人家，講話的時候會那樣。
+#a 497.48, None, 498.87
+
+261.
+...(1.4) mataa,_
+and
+和
+
+#a 498.87, None, 501.1
+
+262.
+...(0.9) te=pa=ku,\
+IRR=PTC=1SG.NOM
+非實現=助詞=1SG.主格
+
+#a 501.1, None, 502.88
+
+263.
+... c<um>a-cuvung,\
+RED<AV>connect
+重疊<主焦>連接
+
+#n cuvung 連接/補充
+#n cumacuvung(u) 接著
+#a 502.88, None, 503.88
+#n cuvung 連接/補充
+#n cumacuvung(u) 接著
+
+264.
+.. po-’isua sua,\
+say-that NOM
+說-那個 主格
+
+#e Besides, I’m still going to talk about the...
+#c 還有我要接著說那個...
+#a 503.88, None, 505.01
+
+265.
+...(0.9) uh,_
+UH
+UH
+
+#a 505.01, None, 506.83
+
+266.
+...(2.5) amisen=ci misoni  na-tia,_
+how.to.say=COS just.now NA-IRR
+怎麼說=狀態改變  剛才 NA-非實現
+
+#n na-tia 意為‘原本要’
+#a 506.83, None, 511.0
+#n na-tia 意為‘原本要’
+
+267.
+... po-cuvung-a  nia,_
+CAU-connect-IMP.PV there
+使役-連接-祈使.受焦 那裡
+
+#e Uh, what was I going to say just now to continue from there?
+#c 阿，剛才原本要說了什麼要接下去?
+#n cumacungung=ku pokarikari 我接下去講
+#a 511.0, None, 512.67
+
+268.
+... nakai,\
+but
+但是
+
+#a 512.67, None, 513.92
+
+269.
+...(1.1) te=ku pokarikari sua,\
+IRR=1SG.NOM speak NOM
+非實現=1SG.主格 說 主格
+
+#a 513.92, None, 516.61
+
+270.
+...(0.7) makai,\
+like
+像
+
+#n 這裡有‘比如’的涵義
+#a 516.61, None, 517.92
+#n 這裡有‘比如’的涵義
+
+271.
+.. cʉpʉng kanakanavu sua,\
+heart Kanakanavu NOM
+心 卡那卡那富 主格
+
+#a 517.92, None, 519.2
+
+272.
+.. kaniarumi.\
+pangolin
+穿山甲
+
+#e But I want to say, something like how Kanakanavu people think about the pangolin.
+#c 但是我要說，像卡族人(怎麼看待)對穿山甲的想法。
+#a 519.2, None, 519.92
+
+273.
+...(1.3) sua,_
+NOM
+主格
+
+#a 519.92, None, 522.01
+
+274.
+.. ikim kanakanavu kisʉ-ʉn ia,_
+1EPL.NOM Kanakanavu say-PV TOP
+1EPL.主格 卡那卡那富 說-受焦 焦點
+
+#a 522.01, None, 524.29
+
+275.
+...(1.1) vanai ’inia,\
+reason 3SG.OBL
+原因 3SG.斜格
+
+#n ’inia 是指那個故事
+#a 524.29, None, 526.22
+#n ’inia 是指那個故事
+
+276.
+.. pues==ia umokʉrʉ,\
+taboo AV.touch
+忌諱 主焦.摸
+
+#n puesia 有強調，代表有點嚴重。
+#n morʉvarʉkʉ cʉmʉ’ʉra vuan 不想看月亮
+#n mokʉrʉn 如果觸摸
+#a 526.22, None, 527.83
+#n puesia 有強調，代表有點嚴重。
+#n morʉvarʉkʉ cʉmʉ’ʉra vuan 不想看月亮
+#n mokʉrʉn 如果觸摸
+
+277.
+... mepacai kanirume ia,_
+AV.kill pangolin TOP
+主焦.殺 穿山甲 主題
+
+#e We the so-called Kanakanavu people, why is it a taboo to touch (pangolins)?
+#c 我們被稱為卡那卡那富的人，為什麼(因這則故事)忌諱觸摸和宰殺(穿山甲)?
+#a 527.83, None, 530.21
+
+278.
+...(1.6) ikim,_
+1EPL.NOM
+1EPL.主格
+
+#a 530.21, None, 532.36
+
+279.
+... kanakanavu ia cucuru,\
+Kanakanavu TOP really
+卡那卡那富 主題 的確
+
+#a 532.36, None, 534.22
+
+280.
+...(1.4) uh ni-pa-pa-cʉvʉrʉ=kimia sua,\
+UH PFV-PA-CAU-grow=1EPL.OBL NOM
+UH 完成-PA-使役-成長=1EPL.斜格 主格
+
+#n cumacʉvʉrʉ 生長/長高
+#n apacʉvʉrʉ 使長大/養
+#n nipapacʉvʉrʉ 被養
+#a 534.22, None, 537.51
+#n cumacʉvʉrʉ 生長/長高
+#n apacʉvʉrʉ 使長大/養
+#n nipapacʉvʉrʉ 被養
+
+281.
+.. kanirume.\
+pangolin
+穿山甲
+
+#e (Because) pangolins really had fostered us Kanakanavu people.
+#c (因為)穿山甲養真的曾經為養過我們卡族人。
+#a 537.51, None, 538.26
+
+282.
+...(0.8) nen vanai=in?\
+what reason=3SG.GEN
+什麼 原因=3SG.屬格
+
+#e Why is it?
+#c (他)是什麼原因 ?
+#a 538.26, None, 539.87
+
+283.
+...(1.6) sua,_
+NOM
+主格
+
+#a 539.87, None, 542.15
+
+284.
+.. kana ’una kanakanavu miania,\
+FS EXIST Kanakanavu in.the.past
+FS 存在 卡那卡那富 以前
+
+#a 542.15, None, 543.95
+
+285.
+...(1.2) uh,_
+UH
+UH
+
+#a 543.95, None, 545.72
+
+286.
+.. ’usu kan ngane=en.\
+PN KAN name=3SG.GEN
+人名 KAN 名字=3SG.屬格
+
+#e There was a Kanakanavu person, and it is said that her name was ’Usu.
+#c 以前有位卡族人，傳說她名字叫做’Usu。
+#a 545.72, None, 546.96
+
+287.
+...(2.0) sua ’usu ia,_
+NOM PN TOP
+主格 人名 主題
+
+#a 546.96, None, 550.43
+
+288.
+... ni-araka=cu.\
+PFV-bad=COS
+完成-不好=狀態改變
+
+#e ’Usu was deceased.
+#c ’Usu去世了。
+#n niaraaka 原意為‘壞掉’，引申為‘去世’。
+#a 550.43, None, 551.64
+
+289.
+...(1.7) ni-araka=cu mamane,_
+PFV-bad=COS world
+完成-不好=狀態改變 人間
+
+#e He was deceased in the world.
+#c 他在人間已經去世了。
+#n mamane 世界/宇宙觀/人間
+#a 551.64, None, 555.03
+
+290.
+...(2.8) maricuvucuvung cau,\
+AV.gather person
+主焦.集合 人
+
+#a 555.03, None, 559.22
+
+291.
+.. nerʉra,\
+board
+木板
+
+#n marʉrʉ 鋸木
+#a 559.22, None, 560.21
+#n marʉrʉ 鋸木
+
+292.
+...(1.2) kamanʉng,\
+do
+做
+
+#a 560.21, None, 562.12
+
+293.
+...(0.8) maricʉkʉcʉkʉ sua nerʉra._
+nail NOM board
+釘 主格 木板
+
+#n sericʉkʉcʉkʉ 釘子
+#a 562.12, None, 565.26
+#n sericʉkʉcʉkʉ 釘子
+
+294.
+...(0.8) tia ta-sʉ-a sua ni-araka.\
+IRR TA-put-REL NOM PFV-bad
+非實現 TA-放-關係詞 主格  完成-不好
+
+#n niaraka 去世的人
+#n apunanan 惡魔
+#n tiniaravee 鬼魂
+#n nimacai 去世的(動物)
+#a 565.26, None, 567.89
+#n niaraka 去世的人
+#n apunanan 惡魔
+#n tiniaravee 鬼魂
+#n nimacai 去世的(動物)
+
+295.
+... ’usu,\
+PN
+人名
+
+#a 567.89, None, 568.71
+
+296.
+... kisʉ-ʉn.\
+say-PV
+說-受焦
+
+#e People gathered together and boarded up to place the deceased ’Usu as said.
+#c 人們聚集在一起把木板釘起來要放置那位說是已去世的’Usu。
+#a 568.71, None, 569.11
+
+297.
+...(3.0) a’unee=cu,\
+carry.on.back=COS
+揹=狀態改變
+
+#n pusʉ’anʉn 搬
+#n ma’uun 揹著
+#a 569.11, None, 573.06
+#n pusʉ’anʉn 搬
+#n ma’uun 揹著
+
+298.
+... um-avung,\
+AV-bury
+主焦-埋
+
+#e Then carried to bury.
+#c 然後背去埋葬。
+#a 573.06, None, 574.25
+
+299.
+...(1.7) p-atirupange=cu,\
+CAU-finish=COS
+使役-完成=狀態改變
+
+#n matirupaang 完成
+#a 574.25, None, 577.23
+#n matirupaang 完成
+
+300.
+.. maricʉkʉcʉkʉ,_
+nail
+釘
+
+#a 577.23, None, 578.38
+
+301.
+... tacucu um-avung.\
+send AV-bury
+送去 主焦-埋
+
+#e When (they) finished boarding up, (they) sent it to bury.
+#c 完成插入了木板，送去埋葬。
+#n Pani老師覺得這裡應該是tacucun 送
+#n avunʉn 埋
+#a 578.38, None, 579.86
+
+302.
+...(0.7) sua ’usu ihua,\
+NOM PN that
+主格 人名 那
+
+#a 579.86, None, 581.53
+
+303.
+...(1.5) ni-avung-an=cu,_
+PFV-bury-LV=COS
+完成-埋-處焦=狀態改變
+
+#n niavʉn-an=cu=maku tacau na to’ona iisa
+#n sua tacau iisa ia niavʉn-an=cu=(ma)ku na to’ona iisa
+#a 581.53, None, 584.23
+#n niavʉn-an=cu=maku tacau na to’ona iisa
+#n sua tacau iisa ia niavʉn-an=cu=(ma)ku na to’ona iisa
+
+304.
+... misee nen kʉcʉ karianome mise-n tia,_
+say what on.earth pangolin say-PV IRR
+說 什麼 究竟 穿山甲 為什麼-受焦 非實現
+
+#n misee nen和misen這裡譯為‘為什麼’
+#a 584.23, None, 587.03
+#n misee nen和misen這裡譯為‘為什麼’
+
+305.
+...(1.3) tavara’ʉ,\
+know
+知道
+
+#a 587.03, None, 589.22
+
+306.
+... ’esi ’inia sua ’usu ni-avung-a misee?\
+PROG there NOM PN PFV-bury-REL say
+進行 那裡 主格 人名 完成-埋-關係詞 說
+
+#e After that ’Usu was buried, how on earth could the pangolin know that ’Usu was buried there?
+#c 那位’Usu被埋葬了後，究竟穿山甲為什麼會知道’Usu被埋葬在那邊?
+#a 589.22, None, 592.3
+
+307.
+...(1.2) mokusa kan nia karinome,\
+AV.go KAN there pangolin
+主焦.去  KAN 那裡 穿山甲
+
+#a 592.3, None, 595.2
+
+308.
+...(1.3) takusʉrʉ kan mamia maki,_
+circle KAN only FS
+繞圈 KAN 僅 FS
+
+#n 這裡的mamia有‘一直’的意思
+#a 595.2, None, 598.61
+#n 這裡的mamia有‘一直’的意思
+
+309.
+.. makivun makivun makivun makasi.\
+stir stir stir like.this
+撥 撥 撥 這樣
+
+#e It is said that the pangolin went there, kept circling around and digging around.
+#c 據說穿山甲過去那裡，一直繞圈，一直撥撥撥這樣。
+#n makivun可能是指穿山甲用嘴把土剝起來
+#a 598.61, None, 601.49
+
+310.
+...(1.3) pakitʉn=in kan nia sua si’inʉve=en.\
+find=3SG.NOM KAN there NOM door=3SG.GEN
+找到=3SG.主格 KAN 那裡 主格 門=3SG.屬格
+
+#e It is said that it found his door there.
+#c 據說被牠(穿山甲)找到他(’Usu)的門。
+#n atʉn 找到，niatʉn找到了，si’inʉva 門
+#a 601.49, None, 605.07
+
+311.
+...(1.7) p-aritakare-e ’inia sua si’inʉve=eni,_
+CAU-lift-PV  there NOM door=3SG.GEN
+使役-抬起-受焦 那裡 主格 門=3SG.屬格
+
+#e It opened his door.
+#c 牠開著他的門。
+#n maritakarʉ 抬起來
+#n -ee 老師就是覺得是第三者在做那個動作(敘述事件)
+#a 605.07, None, 608.9
+
+312.
+...(0.7) sua nimon nia cau,\
+NOM PFV-AV.be.located there person
+主格 完成-主焦.處在 那裡 人
+
+#a 608.9, None, 610.99
+
+313.
+.. ne-riaka ia,_
+PFV-bad TOP
+完成-不好 主題
+
+#a 610.99, None, 611.99
+
+314.
+...(0.8) kipapa kan nia aratakarʉ.\
+follow KAN 3SG.OBL stand.up
+跟著  KAN 3SG.斜格 站立
+
+#e The person who was in there, the deceased one, followed it and stood up.
+#c 曾經在裡面的人，去世的人，跟著牠站立起來。
+#n arakukun 在一起
+#n maracocua 兩個人一同走
+#n kipapa 跟著走
+#n marivivin 隨後走
+#a 611.99, None, 614.52
+
+315.
+...(1.2) aratakarʉ mocan,\
+stand.up AV.walk
+站立  主焦.走
+
+#a 614.52, None, 617.11
+
+316.
+...(1.4) ah ah,_
+AH AH
+AH AH
+
+#a 617.11, None, 619.29
+
+317.
+.. paci,_
+FS
+FS
+
+#a 619.29, None, 619.71
+
+318.
+.. uh,_
+UH
+UH
+
+#a 619.71, None, 620.02
+
+319.
+.. patisa-’e kan nia s,_
+grab-PV KAN there FS
+抓著-受焦 KAN there FS
+
+#a 620.02, None, 621.27
+
+320.
+.. karinume.\
+pangolin
+穿山甲
+
+#e He stood up and walked, and he grabbed it (the pangolin).
+#c 他站起來走，抓著穿山甲。
+#a 621.27, None, 621.99
+
+321.
+...(1.4) sosomanpe kan,_
+thank KAN
+感謝 KAN
+
+#a 621.99, None, 624.52
+
+322.
+.. sosomanpe=cu=kasu.\
+thank=COS=2SG.NOM
+感謝=狀態改變=2SG.主格
+
+#e (He said) ‘thanks, thank you.’
+#c (說)‘謝謝你了。’
+#a 624.52, None, 626.05
+
+323.
+...(0.7) iva=kasua sua,\
+IIVA=2SG.OBL NOM
+IIVA=2SG.斜格 主格
+
+#n ikasua=va 原來是你
+#n =va 原來如此
+#n makasia=va 原來這個樣子
+#n ’ikua=va 原來是我
+#n nguain(ee)=va
+#n ikita=va 原來是我們
+#a 626.05, None, 627.97
+#n ikasua=va 原來是你
+#n =va 原來如此
+#n makasia=va 原來這個樣子
+#n ’ikua=va 原來是我
+#n nguain(ee)=va
+#n ikita=va 原來是我們
+
+324.
+... maritakarʉ,\
+lift
+抬起
+
+#a 627.97, None, 629.66
+
+325.
+...(1.1) te=pa,\
+IRR=PTC
+非實現=助詞
+
+#a 629.66, None, 631.42
+
+326.
+...(1.0) po-’one ’ikua mamane.\
+CAU-be.located 1SG.OBL world
+使役-處在 1SG.斜格 人間
+
+#e ‘Now I see it’s you who lifted it up and kept me alive.’
+#c ‘原來是你抬開讓我還在人間(讓我活著)。’
+#n mon 在，te=kasu mon nan kumakʉn 你要在哪吃?
+#a 631.42, None, 633.93
+
+327.
+...(1.3) misa-a kan,\
+say-REL KAN
+說-關係詞 KAN
+
+#a 633.93, None, 635.75
+
+328.
+.. sua,_
+NOM
+主格
+
+#a 635.75, None, 636.23
+
+329.
+... ne-eraka ’usu ihua.\
+PFV-bad PN that
+去世 PN 那
+
+#e That deceased ’Usu thus said.
+#c 去世的’Usu這樣說。
+#a 636.23, None, 637.98
+
+330.
+...(1.1) aranai=ci ’inia sua Kanakanavu.\
+from=COS there NOM Kanakanavu
+從=狀態改變 那裡 主格 卡那卡那富
+
+#e Since then, Kanakanavu people…
+#c 卡族人從此就這樣…
+#a 637.98, None, 641.06
+
+331.
+...(0.9) nen vane ’an tuma,\
+what reason NEG FS
+什麼 原因 否定 FS
+
+#a 641.06, None, 643.19
+
+332.
+.. nen vane=en ’an t<um>a-tinara’ʉ karianume?\
+what reason=IN NEG RED<AV>look.down pangolin
+什麼 原因=IN 否定 重疊<主焦>看不起  穿山甲
+
+#e Why not… not bully the pangolins?
+#c 為什麼不會…不會欺負穿山甲?
+#n tumatinara’ʉ有欺負/搗蛋/作弄的意思
+#a 643.19, None, 645.62
+
+333.
+... ’an k<um>a-kʉn karinume?\
+NEG RED<AV>eat pangolin
+否定 重疊<主焦>吃 穿山甲
+
+#e Not eat the pangolins?
+#c 不會吃穿山甲?
+#a 645.62, None, 647.6
+
+334.
+... ’aan mʉkʉrʉ karinume?\
+NEG AV.touch pangolin
+否定 主焦.摸 穿山甲
+
+#e Not touch the pangolins?
+#c 不會碰穿山甲?
+#n mokʉrʉ 觸碰，摸，握
+#a 647.6, None, 649.82
+
+335.
+...(0.7) cisii,_
+for
+為了
+
+#n 應為ci sii (‘COS because’)
+#a 649.82, None, 650.79
+#n 應為ci sii (‘COS because’)
+
+336.
+.. makasua.\
+like.that
+那樣
+
+#e It’s like that.
+#c 是為了那個原因。
+#a 650.79, None, 651.58
+
+337.
+... vanen sua,\
+reason=3SG.GEN NOM
+原因=3SG.屬格 主格
+
+#a 651.58, None, 653.03
+
+338.
+... ne UH makasua,\
+FS UH like.that
+FS UH 那樣
+
+#a 653.03, None, 654.49
+
+339.
+...(0.7) uh,_
+UH
+UH
+
+#a 654.49, None, 655.68
+
+340.
+.. sua Kanakanavu.\
+NOM Kanakanavu
+主格 卡那卡那富
+
+#e Kanakanavu people are like that, because of that reason.
+#c 卡族人就那樣，因為那個原因。
+#a 655.68, None, 656.81
+
+341.
+... necire,  iiku miana,\
+look.IMP 1SG.NOM in.the.past
+看.祈使 1SG.主格  以前
+
+#n cini’ʉra 看了
+#n neen cʉ’ʉree 他看什麼
+#a 656.81, None, 658.54
+#n cini’ʉra 看了
+#n neen cʉ’ʉree 他看什麼
+
+342.
+...(1.1) sira’ʉ’ee,\
+excellent
+頂尖
+
+#e Look, I used to be so good!
+#c 你看我以前多強!
+#n sira’ʉ’ee指‘極多/極少/極好’
+#a 658.54, None, 660.43
+
+343.
+.. ni-mo-ringe moha=kia tan-tannau,\
+PFV-AV-trap AV.go=1SG.NOM RED-wood
+完成-主焦-陷阱 主焦.去=1SG.主格 重疊-叢林
+
+#a 660.43, None, 662.74
+
+344.
+...(0.9) ni-mo-ringe=kim.\
+PFV-AV-trap=1EPL.NOM
+完成-主焦-陷阱=1EPL.主格
+
+#e I went to the woods to set up traps, and we caught so many pangolins.
+#c 我去叢林設陷阱，我們設了陷阱。
+#a 662.74, None, 664.61
+
+345.
+...(1.3) sua rʉ’ʉvu mesua ia,_
+NOM partner then TOP
+主格 夥伴 那時 主題
+
+#a 664.61, None, 667.4
+
+346.
+... acu ni-araka.\
+already PFV-bad
+已經 過去-不好
+
+#e My partner at that time was already deceased.
+#c 我當時的夥伴已經去世了。
+#a 667.4, None, 668.95
+
+347.
+.. ap na,_
+FS FS
+FS FS
+
+#a 668.95, None, 669.78
+
+348.
+.. ’apio ngane=en.\
+PN name=3SG.GEN
+人名 名字=3SG.屬格
+
+#e His name is ’Apio.
+#c 他的名字叫’Apio。
+#a 669.78, None, 670.79
+
+349.
+...(1.1) ni-mo-ringee=kimi,_
+PFV-AV-trap=1EPL.NOM
+完成-主焦-陷阱=1EPL.主格
+
+#e We set up traps.
+#c 我們設陷阱。
+#a 670.79, None, 673.05
+
+350.
+...(1.4) sirʉpa’e   ni-po-ringe=mia   karianome.\
+excellent PFV-CAU-trap=1EPL.屬格 pangolin
+極好 完成-使役-陷阱=1EPL.屬格 穿山甲
+
+#e The number of the pangolins that we caught was so huge.
+#c 被我們套中的穿山甲不知道有多少。
+#n sirʉpa’e這裡有‘不知道有多少’的含意
+#a 673.05, None, 676.46
+
+351.
+...(1.2) sii,_
+because
+因為
+
+#a 676.46, None, 678.06
+
+352.
+.. t<in>mana=kia  mamarang miana.\
+<PFV>listen=1SG.NOM the.elderly in.the.past
+<完成>聽=1SG.主格 長輩 以前
+
+#e Because I’ve heard (some words of) the elderly people.
+#c 因為我曾聽過老人家。
+#a 678.06, None, 679.9
+
+353.
+...(0.8) um-ara=kamu  karinome ia,_
+AV-take=2PL.NOM pangolin TOP
+主焦-拿=2PL.主格 穿山甲 主題
+
+#a 679.9, None, 682.36
+
+354.
+.. akun-ne’e 	taniura’ee,\
+NEG-E’E bully-PV
+否定-E’E  欺負-受焦
+
+#n akunne’e 這裡強調絕對不可以
+#a 682.36, None, 684.0
+#n akunne’e 這裡強調絕對不可以
+
+355.
+...(1.4) pita’ioo,\
+leave
+留置
+
+#n pita’ioo 留置，放生
+#n pita’io=ku canumu na cacan 我把水留置在馬路上
+#a 684.0, None, 686.36
+#n pita’ioo 留置，放生
+#n pita’io=ku canumu na cacan 我把水留置在馬路上
+
+356.
+... ’apu-caa misee mamarang miana.\
+CAU-walk say the.elderly in.the.past
+使役-離開 說 長輩 以前
+
+#e The elderly used to say, if you catch the pangolin, never ever bully it. Leave it there, and let it go.
+#c 以前老人家說，你們抓到穿山甲，絕對不可以欺負牠，要給他留置，使他離開。
+#a 686.36, None, 688.7
+
+357.
+...(1.5) sua karianume ia,_
+NOM pangolin TOP
+主格 穿山甲 主題
+
+#a 688.7, None, 691.4
+
+358.
+.. ni-mo-ringe-n ia,_
+PFV-AV-trap-PV TOP
+完成-主焦-陷阱-受焦 主題
+
+#n 這裡-n是否應分析為PV有待確認
+#a 691.4, None, 692.71
+#n 這裡-n是否應分析為PV有待確認
+
+359.
+...(1.3) pori’i uh,_
+spit UH
+吐 UH
+
+#a 692.71, None, 695.06
+
+360.
+... s<um>a-sʉ’ʉm=kia,\
+RED<AV>chew=1SG.NOM
+重疊<主焦>咀嚼=1SG.主格
+
+#n rumara’isi 咬(人)
+#n ’uma’i’i 啃
+#n sumasʉ’ ʉm 咀嚼
+#a 695.06, None, 696.6
+#n rumara’isi 咬(人)
+#n ’uma’i’i 啃
+#n sumasʉ’ ʉm 咀嚼
+
+361.
+.. ’uici.\
+vine
+藤類
+
+#e If the pangolin is trapped, we need to spit… chew the vine.
+#c 穿山甲若被套中，我(們)要吐…咀嚼蔓藤。
+#n 此指蔓藤。
+#a 696.6, None, 697.18
+
+362.
+...(1.6) pueri’i inia,\
+spit 3SG.OBL
+吐 3SG.斜格
+
+#a 697.18, None, 699.63
+
+363.
+.. apa-savua,_
+CAUS-medicine
+使役-藥
+
+#n 指治療
+#a 699.63, None, 700.61
+#n 指治療
+
+364.
+...(0.7) putukiri-n=cu,\
+unleash-PV=COS
+解開-受焦=狀態改變
+
+#n kumakiri 栓住/綁住
+#n umomʉn 鎖住
+#a 700.61, None, 702.19
+#n kumakiri 栓住/綁住
+#n umomʉn 鎖住
+
+365.
+.. p-ariaruma.\
+CAU-leave
+使役-離開
+
+#e Spit onto it to cure it, and then unleash the trap and release it.
+#c 吐給牠治療牠，解開(陷阱)然後讓他走。
+#a 702.19, None, 702.9
+
+366.
+...(1.3) apaco’e noo aka=ci kʉkiri=in ia,_
+although if bad=COS leg=3SG.GEN TOP
+雖然   若 不好=狀態改變 腿=3SG.屬格 主題
+
+#a 702.9, None, 706.44
+
+367.
+...(0.7) pueri-n=pa nia ’uici.\
+spit-PV=PTC there vine
+吐-受焦=助詞 那裡 藤類
+
+#e If its leg is not good, we still need to spit on that part.
+#c 如果牠的腿受傷了，還要再吐到他的傷口。
+#a 706.44, None, 708.74
+
+368.
+.. ka-sa-savuana,\
+do-RED-medicine
+做-重疊-藥
+
+#n kasavuana 製作藥
+#n kasasavuana 也有一直做藥的意思
+#a 708.74, None, 710.21
+#n kasavuana 製作藥
+#n kasasavuana 也有一直做藥的意思
+
+369.
+... p-ariruma-an=cu.\
+CAU-leave-LV=COS
+使役-離開-處焦=狀態改變
+
+#e (We) kept curing it, and let it go.
+#c 一直給牠治療，然後讓牠離開。
+#a 710.21, None, 711.48
+
+370.
+...(0.8) ikim Kanakanavu ikim,_
+1EPL.NOM Kanakanavu 1EPL.NOM
+1EPL.主格 卡那卡那富 1EPL.主格
+
+#a 711.48, None, 713.87
+
+371.
+... mamarang,\
+the.elderly
+長輩
+
+#a 713.87, None, 715.29
+
+372.
+.. Kanakanavu miana ia,_
+Kanakanavu in.the.past TOP
+卡那卡那富 以前 主題
+
+#a 715.29, None, 716.41
+
+373.
+... makasua sua s<in>i-tuturu ia.\
+like.that NOM <PFV>IV-tell TOP
+那樣 主格 <完成>工焦-說 主題
+
+#e What our Kanakanavu elderly people said in the past is like that.
+#c 以前我們卡族老人家所說的就是那樣。
+#n sinituturu 所說的
+#a 716.41, None, 718.94
+
+374.
+... uh,_
+UH
+UH
+
+#a 718.94, None, 720.09
+
+375.
+...(1.0) makasua,\
+like.that
+那樣
+
+#a 720.09, None, 721.81
+
+376.
+... cʉpʉng misee.\
+heart say
+心 說
+
+#e The (Kanakanavu’s) view is like that.
+#c (卡族人的)觀念是那樣。
+#a 721.81, None, 723.87
+
+377.
+...(0.9) imo sua ikim Kanakanavu ia,_
+so NOM 1EPL.NOM Kanakanavu TOP
+所以 主格 1EPL.主格 卡那卡那富 主題
+
+#a 723.87, None, 726.78
+
+378.
+.. ka’an=kim pa’apopang.\
+NEG=1EPL.NOM do.casually
+否定=1EPL.主格 隨便
+
+#e So we Kanakanavu people won’t do things at will.
+#c 所以我們卡族人不會隨便。
+#a 726.78, None, 728.39
+
+379.
+...(1.6) uh,_
+UH
+UH
+
+#a 728.39, None, 730.64
+
+380.
+...(0.7) mataa ’una=pa sua._
+and EXIST=PTC NOM
+和 存在=助詞 主格
+
+#a 730.64, None, 732.75
+
+381.
+...(0.7) uh,_
+UH
+UH
+
+#a 732.75, None, 734.17
+
+382.
+... ucani.\
+one
+一
+#e And there’s another one.
+#c 以及還有一個。
+#a 734.17, None, 734.88
+
+383.
+...(1.2) sua ucani ia,_
+NOM one TOP
+主格 一 主題
+
+#a 734.88, None, 737.24
+
+384.
+...(1.5) uʉ,_
+FS
+FS
+
+#e The one uh…
+#c 一個…
+#a 737.24, None, 739.32
+
+385.
+.. kan,/
+KAN
+KAN
+
+#a 739.32, None, 739.68
+
+386.
+.. mesua ia,_
+at.that.time TOP
+那時 主題
+
+#a 739.68, None, 740.38
+
+387.
+.. kana,_
+FS
+FS
+
+#a 740.38, None, 741.36
+
+388.
+... kana-canca,\
+season-sow
+季節-插秧
+
+#n kana’ʉcana 夏天
+#n kana’amisan 冬天
+#n kana’iana 春天
+#a 741.36, None, 742.54
+#n kana’ʉcana 夏天
+#n kana’amisan 冬天
+#n kana’iana 春天
+
+389.
+...(0.9) c<um>a-cancu sua pusian.\
+RED<AV>sow NOM rice
+重疊<主焦>插秧 主格 稻米
+
+#e That was the season of sowing, we sow the rice.
+#c 當時是插秧季節，種稻米。
+#n cumacancu sua Mu’u pusian 是Mu’u插秧(可能問說不知道是誰在插秧)
+#n cumacancu Mu’u sua pusian (強調他做的事情)
+#a 742.54, None, 745.04
+
+390.
+...(2.0) uh,_
+UH
+UH
+
+#a 745.04, None, 747.74
+
+391.
+... matata=cu na minana,_
+when=COS LOC expel.birds
+逢到 處所 趕鳥
+
+#a 747.74, None, 749.95
+
+392.
+... minana,\
+expel.birds
+趕鳥
+
+#a 749.95, None, 750.89
+
+393.
+.. uh,_
+UH
+UH
+
+#a 750.89, None, 751.24
+
+394.
+.. pusiam.\
+rice
+稻米
+
+#e During the time to expel birds, we expel birds for the sake of the rice.
+#c 到了趕鳥(時期)，為稻米趕鳥。
+#a 751.24, None, 751.73
+
+395.
+...(1.2) sii sua,\
+because NOM
+因為 主格
+
+#a 751.73, None, 753.41
+
+396.
+.. pusian  nokai  in-ame ia,_
+rice if.not PFV-expel.birds TOP
+稻米 若沒有 完成-趕鳥 主題
+
+#n minana 趕鳥
+#n niname 趕鳥了(Pani老師會這樣說)
+#a 753.41, None, 755.3
+#n minana 趕鳥
+#n niname 趕鳥了(Pani老師會這樣說)
+
+397.
+... kʉʉn-ʉn tapuroo.\
+eat-PV sparrow
+吃-受焦 麻雀
+
+#e Because the rice, if we don’t expel the birds, it will be eaten by the sparrow.
+#c 因為稻米如果沒有經過趕鳥，就會被麻雀吃了。
+#a 755.3, None, 756.68
+
+398.
+...(1.4) sua nganain  nimosa  minana ia,_
+NOM name=3SG.GEN PFV-AV.go expel.birds TOP
+主格 名字=3SG.屬格 完成-主焦.去 趕鳥 主題
+
+#a 756.68, None, 760.32
+
+399.
+.. pi’i kisʉ-ʉn.\
+PN say-PV
+人名 說-受焦
+
+#e The name of the person who had gone to expel birds was Pi’i.
+#c 去趕鳥過的人他名字叫做Pi’i。
+#n neen kisaa=musu 你說什麼
+#n sua iisi ia coffee kisʉʉn 這就是所謂的咖啡
+#a 760.32, None, 761.38
+
+400.
+...(1.8) mokusa nia mocʉmcʉm minana,_
+AV.go there be.early expel.birds
+主焦.去 那裡 趕早 趕鳥
+
+#e (He) went there early to expel birds.
+#c 趕早去那裏趕鳥。
+#n mocʉmcʉm=ku mokusa ’inia minana 也可以
+#a 761.38, None, 765.49
+
+401.
+...(1.2) makasi cacan,\
+to road
+到 道路
+
+#a 765.49, None, 767.87
+
+402.
+...(1.3) mʉtʉa 	man karianome.\
+run.into child pangolin
+找到 小孩 穿山甲
+
+#e On the way, (he) discovered a little pangolin.
+#c 到了路上，無意間發現小隻的穿山甲。
+#a 767.87, None, 770.74
+
+403.
+...(1.7) p-atisaa-’e nia,\
+CAU-catch-’E 3SG.OBL
+使役-抓-’E 3SG.斜格
+
+#n matisa’ʉ 主焦
+#n patisa’ʉn 被抓(似乎沒有matisa’ʉn這樣的形式)
+#n patisa’ʉn Pani tacau Pani抓了狗
+#a 770.74, None, 774.03
+#n matisa’ʉ 主焦
+#n patisa’ʉn 被抓(似乎沒有matisa’ʉn這樣的形式)
+#n patisa’ʉn Pani tacau Pani抓了狗
+
+404.
+...(1.3) pitakusa na serevong,_
+toss LOC cage
+投擲 處所 鐵籠
+
+#n serevung 鐵絲籠
+#a 774.03, None, 777.05
+#n serevung 鐵絲籠
+
+405.
+.. ta=sikara serevong,_
+TA=inside cage
+TA=裡面 鐵籠
+
+#n 加了ta強調那個空間
+#n sikara 裡面
+#n pipining 外面
+#a 777.05, None, 778.54
+#n 加了ta強調那個空間
+#n sikara 裡面
+#n pipining 外面
+
+406.
+...(1.5) apa-cʉvʉrʉ.\
+CAU-grow
+使役-成長
+
+#e He caught it and put it into the cage, and bred it inside the cage.
+#c 他把牠抓起來丟進鐵籠，在鐵籠裡面飼養。
+#n 指養育
+#a 778.54, None, 780.84
+
+407.
+...(1.5) matakoru ’uru apa-kʉn ’inia.\
+ladle rice CAU-eat 3SG.OBL
+盛 飯 使役-吃 3SG.斜格
+
+#e Ladle the rice to feed it.
+#c 盛飯給牠吃。
+#n kumakoru 挖(地)
+#a 780.84, None, 784.57
+
+408.
+...(1.9) ro-rovana,_
+RED-night
+重疊-晚上
+
+#n rorovana每晚
+#n rovana 晚上
+#a 784.57, None, 787.46
+#n rorovana每晚
+#n rovana 晚上
+
+409.
+...(0.8) te=cu mosa tanasa.\
+IRR=COS AV.go home
+非實現=狀態改變 主焦.去 家
+
+#e Every night (he) went back home.
+#c 每晚要去家裡了。
+#a 787.46, None, 789.6
+
+410.
+...(1.5) avic-e na tanasa.\
+bring-E LOC home
+帶-E 處所 家
+
+#e (He) brought back home.
+#c (他)帶回家。
+#a 789.6, None, 792.41
+
+411.
+...(2.3) mʉ,_
+FS
+FS
+
+#a 792.41, None, 795.01
+
+412.
+.. ni-mosa=ku nia c<ʉm>ʉra mesua.\
+PFV-AV.go=1SG.NOM there <AV>see then
+完成-主焦.去=1SG.主格 那裡 <主焦>看 那時
+
+#e I went there to have a look at the time.
+#c 當時我有去看到。
+#a 795.01, None, 796.86
+
+413.
+...(2.0) mocan=ku mokusa tanaha.\
+AV.leave=1SG.NOM AV.go home
+主焦.離開=1SG.主格 主格.去 家
+
+#a 796.86, None, 800.58
+
+414.
+...(1.0) tumaturu com,_
+RED<AV>tell FS
+重疊<主焦>告訴 FS
+
+#a 800.58, None, 802.71
+
+415.
+.. coo=mia.\
+father=1EPL.GEN
+父親=1EPL.屬格
+
+#e I left and went back home to tell our father.
+#c 我離開回到家裡告訴我們的父親。
+#n cuma 父親
+#n co=maku 會變音
+#a 802.71, None, 803.31
+
+416.
+...(0.9) AH,\
+AH
+AH
+
+#n 表示感嘆
+#a 803.31, None, 804.43
+#n 表示感嘆
+
+417.
+.. cuma,\
+father
+父親
+
+#a 804.43, None, 805.18
+
+418.
+...(0.7) te=ci mananu,\
+IRR=COS how
+非實現=狀態改變 怎樣
+
+#n makanasu=manau
+#a 805.18, None, 806.91
+#n makanasu=manau
+
+420.
+... ni-pa-pa-cʉvʉrʉ,\
+PFV.PV-PA-CAU-grow
+完成.受焦-PA-使役-成長
+
+#n 被養
+#a 807.64, None, 809.29
+#n 被養
+
+421.
+... karinome,\
+pangolin
+穿山甲
+
+#a 809.29, None, 810.57
+
+422.
+.. te=kara E mamanʉng,\
+IRR=Q E good
+非實現=疑問 E 好
+
+#a 810.57, None, 811.74
+
+423.
+.. misee.\
+say
+說
+
+#e ‘The pangolin is fed (by someone else), is it good?’ I said.
+#c 穿山甲被人家養, 我說這樣好嗎 ?
+#a 811.74, None, 812.4
+
+424.
+...(1.2) aratakarʉ sua,\
+stand NOM
+站 主格
+
+#a 812.4, None, 814.58
+
+425.
+.. coo=mia,\
+father=1EPL.GEN
+父親=1EPL.屬格
+
+#a 814.58, None, 815.26
+
+426.
+...(0.7) mokusa ’inia,\
+AV.go there
+主焦.去 那裡
+
+#a 815.26, None, 817.01
+
+427.
+...(0.8) mincau c<ʉm>ʉra makahi,_
+inspect <AV>see say
+視察 <主焦>看 說
+
+#n mincau 探望
+#a 817.01, None, 819.39
+#n mincau 探望
+
+428.
+... AH AH,\
+AH AH
+AH AH
+
+#a 819.39, None, 820.7
+
+429.
+.. aka va makasia.\
+not.good VA like.this
+不好 VA 這樣
+
+#a 820.7, None, 821.93
+
+430.
+... pi’e,\
+PN
+人名
+
+#n Pi’i念成Pi’e表示暱稱(比較關心(長對小))
+#a 821.93, None, 823.04
+#n Pi’i念成Pi’e表示暱稱(比較關心(長對小))
+
+431.
+...(0.8) parirumo akun makasia=cu kan api=,\
+expel NEG like.this=COS KAN CAU
+趕走 否定 這樣=狀態改變 KAN CAU
+
+#a 823.04, None, 826.47
+
+432.
+... pusia,\
+taboo
+忌諱
+
+#a 826.47, None, 827.24
+
+433.
+... misee.\
+say
+說
+
+#e Our father stood up and went there to have a look. saying, ‘Ah, Pi’i, that is really not good. Let it go, and do not make yourself violate the taboo.’
+#c 我們父親就起來去那裡看，然後說，Pi’i阿，那樣真的不好，不要這樣使自己觸犯禁忌了。
+#a 827.24, None, 828.25
+
+434.
+...(0.8) nakai ka’an pakituru.\
+but NEG be.willing
+但 否定 願意
+
+#e But (he) did not want to.
+#c 但他不願意。
+#n marivari 回答回話
+#n pakituru=ku moran kasua
+#a 828.25, None, 830.28
+
+435.
+...(1.1) necʉre,\
+look.IMP
+看.祈使
+
+#a 830.28, None, 832.06
+
+436.
+... nen vane Kanakanavu cucuru puesi mihee?\
+what reason Kanakanavu really taboo say
+什麼 原因 卡那卡那富 的確 忌諱 說
+
+#e You see, why do we Kanakanavu people really consider it a taboo?
+#c 你看，為什麼說我們卡族人真的忌諱這件事?
+#n puesi 禁忌
+#a 832.06, None, 834.84
+
+437.
+...(0.8) aratakarʉ sua Pi’i mesua,\
+stand NOM PN then
+站立 主格 人名 當時
+
+#a 834.84, None, 837.4
+
+438.
+... tia mivu.\
+IRR pee
+非實現 小便
+
+#e Pi’i stood up then, and went to pee.
+#c Pi’i 起來要去小便。
+#n ivu 尿
+#n ta’i 糞 mota’i大便 aputa’ioo帶去大便
+#n musu-cikirini 去角落(cikirini 角落)
+#n tota’ia 廁所
+#a 837.4, None, 838.63
+
+439.
+... makai karinome makasi hua ramuc=in.\
+like pangolin like.this NOM hand=3SG.GEN
+像  穿山甲  這樣 主格 手=3SG.屬格
+
+#e His hand is like this, like (the skin of) pangolin.
+#c 他的手這樣子像穿山甲。
+#a 838.63, None, 841.64
+
+440.
+...(0.9) tia,_
+IRR
+非實現
+
+#a 841.64, None, 842.94
+
+441.
+... mivu.\
+pee
+小便
+#e He wanted to pee.
+#c 他要小便。
+#a 842.94, None, 844.02
+
+442.
+...(1.1) UH sua,_
+UH NOM
+UH 主格
+
+#a 844.02, None, 846.03
+
+443.
+.. tina’an=ini ia,_
+body=3SG.GEN TOP
+身體=3SG.屬格 主題
+
+#a 846.03, None, 847.09
+
+444.
+... kan makai,\
+KAN like
+KAN 像
+
+#a 847.09, None, 848.6
+
+445.
+... ku,_
+FS
+FS
+
+#a 848.6, None, 849.46
+
+446.
+...(0.8) kurarung ʉngcoo,_
+hide DM
+動物皮 DM
+
+#n rapatʉ 植物的皮
+#a 849.46, None, 851.58
+#n rapatʉ 植物的皮
+
+447.
+... UH karinome.\
+UH pangolin
+UH 穿山甲
+
+#e His body was said to be like pangolin’s skin.
+#c 他的身體呢，據說就變得像穿山甲的皮。
+#a 851.58, None, 852.89
+
+448.
+...(0.8) UH,_
+UH
+UH
+
+#a 852.89, None, 854.2
+
+449.
+.. aranai inia,\
+from there
+從 那裡
+
+#a 854.2, None, 855.49
+
+450.
+... ka’an pakituru pariruma,\
+NEG be.willing let.go
+否定 願意 趕走
+
+#n pariruma 意為‘趕走/放生’
+#a 855.49, None, 857.21
+#n pariruma 意為‘趕走/放生’
+
+451.
+...(0.9) uh cʉree=kimia.\
+UH see-PV=1EPL.GEN
+UH 看-受焦=1EPL.屬格
+
+#e Since then, when he did not want let go of it, we (went to) look.
+#c 從那個時候(他)不願意放走(穿山甲)，我們就去看。
+#a 857.21, None, 859.25
+
+452.
+... manasʉ,\
+maybe
+或許
+
+#a 859.25, None, 860.49
+
+453.
+... can,_
+one
+一
+
+#a 860.49, None, 861.5
+
+454.
+... ucan takananga AH ka’an.\
+one hour AH NEG
+一  時辰 AH 否定
+
+#e Maybe it’s been one hour…No.
+#c 或許一個小時…不對。
+#n takananga 原來不是指一個小時，而是一段時間。
+#a 861.5, None, 863.67
+
+455.
+.. ucan,\
+one
+一
+
+#a 863.67, None, 864.53
+
+456.
+... UH,_
+UH
+UH
+
+#a 864.53, None, 865.77
+
+457.
+...(1.4) ʉngcoo <L2CikuripaeeL2C> kisʉ-ʉn.\
+DM one.week say-PV
+DM 一個禮拜 說-受焦
+
+#a 865.77, None, 868.91
+
+458.
+... uh Kanakanavu.\
+UH Kanakanavu
+UH 卡那卡那富
+
+#e One… one week as it’s called in Kanakanavu.
+#c 一個…嗯…就卡語所謂的一個禮拜。
+#a 868.91, None, 870.35
+
+459.
+...(1.2) aranai inia,\
+from there
+從 那裡
+
+#a 870.35, None, 872.66
+
+460.
+... noten mivu ia kan,_
+if.to pee TOP KAN
+若要 小便 主題 KAN
+
+#a 872.66, None, 874.58
+
+461.
+.. makasi ramuc=in makai,_
+like.this hand=3SG.GEN like
+這樣 手=3SG.屬格 像
+
+#a 874.58, None, 876.4
+
+462.
+.. karianome.\
+pangolin
+穿山甲
+
+#e Since then, if he wanted to pee, it’s said that his hands would become like the skin of the pangolin.
+#c 從那時候，若要小便，他的手就這樣子像穿山甲一樣。
+#a 876.4, None, 877.32
+
+463.
+... pʉ pacʉpʉcʉpʉng=kim  ah
+FS think=1SG.NOM AH
+FS 想=1SG.主格 AH
+
+#a 877.32, None, 879.3
+
+464.
+... cucurua va aka apa-cʉvʉrʉ.\
+really VA not.good CAU-grow
+的確 VA 不好 使役-成長
+
+#a 879.3, None, 881.88
+
+465.
+...(0.8) imo makasia misee.\
+so like.this say
+所以 這樣 說
+
+#e We are thinking, it’s true that it’s not good to foster pangolins, so it becomes like this.
+#c 我們一直想，的確養穿山甲是不好的事，所以說變這樣。
+#a 881.88, None, 884.28
+
+466.
+...(1.0) noten mota’i ia,_
+if.to shit TOP
+若要 大便 主題
+
+#a 884.28, None, 886.57
+
+467.
+.. ara-pipining makasia ramuc=in makai karianome.\
+ARA-outside like.this hand=3SG.GEN like pangolin
+ARA-外面 這樣 手=3SG.屬格 像 穿山甲
+
+#e If he wanted to take a shit, his hands would be like the pangolin.
+#c 若要大便，就會出現那樣像穿山甲的手的面貌。
+#a 886.57, None, 889.55
+
+468.
+...(1.0) imo ikita Kanakanavu ia aku==n makasia.\
+so 1IPL.NOM Kanakanavu TOP NEG like.this
+所以 1IPL.主格 卡那卡那富 主題 否定 這樣
+
+#e So we Kanakanavu people can never do this.
+#c 所以我們卡族人不可以這樣子。
+#a 889.55, None, 894.04
+
+469.
+...(0.9) sirupa’e si UH
+countless.times FS UH
+無數次 FS UH
+
+#a 894.04, None, 896.32
+
+470.
+...(1.0) Kanakanavu naa ni-m-ara karianumi nakai,\
+Kanakanavu originally PFV-AV-take pangolin but
+卡那卡那富 本來 完成-主焦-拿 穿山甲 但
+
+#n natia=naa 原本
+#a 896.32, None, 899.71
+#n natia=naa 原本
+
+471.
+...(1.7) vanen makasua akun tavarʉ UH,\
+reason=3SG.GEN like.that NEG know UH
+原因=3SG.屬格 那樣 否定 知道 UH
+
+#a 899.71, None, 903.69
+
+472.
+.. ka’an tavarʉ’ʉ mokʉrʉ sii,\
+NEG know touch because
+否定 知道 摸 因為
+
+#a 903.69, None, 905.03
+
+473.
+... cucuru puesia.\
+really taboo
+的確 忌諱
+
+#e Kanakanavu people had taken (caught) countless pangolins, but because of that reason, we couldn’t touch them, because it’s really a taboo.
+#c 不知多少次卡族人原本拿(抓)到穿山甲，但因為那個原因，不能觸摸，因為非常忌諱。
+#a 905.03, None, 906.86
+
+474.
+...(1.4) imo,\
+so
+所以
+
+#n karianome 過去的念法
+#n karianumi 現代的念法
+#a 906.86, None, 908.99
+#n karianome 過去的念法
+#n karianumi 現代的念法
+
+475.
+...(0.9) ikita Kanakanavu ia,_
+1IPL.NOM Kanakanavu TOP
+1IPL.主格 卡那卡那富 主題
+
+#a 908.99, None, 911.12
+
+476.
+... ka’an ken sua,_
+NEG FS NOM
+否定 FS 主格
+
+#a 911.12, None, 912.76
+
+477.
+.. necire ka’an puesi ia,_
+look.IMP NEG taboo TOP
+看.祈使 否定 忌諱 主題
+
+#e So, we Kanakanavu people, you see, those who don’t avoid the taboo...
+#c 所以我們卡族人，你看，不遵守禁忌的...
+#a 912.76, None, 914.6
+
+478.
+...(0.8) kan,\
+KAN
+KAN
+
+#a 914.6, None, 915.79
+
+479.
+.. po-ringe-n=kee uh m-ara,\
+CAU-trap-PV=3SG.GEN UH AV-take
+使役-陷阱-PV=3SG.屬格 UH 主焦-拿
+
+#a 915.79, None, 917.84
+
+480.
+... karianome.\
+pangolin
+穿山甲
+
+#e (He) caught and took the pangolin.
+#c (他)套住然後抓了穿山甲。
+#a 917.84, None, 919.06
+
+481.
+... kamanʉng te=maku um-ora makasi po’ocipi,_
+do IRR=1SG.GEN AV-chop like.this cook
+做 非實現=1SG.屬格 主焦-剁 這樣 煮菜
+
+#a 919.06, None, 922.28
+
+482.
+... k<ʉm>ʉn.\
+<AV>eat
+<主焦>吃
+
+#e He worked on it, chopped and cooked it.
+#c 他處理後剁掉煮了吃掉。
+#a 922.28, None, 923.22
+
+483.
+.. ikita kanakanavu ia ka’an=kita tavarʉ’ʉ makasua.\
+1IPL.NOM Kanakanavu TOP NEG=1IPL.NOM know like.that
+1IPL.主格 卡那卡那富 主題 否定=1IPL.主格 知道 那樣
+
+#e We Kanakanavu people, we cannot do that.
+#c 我們卡族人呢，我們絕對不可那樣。
+#a 923.22, None, 926.05
+
+484.
+... t<um>ana-a ’ikua manasi,\
+<AV>listen-IMP.AV 1SG.OBL then
+<主焦>聽-祈使.主焦 1SG.斜格 才
+
+#a 926.05, None, 928.25
+
+485.
+... ka’an=kita pamuci.\
+NEG=1IPL.NOM make.mistakes
+否定=1IPL.主格 犯錯
+
+#e Listen to me, so that we don’t make mistakes.
+#c 聽我的話才不會犯錯。
+#a 928.25, None, 929.95
+
+486.
+... makasua ma sua se-tuturu kamua.\
+like.that only NOM IV-tell 2PL.OBL
+那樣 僅 主格 工焦-告訴 2PL.斜格
+
+#e What I’m telling you is only that.
+#c 我要告訴你們的就是那樣。
+#n setuturu 告誡
+#n kari iisi ia setuturu=maku kamua 這些話是我用來要告訴你們的(表示那個內容是有特殊意義的)
+#n kari iisi ia tuturun=maku kamua 這個話由我來告訴你們(可發生也可還沒發生)
+#n te=ku mokusa kasua
+#n te=ku mokusa na Pani
+#n mara-tatia tacau=maku na tacau=musu 我的狗比你的狗大
+#n relatively-big
+#n marʉngʉcai=ku na kasua 我比你高
+#a 929.95, None, 932.99
+
+487.
+... uh,\
+UH
+UH
+
+#a 932.99, None, 934.04
+
+488.
+... man-man=maku,\
+RED-child=1SG.GEN
+重疊-小孩=1SG.屬格
+
+#a 934.04, None, 935.31
+
+489.
+...(1.8) arasingsing-ai.\
+bless-AI
+祝福-AI
+
+#e My offspring, may peace be with you !
+#c 我的後代晚輩們，要平安喔!
+#n –ai 有但願的意味(祈求的語氣)
+#a 935.31, None, 938.35
+
+490.
+...(1.8) makasua=ku,\
+like.that=1SG.NOM
+那樣=1SG.主格
+
+#e Like me.
+#c 我那樣。
+#a 938.35, None, 940.99
+
+491.
+... ikam manman=maku ia,_
+2PL.NOM RED-child=1SG.GEN TOP
+2PL.主格 重疊-小孩=1SG.屬格 主題
+
+#a 940.99, None, 942.73
+
+492.
+... se-tuturu=maku kamua ia,_
+IV-tell=1SG.GEN 2PL.OBL TOP
+工焦-告訴=1SG.屬格 2PL.斜格 主題
+
+#a 942.73, None, 944.75
+
+493.
+... arasingsing-oo=ku.\
+bless-IMP.PV=1SG.NOM
+祝福-祈使.受焦=1SG.主格
+
+#n -oon 會變成第三者要做
+#a 944.75, None, 946.73
+#n -oon 會變成第三者要做
+
+494.
+... ap-ara=pa,\
+CAU-take=PTC
+使役-拿=助詞
+
+#a 946.73, None, 948.07
+
+495.
+... nupasʉ ap-ara kʉna.\
+money CAU-take food
+財產   獲得  食物
+
+#e You, my offspring, what I want to tell you is, pray that I can still be made to have income and food.
+#c 你們這些我的晚輩們，我要告訴你們的是，要祝福我還可以獲得財產，獲得食物。
+#n vantuku(錢/紙幣)/kimpara(銅板)
+#n nupasʉ 包括那些農作物/動物等可變賣為現今的財產
+#a 948.07, None, 950.02
+
+496.
+... ʉm-ʉkʉrʉ=pa mamane manasi.\
+AV-keep=PTC world then
+主焦-留住=助詞 人間 才
+
+#e So that I can still live in the world.
+#c 我才能留在世上。
+#n mokʉrʉ 也可以, 但程度上比ʉmʉkʉrʉ 弱
+#n mʉkʉrʉ
+#n ʉmʉkʉrʉ na
+#n mokʉrʉ 握/觸碰
+#n ʉkʉroo 去碰 !
+#n nen nikʉra=musu 你握的是什麼
+#n ʉkʉrʉn Pani 他握的
+#n ka’an=ku mokʉrʉ vunai
+#n siakʉrʉ 握把
+#n apakʉrʉ 使握著
+#a 950.02, None, 952.24
+
+497.
+.. una=pa sua,_
+EXIST=PTC NOM
+存在=助詞 主詞
+
+#a 952.24, None, 953.38
+
+498.
+... masi-tian=pa t<um>u-tu-tuturu kamua.\
+say-TIAN=PTC RED<AV>RED-tell 2PL.OBL
+說-TIAN(叮嚀)=助詞 重疊<主焦>重疊-告訴 2PL.斜格
+
+#e And one more, I keep telling you.
+#c 還有那個，一直叮嚀告訴你們。
+#n -tian 表叮嚀
+#n t<um>u-tu-tuturu 一再講述
+#a 953.38, None, 956.21
+
+499.
+... makasua kari=maku,\
+like.that word=1SG.GEN
+那樣 話=1SG.屬格
+
+#a 956.21, None, 958.03
+
+500.
+.. kamua.\
+2PL.OBL
+2PL.斜格
+
+#e My those words for you.
+#c 我那些給你們的話。
+#a 958.03, None, 958.65
+
+501.
+... sosomampe curu.\
+thank really
+感謝 的確
+
+#e Thanks a lot.
+#c 真的謝謝。
+#a 958.65, None, 960.36
+
+502.
+.. arasingsing-a.\
+bless-IMP.PV
+祝福-祈使.受焦
+
+#e Bless you.
+#c 祝福平安。
+#a 960.36, None, 961.32

@@ -1,0 +1,781 @@
+topic: pear_dungi
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 蔡宜庭, dungi, female, 1949-11-26
+collected: 2009-08-28
+revised: None
+video: skzyNr-pear_dungi.mp3
+
+1.
+...(0.8) ma-bilil kya babalaki mi-kayabes.\ 
+AF-earnest NOM.that old.man AF-guava
+主焦-認真 那個.主格 老人 主焦-番石榴
+
+#e That old man picked guavas earnestly.
+#c 那老人認真地摘番石榴。
+#n mi-kayabes指摘番石榴。
+#a 0.52, None, 3.35
+
+2.
+.. si-tukal=tu ciniza a mi-kayabes.\
+have-ladder=PFV 3SG..NOM LNK AF-guava
+有-梯子=完成貌 3SG.主格 連繫詞 主焦-番石榴
+
+#e He climbed up a ladder and picked guavas.
+#c 他爬上梯子摘番石榴。
+#n mikayabes指摘番石榴，根據發音者表示，si是「有；擁有」的意思，si-bili有肚子表示懷孕。
+#a 3.35, None, 5.92
+
+3.
+.. tu^sa===tu,\
+two=PFV
+二=完成貌
+
+#a 5.92, None, 7.23
+
+4.
+.. ku ma-tumes-ay a biluwa,_
+NOM AF-full-NMZ LNK basket
+主格 主焦-滿-名物化 連詞 簍
+
+#a 7.23, None, 9.12
+
+5.
+.. kuni kayabes-an niza.\
+NOM.this guava-AN 3SG..GEN 
+主格.這個 番石榴-AN 3SG..屬格
+
+#e Two baskets were full of guavas he picked.  
+#c 他摘的番石榴已經裝滿兩簍了。
+#n tumes「滿」亦可寫成tusa ku ma-tumes-ay tu a biluwa。
+#a 9.12, None, 10.81
+
+6.
+.. sa i tawya izaw kya tatama sa mi-kitin tuniyan u sizi,\
+DM PREP before EXIST NOM.that man DM AF-pull OBL.that.AN CN goat 
+DM 介系詞 之前 存在詞 主格.那個 男人 DM 主焦-牽 斜格.那個.AN CN 羊
+
+#a 10.81, None, 15.17
+
+7.
+.. a mi-caliw-ay i tiza.\
+LNK AF-pass-FAC PREP there
+連繫詞 主焦-經過-表事實 介系詞 那裡
+
+#e At that time, a man pulled a goat and passed by there.
+#c 那時候有一個男人牽著一隻羊經過那裡。
+#n mi-caliw「借」為阿美語，mi-caliw-ay表示「經過」。
+#a 15.17, None, 16.93
+
+8.
+... cay ka-tenes sa,\ 
+NEG KA-long DM
+否定詞 KA-久 DM
+
+#a 16.93, None, 18.31
+
+9.
+.. izaw tu kya==,\
+EXIST OBL NOM.that
+存在詞 斜格 主格.那個
+
+#a 18.31, None, 19.7
+
+10.
+.. tatama a wawa,_
+man LNK child
+男人 連繫詞 小孩
+
+#a 19.7, None, 21.01
+
+11.
+.. ma-ka-batikal mi-caliw-ay i tiza.\
+AF-KA-bicycle AF-pass-FAC PREP there
+主焦-KA-腳踏車 主焦-經過-表事實 介系詞 那裡
+
+#e Soon, there was a boy riding a bicycle and passing by there. 
+#c 不久有個男孩騎腳踏車經過那裡。
+#n cai= ca’ay
+#n maka-batikal mi-caliw-ay i tiza 亦可說成maka-batikal a mi-caliw-ay i tiza
+#n maka 加上交通工具有搭乘該種交通工具之意
+#a 21.01, None, 23.35
+
+12.
+.. ma-ka-zih ciniza tya==,\
+AF-ka-see 3SG.NOM OBL.that 
+主焦-KA-看到 3SG..主格 斜格.那個
+
+#a 23.35, None, 24.99
+
+13.
+.. kayabes sa.\
+guava DM
+番石榴 DM
+
+#e He saw those guavas.
+#c 他看到那些番石榴。
+#a 24.99, None, 25.77
+
+14.
+.. ma-satezep ciniza maydih ciniza,\
+AF-stop 3SG.NOM AF.want 3SG.NOM
+主焦-停 3SG.主格 主焦.想要 3SG.主格
+
+#a 25.77, None, 28.25
+
+15.
+.. a mi-kidem tya,\
+LNK AF-steal OBL.that
+連繫詞 主焦-偷 斜格.那個
+
+#a 28.25, None, 29.52
+
+16.
+.. kayabes.\
+guava
+番石榴
+
+#e He stopped and wanted to steal those guavas.
+#c 他停下來想偷那些番石榴。
+#a 29.52, None, 30.22
+
+17.
+... kidem han=tu niza ku cacay a biluwa.\
+steal HAN=PFV 3SG.GEN NOM one LNK basket
+偷 HAN=完成貌 3SG.屬格 主格 一個 連繫詞 簍
+
+#e He stole one basket.
+#c 他偷了一簍。
+#a 30.22, None, 32.78
+
+18.
+.. pazeng han niza,\
+put HAN 3SG.GEN
+放 HAN 3SG.屬格
+
+#a 32.78, None, 33.91
+
+19.
+.. i aayaw nu batikal niza tu a=mumul ciniza sa.\  
+PREP front GEN bicycle 3SG.GEN then FUT=walk 3SG.NOM DM
+介系詞 前面 屬格 腳踏車 3SG.屬格 然後 表未來=走 3SG.主格 DM
+
+#e He put it in front of the bicycle and walked away.
+#c 他就放在腳踏車前面，他就要走了。
+#n i aayaw 表示空間的前面，i ayaw 表示時間的前面。
+#a 33.91, None, 37.11
+
+20.
+... sa-kalamkam==,/
+SA-fast
+SA-快
+
+#a 37.11, None, 38.44
+
+21.
+.. sa ciniza,\
+DM 3SG.NOM
+DM 3SG.主格
+
+#a 38.44, None, 39.27
+
+22.
+.. a pa-culil tya batikal i zazan.\ 
+LNK CAU-walk OBL.that bicycle PREP road
+連繫詞 使動-走 斜格.那個 腳踏車 介系詞 路
+
+#e He rode a bicycle fast on a road.
+#c 他就在路上騎腳踏車，騎得很快。
+#a 39.27, None, 41.92
+
+23.
+.. sa ma-likeluh niza kya u tatayna a wawa,_
+DM AF-meet 3SG.GEN NOM.that CN woman LNK child
+DM 主焦-遇到 3SG.屬格 主格.那個 CN 女人 連繫詞 小孩
+
+#a 41.92, None, 45.0
+
+24.
+.. ma-ka-batikal-ay=tu.\
+AF-KA-bicycke-FAC=PFV
+主焦-KA-腳踏車-表事實=完成貌
+#e He met a girl who also rode a bicycle.
+#c 他遇到也是騎腳踏車的女孩。
+#a 45.0, None, 46.4
+
+25.
+.. azih sa kya tatama,\
+see DM NOM.that man 
+看 DM 主格.那個 男人
+
+#a 46.4, None, 48.14
+
+26.
+.. tya tatayna a wawa.\
+OBL.that woman LNK child
+斜格.那個 女人 連繫詞 小孩
+
+#e That boy stared at that girl.
+#c 那男孩一直看那女孩。
+#a 48.14, None, 49.78
+
+27.
+.. sama.\
+DM
+DM
+
+#a 49.78, None, 50.57
+
+28.
+... cay pi-azih tu aayaw-ay a zazan.\
+NEG PI-see OBL front-NMZ LNK road
+否定詞 PI-看 斜格 前面-名物化 連繫詞 路
+
+#e He did not see the front road.
+#c 他沒看前面的路。
+#a 50.57, None, 53.52
+
+29.
+.. sama,\
+DM
+DM
+
+#a 53.52, None, 54.42
+
+30.
+.. batelu=tu nu nu==niza,\
+hit=PFV GEN GEN 3SG.GEN
+撞=完成貌 屬格 屬格 3SG.屬格
+
+#a 54.42, None, 56.69
+
+31.
+.. kya== taba==ki-ay a ba’tu.\
+NOM.that big-NMZ LNK stone
+主格.那個 大-名物化 連繫詞 石頭
+
+#e He bumped into a very big stone.
+#c 他撞到了很大的石頭。
+#n batelu 亦可為 mabatelu
+#n tabakiay 很大的 tabaki大
+#a 56.69, None, 59.31
+
+32.
+.. ma-pulin ciniza,\
+AF-fall 3SG.NOM
+主焦-跌倒 3SG.主格
+
+#a 59.31, None, 60.73
+
+33.
+.. ma-wasuwas,\
+AF-scatter
+主焦-散落
+
+#a 60.73, None, 62.11
+
+34.
+.. a==min kya kayabes,\
+LNK all NOM.that guava
+連繫詞 全部 主格.那個 番石榴
+
+#a 62.11, None, 63.25
+
+35.
+.. i lala’ sa.\
+PREP land DM
+介系詞 土地 DM
+
+#e He fell down and all of the guavas scattered on the ground.
+#c 他跌倒，番石榴全部散落在地上。
+#a 63.25, None, 64.4
+
+36.
+.. i tawya,\
+PREP before
+介系詞 之前
+
+#a 64.4, None, 65.27
+
+37.
+.. yata izaw kya ta-tulu-ay a tatama,\
+YATA EXIST NOM.that CaRED-three-NMZ LNK man
+YATA 存在詞 主格.那個 Ca重疊-三-名物化 連繫詞 男人
+
+#a 65.27, None, 67.56
+
+38.
+.. mu-culil=tu ta-i tiza sa.\ 
+AF-walk=PFV go-PREP there DM
+主焦-走=完成貌 去-介系詞 那裡 DM
+
+#e At that time, there were three boys walking over there. 
+#c 那時候有三個男孩在那裡走。
+#a 67.56, None, 69.51
+
+39.
+.. sa-kalamkam-sa=tu kya ta-tulu-ay a wawa,_
+SA-fast-SA=PFV NOM.that CaRED-three-NMZ LNK man
+SA-快-SA=完成貌 主格.那個 Ca重疊-三-名物化 連繫詞 男人
+
+#a 69.51, None, 72.02
+
+40.
+.. tayza a mi-edap tya wawa-an,\
+go.there LNK AF-help OBL.that child-AN    
+去.那裡 連繫詞 主焦-幫忙 斜格.那個 小孩-AN
+
+#a 72.02, None, 74.34
+
+41.
+.. a mi-sapud tya kayabes a pa-tayza i tiza i biluwa.\
+LNK AF-pick.up OBL.that guava LNK CAU-go.there PREP there PREP basket
+連繫詞 主焦-撿 斜格.那個 番石榴 連繫詞 使動-去那裡 介系詞 那裡 介系詞 簍
+
+#e Those three boys hurried to help that kid to pick up guavas.
+#c 那三個男孩趕快過去幫那小孩撿番石榴。
+#a 74.34, None, 77.81
+
+42.
+.. sa kukay sa=tu kya,\ 
+say thank DM=PFV NOM.that
+說 謝謝 DM=完成貌 主格.那個
+
+#a 77.81, None, 79.8
+
+43.
+.. tatama a wawa.\
+man LNK child
+男人 連繫詞 小孩
+
+#e That boy thanked them.
+#c 那男孩謝謝他們。
+#a 79.8, None, 80.9
+
+44.
+... tu ma-ka-batikal aca ciniza a ta-luma’.\
+then AF-KA-bicycle and.then 3SG.NOM LNK go-home
+然後 主焦-KA-腳踏車 又 3SG.主格 連繫詞 去-家
+
+#e And he rode a bicycle home.
+#c 他之後騎腳踏車回家。
+#n luma 是家 ta-luma是回家。
+#a 80.9, None, 83.47
+
+45.
+... sa i tawya sa,\
+DM PREP before DM
+DM 介系詞 之前 DM
+
+#a 83.47, None, 84.97
+
+46.
+.. ya ta-tulu-ay ya mu-culil-ay a tatama a wawa sa,\
+that CaRED-three-NMZ that AF-walk-NMZ LNK man LNK child DM
+那個 Ca重疊-三-名物化 那個 主焦-走-名物化 連繫詞 男人 連詞 小孩 DM
+
+#a 84.97, None, 88.01
+
+47.
+.. mazih nuheni,\
+AF.see 3PL.GEN  
+主焦.看 3PL.屬格
+
+#a 88.01, None, 89.17
+
+48.
+.. kya ni-katawal-an nya wawa,_
+NOM.that NI-forget-AN GEN.that child  
+主格.那個 NI-忘記-AN 屬格.that 孩子
+
+#a 89.17, None, 91.51
+
+49.
+... am tuya u tupel nu niza sa.\
+AM OBL.that CN hat GEN 3SG.GEN DM
+AM 斜格.那個 CN 帽子 屬格 3SG.屬格 DM
+
+#e At that time, the three boys who were walking saw the hat that boy forgot to take. 
+#c 那時候正在走路的三個男孩看到那男孩忘記的帽子。
+#n matawal 忘記。
+#a 91.51, None, 94.03
+
+50.
+.. syusyu han=tu,\
+whistle HAN=PFV
+口哨 HAN=完成貌
+
+#a 94.03, None, 95.99
+
+51.
+.. nya wa nya mu-culil-ay a wawa.\
+GEN.3SG WA GEN.that AF-walk-NMZ LNK child     
+屬格.3SG WA 屬格.那個 主焦-走路-名物化 連繫詞 小孩
+
+#e That child who was walking whistled.
+#c 那在走路的小孩吹口哨。
+#n syusyu 為擬聲詞。
+#a 95.99, None, 97.66
+
+52.
+.. sa ma-satezep kiza==,\
+DM AF-stop NOM.that     
+DM 主焦-停 主格.那個
+
+#a 97.66, None, 99.58
+
+53.
+... kiza==,\
+NOM.that 
+主格.那個
+
+#a 99.58, None, 100.52
+
+54.
+.. ma-ka-batikal-ay a wawa sa.\
+AF-KA-bicycle-NMZ LNK child DM
+主焦-KA腳踏車-名物化 連繫詞 小孩 DM
+
+#e That boy who rode a bicycle stopped.
+#c 那騎腳踏車的小孩停下來。
+#a 100.52, None, 102.22
+
+55.
+.. ala han=tu,\
+take HAN=PFV
+拿 HAN=完成貌
+
+#a 102.22, None, 103.38
+
+56.
+.. nya wawa ku cacay ku tupel a panukas tiza ma-ka-batikal-ay a wawa.\ 
+GEN.3SG child NOM one NOM hat LNK return there AF-KA-bicycle-NMZ LNK child
+屬格.3SG 小孩 主格 一個 主格 帽子 連繫詞 歸還 那裡 主焦-KA-腳踏車-名物化 連繫詞 小孩
+
+#e That boy returned the hat to the boy who rode a bicycle.
+#c 那個男孩就拿著帽子還給騎車的男孩。
+#n ku cacai根據發音者在此為語誤。
+mi-panukas ciniza tu cudad. (他去還書)
+panukas ciniza tu cudad. (他還書)
+#a 103.38, None, 108.54
+
+57.
+.. sa=tu pa-dala han=tu niza.\
+SA=PFV CAU-go HAN=PFV 3SG.GEN
+SA=完成貌 使動-去 HAN=完成貌 3SG.屬格
+
+#e He took it to there. 
+#c 他就拿過去。
+#n dala 是阿美語，義同sakizaya 的 tayza 「去」。
+#a 108.54, None, 110.35
+
+58.
+.. sa mi-kukay kya maka-batikal-ay a wawa,\
+say AF-thank NOM.that AF-KA-bicycle-NMZ LNK child
+說 主焦-謝謝 主格.那個 主焦-KA-腳踏車-名物化 連繫詞 小孩
+
+#a 110.35, None, 113.05
+
+59.
+... i cinizaan sa.\
+PREP 3SG.OBL DM
+介系詞 3SG.斜格 DM
+
+#e The child who rode a bicycle thanked him.
+#c 那騎腳踏車的小孩謝謝他。
+#a 113.05, None, 114.45
+
+60.
+...(0.7) sa pabeli han niza tu tulu-ay a kayabes ciniza.\
+DM give HAN 3SG.GEN OBL three-NMZ LNK guava 3SG.NOM
+DM 給 HAN 3SG.屬格 斜格 三-名物化 連繫詞 番石榴 3SG.主格
+
+#e He gave him three guavas.
+#c 他給他三個番石榴。
+#a 114.45, None, 118.07
+
+61.
+.. ci male cacay kamu a ta-tulu,\
+CI every one 2PL.NOM LNK CaRED-three
+CI 每 一個 2PL.主格 連繫詞 Ca重疊-三
+
+#a 118.07, None, 120.05
+
+62.
+.. han niza.\
+be.said 3SG.GEN
+被說 3SG.屬格
+
+#e He said everyone had one pomegranate.
+#c 他說你們三個人一人一個。
+#n male cacay 亦可指團結。
+#a 120.05, None, 120.82
+
+63.
+.. kukay han=tu ni kukay sa ku balucu’ nya,\   
+thank HAN=PFV GEN thank say NOM heart GEN.that
+謝謝 HAN=完成貌 屬格 謝謝 說 主格 心 屬格.那個
+
+#a 120.82, None, 123.59
+
+64.
+.. ma-ka-batikal-ay a wawa,_
+AF-KA-bicycle-NMZ LNK child
+主焦-KA-腳踏車-名物化 連繫詞 小孩
+
+#a 123.59, None, 125.16
+
+65.
+.. tu a=mumul ciniza.\
+then FUT=walk 3SG.NOM
+然後 表未來=走 3SG.主格
+
+#e The child who rode a bicycle thanked him and walked away.
+#c 騎車的小孩心裡很感謝，他就走了。
+#a 125.16, None, 126.57
+
+66.
+.. ya mu-culil-ay a ta-tulu-ay a wawa sa,\
+that AF-walk-NMZ LNK CaRED-three-NMZ LNK child TOP
+那個 主焦-走-名物化 連繫詞 Ca重疊-三-NMZ 連繫詞 小孩 主題
+
+#a 126.57, None, 128.79
+
+67.
+.. sa.\
+DM
+DM
+
+#a 128.79, None, 129.35
+
+68.
+.. kan han=tu nu heni kya kayabes a mu-culil=tu sa.\ 
+eat HAN=PFV GEN 3PL.POSS NOM.that guava LNK AF-walk=PFV DM
+吃 HAN=完成貌 屬格 3PL.所有格 主格.那個 番石榴 連繫詞 主焦-走=完成貌 DM
+
+#e The three children who were walking had eaten guavas and walked away.
+#c 那三個走路的小孩吃了番石榴，然後走了。
+#n mukan tu muculil tu 邊吃邊走。
+#a 129.35, None, 132.3
+
+69.
+... a=mi-caliw-ay kuheni tya==,\
+FUT=AF-pass-NMZ 3PL.NOM OBL.that
+表未來=主焦-經過-名物化 3PL.主格 斜格.那個
+
+#a 132.3, None, 134.49
+
+70.
+.. babalaki i tiza-ay sa.\
+elder.people PREP there-FAC DM
+老人 介系詞 那裡-表事實 DM
+
+#e Three people who were walking passed the place where the old man was.
+#c 走路的那三個人要經過那老人那裡。
+#a 134.49, None, 136.17
+
+71.
+... ya babalaki han=tu sa,\ 
+that older.people HAN=PFV DM
+那個 老人 HAN=完成貌 DM
+
+#a 136.17, None, 137.61
+
+72.
+... ma== mu-debu=tu ciniza,\ 
+MA AF-descend=PFV 3SG.NOM
+MA 主焦-下來=完成貌 3SG.主格
+
+#a 137.61, None, 139.69
+
+73.
+.. i kilang sa.\ 
+PREP tree DM
+介系詞 樹 DM
+
+#e The old man climbed down a tree.
+#c 老人從樹下來。
+#a 139.69, None, 140.85
+
+74.
+... azih-sa ciniza ma-tawid ciniza.\
+see-SA 3SG.NOM AF-shock 3SG.NOM
+看-SA 3SG.主格 主焦-驚訝 3SG.主格
+
+#e He saw and shocked.
+#c 他看了很驚訝。
+#n sa在這不可刪，故不標做DM。根據發音者，azih ciniza不合語法，若要刪除SA 則需說mi-azih ciniza。
+#a 140.85, None, 143.17
+
+75.
+.. na=tulu kyami kina biluwa aku.\
+PAST=three Q NOM.this basket 1SG.GEN
+表過去=三 疑問 主格.這個 簍 1SG.屬格
+
+#e I had three baskets, didn’t I?
+#c 我不是有三個簍嗎?
+#n tulu ku biluwa aku 我有三簍。
+#n na tulu ku biluwa aku 我曾有三簍，可是現在沒有。
+#n na…kyami 為常用句型表示不是…吧？ 
+#n na mabecol tu ciniza kyami 他不是吃飽了嗎?
+#n kyami 亦可放在句尾。
+#a 143.17, None, 145.32
+
+76.
+.. na=tusa=tu kina ma--,\ 
+PAST=two=PFV NOM.this MA--
+表過去=二=完成貌 主格.這個 MA--
+
+#a 145.32, None, 146.71
+
+77.
+.. ma-tumes-ay.\
+AF-full-NMZ
+主焦-滿-名物化
+
+#e There were two baskets which were full.
+#c 已經有兩個裝滿了。
+#a 146.71, None, 147.87
+
+78.
+.. inayay=tu ku cacay tusa tu ayza.\ 
+NEG=PFV NOM one two OBL now
+否定詞=完成貌 主格 一 二 斜格 現在
+
+#e One basket disappeared and there were two baskets now.
+#c 一簍不見了，現在剩下二簍。
+#a 147.87, None, 150.23
+
+79.
+.. cacay=tu kina ma-tumes-ay,\
+one=PFV NOM.this AF-full-NMZ
+一=完成貌 主格.這個 主焦-滿-名物化
+
+#a 150.23, None, 151.94
+
+80.
+.. a biluwa sa sa,_ 
+LNK basket DM say
+連繫詞 簍 DM 說
+
+#a 151.94, None, 153.51
+
+81.
+.. sa=tu ciniza.\
+SA=PFV 3SG.NOM
+SA=完成貌 3SG.主格
+
+#e He thought that only one basket was full.
+#c 他想裝滿的只有一簍。
+#a 153.51, None, 154.48
+
+82.
+.. sa ma-hica hakya sa cingza.\ 
+say AF-how Q say 3SG.NOM
+說 主焦-怎樣 疑問 說 3SG.主格
+
+#e How does it happen? (He wonders)
+#c 他想為什麼會這樣呢。
+#n kya mahini 為什麼這樣。
+#a 154.48, None, 156.09
+
+83.
+.. i tawya sa,\
+PREP before DM
+介系詞 之前 DM
+
+#a 156.09, None, 156.96
+
+84.
+.. ya ta-tuluw-ay a mu-culil-ay a wawa mi-caliw-ay i tiza.\  
+that CaRED-three-NMZ LNK AF-walk-NMZ LNK child AF-pass-FAC PREP there
+那個 Ca重疊-三-名物化 連繫詞 主焦-走-名物化 連繫詞 小孩 主焦-經過-表事實 介系詞 那裡
+
+#e At that time, the three children who were walking passed there.
+#c 那時候那走路的三個小孩經過那裡。
+#a 156.96, None, 160.06
+
+85.
+... i lima nu heni sa,\
+PREP hand GEN 3PL.POSS DM
+介系詞 手 屬格 3PL.所有格 DM
+
+#a 160.06, None, 161.78
+
+86.
+.. izaw henay ku liwan,\
+EXIST still NOM remain
+存在詞 還 主格 剩下
+
+#a 161.78, None, 163.17
+
+87.
+.. nu ni-kan-an tya kayabes sa,\
+GEN NI-eat-AN OBL.that guava DM
+屬格 NI-吃-AN 斜格.那個 番石榴 DM
+
+#a 163.17, None, 164.84
+
+88.
+.. mazih nya babalaki sa.\
+AF.see GEN.that old.man DM
+主焦.看 屬格.那個 老人 DM
+
+#e That old man saw the leftover of the guava in their hands. 
+#c 那老人看到他們手上還有吃剩的番石榴。
+#n nuni-taes-an niza kya wawa 那小孩被他打。
+#n IU 87 的 nu 可代換成nya。
+#a 164.84, None, 166.12
+
+89.
+.. na=atiwawa tu,\
+PAST=children TOP
+表過去=小孩 主題
+
+#a 166.12, None, 167.2
+
+90.
+.. ku mi-kidem-ay,\  
+NOM AF-steal-NMZ
+主格 主焦-偷-名物化
+
+#a 167.2, None, 168.65
+
+91.
+.. tu kayabes aku.\
+OBL guava 1SG.GEN
+斜格 番石榴 1SG.屬格
+
+#e (He thought) it is those children who stole my guavas.
+#c (他想) 就是那孩子們偷了我的番石榴。
+#a 168.65, None, 169.56
+
+92.
+.. a cima henaca kya haw?\
+FIL who still Q Q 
+FIL 誰 還 疑問 疑問
+
+#e Who else?
+#c 還有誰呢?
+#n henaca 為 henay aca 的縮寫。
+#n kya haw 為強調用法 。
+#a 169.56, None, 170.8
+
+93.
+.. sa=tu,\
+DM=PFV
+DM=完成貌
+
+#a 170.8, None, 171.95
+
+94.
+.. ku balucu’ niza a mi-zateng.\
+NOM heart 3SG.GEN LNK AF-think
+主格 心 3SG.屬格 連詞 主焦-想
+
+#e He thought who else?
+#c 他心想還有誰呢?
+#n ca’ay kazateng niza ciniza (他沒想到) 思考。
+#n ca’ay kapizateng ciniza i cinizaan (他從來不想) 思考。
+#n ca’ay pizateng ciniza i cinizaan (他不想) 思考。
+#a 171.95, None, 173.51

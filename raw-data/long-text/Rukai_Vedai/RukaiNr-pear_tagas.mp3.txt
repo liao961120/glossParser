@@ -1,0 +1,343 @@
+topic: Pear Story
+type: Narrative
+language: 魯凱語, Rukai, Vedai
+speaker: 沙本賞, Tagas, male, 1938-05-10
+collected: 2010-01-15
+revised: None
+video: RukaiNr-pear_tagas.mp3
+
+1.
+yakai kudra tangea kudra tatama,\
+EXIST that one that old.man
+存在 那個 一位 那個 老先生
+
+#a 3.99, None, 6.01
+
+2.
+la ki-kamadha-madha,\
+DM pick-mango-RED
+DM 摘-芒果-重疊
+
+#a 6.01, None, 7.09
+
+3.
+la parakai ki karadrare.\
+DM use OBL bamboo.basket
+DM 用 OBL 竹籃子
+
+#e There was a old man picking up mangos with bamboo baskets.
+#c 有一位老先生在用竹籃子摘芒果。
+#n tutumu 老爺爺 ； tatama 老爸爸/老先生
+#a 7.09, None, 9.98
+
+4.
+kai-ngana-nganai ku,_
+come
+來了
+
+#a 9.98, None, 13.44
+
+5.
+tangea ku vavalake,_
+one child
+一位 小孩
+
+#a 13.44, None, 15.08
+
+6.
+ngu cidinsya,\
+ride bike
+騎 單車
+
+#a 15.08, None, 17.09
+
+7.
+alra  kupa  kuini_  
+take steal that 
+拿  偷 那個
+
+#a 17.09, None, 19.39
+
+8.
+aku-vaeva  kuini  karadrare  si  katuase.\ 
+AKU-one that bamboo.basket CONJ leave
+其中一個 那個  竹籃子  連接詞  離開
+
+#e There came a child riding on a bike and he stole one of the baskets and left.
+#c 來了一個騎單車的小孩，偷了其中一個籃子就離開了。
+#n 自行車又作palridingi，文中的cidinsya為日文借字；騎單車也作mua-lrigilrigilri，這種說法較文中說法常用
+#a 19.39, None, 20.46
+
+9.
+la  ulebe kuini,_
+DM come.down that
+DM 下來 那個
+
+#a 20.46, None, 23.44
+
+10.
+lasu  si drele si,/
+male CONJ look DM
+男生 連接詞 看 DM
+
+#a 23.44, None, 25.63
+
+11.
+anau mua-kalra 
+did.I.not take-many 
+我不是 拿-多
+
+#a 25.63, None, 27.67
+
+12.
+kudra kamadha-li a-inu kudra aku-vaeva kudra karadrare  laiya.\
+that mango-1 at-where that one.of.them that bamboo.basket DM
+那個 芒果-我  在-哪裡  那個 其中一個 那個 竹籃子 DM
+
+#e The old man came down and looked, thinking, ‘didn’t I pick a lot of mangos? Where is one of them?’ 
+#c 那個老先生就下來看，（想說）我不是拿了很多芒果，其中一籃在哪裡？
+#a 27.67, None, 30.09
+
+13.
+kuini vavalake kuini kuaupa yaye,\
+that child that steal DM 
+那個 小孩 那個 偷了 DM
+
+#a 30.09, None, 33.23
+
+14.
+la katuatuase,_
+DM leave
+DM 離開
+
+#a 33.23, None, 35.19
+
+15.
+mapa pungu-pungu ku,_
+REC crash-RED 
+交互 撞-重疊
+
+#a 35.19, None, 37.2
+
+16.
+ta-ngea ku ababai ku mialri ngu cidinsya-sya./
+TA-one girl also ride bike-RED 
+TA-一 女生 也是 騎 單車-重疊  
+ 
+#e The child who stole left and ran into a girl also riding on a bike.
+#c 那個偷東西的小孩呢就離開，和一個也在騎單車的女生撞在一起。
+#n ngea一；sauvalai 男生 ; cidinsya-sya 表正在騎單車
+#a 37.2, None, 39.87
+
+17.
+la ngisarade kuini kamadha\  
+DM scatter that mango  
+DM 散 那個 芒果
+
+#a 39.87, None, 42.77
+
+18.
+ka kadaranane si.\ 
+on.the.road DM
+馬路上 DM
+
+#e The mangos were scattered all over the road.
+#c 芒果就撒在馬路上。
+#n cakena 地上
+#a 42.77, None, 44.26
+
+19.
+kai-ngana-nganai ku ta-tulru ku la-malalala,\
+come  TA-three PL-male
+來了 TA-三位 複數-男士
+
+#a 44.26, None, 47.5
+
+20.
+la pa-rarubu siludu.\
+DM PA-help pick.up
+DM PA-幫忙 撿起來
+
+#e There came three men and helped picking up (the mangos).
+#c 來了三位男士，就幫忙撿起來。
+#n lamaliali 女性朋友（複數）；la-ma-ali 兩個女性朋友 ali表女性朋友；la-ma-taka兄弟姊妹
+#a 47.5, None, 49.83
+
+21.
+si,_
+DM
+DM
+
+#a 49.83, None, 51.3
+
+22.
+la-malra sa-va-vaeva kudra kamadha si.\
+LA-take SA-RED-one that mango DM
+LA-拿 SA-重疊-一 那個 芒果 DM
+
+#e Each one of them picked one.
+#c 一人撿一個芒果。
+#n savavaeva 表一人一個；sadradrusa 表一人兩個，依此類推。
+#a 51.3, None, 54.19
+
+23.
+lae ka-tua-tuase malalala si taku-kane-kane.\
+then KA-RED-leave male CONJ while-RED-eat
+然後 KA-重疊-離開 男士 連接詞 一面-重疊-吃
+
+#e Then those men were eating (the mangos) while they were leaving.
+#c 然後那些男士們就一面走一面吃。
+#n katuase 離開 katuatuase表正在進行
+#a 54.19, None, 57.87
+
+24.
+sae,_
+when
+當
+
+#a 57.87, None, 60.09
+
+24.
+sae,_
+when
+當
+
+#a 57.87, None, 60.09
+
+26.
+si\  
+CONJ
+連接詞
+
+#a 61.85, None, 62.95
+
+27.
+lriba-lribate kuini ki-_ 
+RED-pass.by that pick.up 
+重疊-經過 那個 採
+
+#a 62.95, None, 64.25
+
+28.
+-kia kamadha-madha kuini lasu.\ 
+pick.up mango-RED that male
+採 芒果-重疊 那個 男生
+
+#e When they left, they passed by the man who was picking mangos.
+#c 當離開時，就經過了採芒果的男生。
+#a 64.25, None, 65.9
+
+29.
+la drele kuini tatama si,\
+DM look that old.man DM
+DM 看 那個 老先生 DM
+
+#a 65.9, None, 68.26
+
+30.
+alau amaani kikai la-lasu kuini wamalra kuini kamadha-li_ 
+probably it.is.exactly this male that take that mango-1SG
+可能 就是 這個 男生 拿了 芒果-1SG
+
+#a 68.26, None, 71.54
+
+31.
+aiya.\ 
+DM 
+DM
+
+#e The old man looked (at them) and said maybe they were the ones who took my mango.
+#c 老先生看了就說，可能是那幾個男生拿了我的芒果。
+#a 71.54, None, 72.06
+
+32.
+la drele si la kadrua ku iluku-lini ku la-manemane si,\
+DM look CONJ DM not bring-3PL PL-object DM
+DM 看 連接詞 DM 沒有 帶-3PL 複數-東西 DM
+
+#a 72.06, None, 76.51
+
+33.
+la ka-valringivingi,\
+DM KA-disappoint
+DM KA-失望
+
+#a 76.51, None, 78.87
+
+34.
+kuini tangi-mia-mia kuini yaiye,\
+that happen-RED-like that DM
+那個 發生-重疊-像 那個 DM
+
+#a 78.87, None, 83.24
+
+35.
+kuini tatama yaiye,\
+that old.man DM
+那個 老先生 DM
+
+#a 83.24, None, 86.55
+
+36.
+kiarimu ka-valringivingi kuini ki,_
+then KA-disappoint that
+就 KA-失望 那個
+
+#a 86.55, None, 90.32
+
+37.
+eh lama_
+DM male.friend 
+DM 男性朋友
+
+#a 90.32, None, 92.87
+
+38.
+kuini ta-tulru kuini la-malala si.\ 
+that TA-three that PL-male.friend DM
+那個 TA-三位 那個 複數-男性朋友 DM
+
+#e But the old man was disappointed, seeing that the three men didn’t carry anything.
+#c 看那三位男生沒帶東西，老先生就很失望。
+#n IU32: manemane 表示“什麼”或是“東西”的意思；IU33: valringivingi 表示依依不捨或是失望IU34: mia 像 tangi 發生 ，tangimiamia表示就像現在的狀況
+#a 92.87, None, 94.52
+
+39.
+alaka yakai alaka yakai ku tangea ku vavalake ku kuaupa.\
+turn.out EXIST turn.out EXIST one  child  steal
+原來 存在 原來 存在 一位 小孩 偷
+
+#e It turned out that a child stole it.
+#c 原來有一個小孩偷了。
+#a 94.52, None, 98.84
+
+40.
+mia kuini ka taka-umaus-ane,\ 
+like that TAKA-human-1PL
+像 那個 TAKA-人-1PL
+
+#a 98.84, None, 101.72
+
+41.
+lukai-ta drele,_ 
+-1PL  look
+如果沒有-1PL 看
+
+#a 101.72, None, 103.85
+
+42.
+pudria-dringai yaiye,\
+clearly DM
+清楚
+
+#a 103.85, None, 105.16
+
+43.
+lukasi amaani amia-ta ka-ra-ravale kuini ki uma-umase.\
+perhaps this say.so-1PL KA-RED-doubt that -human
+或許 這個 這樣說-1PL KA-重疊-懷疑 那個 -人
+
+#e When we are not seeing things carefully, we usually would mistake others (for something they didn’t do).
+#c 我們如果沒有看清楚時，常常就會懷疑/誤會別人。
+#n umaus 人；dringai 表好 / 健康
+#a 105.16, None, 108.92

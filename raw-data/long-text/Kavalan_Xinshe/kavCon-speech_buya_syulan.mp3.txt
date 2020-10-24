@@ -1,0 +1,2087 @@
+topic: Kavalan Speech Contest
+type: Conversation
+language: 噶瑪蘭語, Kavalan, Xinshe (新社)
+speaker: 謝潘秀蘭, Syulan, female, 1957-01-01
+collected: 2003-06-01
+revised: 2014-1-14
+video: kavCon-speech_buya_syulan.mp3
+
+1.
+B: tangi  sin-sanu=pa=imi   tu==,\
+.  today  REC-talk=FUT=1EPL.NOM  OBL
+. 今天   交互-談=未來=1EPL.主格  斜格
+
+#a 14.15, None, None
+
+2.
+.. zana==,_
+3SG.POSS
+3SG.所有格
+
+#a None, None, 16.98
+
+3.
+…(1.1) iza,_
+ something
+ 某事
+
+#a 16.98, None, 18.75
+
+4.
+…(1.6) zana,\
+ 3SG.POSS
+ 3SG.所有格
+
+#a 18.75, None, 20.78
+
+5.
+.. tazian=ay,\
+here=REL
+這裡=關係詞
+
+#a 20.78, None, 21.82
+
+6.
+…(1.9) sa-lalikil-an,\
+ FUT-harvest.festival-NMZ
+ 未來-豐年祭-名物化
+
+#a 21.82, None, 24.59
+
+7.
+.. zin-ku,_
+say-1SG.GEN
+說-1SG.屬格
+
+#a 24.59, None, 25.18
+
+8.
+.. nani.\
+DM
+DM
+
+#e Today let’s talk about the Harvest Festival held here.
+#c 我想我們今天來談談那個…這裡的豐年祭活動。
+#a 25.18, None, 25.65
+
+9.
+…(1.1) ngayaw  na,\
+ before   GEN
+ 之前    屬格
+
+#a 25.65, None, 27.5
+
+10.
+.. yau=pama      sa==,_
+EXIST=still     FUT
+存在=還      未來
+
+#a 27.5, None, 28.88
+
+11.
+…(4.2) sa==-,\
+ FUT-
+ 未來-
+
+#a 28.88, None, 33.53
+
+12.
+.. <L2MbisayL2M>-an  atu   iza    kwa,_
+contest-NMZ      and  something  PART
+比賽-名物化     和   某事      語助詞
+
+#a 33.53, None, 35.0
+
+13.
+.. tu    sa-sikawma-an     na,\
+OBL   FUT-speak-NMZ   GEN
+斜格   未來-講-名物化   屬格
+
+#a 35.0, None, 36.17
+
+14.
+S: [kizaya].\
+. Amis
+. 阿美族
+
+#a 36.17, None, 37.0
+
+15.
+B: [zata=ay],\
+. 1IPL.POSS=REL
+. 1IPL.所有格=關係詞
+
+#a 37.0, None, 37.12
+
+16.
+.. zata=ay,\
+1IPL.POSS=REL
+1IPL.所有格=關係詞
+
+#a 37.12, None, 38.64
+
+17.
+.. sikawma-an
+speak-NMZ
+講-名物化
+
+#a 38.64, None, 39.53
+
+18.
+.. zin-ku        nani.\
+say-1SG.GEN  DM
+說-1SG.屬格  DM
+
+#e Before that (festival), there will be a speech contest of our mother tongue.
+#c 在那(豐年祭)之前還有母語演講比賽。
+#n Literal translation: 在那之前還有我們的話的演講比賽。
+#a 39.53, None, 40.04
+
+19.
+… aisu,\
+ 2SG.NOM
+ 2SG.主格
+
+#a 40.04, None, 41.04
+
+20.
+…(1.6) <L2MbawminL2M>-an-ku=isu  siRab   nani.\
+ sign.up-LF-1SG.GEN=2SG.NOM   yesterday  DM
+ 報名-處焦-1SG.屬格=2SG.主格    昨天   DM
+
+#e I have signed you up (for the contest) yesterday.
+#c 我昨天幫妳報名了。
+#a 41.04, None, 44.05
+
+21.
+…(1.4) azu==,\
+ if
+ 如果
+
+#a 44.05, None, 46.75
+
+22.
+… yau    ni==,_
+ EXIST    FS
+ 存在     FS
+
+#a 46.75, None, 48.19
+
+23.
+…(1.1) ninu  sa-iza-an          sa,\
+ what  FUT-do.something-NMZ  FS
+ 什麼  未來-做某事-名物化      FS
+
+#a 48.19, None, 50.44
+
+24.
+.. s==    sanu-an-su==,_
+FS  say-LF-2SG.GEN
+FS  說-處焦-2SG.屬格
+
+#a 50.44, None, 52.18
+
+25.
+… ma  qa-supaR-an-su          si.\
+ FS  FUT-know-NMZ-2SG.GEN    COND
+ FS  未來-知道-名物化-2SG.屬格   條件詞
+
+#e If there is something you want to tell or (something) you know,
+#c 如果妳有什麼要講的或知道的，
+#a 52.18, None, 53.84
+
+26.
+…(1.7) sin-sanu  iza,\
+ REC-talk  something
+ 交互-談  某事
+
+#a 53.84, None, 56.37
+
+27.
+.. eh   sin-sanu=pa=ita   tazian    ya,_
+FIL  REC-tell=FUT=1IPL.NOM   here   PART
+FIL  交互-告訴=未來=1IPL.主格   這裡  語助詞
+
+#a 56.37, None, 58.01
+
+28.
+… <L2MliaotianL2M>-a-kita   si.\
+ chat-NAF-1IPL.GEN    COND
+ 聊天-非主焦-1IPL.屬格   條件詞
+
+#e We can talk about it here.
+#c 我們就在這裡用聊天的方式談一談。
+#a 58.01, None, 59.51
+
+29.
+…(1.8) azu==,\
+ if
+ 如果
+
+#a 59.51, None, 62.25
+
+30.
+.. yau   s  Rayngu-an-ku          si.\
+EXIST  FS  not.know-LF-1SG.GEN  COND
+存在   FS  不知道-處焦-1SG.屬格   條件詞
+
+#e If there is something I don’t know,
+#c 如果我有不懂的地方，
+#a 62.25, None, 63.53
+
+31.
+…(0.7) qawman,\
+ certainly
+ 當然
+
+#a 63.53, None, 64.78
+
+32.
+… ipil=iku   qa  tu  zata=ay   tu   kitut  zin-ku.\
+ hear=1SG.NOM  FS OBL  1IPL.POSS=REL  OBL  small  say-1SG.GEN
+ 聽=1SG.主格   FS  斜格  1IPL.所有格=關係詞  斜格  小  說-1SG.屬格
+
+#e Of course I will at least listen to (consult) our (language).
+#c 當然，至少我還會去聽(去請教)我們的(話)。
+#a 64.78, None, 67.05
+
+33.
+S: o,_
+. BC
+. BC
+
+#a 67.05, None, 67.88
+
+34.
+…(1.1) mwaza=ti  Rayngu-an-ku           qaya,\
+ many.NHUM=PFV  not.know-NMZ-1SG.GEN   also
+ 多.NHUM=完成   不知道-名物化-1SG.屬格  也
+
+#a 67.88, None, 70.83
+
+35.
+.. tu  sikawma-an  nani,_
+OBL  speak-NMZ   DM
+斜格  講-名物化   DM
+
+#e There are many words that I don’t know.
+#c 我不了解的話太多了，
+#a 70.83, None, 71.96
+
+36.
+.. (H) eh==,\
+. FIL
+. FIL
+
+#a 71.96, None, 73.4
+
+37.
+.. nianu  sa==-,\
+what   FUT-
+什麼   未來-
+
+#a 73.4, None, 74.38
+
+38.
+.. iza-an          u,_
+do.something-NMZ  or
+某事-名物化      或
+
+#a 74.38, None, 74.87
+
+39.
+…(1.6) sa-sikawma-an-ku      tu==,\
+ FUT-speak-NMZ-1SG.GEN  OBL
+ 未來-講-名物化-1SG.屬格  斜格
+
+#a 74.87, None, 77.88
+
+40.
+.. zana==,\
+3SG.POSS
+3SG.所有格
+
+#e What should I say?
+#c 我要講什麼呢?
+#a 77.88, None, 78.62
+
+41.
+… e==,_
+ FIL
+ FIL
+
+#a 78.62, None, 79.51
+
+42.
+B: [zana  kebalan],\
+. 3SG.POSS    Kavalan
+. 3SG.所有格   噶瑪蘭
+
+#e (Say) something about Kavalan.
+#c (講)噶瑪蘭的事。
+#a 79.51, None, 82.41
+
+43.
+S: [lalikil],\
+. harvest.festival
+. 豐年祭
+
+#a 82.41, None, 82.57
+
+44.
+B: [lalikil],_
+. harvest.festival
+. 豐年祭
+
+#a 82.57, None, 83.3
+
+45.
+S: [e  la  lalikil]      zin-ku      ngid-an-ku==,_
+. FIL  FS   harvest.festival  say-1SG.GEN  want-LF-1SG.GEN
+. FIL  FS   豐年祭        說-1SG.屬格  想要-處焦-1SG.屬格
+
+#a 83.3, None, 83.32
+
+46.
+.. sikawma  tu    [zana]  lalikil,\
+speak   OBL    3SG.POSS  harvest.festival
+講      斜格   3SG.所有格  豐年祭
+
+#e Harvest Festival, I think I want to talk about the Harvest Festival.
+#c 豐年祭，我想要講的是豐年祭的事。
+#a 83.32, None, 85.34
+
+47.
+B: [m],\
+. BC
+. BC
+
+#a 85.34, None, 85.94
+
+48.
+S: [zin-ku=ay],_
+. say-1SG.GEN=REL
+. 說-1SG.屬格=關係詞
+
+#a 85.94, None, 86.78
+
+49.
+B: [eN],_
+. BC
+. BC
+
+#a 86.78, None, 87.04
+
+50.
+S: kasianem=iku   nani,\
+. think=1SG.NOM   DM
+. 想=1SG.主格      DM
+
+#a 87.04, None, 88.77
+
+51.
+… lalikil           nani==,\
+ harvest.festival    DM
+ 豐年祭           DM
+
+#a 88.77, None, 90.91
+
+52.
+.. m==,_
+FIL
+FIL
+
+#a 90.91, None, 91.5
+
+53.
+…(0.9) astaR   auN,\
+ same    ??
+ 一樣    ??
+
+#a 91.5, None, 93.03
+
+54.
+.. zuma    zana  tay  zana==,\
+different  3SG.POSS  FS   3SG.POSS
+不一樣   3SG.所有格   FS  3SG.所有格
+
+#a 93.03, None, 94.54
+
+55.
+.. zata=ay    ta==zian  zin-ku.\
+1IPL.POSS=REL   here     say-1SG.GEN
+1IPL.所有格=關係詞  這裡     說-1SG.屬格
+
+#e I think our Harvest Festival here (in Taipei) is different.
+#c 我想我們這裡的豐年祭好像不太一樣.
+#n 指台北的豐年祭和故鄉的不一樣。
+#n astaR zuma連用和zuma的意思相同，都指「不一樣」。
+#a 94.54, None, 96.37
+
+56.
+.. zuma   zata=ay            ta-,\
+different  1IPL.POSS=REL    LOC-
+不一樣   1IPL.所有格=關係詞  處格-
+
+#a 96.37, None, 97.57
+
+57.
+…(0.9) pateRungan  zin-ku       kya,_
+ Xinshe      say-1SG.GEN     PART
+ 新社   說-1SG.屬格     語助詞
+
+#e I think our (Harvest Festival) in Xinshe is different.
+#c (和)我們新社部落的(豐年祭)不一樣。
+#a 97.57, None, 99.8
+
+58.
+B: nayau    sayzi   [nani==],\
+. that.way   exactly  DM
+. 那樣     就是   DM
+
+#e Exactly so.
+#c 就是那樣。
+#a 99.8, None, 99.98
+
+59.
+S: [pa  payanay=pa]  zinim-an-ku,\
+. FS  toward=FUT   find-LF-1SG.GEN
+. FS  往=未來      找-處焦-1SG.屬格
+
+#n 講太快了，謝老師說應該是 pasani=pa kilim-an-ku
+#a 99.98, None, 100.77
+#n 講太快了，謝老師說應該是 pasani=pa kilim-an-ku
+
+60.
+.. tazian  ta,\
+here     FS
+這裡    FS
+
+#a 100.77, None, 103.0
+
+61.
+.. sanu-an-ku         ta,\
+say-LF-1SG.GEN   FS
+說-處焦-1SG.屬格  FS
+
+#a 103.0, None, 103.7
+
+62.
+.. ta  zana,\
+FS   3SG.POSS
+FS   3SG.所有格
+
+#a 103.7, None, 104.25
+
+63.
+.. zata         tazian   u==,/
+1IPL.POSS    here    or
+1IPL.所有格   這裡  或
+
+#a 104.25, None, 105.31
+
+64.
+.. zana        baqi-an   zin-ku,/
+3SG.POSS    elder-AN   say-1SG.GEN
+3SG.所有格   老人-AN   說-1SG.屬格
+
+#e (I’m wondering) whether my topic should be about here or about the elders.
+#c 我要找的題目是我們這邊的還是老人家的(事情)?
+#n 老人家的事指的是花蓮那邊的祭典。
+#a 105.31, None, 106.49
+
+65.
+B: qawman   zana      baqi-an=ay,\
+. certainly   3SG.POSS  elder-AN=REL
+. 當然      3SG.所有格  老人-AN=關係詞
+
+#a 106.49, None, 108.04
+
+66.
+.. sikawma-an,\
+speak-NMZ
+講-名物化
+
+#a 108.04, None, 108.58
+
+67.
+.. kawka  nengi,/
+just   good
+才    好
+
+#e Of course about the elders. It would be better.
+#c 當然講老人家的話(故事)才好，
+#a 108.58, None, 109.26
+
+68.
+B: [<L2MyinweiL2M>],\
+. because
+. 因為
+
+#a 109.26, None, 109.33
+
+69.
+S: [oh==],_
+. BC
+. BC
+
+#a 109.33, None, 109.37
+
+70.
+.. [zana       baqi-an].\
+3SG.POSS   elder-AN
+3SG.所有格   老人-AN
+
+#e Oh, about the elders.
+#c 喔，老人家的。
+#a 109.37, None, 109.95
+
+71.
+B: [zata=ay         tazian].\
+. 1IPL.POSS=REL       here
+. 1IPL.所有格=關係詞    這裡
+
+#a 109.95, None, 110.09
+
+72.
+… mai=ita       [tu==],\
+NEG=1IPL.NOM    OBL
+否定=1IPL.主格    斜格
+
+#a 110.09, None, 111.41
+
+73.
+S: [ma<ta>tapun=ti].\
+. <RED>AF.together=PFV
+. <重疊>主焦.一起=完成
+
+#e (All things are) mixed up.
+#c 都混在一起了。
+#n 指東部部落和北部的事情都混在一起了。
+#a 111.41, None, 111.96
+
+74.
+B: iza       si,\
+. something  COND
+. 某事     條件詞
+
+#a 111.96, None, 112.92
+
+75.
+.. mai=ita         tu==,\
+NEG=1IPL.NOM  OBL
+否定=1IPL.主格   斜格
+
+#a 112.92, None, 114.37
+
+76.
+.. naquni-an  ‘nay==,\
+how-AN    that
+如何-AN    那個
+
+#a 114.37, None, 115.9
+
+77.
+.. [waway]  zemen.\
+behavior      ??
+行為         ??
+
+#e Because we don’t have history here (in Taipei).
+#c 因為我們這邊沒有什麼事情(歷史)。
+#a 115.9, None, 115.93
+
+78.
+S: [sepaw],\
+. worship.ancestors
+. 祭祖
+
+#a 115.93, None, 116.28
+
+79.
+.. mai  [tu  sepaw=ay],_
+NEG  OBL  worship.ancestors=REL
+否定  斜格  祭祖=關係詞
+
+#e Without (ceremonies of) worshiping ancestors,
+#c 沒有祭祖的(儀式)。
+#a 116.28, None, 117.05
+
+80.
+B: [nani].\
+. DM
+. DM
+
+#a 117.05, None, 117.25
+
+81.
+… wama  ta==,\
+ only     FS
+ 只有    FS
+
+#a 117.25, None, 119.81
+
+82.
+… zana     masang=ay,_
+ 3SG.POSS  before=REL
+ 3SG.所有格 以前=關係詞
+
+#a 119.81, None, 121.22
+
+83.
+…(0.8) ni==-,\
+ PFV-
+ 完成-
+
+#a 121.22, None, 122.57
+
+84.
+.. iza-an           na   baqi-an.\
+do.something-NMZ  GEN  elder-AN
+做某事-名物化     屬格  老人-AN
+
+#a 122.57, None, 123.73
+
+85.
+…(0.9) oN,_
+ FIL
+ FIL
+
+#a 123.73, None, 124.97
+
+86.
+… ‘nay  waway  na  naquni,\
+ that  behavior  FS   how
+ 那個  行為    FS   如何
+
+#a 124.97, None, 127.39
+
+87.
+.. [qawma],\
+only
+只有
+
+#a 127.39, None, 127.68
+
+88.
+S: [m],_
+. BC
+. BC
+
+#a 127.68, None, 127.74
+
+89.
+B: ‘nay  kulikuz-an,\
+. that   follow-LF
+. 那個  跟-處焦
+
+#a 127.74, None, 129.81
+
+90.
+.. kawka    nengi=ay.\
+just      good=REL
+才       好=關係詞
+
+#e Only following the elders’ behaviors before would be good.
+#c 只有跟著以前老人家的事蹟走才是好的。
+#n 意指演講比賽時要講老人家的事蹟才好。
+#a 129.81, None, 130.62
+
+91.
+S: o  en,\
+. BC  BC
+. BC  BC
+
+#a 130.62, None, 131.13
+
+92.
+.. [kulikuz=ita]       ta-zana==,\
+follow=1IPL.NOM   LOC-3SG.POSS
+跟=1IPL.主格      處格-3SG.所有格
+
+#a 131.13, None, 131.2
+
+93.
+B: [e],_
+. BC
+. BC
+
+#a 131.2, None, 131.25
+
+94.
+S: pateRungan kawka.\
+. Xinshe        just
+. 新社    才
+
+#e It’s good for us to follow things in Xinshe?
+#c 我們跟著部落的(話)才好嗎?
+#a 131.25, None, 133.8
+
+95.
+B: an.\
+. yes
+. 是
+
+#e Yes.
+#c 是的。
+#a 133.8, None, 134.4
+
+96.
+S: oh   nayau=ay     pa-sikawma-an-ku     kawka.\
+. BC  that.way=REL  ??-speak-LF-1SG.GEN   just
+. BC  那樣=關係詞   ??-講-處焦-1SG.屬格    才
+
+#e Oh, should I speak in that way?
+#c 喔，我要那樣講才可以嗎?
+#a 134.4, None, 136.1
+
+97.
+B: m==,_
+. BC
+. BC
+
+#a 136.1, None, 136.7
+
+98.
+S: o    i,\
+. BC  FS
+. BC  FS
+
+#a 136.7, None, 137.29
+
+99.
+.. u-tani==,\
+CLF.NHUM-how.many
+非人量詞-多少
+
+#a 137.29, None, 138.35
+
+100.
+.. <L2TziqangL2T>  na.\
+time       DM
+時間       DM
+
+#e How long (should I speak)?
+#c (要講)多久?
+#a 138.35, None, 139.19
+
+101.
+B: u-tulu==,\
+. CLF.NHUM-three
+. 非人量詞-三
+
+#a 139.19, None, 140.78
+
+102.
+.. <L2MsanfenchongL2M>  <L2MyineiL2M>.\
+three.minutes  within
+三分鐘      以內
+
+#e Within three minutes.
+#c 三分鐘以內。
+#a 140.78, None, 141.82
+
+103.
+S: u-tulu,\
+. CLF.NHUM-three
+. 非人量詞-三
+
+#a 141.82, None, 142.73
+
+104.
+.. [u-tulu]         <L2MsanfenchongL2M>  zin-na.\
+CLF.NHUM-three     three.minutes   say-3PL.GEN
+非人量詞-三         三分鐘        說-3PL.屬格
+
+#a 142.73, None, 142.87
+
+105.
+B: [m],_
+. BC
+. BC
+
+#a 142.87, None, 142.95
+
+106.
+… [m  m],_
+ BC  BC
+ BC  BC
+
+#a 142.95, None, 143.89
+
+107.
+S: [oh==].\
+. BC
+. BC
+
+#e They said within three minutes. Oh.
+#c 規定三分鐘以內。喔。
+#a 143.89, None, 144.34
+
+108.
+B: m,_
+. BC
+. BC
+
+#a 144.34, None, 145.29
+
+109.
+… [X],\
+ X
+ X
+
+#a 145.29, None, 145.56
+
+110.
+S: [a]  sikawma  aita       tu    zana      kebalan    si==,\
+. FS  speak    1IPL.NOM  OBL  3SG.POSS  Kavalan  COND
+. FS   講     1IPL.主格  斜格  3SG.所有格  噶瑪蘭   條件詞
+
+#a 145.56, None, 145.64
+
+111.
+.. sikawma  aita,\
+speak      1IPL.NOM
+講        1IPL.主格
+
+#a 145.64, None, 148.26
+
+112.
+… uman   tu    zana==,\
+ again  OBL  3SG.POSS
+ 再     斜格  3SG.所有格
+
+#a 148.26, None, 150.11
+
+113.
+.. iza       [zana==],\
+something  3SG.POSS
+某事      3SG.所有格
+
+#e We speak in Kavalan (first) and then we speak again in…
+#c 我們用噶瑪蘭話講完之後是不是還要講…
+#a 150.11, None, 151.18
+
+114.
+B: pun=ti=isu==,\
+. finish=PFV=2SG.NOM
+. 做完=完成=2SG.主格
+
+#a 151.18, None, 153.58
+
+115.
+.. sikawma  tu   zana==,_
+speak   OBL   3SG.POSS
+講     斜格   3SG.所有格
+
+#a 153.58, None, 155.59
+
+116.
+.. zata=ay       sikawma-an,\
+1IPL.POSS=REL      speak-NMZ
+1IPL.所有格=關係詞  講-名物化
+
+#a 155.59, None, 156.62
+
+117.
+.. zana       kebalan   nani.\
+3SG.POSS  Kavalan   DM
+3SG.所有格 噶瑪蘭   DM
+
+#e After you finish speaking in Kavalan,
+#c 你講完我們的噶瑪蘭話之後，
+#a 156.62, None, 157.71
+
+118.
+S: sikawma  aita      [m-uman]  tu    zana       Rulam.\
+. speak   1IPL.NOM   AF-again  OBL  3SG.POSS   Mandarin
+. 講     1IPL.主格    主焦-再   斜格  3SG.所有格  國語
+
+#e We will speak again in Mandarin.
+#c 我們再用國語講一次。
+#a 157.71, None, 158.13
+
+119.
+B: [m],_
+. BC
+. BC
+
+#a 158.13, None, 158.5
+
+120.
+.. an,/
+yes
+是
+
+#e Yes.
+#c 是。
+#a 158.5, None, 160.1
+
+121.
+… mit  Rayngu  m-ipil   laq   tu==,\
+ FS   cannot  AF-hear  other  OBL
+ FS   不會   主焦-聽   別人  斜格
+
+#a 160.1, None, 162.2
+
+122.
+.. sikawma-an-su   tangi         si,\
+speak-NMZ-2SG.GEN  just.now  COND
+講-名物化-2SG.屬格  剛剛     條件詞
+
+#a 162.2, None, 163.41
+
+123.
+.. qawman,\
+certainly
+當然
+
+#a 163.41, None, 163.95
+
+124.
+…(0.9) <L2MjieshiL2M>-an-su     uman  aisu      ah,\
+ explain-LF-2SG.GEN    again  2SG.NOM    PART
+ 解釋-處焦-2SG.屬格    再    2SG.主格    語助詞
+
+#e Some people might not understand what you have said just now; (so) of course you have to explain again.
+#c 有人聽不懂妳剛剛說的，妳當然必須再解釋一次啊。
+#a 163.95, None, 165.9
+
+125.
+… ninu   sikawma-an-ku       tangi,_
+ what   speak-NMZ-1SG.GEN  just.now
+ 什麼   講-名物化-1SG.屬格    剛剛
+
+#e What did I say just now?
+#c 我剛剛講的是什麼?
+#a 165.9, None, 167.57
+
+126.
+.. [zin-su]     <L2MjienluedeL2M>,\
+say-2SG.GEN     briefly
+說-2SG.屬格     簡略的
+
+#a 167.57, None, 167.6
+
+127.
+S: [oh==],_
+. BC
+. BC
+
+#a 167.6, None, 167.71
+
+128.
+B: sikawma  tu==,_
+. speak    OBL
+. 說       斜格
+
+#a 167.71, None, 170.7
+
+129.
+.. [ni-sikawma-an-su=ay]       tangi     na   <L2MyisiL2M>-na.\
+PFV-speak-NMZ-2SG.GEN=REL  just.now  GEN   meaning-3SG.GEN
+完成-講-名物化-2SG.屬格=關係詞  剛剛   屬格   意思-3SG.屬格
+
+#e You can talk very briefly about the meaning of what you have said.
+#c 你就很簡略的講一下你剛剛講的意思。
+#a 170.7, None, 170.94
+
+130.
+S: [zana==2],\
+. 3SG.POSS
+. 3SG.所有格
+
+#a 170.94, None, 171.01
+
+131.
+B: [imi-na].\
+. meaning-3SG.GEN
+. 意思-3SG.屬格
+
+#e Its meaning.
+#c 它的意思。
+#a 171.01, None, 173.52
+
+132.
+S: [oh==],\
+. BC
+. BC
+
+#a 173.52, None, 173.58
+
+133.
+.. imi-na.\
+meaning-3SG.GEN
+意思-3SG.屬格
+
+#e Oh, its meaning.
+#c 喔，它的意思。
+#a 173.58, None, 174.77
+
+134.
+.. [us  u],_
+FS   FS
+FS  FS
+
+#a 174.77, None, 174.86
+
+135.
+B: [m],_
+. BC
+. BC
+
+#a 174.86, None, 174.9
+
+136.
+S: uman-a-ka    tu==,\
+. again-??-AF.IMP  OBL
+. 再-??-主焦.祈使   斜格
+
+#a 174.9, None, 176.66
+
+137.
+.. sikawma-an-ku       tu,\
+speak-NMZ-1SG.GEN  OBL
+講-名物化-1SG.屬格      斜格
+
+#a 176.66, None, 177.62
+
+138.
+.. nianu  sikawma-an-ku     tangi.\
+what  speak-NMZ-1SG.GEN   just.now
+什麼  講-名物化-1SG.屬格     剛剛
+
+#e Speak again what I have said.
+#c 我剛剛講什麼要再講一遍。
+#a 177.62, None, 179.01
+
+139.
+B: m==,_
+. BC
+. BC
+
+#a 179.01, None, 179.6
+
+140.
+S: sanu=pa    tu    zana==,\
+. say=FUT  OBL  3SG.POSS
+. 說=未來   斜格  3SG.所有格
+
+#a 179.6, None, 180.75
+
+141.
+.. Rulam     si.\
+Mandarin  COND
+國語      條件詞
+
+#a 180.75, None, 181.34
+
+142.
+.. supaR=pa  qaniyau    nayau.\ 
+can=FUT  3PL.NOM  that.way
+會=未來  3PL.主格   那樣
+
+#e Speak in Mandarin (again), and they will understand?
+#c 用國語講了他們就會懂是嗎?
+#a 181.34, None, 182.42
+
+143.
+B: an,\
+. yes
+. 是
+
+#e Yes.
+#c 是。
+#a 182.42, None, 182.94
+
+144.
+S: oh==  s,_
+. BC   FS
+. BC   FS
+
+#a 182.94, None, 184.16
+
+145.
+…(0.8) ni==zu  kizaya   ni,/
+ all    Amis    Q
+ 全部   阿美族  疑問
+
+#e (Are they) all Amis?
+#c 全部都是阿美族的嗎?
+#n 意指參加演講比賽的是不是都是阿美族人。
+#n nizu也可講成niz，這裡用nizu是由於問句強調語氣。
+#a 184.16, None, 186.15
+
+146.
+B: sek
+.  FS
+.  FS
+
+#a 186.15, None, 187.27
+
+147.
+.. ueh==,_
+FIL
+FIL
+
+#a 187.27, None, 188.4
+
+148.
+…(1.1) <L2MshiyizuL2M>  si,\
+ eleven.tribes    COND
+ 十一族        條件詞
+
+#a 188.4, None, 190.41
+
+149.
+.. niz    yau    m==-zukat,_
+all    EXIST   AF-go.out
+全部  存在   主焦-出去
+
+#e All eleven tribes will come out (to participate in the contest).
+#c 十一族全部都要出來(參加)。
+#a 190.41, None, 191.79
+
+150.
+… anu==,\
+ if
+ 如果
+
+#a 191.79, None, 192.84
+
+151.
+… kin-tani     m==,\
+ CLF.HUM-how.many  FS
+ 人量詞-多少         FS
+
+#a 192.84, None, 193.97
+
+152.
+.. m-labu=ay           tu==,\
+AF-participate=REL  OBL
+主焦-參加=關係詞  斜格
+
+#a 193.97, None, 195.38
+
+153.
+…(1.4) <L2MhuodongL2M>  zau  nani.\
+ activity      this   DM
+ 活動        這個   DM
+
+#e How many people will participate in this activity?
+#c 有幾個人要參加這個活動?
+#a 195.38, None, 197.76
+
+154.
+.. qawman,\
+certainly
+當然
+
+#a 197.76, None, 198.26
+
+155.
+…(1.6) <L2MyinggaiL2M>  mazmun=ti     zin-ku         yu.\
+ should     many.HUM=PFV  say-1SG.GEN  PART
+ 應該       多.HUM=完成   說-1SG.屬格    語助詞
+
+#e I think there would be definitely many people.
+#c 當然我想應該有很多人喔。
+#a 198.26, None, 201.35
+
+156.
+… tangi   Ray,\
+ just.now   FS
+ 剛剛     FS
+
+#a 201.35, None, 202.48
+
+157.
+.. aita        Ru-zukat,\
+1IPL.NOM   ASP-go.out
+1IPL.主格    動貌-出去
+
+#a 202.48, None, 203.38
+
+158.
+.. eh   Ru==,_
+FIL   ASP
+FIL  動貌
+
+#e We just came out…
+#c 我們剛出來…
+#n zukat是「出去」, Ru-表示剛剛開始, Ru-zukat是「剛出去/剛出來」。
+#a 203.38, None, 204.22
+
+159.
+S: [Ru-zukat=ti=ita],\
+. ASP-go.out=PFV=1IPL.NOM
+. 動貌-出去=完成=1IPL.主格
+
+#a 204.22, None, 204.37
+
+160.
+B: [Ru-qisuR],\
+. ASP-join
+. 動貌-加入
+
+#a 204.37, None, 204.64
+
+161.
+.. tu   za  tu==,\
+OBL  FS  OBL
+斜格  FS  斜格
+
+#a 204.64, None, 206.34
+
+162.
+.. <L2MdishiyizuL2M>   nani.\
+eleventh.tribe    DM
+第十一族      DM
+
+#e We just became the 11th tribe.
+#c 我們剛起來加入第十一族。
+#a 206.34, None, 207.47
+
+163.
+… qawman,\
+ certainly
+ 當然
+
+#a 207.47, None, 208.32
+
+164.
+…(1.7) m-ita   qaniyau  tu   may  timaitaan   tu==,\
+ AF-see    3PL.NOM  OBL  FS   1IPL.LOC   OBL  
+ 主焦-看   3PL.主格  斜格  FS   1IPL.處格   斜格
+
+#a 208.32, None, 212.17
+
+165.
+.. iza.\
+something
+某事
+
+#e Of course they will watch something of us…
+#c 當然他們會看我們的…
+#a 212.17, None, 212.64
+
+166.
+.. [tu==],\
+OBL
+斜格
+
+#a 212.64, None, 212.7
+
+167.
+S: [tita-ika       si],\
+. see-LF.IMP    DM
+. 看-處焦.祈使   DM
+
+#a 212.7, None, 212.79
+
+168.
+.. ho,_
+PART
+語助詞
+
+#a 212.79, None, 213.54
+
+169.
+… naquni [kebalan].\
+ how    Kavalan
+ 如何    噶瑪蘭
+
+#e (They) will see how Kavalan is.
+#c 看看噶瑪蘭是怎麼樣的。
+#a 213.54, None, 214.37
+
+170.
+B: [naquni]  kebalan   zin-na       sayza,\
+.    how     Kavalan   say-3PL.GEN  maybe
+.   如何     噶瑪蘭      說-3PL.屬格  可能
+
+#a 214.37, None, 214.74
+
+171.
+.. [nani].\
+DM
+DM
+
+#e They may think how Kavalan is.
+#c 他們可能想說噶瑪蘭是怎麼樣的。
+#a 214.74, None, 216.78
+
+172.
+S: [o==],/
+. BC
+. BC
+
+#a 216.78, None, 216.84
+
+173.
+B: pa-zukat-ika          aisu,\
+. CAU-go.out-LF.IMP   2SG.NOM
+. 使役-出去-處焦.祈使  2SG.主格
+
+#a 216.84, None, 218.69
+
+174.
+.. aimu    kebalan  zin-na=iku       nani,\
+2PL.NOM  Kavalan  say-3SG.GEN=1SG.NOM  DM
+2PL.主格  噶瑪蘭  說-3SG.屬格=1SG.主格    DM
+
+#e He said to me, “(You) tell you Kavalan (to join the contest).”
+#c 他跟我說請你把你們噶瑪蘭人叫出來(參加母語演講比賽)。
+#n 「他」是指育林國中的校長。
+#a 218.69, None, 220.09
+
+175.
+… qawma,\
+ certainly
+ 絕對
+
+#a 220.09, None, 220.83
+
+176.
+… ni  k<m>ilim=ti=iku          timaimuan    ya.\
+ FS  <AF>find=PFV=1SG.NOM   2PL.LOC   PART
+ FS  <主焦>找=完成=1SG.主格   2PL.處格   語助詞
+
+#a 220.83, None, 222.88
+
+177.
+.. [timaisuan].\
+2SG.LOC
+2SG.處格
+
+#e (So) I found you … you.
+#c 我只好找你們..找你啦。
+#a 222.88, None, 222.93
+
+178.
+S: [kin-tani=imi].\
+. CLF.HUM-how.many=1EPL.NOM
+. 人量詞-多少=1EPL.主格
+
+#e How many people?
+#c 我們幾個人?
+#n 指我們參加的有幾個人。
+#a 222.93, None, 223.02
+
+179.
+B: m==,\
+. FIL
+. FIL
+
+#a 223.02, None, 224.91
+
+180.
+.. aita       kebalan   nani  kin-sepat  ‘nay==,\
+1IPL.NOM  Kavalan  DM  CLF.HUM-four  that
+1IPL.主格  噶瑪蘭   DM   人量詞-四    那個
+
+#a 224.91, None, 227.04
+
+181.
+.. m-zukat=ay.\
+AF-go.out=REL
+主焦-出去=關係詞
+
+#e We Kavalan have four who go out (to participate in the contest).
+#c 我們噶瑪蘭呢有四人個出來。
+#a 227.04, None, 227.97
+
+182.
+S: <L2MzhuangnienzuL2M>=ay  [kin-sepat].\
+. adult.group=REL    CLF.HUM-four
+. 壯年組=關係詞     人量詞-四
+
+#e There are four in the adult group.
+#c 壯年組的有四個人。
+#a 227.97, None, 228.16
+
+183.
+B: [en]  kin-tulu,/
+.  FIL   CLF.HUM-three
+.  FIL   人量詞-三
+
+#e Three.
+#c 三人。
+#a 228.16, None, 229.05
+
+184.
+S: kin-tulu,\
+. CLF.HUM-three
+. 人量詞-三
+
+#a 229.05, None, 230.67
+
+185.
+.. aiku      nani,_
+1SG.NOM  DM
+1SG.主格  DM
+
+#e Three (people) including me, and…
+#c 三個人有我…
+#a 230.67, None, 231.45
+
+186.
+B: ti==-,\
+.  NCM-
+.  NCM-
+
+#a 231.45, None, 232.19
+
+187.
+.. uci==.\
+PN
+人名
+
+#e And Uci…
+#c 和Uci…
+#n Uci為男生名。
+#a 232.19, None, 232.81
+
+188.
+S: ti-uci.\
+. NCM-PN
+. NCM-人名
+
+#e And Uci…
+#c 和Uci…
+#a 232.81, None, 233.5
+
+189.
+B: ti==-,\
+. NCM-
+. NCM-
+
+#a 233.5, None, 234.37
+
+190.
+.. cinRu.\
+PN
+人名
+
+#e And CinRu.
+#c 和CinRu。
+#n CinRu為男生名。
+#a 234.37, None, 234.94
+
+191.
+S: ti-cinRu.\
+. NCM-PN
+. NCM-人名
+
+#a 234.94, None, 235.79
+
+192.
+.. [supaR]  ti-cinRu,\
+can     NCM-PN
+會      NCM-人名
+
+#a 235.79, None, 235.86
+
+193.
+B: [en],_
+. BC
+. BC
+
+#a 235.86, None, 235.95
+
+194.
+S: aizipna  [sikawma  si].\
+. 3SG.NOM  speak  DM
+. 3SG.主格   講   DM
+
+#e CinRu. Oh, CinRu is good at speaking.
+#c CinRu，喔，CinRu很會講喔!
+#a 235.95, None, 236.68
+
+195.
+B: [m==],_
+. BC
+. BC
+
+#a 236.68, None, 237.14
+
+196.
+.. nei,\
+BC
+BC
+
+#a 237.14, None, 238.13
+
+197.
+.. ti-uci     supaR  qaya  nani,\
+NCM-PN   can   also  DM
+NCM-人名  會    也   DM
+
+#e Uci can also (speak well).
+#c Uci也會講。
+#a 238.13, None, 239.47
+
+198.
+S: m==?/
+. BC
+. BC
+
+#a 239.47, None, 240.06
+
+199.
+B: m,_
+. BC
+. BC
+
+#a 240.06, None, 240.33
+
+200.
+S: supaR  ma  qaniyau     zin-ku        ka?/
+. can   DM   3PL.NOM  say-1SG.GEN  PART
+. 會    DM   3PL.主格  說-1SG.屬格   語助詞
+
+#e I think they are better (at speaking than me).
+#c 我認為他們比較會啊。
+#n supaR ma qaniyau timaikuan 「他們比我會。」
+#a 240.33, None, 241.78
+
+201.
+B: muni   aisu.\
+.  how   2SG.NOM
+.  怎麼   2SG.主格
+
+#e How about you?
+#c 那妳呢?
+#a 241.78, None, 242.72
+
+202.
+… qa==-,\
+ QA-
+ QA-
+
+#a 242.72, None, 243.77
+
+203.
+.. singsi  na  iza       quni=pa  Rayngu   [qaya],_
+teacher  GEN  something  how=FUT  cannot   DM
+老師  屬格  某事     怎麼=未來  不會   DM
+
+#e How come you, as a teacher of something (our mother tongue) cannot (speak Kavalan)?
+#c 妳是那個(母語)老師，怎麼可能不會呢?
+#n 句中沒有將噶瑪蘭話講出來。
+#a 243.77, None, 243.81
+
+204.
+S: [(H)] [kyataya   @@@],_
+.  .  damn          @@@
+.  .   媽的         @@@
+
+#e Damn!
+#c 媽的!
+#n 此句是噶瑪蘭的口頭禪，在此為玩笑話。若用生氣的語氣講則是罵人之意。
+#a 243.81, None, 245.19
+
+205.
+B: [m-ala  m-ala],\
+. AF-take  AF-take
+. 主焦-拿  主焦-拿
+
+#a 245.19, None, 245.79
+
+206.
+.. m-ala=ti=isu  tu    iza        si,\
+AF-take=PFV=2SG.NOM  OBL  something  COND
+主焦-拿=完成=2SG.主格  斜格  某物    條件詞
+
+#a 245.79, None, 247.14
+
+207
+.. [tu==],\
+OBL
+斜格
+
+#e If you win that…
+#c 如果妳拿到那個…
+#n 要講「拿到名次」，未講完。
+#a 247.14, None, 248.47
+
+208.
+S: [(H) m-ala=iku]    <L2MnageL2M>.\
+.   .  AF-take=1SG.NOM    that
+.   . 主焦-拿=1SG.主格     那個
+
+#a 248.47, None, 248.54
+
+209.
+B: @,_
+.  @ 
+.  @
+
+#a 248.54, None, 250.22
+
+210.
+S: (H)  tu    zana,\
+.   .   OBL   3SG.POSS
+.   .  斜格    3SG.所有格
+
+#a 250.22, None, 251.32
+
+211.
+.. @  kebalan.\
+@   Kavalan
+@  噶瑪蘭
+
+#e If I win (the prize) of Kavalan (speech contest)…
+#c 我拿到噶瑪蘭的(比賽的名次)…
+#a 251.32, None, 252.11
+
+212.
+B: [e==n].\
+. BC
+. BC
+
+#a 252.11, None, 252.19
+
+213.
+S: [(H)]  m-ala=iku        tu    zana        kebalan   ^nani,\
+.    .   AF-take=1SG.NOM  OBL  3SG.POSS  Kavalan   DM
+.    .   主焦-拿=1SG.主格  斜格  3SG.所有格  噶瑪蘭  DM
+
+#a 252.19, None, 252.3
+
+214.
+.. pisapat=ti  @.\
+casually=PFV  @
+隨便=完成    @
+
+#e I got (the certificate of) Kavalan by chance.
+#c 我是隨便拿到噶瑪蘭(母語認證)的啦!
+#n pisapat是「隨便」之意。此句為謙虛的語氣，指自己受之有愧。
+#a 252.3, None, 256.31
+
+215.
+B: [‘nay],\
+. that
+. 那個
+
+#a 256.31, None, 256.36
+
+216.
+S: [@@@],_
+. @@@
+. @@@
+
+#a 256.36, None, 256.5
+
+217.
+B: usa   pisapat  zau,_
+. NEG   casually  this
+. 否定  隨便    這個
+
+#e This cannot be done by chance.
+#c 這個可不是隨隨便便的。
+#a 256.5, None, 258.62
+
+218.
+.. [azu==],\
+seem
+好像
+
+#a 258.62, None, 258.66
+
+219.
+S: [(H)],_
+.  .
+.  .
+
+#a 258.66, None, 258.84
+
+220.
+B: [azu]   m-puqaw   qaya   ‘nay==.\
+. seem   AF-blind  also   that
+. 好像  主焦-瞎   也   那個
+
+#a 258.84, None, 259.42
+
+221.
+S: [(H)],_
+.  .
+.  .
+
+#a 259.42, None, 259.48
+
+222.
+B: m-iza=ay          mi==,\
+. AF-do.something=REL  FS
+. 主焦-做某事=關係詞   FS
+
+#a 259.48, None, 262.36
+
+223.
+.. m-ita=ay        tu==,\
+AF-see=REL      OBL
+主焦-看=關係詞   受格
+
+#a 262.36, None, 263.96
+
+224.
+… iza-numi         ni==-,\
+ something-2PL.GEN  PFV-
+ 某事-2PL.屬格      完成-
+
+#a 263.96, None, 265.3
+
+225.
+.. <L2MkaoshiL2M>-an-numi  zin-ku.\
+test-NMZ-2PL.GEN     say-1SG.GEN
+考試-名物化-2PL.屬格  說-1SG.屬格
+
+#e The invigilators seemed blind.
+#c 說得好像那些監考官都瞎了一樣。
+#a 265.3, None, 266.36
+
+226.
+… nani  sunis  yau  usiq,\
+ DM   child  EXIST  one
+ DM   小孩  存在    一
+
+#a 266.36, None, 268.32
+
+227.
+.. qaya  na  zaku=ay      sunis,\
+also  GEN  1SG.POSS=REL   child
+也   屬格  1SG.所有格=關係詞  小孩
+
+#a 268.32, None, 269.59
+
+228.
+.. ‘nay==,\
+that
+那個
+
+#a 269.59, None, 270.24
+
+229.
+.. sa-swani=ay.\
+??-younger.siblings=REL
+??-弟妹=關係詞
+
+#e As for the child group, one (of them) is my youngest child.
+#c 小孩子的部份也有一個是我最小的孩子。
+#a 270.24, None, 271.17
+
+230.
+S: oh.\
+. BC
+. BC
+
+#a 271.17, None, 271.62
+
+231.
+B: <L2MwunienjiL2M>  nani.\
+. grade.five   DM
+. 五年級     DM
+
+#e In the 5th grade.
+#c 現在五年級。
+#a 271.62, None, 272.69
+
+232.
+S: supaR  sikawma   ni?/
+.  can   speak     Q
+.  會    講       疑問
+
+#e Can (he) speak?
+#c (他)會講嗎?
+#a 272.69, None, 273.81
+
+233.
+B: qawman   tud-an-ta,\
+. certainly  teach-LF-1IPL.GEN
+. 當然      教-處焦-1IPL.屬格
+
+#a 273.81, None, 275.37
+
+234.
+.. kawka      supaR.\
+just      can
+才     會
+
+#e Of course (he) can (speak Kavalan) only if we teach him.
+#c 當然我們教了才會。
+#a 275.37, None, 276.01
+
+235.
+.. azu==,\
+if
+如果
+
+#a 276.01, None, 276.9
+
+236.
+.. mai==,\
+NEG
+否定
+
+#a 276.9, None, 277.74
+
+237.
+.. mai   tud-an-ta           si==,_
+NEG  teach-LF-1IPL.GEN  COND
+否定  教-處焦-1IPL.屬格    條件詞
+
+#a 277.74, None, 278.98
+
+238.
+… taRni-na            qaya   na   sunis.\
+ how.to.know-3SG.GEN   DM  GEN  child
+ 怎麼知道-3SG.屬格      DM  屬格  小孩
+
+#e If we didn’t teach a child, how could he (speak Kavalan)?
+#c 如果我們沒有教，小孩子怎麼會呢?
+#a 278.98, None, 280.93
+
+239.
+… nayau-an-ku       patud,\
+ that.way-LF-1SG.GEN   teach
+ 那樣-處焦-1SG.屬格    教
+
+#a 280.93, None, 282.09
+
+240.
+.. qaya   sunis  ‘nay  tu==,\
+DM   child  that  OBL
+DM    小孩  那個  斜格
+
+#a 282.09, None, 283.13
+
+241.
+.. sikawma-an.\
+speak-NMZ
+講-名物化
+
+#e I taught him to speak in that way.
+#c 我就那樣教他講。
+#a 283.13, None, 283.86
+
+242.
+… azu==,\
+ if
+ 如果
+
+#a 283.86, None, 284.53
+
+243.
+.. mai=imu==,\
+NEG=2PL.NOM
+否定=2PL.主格
+
+#a 284.53, None, 285.39
+
+244.
+… m-i==za      tangi.\
+ AF-do.somthing   now
+ 主焦-做某事     現在
+
+#e If you don’t do this right now,
+#c 如果你們現在不做，
+#a 285.39, None, 287.15
+
+245.
+… m-lingsiw   tu    sikawma-an  si.\
+ AF-learn     OBL  speak-NMZ   COND
+ 主焦-學習   斜格  講-名物化    條件詞
+
+#e Learning to speak,
+#c 學習(演講比賽)要講的話題，
+#a 287.15, None, 288.95
+
+246.
+.. amawaR.\
+afterwards
+以後
+
+#a 288.95, None, 289.65
+
+247.
+S: [qa-mai=ti].\
+. FUT-NEG=PFV
+. 未來-否定=完成
+
+#a 289.65, None, 289.84
+
+248.
+B: [qa-mai=ti=ita]          tu,\
+. FUT-NEG=PFV=1IPL.NOM  OBL
+. 未來-否定=完成=1IPL.主格  斜格
+
+#a 289.84, None, 290.08
+
+249.
+.. sikawma-an  zin-ku     Ranaw.\
+speak-NMZ  say-1SG.GEN  so
+講-名物化   說-1SG.屬格  所以
+
+#e Afterwards, I think we will lose our language.
+#c 往後，我想我們就沒有語言了。
+#a 290.08, None, 292.75
+
+250.
+S: [pa-lingsiw-an-su].\
+. CAU-practice-LF-2SG.GEN
+. 使役-練習-處焦-2SG.屬格
+
+#e Did you let him practice?
+#c 你讓他練習嗎?
+#n 指「你讓你兒子練習嗎?」
+#a 292.75, None, 293.22
+
+251.
+B: [pa  patud-an-ku=ti]        tu==,\
+. FS   teach-LF-1SG.GEN=PFV  OBL
+. FS   教-處焦-1SG.屬格=完成  斜格
+
+#a 293.22, None, 293.53
+
+252.
+.. sikawma-an  tangi   nani.\
+speak-NMZ  now   DM
+講-名物化  現在  DM
+
+#e I teach (him) to speak now...
+#c 我現在教他講...
+#a 293.53, None, 296.81
+
+253.
+…(1.2) iza-ika,_
+ something-LF.IMP
+ 某事-處焦.祈使
+
+#e To do so.
+#c 這樣做。
+#a 296.81, None, 298.74
+
+254.
+… <L2McanjiaL2M>-ka    tu   zau  ‘nay==,\
+ participate-AF.IMP  OBL  this  that
+ 參加-主焦.祈使  斜格  這個   那個
+
+#a 298.74, None, 300.17
+
+255.
+.. iza      si,\
+something  COND
+某事     條件詞
+
+#a 300.17, None, 300.59
+
+256.
+.. kawka  nengi.\
+just   good
+才     好
+
+#e It would be good to participate in this (contest).
+#c 參加這個(演講比賽)才好/可以。
+#a 300.59, None, 301.26
+
+257.
+… pa-iza          tu   anem-ta,\
+ CAU-do.something  OBL  heart-1IPL.GEN
+ 使役-做某事        斜格  心-1IPL.屬格
+
+#e Console our hearts.
+#c 安慰我們的心。
+#a 301.26, None, 302.77
+
+258.
+.. pa-Raya  tu==,\
+CAU-big  OBL
+使役-大  斜格
+
+#a 302.77, None, 303.89
+
+259.
+.. anem-ta,\
+heart-1IPL.GEN
+心-1IPL.屬格
+
+#a 303.89, None, 304.45
+
+260.
+.. pa-qeseR   tu   anem-ta          zin-ku.\
+CAU-strong  OBL  heart-1IPL.GEN  say-1SG.GEN
+使役-強壯  斜格  心-1IPL.屬格   說-1SG.屬格
+
+#e To strengthen our confidence and encourage our heart.
+#c 壯大我們的信心，鼓勵我們的心。
+#a 304.45, None, 305.61
+
+261.
+…(0.8) zu==,\
+ FIL
+ FIL
+
+#a 305.61, None, 306.92
+
+262.
+…(0.7) qawman  ala=isu  zin-ku,\
+ certainly  take-2SG.NOM  say-1SG.GEN
+ 當然     拿-2SG.主格  說-1SG.屬格
+
+#a 306.92, None, 308.52
+
+263.
+.. amawaR  haw.\
+afterwards  PART
+以後      語助詞
+
+#a 308.52, None, 309.15
+
+264.
+.. tu   iza-an        tu==,\
+OBL  do.something-NMZ  OBL
+斜格 做某事-名物化      斜格
+
+#a 309.15, None, 310.62
+
+265.
+.. ni==-,\
+PFV-
+完成-
+
+#a 310.62, None, 311.09
+
+266.
+.. <L2MbisaiL2M>-an  tayan  ta-<L2MshulinL2M>-an       zin-ku.\
+contest-NMZ  there  LOC-PN-LOC  say-1SG.GEN
+比賽-名物化  那邊  處格-樹林-處格  說-1SG.屬格
+
+#e I am sure you can win (the prize of) the contest in Shulin.
+#c 之後在樹林的比賽我相信你絕對可以得名。
+#a 311.09, None, 312.66
+
+267.
+.. nayauma  sikawma-an-ta.\
+only      speak-LF-1IPL.GEN
+只        講-處焦-1IPL.屬格
+
+#e That’s all.
+#c 我們就講到這裡。
+#a 312.66, None, 313.64
+
+268.
+.. [oh  nayauma].\
+BC     only
+BC     只
+
+#e That’s all.
+#c 完了。
+#a 313.64, None, 313.71
+
+269.
+S: [oh  ay].\
+. BC  BC
+. BC  BC
+
+#e Oh ay.
+#c 阿。
+#a 313.71, None, 313.8

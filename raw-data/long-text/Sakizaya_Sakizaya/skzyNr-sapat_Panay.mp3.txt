@@ -1,0 +1,478 @@
+topic: sapad-panay
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 葉阿妹, panay, female, 1949-11-20
+collected: 2008-01-05
+revised: 2017-7-9
+video: skzyNr-sapat_Panay.mp3
+
+1.
+.. ayza sa a mi-sa-kamu kaku tu==,-
+now DM LNK AF-do-speech 1SG.NOM OBL
+現在 DM 連繫詞 AF-做-話 1SG.主格 斜格
+
+#a 0.35, None, 2.87
+
+2.
+... paka-ini i==,-
+from-here PREP
+從-這邊 介系詞
+
+#a 2.87, None, 4.54
+
+3.
+.. Sapad hananay a ni ka ci==,-
+PN so.called LNK GEN KA NCM.SG.NOM
+地名 所謂的 連繫詞 屬格 KA NCM.SG.主格
+
+#a 4.54, None, 7.03
+
+4.
+... ngangan nu niyazu’ nu Sapad.\
+name GEN tribe GEN PN
+名字 屬格 部落 屬格 地名
+
+#e I am going to talk about the name, Sapad, for a tribe.
+#c 我要講有關Sapad這個部落的名字。
+#n kamu「話」。
+#a 7.03, None, 9.39
+
+5.
+...(0.7) tawya henay sa,\
+that.time still DM
+那時候 還 DM
+
+#a 9.39, None, 11.37
+
+6.
+.. u yu== ma-sa==-,\
+CN YU AF-do-
+CN YU 主焦-做-
+
+#a 11.37, None, 13.71
+
+7.
+...(1.7) ma-sa-hiya-ay==,-
+AF-do-this.way-FAC
+主焦-做-這樣-表事實
+
+#a 13.71, None, 17.13
+
+8.
+... a== ma-sa-abilid-ay a==,-
+LNK AF-do-steep-FAC LNK
+連繫詞 主焦-做-陡-表事實 連繫詞
+
+#a 17.13, None, 19.94
+
+9.
+...(1.0) a== lala' sa.\
+LNK land DM
+連繫詞 土地 DM
+
+#e It was flat at that time.
+#c 那時候還是平地。
+#a 19.94, None, 22.14
+
+10.
+...(0.7) i pabaw sa ma-sa-enal sa.\
+PREP upper.part DM AF-do-plateau DM 
+介系詞 上面 DM 主焦-做-平原 DM
+
+#e The upper part was the plateau.
+#c 上面是平原。
+#a 22.14, None, 24.78
+
+11.
+... u== Sapad,\
+CN PN
+CN 地名
+
+#a 24.78, None, 26.06
+
+12.
+.. han nu== mas,\
+be.said GEN MAS
+被說 屬格 MAS
+
+#a 26.06, None, 27.67
+
+13.
+.. u Tabtab han nu babalaki i tawya henay sa.\
+CN PN be.said GEN old.man PREP that.time still DM
+CN 地名 被說 屬格 老人 介系詞 那時候 還 DM
+
+#a 27.67, None, 31.18
+
+14.
+... u== babalaki,\
+CN old.man
+CN 老人
+
+#e At that time, the old man called Sapad as Tabtab.
+#c 老人在那時稱Sapad為Tabtab。
+#a 31.18, None, 32.7
+
+15.
+...(0.7) Tabtab han=tu ku uma-umah han=tu ma-sa==-,\
+PN HAN=PFV NOM RED-farmland HAN=PFV AF-do-,
+地名 HAN=完成貌 主格 重疊-田 HAN=完成貌 主焦-做-
+
+#a 32.7, None, 36.47
+
+16.
+... ma-sa-enal-ay i pabaw a umah.-
+AF-do-plateau-FAC PREP upper.part LNK farmland
+主焦-做-平原-表事實 介系詞 上面 連繫詞 田
+
+#e Tabtab is the farmland on the upper part of the plateau.
+#c Tabtab是上面平原的田。
+#a 36.47, None, 39.57
+
+17.
+... ma-sa-abilis ku==,-
+AF-do-steep NOM
+主焦-做-陡 主格
+
+#a 39.57, None, 41.83
+
+18.
+.. ku sasa ma-sa-enal i pabaw.\
+NOM lower.part AF-do-plateau PREP upper.part
+主格 下面 主焦-做-平原 介系詞 上面
+
+#e The lower part is the precipice and the upper part is the plateau.
+#c 下面是懸崖，上面是平原。
+#n IU17中的ma-sa-abilis應為語誤正確的是ma-sa-abilid
+#n abilis為 阿美語。
+#a 41.83, None, 43.97
+
+19.
+...(0.8) ye==za i== niyazu’ nu Sapad hananay sa.\
+there PREP tribe GEN PN so.called DM
+那裡 介系詞 部落 屬格 地名 所謂的 DM
+
+#e A tribe like Sapad was over there.
+#c Sapad這樣的部落在那裡。
+#a 43.97, None, 49.12
+
+20.
+...(1.0) u==.\
+CN
+CN
+
+#a 49.12, None, 50.73
+
+21.
+.. u sa u sa u Tapad,\ 
+CN DM CN DM CN PN
+CN DM CN DM CN 地名
+
+#a 50.73, None, 52.81
+
+22.
+.. han nu== mita i tawya henay u==,\
+be.said GEN 1PL.POSS.INCL PREP that.time still DM
+被說 屬格 1PL.所有格.包含 介系詞 那時候 還 DM
+
+#a 52.81, None, 55.28
+
+23.
+... u hiya u== Sakizaya kya==,\ 
+CN that CN PN NOM.that
+CN 那個 CN 專名 主格.那個
+
+#a 55.28, None, 58.12
+
+24.
+.. niyazu’ nya== Sapad,\
+tribe GEN.that PN
+部落 屬格.那個 地名
+
+#a 58.12, None, 59.84
+
+25.
+... sa.\
+DM
+DM
+
+#e Tapad tribe belonged to Sakizaya at that time.
+#c Tapad部落在那時是我們Sakizaya的。
+#n 發音者的Tapad與Sapad為同義。
+#a 59.84, None, 60.78
+
+26.
+... iza sa=tu ku== <L2JlipunL2J> tayni sakyami sa,\
+EXIST DM=PFV NOM Japanese come.here it.is.said say
+存在詞 DM=完成貌 主格 日本人 來這裡 據說 說
+
+#a 60.78, None, 64.45
+
+27.
+... e==,\
+E
+E
+
+#a 64.45, None, 65.55
+
+28.
+... u==,-
+CN
+CN
+
+#a 65.55, None, 67.04
+
+29.
+...(1.6) u sa u== Tapad,\
+CN DM CN PN
+CN DM CN 地名
+
+#a 67.04, None, 70.04
+
+30.
+.. han nya babalaki,\
+be.said GEN.that old.man
+被說 屬格.那個 老人
+
+#a 70.04, None, 71.62
+
+31.
+.. kya== <L2JlipunL2J> sa.\
+NOM.that Japanese DM
+主格.那個 日本人 DM
+
+#e It was said that when Japanese came here, the old man told them Tapad.
+#c 聽說日本人來的時候，那老人就跟日本人說是Tapad。
+#n IU 26中的iza 為izaw。
+#a 71.62, None, 72.88
+
+32.
+... sa-kamu sa kya== baba ya <L2JlipunL2J> sa,\
+do-speech say NOM.that BABA that Japanese DM
+做-話 說 主格.那個 BABA 那 日本人 DM
+
+#a 72.88, None, 75.99
+
+33.
+...(0.8) u==,\
+CN
+CN
+
+#a 75.99, None, 77.55
+
+34.
+...(1.0) u== sa,\
+CN DM
+CN DM
+
+#a 77.55, None, 79.35
+
+35.
+.. Sapad,\
+PN
+地名
+
+#a 79.35, None, 80.25
+
+36.
+.. han nya== <L2JlipunL2J>.\
+be.said GEN.that Japanese
+被說 屬格.那個 日本人
+
+#e Japanese called it Sapad.
+#c 日本人說是Sapad。
+#a 80.25, None, 81.96
+
+37.
+... ye== za i sa i Sapad han nya <L2JlipunL2J>.\
+there PREP FS PREP PN be.said GEN.that Japanese
+那裡 介系詞 FS 介系詞 地名 被說 屬格.那個 日本人
+
+#e There were Japanese in Sapad.
+#c 有日本人在Sapad。
+#a 81.96, None, 85.79
+
+38.
+... tayni sa=tu ku==,\
+come.here DM=PFV NOM
+來這裡 DM=完成貌 主格
+
+#a 85.79, None, 87.55
+
+39.
+.. u== hya u== luwak sa.\
+CN that CN Chinese DM
+CN 那個 CN 漢人 DM
+
+#e The Chinese came here.
+#c 漢人來這裡。
+#a 87.55, None, 90.06
+
+40.
+...(0.7) u Sapadien han ku nu luwak a=ni-pa-ngangan saka.\
+CN PN HAN TOP GEN Chinese FUT=NI-CAU-name DM
+CN 地名 HAN 主題標記 屬格 漢人 表未來=NI-使動-名字 DM
+
+#e The Chinese named it as Sapadien.
+#c 漢人取名為Sapadien。
+#n 其他例子為ani-ka-sumad，sumad為「改變」，而ani-ka-sumad有「自然變化」的意思。
+#a 90.06, None, 94.48
+
+41.
+... ta-cuwa kamu han i mahini ku== sa ku== hiya ku==,- 
+go-where 2PL.NOM be.said PREP this.time NOM DM NOM that NOM
+去-哪裡 2PL.主格 被說 介系詞 這時候 主格 DM 主格 那個 主格
+
+#a 94.48, None, 98.88
+
+42.
+... ku tamdaw amin sa.\
+NOM people all DM
+主格 人 全部 DM
+
+#a 98.88, None, 100.78
+
+43.
+... Sapadien sa ku luwak.\
+PN say NOM Chinese
+地名 說 主格 漢人
+
+#e When asked where you were, the Chinese answered Sapadien.
+#c 當被問到哪裡去了，漢人就說 Sapadien。
+#n tamdaw 為阿美語，撒奇萊雅語則為tademaw。
+#a 100.78, None, 102.95
+
+44.
+... u nu mita sa u Sakizaya sa i Sapad.\
+CN GEN 1PL.POSS.INCL TOP CN PN say PREP PN
+CN 屬格 1PL.所有格.包含 主題標記 CN 專名 說 介系詞 地名
+
+#a 102.95, None, 106.25
+
+45.
+.. han ku nu mita i mahini.-
+be.said NOM GEN 1PL.POSS.INCL PREP AF-this.way
+被說 主格 屬格 1PL.所有格.包含 介系詞 主焦-這樣
+
+#e At this time, the Sakizaya said Sapad.
+#c 我們Sakizaya這時候就說Sapad。
+#a 106.25, None, 107.86
+
+46.
+.. izay han sa ya Sapad hananay a ngangan,-
+because be.said DM that PN so.called LNK name
+因為 被說 DM 那 地名 所謂的 連繫詞 名字
+
+#a 107.86, None, 110.4
+
+47.
+... u nu <L2JlipunL2J> kuyza a=ni-pa-ngangan sa.\
+CN GEN Japanese NOM.that FUT=NI-CAU-name DM
+CN 屬格 日本人 主格.那個 表未來=NI-使動-名字 DM
+
+#e Because the Japanese named this place as Sapad. 
+#c 因為日本人把這裡取做 Sapad。
+#a 110.4, None, 113.37
+
+48.
+... u nu Sakizaya a=ni-pa-ngangan i tawya henay tya,\ 
+CN GEN PN FUT=NI-CAU-name PREP that.time still GEN.that
+CN 屬格 專名 表未來=NI-使動-名字 介系詞 那時 還 屬格.那個
+
+#a 113.37, None, 117.58
+
+49.
+.. e i tiza-ay i sapad.\
+FIL PREP there-FAC PREP PN
+FIL 介系詞 那裏-表事實 介系詞 地名
+
+#e The name given by the Sakizaya was Sapad.
+#c 那時候撒奇萊雅族取的名字是Sapad。
+#a 117.58, None, 119.56
+
+50.
+.. i==,-
+PREP
+介系詞
+
+#a 119.56, None, 120.26
+
+51.
+... ma-sa-enal-ay i pabaw a niyazu’ sa.\
+AF-do-plateau-FAC PREP upper.part LNK tribe DM
+主焦-做-平原-表事實 介系詞 上面 連繫詞 部落 DM
+
+#a 120.26, None, 122.97
+
+52.
+...(0.7) Tapad han ku kamu sa ku babalaki i tawya henay.\ 
+PN TOP NOM 2PL.NOM say NOM old.man PREP that.time still
+地名 主題標記 主格 2PL.主格 說 主格 老人 介系詞 那時候 還
+
+#e At that time, the old man called the tribe on a plateau Sapad.
+#c 那時候老人家說平原上的部落是Sapad。
+#a 122.97, None, 127.29
+
+53.
+... saka i mahini e==,-
+SAKA PREP this.time FIL
+SAKA 介系詞 這時 FIL
+
+#a 127.29, None, 129.23
+
+54.
+... u <L2JcosinL2J> tu nu== sa-sakamu-an=tu i mahini tu ngangan nya hiza sa.\
+CN center TOP GEN SA-speak-PF=PFV PREP this.time OBL name GEN.that that DM
+CN 中心 主題標記 屬格 SA-說-受焦=完成貌 介系詞 這時 斜格 名字 屬格.那個 那個 DM
+
+#e It became the center of conversation then.
+#c 這時候那東西變成談話的中心。
+#n cosin為日本漢字語，寫成中心。
+#a 129.23, None, 133.73
+
+55.
+... u Sapad han ku nu mita u==,-
+CN PN TOP NOM GEN 1PL.POSS.INCL CN
+CN 地名 主題標記 主格 屬格 1PL.所有格.包含 CN
+
+#a 133.73, None, 136.81
+
+56.
+.. u Pangcah,\
+CN Amis
+CN 阿美族
+
+#a 136.81, None, 137.79
+
+57.
+... u== Sakizaya,\
+CN sakizaya
+CN 撒其萊雅族
+
+#e Sapad was ours (Sakizaya’s).
+#c 我們撒其萊雅族的Sapad。
+#n pangcah為阿美族族人稱阿美族人時的用法。
+#a 137.79, None, 139.8
+
+58.
+... nu tek nu hya aca nu luwak,\
+GEN TEK GEN that too GEN Chinese
+屬格 TEK 屬格 那個 也 屬格 漢人
+
+#a 139.8, None, 142.14
+
+59.
+.. a kamu kuyza u,
+LNK speech NOM.that CN
+連繫詞 話 主格.那個 CN
+
+#a 142.14, None, 143.39
+
+60.
+... Sapadien sa hananay mahini-ay.\
+PN say so.called this.time-FAC
+地名 說 所謂的 這時候-表事實
+
+#e Only the Chinese called it Sapadien.
+#c 只有漢人會說Sapadien。
+#a 143.39, None, 146.06

@@ -1,0 +1,1442 @@
+topic: Moving 1
+type: Narrative
+language: 泰雅語, Atayal, Mayrinax (汶水)
+speaker: 劉建和, Takun, male, 1946-07-01
+collected: 2011-04-01
+revised: 2014-2-27
+video: AtaNr-moving_Takun.mp3
+
+1.
+kala--
+FS
+FS
+
+#a 1.02, None, 1.4
+
+2.
+.. panqu'an-ay=mu ku'==,_
+describe-LF=1SG.GEN NOM
+敘述-處焦=1SG.屬格 主格
+
+#a 1.4, None, 2.97
+
+3.
+.. g<in>-gamil-an nku' na-navakis sunga'.\
+<PFV>RED-radicate-LF GEN Ca-elder past
+<完成>重疊-生根-處焦 屬格 Ca重疊-年長者 過去
+
+#e I'll describe the origins of our ancestors in the past.
+#c 我來敘述以前祖先的起源。
+#n gingamilan詞根為gamil，指植物生根、抓住土壤。主焦形式為 g<um>amil。
+#n nanavakis 原意為"年長者"，此處應指"泰雅族人的祖先"。
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+#a 2.97, None, 5.56
+
+4.
+...(1.7) tiku== g<in>-gamil-an=ta' ka,_
+DM <PFV>RED-redicate-LF=1IPL.GEN LNK
+DM <完成>重疊-生根-處焦=1IPL.屬格 連詞
+
+#a 5.56, None, 9.53
+
+5.
+... navakis sunga' ga,/
+elder past TOP
+年長者 過去 主題
+
+#a 9.53, None, 11.43
+
+6.
+...(0.9) m<in>kahul kia pa^pak ru,_
+<PFV>come.from LOC PN CONJ
+<完成>來自 處格 專名 連接詞
+
+#n 此句kia'為表處所，後接表處所名詞，和表存在的kia'句法表現不同。
+#a 11.43, None, 14.17
+#n 此句kia'為表處所，後接表處所名詞，和表存在的kia'句法表現不同。
+
+7.
+.. m<in>sa'a'utu'=ta' kia kahavag ka,_
+<PFV>aggregate=1EPL.NOM LOC all LNK
+<完成>聚集=1EPL.NOM 處格 所有 連詞
+
+#a 14.17, None, 16.95
+
+8.
+...(1.2) ka' a'iani runi i taiwan.\
+LNK originally here LOC PN
+連詞 原本 這裡 處格 地名
+
+#e The origin of our ancestors in the past was from the Papak Mountain, and those who were originally here in Taiwan had all been aggregated there.
+#c 我們祖先的起源來自大霸尖山，原本住在台灣的人們都曾經聚集在那裏。
+#n 此處原本住在台灣的人，應指所有原住民，但亦可指泛泰雅族人。
+#a 16.95, None, 20.33
+
+9.
+...(0.8) tuliq ru,_
+get.up CONJ
+起身 連接詞
+
+#n tuliq原意為"起身"，此處有"突然間"的語意。
+#a 20.33, None, 22.21
+#n tuliq原意為"起身"，此處有"突然間"的語意。
+
+10.
+...(1.4) wah-an na vayhu la.\
+come-LF GEN typhoon PART
+來-處焦 屬格 颱風 語助詞
+
+#a 22.21, None, 25.07
+
+11.
+...(1.2) wah-an na vayhu ru,_
+come-LF GEN typhoon CONJ
+來-處焦 屬格 颱風 連接詞
+
+#a 25.07, None, 27.58
+
+12.
+.. siluhey ku,_
+collapse NOM
+崩塌 主格
+
+#a 27.58, None, 29.19
+
+13.
+... papak ru.\
+PN CONJ
+專名 連接詞
+
+#e Suddenly, a typhoon came, and after that the Papak mountain collapsed. 
+#c 突然間，風災就來了，然後風災來了之後大霸尖山就倒塌了。
+#a 29.19, None, 30.58
+
+14.
+.. ma-sugagai k<um>iyum su na-niq-un kahavag ku,_
+AF-divergence <AF>look.for ACC RED-eat-PF all NOM
+主焦-分開 <主焦>尋找 受格 重疊-吃-受焦 全部 主格
+
+#a 30.58, None, 33.6
+
+15.
+...(0.9) itaal runi taiwan ru,_
+PN here PN CONJ
+專名 這裡 地名 連接詞
+
+#e All the people originally living here in Taiwan then separated to look for food.
+#c 原本住在台灣的人們就分開去尋找食物。
+#n itaal 原專指泰雅族人，但因此處為敘述起源之說，宜翻譯為原住民。
+#a 33.6, None, 36.28
+
+16.
+...(1.2) aruwa y<um>iax tigi,_
+go <AF>go.downward toward
+去 <主焦>往下 向
+
+#n yumiax應指"下山"的動作。
+#a 36.28, None, 38.68
+#n yumiax應指"下山"的動作。
+
+17.
+.. karinku ku ruma' mu-wah tigi,_
+PN NOM some AF-come toward
+地名 主格 一些 主焦-來 向
+
+#a 38.68, None, 40.75
+
+18.
+... <L2MtaoyuanL2M> ku ruma' mu-wah tigi vari ku ruma' m-usa <L2MnantouL2M> ku ruma'.\
+PN NOM some AF-come toward PN NOM some AF-go PN NOM some
+地名 主格 一些 主焦-來 向 地名 主格 一些 主焦-去 地名 主格 一些
+
+#e Some went downward to Hualien; some came to Taoyuan; some came to Miaoli; some went to Nantou.
+#c 有些人往下到了花蓮；有些人來到桃園；有些人來到苗栗；有些人去到了南投。
+#a 40.75, None, 45.47
+
+19.
+... <L2MsuoyiL2M>,_
+so
+所以
+
+#a 45.47, None, 46.65
+
+20.
+...(0.8) tiku== hani la ga ini' paska' kahavag na'-aring kia i==ni' paska' ku,_
+DM now PART TOP NEG resemble all NA-start then NEG resemble NOM
+DM 現在 語助詞 主題 否定 相像 所有 NA-開始 那時 否定 相像 主格
+
+#n 此句kia'表"那時"，和存在句以及表處所之用法不同。因此有三種語法功能不同的kia':(1) kia' 存在; (2) kia' 處所; (3)kia' 那時。
+#a 46.65, None, 51.46
+#n 此句kia'表"那時"，和存在句以及表處所之用法不同。因此有三種語法功能不同的kia':(1) kia' 存在; (2) kia' 處所; (3)kia' 那時。
+
+21.
+...(0.8) kai'=ta' ka itaa==l X la ru,\
+language=1IPL.GEN LNK PN X PART CONJ
+語言=1EPL.屬格 連詞 專名 ?? PART CONJ
+
+#e So, now we are all different from each other. Our languages of the Atayal people have all become different since then. 
+#c 所以現在大家彼此都不同了。自從那時候泰雅族的語言就都彼此不相像了。
+#a 51.46, None, 54.79
+
+22.
+...(0.9) tiku==,_
+DM
+DM
+
+#a 54.79, None, 56.64
+
+23.
+... mu-vaq runi i==,_
+AF-arrive.by.coming.downward here LOC
+主焦-下到 這裡 處格
+
+#n 此句muvaq為"下到"之意，表動作的方式為"往下"且有"到達"目的地。IU16之yumiax則是只有表動作"往下"。
+#a 56.64, None, 58.49
+#n 此句muvaq為"下到"之意，表動作的方式為"往下"且有"到達"目的地。IU16之yumiax則是只有表動作"往下"。
+
+24.
+.. vari hani ga,_
+PN here TOP
+地名 這裡 主題
+
+#a 58.49, None, 59.88
+
+25.
+...(1.3) <L2MtaiyazuL2M> sal-un ku minuka--
+PN call-PF NOM FS
+專名 稱作-受焦 主格 FS
+
+#a 59.88, None, 62.98
+
+26.
+... mu-vaq vari ga aqih gi,_
+AF-come.downward PN TOP bad CONJ
+主焦-下到 地名 主題 壞 連接詞
+
+#a 62.98, None, 64.91
+
+27.
+.. qais-un ragiax la ga,_
+separate-PF mountain PART TOP
+分隔-受焦 山脈 語助詞 主題
+
+#a 64.91, None, 66.43
+
+28.
+.. ini' paska' ku hanaang na ka-- kai' la gi,_
+NEG resemble NOM accent GEN FS language PART CONJ
+否定 相像 主隔 腔調 屬格 FS 語言 語助詞 連接詞
+
+#e Those who came downward to Miaoli here are called the Atayal people. Since we are separated by the mountains from each other, unfortunately, the accents of our languages do not resemble each other.
+#c 下到苗栗這裡的，就稱做為泰雅族。但是因為被山脈隔開，語言的腔調就彼此不相像。
+#a 66.43, None, 69.11
+
+29.
+... vali asi nku==,_
+NEG be.like GEN
+否定 如同 屬格
+
+#a 69.11, None, 71.1
+
+30.
+... <L2J zitai L2J> sku hani m-aglu karari'ax ru,_
+era LOC now AF-aggregate everyday CONJ
+時代 處格 現在 主焦-聚集 每天 連接詞
+
+#a 71.1, None, 74.43
+
+31.
+...(1.4) ru m-aska' ku kai’ kia ku ruma' ga,_
+CONJ AF-resemble NOM language EXIST some TOP
+連接詞 主焦-相像 主格 語言 存在 一些 主題
+
+#a 74.43, None, 78.0
+
+32.
+.. imu^liq ku hanaang na kai’._
+heavy NOM accent GEN language
+重 主格 腔調 屬格 語言
+
+#a 78.0, None, 79.92
+
+33.
+.. kia ku ruma' ga,_
+EXIST NOM some TOP
+存在 主格 一些 主題
+
+#a 79.92, None, 80.9
+
+34.
+...(1.6) ga mahuay ku kai’=nha' ru,_
+TOP moderate NOM language=3PL.GEN CONJ
+主題 柔和 主格 語言 3PL.屬格 連接詞
+
+#e It wasn't like the modern era when we gather around everyday, so that the languages resemble each other. (Because being separated by mountains,) there are some people with heavy accents, and there are those whose language sounds moderate.
+#c 不像現在的時代每天聚集在一起，語言才會彼此相向。（因為被山脈隔開）有一些人語言的腔調比較重，有些人他們的語言腔調比較溫和謙遜。
+#a 80.9, None, 84.6
+
+35.
+...(2.1) kia ku san mha matu'au,/
+EXIST NOM call.PF COMP PN
+存在 主格 稱作.受焦 補語詞 專名
+
+#a 84.6, None, 88.39
+
+36.
+.. kia ku san mha matu'uwal.\
+EXIST NOM call.PF say PN
+存在 主格 稱作.受焦 說 專名
+
+#e There are those who are (whose language is) called Matu'au, and there are those who are (whose language is) called Matu'uwal.
+#c 有些人（的語言）就稱作Matu'au，有些人（的語言）就稱做Matu'uwal。
+#n 在苗栗山區的泰雅族有稱作Matu'au和Matu'uwal的由來是，前者族人回話時說"是/好"講"'au"，後者則是說"'uwal"。因此Matu'au和Matu'uwal字面上意思為"說'au為是/好"的人以及"說'uwal為是/好"的人"。
+#n 此處腔調重的族群指的是Matu'uwal(即清安村、此篇語料發音人的方言)，由於該方言保留較多的喉塞音，因此聽起來較艱澀難懂。Matu'au的方言(清安村族人稱其為"澤敖利")則是較少喉塞音，因此聽起來較滑順、溫和。
+#a 88.39, None, 90.16
+
+37.
+...(1.2) ru'
+CONJ
+連接詞
+
+#a 90.16, None, 91.87
+
+38.
+.. tiku sami ka==,_
+DM 1EPL.NEU LNK
+DM 1EPL.中性格 連詞
+
+#a 91.87, None, 93.23
+
+39.
+... mavatu'an hani hiya' ga,/
+PN here 3SG.NEU TOP
+地名 這裡 3SG.中性格 主題
+
+#a 93.23, None, 95.32
+
+40.
+...(1.3) na-'aring sami i==,_
+NA-start 1EPL.NEU LOC
+NA-開始 1EPL.NEU 處格
+
+#a 95.32, None, 98.0
+
+41.
+.. kia mu-wah ru ukas vay na-niq-un.\
+EXIST AF-come CONJ NEG really RED-eat-PF
+存在 主焦-來 連接詞 否定詞 真的 重疊-吃-受焦
+
+#e As for us, the people of Mavatu'an here, since we had come, there really wasn't any food. 
+#c 而我們在Mavatu'an這裡，自從我們來了之後就真的都沒有食物。
+#a 98.0, None, 100.29
+
+42.
+.. asi paglu kina,\
+only aggregate with
+只 聚集 KINA
+
+#n 此句發音人表示kina為"跟/和"之意。
+#a 100.29, None, 101.98
+#n 此句發音人表示kina為"跟/和"之意。
+
+43.
+... ^qasinu gi,_
+beast CONJ
+野獸 連接詞
+
+#a 101.98, None, 103.73
+
+44.
+... kia--
+FS
+FS
+
+#a 103.73, None, 104.32
+
+45.
+... ukas a==,_
+NEG NOM
+否定 主格
+
+#a 104.32, None, 105.63
+
+46.
+...(0.8) ^patus sunga' gi,_
+gun past CONJ
+槍 過去 連接詞
+
+#a 105.63, None, 107.96
+
+47.
+... vali kia a==,_
+NEG EXIST NOM
+否定 存在 主格
+
+#a 107.96, None, 109.91
+
+48.
+...(1.4) qavuli' uwi X._
+gun.powder also X
+火藥 也 ??
+
+#e We had no choice but stay together with the beasts because there were no guns in the past, and no gun powder either. 
+#c 只能和野獸在一起，因為以前沒有槍，也沒有火藥。
+#a 109.91, None, 112.46
+
+49.
+...(1.1) nanak ku puting ^takis vay ku,_
+only NOM hunting.knife hunting.knife really NOM
+單獨 主格 獵刀 獵刀 真的 主格
+
+#n 此句有兩種獵刀說法，前者puting為澤傲利方言(Matu'au)的說法，後者takis為Matu'uwal方言的說法。
+#a 112.46, None, 115.85
+#n 此句有兩種獵刀說法，前者puting為澤傲利方言(Matu'au)的說法，後者takis為Matu'uwal方言的說法。
+
+50.
+...(0.8) ras-un=mian ru,_
+bring-PF=1EPL.GEN CONJ
+攜帶-受焦=1EPL.屬格 連接詞
+
+#e What we brought were really only the hunting knives.
+#c 我們所攜帶的真的只有獵刀。
+#a 115.85, None, 117.96
+
+51.
+...(2.1) ini^wan na qasinu k<in>qiyanux=mian sunga' i-- 
+same GEN beast <PFV>life=1EPL.GEN past FS
+相同 屬格 野獸 <完成>生活=1EPL.屬格 過去 FS
+
+#e Our lives in the past were the same as those of the beasts.
+#c 我們過去的生活就和野獸一樣。
+#a 117.96, None, 122.73
+
+52.
+.. tal-an qutux qasinu ga,_
+see-LF one beast TOP
+看見-處焦 一 野獸 主題
+
+#a 122.73, None, 124.31
+
+53.
+.. tuting-un ru,_
+beat-PF CONJ
+打-受焦 連接詞
+
+#a 124.31, None, 125.77
+
+54.
+...(0.9) nanu yani ku==,\
+DM that NOM
+DM 那個 主格
+
+#a 125.77, None, 127.88
+
+55.
+... si-qiyanux nku,\
+IF-life GEN
+工焦-生活 屬格
+
+#a 127.88, None, 129.97
+
+56.
+.. sami ka itaal hani.\
+1EPL.NEU LNK PN here
+1EPL.中性格 連詞 專名 這裡
+
+#e If we saw a beast, we beat it, and that was what we, the Atayal people here, depended on when living.
+#c 如果看到一隻野獸，就把牠打死，我們這裡的泰雅族人就是靠這個維生。
+#a 129.97, None, 131.35
+
+57.
+...(1.0) ru==,/
+CONJ
+連接詞
+
+#a 131.35, None, 133.67
+
+58.
+...(0.9) ma-qahquwaw=sami ru mu-wah=sami i== yahu na pa==pak la ru.\
+AF-go.downhill=1EPL.NOM CONJ AF-come=1EPL.NOM LOC bottom GEN PN PART CONJ
+主焦-下坡=1EPL.主格 連接詞 主焦-來=1EPL.主格 處格 下面 屬格 地名 語助詞 連接詞
+
+#e We went downhill and came to the foot of the Papak Mountain. 
+#c 我們下坡然後就來到大霸尖山的下面。
+#n 此句maqahaquaw為"順勢下坡"之意，和yumiax"往下"不同。
+#a 133.67, None, 138.26
+
+59.
+...(2.1) ru l<um>uag tikay su gag^hap na==,_
+CONJ <AF>find a.little ACC seed GEN
+連接詞 <主焦>找到 一點 受格 種子 屬格
+
+#a 138.26, None, 142.68
+
+60.
+...(2.2) na ^pati' la ku==,_
+GEN rice PART NOM
+屬格 稻子 語助詞 主格
+
+#n 此句la ku亦可解釋為單一的言談標記lku，但因後有主格論元itaal，此處將其分開標記。
+#a 142.68, None, 146.79
+#n 此句la ku亦可解釋為單一的言談標記lku，但因後有主格論元itaal，此處將其分開標記。
+
+61.
+...(1.0) itaal.\
+PN
+專名
+
+#e The Atayal people found some rice seeds. 
+#c 泰雅人找到了一些稻米的種子。
+#a 146.79, None, 148.24
+
+62.
+.. ki'i v<in>uway vay nku kamisama' ku==,_
+probably <PF>give really GEN God NOM
+可能 <受焦>給 真的 屬格 上帝 主格
+
+#a 148.24, None, 150.87
+
+63.
+.. yani su kaqiyanux ru.\
+that ACC life CONJ
+那個 受格 生活 連接詞
+
+#e That's probably God's gift, so that we can live on in that way. 
+#c 大概是上帝的賞賜，那樣才能過活。
+#a 150.87, None, 152.6
+
+64.
+... ta-'aring-un kia t<um>uvux.\
+TA-start-PF then <AF>sow
+TA-開始-受焦 那時 <主焦>播種
+
+#e From then on we have sowed.
+#c 從那時候開始就播種。
+#a 152.6, None, 154.95
+
+65.
+...(1.8) i-kia tikay ku i-rarawq na kahuniq ga pinang-un ru,_
+I-EXIST a.little NOM I-short GEN tree TOP cultivate-PF CONJ
+I-存在 一點 主格 I-矮 屬格 樹 主題 開墾-受焦 連接詞
+
+#a 154.95, None, 160.83
+
+66.
+...(1.6) ru tuvux-an tikay vali kituwa' ska' suvalay tahunak-an._
+CONJ sow-LF a.little NEG much just.enough really sit-LF
+連接詞 播種-處焦 一點 否定 很多 剛好足夠 真的 坐-受焦
+
+#e If there were some areas with short trees, we cultivated them, and sowed a little bit in some areas that were not large but were really just large enough for one to sit on.
+#c 如果有一些樹長得較矮的地方，就拿來開墾，然後播一點種，範圍不大，剛好可以坐下。
+#a 160.83, None, 166.24
+
+67.
+... t<um>uvux ku ka-knayril la ga,/
+<AF>sow NOM Ca-woman PART TOP
+<主焦>播種 主格 Ca重疊 語助詞 主題
+
+#e The women sowed.
+#c 女人們播種。
+#a 166.24, None, 168.71
+
+68.
+...(2.2) ga m-usa' i==,_
+TOP AF-go LNK
+主題 主焦-去 連詞
+
+#a 168.71, None, 172.01
+
+69.
+.. q<um>aluap ku==,_
+<AF>hunt NOM
+<主焦>打獵 主格
+
+#a 172.01, None, 173.42
+
+70.
+...(2.2) ku==,_
+NOM
+主格
+
+#a 173.42, None, 176.39
+
+71.
+... tamalung hiya' ru._
+man 3SG.NEU CONJ
+男人 3SG.中性格 連接詞
+
+#e The men went hunting.
+#c 男人們去打獵。
+#a 176.39, None, 177.95
+
+72.
+...(2.0) ukas a ^timu' ^sunga'._
+NEG NOM salt past
+否定 主格 鹽 過去
+
+#e There was no salt in the past.
+#c 以前沒有鹽。
+#a 177.95, None, 181.45
+
+73.
+...(0.7) nanuan ku timu' sunga' pisa.\
+what NOM salt past PART
+什麼 主格 鹽 過去 語助詞
+
+#e What do we have as salt in the past?
+#c 以前的鹽巴是什麼呢?
+#a 181.45, None, 183.88
+
+74.
+...(0.9) tiku,\	
+DM
+DM
+
+#a 183.88, None, 185.25
+
+75.
+... pa--
+FS
+FS
+
+#a 185.25, None, 185.81
+
+76.
+... pa-na-qali' su==,_
+PA-NA-bark ACC
+PA-NA-樹皮 受格
+
+#n qali'指"樹皮"，panaqali'則為"剝皮"之意。目前不確定此處pa-是否為"非實現"標記。亦不確定na-是否和na-'aring的前綴相同。
+#a 185.81, None, 187.26
+#n qali'指"樹皮"，panaqali'則為"剝皮"之意。目前不確定此處pa-是否為"非實現"標記。亦不確定na-是否和na-'aring的前綴相同。
+
+77.
+.. qali' na kahuniq ka ta-timu' rakus ga,_
+bark GEN tree LNK TA-salt camphor.tree TOP
+樹皮 屬格 樹 連詞 TA-鹽 樟樹 主題
+
+#a 187.26, None, 190.1
+
+78.
+.. i-samama'ah tikay la ga,_
+I-sour a.little PART TOP
+I-酸 一點 PART TOP
+
+#a 190.1, None, 191.94
+
+79.
+...(0.7) yani a timu' ru <XkitkuX> pring ga,_
+that NOM salt CONJ DM Rhus.javanica TOP
+那個 主格 鹽 連接詞 DM 羅氏鹽膚木 主題
+
+#a 191.94, None, 195.7
+
+80.
+...(0.8) vuway=nia' ga al-an su timu'.\
+fruit=3SG.GEN TOP take-LF ACC salt
+果實=3SG.屬格 主題 拿-處焦 受格 鹽
+
+#e For the bark of trees that was salty, like that of the camphor trees, if it was a little sour, we made it into salt. For the Rhus javanica tree, its fruits were taken as salt.
+#c 樹皮如果有鹹味，像是樟樹，如果有點酸酸的，那個就當作鹽巴。羅氏鹽膚木的果實也拿來當作鹽巴。
+#a 195.7, None, 198.49
+
+81.
+...(1.8) ru==,_
+CONJ
+連接詞
+
+#a 198.49, None, 201.11
+
+82.
+...(1.3) maqaq--
+FS
+FS
+
+#a 201.11, None, 202.78
+
+83.
+.. mu-wah lawwi ma-qahquwaw lawwi ru==,/
+AF-come more AF-go.down.hill more CONJ
+主焦-來 再 主焦-下坡 再 連接詞
+
+#a 202.78, None, 205.84
+
+84.
+...(0.8) puah mha vay i mavatu'an la.\
+arrive COMP really LOC PN PART
+到達 補語詞 真的 處格 地名 語助詞
+
+#e As they came down hill a little more, they arrived at Mavatu'an.
+#c 再往下坡就到了Mavatu'an。
+#n puah為擬聲詞，形容一下子就到達了某處(類似：嘩！一聲就到了)。
+#a 205.84, None, 208.5
+
+85.
+...(1.5) ru.\
+CONJ
+連接詞
+
+#a 208.5, None, 210.43
+
+86.
+.. mu-wah ku gipun la yani ku,_
+AF-come NOM PN DM that NOM 
+主焦-來 主格 專名 DM 那個 主格
+
+#a 210.43, None, 212.79
+
+87.
+...(1.4) maymal su kaa==l ru,_
+fifty LOC year CONJ
+五十 處格 年 連接詞
+
+#a 212.79, None, 216.01
+
+88.
+...(0.7) masiya-- ma^tupagal su kaal ma-siyaw larua?/
+FS sixty LOC year AF-exceed PART
+FS 六十 處格 年 主焦-超過 PART
+
+#n 此句larua譯為"是嗎?"，因陳述時反問旁邊的人而使用。
+#a 216.01, None, 219.17
+#n 此句larua譯為"是嗎?"，因陳述時反問旁邊的人而使用。
+
+89.
+... ku gipun hani ru,\
+NOM PN this CONJ
+主格 專名 這個 連接詞
+
+#e And the Japanese came. Were the Japanese here over sixty years?
+#c 然後日本人就來了。日本人在這有超過六十年嗎?
+#a 219.17, None, 220.91
+
+90.
+...(2.1) ki'i=nia' tal-an ru kia suquliq ka suguhiloq i== ragiax ru,_
+probably=3SG.GEN see-LF CONJ EXIST person LNK smoke LOC mountain CONJ
+可能=3SG.屬格 看-處焦 連接詞 存在 人 連詞 冒煙 處格 山脈 連接詞
+
+#a 220.91, None, 227.31
+
+91.
+...(1.5) tu'-un=nia' ku gipun mha hal-i mag-an ru,_
+force-PF=3SG.GEN NOM PN COMP go-PF.IMP take-LF CONJ
+迫使-受焦=3SG.屬格 主格 專名 補語詞 去-受焦.祈使 拿-處焦 連接詞
+
+#a 227.31, None, 231.43
+
+92.
+.. pasivaq-ay=ta' su==,_
+teach-LF=1IPL.NOM ACC
+教導-處焦=1IPL.主格 受格
+
+#a 231.43, None, 232.71
+
+93.
+pa-ptawwaw mha,\
+IRR-work say
+非實現-工作 說
+
+#a 232.71, None, 233.97
+
+94.
+... ku gipun ru,\
+NOM PN CONJ
+主格 專名 連接詞
+
+
+#e They probably saw there were people making smoke in the mountains, and said "Go take them!" "Let's teach them how to work!" said the Japanese. 
+#c 他們大概看到山上有人在生煙，就說："去帶他們！" 日本人就說："我們來教他們工作吧！"
+#a 233.97, None, 235.55
+
+95.
+...(1.7) ru,\
+CONJ
+連接詞
+
+#a 235.55, None, 237.67
+
+96.
+... pasivaq-an=sami=nia' su,_
+teach-LF=1EPL.NOM=3SG.GEN ACC
+教導-受焦=1EPL.主格=3SG.屬格 受格
+
+#a 237.67, None, 239.92
+
+97.
+.. patwaw-an la ru,_
+work-LF PART CONJ
+工作-處焦 語助詞 連接詞
+
+#e Then, they taught us the way of working.
+#c 然後，他們便教導了我們工作的方式。
+#n 此處nia'指日本。
+#n patwaw-an為"工作的方式"。
+#a 239.92, None, 241.48
+
+98.
+... k<um>aay=sami su slaq la._
+<AF>dig=1EPL.NOM ACC field PART
+<主焦>挖=1EPL.主格 受格 田 語助詞
+
+#e We dug some fields.
+#c 我們就挖田。
+#a 241.48, None, 243.76
+
+99.
+...(1.9) ku,_
+FIL
+FIL
+
+#a 243.76, None, 246.08
+
+100.
+.. yani ga tiku k<in>qiyanux=mian sku k<in>aki=mian i,_
+that TOP DM <PFV>life=1EPL.GEN LOC <PFV>stay=1EPL.GEN LOC
+那個 主題 DM <完成>生活=1EPL.屬格 處格 <完成>停留=1EPL.屬格 處格
+
+#a 246.08, None, 249.13
+
+101.
+.. mavatu'an sunga' ki ga,/
+PN past PART TOP
+地名 過去 語助詞 主題
+
+#e This is just our lives during our stay in Mavatu'an in the past. 
+#c 這就是我們過去留在Mavatu'an的生活。
+#a 249.13, None, 250.86
+
+102.
+...(1.1) mumuwa' su ^sayi'._
+AF.plant ACC taro
+主焦.種植 受格 芋頭
+
+#a 250.86, None, 253.51
+
+103.
+mumuwa' su qagi==rang.\
+AF.plant ACC bean
+主焦.種植 受格 豆子
+
+#a 253.51, None, 255.17
+
+104.
+...(0.9) nanu’ yani ku==,\
+DM that NOM
+DM 那個 主格
+
+#a 255.17, None, 257.4
+
+105.
+...(0.9) si-qiyanux=mian ru
+IF-life=1EPL.GEN CONJ
+工焦-生活=1EPL.屬格 連接詞
+
+#e we planted taros and planted beans. That's what we depended on when we lived. 
+#c 種植芋頭，種植豆子，我們就是以此維生。
+#a 257.4, None, 259.84
+
+106.
+...(2.0) XX--
+FS
+FS
+
+#a 259.84, None, 262.32
+
+107.
+...(0.8) gi^ni'-un ^taal ga,/
+in.this.way-PF AF.see TOP
+這樣-受焦 主焦.看到 主題
+
+#a 262.32, None, 264.41
+
+108.
+.. aqih gi qaat kuing i,_
+bad CONJ NEG 1SG.NEU LNK
+壞 因為 否定 1SG.中性格 連詞
+
+#a 264.41, None, 265.86
+
+109.
+(0) s<in>langa-'an s<in>vilan kai’ nku navakis sunga' ga,/
+<PFV>follow-LF <PFV>order language GEN elder past TOP
+<完成>跟隨-處焦 <完成>交代 語言 屬格 年長者 過去 主題
+
+#e Seen in this way, it is unfortunate that I did not follow the orders and the words of the elders in the past. 
+#c 這麼看來，很不幸地我沒有跟隨過去老人家的交代。
+
+110.
+...(2.5) valayq uwi ku k<in>qiyanux ^ka== asi nku yani ^ga,_
+good also NOM <PFV>life LNK be.like GEN that TOP
+好 也 主格 <完成>生活 連詞 如同 屬格 那個 主題
+
+#a 269.18, None, 274.96
+
+111.
+...(1.4) gi,_
+CONJ
+連接詞
+
+#a 274.96, None, 276.91
+
+112.
+.. ukas tikay a==,_
+NEG a.little NOM
+否定 一點 主格
+
+#a 276.91, None, 278.5
+
+113.
+...(1.7) in-aku^x-an.\
+PFV-worry-LF
+完成-擔憂-處焦
+
+#e Living like that is also good, because there is less to worry about.
+#c 像那樣的生活也是很好，因為比較沒有擔心的事。
+#a 278.5, None, 281.62
+
+114.
+...(2.1) ini' kuxaal ^sunga'.\
+NEG sickness past
+否定 生病 過去
+
+#e There was no sickness in the past.
+#c 過去沒有病痛。
+#a 281.62, None, 285.28
+
+115.
+...(1.9) ni'i==,\
+NEG
+否定
+
+#n 此句ni'i應為否定詞ini'，為口誤。
+#a 285.28, None, 288.32
+#n 此句ni'i應為否定詞ini'，為口誤。
+
+116.
+...(1.1) lu==waw su kaqi^l-an ru,_
+find ACC terrible-LF CONJ
+找到 受格 不好-處焦 連接詞
+
+#n luwaw和luwag為free variation，兩者皆指"找到"。
+#a 288.32, None, 291.58
+#n luwaw和luwag為free variation，兩者皆指"找到"。
+
+117.
+...(0.7) nanu’ asi kaqiya==nux asi suvalay nku==,\
+DM only life be.like really GEN
+DM 只有 生活 如同 真的 屬格
+
+#a 291.58, None, 295.24
+
+118.
+...(1.82) ku==
+FIL
+FIL
+
+#a 295.24, None, 297.5
+
+119.
+.. sqas-- qasi==nu.\
+FS beast
+FS 野獸
+
+#e One would not find terrible things, and could just live like the beasts. 
+#c 不會找到不好的事，而且能夠就只像野獸那樣生活。
+#a 297.5, None, 298.82
+
+120.
+...(0.8) pan-qu'an-ay simu ku== na-'aring i==,_
+PAN-describe-LF 2PL.NEU NOM NA-start LOC
+PAN-敘述-處焦 2PL.中性格 主格 NA-開始 處格
+
+#a 298.82, None, 302.12
+
+121.
+...(1.8) i== mavatu'an ^ru taihuk sku savawqil hani ku rauwq na==,_
+LOC PN CONJ arrive LOC PN here NOM land GEN
+處格 地名 連接詞 到達 處格 地名 這裡 主格 土地 屬格
+
+#n 發音人所指的Mavatu'an其實是部落聚集人口最多處還要再往深山上去的地方，為該族族人最早在此地的住處。現人口最多處(草莓園、餐廳前後較平的路段，為後來停留開墾田地處)稱為Savawqil。
+#a 302.12, None, 308.43
+#n 發音人所指的Mavatu'an其實是部落聚集人口最多處還要再往深山上去的地方，為該族族人最早在此地的住處。現人口最多處(草莓園、餐廳前後較平的路段，為後來停留開墾田地處)稱為Savawqil。
+
+122.
+...(1.0) ralu'.\
+name 
+名字
+
+#a 308.43, None, 310.12
+
+123.
+.. ralu' nku rauwq ka==,_
+name GEN land LNK
+名字 屬格 土地 連詞
+
+#a 310.12, None, 312.08
+
+124.
+... in-uwah-an=mian.\
+PFV-come-LF=1EPL.GEN
+完成-來-處焦=1EPL.屬格
+
+#e I'll describe how we started from Mavatu'an and arrived at Savawqil here, and the names of the places which we passed through as we travelled. 
+#c 我來敘述從Mavatu'an開始一直到部落Savawqil這裡，以及我們所走過土地的地名。
+#a 312.08, None, 313.38
+
+125.
+...(0.8) matu'an tigi runi=nia’ ga,_
+PN toward side=3SG.GEN TOP
+地名 往 邊=3SG.屬格 主題
+
+#n runi一般為"這裡"之意。此處為"邊"的語意。
+#n Mavatu'an和Matu'an指同一地名。
+#a 313.38, None, 316.07
+#n runi一般為"這裡"之意。此處為"邊"的語意。
+#n Mavatu'an和Matu'an指同一地名。
+
+126.
+...(1.5) ga== gawng kating <XsernX>.\
+TOP PN PN ??
+主題 地名 地名 ??
+
+#e Up toward Mavatu'an is Gawng Kating. 
+#c 最往Mavatu'an 那一邊，是Gawng Kating. 
+#n gawng本意為"溪流"。kating本意為"牛"。
+#n 此指介於Mavatu'an(最深山，最高處)和Savawqil(部落)之間，但是往Mavatu'an的方向，且最靠近Mavatu'an之處是Gawng Kating。
+#a 316.07, None, 319.6
+
+127.
+.. tigi runi=nia' ga,_
+toward side=3SG.GEN TOP
+往 邊=3SG.屬格 主題
+
+#n 此處runi=nia'應指Mavatu'an那一側。
+#a 319.6, None, 321.19
+#n 此處runi=nia'應指Mavatu'an那一側。
+
+128.
+...(1.9) miyahu=nia' lawwi ga,/
+bottom=3SG.GEN more TOP
+下面=3SG.屬格 再 主題
+
+#n 此處miyahu=nia' 應指Gawng Kating的下面。
+#a 321.19, None, 324.45
+#n 此處miyahu=nia' 應指Gawng Kating的下面。
+
+128.
+...(1.9) miyahu=nia' lawwi ga,/
+bottom=3SG.GEN more TOP
+下面=3SG.屬格 再 主題
+
+#n 此處miyahu=nia' 應指Gawng Kating的下面。
+#a 321.19, None, 324.45
+#n 此處miyahu=nia' 應指Gawng Kating的下面。
+
+130.
+sayta' siri._
+PN PN
+地名 地名
+
+#e Toward the side of Mavatu'an, but down from Gawng Kating is Sayta' Siri.
+#c Mavatu'an 那一邊，但是Gawng Kating再下來一點，是Sayta' Siri。
+#a 325.38, None, 326.89
+
+131.
+...(2.0) s-- say--
+FS FS
+FS FS
+
+#a 326.89, None, 329.39
+
+132.
+.. mayahu'=nia' la ga,/
+bottom=3SG.GEN PART TOP
+下面=3SG.屬格 語助詞 主題
+
+#a 329.39, None, 330.94
+
+133.
+... takmaya'an.\
+PN
+地名
+
+#e Downward from Sayta' Siri would be Takmaya'an.
+#c Sayta' Siri的下面，是Takmaya'an。
+#a 330.94, None, 332.82
+
+134.
+...(1.6) mu-wah la ga paqalapaw.\
+AF-come PART TOP PN
+主焦-來 語助詞 主題 地名
+
+#e Coming further toward us from Takmaya'an, one would reach Paqalapaw. 
+#c 再往這邊來，是Paqalapaw。
+#a 332.82, None, 336.58
+
+135.
+...(1.6) miyahu=nia' la ga,_
+bottom=3SG.GEN PART TOP
+下面=3SG.屬格 語助詞 主題
+
+#a 336.58, None, 339.35
+
+136.
+...(2.3) tinapa'an.\
+PN
+地名
+
+#e Down from Paqalapaw would be Tinapa'an. 
+#c Paqalapaw的下面就是Tinapa'an。
+#n tinapa'an 原意為"削砍木頭的地方"。tumapa'為"砍"的主焦用法。
+#a 339.35, None, 342.86
+
+137.
+...(0.7) ru,_
+CONJ
+連接詞
+
+#a 342.86, None, 344.11
+
+138.
+.. yahu=nia' la ga,/
+bottom=3SG.GEN PART TOP
+下面=3SG.屬格 語助詞 主題
+
+#a 344.11, None, 345.46
+
+139.
+.. tatapihan.\
+PN
+地名
+
+#e Down from Tinapa'an would be Tatapihan. 
+#c Tinapa'an的下面是Tatapihan.
+#n tatapihan字面原意為"搧風的地方"。此地為山上較高的平地，因是族人爬山上坡時經常停下來休息搧風之處而命名Tatapihan。
+#a 345.46, None, 346.83
+
+140.
+...(1.6) miyahu'=nia' la ga,/
+bottom=3SG.GEN PART TOP
+下面=3SG.屬格 語助詞 主題
+
+#a 346.83, None, 349.74
+
+141.
+.. nawmatah.\
+PN
+地名
+
+#e Down from Tatapihan would be Nawmatah. 
+#c Tatapihan的下面就是Nawmatah。
+#n nawmatah字面意為"燒過木炭的地方"。vatah為語意為"木炭"。
+#a 349.74, None, 351.0
+
+142.
+...(1.9) ru== taihuk sugu'ivu' ru,_
+CONJ arrive PN CONJ
+連接詞 到達 地名 連接詞
+
+#a 351.0, None, 354.71
+
+143.
+...(2.3) yahu' nku sugu'ivu' lawwi ga,_
+bottom GEN PN more TOP 
+下面 屬格 地名 再 主題
+
+#a 354.71, None, 358.87
+
+144.
+nanu’ yani ku sal-un mha savawqil la ru,\
+DM that NOM call-PF COMP PN PART CONJ
+DM 那個 主格 稱作-受焦 補語詞 地名 DM
+
+#a 358.87, None, 361.21
+
+145.
+nanu’ hanian=sami maki sku,_
+DM PROG=1EPL.NOM be.at LOC
+DM 進行=1EPL.主格 在 處格
+
+#a 361.21, None, 363.14
+
+146.
+... ka-ki-'an=mian hani ru,_
+Ca-be.at-LF=1EPL.GEN here CONJ
+Ca重疊-在-處焦=1EPL.屬格 這裡 連接詞
+
+#e Afterwards one would arrive at Sugu'ivu', and much downward from Sugu'ivu' would be what is called Savawqil, which is the place we are at right here now. 
+#c 然後就到了Sugu'ivu'，然後Sugu'ivu'再往下就是我們所稱呼的Savawqil，也就是我們現在所在的地方。
+#n "我們現在所在的地方"，指的是此篇語料所採集之處。
+#a 363.14, None, 365.1
+
+152.
+...(1.1) atu' na muwani,_
+suppose LNK like.this
+假如 連詞 這樣
+
+#a 376.52, None, 378.61
+
+153.
+.. <L2MzhishiL2M>=ta' muwani ma-qiyanux i== sunga' ki ga,/
+just=1EPL.GEN like.this AF-life LOC past PART TOP
+只是=1IPL.屬格 這樣 主焦-生活 處焦 過去 語助詞 主題
+
+#a 378.61, None, 381.58
+
+154.
+...(2.7) ga,_
+TOP
+主題
+
+#a 381.58, None, 384.79
+
+155.
+...(2.4) ma'-usa' vay aqih ku k<in>qiyanux sunga' ga asi.ga qasinu <Xrum--X>,_
+AF.IRR-go really bad NOM <PFV>life past TOP be.like beast FS
+主焦.非實現 真的 壞 主格 <完成>生活 過去 主題 如同 野獸 FS
+
+#e Suppose we kept on living like that in the past, our lives were really going to be bad because we were just like the beasts. 
+#c 假如我們只是像過去那樣生活，生活真的會很不好，因為就像野獸。
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga）等語意。目前將此類用法合併為一個單位標記。
+#a 384.79, None, 390.85
+
+156.
+...(1.1) um-iyu ku==,_
+AF-change NOM
+主焦-改變 主格
+
+#a 390.85, None, 393.03
+
+157.
+... ma-lahang ita' la,\
+AF-take.care 1IPL.NEU DM
+主焦-照顧 1IPL.中性格 DM
+
+#e Those ruling us have changed now. 
+#c 統治我們的人已經改變了。
+#a 393.03, None, 395.07
+
+158.
+...(0.9) sayug-un nku tu'iya' la ku==,_
+replace-PF GEN PN PART NOM
+代替-受焦 屬格 專名 語助詞 主格
+
+#a 395.07, None, 398.05
+
+159.
+...(1.6) ma-lahang ita' la ru,\
+AF-take.care 1IPL.NEU PART CONJ
+主焦-照顧 1IPL.中性格 語助詞 連接詞
+
+#e Those ruling us have been replaced by the Chinese. 
+#c 統治我們的人已經替換成漢人。
+#n 此句有兩個詞彙和"換"相關。um-iyu 'AF-change'為"改變"之意，如：umniyu su' inlungan i Tumun 'Tumun已經改變了他的心態'。sayug-un 'replace-PF'為"代替、替換"之意，如：sumayug su' gipun ku' tu'iya '大陸人已經代替了日本人'
+#a 398.05, None, 401.27
+
+160.
+...(1.7) vali i==,\
+NEG LNK
+否定 連詞
+
+#a 401.27, None, 404.23
+
+161.
+.. ^aqih la <L2Mpi nageL2M> ki--
+bad PART compare that FS
+壞 語助詞 比 那個 FS
+
+#a 404.23, None, 406.21
+
+162.
+.. k<in>lahang-an nku gipun ka <L2JtikuksiyugiL2J> ku,_
+<PFV>take.care-LF GEN PN LNK imperialism NOM
+<完成>照顧-處焦 屬格 專名 連詞 帝國主義 主格
+
+#e It's not that the imperialist Japanese treated us badly when ruling us. 
+#c 並不是說帝國主義日本統治的不好。
+#a 406.21, None, 409.46
+
+163.
+...(1.3) ku,_
+FIL
+FIL
+
+#a 409.46, None, 411.25
+
+164.
+.. k<in>lahang-an na tu'iya’ hani ka si--
+<PFV>take.care-LF GEN PN this LNK FS
+<完成>照顧-處焦 屬格 專名 這個 連詞 FS
+
+#a 411.25, None, 413.15
+
+165.
+...(1.9) kavalayq la ru,\
+good PART CONJ
+好 語助詞 連接詞
+
+#e The Chinese ruled us well. 
+#c 漢人也統治的很好。
+#a 413.15, None, 416.19
+
+166.
+mahuway suvalay ku==,_
+thank really NOM
+感謝 真的 主格
+
+#a 416.19, None, 417.62
+
+167.
+... ma-lahang ita' hani ka,_
+AF-take.care 1EPL.NEU here LNK
+主焦-照顧 1EPL.中性格 這裡 連詞
+
+#e Thank those who are ruling us here.
+#c 非常感謝在這裡統治我們的人。
+#a 417.62, None, 419.97
+
+168.
+...(1.0) anana==nu nian=nia' i si-pasivaq ru,_
+whatever PROG=3SG.GEN LNK BF-teach CONJ
+不管如何 進行=3SG.屬格 連詞 予焦-教導 連接詞 
+
+#e No matter what, they are teaching. 
+#c 不管如何，他們都在教導。
+#n 此處nian應為hanian的縮減。
+#a 419.97, None, 423.64
+
+169.
+...(2.1) uN--
+FIL
+FIL
+
+#a 423.64, None, 425.98
+
+170.
+.. nian=nia' i <L2JkinkiyuL2J> ku in-kahul-an nku==,_
+PROG=3SG.GEN LNK research NOM PFV-origin-LF GEN
+進行=3SG.屬格 連詞 研究 主格 完成-起源-處焦 屬格
+
+#a 425.98, None, 429.13
+
+171.
+...(1.3) navakis nku itaal 
+elder GEN PN 
+年長者 屬格 專名
+
+#e They are doing research on the origin of the Atayal people. 
+#c 他們在研究泰雅族的起源。
+#a 429.13, None, 432.03
+
+172.
+i^ni' kusa m-- mha uw,_
+NEG say FS say COMP
+否定 說 FS 說 補語詞
+
+#n 此處kusa有"說"的意思。ini' kusa maha 可詮釋為 "沒有說" (NEG say COMP)；asi kusa為"只好這麼說"。
+#n 此處uw為接在mha' '說'後，緊接為一完整子句。暫標記為補語詞。
+#a 432.03, None, 433.59
+#n 此處kusa有"說"的意思。ini' kusa maha 可詮釋為 "沒有說" (NEG say COMP)；asi kusa為"只好這麼說"。
+#n 此處uw為接在mha' '說'後，緊接為一完整子句。暫標記為補語詞。
+
+173.
+... simu ka itaal ga,/
+2PL.NEU LNK PN TOP
+2PL.中性格 連詞 專名 主題
+
+#a 433.59, None, 435.55
+
+174.
+...(1.5) ga,_
+TOP 
+主題
+
+#a 435.55, None, 437.55
+
+175.
+.. simu nanak ini' kusa ru mahuway suvalay ru,_
+2PL.NEU only NEG say CONJ thank really CONJ
+2PL.中性 單獨 否定 說 連接詞 感謝 真的 連接詞
+
+#e They didn't say "You aborigines, live by yourself!" We are really thankful. 
+#c 他們並沒有說你們原住民單獨就好，真的很感謝。
+#n 此處simu nanak意指讓原住民族人單獨生活，不給予幫助。
+#a 437.55, None, 440.5
+
+176.
+...(1.2) nanu' uw==,_
+DM FIL
+DM FIL
+
+#a 440.5, None, 442.44
+
+177.
+(0) ita' ka== itaal hani ki ga kalawkah-ay=ta' kahavag.\
+1EPL.NEU LNK PN here PART TOP strong-LF=1IPL.GEN all
+1EPL.中性格 連詞 專名 這裡 語助詞 主題 強壯-處焦=1EPL.屬格 全部
+
+178.
+...(1.3) naki=ta' i==,_
+NAKI=1EPL.GEN LNK
+NAKI=1EPL.屬格 連詞
+
+#a 445.7, None, 448.08
+
+179.
+.. ma-- mana-valayq ma-qiyanux ku va-vawuraw hani.\
+FS MANA-good AF-life NOM Ca-land this
+FS MANA-好 主焦-生活 主格 Ca重疊-土地 這個
+
+#e We aborigines here, let's all work hard, so that we can live well on this land. 
+#c 我們這裡的原住民們，我們大家一起努力，才能好好的在這塊土地上生活。
+#n mana-目前不確定如何標記。加綴在valayq前有使其有manner的語意(好好的)。
+#a 448.08, None, 451.27
+
+180.
+...(1.3) ana ku,_
+even NOM
+即使 主格
+
+#a 451.27, None, 453.26
+
+181.
+...(1.5) kamisama' uwi ga,_
+God also TOP
+上帝 也 主題
+
+#a 453.26, None, 455.94
+
+182.
+.. kalahang-ay=ta'=nia'.\
+take.care-LF=1EPL.NOM=3SG.GEN
+照顧-處焦=1EPL.主格=3SG.屬格
+
+#e Even God will take care of us.
+#c 就連上帝也會照顧我們。
+#n 此處-ay 為projective focus marker的非主焦形式，其語用功能有加強主事者(即此處的上帝)行事的意願。
+#a 455.94, None, 457.24
+
+183.
+.. asi=ta' pa-spung-i kamisama' ka,_
+only=1EPL.NOM IRR-measure-NAF.IRR God LNK
+只=1EPL.主格 非實現-衡量-非主焦.非實現 上帝 連詞
+
+#a 457.24, None, 459.43
+
+184.
+.. ma'-usa' ma-lahang ita'.\
+AF.IRR-go AF-take.care 1EPL.NEU
+主焦.非實現-去 主焦-照顧 1EPL.中性格
+
+#e Let's just obey God, who's going to take care of us. 
+#c 我們就順從會照顧我們的耶穌吧。
+#a 459.43, None, 460.95
+
+185.
+.. mahuway ^simu.\
+thank 2PL.NEU
+感謝 2PL.中性格
+
+#e Thank you all.
+#c 謝謝你們。
+#a 460.95, None, 461.97

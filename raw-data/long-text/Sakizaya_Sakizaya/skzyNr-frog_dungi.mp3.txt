@@ -1,0 +1,1053 @@
+topic: frog_Dungi
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 蔡宜庭, dungi, female, 1949-11-26
+collected: 2009-08-28
+revised: None
+video: skzyNr-frog_dungi.mp3
+
+1.
+...(0.7) u labi=tu tahkal=tu ku bulad.\
+CN night=PFV go.out=PFV NOM moon
+CN 晚上=完成貌 去外面=完成貌 主格 月亮
+
+#e At night, the moon came out.
+#c 晚上月亮出來了。
+#a 1.04, None, 3.54
+
+2.
+.. u ^zu==^ma kuni ka-kapah.\
+CN special NOM.this CaRED-good
+CN 特別 主格.這個 Ca重疊-好
+
+#e It was specially good.
+#c 這特別好。
+#a 3.54, None, 6.05
+
+3.
+.. ayza a demiad kina labi,\
+now LNK day NOM.this night
+現在 連繫詞 天 主格.這個 晚上
+
+#a 6.05, None, 8.5
+
+4.
+.. sa kina wawa sa,\
+say NOM.this child DM
+說 主格.這個 小孩 DM
+
+#a 8.5, None, 9.67
+
+5.
+.. pate pazeng han niza kya balaut nu ni-pa-habay-an niza,\
+FS put HAN 3SG.GEN NOM.this frog GEN NI-CAU-millet-LF 3SG.GEN
+FS 放 HAN 3SG.屬格 主格.這個 青蛙 屬格 NI-使動-小米-處焦 3SG.屬格
+
+#a 9.67, None, 13.01
+
+6.
+.. i tini i kuleng.\
+PREP there PREP jug
+介系詞 那裡 介系詞 甕
+
+#e Tonight the child put the frog he raises into this jug.
+#c 今天晚上這小孩把他養的青蛙放在這甕裡。
+#n habay 為小米，加上使動前綴pa-之後pahabay成為豢養。
+#a 13.01, None, 13.87
+
+7.
+.. ya wacu sa=tu tanu-namuh-sa ma-idih a si-cabay,_
+that dog DM=PFV very-happy-SA AF-want LNK have-friend
+那個 狗 DM=完成貌 非常-高興-SA 主焦-想要 連繫詞 有-朋友
+
+#a 13.87, None, 17.29
+
+8.
+... kiza balaut.\
+NOM.that frog
+主格.那個 青蛙
+
+#e That dog was very happy and wanted to make friends with that frog.
+#c 那隻狗很高興想要和那隻青蛙做朋友。
+#n 根據發音者tanu為前綴時語意為「很」。
+#n namuh高興 ma-namuh喜歡
+#n 根據發音者，kiza不好，使用tiza 或tya 較好
+#a 17.29, None, 18.63
+
+9.
+... sa mabi’=tu kya wawa a tya== wacu._
+DM AF.sleep=PFV NOM.that child LNK OBL.that dog
+DM 主焦.睡覺=完成貌 主格.那個 小孩 連繫詞 斜格.那個 狗
+
+#e That child and dog were sleeping.
+#c 那小孩和狗在睡覺。
+#n a tya== wacu 為atu ya wacu 的縮寫
+#a 18.63, None, 21.57
+
+10.
+.. sa ya balaut han=tu,\
+DM that frog HAN=PFV
+DM 那個 青蛙 HAN=完成貌
+
+#a 21.57, None, 23.32
+
+11.
+.. ma-idih ciniza a tahkal a mi-dang.\
+AF-want 3SG.NOM LNK go.out LNK AF-play
+主焦-想要 3SG.主格 連繫詞 去外面 連繫詞 主焦-玩
+
+#e That frog wanted to come out and had fun.
+#c 那隻青蛙想要出來玩。
+#a 23.32, None, 25.94
+
+12.
+.. sa ma-cukat sa=tu kya wawa a tya wacu sa,\
+DM AF-wake.up DM=PFV NOM.that child LNK OBL.that dog DM
+DM 主焦-醒 DM=完成貌 主格.那個 小孩 連繫詞 斜格.那個 狗 DM
+
+#a 25.94, None, 28.65
+
+13.
+.. inayi'=tu a ma-azih kya balaut sa.\
+NEG=PFV LNK PF-see NOM.that frog DM
+否定詞=完成貌 連繫詞 受焦-看到 主格.那個 青蛙 DM
+
+#e That child and that dog woke up and did not see that frog.
+#c 那小孩和那隻狗醒來沒有看到那隻青蛙。
+#a 28.65, None, 31.31
+
+14.
+.. ma-tawid aca kuheni sa-kalamkam-sa=tu kuheni,_
+AF-shock too 3PL.NOM SA-fast-SA=PFV 3PL.NOM
+主焦-驚訝 也 3PL.主格 SA-快-SA=完成貌 3PL.主格
+
+#a 31.31, None, 34.34
+
+15.
+.. a mi-adad=tu,\
+LNK AF-rummage=PFV
+連繫詞 主焦-翻=完成貌
+
+#a 34.34, None, 36.1
+
+16.
+.. tu-tu-tuud u nu luma’ a mi-kilim,\
+RED-RED-object CN GEN home LNK AF-search
+重疊-重疊-物品 CN 屬格 家 連繫詞 主焦-找
+
+#a 36.1, None, 38.52
+
+17.
+.. tiza balaut.\
+OBL.that frog
+斜格.那個 青蛙
+
+#e They were shocked too and in a hurry rummaged around the house so as to find the frog.
+#c 他們也嚇一跳，趕快翻家中的所有物品找那隻青蛙。
+#a 38.52, None, 39.65
+
+18.
+.. ya wacu han=tu pa-ta-labu han niza,\ 
+that dog HAN=PFV CAU-go-inside HAN 3SG.GEN
+那 狗 HAN=完成貌 使動-去-裡面 HAN 3SG.屬格
+
+#a 39.65, None, 41.92
+
+19.
+.. kya==,\
+NOM.that
+主格.那個
+
+#a 41.92, None, 42.57
+
+20.
+.. tangah niza i labu nya,\
+head 3SG.GEN PREP inside GEN.that
+頭 3SG.屬格 介系詞 裡面 屬格.那個
+
+#a 42.57, None, 44.29
+
+21.
+.. kuleng.\
+jug
+甕
+
+#e That dog put its head inside of the jug.
+#c 那隻狗把頭放進甕裡面。
+#n labu 裡面 ta-labu 進去
+#a 44.29, None, 45.0
+
+22.
+.. sa nika ya kuleng ca’ay=tu ka-ales.\
+DM but that jug NEG=PFV KA-take.off
+DM 但是 那個 甕 否定詞=完成貌 KA-拿掉
+
+#e But (he) could not get rid of that jug.
+#c 但（他）是不能拿掉那甕。
+#a 45.0, None, 47.25
+
+23.
+.. sa mala-tupel=tu niza wacu.\
+DM AF.become-hat=PFV 3SG.GEN dog
+DM 主焦.變成-帽子=完成貌 3SG.屬格 狗
+
+#e It became the dog’s hat.
+#c 就變成狗的帽子了。
+#a 47.25, None, 49.36
+
+24.
+.. ya wawa han=tu,\
+that child HAN=PFV
+那個 小孩 HAN=完成貌
+
+#a 49.36, None, 50.61
+
+25.
+.. buhat sa=tu tuniyan u,\
+open DM=PFV OBL.this.AN CN
+開 DM=完成貌 斜格.這個.AN CN
+
+#a 50.61, None, 52.13
+
+26.
+.. sa sasaedeb sa,\
+DM door DM
+DM 門 DM
+
+#a 52.13, None, 53.49
+
+27.
+.. a=mi-awaw,\
+FUT=AF-yell
+未來貌=主焦-呼喊
+
+#a 53.49, None, 54.82
+
+28.
+.. tya wawa bah balaut,_
+OBL.that child FS frog
+斜格.那個 小孩 FS 青蛙
+
+#a 54.82, None, 56.94
+
+29.
+.. a=mi-kilim tya balaut.\
+FUT=AF-search OBL.that frog
+未來貌=主焦-找 斜格.那個 青蛙
+
+#e That child opened the door, yelled and searched for the frog.
+#c 那小孩打開那門呼喊著青蛙找尋青蛙。
+#n IU 26 中的eteb 意指關閉。而sa-eteb 指可關閉的東西，延伸成門
+#n sacingalan 指窗戶
+#n 發音者指出IU 28 可只說 tya balaut
+#a 56.94, None, 58.48
+
+30.
+.. nika ya wacu sa,\
+but that dog DM
+但是 那個 狗 DM
+
+#a 58.48, None, 59.81
+
+31.
+.. ma-debay maka-iza sasaedeb-an sa.\
+AF-fall from-here door-LF DM
+主焦-掉 從-這裡 門-處焦 DM
+
+#e But that dog fell off the door.
+#c 但是那隻狗從門上跌下來。
+#n 應是「但是那隻狗從窗上跌下來。」
+#a 59.81, None, 62.48
+
+32.
+... ma-..peci’=tu amin kiza kuleng.\
+AF-break=PFV all NOM.that jug
+主焦-破=完成貌 全部 主格.那個 甕
+
+#e That jug was broken.
+#c 那甕破了。
+#a 62.48, None, 64.78
+
+33.
+.. sa ya wawa han=tu ma-tawid=tu sa,\
+DM that child HAN=PFV AF-shock=PFV DM
+DM 那個 小孩 HAN=完成貌 主焦-驚訝=完成貌 DM
+
+#a 64.78, None, 67.37
+
+34.
+.. kalamkam-sa ma-duba’ tayza,\
+fast-SA AF-run go.there
+快-SA 主焦-跑 去那邊
+
+#a 67.37, None, 68.8
+
+35.
+.. a=mi-abubu tiza wacu-an sa.\
+FUT=AF-hold OBL.that dog-LF DM
+未來貌=主焦-抱 斜格.那個 狗-處焦 DM
+
+#e That child was shocked, ran fast to there and held that dog in the arms.
+#c 那小孩嚇一跳趕快跑去抱那隻狗。
+#a 68.8, None, 70.8
+
+36.
+... anu ma-tuka===tu sa ciniza a ma-dihi,\
+COND AF-hurt=PFV DM 3SG.NOM LNK AF-pity
+表條件 主焦-受傷=完成貌 DM 3SG.主格 連詞 主焦-可憐
+
+#a 70.8, None, 73.86
+
+37.
+.. sa.\
+DM
+DM
+
+#e If (it) gets hurt, it is so poor. 
+#c 如果（他）受傷了，他會很可憐。
+#n anu...sa表示「如果...的話」。
+#a 73.86, None, 74.4
+
+38.
+.. tu tahkal sa=tu kuheni.\
+then go.out DM=PFV 3PL.NOM
+然後 去外面 DM=完成貌 3PL.主格
+
+#e Then they went out.
+#c 然後就到外面。
+#n 根據發音者 tu在這有然後的語意
+#a 74.4, None, 76.2
+
+39.
+.. i liwliw nu luma’ i kila-kilang-an tu,\
+PREP surroundings GEN home PREP RED-tree-LF TOP
+介系詞 周圍 屬格 家 介系詞 重疊-樹-處焦 主題
+
+#a 76.2, None, 79.08
+
+40.
+.. a=mi-kilim tiza balaut sa.\
+FUT=AF-search OBL.that frog DM
+未來貌=主焦-找 斜格.那個 青蛙 DM
+
+#e They searchd for the frog around their house and in the bushes.
+#c 在家的四周及樹叢中找青蛙。
+#n kilakilang 為樹叢；這裡的tu表示主題標記。
+#a 79.08, None, 81.11
+
+41.
+.. azih sa kuheni,\
+see DM 3PL.NOM
+看 DM 3PL.主格
+
+#a 81.11, None, 82.3
+
+42.
+.. tiza i pabaw,\
+OBL.that PREP upper.part
+斜格.那個 介系詞 上方
+
+#a 82.3, None, 83.45
+
+43.
+.. yadah kiza wadu sa.\
+many NOM.that bee DM
+多 主格.那個 蜜蜂 DM
+
+#e They looked up and saw many bees.
+#c 他們往上看到很多蜜蜂。
+#a 83.45, None, 84.91
+
+44.
+.. alaw si,\
+originally SI
+原來 SI
+
+#a 84.91, None, 86.02
+
+45.
+.. pa si-dibu wa si-dibu,\
+PA have-nest WA have-nest
+PA 有-巣 WA 有-nest
+
+#a 86.02, None, 88.05
+
+46.
+.. i tiza E==za iza i kilang pabaw nya kilang.\
+PREP there there there PREP tree upper.part GEN.that tree
+介系詞 那裡 那裡 那裡 介系詞 樹 上方 屬格.那個 樹
+
+#e Originally there was a hive in the tree.
+#c 原來在那個樹上有蜂巣。
+#n 根據發音者E 為發音 [e]，因SAKIZAYA中無此音，故以大寫代替。
+#n E== za i za 為這裡那裡
+#a 88.05, None, 90.72
+
+47.
+.. sa ya wacu han=tu ma-idih ciniza a tayza mi-kayakay,\
+DM that dog HAN=PFV AF-want 3SG.NOM LNK go.there AF-climb
+DM 那個 狗 HAN=完成貌 主焦-想要 3SG.主格 連繫詞 去那裡 主焦-爬
+
+#a 90.72, None, 94.57
+
+48.
+... sa a=mi-ala tya==,\
+DM FUT=AF-catch OBL.that
+DM 未來貌=主焦-抓 斜格.那個
+
+#a 94.57, None, 96.15
+
+49.
+... dibu nya==,\
+nest GEN.that
+巢 屬格.那個
+
+#a 96.15, None, 97.52
+
+50.
+... nya wadu,_
+GEN.that bee
+屬格.那個 蜜蜂
+
+#a 97.52, None, 98.91
+
+51.
+.. sa._
+DM
+DM
+
+#e The dog wanted to crawl over there and took the hive.
+#c 那隻狗想要爬過去摘蜂巣。
+#n kayakay 在阿美語中指「橋」。
+#a 98.91, None, 99.44
+
+52.
+... nika==,\
+but
+但是
+
+#a 99.44, None, 100.54
+
+53.
+... ma…ma…ma-…tawid ciniza,\
+FS…FS…AF-shock 3SG.NOM
+FS…FS…主焦-驚訝 3SG.主格
+
+#a 100.54, None, 104.47
+
+54.
+.. kwa kalat-en nya wadu,\
+KWA bite-PF 3SG.GEN bee
+KWA 咬-受焦 3SG.屬格 蜂
+
+#a 104.47, None, 105.88
+
+55.
+.. nya wadu,\
+3SG.GEN bee
+3SG.屬格 蜂
+
+#a 105.88, None, 106.7
+
+56.
+.. kiza wacu.\
+NOM.that dog
+主格.那個 狗
+
+#e But that dog was shocked because it was stung by a bee.
+#c 但那隻狗嚇一跳，因為被蜜蜂螫了。
+#n KWA 有將的意思係為口語用法，可省略或用KU代替。
+#a 106.7, None, 107.62
+
+57.
+.. ya wawa han=tu sa,\
+that child HAN=PFV TOP
+那個 孩子 HAN=完成貌 主題
+
+#a 107.62, None, 108.88
+
+58.
+.. izaw ku buhang E==za sa ciniza,\
+EXIST NOM hole there SA 3SG.NOM
+存在詞 主格 洞 there SA 3SG.主格
+
+#a 108.88, None, 110.9
+
+59.
+.. ku tayza ciniza a mi-azih sa.\
+NOM go.there 3SG.NOM LNK AF-see DM
+主格 去那邊 3SG.主格 連繫詞 主焦-看 DM
+
+#e That child went there and looked at that hole.
+#c 那孩子去那邊看那個洞。
+#n IU57的SA作為主題標記。
+#a 110.9, None, 112.73
+
+60.
+.. ma-tawid ciniza alaw u buhang-ay nu edu,\
+AF-shock 3SG.NOM originally CN hole-NMZ GEN mouse
+主焦-驚訝 3SG.主格 原來 CN 洞-名物化 屬格 老鼠
+
+#a 112.73, None, 115.34
+
+61.
+... kya buhang,\
+NOM.that hole
+主格.那個 洞
+
+#a 115.34, None, 116.32
+
+62.
+.. sa.\
+DM
+DM
+
+#e He was surprised because that hole was a mouse hole.
+#c 他很驚訝因為那個洞是老鼠洞。
+#a 116.32, None, 116.82
+
+63.
+.. ma-…pelu’=tu kya==.\
+AF-pick=PFV NOM.that
+主焦-摘=完成貌 主格.那個
+
+#a 116.82, None, 118.73
+
+64.
+... dibu nya watu sa.\
+nest GEN.that bee DM
+巢 屬格.那個 蜂 DM
+
+#e He removed that beehive.
+#c 摘那個蜂巢。
+#a 118.73, None, 120.81
+
+65.
+... ma ma-linges amin kya wadu.\
+FS AF-angry all NOM.that bee
+FS 主焦-生氣 全部 主格.那個 蜂
+
+#e All of the bees were angry.
+#c 蜜蜂全部都很生氣。
+#a 120.81, None, 123.1
+
+66.
+.. ku a=mi-…mi-…kalat,\
+KU FUT=AF- AF- bite
+KU 未來貌=主焦- 主焦- 咬
+
+#a 123.1, None, 125.52
+
+67.
+.. a mi-kalat tya=,\
+LNK AF-bite OBL.that
+連繫詞 主焦-咬 斜格.那個
+
+#a 125.52, None, 126.85
+
+68.
+... wacu-an kiza wadu amin.\
+dog-PF NOM.that bee all
+狗-受焦 主格.那個 蜂 全部
+
+#e All of the bees stung that dog.
+#c 全部的蜜蜂都要去螫那隻狗。
+#a 126.85, None, 128.6
+
+69.
+.. sa ma-duba’===tu,\
+DM AF-run=PFV
+DM 主焦-跑=完成貌
+
+#a 128.6, None, 129.85
+
+70.
+.. kya wacu ma-talaw a kalat-en nya wadu.\
+NOM.that dog AF-fear LNK bite-PF GEN.that bee
+主格.那個 狗 主焦-怕 連繫詞 咬-受焦 屬格.那個 蜂
+
+#e That dog kept running, fearing to be stung by the bees.
+#c 那隻狗一直跑，很怕被蜜蜂螫。
+#a 129.85, None, 132.93
+
+71.
+.. sa ya wawa han=tu sa,\
+DM that child HAN=PFV TOP
+DM 那個 小孩 HAN=完成貌 主題
+
+#a 132.93, None, 134.39
+
+72.
+.. ma-azih niza ku buhang i tiza i kilang.\
+PF-see GEN.that NOM hole PREP there PREP tree
+受焦-看 屬格.那個 洞 介系詞 那裡 介系詞 樹
+
+#e That child saw a tree hole there.
+#c 那小孩看到那邊有樹洞。
+#a 134.39, None, 136.89
+
+73.
+.. mi-kayakay ciniza tayza a mi-kilim tya balaut.\
+AF-climb 3SG.NOM go.there LNK AF-search OBL.that frog
+主焦-爬 3SG.主格 去那裡 連繫詞 主焦-找 斜格.那個 青蛙
+
+#e He climbed up and found that frog.
+#c 他爬上去找那青蛙。
+#a 136.89, None, 140.24
+
+74.
+... sa azih han u palang sa,\
+DM see HAN CN eagle DM
+DM 看 HAN CN 老鷹 DM
+
+#a 140.24, None, 142.47
+
+75.
+.. ma-tawid ciniza ma-tulu’,\
+AF-shock 3SG.NOM AF-fall
+主焦-驚訝 3SG.主格 主焦-跌
+
+#a 142.47, None, 144.25
+
+76.
+.. ciniza ma-debay ciniza na=maka-iza i kilang,\
+3SG.NOM AF-fall 3SG.NOM PAST=from-there PREP tree
+3SG.主格 主焦-跌 3SG.主格 過去貌=從-那裡 介系詞 樹
+
+#a 144.25, None, 146.87
+
+77.
+.. sa.\
+DM
+DM
+
+#e He saw an eagle and fell off the tree.
+#c 他看到老鷹嚇一跳就跌下來。
+#n ma-tulu’ 為阿美語，Sakizaya則為ma-debay。
+#n na ca’ay pakayza 不從。
+#a 146.87, None, 147.4
+
+78.
+...(1.7) tanu-angic sa=tu kiza wawa._
+very-cry DM=PFV NOM.that child
+很-哭 DM=完成貌 主格.那個 小孩
+
+#e That child was crying.
+#c 那小孩一直哭。
+#n mu-angic表示哭；tanu 表示「非常」，如tanu-dihi「非常可憐」、 tanu-paisu「很多錢」、tanu-namuh「很喜歡」。
+#a 147.4, None, 150.63
+
+79.
+.. mi-==kayakay tya ungcung sa.\
+AF-climb OBL.that rock DM
+主焦-爬 斜格.那個 石頭 DM
+
+#e (He) climbed that rock.
+#c （他）爬那顆大石頭。
+#a 150.63, None, 153.36
+
+80.
+.. u kilang tu na=sa ciniza.\
+CN tree TU PAST=say 3SG.NOM
+CN 樹 TU 過去貌=說 3SG.主格
+
+#e He thought that was a tree.
+#c 他原本以為是樹。
+#a 153.36, None, 155.4
+
+81.
+.. kapet sa ciniza ma-nanuan sa.\
+grab DM 3SG.NOM AF-shake DM
+抓 DM 3SG.主格 主焦-搖 DM
+
+#e He grabbed but (it) moved.
+#c 他一抓而（它）會動。
+#a 155.4, None, 157.38
+
+82.
+... melaw azih han niza,\
+see see HAN 3SG.GEN
+看 看 HAN 3SG.屬格
+
+#a 157.38, None, 159.08
+
+83.
+.. alaw u,\
+originally CN
+原來 CN
+
+#a 159.08, None, 160.12
+
+84.
+.. puhung-ay nya sizi.\
+horn-NMZ GEN.that goat
+角-名物化 屬格.那個 山羊
+
+#e He saw it, which was a horn.
+#c 他一看原來那是羊角。
+#n melaw為阿美語。
+#a 160.12, None, 162.0
+
+85.
+.. sa ma-^ca’it=tu kya wawa,\
+DM PF-hang=PFV NOM.that child
+DM 受焦-掛=完成貌 主格.那個 小孩
+
+#a 162.0, None, 163.9
+
+86.
+.. i puhung nya sizi.\
+PREP horn GEN.that goat
+介系詞 角 屬格.那個 山羊
+
+#e That child was hung on a horn.
+#c 那孩子掛在羊角上。
+#n 根據發音者mi-ca’it有主動的意思，而ma-ca’it 有被動的意思。
+#a 163.9, None, 165.61
+
+87.
+... tu ba’tung^ han=tu nya sizi kiza wawa.\
+then throw HAN=PFV GEN.that goat NOM.that child
+然後 丟 HAN=完成貌 屬格.那個 山羊 主格.那個 小孩
+
+#e That goat threw that child out.
+#c 那山羊把孩子丟出去。
+#a 165.61, None, 167.74
+
+88.
+.. sa=tu,\
+DM=PFV
+DM=完成貌
+
+#a 167.74, None, 168.38
+
+89.
+.. tukud han nya sizi kiza wacu.\
+kick HAN GEN.that goat NOM.that dog
+踢 HAN 屬格.那個 山羊 主格.那個 狗
+ 
+#e That goat kicked off that dog.
+#c 那隻山羊把狗踢走。
+#a 168.38, None, 170.1
+
+90.
+.. ma-debay kuheni,\
+AF-fall 3PL.NOM
+主焦-掉 3PL.主格
+
+#a 170.1, None, 171.37
+
+91.
+.. tini i sasa,\
+there PREP below
+那裡 介系詞 下面
+
+#a 171.37, None, 172.57
+
+92.
+.. nya tepad sa.\
+GEN.that cliff DM 
+屬格.那個 懸崖 DM
+
+#e They fell down the cliff.
+#c 他們掉到懸崖下。
+#a 172.57, None, 174.06
+
+93.
+... ma-debay kuheni tayza i taku.\
+AF-fall 3PL.NOM go.there PREP pond
+主焦-掉 3PL.主格 去那裡 介系詞 池塘
+
+#e They fell into a pond.
+#c 他們掉到池塘裡。
+#a 174.06, None, 176.71
+
+94.
+.. adasay aca inayay ku ba’tu.\
+luckily too NEG NOM stone
+幸好 也 否定詞 主格 石頭
+
+#e Luckily, there was no stone.
+#c 幸好沒有石頭。
+#a 176.71, None, 179.15
+
+95.
+.. cay ka-duka kina wacu a tya wawa,\
+NEG KA-hurt NOM.that dog LNK OBL.that child
+否定詞 KA-受傷 主格.那個 狗 連繫詞 斜格.那個 小孩
+
+#a 179.15, None, 182.07
+
+96.
+.. sa.\
+DM
+DM
+
+#e That dog and child were not hurt.
+#c 那狗和孩子沒受傷。
+#a 182.07, None, 182.55
+
+97.
+.. ma== smal mas,\
+MA SMAL MAS
+MA SMAL MAS
+
+#a 182.55, None, 184.39
+
+98.
+... sa,\
+DM
+DM
+
+#a 184.39, None, 185.11
+
+99.
+...(0.9) tengi==l sa kuheni i tiza.\
+hear say 3PL.NOM PREP there
+聽 說 3PL.主格 介系詞 那裡
+
+#e They were listening over there.
+#c 他們在那裡聽著。
+#a 185.11, None, 187.36
+
+100.
+... masa-mata tu sa.\
+AF.become-eye=PFV DM
+主焦.變成-眼睛=完成貌 DM
+
+#e They came to themselves.
+#c 他們醒過來。
+#n 前綴masa-有變成的語意
+#a 187.36, None, 188.92
+
+101.
+.. ma-tengil nuheni ku suni nina balaut.\
+PF-hear 3PL.GEN NOM sound GEN.this frog
+受焦-聽 3PL.屬格 主格 聲音 屬格.這個 青蛙
+
+#e They heard the sound of this frog.
+#c 他們聽到這青蛙的聲音。
+#a 188.92, None, 191.53
+
+102.
+.. sa izaw,\
+DM EXIST
+DM 存在詞
+
+#a 191.53, None, 192.48
+
+103.
+... sa=tu mi-kayakay kuheni,\
+DM=PFV AF-climb 3PL.NOM
+DM=完成貌 主焦-爬 3PL.主格
+
+#a 192.48, None, 194.79
+
+104.
+.. tya==,\
+OBL.that
+斜格.那個
+
+#a 194.79, None, 195.56
+
+105.
+.. sike sikela’ sa.\
+FS drifting.object DM
+FS 漂流物品 DM
+
+#e They climbed up the driftwood.
+#c 他們爬上漂流木。
+#a 195.56, None, 197.54
+
+106.
+... azih han nuheni,\
+see HAN 3PL.GEN
+看 HAN 3PL.屬格
+
+#a 197.54, None, 199.02
+
+107.
+.. izaw===tu mi-limek kya ta-tusa-ay a,\
+EXIST=PFV AF-hide NOM.that Ca-two-NMZ LNK
+存在詞=完成貌 主焦-躲 主格.那個 Ca重疊-二-名物化 連繫詞
+
+#a 199.02, None, 201.69
+
+108.
+... balaut,\
+frog
+青蛙
+
+#a 201.69, None, 202.97
+
+109.
+.. i tiza i zikuz nina,\
+PREP there PREP behind GEN.this
+介系詞 那裡 介系詞 後面 屬格.這個
+
+#a 202.97, None, 204.84
+
+110.
+.. sikela’.\
+drifting.object
+漂流物品
+
+#e They saw two frogs hiding behind the driftwood.
+#c 他們看到有二隻青蛙躲在漂流木的後面。
+#a 204.84, None, 205.7
+
+111.
+.. sa-tanu-namuh-sa kiza wawa.\
+SA-very-happy-SA NOM.that child
+SA-很-高興-SA 主格.那個 小孩
+
+#e That child was happy.
+#c 那孩子很高興。
+#a 205.7, None, 207.58
+
+112.
+.. i nyu===tu kisu haw han niza kiza balaut sa.\
+PREP here=PFV 2SG.NOM Q be.said 3SG.NOM NOM.that frog say
+介系詞 這裡=完成貌 2SG.主格 疑問 被說 3SG.主格 主格.那個 青蛙 說 
+
+#e He talked to that frog, “You are here!”
+#c 他跟青蛙說：「原來你在這裡喔！。」
+#a 207.58, None, 210.96
+
+113.
+... sa,\
+DM
+DM
+
+#a 210.96, None, 211.62
+
+114.
+.. tu,\
+then
+然後
+
+#a 211.62, None, 212.1
+
+115.
+.. ma-tengil nu zuma a balaut sa.\
+PF-hear GEN other LNK frog say
+受焦-聽 屬格 其他 連繫詞 青蛙 說
+
+#e Other frogs heard (it).
+#c 其他青蛙聽到了。
+#a 212.1, None, 213.72
+
+116.
+.. i nyu=tu a,\
+PREP here=PFV LNK
+介系詞 這裡=完成貌 連繫詞
+
+#a 213.72, None, 214.47
+
+117.
+... amin kya balaut.\
+all NOM.that frog
+全部 主格.那個 青蛙
+
+#e All of the frogs came.
+#c 全部的青蛙都來了。
+#a 214.47, None, 216.09
+
+118.
+.. ya,\
+FS
+FS
+
+#a 216.09, None, 216.56
+
+119.
+.. yadah sa=tu kya balaut i tiza,\
+many DM=PFV NOM.that frog PREP here
+許多 DM=完成貌 主格.那個 青蛙 介系詞 這裡
+
+#a 216.56, None, 218.18
+
+120.
+.. sa.\
+DM
+DM
+
+#e Here were many frogs.
+#c 在那裡就有很多青蛙。
+#a 218.18, None, 218.68
+
+121.
+.. tanu-namuh-sa kuheni kya wacu a tina wawa.\
+very-happy-SA 3PL.NOM NOM.that dog LNK OBL.that child
+很-高興-SA 3PL.主格 主格.那個 狗 連繫詞 斜格.那個 小孩
+
+#e That dog and that child were very happy.
+#c 那狗跟那孩子很高興。
+#a 218.68, None, 221.72
+
+122.
+.. ala han=tu nuheni kya cabay nuheni,\
+catch HAN=PFV 3PL.GEN NOM.that friend 3PL.GEN
+抓 HAN=完成貌 3PL.屬格 主格.那個 朋友 3PL.屬格
+
+#a 221.72, None, 223.78
+
+123.
+.. kya cabay nuheni.\
+NOM.that friend 3PL.GEN
+主格.那個 朋友 3PL.屬格
+
+#e They caught their friends.
+#c 他們抓了他們的朋友。
+#n 他們的朋友在此指「青蛙」的朋友。
+#a 223.78, None, 225.17
+
+124.
+.. ya== balaut a ta-luma,\
+that frog LNK go-home
+那個 青蛙 連繫詞 去-家
+
+#a 225.17, None, 227.02
+
+125.
+.. sa.\
+DM
+DM
+
+#e That frog was going home.
+#c 那青蛙要回家。
+#a 227.02, None, 227.59
+
+126.
+.. ya zuma a balaut sa-tanu-namuh-sa,\
+that other LNK frog SA-very-happy-SA
+那個 其他 連繫詞 青蛙 SA-很-高興-SA
+
+#a 227.59, None, 230.43
+
+127.
+.. haymaw han=tu sa a pa-dungus i ciniza-an.\
+slowly HAN=PFV DM LNK CAU-see.off PREP 3SG-OBL
+慢慢地 HAN完成貌 DM 連繫詞 使動-目送 介系詞 3SG-斜格
+
+#e Other frogs were happy and saw them off.
+#c 其他青蛙很高興，慢慢目送他們。
+#n haymaw hantu 意指再見，係為慣用語。
+#a 230.43, None, 233.24
+
+128.
+.. sa-kapah-en=tu ku uzip haw sa=tu kiza wawa,\
+do-good-PF=PFV NOM body Q say=PFV NOM.that child
+做-好-受焦=完成貌 主格 身體 疑問 說=完成貌 主格.那個 小孩
+
+#a 233.24, None, 236.95
+
+129.
+.. tu zuma a balaut.\
+OBL other LNK frog
+斜格 其他 連繫詞 青蛙
+
+#e That child told other frogs, “Take care!”
+#c 那小孩跟其他青蛙說 “保重身體！”。
+#n sa-kapah-en 中的sa-表示「做」。
+#a 236.95, None, 238.28

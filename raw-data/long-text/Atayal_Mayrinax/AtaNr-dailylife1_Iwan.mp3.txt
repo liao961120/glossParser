@@ -1,0 +1,625 @@
+topic: Daily Life 1
+type: Narrative
+language: 泰雅語, Atayal, Mayrinax
+speaker: 劉春香, Iwan, female, None
+collected: 2011-04-01
+revised: 2013-1-25
+video: AtaNr-dailylife1_Iwan.mp3
+
+1.
+tiku== su sunga' ga,_
+DM ACC before TOP
+DM 受格 以前 主題
+
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+#a 0.99, None, 3.08
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+
+2.
+... ga,_
+TOP
+主題
+
+#a 3.08, None, 4.1
+
+3.
+... ka'asi nku sami ka maki' i,_
+be.like.IRR GEN 1PL.NOM LNK AF.live LOC
+如同.非實現 屬格 1PL.主格 連詞 主焦.在 處格
+
+#a 4.1, None, 6.53
+
+4.
+... i imuwag ka ka-kanairin ga,\
+LOC house LNK RED-female TOP
+處格 家 連詞 重疊-女人 主題
+
+#a 6.53, None, 9.68
+
+5.
+...(1.7) su sunga' yu,\
+ACC before Part
+受格 以前 語助詞
+
+#a 9.68, None, 12.35
+
+6.
+.. bali <L2siyencL2>--,\
+NEG now
+否定 現在
+
+#a 12.35, None, 13.17
+
+7.
+.. bali sukani la.\
+NEG now Part
+否定 現在 語助詞
+
+#e Before, not like now, women like us used to live in the house.
+#c 以前，不像現在，我們婦女都住家裡。
+#n suku hani 為現在，sukani 是簡略的口語說法。
+#a 13.17, None, 14.3
+
+8.
+... ga usu i,_
+TOP customarily LNK
+主題 通常會 連詞
+
+#n 此處usu應為mutux '通常會'，為口誤。
+#a 14.3, None, 15.79
+#n 此處usu應為mutux '通常會'，為口誤。
+
+9.
+...(0.7) i,_
+LNK
+連詞
+
+#a 15.79, None, 17.2
+
+10.
+... n<um>aga' pahapuy.\
+<AF>prepare cook
+準備 作飯
+
+#a 17.2, None, 19.3
+
+11.
+...(0.9) ru,_
+CONJ
+且
+
+#a 19.3, None, 20.7
+
+12.
+...(0.8) ma-lahang su ulaqi'.\
+AF-care ACC child
+主焦-照顧 受格 小孩
+
+#e (We) will cook and take care of the child.
+#c (我們)會作飯並照顧小孩。
+#a 20.7, None, 23.42
+
+13.
+...(0.8) ru m-usa' i ragiyax ku,_
+CONJ AF-go LOC mountain NOM
+且 主焦-去 處格 山 主格
+
+#a 23.42, None, 26.03
+
+14.
+.. ta-tamalung i m-usa’ i,_
+RED-mail LNK AF-go LOC
+重疊-男人 連詞 主焦-去 處格
+
+#a 26.03, None, 27.84
+
+15.
+... s<um>ku' su,_
+<AF>lay.trap ACC
+<主焦>放陷阱 受格
+
+#a 27.84, None, 29.51
+
+16.
+.. wahi naha' ga,_
+rope 3PL.NOM TOP
+索 3PL.主格 主題
+
+#e And men go to the mountains to lay traps with ropes.
+#c 而男人則上山放繩製的陷阱。
+#n tamalung 澤敖利說法，maliku’ 汶水說法
+#a 29.51, None, 31.11
+
+17.
+... nanu' u,_
+DM FIL
+DM FIL
+
+#a 31.11, None, 32.53
+
+18.
+...(1.0) q<um>lasay ru,_
+<AF>arrange.thread CONJ
+<主焦>整經 且
+
+#a 32.53, None, 34.97
+
+19.
+.. manu--,_
+FS
+FS
+
+#a 34.97, None, 35.7
+
+20.
+.. ka,_
+KA
+KA
+
+#n 19和20兩IU應為同一詞manuka' ‘繞線’。
+#a 35.7, None, 36.43
+#n 19和20兩IU應為同一詞manuka' ‘繞線’。
+
+21.
+...(0.8) t<um>inun.\
+<AF>weave
+<主焦>編織
+
+#e (We) arrange and circle the thread and then weave.
+#c (我們)整經、繞線，然後編織。
+#a 36.43, None, 38.71
+
+22.
+...(0.9) ru,_
+CONJ
+且
+
+#a 38.71, None, 39.75
+
+23.
+... i ukah ku buwax naha' la ga,_
+LOC NEG NOM rice 3PL.NOM PART TOP
+處格 否定 主格 米 3PL.主格 語助詞 主題
+
+#n 汶水泰雅口語語料中會有語助詞和其他功能詞(主題標記、連接詞、主格)等連讀的現象（lga, lru, lgi, lku, etc.）。目前將此類例子拆解為兩個單位標記。
+#a 39.75, None, 42.44
+#n 汶水泰雅口語語料中會有語助詞和其他功能詞(主題標記、連接詞、主格)等連讀的現象（lga, lru, lgi, lku, etc.）。目前將此類例子拆解為兩個單位標記。
+
+24.
+.. ukah ku tal-an ru ukah ku buwax naha' ga,_
+NEG NOM see-LF CONJ NEG NOM rice 3PL.NOM TOP
+否定 主格 看-處焦 且 否定 主格 米 3PL.主格 主題
+
+#a 42.44, None, 45.07
+
+25.
+...(0.8) s<um>xu',_
+<AF>pound
+<主焦>搗米
+
+#e And when seeing there is no rice, we pound rice .
+#c 如果看到沒有米了，我們就會搗米。
+#n 此處的ukah應為 ukas，可能為發音人使用習慣不同。
+#a 45.07, None, 47.16
+
+26.
+...(0.7) ini' na-iy ku,_
+NEG wait-PF NOM
+否定 等-受焦 主格
+
+#a 47.16, None, 49.0
+
+27.
+.. tamalung gi,_
+male CONJ
+男人 因為
+
+#a 49.0, None, 49.96
+
+28.
+.. kiya nanak ku,_
+EXIST self NOM
+存在 自己 主格
+
+#a 49.96, None, 51.16
+
+29.
+... waw naha' m-usa' i,_
+work 3PL.NOM AF-go LOC
+工作 3PL.主格 主焦.去 處格
+
+#a 51.16, None, 53.34
+
+30.
+...(0.7) i,_
+LOC
+處格
+
+#a 53.34, None, 55.08
+
+31.
+...(1.3) ragiyax.\
+mountain
+山
+
+#e We don't wait for men because they have their own work in the mountains.
+#c 不能等男人(來搗米)，因為他們自己在山上有工作。
+#n IU26中的ini na-iy 是口語的省略，完整說法為ini naga'-iy 不能等待。
+#a 55.08, None, 57.12
+
+32.
+... m-usa' i s<um>ku' sku==,_
+AF-go LNK <AF>lay.trap ACC
+主焦-去 連詞 <主焦>放陷阱 受格
+
+#a 57.12, None, 59.1
+
+33.
+.. su wahi naha'.\
+ACC rope 3PL.NOM
+處格 索 3PL.主格
+
+#e They go to lay traps made with ropes.
+#c 他們去放索製的陷阱。
+#a 59.1, None, 60.33
+
+34.
+...(0.8) ru nanu' na-un ru== i,_
+CONJ what wait-PF CONJ LOC
+且 什麼 等-受焦 且 處格
+
+#a 60.33, None, 63.33
+
+35.
+...(0.7) i m-uwah la ga,_
+LOC AF-come PART TOP
+處格 主焦-來 語助詞 主題
+
+#a 63.33, None, 65.19
+
+36.
+... nanu' na--,\
+what FS
+什麼 FS
+
+#a 65.19, None, 66.24
+
+37.
+.. i naun i,_
+LOC what LOC
+處格 什麼 處格
+
+#e And they come back.
+#c 他們回來。
+#a 66.24, None, 67.75
+
+38.
+... i,_
+LOC
+處格
+
+#a 67.75, None, 69.87
+
+39.
+...(1.5) ungi'-an la.\
+forget-LF Part
+忘記-處焦 語助詞
+
+#e (I) forgot.
+#c (我)忘了。
+#n 發音人突然不知道要接什麼，此句與敘述內容並無直接關係。
+#a 69.87, None, 72.59
+
+40.
+.. @@.\
+@@
+笑聲
+
+#a 72.59, None, 72.89
+
+41.
+...(0.8) na-- na-un pahapuy,\
+FS prepare-PF cook
+FS 等-受焦 作飯
+
+#n 此處naun pahapuy原為’等著做飯’，引申為’準備做飯’
+#a 72.89, None, 75.42
+#n 此處naun pahapuy原為’等著做飯’，引申為’準備做飯’
+
+42.
+... ru si-tahuk su raramat,\
+CONJ BF-cook ACC dish
+且 惠焦-煮 受格 菜
+
+#e We prepare to cook some dishes (for them).
+#c 我們準備(為他們)作菜。
+#a 75.42, None, 78.67
+
+43.
+.. ru tal-an ru payux ku,_
+CONJ see-LF CONJ many NOM
+且 看-處焦 且 很多 主格
+
+#a 78.67, None, 80.92
+
+44.
+... s<in>bu' naha' ka,_
+<Prf.PF>shoot 3PL.NOM LNK
+<完成.受焦>射 3PL.主格 連詞
+
+#a 80.92, None, 83.01
+
+45.
+.. para' waywak,_
+Formosan.Reeve’s.muntjac boar
+山羌 山豬
+
+#n 此處waywak為澤傲利方言的山豬講法，Matu’uwal為講vawwak。
+#a 83.01, None, 84.81
+#n 此處waywak為澤傲利方言的山豬講法，Matu’uwal為講vawwak。
+
+46.
+... la ga,_ 	
+Part TOP
+助 主題
+
+#a 84.81, None, 85.74
+
+47.
+.. paqas-un nku kanayril la ga,_
+happy-PF GEN femail PART TOP
+開心-受焦 屬格 女人 語助詞 主題
+
+#e Seeing so many animals they shot like muntjac and boar, women are so happy.
+#c 看到他們射回那麼多獵物，有山羌和山豬，婦女們很開心。
+#n waywak 澤敖利的說法，bauwak 汶水的說法
+#a 85.74, None, 87.63
+
+48.
+... gi su sunga ga usu i ma-quwaw su quwaw na itaan ru,_
+because ACC before TOP will LNK AF-alcohol ACC alcohol GEN Atayal CONJ
+因為 受格 以前 主題 會 連詞 主焦-酒 受格 酒 屬格 泰雅 且
+
+#a 87.63, None, 92.16
+
+49.
+... si-'agan su quwaw na itaal ru,_
+IF-take ACC wine GEN Atayal CONJ
+工焦-拿 受格 酒 屬格 泰雅 且
+
+#a 92.16, None, 95.01
+
+50.
+... si-bai naha' gi,_
+BF-give 3PL.NOM CONJ
+惠焦-給 3PL.主格 因為
+
+#e Because (we) used to brew Atayal wine (rice wine), and we give them wine.
+#c 因為以前會釀糯米酒，我們給他們糯米酒。
+#a 95.01, None, 96.75
+
+51.
+.. saq-- saqaqasan gi,_
+FS Ca-happy-LOC CONJ
+FS Ca重疊-開心-處焦 因為
+
+#a 96.75, None, 98.58
+
+52.
+... gi payux ku,_
+CONJ many NOM
+因為 很多 主格
+
+#a 98.58, None, 100.5
+
+53.
+.. t<in>ruwiq naha'.\
+<PF>hang 3PL.NOM
+<受焦>吊 3PL.主格
+
+#e because they are happy for getting so many (hanged) animals.
+#c 因為他們吊到很多獵物，很開心。
+#a 100.5, None, 101.71
+
+54.
+...(0.7) ru nanu' u,_
+CONJ DM FIL
+且 DM FIL
+
+#a 101.71, None, 103.7
+
+55.
+... i,_
+LNK
+連詞
+
+#a 103.7, None, 105.02
+
+56.	
+... taqaru' i naha' i,_
+finish LNK 3PL.NOM LNK
+完成 連詞 3PL.主格 連詞
+
+#a 105.02, None, 107.49
+
+57.
+... paqas-i,_
+happy-PF
+開心-受焦
+
+#a 107.49, None, 108.71
+
+58.
+... suku-un la ku,_
+distribute-PF PART NOM
+分-受焦 語助詞 主格
+
+#a 108.71, None, 110.51
+
+59.
+... t<in>ruwiq naha' la ga nanu',_
+<Prf.PF>hang 3PL.NOM PART TOP what
+<完成.受焦>吊 3PL.主格 語助詞 主題 什麼
+
+#e After drinking the wine, they are happy, and they distribute the game they got.
+#c 他們喝完後很開心，並把吊到的獵物分好。
+#a 110.51, None, 113.01
+
+60.
+...(1.0) u,_
+FIL
+FIL
+
+#a 113.01, None, 114.67
+
+61.
+.. mana-balaiq mapa-tisan la ru,_
+MANA-good AF.REC-talk PART CONJ
+MANA-好 主焦.相互-說話 語助詞 且
+
+#n 詞綴mana- 將balaiq 轉化為表mapatisan之manner “好好的聊天”。目前不確定該如何標記。
+#n matisan為聊天的主焦形式，mapatisan為互相聊天，目前將mapa標記為”主焦.相互”。
+#a 114.67, None, 116.86
+#n 詞綴mana- 將balaiq 轉化為表mapatisan之manner “好好的聊天”。目前不確定該如何標記。
+#n matisan為聊天的主焦形式，mapatisan為互相聊天，目前將mapa標記為”主焦.相互”。
+
+62.
+... nanu' ma-nabuwag su quwaw,_
+what AF-drink ACC wine
+什麼 主焦-喝 受格 酒 
+
+#e They chat and drink wine.
+#c 他們聊天、喝酒。
+#a 116.86, None, 119.51
+
+63.
+... ru mahananu',\
+CONJ sometimes
+且 有時候
+
+#a 119.51, None, 121.48
+
+64.
+.. ga,_
+TOP
+主題
+
+#a 121.48, None, 122.1
+
+65.
+.. saing su i,_
+two ACC LNK
+兩 受格 連詞
+
+#e And sometimes, the two...
+#c 有時候，兩個...
+#n 此句語意不完整，下文並未繼續發展。
+#a 122.1, None, 123.67
+
+66.
+...(1.2) taqaru' la ga,_
+finish PART TOP
+完成 語助詞 主題
+
+#a 123.67, None, 126.09
+
+67.
+...(2.1) nanu' u mapa-tisan la ru,_
+what FIL AF.REC-talk PART CONJ
+什麼 FIL 主焦.相互-說話 語助詞 且
+
+#e After finishing (distributing the game), they chat with each other.
+#c 完成後，他們互相聊天。
+#a 126.09, None, 129.98
+
+68.
+...(1.1) yani la nanuwan la pi.\
+that PART what PART Q
+那樣 語助詞 什麼 語助詞 疑問
+
+#e That is all. What else?
+#c 就那樣了。還有什麼嗎？
+#a 129.98, None, 132.42
+
+69.
+...(1.0) ru t<um>inun i,_
+CONJ <AF>weave LOC
+且 <主焦>織布 處格
+
+#a 132.42, None, 135.21
+
+70.
+... mahananu' ga,_
+sometimes TOP
+有時候 主題
+
+#e Weaving and sometimes...
+#c 織布以及有時候...
+#a 135.21, None, 136.83
+
+71.
+...(2.2) kina-an=mu sawni la m-usa' ragiyax naha' c<um>bu' cu,_
+say-LF=1SG.GEN then PART AF-go mountain 3PL.NOM <AF>shoot ACC
+說-處焦=1SG.屬格 剛才 語助詞 主焦.去 山 3PL.主格 <主焦>射 受格
+
+#a 136.83, None, 142.19
+
+72.
+... cu,_
+ACC
+受格
+
+#a 142.19, None, 144.0
+
+73.
+... qasinu ga nanu' t<um>inun sami tu--,_
+game TOP what <AF>weave 1PL.NOM FS
+獵物 主題 什麼 <主焦>編織 1PL.主格 FS
+
+#a 144.0, None, 146.99
+
+74.
+.. t<um>inun ru,_
+<AF>weave CONJ
+<主焦>編織 且
+
+#a 146.99, None, 148.12
+
+75.
+... q<um>lasai,\
+<AF>arrange.thread
+<主焦>整經
+
+#a 148.12, None, 149.82
+
+76.
+...(1.9) ru muwah la ga si-pahapuy.\
+CONJ AF.come PART TOP BF-cook
+且 主焦.來 語助詞 主題 惠焦-作飯
+
+#e I just talked about their going to the mountains to shoot animals, and we weave and arrange threads; when men come back, we cook for them.
+#c 我剛剛說的他們去山上打獵，然後我們織布、整經，等他們回來我們就做飯。
+#a 149.82, None, 154.0
+
+77.
+...(1.2) cu,_
+ACC
+受格
+
+#a 154.0, None, 155.44
+
+78.
+... yani la.\
+that Part
+那樣 語助詞
+
+#a 155.44, None, 156.82
+
+79.
+... nanuwan la pi.\
+what PART QUES
+什麼 語助詞 疑問
+
+#e That is all. What else?
+#c 就那樣了。還有什麼嗎？
+#a 156.82, None, 158.0

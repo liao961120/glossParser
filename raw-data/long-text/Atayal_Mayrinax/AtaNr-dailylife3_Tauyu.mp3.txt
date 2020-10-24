@@ -1,0 +1,863 @@
+topic: Daily Life 3
+type: Narrative
+language: 泰雅語, Atayal, Mayrinax
+speaker: 龍鳳廷, Tauyu, female, 1942-10-13
+collected: 2011-04-01
+revised: 2013-1-25
+video: AtaNr-dailylife3_Tauyu.mp3
+
+1.
+kuing ga== ralu=mu ga tawyu yukeh.\
+1SG.NEU TOP name=1SG.GEN TOP PN PN
+1SG.中性格 主題 名字=1SG.屬格 主題 人名 人名
+
+#n Yukeh為發音人父親的名字，為族人全名的講法。通常中間會加上na，如Tawyu na Yukeh。
+
+#e My name is Tawyu Yukeh. 
+#c 我的名字是Tawyu Yukeh。
+#a 15.02, None, 17.46
+#n Yukeh為發音人父親的名字，為族人全名的講法。通常中間會加上na，如Tawyu na Yukeh。
+
+2.
+... yukeh na== talit.\
+PN GEN PN
+人名 屬格 人名
+
+#n 此處為發音人口誤，應為Tali'。Tali'為發音人的祖父（父親的父親）的名字。
+
+#e (My father is) Yukeh na Talit.
+#c (我父親是) Yukeh na Talit.
+#a 17.46, None, 19.18
+#n 此處為發音人口誤，應為Tali'。Tali'為發音人的祖父（父親的父親）的名字。
+
+3.
+...(0.8) yaya'=mu ga== lauway na vawnay.\
+mother=1SG.GEN TOP PN GEN PN
+母親=1SG.屬格 主題 人名 GEN 人名
+
+#n Vawnay為發音人的祖父（母親的父親）。
+
+#e My mother is Lauway na Vawnay.
+#c 我的母親是Lauway na Vawnay。
+#a 19.18, None, 21.81
+#n Vawnay為發音人的祖父（母親的父親）。
+
+4.
+vawnay paliay.\
+PN PN.\
+人名 人名.\
+
+#e Vawnay Paliay.
+#c Vawnay Paliay.
+#n 此句Paliay非直系長輩，而是外號。若為外號則中間不可有na。
+#a 21.81, None, 22.68
+
+5.
+...(1.1) aring su==,_
+from ACC
+自從 受格
+
+#n aring完整用法應為mana'aring。
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+#a 22.68, None, 24.86
+#n aring完整用法應為mana'aring。
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+
+6.
+ulaqi' ga h<um>vu kung runis ku,_
+child TOP <AF>birth here NOM
+小孩 主題 <主焦>出生 這裡 主格
+
+#n kung為kuwing簡化的念法。
+#a 24.86, None, 27.13
+#n kung為kuwing簡化的念法。
+
+7.
+... mavatu'an nu <L2JvuraquL2J>.\
+PN LNK tribe
+地名 連詞 部落
+
+#e When I was a child, I was born here in the tribe of Mavatu'an.
+#c 我小時候時出生在馬都安部落。
+#a 27.13, None, 29.12
+
+8.
+...(1.2) ru,_
+CONJ
+連接詞
+
+#a 29.12, None, 30.8
+
+9.
+...(0.7) aring sku ulaqi' kung ga ini ka-valayq k<in>qiyanux=mu gi,_
+from ACC child 1SG.NEU TOP NEG KA-good <PFV>live=1SG.GEN CONJ
+自從 受格 小孩 1SG.中性格 主題 否定 KA-好 <完成>=1SG.屬格 連接詞
+
+#a 30.8, None, 34.29
+
+10.
+...(1.7) ulaqi' ng na' ga ukas i== yava'=mu ru._
+child 1SG.NEU still TOP NEG NOM father=1SG.GEN CONJ
+小孩 1SG.中性格 仍然 主題 否定 主格 父親=1SG.屬格 連接詞
+
+#e Since my childhood, my life has been hard because my father passed away when I was still a child.
+#c 自從小時候我的生活就一直不是很好，因為我還是個小孩時爸爸就過世了。
+#n 發音人ng為kuing最簡化的念法。na'為”仍然”之意，matas na'為”還在學”之意，也就是”還在讀書時”。
+#a 34.29, None, 39.02
+
+11.
+... yaya'=mu ku ma-lahang sami,\
+mother=1SG.GEN NOM AF-take.care 1EPL.NOM
+媽媽=1SG.屬格 主格 主焦-照顧 1EPL.主格
+
+#n kalahang-an為照顧的處焦形式。受焦形式kalahang-un則較少使用。
+#a 39.02, None, 41.38
+#n kalahang-an為照顧的處焦形式。受焦形式kalahang-un則較少使用。
+
+12.
+...(0.9) havag sami ka== matasuay.\
+all 1EPL.NOM LNK sibling
+全部 1EPL.主格 連詞 兄弟姊妹
+
+#e My mother took care of all of us siblings.
+#c 我媽媽照顧我們很多兄弟姊妹。
+#n havaw和havag同為kahavaw和kahavag的簡化用法，皆為"全部"之意。
+#a 41.38, None, 43.92
+
+13.
+...(1.3) ru,_
+CONJ
+連接詞
+
+#a 43.92, None, 45.62
+
+14.
+...(1.1) yaya'=mu ga vaq t<um>inun.\
+mother=1SG.GEN TOP know <AF>weave
+媽媽=1SG.屬格 主題 知道 <主焦>編織
+
+#e My mother knows how to weave.
+#c 我媽媽會編織。
+#a 45.62, None, 48.42
+
+15.
+...(2.3) savaq=nia' ma-qianux ma-lahang sami ka== matasuway ru,_
+burden=3SG.GEN AF-live AF-take.care 1EPL.NOM LNK sibiling CONJ
+負擔=2SG.屬格 主焦-生活 主焦-照顧 1EPL.主格 連詞 兄弟姊妹 連接詞
+
+#a 48.42, None, 53.87
+
+16.
+...(1.7) aqeh hihihi'=nia' ru== ukas yaya'=mu la.\
+bad body=3SG.GEN CONJ NEG mother=1SG.GEN PART
+壞 身體=3SG.屬格 直到 否定 媽媽=1SG.屬格 語助詞
+
+#e It was a burden for her to take care of us sibilings and her health had been bad until my mother passed away.
+#c 生活照顧我們兄弟姊妹是她的負擔，而她的身體一直很不好，直到媽媽過世為止。
+#n savaq原為出門隨身行李之意，在此引申為負擔。maqianux halahang為連動式，中間可加連詞i。發音人表示ru拉長並非連接詞，而是"一直到"之意。
+#a 53.87, None, 57.89
+
+17.
+...(0.7) sawni' hani ga,_
+today here TOP
+今天 這裡 主題
+
+#a 57.89, None, 59.73
+
+18.
+...(1.5) kuing nanak,_
+1SG alone
+我 單獨
+
+#e Today I am here by myself.
+#c 今天我獨自在這裡。
+#a 59.73, None, 61.82
+
+19.
+... nian ma-qiyanux sami ka <L2JkiyutayL2J> ana sami havag ga._
+PROG AF-live 1EPL.NOM LNK sibling even.though 1EPL.NOM all TOP
+進行 主焦-生活 1EPL.主格 連詞 兄弟姊妹 縱然 1EPL.主格 全部 主題
+
+#a 61.82, None, 65.12
+
+20.
+...(2.9) tatuu' sami nanak laka nian maki runi.\
+three 1EPL.NEU alone just PROG LOC here
+三 1EPL.中性格 單獨 只有 進行 處格 這裡
+
+#e Even though we are living, among all the siblings, there are only three living here.
+#c 縱然我們都在生活，所有的兄弟姊妹也只有三個在這裡而已。
+#n nian為hanian的簡化說法。
+#a 65.12, None, 70.49
+
+21.
+...(2.0) savil-un ku yava' utux kayan.\
+make.stay-PF NOM father spirit sky
+留下-受焦 主格 父親 靈 天
+
+#e God made me stay.
+#c 上帝把我留下。
+#n yava' utux kayan原意為"天上神靈的父親"，指"天父、上帝"。此句為簡化，原句應為savilun kung nku yava' utux kayan。
+#a 70.49, None, 74.92
+
+22.
+...(0.7) mahuay yava' utux kayan.\
+thank father spirit sky
+謝謝 父親 靈 天
+
+#e Thank God.
+#c 感謝上帝。
+#a 74.92, None, 76.93
+
+23.
+... nian kung lawkah suku ri'ax sawni.\
+PROG 1SG.NEU strong ACC day today
+進行 1SG.NEU 強 受格 日子 今天
+
+#e I have been healthy.
+#c 我一直到現在身體都很健康。
+#a 76.93, None, 79.07
+
+24.
+...(0.9) sami ka==,_
+1EPL.NOM LNK
+1EPL.NOM 連詞
+
+#a 79.07, None, 80.86
+
+25.
+... <L2Jvuzi--L2J> kanayrin maki ragiax ga,_
+FS woman LOC mountain TOP
+FS 女人 處格 山 主題
+
+#n vuzi-- 為本來要講vuying，此為日文詞彙，意指"婦人家"。
+#a 80.86, None, 83.38
+#n vuzi-- 為本來要講vuying，此為日文詞彙，意指"婦人家"。
+
+26.
+...(0.7) payux vay ku== waw=mian.\
+many really NOM work=1EPL.GEN 
+很多 真的 主格 工作 1EPL.屬格
+
+#e As for us women in the mountain, we really have a lot of work to do.
+#c 我們山上的女人呢，真的有很多家務事要做。
+#n waw原為"事情"之意，此為"家務事"。
+#a 83.38, None, 86.51
+
+27.
+...(1.8) yaya'=mu sunga' ga p<in>si-vaq-an kung=nia' tikay t<um>inun su,_
+mother=1SG.GEN past TOP CAU<PFV>-know-LF 1SG.NEU=3SG.GEN a.little <AF>weave ACC 
+媽媽=1SG.屬格 以前 主題 使役<完成>使役-知道-處焦 1SG.中性格 3SG.屬格 一點 <主焦> 編織 受格
+
+#n pinsivaqan字面為"使會"，引申為"教導"。
+#a 86.51, None, 91.68
+#n pinsivaqan字面為"使會"，引申為"教導"。
+
+28.
+...(1.1) siatu' na itaal ga,_
+clothing GEN indigenous.people TOP
+衣服 屬格 山地人 主題
+
+#n siatu na itaal為山地人的衣服，即原住民的服裝。
+#a 91.68, None, 94.12
+#n siatu na itaal為山地人的衣服，即原住民的服裝。
+
+29.
+...(0.7) ini' ng ka-vaq gi ini' kung kanta'tu',_
+NEG 1SG.NEU KA-know CONJ NEG 1SG.NEU work.hard
+否定 1SG.中性格 KA-知道 連接詞 否定 1SG.中性格 積極
+
+#a 94.12, None, 96.98
+
+30.
+...(1.0) maki-vaq i,_
+want-know LNK
+想要-知道 連詞
+
+#n makivaq字面為"想要會"，引申為"學習"。
+#a 96.98, None, 99.0
+#n makivaq字面為"想要會"，引申為"學習"。
+
+31.
+...(1.1) miru' kung ru._
+write 1SG.NEU CONJ
+寫字 1SG.中性格 連接詞
+
+#e My mother used to teach me a little about how to make the clothes of the indigenous people, but I didn't manage to learn it because I did not work hard in studying.
+#c 我母親以前曾教我一點山地服的編織，但是我都不會，因為我沒有認真讀書。
+#n miru為寫字之意，引申為"讀書"。
+#a 99.0, None, 101.22
+
+32.
+... ini' ng vaq-i k<um>aal maga-utux kung.\
+NEG 1SG.NEU know-PF <AF>talk become-spirit 1SG.NEU
+否定 1SG.中性格 知道-受焦 <主焦>說 變成-靈 1SG.中性格
+
+#n ini vaqi kumaal為不聽他人勸導之意。maga-為"變成"之意，'utux為壞的神靈，maga-‘utux則引申為頑皮之意。
+#a 101.22, None, 103.53
+#n ini vaqi kumaal為不聽他人勸導之意。maga-為"變成"之意，'utux為壞的神靈，maga-‘utux則引申為頑皮之意。
+
+33.
+...(0.8) ru arua asi ka-ukas yaya'=mu ru sawni' hani la ga,_
+CONJ go only KA-NEG mother=1SG.GEN CONJ today here PART TOP
+連接詞 去 只 否定 母親=1SG.屬格 連接詞 今天 這裡 語助詞 主題
+
+#n ka是否為詞根仍不確定，但向發音人確認此句不可用ukas (asi *ukas)。ru在此語意應為"直到"。
+#n 汶水泰雅口語語料中會有語助詞和其他功能詞(主題標記、連接詞、主格)等連讀的現象（lga, lru, lgi, lku, etc.）。目前將此類例子拆解為兩個單位標記。
+#a 103.53, None, 107.12
+#n ka是否為詞根仍不確定，但向發音人確認此句不可用ukas (asi *ukas)。ru在此語意應為"直到"。
+#n 汶水泰雅口語語料中會有語助詞和其他功能詞(主題標記、連接詞、主格)等連讀的現象（lga, lru, lgi, lku, etc.）。目前將此類例子拆解為兩個單位標記。
+
+34.
+...(2.6) havag ku ulaqi'=mu uwi ru,_
+many NOM child=1SG.GEN also CONJ
+多 主格 小孩=1SG.屬格 也 連接詞
+
+#a 107.12, None, 111.36
+
+35.
+...(1.4) ti'i ma-tawaw <L2JhugalL2J> kahavaw.\
+PROG AF-work city many
+進行 主焦-工作 城市 很多
+
+#e I didn't know how to listen to what others say, and got naughty until suddenly my mother passed away. And today right here I also have many children, and they are all working in the city.
+#c 我不會聽別人的話，而且變得很頑皮，直到突然間我母親去世了。而今天在這裡我也有了很多小孩，而且他們也都在城市裡工作。
+#n hugal為日文詞彙，原為"街上"之意。
+#a 111.36, None, 114.3
+
+36.
+...(1.5) kuing nanak ku nian imu ragiax.\
+1SG.NEU alone in house mountain
+1SG.中性格 單獨 在 房子 山
+
+#e I live in the house in the mountain by myself.
+#c 我單獨一個人在山上的家裡生活。
+#n imu為imuag的簡化說法。
+#a 114.3, None, 117.56
+
+37.
+...(0.7) asi.ki.na ga' lawkah kuing lawkah kung na' ma-tawwaw.\
+however TOP strong 1SG.NEU strong 1SG.NEU still AF-work
+然而 主題 強壯 1SG.中性格 強壯 1SG.中性格 仍然 主焦-工作
+
+#e But I am healthy. I can still work.
+#c 但是我身體很好，我還可以工作。
+#a 117.56, None, 121.05
+
+38.
+...(0.8) mahuay yava' 'utux kayan ru,_
+thank father spirit sky CONJ
+感謝 父親 靈 天 連接詞
+
+#e Thank God.
+#c 感謝上帝。
+#n kayan為澤傲利的用法。汶水本地"天"應為kaal。
+#a 121.05, None, 123.48
+
+39.
+...(0.9) nanu' kuara' ku ka-kanayrin=mian runi mavatu'an ga,_
+DM all NOM RED-woman 1EPL.GEN here PN TOP
+DM 全部 主格 重複-女人=1EPL.屬格 這裡 地名 主題
+
+#a 123.48, None, 127.35
+
+40.
+kia na' ku vaq t<um>inun.\
+EXIST still NOM know <AF>weave
+
+#e As for all the women here in Mavatu'an, there are still many who know how to weave.
+#c 馬都安部落裡全部的女人呢，還有很多會編織的。
+#a 127.35, None, 130.22
+
+41.
+asi.gi kagaw nawkeh,\
+be.like PN PN
+如同 連接詞 人名 人名
+
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga, asi gi）等語意。目前將此類用法合併為一個單位標記。
+#n nawkeh原為na yukeh，某些人名的發音若允許則有此種用法，將na和人名念為一個字，但非全部的人名都可以。
+#a 130.22, None, 132.44
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga, asi gi）等語意。目前將此類用法合併為一個單位標記。
+#n nawkeh原為na yukeh，某些人名的發音若允許則有此種用法，將na和人名念為一個字，但非全部的人名都可以。
+
+42.
+vaq suvalay i t<um>inun ru vaq lumamu',\
+know really LNK <AF>weave CONJ know pick.fuit
+知道 真的 連詞 <主焦>編織 連接詞 知道 採收
+
+#n lumamu原為採收果子之意，此引申為挑選編織的線條顏色)。目前仍不確定是否為l<um>amu。
+#a 132.44, None, 136.55
+#n lumamu原為採收果子之意，此引申為挑選編織的線條顏色)。目前仍不確定是否為l&lt;um&gt;amu。
+
+43.
+...(1.57) kavalay su
+make ACC
+製作 受格
+
+#a 136.55, None, 139.05
+
+44.
+...(0.7) siatu' na itaal._
+clothing GEN indigenous.people
+服裝 屬格 山地人
+
+#e Take Kagaw Nawkeh for example, she is really good at weaving and selecting the wool color for making clothing of the indigenous people.
+#c 像是Kagaw Nawkeh就真的很會編織和挑選毛線的顏色來製作山地人的衣服。
+#a 139.05, None, 140.81
+
+45.
+...(2) nanu' i tumuk=mian i kainu' na,_
+DM LNK chief=1EPL.GEN NOM PN GEN
+DM 連詞 頭目=1EPL.屬格 主格 人名 屬格
+
+#a 140.81, None, 144.98
+
+46.
+...(1.1) hawving ga,_
+PN TOP
+人名 主題
+
+#e And our chief is Kainu na Hawving.
+#c 而我們的頭目是Kainu na Hawving.
+#a 144.98, None, 146.9
+
+47.
+...(0.8) hiya' ku al-an niam su tumuk,\
+3SG.NEU NOM take-LF=1EPL.GEN ACC chief
+3SG.中性格 主格 拿-處焦=1EPL.屬格 受格 頭目
+
+#n alan為"很多人當中擇一"之意。
+#a 146.9, None, 149.23
+#n alan為"很多人當中擇一"之意。
+
+48.
+...(0.8) ma-lahang suku sami ka==,_
+AF-take.care ACC 1EPL.NOM LNK
+主焦-照顧 受格 1EPL.主格 連詞
+
+#a 149.23, None, 151.54
+
+49.
+...(1.9) vurak na== mavatu'an.\
+tribe GEN PN
+部落 屬格 地名
+
+#e We picked him to be the chief to take care of us in the tribe of Mavatu'an.
+#c 我們選擇他當頭目來照顧在馬都安部落的我們。
+#n vurak為日文詞彙，汶水"部落"講法為tinqalangan。
+#a 151.54, None, 155.33
+
+50.
+...(1.7) ru,_
+CONJ
+連接詞
+
+#a 155.33, None, 157.45
+
+51.
+...(1.3) atu' vay na,_
+boundary really LNK
+界線 真的 連詞
+
+#n atu'為界線之意，而此意指為程度上超越了一個界線，表示"非常"。
+#a 157.45, None, 159.58
+#n atu'為界線之意，而此意指為程度上超越了一個界線，表示"非常"。
+
+52.
+... g<um>alu' suku sal-un maha sami ka vurakuku'.\
+<AF>love ACC call-PF say 1EPL.NOM LINK tribe
+<主焦>疼愛 受格 稱呼-受焦 1EPL.主格 連詞 部落
+
+#a 159.58, None, 163.03
+
+53.
+... tumuk=mian.\
+chief=1EPL.GEN
+頭目=1EPL.屬格
+
+#e Our chief really loves what we call our tribe.
+#c 我們的頭目非常疼愛我們所謂的部落。
+#n gumalu 為長輩對晚輩的疼愛之意。salun為稱呼，maha為complementizer，如salun niyam maha qhi ku hani即為"我們稱呼這個為杯子"。
+#a 163.03, None, 164.16
+
+54.
+...(0.9) nanu' i,_
+DM LNK
+DM 連詞
+
+#a 164.16, None, 165.7
+
+55.
+...(1.3) futumuq=mian uwi asi.gi afi.\
+vice.chief=1EPL.GEN also be.like PN
+副頭目=1EPL.屬格 也 像 如同 人名
+
+#e So does (love the tribe) our vice chief, Afi.
+#c 像是副頭目阿灰也是一樣(很照顧我們)。
+#a 165.7, None, 168.74
+
+56.
+...(1.1) nanu' kuara' ku ka-kanayrin=mian runi mavatu'an ga,_
+DM all NOM RED-woman=1EPL.GEN here PN TOP
+DM全部 主格 重複-婦女=1EPL.屬格 我們 這裡 地名 主題
+
+#n kuara為澤傲利講法，汶水為kahavag。
+#a 168.74, None, 172.62
+#n kuara為澤傲利講法，汶水為kahavag。
+
+57.
+...(1.1) lawkah ma-tawaw kahavaw ana navakis.\
+strong AF-work all even.though elderly
+強 主焦-工作 全部 即使 老人
+
+#e All the women here in Mavatu'an, even the elderly, work very hard.
+#c 在馬都安這裡的所有女人，就算是長輩，都非常勤奮地工作。
+#a 172.62, None, 176.13
+
+58.
+.. ana mawxa' ga,\
+even.though sick TOP
+即使 生病 主題
+
+#a 176.13, None, 177.76
+
+59.
+lawkah ma-tawaw kahavag.\
+strong AF-work all
+強 主焦-工作 全部
+
+#a 177.76, None, 179.94
+
+60.
+...(1.1) gi yaku ka-ka-lahang mian sku ulaqi'=mian ru,_
+CONJ must Ca-KA-take.care 1EPL.GEN ACC child=1EPL.GEN CONJ
+連接詞 必須 Ca重疊-KA-照顧 1EPL.屬格 受格 小孩=1EPL.屬格 連接詞
+
+#e Even when sick, everyone works very hard, because we must take care of our children.
+#c 即使生病，所有人還是勤奮工作，因為必須要照顧我們的小孩。
+#n yaku 為"必須"。
+#a 179.94, None, 184.46
+
+61.
+...(1.5) ya==ki' yutas ga,_
+grandmother grandfather TOP
+祖母 祖父 主題
+
+#a 184.46, None, 187.26
+
+62.
+... ini'=su' pa-uwi' ga,_
+NEG=2SG.NOM AF.IRR-move.around TOP
+否定=2SG.主格 主焦.非實現-活動 主題
+
+#n pawwi'為"活動"、"動一動"之意。kia i mauwiwi為"他在那邊動來動去"。
+#a 187.26, None, 189.36
+#n pawwi'為"活動"、"動一動"之意。kia i mauwiwi為"他在那邊動來動去"。
+
+63.
+ma-'usa' aqih sqang ku hihihi'.\
+AF.IRR-go bad even.more NOM body
+主焦.非實現-去 壞 更 主格 身體
+
+#e For the elderly, if they don't move around, their health is going to get worse. 
+#c 老人們啊，如果不動一動，身體將會更糟。
+#a 189.36, None, 191.04
+
+64.
+
+...(1.0) <L2MsuoyiL2M> asi.ki ana i ma-'uway ku hihihi'=mian ga,_
+therefore necessary even.though LNK AF-exhausting NOM body=1EPL.GEN TOP
+所以 必要 即使 連詞 主焦-累 主格 身體=1EPL.屬格 主題
+
+#e Therefore, we should (work) even though our body would get tired.
+#c 所以，即使我們身體會累，還是應該(工作)。
+#a 191.04, None, 194.91
+
+65.
+...(0.7) nian sami lawkah na' ma-tawwaw sku,_
+PROG 1EPL.NOM strong still AF-work ACC
+進行 1EPL.主格 強 仍然 主焦-工作 受格
+
+#a 194.91, None, 197.63
+
+66.
+waw=mian ra-ragiax hani ru,_
+work=1EPL.GEN RED-mountain here CONJ
+工作=1EPL.屬格 重複-山 這裡 連接詞
+
+#e We are still doing our work here in the mountains.
+#c 我們還是在山上這裡辛勤地做我們的工作。
+#a 197.63, None, 199.99
+
+67.
+...(1.7) nanu' mahuay ku==,_
+DM thank NOM
+DM 感謝 主格
+
+#a 199.99, None, 202.86
+
+68.
+...(2.2) <L2JtaigakuL2J> hani ka,_
+university this LNK
+大學 這 連詞
+
+#n 此處大學指台大語言所田野調查課學生和宋老師
+#a 202.86, None, 206.18
+#n 此處大學指台大語言所田野調查課學生和宋老師
+
+69.
+... muah maqut.\
+come ask
+來 問
+
+#n maqut為"問話"之意，此指學生來採集語料之事。
+
+#e Thank the people from this university for coming to ask about our language.
+#c 謝謝這所大學的學生來問句子。
+#a 206.18, None, 207.54
+#n maqut為"問話"之意，此指學生來採集語料之事。
+
+70.
+...(1.3) kia ku <L2JyikangL2J>=mu muah kung i k<um>al sku,_
+EXIST NOM time=1SG.GEN come 1SG.NEU LNK <AF>speak ACC
+存在 主格 時間=1SG.屬格 來 1SG.中性格 連詞 <主焦>說 受格
+
+#n 汶水泰雅對時間的講法為hariaq na waw，字面翻為"事情的縫隙"。或者是riax "日子"、或pincapungan，由spung"衡量"而來。
+#a 207.54, None, 211.26
+#n 汶水泰雅對時間的講法為hariaq na waw，字面翻為"事情的縫隙"。或者是riax "日子"、或pincapungan，由spung"衡量"而來。
+
+71.
+... sawni hani ga,_
+today this TOP
+今天 這 主題
+
+#e I have the time to come speak about this today.
+#c 今天我有時間來講這些話。
+#a 211.26, None, 212.56
+
+72.
+...(1.2) nanu' ana i==,_
+DM even.though LNK
+DM 即使 連詞
+
+#a 212.56, None, 214.79
+
+73.
+...(1.9) ini' taihuk ku kai'=mu ana iqat yani ku kai'=mu ga,_
+NEG arrive NOM word=1SG.GEN even.though NEG this NOM word=1SG.GEN TOP
+否定 到達 主格 話=1SG.屬格 即使 否定 這 話=1SG.屬格 主題
+
+#n ana 在此為"假如"之意。ini taihuk ku kai=mu原為"我的話沒有到達"，iqat yani ku kau=mu，原為"並非我所想講的話"，兩句皆為"詞不達意"之意，發音人客氣的話。
+#a 214.79, None, 219.47
+#n ana 在此為"假如"之意。ini taihuk ku kai=mu原為"我的話沒有到達"，iqat yani ku kau=mu，原為"並非我所想講的話"，兩句皆為"詞不達意"之意，發音人客氣的話。
+
+74.
+...(1.8) asi kung i sawal-i gi ukas ku vaq-un=mu gi vali kung i,_
+only 1SG.NEU LNK promise-LF CONJ NEG NOM know-PF=1SG.GEN CONJ NEG 1SG.NEU LNK
+只 1SG.中性格 答應-處焦 連接詞 否定 主格 知道-受焦=1SG.屬格 連接詞 否定 1SG.中性格 連詞
+
+#n asi kung i sawali 原為"就答應我吧"之意，在此為"就這樣吧!"。sawalan和siwalan皆為肯定句中的"答應"。
+#a 219.47, None, 224.46
+#n asi kung i sawali 原為"就答應我吧"之意，在此為"就這樣吧!"。sawalan和siwalan皆為肯定句中的"答應"。
+
+75.
+... m<in>i==ru kung.\
+<PFV>write 1SG.NEU
+<完成>寫 1SG.中性格
+
+#e Today right here, no matter what, if I didn't express myself clearly, then just let it be, because I am not knowledgeable and not educated.
+#c 今天在這裡，不管怎麼樣，假如我詞不達意，那就這樣吧！因為我知識淺薄，而且我沒有讀過甚麼書。
+#a 224.46, None, 225.93
+
+76.
+...(1.2) qat kung m<in>iru' ru,_
+NEG 1SG.NEU <PFV>write CONJ
+否定 1SG.中性格 <完成>寫 連接詞
+
+#a 225.93, None, 228.45
+
+77.
+...(2.3) ulaqi' kung na' ga ukas i naka'ava'=mu ru.\
+child 1SG.NEU still TOP NEG LNK father=1SG.GEN CONJ
+小孩 1SG.中性格 仍然 主題 否定 連詞 父親=1SG.屬格 連接詞
+
+#e I didn't go to school, and my father passed away when I was a child.
+#c 我沒有讀過書，而且父親在我小時候就過世了。
+#n ava'為小孩對父親的稱呼，naka'ava'為對已故父親的尊稱。
+#a 228.45, None, 233.45
+
+78.
+... savak ma-qianux m-- ma-lahang sami ni,_
+burden AF-live FS AF-take.care 1EPL.NOM GEN
+包袱 主焦-生活 FS 主焦-照顧 1EPL.主格 屬格
+
+#a 233.45, None, 236.08
+
+79.
+... naka'aya'=mu ru,\
+mother=1SG.GEN CONJ
+媽媽=1SG.屬格 連接詞
+
+#e It's been a burden for my mother to have taken care (of us).
+#c 我媽媽照顧我們很辛苦。
+#a 236.08, None, 237.67
+
+80.
+...(0.8) kuing hani uwi la ga,_
+1SG.NEU this also PART TOP
+1SG.中性格 這 也 語助詞 主題
+
+#n 此句hani為"現在"之意。
+#a 237.67, None, 239.55
+#n 此句hani為"現在"之意。
+
+81. 
+...(0.8) vali kung i==,_
+NEG 1SG.NEU LNK
+否定 1SG.中性格 連詞
+
+#a 239.55, None, 241.3
+
+82.
+...(2.1) lawkah uwi la ga,_
+strong also PART TOP
+強 也 語助詞 主題
+
+#e Now I am not healthy anymore.
+#c 現在我身體也不太好了。
+#a 241.3, None, 244.46
+
+83.
+... kuing nanak unian i ma-qianux ragiax hani.\
+1SG.NEU alone PROG LNK AF-live mountain this
+1SG.中性格 單獨 進行 連詞 主焦-生活 山 這
+
+#e I am now living alone in this mountain.
+#c 現在我一個人在山上生活。
+#a 244.46, None, 247.45
+
+84.
+... lu'-ulaqi=mu ga ti'i maki <L2JhiciL2J> kahavaw i,_
+RED-child=1SG.GEN TOP PROG LOC city all LNK
+重複-小孩=1SG.屬格 主題 進行 處格 城市 全部 連詞
+
+#n ululaqi/lu'ulaqi/uulaqi 皆為"小孩"複數的講法。
+#a 247.45, None, 250.38
+#n ululaqi/lu'ulaqi/uulaqi 皆為"小孩"複數的講法。
+
+85.
+...(0.7) ma-tawwaw ru,_
+AF-work CONJ
+主焦-工作 連接詞
+
+#e All my children are working in the city.
+#c 我所有的孩子都在城市裡工作。
+#a 250.38, None, 251.84
+
+86.
+...(3.4) yani nanak ku== kaal=mu i==,_
+this alone NOM word=1SG.GEN LNK
+這個 單獨 主格 話=1SG.屬格 連詞
+
+#e This alone is what I have to say.
+#c 我要講的話只有這些。
+#n 發音人原應要講kakaal或kumaal，口誤為kaal。前兩者為"話"，後者為"天"。
+#a 251.84, None, 257.73
+
+87.
+... ukas ku vaq-un=mu mi.\
+NEG NOM know-PF=1SG.GEN PART
+否定 主格 知道-受焦=1SG.屬格 語助詞
+
+#e I am not knowledgeable.
+#c 我比較笨拙，甚麼都不知道。
+#n mi語助詞之意仍不清楚，但和"客氣"相關。相較"la"則為較豪放的語助詞。
+#a 257.73, None, 259.32
+
+88.
+...(1.5) kahavag ku==,_
+all NOM
+所有 主格
+
+#a 259.32, None, 261.97
+
+89.
+ka-kanayrin=mian runi ga lawkah va--suvalay kahavaw ma-tawaw.\
+RED-woman=1EPL.GEN here TOP strong really all work
+重複-女人=1EPL.屬格 這裡 主題 強壯 真的 所有 工作
+
+#e All the women here are really diligent on all the work.
+#c 這裡所有的婦女們都非常勤奮的做所有的工作。
+#a 261.97, None, 264.86
+
+90.
+...(0.8) <L2Hansa'mangL2H> kahavaw ru,_
+diligent all CONJ
+勤奮 全部 連接詞
+
+#a 264.86, None, 267.09
+
+91.
+...(1.2) ma-lahang sku <L2Jmagu'L2J> lami.\
+AF-take.care ACC grandchild PART
+主焦-照顧 受格 孫子 語助詞
+
+#e Everyone work hard to take care of their grandchildren.
+#c 所有人都勤奮地照顧孫子們。
+#n magu為台灣各族通用稱"孫子"的日文詞彙。
+#a 267.09, None, 270.74
+
+92.
+... yaku <L2Jmagu'L2J> nha' ku ka-lahang-an nha' la ru,_
+these grandchild 3PL.NEU NOM KA-take.care-LF 3PL.NEU PART CONJ
+這些 孫子 3PL.中性格 主格 KA-照顧-處焦 3PL.中性格 語助詞 連接詞
+
+#a 270.74, None, 273.51
+
+93.
+...(2.7) atu' vay na <L2MhenxinkuL2M> ku==,_
+boundary really LNK very.hard NOM
+界線 真的 連詞 很辛苦 主格
+
+#a 273.51, None, 278.09
+
+94.
+... <L2JfuyinkayL2J> kal-kanayrin=mian runi i==,_
+婦人家 重複-女人=1EPL.GEN here LNK
+woman RED-woman=1EPL.屬格 這裡 連詞
+
+#a 278.09, None, 280.81
+
+95.
+... mavatu'an hani.\
+PN here
+PN 這裡
+
+#e The women in Mavatu'an here work extremely hard to take care of the grandchildren.
+#c 馬都安部落這邊的女人們都非常辛苦地在照顧這些孫子們。
+#a 280.81, None, 282.43
+
+96.
+...(0.7) ru,_
+CONJ
+連接詞
+
+#a 282.43, None, 283.64
+
+97.
+... mahuway simu kahavag.\
+thank 2PL.NOM all
+謝謝 2PL.主格 全部
+
+#e Thank you all.
+#c 謝謝你們所有人。
+#a 283.64, None, 285.28
+
+98.
+...(0.8) yani nanak ku== ka-kaal=mu.\
+this alone NOM Ca-speak=1SG.GEN
+這個 單獨 主格 Ca重複-說=1SG.屬格
+
+#e These are just what I have to say.
+#c 我要講的話只有這樣而已。
+#a 285.28, None, 288.24

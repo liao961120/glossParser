@@ -1,0 +1,1386 @@
+topic: Frog story
+type: Narrative
+language: 魯凱語, Rukai, Vedai
+speaker: 巴山光, Legaile, male, None
+collected: None
+revised: 2013-1-17
+video: RukaiNr-frog_legaile.mp3
+
+1.
+kai taingeane kai a-iya-ne=li._
+this one this NMZ-say-NMZ=1SG.GEN
+這個 一 這個 名物化-說-名物化=1SG.屬格
+
+#e I (would like) to say this one story.
+#c 我(要)說這個一個故事。
+#a 14.85, None, 16.96
+
+2.
+...(0.9) la ikai ku tangea,\
+then EXIST NOM one
+然後 存在 主格 一
+
+#a 16.96, None, 18.83
+
+3.
+.. ku vavalake.\
+NOM child
+主格 小孩
+
+#e There is one child.
+#c 有一(個)小孩。
+#a 18.83, None, 20.13
+
+4.
+...(1.0) Taka==,_
+TAKA
+TAKA
+
+#a 20.13, None, 22.12
+
+5.
+...(0.8) e==,_
+FIL
+FIL
+
+#a 22.12, None, 23.68
+
+6.
+.. yakai ku==,_
+EXIST NOM
+存在 主格
+
+#a 23.68, None, 24.92
+
+7.
+.. takurauru=ini,\
+frog=3SG.GEN
+青蛙=3SG.屬格
+
+#a 24.92, None, 25.81
+
+8.
+.. kuini ni-kai-kai-ane adringi,_
+this from-RED-this-NMZ inside
+這個 從-重疊-這個-名物化 裡面
+
+#a 25.81, None, 27.15
+
+9.
+.. ki,_
+OBL
+斜格
+
+#a 27.15, None, 27.75
+
+10.
+...(0.7) ka titilrungu._
+NOM bottle
+主格 瓶子
+
+#e There is a frog from the inside of a bottle.
+#c 有一隻青蛙在瓶子裡面。
+#a 27.75, None, 29.38
+
+11.
+.. la ikai,\
+then EXIST
+然後 存在
+
+#a 29.38, None, 29.89
+
+12.
+.. ku taupungu=ini,\
+NOM dog=3SG.GEN
+主格 狗=3SG.屬格
+
+#a 29.89, None, 31.03
+
+13.
+.. kudra papapalra=ini kaiki,_
+that partner=3SG.GEN this
+那個 同伴=3SG.屬格 這個
+
+#a 31.03, None, 32.88
+
+14.
+.. ki vavalake.\
+OBL child
+斜格 小孩
+
+#e Then, there is a dog that is the partner of the child.
+#c 然後有隻狗是小孩的同伴。
+#a 32.88, None, 33.72
+
+15.
+...(1.0) a sa pece kai vavalake si,\
+then when sleep this child CONJ
+然後 當 睡覺 這個 小孩 連接詞
+
+#a 33.72, None, 35.72
+
+16.
+.. kuini taupungu,\
+this dog
+這個 狗
+
+#a 35.72, None, 37.3
+
+17.
+.. la ka-sipelre-nge,_
+then KA-sleep-PFV
+然後 KA-睡-完成
+
+#a 37.3, None, 38.9
+
+18.
+...(0.8) kuini takurauru yaie,\
+this frog DM
+這個 青蛙 DM
+
+#a 38.9, None, 41.24
+
+19.
+... la ka-tuase,\
+then KA-walk.away
+然後 KA-走了
+
+#a 41.24, None, 42.76
+
+20.
+.. tualai kuini ki titilrungu.\
+from this OBL bottle
+從 這個 斜格 瓶子
+
+#e When this child are sleeping and this dog falls asleep, this frog leave from the bottle.
+#c 當這個小孩睡覺跟狗睡著時，這個隻青蛙從瓶子裡離開了。
+#a 42.76, None, 44.45
+
+21.
+...(0.8) sa pacunu-nga kikai taupung,\
+when wake.up-PFV this dog
+當 醒來-完成 這個 狗
+
+#a 44.45, None, 47.0
+
+22.
+.. kikai vavalake yaie,_
+this child DM
+這個 小孩 DM
+
+#a 47.0, None, 48.32
+
+23.
+.. la drele si,\
+then see CONJ
+然後 看 連接詞
+
+#a 48.32, None, 49.14
+
+24.
+... ka kadrua kuini,_
+NOM EXIST.NEG this
+主格 存在.否定 這個
+
+#a 49.14, None, 51.19
+
+25.
+... e takurauru.\
+FIL frog
+FIL 青蛙
+
+#e When this dog and child have awaken, this child see that there is no frog.
+#c 當這個狗跟小孩起床時，這個小孩看到青蛙不見了。
+#a 51.19, None, 52.91
+
+26.
+... mua inu la iya si,_
+go where then say SI
+去 哪裡 然後 說 SI
+
+#e Then (he) say: “where does it go?” 
+#c 然後(他)說：「去哪裡了？」
+#a 52.91, None, 54.59
+
+27.
+.. X sila-silape,\
+? RED-search
+? 重疊-找
+
+#a 54.59, None, 55.85
+
+28.
+.. kece,_
+shoe
+鞋子
+
+#a 55.85, None, 56.39
+
+29.
+.. la lungu-lungu ki kece la kadrua.\
+then RED-shake OBL shoe then EXIST.NEG
+然後 重疊-搖動 斜格 鞋子 然後 沒有
+
+#e (He) is searching the shoe, and then shakes the shoe, but there is no (frog).
+#c (他)(往)鞋子(裡)找，然後搖動鞋子，但沒有(青蛙)。
+#a 56.39, None, 58.27
+
+30.
+... kikai taupungu yaie,\
+this dog DM
+這個 狗 DM
+
+#a 58.27, None, 59.87
+
+31.
+... lau yakai adringi ki titilungu la iya,_
+be.like EXIST inside OBL bottle then say
+像 存在 裡面 斜格 瓶子 然後 說
+
+#a 59.87, None, 62.1
+
+32.
+.. si pu-a-pulratuku,\
+CONJ PU-REAL-put.in
+連接詞 PU-實現-放入
+
+#a 62.1, None, 62.88
+
+33.
+.. kai aulru=ini ki titilungu.\
+this head=3SG.GEN OBL bottle
+這個 頭=3SG.屬格 斜格 瓶子
+
+#e This dog (thinks) that the frog is like being in the bottle, and puts its head into the bottle.
+#c 這個隻狗(想)青蛙像在瓶子裏面，並且把它的頭放進瓶子裡。
+#a 62.88, None, 64.61
+
+34.
+...(0.7) la kai maka,_
+then NEG able
+然後 否定 能
+
+#a 64.61, None, 66.91
+
+35.
+.. adauthane-nga ki titilungu,\
+pull.out-PFV OBL bottle
+拔出-完成 斜格 瓶子
+
+#a 66.91, None, 68.25
+
+36.
+... la mua ki lribange si,\
+then go OBL window CONJ
+然後 去 斜格 窗戶 連接詞
+
+#a 68.25, None, 71.02
+
+37.
+... e dau-dau-dau.\
+FIL RED-RED-yell
+FIL 重疊-重疊-喊叫
+
+#e Then, (it) cannot pull out (its head) and then it go to the window to (keep) yelling.
+#c 然後，它不能拔出它的頭，然後它去窗戶去一直叫。
+#a 71.02, None, 72.87
+
+38.
+.. iya inu=su iya kikai,_
+say where=2SG.NOM say this
+說 哪裡=2SG.主格 說 這個
+
+#a 72.87, None, 75.11
+
+39.
+... e vavalake.\
+FIL child
+FIL 小孩
+
+#e This child say: “where are you?”
+#c 這個小孩說：「你在哪裡？」
+#a 75.11, None, 77.32
+
+40.
+... la==,_
+then
+然後
+
+#a 77.32, None, 78.23
+
+41.
+.. ale-ale-ale kikai taupunug kudra,_
+RED-RED-bark this dog that
+重疊-重疊-吠 這個 狗 那個
+
+#a 78.23, None, 80.43
+
+42.
+... kai maka malra titilungu kudra,_
+NEG able take bottle that
+否定 能 拿 瓶子 那個
+
+#a 80.43, None, 83.0
+
+43.
+... e==,_
+FIL
+FIL
+
+#a 83.0, None, 84.43
+
+44.
+... maka ututhu kuini ki lringau=ini.\
+able lose this OBL face=3SG.GEN
+able 脫開 這個 斜格 臉=3SG.屬格
+
+#e Then this dog keeps barking because it cannot lose its face (from the bottle).
+#c 然後這個隻狗一直叫因為它不能(從瓶子)鬆開它的臉。
+#a 84.43, None, 86.47
+
+45.
+... yakai kuini ki lribange la kai dre-drele la ka-tuase._
+EXIST this OBL window then NEG RED-see then KA-walk.away
+存在 這個 斜格 窗戶 然後 否定 重疊-看 然後 KA-走了
+
+#e It walks away because it does not see the (frog) at this window.
+#c (它)在這個窗戶那邊因為沒看到(青蛙)所以就走掉了。
+#n 巴山光老師將yakai/ikai 當作中文的「在」來使用，這個點在後面語料相當常見。此文法與一般參考語法的規則不合，但轉寫時的族語老師均能聽得懂，代表這個用法應該已語法化。
+#a 86.47, None, 89.44
+
+46.
+.. tu-verevere kuini taupungu si,\
+do-drop.down this dog SI
+做-掉下來 這個 狗 SI
+
+#a 89.44, None, 90.71
+
+47.
+... ala ka ka-cuake kuini dilrungu si e._
+then KA KA-break this bottle SI FIL
+然後 KA KA-破掉 這個 瓶子 SI FIL
+
+#e This dog drop (itself) down, (and) then the bottle break.
+#c 這個隻狗自己掉了下來，然後瓶子破了。
+#a 90.71, None, 93.5
+
+48.
+...(0.7) e==,_
+FIL
+FIL
+
+#a 93.5, None, 95.05
+
+49.
+.. mu alr-ane ki lringau=ini,\
+go take-NMZ OBL face=3SG.GEN
+去 拿-名物化 斜格 臉=3SG.屬格
+
+#a 95.05, None, 96.66
+
+50.
+... la alra ibibi kuini,_
+then take hug this
+然後 拿 抱 這個
+
+#a 96.66, None, 99.1
+
+51.
+.. vavalake kuini ki,_
+child this OBL
+小孩 這個 斜格
+
+#a 99.1, None, 100.52
+
+52.
+... kuini taupungu=ini si ka-tuase.\
+this dog=3SG.GEN CONJ walk.away
+這個 狗=3SG.屬格 連接詞 走開
+
+#e This child touch the face of the dog and then hug it; (he) walks away.
+#c 這小孩摸那狗的臉然後去抱它，就走了。
+#a 100.52, None, 102.98
+
+53.
+... e,_
+FIL
+FIL
+
+#a 102.98, None, 104.21
+
+54.
+...(1.1) sila-silape,_
+RED-find
+重疊-找
+
+#a 104.21, None, 106.14
+
+55.
+.. kia ki druanga._
+FS OBL everywhere
+FS 斜格 到處
+
+#e (He) is finding everywhere.
+#c 他到處一直尋找。
+#a 106.14, None, 107.15
+
+56.
+.. mua inu-a=ini._
+go where-REAL=3SG.NOM
+去 哪裡-實現=3SG.主格
+
+#e “Where did you go?”
+#c 「你去哪裡了？」
+#a 107.15, None, 108.26
+
+57.
+.. kudra,\
+that
+那個
+
+#a 108.26, None, 108.7
+
+58.
+.. takurauru,\
+dog
+狗
+
+#a 108.7, None, 109.42
+
+59.
+... e==,_
+FIL
+FIL
+
+#a 109.42, None, 110.64
+
+60.
+.. papapalra=ta,\
+partner=2PL.GEN
+夥伴=2PL.屬格
+
+#a 110.64, None, 112.79
+
+61.
+...(1.2) la drele kudra ki e,_
+then see that OBL FIL
+然後 看 那個 斜格 FIL
+
+#a 112.79, None, 115.76
+
+62.
+...(0.7) e==,_
+FIL
+FIL
+
+#a 115.76, None, 117.4
+
+63.
+... lulutu barungulu ikai ki kadalranane.\
+hole ground.hole EXIST OBL road
+洞 地穴 存在 斜格 馬路
+
+#e That dog, his partner, see the hole in the road.
+#c 那隻狗，他的夥伴，看到了路上有洞。
+#a 117.4, None, 120.09
+
+64.
+...(0.8) lau wa mua kai si tautautau._
+maybe WA go this CONJ yell
+會不會 WA 去 這個 連接詞 喊叫
+
+#e (It) thinks that maybe (the frog) went (into the hole) and it barks.
+#c (它)想會不會這青蛙(去了這個洞)然後(它)吠叫。
+#a 120.09, None, 123.73
+
+65.
+... kuini e,_
+this FIL
+這個 FIL
+
+#a 123.73, None, 125.45
+
+66.
+... taupungu la drele ku sigu si,\
+dog then see OBL beehive CONJ
+狗 然後 看 斜格 蜂巢 連接詞
+
+#a 125.45, None, 127.67
+
+67.
+... a-lu,_
+A-IRR
+A-非實現
+
+#a 127.67, None, 128.57
+
+68.
+.. ala yakai kavai si lungu-lungulu,\
+then EXIST that CONJ shake
+然後 在 那 連接詞 搖動
+
+#a 128.57, None, 130.65
+
+69.
+.. si e,_
+SI FIL
+SI FIL
+
+#a 130.65, None, 131.2
+
+70.
+...(0.7) e angatu.\
+FIL tree
+FIL 樹
+
+#e This dog sees the beehives on the tree and (then) might shake that.
+#c 這隻狗看到了樹上的蜂巢，(然後)或許搖動那個(樹)。
+#a 131.2, None, 132.54
+
+71.
+... ka e==,_
+FS FIL
+FS FIL
+
+#a 132.54, None, 134.35
+
+72.
+...(1.0) e==,_
+FIL
+FIL
+
+#a 134.35, None, 136.13
+
+73.
+.. tautautau kuini vavalake,\
+yell this child
+喊叫 這 小孩
+
+#e This child yells.
+#c 這小孩喊叫。
+#a 136.13, None, 137.36
+
+74.
+.. kuini ki e==,_
+this OBL FIL
+這個 斜格 FIL
+
+#a 137.36, None, 138.61
+
+75.
+...(1.0) barungulu kuini kadaengane,_
+ground.hole this ground
+地穴 這個 地面
+
+#a 138.61, None, 141.3
+
+76.
+...(0.7) kainganai ku tila ngu-talivaivai.\
+come NOM mouse from-move
+來到 主格 老鼠 從-移動
+
+#e A mouse come to the ground from the ground hole.
+#c 老鼠從地穴跑出來到地面
+#a 141.3, None, 143.69
+
+77.
+...(2.5) la kuini e,_
+then this FIL
+然後 這個 FIL
+
+#a 143.69, None, 147.54
+
+78.
+... taupungu la mua lungu-lungulungulu kuini ki angatu.\
+dog then go RED-shake this OBL tree
+狗 然後 去 重疊-搖 這個 斜格 樹
+
+#e Then this dog keeps shaking this tree.
+#c 然後這狗一直搖這樹
+#a 147.54, None, 150.65
+
+79.
+... kuini e,_
+this FIL
+這個 FIL
+
+#a 150.65, None, 152.2
+
+80.
+... sa drele kuini lasu yaie,\
+when see this boy DM
+當 看見 這個 男孩 DM
+
+#a 152.2, None, 154.1
+
+81.
+.. ani-ka tila kai-yakai sa iya-iya e._
+why-KA mouse this-EXIST when RED-say FIL
+怎麼-KA 老鼠 這個-存在 當 重疊-說 FIL
+
+#e When the boy see this, (he) says why the mouse is here?
+#c 當那小男孩看(到)這個，(他)說老鼠怎麼會在這？
+#a 154.1, None, 155.87
+
+82.
+.. iluku ku barurungulu ku angatu.
+carry OBL hole OBL wood
+帶著 斜格 洞 斜格 木頭
+
+#e (This dog) carries the wood with hole.
+#c (狗) 帶著有洞的木頭。
+#a 155.87, None, 158.22
+
+83.
+... la ka-tuase u-belenge kuini ki angatu.\
+then KA-walk.away to-up this OBL tree
+然後 KA-走開 到-上面 這 斜格 樹
+
+#e (It) goes up the tree.
+#c (它)就走到木頭上。
+#a 158.22, None, 160.4
+
+84.
+... sa ka-tuase u-belenge kuini ki angatu,/
+when KA-walk.away to-up this OBL tree
+當 KA-走開 到-上面 這 斜格 樹
+
+#a 160.4, None, 163.0
+
+85.
+... e==,\
+FIL
+FIL
+
+#a 163.0, None, 164.29
+
+86.
+.. yakai ku==,_
+EXIST NOM
+存在 主格
+
+#a 164.29, None, 165.71
+
+87.
+.. tualai adringi ku==,_
+from inside NOM
+從 裡面 主格
+
+#a 165.71, None, 167.2
+
+88.
+.. lu si==,_
+deer CONJ
+水鹿 連接詞
+
+#a 167.2, None, 168.31
+
+89.
+... kainganai pa-ngituluku la,_
+come CAU-surprise then
+來 使役-驚訝 然後
+
+#a 168.31, None, 170.01
+
+90.
+.. kainganai._
+come
+來
+
+#e Then there is a deer come from inside and surprise (the dog).
+#c 然後有隻鹿從裡面來然後嚇了(那狗)一跳。
+#a 170.01, None, 170.72
+
+91.
+.. tu-verevere u-cakena,\
+do-down to-ground
+做-掉下來 到-地面
+
+#a 170.72, None, 172.17
+
+92.
+... kuini taupungu la pa-ururu kudra,_
+this dog then CAU-drop that
+這個 狗 然後 使役-掉下 那個
+
+#a 172.17, None, 175.02
+
+93.
+.. sigu si,_
+beehive CONJ
+蜂巢 連接詞
+
+#a 175.02, None, 176.16
+
+94.
+.. la ki-saladhaladha-nga si la ki-lange-langedre kuini ki la,_
+then PASS-pursue-PFV CONJ then PASS-RED-sting this OBL then
+然後 被動-追逐-完成 連接詞 然後 被動-重疊-叮 這個 斜格 然後
+
+#a 176.16, None, 179.03
+
+95.
+... la-sigu.\
+PL-bee
+複數-蜜蜂
+
+#e (It) drops, this dog make that beehive dropped, and it was pursued and stung by the bees.
+#c (它)掉了，這個狗讓那蜂巢掉了，然後它被蜜蜂追跟叮。
+#a 179.03, None, 180.09
+
+107.
+... e==,_
+FIL
+FIL
+
+#a 201.72, None, 202.85
+
+108.
+... u-belenge si,\
+to-up SI
+到-上面SI
+
+#a 202.85, None, 204.12
+
+109.
+... sa u-belenge-nga si==,_
+when to-up-PFV CONJ
+當 跑上去-完成 連接詞
+
+#a 204.12, None, 206.49
+
+110.
+... yai nui-su yai nui-su ka wa-sila-silap-naku._
+at where=2SG.NOM at where=2SG.NOM REAL-RED-search=1SG.NOM
+在 哪裡=2SG.主格 在 哪裡=2SG.主格 實現-找=1SG.主格
+
+#a 206.49, None, 209.38
+
+111.
+.. kuini ki takurauru yaie.\
+this OBL frog DM
+這個 斜格 青蛙 DM
+
+#e Going up, when (he) went up the rock, (he) said: “where are you?”; “where are you?” ; and “I was searching this frog”
+#c 跑了上去，當(他)跑上去了，(他)說：「你在哪裡？」、「你在哪裡？」，「我正在找這隻青蛙。」
+#a 209.38, None, 211.23
+
+112.
+... kai pu-a-lringau-lringau-lringau si ka salaungane kuini mua-ini u-belenge.\
+NEG PU-REAL-RED-RED-think CONJ TOP sambar.deer go=3SG.NOM to-up
+否定 PU-實現-重疊-重疊-想 連接詞 TOP 水鹿 這個 去=3SG.主格 到-上面
+
+#e He does not think that this thing he went up to is a sambar deer.
+#c 他一直沒有想到這個他上去的原來是水鹿
+#a 211.23, None, 215.18
+
+113.
+... sa mua-nga kuini ki salaungane la ka-lisi kuini salaungane si ka-tuase e==._
+when go-PFV this OBL sambar.deer then KA-bad this sambar.deer CONJ KA-walk.away FIL
+當 去-完成 這個 斜格 水鹿 然後 KA-生氣 這個 水鹿 連接詞 KA-走了 FIL
+
+#e When he went up to the sambar deer; then (it) gets angry and this sambar deer walk away.
+#c 當(他)走上水鹿之時，水鹿生氣了就走了。
+#a 215.18, None, 219.27
+
+114.
+... ala marua malra-nga iniane tapalakane kuini launguini si.\
+then probably take-PFV 3SG.OBL branch this horn SI
+然後 好像 拿-完成 3SG.斜格 分叉 這個 角 SI
+
+#e Then probably (he) took its horn branch. 
+#c 好像(他)把它的角捉住了。
+#a 219.27, None, 223.36
+
+115.
+... ka-tuase lailai.\
+KA-walk.away run
+KA-走了 跑
+
+#e (it) runs away.
+#c (它)跑走。
+#a 223.36, None, 224.9
+
+116.
+... la e==,_
+then FIL
+然後 FIL
+
+#a 224.9, None, 226.49
+
+117.
+... sa pi-a-nga kuini la cilri kuini salaungane,\
+when do-REAL-PFV this then throw this sambar.deer
+當 做-實現-完成 這個 然後 丟 這個 水鹿
+
+#a 226.49, None, 229.5
+
+118.
+... iniane la pu-a-dringi ki valru.\
+3SG.OBL then put-REAL-inside OBL river
+3SG.斜格 然後 放-實現-裡面 斜格 溪流
+
+#e Then when (he) did this, and then this sambar deer throw him into the river.
+#c 然後當(他)這麼做的時候，水鹿就把他丟到溪流裡面。
+#a 229.5, None, 231.48
+
+119.
+...(0.7) sa==,_
+when
+當
+
+#a 231.48, None, 233.28
+
+120.
+.. la ka-tuase kuini taupungu si kuini e==,_
+then KA-walk.away this dog CONJ this FIL
+然後 KA-走了 這個 狗 連接詞 這個 FIL
+
+#a 233.28, None, 236.08
+
+121.
+...(0.7) vavalake mu-cilri mua ki,_
+child go-throw go OBL
+小孩 走-fall go 斜格
+
+#a 236.08, None, 239.33
+
+122.
+.. acilai ku,\
+water OBL
+水 斜格
+
+#a 239.33, None, 240.15
+
+123.
+... e== valru.\
+FIL river
+FIL溪流
+
+#e When the dog walks away, the child fall into the water of the river.
+#c 當狗離開之時，小孩就掉進溪流的水裡。
+#a 240.15, None, 241.63
+
+124.
+... ala sa==,_
+then when
+然後 當
+
+#a 241.63, None, 243.33
+
+125.
+... e==,_
+FIL
+FIL
+
+#a 243.33, None, 244.82
+
+126.
+... mua-nga kuini ki,_
+go-PFV this OBL
+去-完成 這個 斜格
+
+#a 244.82, None, 246.62
+
+127.
+.. valru mua-nga kuini ki acilai._
+river go-PFV this OBL water
+河流 去-完成 這個 斜格 水
+
+#e Then when it went to this river, it went into this water.
+#c 當它到了溪流，它到了水裡面。
+#a 246.62, None, 248.69
+
+128.
+.. taru-drusa kuini ki e,_
+CLF-two this OBL FIL
+量詞-二 這個 斜格 FIL
+
+#a 248.69, None, 250.42
+
+129.
+... kuini ki taupungu ala ikai ku angatu kudra e._
+this OBL dog then EXIST NOM wood that FIL
+這個 斜格 狗 然後 存在 主格 木頭 那個 FIL
+
+#e This two, this dog, there is a wood there
+#c 這兩個呢，這個狗，就有個木頭在那裏
+#a 250.42, None, 253.76
+
+130.
+... ai yakai kuini,\
+however EXIST this
+然而 存在 這個
+
+#a 253.76, None, 255.67
+
+131.
+.. barurungulu,\
+tree.hole
+樹洞
+
+#a 255.67, None, 256.82
+
+132.
+... la kamani kudra pu-a e,_
+then it.is.exactly that put-REAL FIL
+然後 就是 那個 放-實現 FIL
+
+#a 256.82, None, 259.39
+
+133.
+...(0.8) e pu-a ka-mea-meal-ane._
+FIL put-REAL KA-RED-dry-NMZ
+FIL 放-實現 KA-重疊-乾-名物化
+
+#e However, there is a tree hole putted in the river bank.
+#c 然而那有個樹洞放在溪邊。
+#n ka-mea-meal-ane是溪邊的意思。
+#a 259.39, None, 262.25
+
+134.
+.. la mua ka-meameal-ane kuini e,_
+then go KA-RED-dry-NMZ this FIL
+然後 走 KA-重疊-乾-名物化 這 FIL
+
+#a 262.25, None, 264.67
+
+135.
+...(0.7) taupungu si vavalake.\
+dog CONJ child
+狗 連接詞 小孩
+
+#e Then the dog and child go (to) the river bank.
+#c 然後狗跟小孩到了溪邊。
+#a 264.67, None, 267.29
+
+136.
+... sa ngi-mia-nga kuini yaie,\
+when REFL-be.like-PFV this DM
+當 反身-像-完成 這樣 DM
+
+#a 267.29, None, 269.84
+
+137.
+... e,_
+FIL
+FIL
+
+#a 269.84, None, 271.27
+
+138.
+...(0.8) ala kamani kuini,_
+then it.is.exactly this
+然後 就是 這個
+
+#a 271.27, None, 273.73
+
+139.
+... e takurauru kudra na==,_
+FIL frog that PFT==
+FIL 青蛙 那個 完成
+
+#a 273.73, None, 276.41
+
+140.
+... sila-silapel=ini ma-tuase mu valru mua kudra ki,_
+RED-search=3SG.GEN MA-walk go river go that OBL
+重疊-找=3SG.屬格 MA-走 去 溪流 去 那個 斜格
+
+#a 276.41, None, 279.95
+
+141.
+... papalral=ini.\
+partner=3SG.GEN
+同伴=3SG.屬格
+
+#e When they are like that, (they say) this is the frog we have been searching, it went to the river and went to its partner.
+#c 當他們像那樣時，(就說)這是我們在找的那個青蛙，(它)去了溪流去(找)同伴。
+#a 279.95, None, 281.33
+
+142.
+... kudra mia liniane ka e,_
+that like 3PL.OBL NOM FIL
+那 像 3PL.斜格 主格 FIL
+
+#a 281.33, None, 283.63
+
+143.
+... e takurauru si.\
+FIL frog SI
+FIL 青蛙 連接詞
+
+#e The frog is like them.
+#c 那青蛙很像它們。
+#a 283.63, None, 285.17
+
+144.
+.. la kamani ka,_
+then it.is.exactly FS
+然後 就 FS
+
+#a 285.17, None, 286.51
+
+145.
+... e==,_
+FIL
+FIL
+
+#a 286.51, None, 287.82
+
+146.
+.. palribulu liniane,\
+help 3PL.OBL
+幫忙 3PL.斜格
+
+#a 287.82, None, 288.92
+
+147.
+.. ki kainangai,_
+OBL come
+OBL 來
+
+#a 288.92, None, 290.27
+
+148.
+.. kudra tapangale kudra takurauru si.\
+that many that frog SI
+那個 很多 那個 青蛙 SI
+
+#e That many frogs come to help them.
+#c 那些很多青蛙來幫他們。
+#a 290.27, None, 292.13
+
+149.
+... kamani-nga,_
+it.is.exactly-PFV
+就是-完成
+
+#a 292.13, None, 293.19
+
+150.
+.. kuini pa-uadripi liniane sa,_
+this CAU-live 3PL.OBL when
+這個 使役-活 3PL.斜格 當
+
+#a 293.19, None, 295.34
+
+151.
+.. ki-cilri-nga ki salaungane,_
+PASS-throw-PFV OBL sambar.deer
+被動-丟-完成 斜格 水鹿
+
+#a 295.34, None, 296.94
+
+152.
+.. pu-a-nga ki acilai la kamani-nga ka pa-uadripi liniane.\
+do-REAL-PFV OBL water then it.is.exactly CAU-down 3PL.OBL
+做-實現-完成 斜格 水 然後 就是 使役-下 3PL.斜格
+
+#e (frogs) save them who are thrown to the water by sambar deer.
+#c (青蛙)救了被水鹿丟到水裡的他們。
+#n 此句句式混亂，發音人也僅能揣摩這句的真實意義。
+#a 296.94, None, 299.61
+
+153.
+.. si kamani kuini,_
+SI it.is.exactly this
+SI 就是 這個
+
+#a 299.61, None, 301.23
+
+154.
+.. na-papapalra=ini,_
+PFV-partner=3SG.GEN
+完成-夥伴=3SG.屬格
+
+#a 301.23, None, 303.01
+
+155.
+... e takarauru kudra,_
+FIL frog that
+FIL 青蛙 那個
+
+#a 303.01, None, 305.04
+
+156.
+... ma-sa-ngi-liluku kuini yakai kuini ki valru kuini ki._
+MA-when-REFL-lead this EXIST this OBL river this OBL
+MA-當-反身-領導 存在 這個 斜格 溪流 這個 斜格
+
+#e It is exactly that their partner before is the frog who leads in the river.
+#c 他們之前的同伴，就是在溪流領導的青蛙。
+#a 305.04, None, 308.28
+
+157.
+... e==,_
+FIL
+FIL
+
+#a 308.28, None, 309.72
+
+158.
+...(0.8) takurauru kuini pararubu liniane.\
+frog this help 3PL.OBL
+青蛙 這個 幫助 3PL.斜格
+
+#e (The) frog helps them.
+#c 青蛙幫了他們。
+#a 309.72, None, 312.67
+
+159.
+... la sa mia-nga kuini,\
+then when like-PFV this
+然後 當 像-完成 這個
+
+#a 312.67, None, 314.49
+
+160.
+.. kikai vavalake,_
+this child
+這個 小孩
+
+#a 314.49, None, 316.08
+
+161.
+la e==,_
+then FIL
+然後 FIL
+
+#a 316.08, None, 317.24
+
+162.
+.. malra kuini ki e,_
+take this OBL FIL
+拿 這個 斜格 FIL
+
+#a 317.24, None, 318.6
+
+163.
+.. na-papapalra=ini kuini ki takurauru,\
+PFV- partner=3SG.GEN this OBL frog
+完成-夥伴=3SG.屬格 這個 斜格 青蛙
+
+#a 318.6, None, 321.07
+
+164.
+... si kuini taupungu._
+CONJ this dog
+連接詞 這個 狗
+
+#e When it is like that，this child take the frog which was his partner and the dog. 
+#c 當那樣的時候，小孩就把曾是他夥伴的青蛙跟狗捉了。
+#a 321.07, None, 322.67
+
+165.
+.. la e,_
+then FIL
+然後 FIL
+
+#a 322.67, None, 323.35
+
+166.
+.. siulri-nga makanaelre si._
+return-PFV everyone SI
+回去-完成 大家 SI
+
+#e Everyone returned.
+#c 大家一起回去。
+#a 323.35, None, 325.35
+
+167.
+... la,_
+then
+然後
+
+#a 325.35, None, 326.26
+
+168.
+... maelanenga maelanenga,_
+thank thank
+謝謝 謝謝
+
+#a 326.26, None, 327.93
+
+169.
+.. la iya kipusau kuini la-drumane kuini ki takurauru._
+then say goodbye this PL-other this OBL frog
+然後 說 再見 這個 複數-別的 這個 斜格 青蛙
+
+#e Then (he) say “thanks, thanks” and “goodbye” to other frogs.
+#c 然後他跟其他青蛙說「謝謝、謝謝」以及「再見」。
+#a 327.93, None, 331.23
+
+170.
+.. la nikai kamani kuini takurauru kuini,\
+then if-NEG it.is.exactly this frog this
+然後 若-否定 就是 這個 青蛙 這
+
+#a 331.23, None, 333.42
+
+171.
+.. na-papapalral=ini,\
+PFV-partner=3PL.GEN
+完成-夥伴=3PL.屬格
+
+#a 333.42, None, 335.23
+
+172.
+... la kamani ku palribulu liniane.\
+then it.is.exactly OBL help 3PL.OBL
+然後 就是 斜格 幫助 3PL.斜格
+
+#e If the frog who was their partner did not help them.
+#c 如果不是曾是它們夥伴的青蛙幫了他們。
+#a 335.23, None, 337.45
+
+173.
+.. e kamani ka,_
+FIL it.is.exactly OBL
+FIL 就是 斜格
+
+#a 337.45, None, 339.23
+
+174.
+.. e peaelaela kuini ki papalral=ini la iya drakerale miaiya ka la-takurauru yaie._
+FIL discuss this OBL partner=3SG.GEN then say river same OBL PL-frog DM
+FIL 討論 這個 斜格 夥伴=3SG.屬格 然後 說 河流 一樣 斜格 複數-青蛙 DM
+
+#e It is that (it) discuss with its partners，which are the frogs at the same river. 
+#c 就是(它)就跟它們的同伴討論，就是跟它同樣在河流的青蛙。
+#a 339.23, None, 343.5
+
+175.
+.. la ni ki-palribulru ki manemane,\
+then how PASS-help OBL what
+然後 如何 被動-幫助 斜格 甚麼
+
+#a 343.5, None, 345.28
+
+176.
+... la e==,_
+then FIL
+然後 FIL
+
+#a 345.28, None, 346.73
+
+177.
+.. mati==,_
+very
+很
+
+#a 346.73, None, 347.48
+
+178.
+... e==,_
+FIL
+FIL
+
+#a 347.48, None, 348.7
+
+179.
+.. kiragai kikai vavalake.\
+happy this child
+開心 這 小孩
+
+#e How can they be helped, and then this child is very happy.
+#c 他們怎麼能被幫助，然後這小孩很開心。
+#a 348.7, None, 350.76
+
+180.
+.. la ngualai kuini ki thalradh-ane=ini kaiki kuini wa-udri-udripi si,_
+then for this OBL love-NMZ=3PL.GEN this this REAL-RED-life CONJ
+然後 為了 這 斜格 愛-名物化=3PL.屬格 這個 這個 實現-重疊-生命 連接詞
+
+#a 350.76, None, 353.65
+
+181.
+... e la kai e,_
+FIL then NEG FIL
+FIL 然後 不 FIL
+
+#a 353.65, None, 355.78
+
+182.
+... e kirimu ma-dai-daili,\
+FIL KIRIMU REC-RED-far
+FIL KIRIMU 交互-重疊-遠
+
+#a 355.78, None, 358.54
+
+183.
+.. ma-thinga-thingale,\
+REC-RED-know
+交互-重疊-知道
+
+#a 358.54, None, 359.44
+
+184.
+... la ma-palri-<pulri>-pulu.\
+then MA-<RED>help
+然後 MA-<RED>help
+
+#e These animals know and help each other without distance for their love.
+#c 這個動物們因為它們的愛心，沒有距離，然後互相幫忙，互相認識。
+#n waudriudripi 是動物的意思，詞根為udripi(生命/氣息)之意。
+#a 359.44, None, 360.93
+
+185.
+.. maelanenga la iya si,_
+thank then say CONJ
+謝謝 然後 說 連接詞
+
+#a 360.93, None, 362.54
+
+186.
+... e==._
+FIL
+FIL
+
+#a 362.54, None, 363.92
+
+187.
+.. kai ta-palribul-ane=numi,_
+this NMZ-help-NMZ=2PL.GEN
+這個 名物化-幫助-名物化=2PL.屬格
+
+#a 363.92, None, 365.51
+
+188. 
+.. na-iya-ne la iya si malra kuini takurauru=ini si.\
+PFV-say-NMZ then say CONJ take this frog=3PL.GEN SI
+
+#e The boy said thank for their help, and take their frog.
+#c (小男孩)說謝謝它們幫忙他們，然後就拿走了他們的青蛙。
+#a 365.51, None, 368.03
+
+189.
+.. la ka-tuase ma-pu-<sau>-sau kai ki e==,_
+then KA-leave REC-<RED>farewell this OBL FIL
+
+#a 368.03, None, 370.69
+
+190.
+... kai ki kamani ka pararubu liniane kikai takurauru kikai yakai valru.\
+this OBL it.is.exactly help 3PL.OBL this frog this EXIST river           
+這個 斜格 就是 幫助3PL.斜格 這個 青蛙 這 存在 溪流
+
+#e They go to say farewell to each other to the frog who helps them in the river.
+#c 他們去跟在河流幫忙他們的青蛙互相道別。
+#a 370.69, None, 373.58
+
+191.
+... maelanenga,_
+thank
+謝謝
+
+#a 373.58, None, 374.72
+
+192.
+.. <L2MxiexieL2M>.\
+thank
+謝謝
+
+#e Thanks.
+#c 謝謝。
+#a 374.72, None, 375.54

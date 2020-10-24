@@ -1,0 +1,905 @@
+topic: frog_Panay
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 葉阿妹, panay, female, 1949-11-20
+collected: 2008-01-05
+revised: None
+video: skzyNr-frog_panay.mp3
+
+1.
+...(1.3) hang izaw kya cacay a wawa,_
+yes EXIST NOM.that one LNK child
+好的 存在 主格.那個 一個 連詞 小孩
+
+#a 1.13, None, 3.37
+
+2.
+... za,\
+FS
+FS
+
+#a 3.37, None, 4.23
+
+3.
+.. izaw ku ni-cakep-an nuheni tu balaut,\
+EXIST NOM NI-catch-PF 3PL.GEN OBL frog
+存在 主格 NI-抓到-受焦 3PL.屬格 斜格 青蛙
+
+#a 4.23, None, 6.82
+
+4.
+.. pa-lacul-en niza i tiza i== bubu._
+CAU-put-PF 3SG.GEN PREP there PREP cage
+使動-放-受焦 3SG.屬格 介系詞 那裡 介系詞 籠子
+
+#e There was a child, and he caught a frog and put it in a basket.
+#c 有一個小孩抓到一隻青蛙，放到籃子中。
+#n IU1中的 HANG 為發語詞，常出現在最開始的部分。
+#n lacul現今衍伸為部落的產業。
+#n bubu 為籠子；而籃子為kanas。
+#a 6.82, None, 9.7
+
+5.
+...(1.2) iza kya balaut i labu cekul-en=tu nya wacu.\
+EXIST NOM.that frog PREP inside look.down-PF=PFV GEN.that dog
+存在詞 主格.那個 青蛙 介系詞 裡面 往下看-受焦=完成貌 屬格.那個 狗
+
+#e The dog looked down on the frog, which was inside of a cage.
+#c 狗往下看著在裡頭的青蛙。
+#n azih 是看；cekul 往下看；mi-taang a mi-azih抬頭看。
+#n iza為izaw的縮寫，是存在詞。
+#a 9.7, None, 14.25
+
+6.
+... ma-idih kyai kya wacu a mu-kan tya balaut.\
+AF-want maybe NOM.that dog LNK AF-eat OBL.that frog
+主焦-想要 可能 主格.那個 狗 連詞 主焦-吃 斜格.那個 青蛙
+
+#e That dog might want to eat that frog.
+#c 那隻狗可能想吃那隻青蛙吧!
+#n kyai 為 kyami的縮寫。
+#a 14.25, None, 17.1
+
+7.
+...(1.5) ma-bi’ sa=tu kya,\
+AF-sleep SA=PFV NOM.that
+主焦-睡覺 SA=完成貌 主格.那個
+
+#a 17.1, None, 20.47
+
+8.
+...(0.9) kya wawa a tya wacu.\
+NOM.that child LNK OBL.that dog
+主格.那個 小孩 連繫詞 斜格.那個 狗
+
+#e That child and the dog were sleeping.
+#c 小孩跟狗在睡覺。
+#a 20.47, None, 23.03
+
+9.
+...(1.0) meya melaw han=tu kya balaut,\
+FS see HAN=PFV NOM.that frog
+FS 看 HAN=完成貌 主格.那個 青蛙
+
+#a 23.03, None, 26.11
+
+10.
+.. mu-tahkal kya balaut mu-laliw.\
+AF-go.out NOM.that frog AF-run.away
+主焦-去外面 主格.那個 青蛙 主焦-跑掉
+
+#e (We saw) that frog ran away.
+#c （我們）看到那隻青蛙跑掉了。
+#n 看到在此應是指說故事的人，而非小孩及狗。
+#n hekal 外面；tahkal到外面。
+#a 26.11, None, 28.52
+
+11.
+.. ma-talaw nima ku lubu-an nanay=tu kaku a sa kyai kya balucu’ mu-laliw kya balaut.\
+AF-shock GEN.who NOM confine-PF this.way=PFV 1SG.NOM LNK say maybe NOM.that heart AF-run.away NOM.that frog
+主焦-驚訝 屬格.誰 主格 關-受焦 這樣=完成貌 1SG.主格 連繫詞 說 可能 主格.那個 心 主焦-跑掉 主格.那個 青蛙
+
+#e That frog thought that it would be confined and then ran away.
+#c 那隻青蛙心想會一直被關就跑走了。
+#a 28.52, None, 33.83
+
+12.
+...(0.8) ma-cukat sa=tu kya wawa._
+AF-wake.up SA=PFV NOM.that child
+主焦-醒來 SA=完成貌 主格.那個 小孩
+
+#e That child woke up.
+#c 小孩醒來了。
+#a 33.83, None, 36.19
+
+13.
+... nayi=tu aca kya balaut.\
+NEG=PFV too NOM.that frog
+否定詞=完成貌 也 主格.那個 青蛙
+
+#e It turned out that the frog disappeared.
+#c 原來青蛙不見了。
+#n tu aca 為慣用語意思為原來或結果。
+#a 36.19, None, 38.15
+
+14.
+.. aya nayi=tu kya balaut sa kya wawa a tya wacu.\
+INT NEG=PFV NOM.that frog say NOM.that child LNK OBL.that dog
+驚歎詞 否定詞=完成貌 主格.那個 青蛙 說 主格.那個 小孩 連繫詞 斜格.那個 狗
+
+#e That child said to the dog that the frog disappeared.
+#c 孩子對狗說：「青蛙不見了。」
+#a 38.15, None, 41.66
+
+15.
+...(1.1) mi-kilim=tu kuheni sa.\
+AF-search=PFV 3PL.NOM DM
+主焦-找=完成貌 3PL.主格 DM
+
+#e They searched for (frog).
+#c 他們去找(青蛙)。
+#a 41.66, None, 44.41
+
+16.
+... tuhtuh-en niza ku==,\
+pour-PF 3SG.GEN NOM
+倒-受焦 3SG.屬格 主格
+
+#a 44.41, None, 46.42
+
+17.
+... ku==,\
+NOM
+主格
+
+#a 46.42, None, 47.96
+
+18.
+...(1.1) ku== <L2JkucuL2J> niza,\
+NOM shoes 3SG.GEN
+主格 鞋子 3SG.屬格
+
+#a 47.96, None, 50.55
+
+19.
+... mi-tuhtuh.\
+AF-pour
+主焦-倒
+
+#e He placed the shoes upside down.
+#c 他把鞋子倒過來。
+#n kucu為日語外來語，漢字寫成靴(k^ts^)
+#a 50.55, None, 51.87
+
+20.
+...(1.0) mumuk=tu i tiza pa-bubu-an kya wacu mi-kilim tya balaut.\
+AF.get.into=PFV PREP here CAU-cage-LF NOM.that dog AF-search OBL.that frog 
+主焦.鑽進=完成貌 介系詞 這裡 使動-籠子-處焦 主格.那個 狗 主焦-找 斜格.那個 青蛙
+
+#e That dog got into the cage to find the frog.
+#c 狗鑽進籠中去找青蛙。
+#a 51.87, None, 56.9
+
+21.
+...(0.7) mi-awaw-en nya== hiya nya== wawa.\
+MI-yell-PF GEN.that that GEN.that child
+MI-呼喊-受焦 屬格.那個 那個 屬格.那個 小孩
+
+#e That child yelled.
+#c 那小孩呼喊著。
+#n 根據發音人mi-awaw-en 在此不合語法，正確的形式應為 awaw-en。
+#a 56.9, None, 60.66
+
+22.
+...(2.2) kina cu kina== bulu-bulut sa=tu kya wacu,\
+NOM.this FS NOM.this RED-spring SA=PFV NOM.that dog
+主格.這個 FS 主格.這個 重疊-飛快行動 SA=完成貌 主格.那個 狗
+
+#a 60.66, None, 65.89
+
+23.
+.. kina cebu-cebu’ sa=tu halu-wacu-wacu sa=tu a ma-idih a mu-laliw.\
+NOM.this RED-plunge.into.water SA=PFV even-RED-dog SA=PFV LNK AF-want LNK AF-run.away
+主格.這個 重疊-跳進水裡 SA=完成貌 甚至-重疊-狗 SA=完成貌 連繫詞 主焦-想要 連詞 主焦-跑掉
+
+#e Even the dog sprang and wanted to plunge into water.
+#c 連狗都想衝出去及跳進水裡。
+#n ma-cebu’ 跳到水裡。
+#n halu-kaku 連(甚至)我，halu-kaku-kaku 意思較halu-kaku(連我) 更強烈
+#a 65.89, None, 69.51
+
+24.
+... mi-kilim=tu aca kya wawa tya wacu ma-tepa=tu niza kya wacu.\
+AF-search=PFV too NOM.that dog OBL.that dog PF-find=PFV 3SG.GEN NOM.that dog
+主焦-找=完成貌 也 主格.那個 狗 斜格.那個 狗 受焦-找到=完成貌 3SG.屬格 主格.那個 狗
+
+#e The child searched for that dog and he found it.
+#c 小孩要去找狗了, 結果他找到那隻狗。
+#n tu aca 為慣用語意思為原來或結果。
+#n mi-kilim 及ma-kilim 為中部、南勢阿美語的用法。mi-kilim=tu表示「去找了」；ma-kilim=tu表示「找到了」；mu-kilim tu tu wacu則是不合語法。   
+#n ma-tepa (沒有mi-tepa) 為北勢阿美語的用法；ma-tepa=tu表示「找到了」。
+#a 69.51, None, 73.98
+
+25.
+...(0.8) abibi han niza kya wacu ini=tu aca kina wacu sa.\
+hold HAN 3SG.GEN NOM.that dog here=PFV too NOM.this dog DM.
+抱 HAN 3SG.屬格 主格.那個 狗 這裡=完成貌 也 主格.這個 狗 DM
+
+#e He held the dog, which was here formerly.
+#c 他抱著狗, 原來狗在這。
+#n tu aca 為慣用語意思為原來或結果。
+#a 73.98, None, 78.64
+
+26.
+.. mi-kilim henay kya wacu tya==,\
+AF-search still NOM.that dog OBL.that
+主焦-找 仍然 主格.那個 狗 斜格.那個
+
+#a 78.64, None, 81.06
+
+27.
+...(1.0) E balaut.\
+FIL frog
+FIL 青蛙
+
+#e That dog was still looking for the frog.
+#c 那隻狗還在找青蛙。
+#a 81.06, None, 82.98
+
+28.
+... ya balaut mi-awaw=tu kuheni tahkal=tu kuheni mi-kilim tya balaut.\ 
+that frog AF-yell=PFV 3PL.NOM go.out=PFV 3PL.NOM AF-search OBL.that frog
+那個 青蛙 主焦-呼喊=完成貌 3PL.主格 去外面=完成貌 3PL.主格 主焦-找 斜格.那個 青蛙
+
+#e They yelled and went out to search for frog.
+#c 他們呼喚著, 他們走出去找青蛙。
+#n hekal 外面 ta-hekal到外面。
+#a 82.98, None, 87.38
+
+29.
+... ma-melaw=tu niza ku E==,\
+PF-see=PFV 3SG.GEN NOM FIL
+受焦-看=完成貌 3SG.屬格 主格 FIL
+
+#a 87.38, None, 90.43
+
+30.
+... tatekuh.\
+hornet
+虎頭蜂
+
+#e He saw hornets.
+#c 他看到虎頭蜂。
+#a 90.43, None, 91.77
+
+31.
+...(0.9) maka-tengil ku tatekuh tahkal=tu tu==,\
+be.able.to-hear NOM hornet go.out=PFV FS
+能夠-聽到 主格 虎頭蜂 去外面=完成貌 FS
+
+#a 91.77, None, 95.13
+
+32.
+... tu maka-tengil=tu ni-pi-awaw nuheni tya==,\
+then be.able.to-hear=PFV NI-PI-yell 3PL.POSS GEN.that
+然後 能夠-聽到=完成貌 NI-PI-呼喊 3PL.所有格 屬格.那個
+
+#a 95.13, None, 98.82
+
+33.
+.. tya pi-kilim nuheni tya balaut.\
+GEN.that PI-search 3PL.POSS OBL.that frog
+屬格.那個 PI-找 3PL.所有格 斜格.那個 青蛙
+
+#e Hornets heard sounds made by the child and the dog when they were searching for the frog.
+#c 虎頭蜂聽到他們出來尋找青蛙的呼喚聲。
+#a 98.82, None, 101.28
+
+34.
+...(2.2) maka-melaw kya wacu tya==,\
+be.able.to-see NOM.that dog OBL.that
+能夠-看 主格.那個 狗 斜格.那個
+
+#a 101.28, None, 105.23
+
+35.
+... tya hiya tya tatekuh.\
+OBL.that that OBL.that hornet
+斜格.那個 那個 斜格.那個 虎頭蜂
+
+#e The dog saw hornets.
+#c 狗看到虎頭蜂。
+#a 105.23, None, 107.54
+
+36.
+...(0.7) E,\
+FIL
+FIL
+
+#a 107.54, None, 108.8
+
+37.
+... sa-pi-zawis-en ciniza tya tatekuh.\ 
+RF-PI-pluck-RF 3SG.NOM OBL.that hornet
+參考焦-PI-摘-參考焦 3SG.主格 斜格.那個 虎頭蜂
+
+#e The dog wanted to pluck the beehives.
+#c 狗想摘蜂窩。
+#n tatekuh 在此指虎頭蜂的蜂窩
+#n IU 37中SA-PI- -PF 為句型，意思為「想要」，sa-當作參考焦點。
+#a 108.8, None, 111.54
+
+38.
+.. mehan=tu kya== hiya kya wawa,\
+be.seen=PFV NOM.that that NOM.that child
+被看到=完成貌 主格.那個 那個 主格.那個 小孩
+
+#a 111.54, None, 114.12
+
+39.
+... mi-susu’ tu buhang.\
+AF-put.inside OBL hole
+主焦-伸進去 斜格 洞
+
+#e It was seen that the child put his hand inside of the hole.
+#c 那小孩被看到把手放到洞中。
+#n mehan 為 melaw han 看到的縮寫。
+#a 114.12, None, 116.62
+
+40.
+... mi-tahkal sa=tu u,\
+AF-go.out SA=PFV CN
+主焦-去外面 SA=完成貌 CN
+
+#a 116.62, None, 118.91
+
+41.
+... kalabaw kyai u kalabaw.\ 
+vole maybe CN vole
+田鼠 可能 CN 田鼠
+
+#e What came out might be voles.
+#c 出來的可能是田鼠。
+#n 老鼠為edu；kalabaw 則為田鼠，卑南族也稱為kalabaw。
+#a 118.91, None, 121.46
+
+42.
+.. izaw kya kalabaw ma-kalat nya kalabaw ku pising nya wawa.\
+EXIST NOM.that vole AF-bite GEN.that vole NOM face GEN.that child
+存在詞 主格.那個 田鼠 主焦-咬 屬格.那個 田鼠 主格 臉 屬格.那個 小孩
+
+#e There was a vole, which bit the face of the child.
+#c 有田鼠而且咬了小孩的臉。
+#n pising為阿美族語；撒奇萊雅語則為bihid。
+#a 121.46, None, 125.9
+
+43.
+... kya wacu ma-idih mi-kalic ni==,\
+NOM.that dog AF-want AF-climb NI
+主格.那個 狗 主焦-想要 主焦-爬 NI
+
+#a 125.9, None, 128.72
+
+44.
+... mi-zawis tya,\ 
+AF-pluck OBL.that
+主焦-摘 斜格.那個
+
+#a 128.72, None, 130.29
+
+45.
+... tatekuh.\
+hornet
+虎頭蜂
+
+#e That dog wanted to climbed up and pluck the beehives.
+#c 那隻狗想爬上去摘虎頭蜂蜂窩。
+#n tatekuh 在此指虎頭蜂蜂窩。
+#a 130.29, None, 131.37
+
+46.
+...(3.6) sa-beleng sa=tu kya tatekuh na=mi-zawis kya,\
+do-bunch SA=PFV NOM.that hornet PAST=AF-pluck NOM.that
+做-堆 SA=完成貌 主格.那個 虎頭蜂 過去貌=主焦-摘 主格.那個
+
+#a 131.37, None, 138.83
+
+47.
+... wa,\
+FS
+FS
+
+#a 138.83, None, 139.91
+
+48.
+...(0.8) wacu.\
+dog
+狗
+
+#e That dog wanted to pluck the beehives and there came a swarm of hornets.
+#c 那隻狗摘蜂窩, 一群蜜蜂飛過來。
+#n na=mu-kan kya kayabes 表示曾吃過或吃完Kayabes。
+#n mi-zawis 動作向上的摘；mi-ala 拿；mi-pecu’ 摘；mi-picpic 用手指摘(nip)。
+#a 139.91, None, 141.47
+
+49.
+... iza kya==,\
+EXIST NOM.that
+存在詞 主格.那個
+
+#a 141.47, None, 143.04
+
+50.
+... E,\
+FIL
+FIL
+
+#a 143.04, None, 143.9
+
+51.
+...(1.0) u hiya u==,\
+CN that CN
+CN 那個 CN
+
+#a 143.9, None, 145.96
+
+52.
+... edu,_
+mouse
+老鼠
+
+#a 145.96, None, 146.92
+
+53.
+... mu-tahkal.\
+AF-go.out
+主焦-去外面
+
+#e There came out a mouse.
+#c 一隻老鼠跑出來。
+#a 146.92, None, 148.43
+
+54.
+... E,\
+FIL
+FIL
+
+#a 148.43, None, 149.21
+
+55.
+...(0.8) ya han kya wawa mu-kilim tya edu.\
+that HAN NOM.that child AF-search OBL.that mouse
+那個 HAN 主格.那個 小孩 主焦-找 斜格.那個 老鼠 
+
+#e That child searched for the mouse.
+#c 那小孩找老鼠。
+#a 149.21, None, 152.0
+
+56.
+.. ta-tuay sa kyai han melaw han sa ini== i sasa kya edu.\
+go-where say Q HAN see HAN DM here PREP lower.part NOM.that mouse
+去-哪裡 說 疑問 HAN 看 HAN 這裡 介系詞 下面 主格.那個 老鼠
+
+#e He wondered where the mouse was, and it was under there.
+#c 他以為(老鼠)去哪裡，結果老鼠在下面。
+#n i cuwatu 的縮寫為catu。
+#n ta-tuay 為tala-cuwa的縮寫形。
+#n kyai 原意為「或許」，在此為疑問助詞。
+#a 152.0, None, 155.38
+
+57.
+... mi-kalic kya wawa a tya mi-melaw tya buhang nya kilang.\
+AF-climb NOM.that child LNK OBL.that AF-see OBL.that hole GEN.that tree
+主焦-爬 主格.那個 小孩 連繫詞 斜格.那個 主焦-看 斜格.那個 洞 屬格.那個 樹
+
+#e That child climbed up to see the tree hole.
+#c 小孩爬上樹要看樹洞。
+#a 155.38, None, 160.24
+
+58.
+...(1.7) ma-pulin=tu aca melaw han sa izaw ku ayam i labu nya buhang,\
+AF-fall=PFV too see HAN DM EXIST NOM bird PREP inside GEN.that hole
+主焦-跌倒=完成貌 也 看 HAN DM 存在詞 主格 鳥 介系詞 裡面 屬格.那個 洞
+
+#a 160.24, None, 166.31
+
+59.
+... nya ayam.\
+GEN.that bird
+屬格.那個 鳥
+
+#e (He) fell down and saw birds in the tree hole.
+#c 跌倒之後看到樹洞裡有鳥。
+#n tu aca 為慣用語意思為原來或結果
+#a 166.31, None, 167.57
+
+60.
+... ma-tawid kyai kya wawa ma-pulin ma-==,\
+AF-shock maybe NOM.that child AF-fall AF-
+主焦-驚訝 可能 主格.那個 小孩 主焦-跌倒 主焦-
+
+#a 167.57, None, 170.77
+
+61.
+...(0.8) ma-tienang.\
+AF-fall.on.one’s.back
+主焦-四腳朝天
+
+#e It might be that the child was shocked and fell on his back.
+#c 小孩可能被嚇到之後跌倒，跌得四腳朝天。
+#a 170.77, None, 172.43
+
+62.
+... i==,\
+PREP
+介系詞
+
+#a 172.43, None, 173.98
+
+63.
+... u,==\
+CN
+CN
+
+#a 173.98, None, 175.06
+
+64.
+...(0.8) yu tahkal sa kya ayam i tiza i==,\
+YU go.out DM NOM.that bird PREP here PREP
+YU 去外面 DM 主格.那個 鳥 介系詞 這裡 介系詞
+
+#a 175.06, None, 178.15
+
+65.
+... i buhang nya kilang.\ 
+PREP hole GEN.that tree
+介系詞 洞 屬格.那個 樹
+
+#e A bird came out of the tree hole.
+#c 小鳥從樹洞出來。
+#a 178.15, None, 180.27
+
+66.
+... melaw han u deku’,\
+see HAN CN owl
+看 HAN CN 貓頭鷹
+
+#a 180.27, None, 182.17
+
+67.
+...(1.0) u deku’,\
+CN owl
+CN 貓頭鷹
+
+#e (They) see owls.
+#c (他們)看到貓頭鷹。
+#a 182.17, None, 183.86
+
+68.
+... kina wacu,\
+NOM.this dog
+主格.這個 狗
+
+#a 183.86, None, 185.32
+
+69.
+.. mu-laliw,\
+AF-run.away
+主焦-跑掉
+
+#a 185.32, None, 186.17
+
+70.
+... lalaba’-en nu tatekuh.\
+chase-PF GEN hornet
+追-受焦 屬格 虎頭蜂
+
+#e That dog ran away and was chased by hornets.
+#c 狗跑去追虎頭蜂。
+#n ma-tuba’ 跑。
+#a 186.17, None, 188.48
+
+71.
+...(2.3) maka-melaw kya ayam tya wawa.\
+be.able.to-see NOM.that bird OBL.that child
+能夠-看 主格.那個 鳥 斜格.那個 小孩
+
+#e The bird could see that child.
+#c 那隻鳥能看得到那個孩子。
+#a 188.48, None, 192.86
+
+72.
+... sa-pi-kalat-an kya ayam tya wawa u==,\
+RF-PI-bite-RF NOM.that bird OBL.that child CN
+參考焦-PI-咬-參考焦 主格.那個 鳥 斜格.那個 小孩 CN
+
+#a 192.86, None, 196.14
+
+73.
+...(0.9) sa-pi-kalat-an kina deku’ nahiya tina wawa.\
+RF-PI-bite-RF NOM.this owl that OBL.this child
+參考焦-PI-咬-參考焦 主格.這個 貓頭鷹 那個 斜格.這個 小孩
+
+#e The owl wanted to bite the child.
+#c 貓頭鷹咬那孩子。
+#n sa-pi-...-en 為參考焦點句型，意思為「想要」。
+#a 196.14, None, 200.74
+
+74.
+...(0.9) mi-kilim kya==,\
+AF-search NOM.that
+主焦-找 主格.那個
+
+#a 200.74, None, 203.21
+
+75.
+...(1.4) kya wawa tu== wacu.\
+NOM.that child OBL dog
+主格.那個 小孩 斜格 狗
+
+#e The child searched for the dog.
+#c 那孩子在找那隻狗。
+#a 203.21, None, 206.3
+
+76.
+...(2.8) mi-kilim kya wawa tya wacu.\
+AF-search NOM.that child OBL.that dog
+主焦-找 主格.那個 小孩 斜格.那個 狗
+
+#e The child searched for that dog.
+#c 那小孩在找那隻狗。
+#a 206.3, None, 211.27
+
+77.
+.. mi-limek ma-talaw tya tatekuh.\
+AF-hide AF-shock OBL.that hornet
+主焦-躲 主焦-害怕 斜格.那個 虎頭蜂
+
+#e (That dog) hided due to fear of hornets.
+#c (那隻狗)躲起來因為害怕虎頭蜂。
+#a 211.27, None, 213.79
+
+78.
+...(2.4) E,\
+FIL
+FIL
+
+#a 213.79, None, 216.46
+
+79.
+...(1.2) ma-melaw nina wawa ku ngabul.\
+AF-see GEN.this child NOM deer
+主焦-看 屬格.這個 小孩 主格 鹿
+
+#e The child saw the deer.
+#c 這小孩看到鹿。
+#n 鹿亦可為kalalayan
+#a 216.46, None, 220.09
+
+80.
+...(2.0) ma==,\
+MA
+MA
+
+#a 220.09, None, 222.97
+
+81.
+...(1.0) u ngabul mi-kacaw i tiza i==,\
+CN deer AF-climb PREP here PREP
+CN 鹿 主焦-爬 介系詞 這裡 介系詞
+
+#a 222.97, None, 226.48
+
+82.
+... i,\ 
+PREP
+介系詞
+
+#a 226.48, None, 227.46
+
+83.
+...(1.6) i tangah nya ngabul kya wawa.\
+PREP head GEN.that head NOM.that child
+介系詞 頭 屬格.那個 頭 主格.那個 小孩
+
+#e The child climbed onto the head of the deer.
+#c 那孩子爬到鹿頭上。
+#a 227.46, None, 231.9
+
+84.
+...(3.4) si-pi-pacekis-an kyai nya ngabul kya wawa ma-htik i tiza i,\
+SI-PI-hit-PF maybe GEN.that deer NOM.that child AF-fall.off PREP here PREP
+SI-PI-撞-受焦 可能 屬格.那個 鹿 主格.那個 小孩 主焦-掉下去 介系詞 這裡 介系詞
+
+#a 231.9, None, 239.1
+
+85.
+.. tapa-tapad-an kina wawa.\
+RED-cliff-LF NOM.this child
+重疊-懸崖-處焦 主格.這個 小孩
+
+#e That child probably was hit by deer and fell off the cliff.
+#c 那孩子可能是被鹿撞到，掉到懸崖下。
+#a 239.1, None, 241.0
+
+86.
+...(3.6) ma-htik ciniza i tapad melaw han sa u nanum kya ka-htik-an niza.\
+AF-fall.off 3SG.NOM PREP cliff see HAN DM CN water NOM.that KA-fall.off-LF 3SG.GEN
+主焦-掉下去 3SG.主格 謝細瓷 懸崖 看 HAN DM CN 水 主格.那個 KA-掉下去-處焦 3SG.屬格
+
+#e He fell off the cliff and fell into water.
+#c 他掉下懸崖而掉下去的地方是水裡。
+#n ma-htik中的 htik 意思為掉下去，注意其拼法不拼成hetik。
+#a 241.0, None, 248.36
+
+87.
+...(2.5) halu-wacu na=ma-htik i tiza i== hiya i nanum,\ 
+even-dog PAST=AF-fall.off PREP here PREP that PREP water
+甚至-狗 過去貌=主焦-掉下去 介系詞 這裡 介系詞 那個 介系詞 水
+
+#a 248.36, None, 254.24
+
+88.
+...(0.7) kya==,\
+NOM.that
+主格.那個
+
+#a 254.24, None, 255.73
+
+89.
+... kya ya== wawa a tya wacu.\
+NOM.that that child LNK OBL.that dog
+主格.那個 那個 小孩 連繫詞 斜格.那個 狗
+
+#e Even the child and dog fell into water.
+#c 連小孩跟狗都掉到水中
+#n IU 87 中的halu 意思為連、甚至。
+#n halu-kaku 連(甚至)我，halu-kaku-kaku 意思較halu-kaku(連我) 更強烈。
+#a 255.73, None, 259.31
+
+90.
+...(4.0) mi-susu’ ciniza mi-melaw ciniza i labu nya==,\
+AF-put.inside 3SG.NOM AF-see 3SG.NOM PREP inside GEN.that
+主焦-伸進去 3SG.主格 主焦-看 3SG.主格 介系詞 裡面 屬格.那個
+
+#a 259.31, None, 266.14
+
+91.
+... nya== tudem.\
+GEN.that driftwood
+屬格.那個 漂流木
+
+#e He put his hand into the driftwood.
+#c 他伸手進去漂流木裡面。
+#n tudem 為阿美語「大型漂流木」； sikela’ 為撒奇萊雅語，意指「所有的漂流木」。
+#a 266.14, None, 267.73
+
+92.
+... ma-buhang kina kilang.\
+AF-hole NOM.this tree
+主焦-洞 主格.這個 樹
+
+#e The tree had a hole.
+#c 樹有洞。 
+#n ma-buhang 意思為有洞的這個動作；si-buhang 表示已經有洞的狀態，如：si-buhang kya kilang (那樹有洞)。
+#a 267.73, None, 270.57
+
+93.
+.. izaw hakay izaw i labu kyai ku,\
+EXIST probably EXIST PREP inside maybe NOM
+存在詞 可能 存在詞 介系詞 裡面 可能 主格
+
+#a 270.57, None, 273.02
+
+94.
+... ku,\
+NOM
+主格
+
+#a 273.02, None, 274.02
+
+95.
+.. ma-ma-melaw-en nu mita a cana-canan a adup-en hakya.\
+CaRED-CaRED-see-PF GEN 1PL.POSS LNK RED-what LNK hunt-PF Q
+Ca重疊-Ca重疊-看-受焦 屬格 1PL.所有格 連繫詞 重疊-什麼 連繫詞 打獵-受焦 疑問 
+
+#e What is inside may be any kind of pray。
+#c 裡面可能有任何一種獵物。
+#n IU 93 中 akay a taini ciniza 他可能會來
+#n a taini ciniza kyai他可能會來
+#n akay a taini ciniza kayi 他可能會來 (?)
+#n IU 95中 melaw 看ma-melaw看到 ma-ma-melaw一直看
+#n cana-canan 指任何
+#a 274.02, None, 277.74
+
+96.
+.. akay mi-kilim=ay henay ^tya balaut.\
+probably AF-search=FAC still OBL.that frog
+可能 主焦-找=FAC 仍然 斜格.那個 青蛙
+
+#e Probably they were still looking for the frog.
+#c 可能還在找那隻青蛙。
+#n akay 為 hakay 的縮寫
+#a 277.74, None, 279.86
+
+97.
+...(1.7) a iniw=tu aca ma-tepa=tu nuheni kina==,\
+LNK here=PFV too AF-find=PFV 3PL.GEN NOM.this
+連繫詞 這裡=完成 也 主焦-找 完成 3PL.屬格 主格.這個
+
+#a 279.86, None, 284.9
+
+98.
+... na balaut=tu.\
+this frog=PFV
+這個 青蛙=完成
+
+#e They found frog here.
+#c 他們就在這裡找到了青蛙。
+#n IU 97 中 tu aca 為慣用語意思為原來或結果。
+#n iniw 為Sakizaya 而Amis為ini。 
+#n IU 98中的na 為 kina的縮寫，而非動貌。
+#a 284.9, None, 286.18
+
+99.
+... melaw han sa mu-tahkal=ay kya balaut mi-kilim kyai=tu.\
+see HAN DM AF-go.out=FAC NOM.that frog AF-search maybe=PFV
+看 HAN DM 主焦-去外面=FAC 主格.那個 青蛙 主焦-找 可能=完成貌
+
+#a 286.18, None, 291.94
+
+100.
+... pi-,\
+PI
+PI
+
+#a 291.94, None, 292.89
+
+101.
+...(0.9) lucu’ han kya balaut.\
+born HAN NOM.that frog
+出生 HAN 主格.那個 青蛙
+
+#e It could be seen that the frog came out and were looking for its birthplace.
+#c 看那隻青蛙出來有可能在找出生地。
+#a 292.89, None, 295.21
+
+102.
+.. yadah sa=tu kina balaut u,\
+many SA=PFV NOM.this frog CN
+很多 SA=完成貌 主格.這個 青蛙 CN
+
+#a 295.21, None, 297.52
+
+103.
+...(4.6) i tiza i nanu-nanum-an.\
+PREP here PREP RED-water-LF
+介系詞 這裡 介系詞 重疊-水-處焦
+
+#a 297.52, None, 303.69
+
+104.
+... yadah=tu aca ku==,\
+many=PFV too NOM
+許多=完成貌 也 主格
+
+#a 303.69, None, 305.81
+
+105.
+... pacainul.\
+tadpole
+蝌蚪
+
+#e There were many tadpoles in water.
+#c 在水裡有很多蝌蚪。
+#n IU 103 在水中可說成 i nanum or i nanunanum-an
+#a 305.81, None, 307.26
+
+106.
+... si-wawa kina balaut.\
+have-child NOM.this frog
+有-孩子 主格.這個 青蛙
+
+#e The frog had children.
+#c 那青蛙有孩子了。
+#a 307.26, None, 309.21

@@ -1,0 +1,468 @@
+topic: pear story
+type: Narrative
+language: 魯凱語, Rukai, Vedai
+speaker: 柯啟川, Salrabu, male, 1938-05-01
+collected: 2004-04-22
+revised: None
+video: RukaiNr-pear_salrabu.mp3
+
+1.
+.. ku nadruma,_
+TOP before
+主題 以前
+
+#a 44.53, None, 45.76
+
+2.
+...(0.8) yakai kudra,_
+EXIST that
+存在 那個
+
+#a 45.76, None, 47.64
+
+3.
+.. tatama ku,_
+middle.age.guy KU
+中年男子 KU
+
+#a 47.64, None, 48.66
+
+4.
+.. tanaisi,\
+touch
+碰
+
+#a 48.66, None, 49.3
+
+5.
+.. la lredreke ku,\
+then plant OBL
+然後 種植 斜格
+
+#a 49.3, None, 50.97
+
+6.
+... e,_
+FIL
+FIL
+
+#a 50.97, None, 52.19
+
+7.
+... kamadha=ini si la mu-lrapace turamuru.\
+mango=3SG.GEN CONJ then go-gorgeous very
+芒果=3SG.屬格 連接詞 然後 去-茂盛 非常
+
+#e In the old times, there is that middle-aged guy who touch and plant very gorgeous mango.
+#c 從前，有位中年男子去碰並種非常茂盛的芒果。
+#a 52.19, None, 55.29
+
+8.
+...(0.7) yakai kudra,_
+EXIST that
+存在 那個
+
+#a 55.29, None, 57.04
+
+9.
+.. ta-ka-vai-vai si,_
+in-KA-RED-sun CONJ
+在-KA-重疊-太陽 連接詞
+
+#a 57.04, None, 58.03
+
+10.
+...(0.8) la kika-madhamadha kudra tatama._
+then pick-mango that middle.age.guy
+然後 摘-芒果 那個 中年男子
+
+#e In the morning, that middle-aged guy pick the mango.
+#c 在早上，那中年男子摘芒果。
+#n takavaivai是在早上的意思。
+#a 58.03, None, 61.25
+
+11.
+... lribate kuini talrag=ini mail-iluku ku kiyu si,_
+pass this friend=3SG.GEN MAIL-bring OBL goat SI
+經過 這個 朋友=3SG.屬格 MAIL-帶 斜格 羊 SI
+
+#a 61.25, None, 64.8
+
+12.
+...(0.7) la ka-tuase lribate nau pararubu la kai iya,\
+then KA-walk.away pass want help then NEG say
+然後 KA-走開 經過 想要 幫忙 然後 沒有 說
+
+#a 64.8, None, 68.13
+
+13.
+...(1.2) sa ka bilril-ane._
+when KA behind-NMZ
+當 KA 後面-名物化
+
+#e His friend passes and brings a goat, (but) (he) does not want to help in the end.
+#c 他的朋友經過並帶著一頭羊，(但)最後(他)沒有說想要幫忙。
+#a 68.13, None, 70.63
+
+14.
+... la ikai ku tangea ku vavalake ku mu-a-lriki-lriki=li.\
+then EXIST NOM one NOM child KU go-REAL-RED-ride.bike=1SG.GEN
+然後 存在 主格 一 斜格 小孩 KU 去-實現-重疊-騎腳踏車=1SG.屬格
+
+#e Then there is one child who are riding my bike.
+#c 然後有個小孩子騎著我的腳踏車。
+#a 70.63, None, 74.54
+
+15.
+...(1.5) kuini vavalake yaie,\
+this child DM
+這個 小孩 DM
+
+#a 74.54, None, 77.16
+
+16.
+... la drele si,_
+then see SI
+然後 看 SI
+
+#a 77.16, None, 78.64
+
+17.
+... kudra malra-malra kuini ki tatama,_
+that RED-take this OBL middle.age.guy
+那個 重疊-拿 這個 斜格 中年男子
+
+#a 78.64, None, 81.29
+
+18.
+.. ala sa-ngu-pusale ki karadrare.\
+then when-manner-two OBL basket
+然後 當-方式-兩個 斜格 籃子
+
+#e This child see this middle-aged guy who is taking and (put) two baskets.
+#c 這小孩看到這正在採並放下兩個籃子的中年男子。
+#a 81.29, None, 83.13
+
+19.
+...(1.2) e kuini vavalake sa-drele yaie,\
+FIL this child when-see DM
+FIL 這個 小孩 當-看到 DM
+
+#a 83.13, None, 86.58
+
+20.
+...(1.2) malra surakele kudra vaevae si,\
+take put.in that one CONJ
+拿 放入 那個 一個 連接詞
+
+#a 86.58, None, 90.27
+
+21.
+... nau iluku mu-tavanane._
+want carry go-home
+想要 拿 去-家
+
+#e When this child see (it)，(he) put in one (basket) (into his bike) and want to take (it) home.
+#c 當這小孩看到，(他)把一籃(放進腳踏車裡)然後想要拿回家。
+#a 90.27, None, 92.49
+
+22.
+... e la iya si,\
+FIL then say SI
+FIL 然後 說 SI
+
+#a 92.49, None, 94.15
+
+23.
+... ala ka-tua-tuase,_
+then KA-RED-walk.away
+然後 KA-RED-走開
+
+#a 94.15, None, 96.47
+
+24.
+... ala ki-padradresenge kuini ki tangea kuini ki ababai.\
+then KI-meet this OBL one this OBL female
+然後 KI-遇到 這 斜格 一個 這 斜格 女生
+
+#e Then he leaves, and meet one girl.
+#c 然後他離開並遇到一個女生。
+#a 96.47, None, 99.42
+
+25.	
+...(0.8) sa-ma-dradresenge yaie la ma-pa-pon-pong si,\
+when-MA-meet DM then REC-CAU-RED-bump CONJ
+當-MA-遇到 DM 然後 互相-祈使-重疊-撞到 連接詞
+
+#a 99.42, None, 103.16
+
+26.
+... la u-cilri ku--
+then toward-down FS
+然後 往-下 FS
+
+#a 103.16, None, 104.87
+
+27.
+...(1.0) nau pa-su-a-lrikudru drele la iya kuini lasu mu-a pon-pong ki lrenege.\
+want CAU-SU-REAL-behind see then say this boy go-REAL RED-bump OBL stone
+想 使役-SU-實現-後 看 然後 說 這個 男孩 去-實現 重疊-撞到 斜格 石頭
+
+#e When he met and bump each other…he turned back and wanted to see (the girl); (he) bumped into a stone.
+#c 當他遇到並撞到對方…他轉向後方想看(那女孩)，他撞了石頭。
+#a 104.87, None, 111.19
+
+28.
+...(0.8) la ngu-pon-pong si ngi-sarade mu-cilri kudra,_
+then manner-RED-bump CONJ self-spread go-down that
+然後 方式-重疊-撞 連接詞 自身-散落 去-下 這 那個
+
+#a 111.19, None, 114.96
+
+29.
+.. kuini iluku=ini kuini su-a-ete kuini kamatha.\
+this carry=3SG.GEN this SU-REAL-full mango
+這個 帶=3SG.屬格 這 SU-實現-滿 芒果
+
+#e Then his carrying spread and go down (to the ground): the full of mango he carries.
+#c 然後他帶的東西散落並掉了一地: 他帶的滿滿芒果。
+#a 114.96, None, 117.24
+
+30.
+...(2.9) sa,_
+when
+當
+
+#a 117.24, None, 120.89
+
+31.
+...(1.0) mu-lebe-nga kuini,_
+go-down-PFV this
+去-下-完成 這個
+
+#a 120.89, None, 123.23
+
+32.
+...(0.7) lasu yaie,\
+boy DM
+小孩 DM
+
+#a 123.23, None, 124.76
+
+33.
+... kai nga-nga-nganai kuini tatulru si._
+this RED-RED-come this three SI
+this 重疊-重疊-來 這 三個 SI
+
+#e When the mangos have dropped, this three boys comes.
+#c 當芒果掉下的時候，有三個小孩過來。
+#a 124.76, None, 126.69
+
+34.
+...(0.8) kuini tatulru la ka tathai-thariri kuini ta-ki<dreme>drem=ane=lini.\
+this three then KA all-good this NMZ-<RED>heart-NMZ=3PL.GEN
+這 三 然後 KA 全部-好 這 名物化-<重疊>心-名物化=3PL.屬格
+
+#e This three people are good-hearted.
+#c 那三人都很好心。
+#a 126.69, None, 130.66
+
+35.
+.. asi amia kaiki vavalake la iya si.\
+why say this boy then say SI
+怎麼 說 這 小孩 然後 說 SI
+
+#e Why is this boy (like this)?
+#c 這小孩怎麼搞的？
+#a 130.66, None, 132.58
+
+36.
+... ta=pa-rarubu la iya,_
+1PL.NOM=CAU-help then say
+1PL.主格=使役-幫忙 然後 說
+
+#a 132.58, None, 134.69
+
+37.
+... la siludu.\
+then pick.up
+然後 撿起
+
+#e Then they say we help this boy, and pick up (the mango)
+#c 然後他們說我們幫這小孩，然後撿起(芒果)。
+#a 134.69, None, 136.09
+
+38.
+...(0.8) pa-rarubu iniyane si,_
+CAU-help 3SG.OBL CONJ
+使役-幫忙3SG.斜格 連接詞
+
+#a 136.09, None, 138.18
+
+39.
+.. la pa-pu-belenge kuini ki,_
+then CAU-put-up this OBL
+然後 使役-放-上 這個 斜格
+
+#a 138.18, None, 139.99
+
+40.
+... la rubu-rubu kuini ki karadrare-ini._
+then RED-pile.up this OBL basket-3SG.GEN
+然後 重疊-堆上 這 斜格 籃子-3SG.屬格
+
+#e (They) help him: (they) put up this (basket), and pile up (the mango) (into) his basket.
+#c (他們)幫助他：(他們)放上這(籃子)，然後堆上了芒果(進)他的籃子。
+#a 139.99, None, 143.06
+
+41.
+.. kuini vavalake la ka-tuase-nga pa-ngu-druru-druru.\
+this boy then KA-walk-PFV CAU-self-RED-pull
+這個 男孩 然後 KA-走-完成 使役-自身-重疊-拉
+
+#e This boy then has walked away and then stopped
+#c 這男孩然後走了然後停下來。
+#a 143.06, None, 145.66
+
+42.
+...(2.1) la e,_
+then FIL
+然後 FIL
+
+#a 145.66, None, 148.63
+
+43.
+.. drele kuini==,_
+see this
+看 這個
+
+#a 148.63, None, 150.07
+
+44.
+.. la drele kuini tangea si,\
+then see this one SI
+然後 看 這個 一個 SI
+
+#a 150.07, None, 151.37
+
+45.
+... arakai ngu-cilri kuini talrupunu=ini la silutu-ana si._
+when self-fell this hat=3SG.GEN then pick.up-first SI
+當 自身-掉落 這個 帽子=3SG.屬格 然後 撿起-先 SI
+
+#e Then (he) sees a hat of him dropped and pick up first.
+#c 然後(他)看到一個他的帽子掉了然後先撿起。
+#a 151.37, None, 154.71
+
+46.
+...(0.8) ala ka-tuase,_
+then KA-walk.away
+然後 KA-走開
+
+#a 154.71, None, 156.79
+
+47.
+... bai kuini ki vavalake.\
+give this OBL child
+給 這斜格 小孩
+
+#e Then he walk away to give (the hat) to the boy.
+#c 然後他走開給那小孩(帽子)。
+#a 156.79, None, 159.14
+
+48.
+...(1.0) sa-bai kuini ki vavalake,_
+when-give this OBL child
+當-給 這個 斜格 小孩
+
+#a 159.14, None, 161.96
+
+49.
+...(1.0) la kia-seasene kuini vavalake si bai pa-ka-drusa.\
+then PASS-thank this child CONJ give CAU-KA-two
+然後 被動-感謝 這 小孩 連接詞 給 使役-KA-兩個
+
+#e When he gives (the hat), this boy is thanked and this boy is given two. 
+#c 當這小孩給(那帽子)，這小孩被感謝然後這小孩被給了兩個。
+#a 161.96, None, 165.54
+
+50.
+.. kuini kamadha si la ma-vala-vala kuini la-malala si.\
+this mango SI then MA-RED-distribute this PL-friend SI
+這 芒果 SI 然後 MA-重疊-分配 這個 複數-朋友 SI
+
+#e These mangos then are distributed to these friends
+#c 這些芒果然後被分給這些朋友。
+#a 165.54, None, 168.77
+
+51.
+...(0.8) la ka-tuase,\
+then KA-walk.away
+然後 KA-走開
+
+#a 168.77, None, 170.8
+
+52.
+...(1.4) la ka-tuase kuini,_
+then KA.walk.away this
+然後 KA-走開 這個
+
+#a 170.8, None, 173.59
+
+53.
+... tatulu si.\
+three CONJ
+三 連接詞
+
+#e Then the three (boys) walks away.
+#c 然後這三個(男孩)走開。
+#a 173.59, None, 174.56
+
+54.
+... ala,\
+then
+然後
+
+#a 174.56, None, 175.69
+
+55.
+... ala lribate kuini ki-a-ka<madha>madha kuini tatama._
+then pass this KI-REAL-<RED>mango this middle.age.guy
+然後 經過 這 KI-實現-<重疊>芒果 這 中年男子
+
+#e Then they pass the middle-aged guy who is picking mangos.
+#c 然後他們經過這正在採芒果的中年男子。
+#a 175.69, None, 178.76
+
+56.
+... la drele kuini tatama si ala ecenge sa-vaeva kuini kamadha i,/
+then see this middle.age.guy CONJ then take every-one this mango PART
+然後 看 這中年男子 連接詞 然後 拿 所有-一 這 芒果 PART
+
+#a 178.76, None, 183.02
+
+57.
+... animiani kai pa-tualai inu kai.\
+why this CAU-come where this
+為何 這 使役-來 哪裡 這
+
+#e why does this (mango) come?
+#c 奇怪這(芒果)從哪裡來的？
+#a 183.02, None, 185.94
+
+58.
+... e alau amani kudra,_
+FIL is.it it.is.exactly that
+FIL 是不是 就是 那個
+
+#a 185.94, None, 188.34
+
+59.
+...(0.7) e ki-kamadha-li ku aku vaeva la iya kavalrivilringi.\
+FIL KI-mango-1SG.GEN KU other one then say haunt
+FIL KI-芒果-1SG.屬格 KU 其他 一個 然後 說 疑慮
+
+#e He is haunted (by the question) is it my other one (basket) of mango?
+#c 他就很疑慮(是不是)我採的另外一籠。
+#n alau: 疑問詞，指是不是。
+#a 188.34, None, 192.38

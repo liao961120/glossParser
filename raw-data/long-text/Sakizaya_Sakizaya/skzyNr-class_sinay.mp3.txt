@@ -1,0 +1,1638 @@
+topic: class_Sinay
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 林來億, Sinay, male, None
+collected: 2009-10-31
+revised: None
+video: skzyNr-class_sinay.mp3
+
+1.
+...(2.5) ci Sinay ku angnan aku,\
+NCM.NOM PN NOM name 1SG.GEN
+NCM.主格 人名 主格 名字 1SG.屬格
+
+#a 2.5, None, 4.08
+
+2.
+...(0.8) tu nu pangcah,\
+OBL GEN Amis 
+斜格 屬格 阿美族
+
+#e My Amis name is Sinay.
+#c 我阿美族名字叫做Sinay。
+#a 4.08, None, 6.08
+
+3.
+... paka-ini i Maibul,\
+from-here PREP PN
+從-這裡 介系詞 地名
+
+#a 6.08, None, 8.16
+
+4.
+.. kuyni u ma,\
+NOM.this CN FS
+主格.這個 CN FS
+
+#a 8.16, None, 9.0
+
+5.
+.. kamu nu maku,\
+word GEN 1SG.POSS
+話 屬格 1SG.所有格
+
+#a 9.0, None, 9.53
+
+6.
+.. u canan hakya a sa.\
+CN what Q LNK DM
+CN 什麼 疑問 連繫詞 DM
+
+#e What I am going to talk about is about Maibul.
+#c 要講的是馬立雲的事。
+#n 捕鳥祭乃係阿美族傳統的四大祭儀之一，主要在農作二期稻作收割之後與下一第一期稻作下秧前辦理。（資料來源：http://w2.tacps.hlc.edu.tw/~edu/localedu/ solemnity/ footer3/3/ceremony.htm）
+#a 9.53, None, 11.39
+
+7.
+...(0.7) i paka-ini=ay i sapunis,\
+PREP from-here=FAC PREP hunting.festival
+介系詞 從-這裡=FAC 介系詞 捕鳥祭
+
+#a 11.39, None, 14.17
+
+8.
+...(0.8) ma-min sa=tu mi-langec,\ 
+AF-finish SA=PFV AF-reap
+主焦-完成 SA=完成貌 主焦-收割
+
+#a 14.17, None, 16.17
+
+9.
+.. tuyuni pa-lalud.\
+OBL.this PA-summer
+斜格.這個 PA-夏天
+
+#e The hunting festival started after harvest in summer.
+#c 捕鳥祭是在夏天收割之後。
+#n ma-min 的原形是ma-hamin
+#a 16.17, None, 17.53
+
+10.
+... pa-anip=tu tuyu u,\
+CAU-rice.seedling=PFV OBL.this CN
+使動-秧=完成貌 斜格.這個 CN
+
+#a 17.53, None, 19.54
+
+11.
+.. ni-pa-saba,\
+NI-CAU-young.sibling
+NI-使動-弟妹
+
+#a 19.54, None, 20.56
+
+12.
+... i pitu-ay a bulad.\
+PREP seven-NMZ LNK month
+介系詞 七-名物化 連繫詞 月
+
+#e People transplanted the second-season rice seedlings in July.
+#c 在七月插第二期的秧。
+#n 稻子 tipus；糯米 panay 為北勢阿美語
+#n YU 與U 相同
+#n saba 原意為弟妹，在此pa-saba指第二期或為接下來的耕種季節
+#a 20.56, None, 22.08
+
+13.
+...(0.7) ma-min sa=tu mi==-niwanyu kya.\ 
+AF-finish SA=PFV AF-weed NOM.that
+主焦-完成 SA=完成貌 主焦-雜草 主格.那個
+
+#e (People) weeded. 
+#c (人們)用手除草。
+#n mi-niwanyu 為用手除草之意，而非用機器。
+#a 22.08, None, 25.84
+
+14.
+... ma-sa-balucu’=tu nuyni u babalaki==,\
+AF-do-heart=PFV GEN.this CN elder.people
+主焦-做-心=完成貌 屬格.這個 CN 老人
+
+#a 25.84, None, 28.66
+
+15.
+... atu u kapah kuyni u==,\
+and CN good NOM.this CN
+和 CN 好 主格.這個 CN
+
+#a 28.66, None, 31.07
+
+16.
+.. sa-ka-limulak,\
+IF-KA-celebrate
+工具焦-KA-慶祝
+
+#a 31.07, None, 32.3
+
+17.
+...(1.2) tuyni u mi-sapunis.\
+OBL.this CN AF-hunting.festival
+斜格.這個 CN 主焦-捕鳥祭
+
+#e The senior citizens decided to celebrate hunting festival with young people.
+#c 老人家決定要和年輕人慶祝這個捕鳥季的慶典。
+#n IU14中 ma-sa-balucu’ 在此為決定
+#n IU 15中 kapah 在此為年輕人
+#n ma-limulak 歡樂
+#a 32.3, None, 35.08
+
+18.
+... sisa,\
+therefore
+所以
+
+#a 35.08, None, 36.27
+
+19.
+... tatenga’,\
+really
+真的
+
+#a 36.27, None, 37.28
+
+20.
+... izaw=tu kuyni u kamu nu babalaki==,\
+EXIST=PFV NOM.this CN word GEN elder.people
+存在詞=完成貌 主格.這個 CN 話 屬格 老人
+
+#a 37.28, None, 39.94
+
+21.
+.. ni-ka-saupu.\
+NI-KA-gather
+NI-KA-集合 
+
+#e Therefore, old people said it is time to gather together.
+#c 所以有老人在說要集合了。
+#a 39.94, None, 41.0
+
+22.
+... tuyni u==,\
+OBL.this CN
+斜格.這個 CN
+
+#a 41.0, None, 42.6
+
+23.
+.. ma-ketun=tu kuyni u kamu.\
+AF-break=PFV NOM.this CN word
+主焦-斷=完成貌 主格.這個 CN 話
+
+#e This has been decided.
+#c 這已經決定了。
+#n ma-ketun 在此為決定
+#a 42.6, None, 44.24
+
+24.
+...(0.8) a=yaan henay mi-hiya sapunis ma-lingatu i sa izaw=tu,\
+FUT=when still AF-this.way hunting.festival AF-start PREP DM EXIST=PFV
+未來貌=何時 仍然 主焦-那樣 捕鳥祭 主焦-開始 介系詞 DM 存在詞=完成貌
+
+#e When would the hunting festival start? 
+#c 捕鳥祭要何時開始？
+#a 44.24, None, 48.3
+
+25.
+.. kuyu ni-pi-bihkac nu ni u pi-ki-luma-luma’-an nuyni nu wawa,\ 
+NOM.this NI-PI-bow GEN NI CN PI-KI-RED-home-LF GEN.this GEN child
+主格.這個 NI-PI-弓 屬格 NI CN PI-KI-重疊-家-處焦 屬格.這個 屬格 小孩
+
+#a 48.3, None, 51.49
+
+26.
+.. tuyu tatama-an.\
+OBL.this male-AN
+斜格.這個 男性-AN
+
+#e Every boy would shoot birds.
+#c 家家戶戶的男孩都會射鳥。
+#n mi-bihkac 為射鳥的意思
+#n bihkac ni edek 為彩虹(原意是Edek的弓)
+#a 51.49, None, 52.69
+
+27.
+... ma-hiza=ay kiza,\ 
+AF-that.way=FAC NOM.that
+主焦-那樣=FAC 主格.那個
+
+#a 52.69, None, 54.35
+
+28.
+... u nu lu-luma’ kuyni,\
+CN GEN Ca-home NOM.this
+CN 屬格 Ca重疊-家 主格.這個
+
+#e This is the hunting festival for family.
+#c 家庭的捕鳥祭就是這樣。
+#a 54.35, None, 55.94
+
+29.
+... mi-bihkac sa=tu nuyu==,\ 
+AF-bow SA=PFV GEN.this
+主焦-弓 SA=完成貌 屬格.這個
+
+#a 55.94, None, 58.42
+
+30.
+.. ka-pulung-an sa.\
+KA-everyone-LF DM
+KA-大家的-處焦 DM
+
+#e The hunting festival is for our tribe.
+#c 捕鳥祭是大家的。
+#a 58.42, None, 59.65
+
+31.
+... a=hican,\
+FUT=how.PF
+未來貌=怎樣.受焦
+
+#a 59.65, None, 60.66
+
+32.
+... anu cacay a demiad,\
+COND one LNK day
+條件詞 一個 連繫詞 天
+
+#a 60.66, None, 63.28
+
+33.
+anu tusa-ay a demiad,\
+COND two-NMZ LNK day
+條件詞 二個-名物化 連繫詞 天
+
+#a 63.28, None, 64.9
+
+34.
+... nayi ku wantan tuyni.\
+NEG NOM clear OBL.that
+否定詞 主格 清楚 斜格.那個
+
+#e It was not clear whether it is one day or two days.
+#c 不確定是一天或二天。
+#a 64.9, None, 66.79
+
+35.
+.. ma-ketun,\
+AF-decide
+主焦-決定
+
+#a 66.79, None, 67.88
+
+36.
+.. anu tusa a demiad kuyu ni-pi-bihkac sa tusa a demiad.\
+COND two LNK day NOM.this NI-PI-bow DM two LNK day
+條件詞 二個 連繫詞 天 主格.這個 NI-PI-弓 DM 二 連繫詞 天
+
+#e If it was decided for two days, it would be two days.
+#c 決定要捕鳥二天就二天。
+#a 67.88, None, 71.44
+
+37.
+... anu tulu-an sa tulu a demiad a ma-hiza.\
+COND three-PF DM three LNK day LNK AF-this.way
+條件詞 三個-受焦 DM 三個 連繫詞 天 連繫詞 主焦-這樣
+
+#e If it would be three days, it would be in this way. 
+#c 說三天的話就是三天。
+#a 71.44, None, 74.08
+
+38.
+... saupu han ku ayam tuyza u ka-kalabi-an sa.\
+gather HAN NOM bird OBL.that CN CaRED-dinner-PF DM
+集合 HAN 主格 鳥 斜格.那個 CN Ca重疊-晚餐-受焦 DM
+
+#e (People) collected birds for dinner. 
+#c 收集晚餐要吃的鳥。
+#a 74.08, None, 77.21
+
+39.
+... tuduh han,\
+burn HAN
+燒 HAN
+
+#a 77.21, None, 78.24
+
+40.
+... ma-min mi-tuduh sa,\
+AF-finish AF-burn DM
+主焦-完成 主焦-燒 DM
+
+#a 78.24, None, 79.86
+
+41.
+... singa’ han henay kuyni,\
+put.aside HAN still NOM.this
+擱置 HAN 仍然 主格.這個
+
+#a 79.86, None, 81.64
+
+42.
+... sa.\
+DM
+DM
+
+#e It was put aside after it was burned.
+#c 烤完之後擱置在一邊。
+#n tuduh 直接用火燒：如燒稻草、烤豬；akik 則為烤(roast)：如烤魚pazeng 為放 mi-singa’ tu paysu存錢
+#a 81.64, None, 82.61
+
+43.
+... tawya han=tu a demiad mi-sapunis sa.\
+then HAN=PFV LNK day AF-hunting.festival DM
+那時 HAN=完成貌 連繫詞 天 主焦-捕鳥祭 DM
+
+#a 82.61, None, 85.22
+
+44.
+.. tatenga’,\
+really
+真的
+
+#a 85.22, None, 86.15
+
+45.
+... E ma-lahuk=tu,\
+FIL AF-lunch=PFV
+FIL 主焦-中餐=完成貌
+
+#a 86.15, None, 88.46
+
+46.
+... u yu u tunuz ku sa-ka-lahuk yu== ma-hiza henay.\
+CN YU CN rice.cake NOM SA-KA-lunch YU AF-this.way still
+CN YU CN 麻糬 NOM SA-KA-午餐 YU 主焦-這樣 仍然
+
+#e When hunting festivals came, people ate rice cake as their lunch.
+#c 到捕鳥季那一天，從前一定吃麻糬當作午餐。
+#n IU 45中 Sakizaya語中無[e]音，所以在發語詞中，以E表示語音[e]
+#a 88.46, None, 92.17
+
+47.
+...(0.7) E==,_
+FIL
+FIL
+
+#a 92.17, None, 93.89
+
+48.
+.. pa-halhal-en nuyu tatayna a maduh.\
+CAU-wait-PF GEN.this female LNK pound
+使動-等待-受焦 屬格.這個 女性 連繫詞 摏米
+
+#e Women were pounding.
+#c 女性在摏米。
+#n mi-halhal 等待；pa-halhal-en 準備；使...等待。
+#n maduh 用木頭擣，misatunuz 用石杵。
+#a 93.89, None, 96.56
+
+49.
+.. mi-telac,\
+AF-refine
+AF-去麩
+
+#a 96.56, None, 97.57
+
+50.
+... sangelac kuyni u panay ma-hiza=ay kiza.\
+white NOM.this CN glutinous.rice AF-this.way=FAC NOM.that
+白色 主格.這個 CN 糯米 主焦-這樣=FAC 主格.那個 
+
+#e Then the glutinous rice became white.
+#c 糯米就很白了。
+#n mi-telac 可以延伸為進修
+#n IU 48中Sakizaya語中無[e]音，所以在發語詞中，以E表示語音[e]
+#a 97.57, None, 100.75
+
+51.
+... sa-hakhak han=tu talik han=tu mi-hiya,\
+do-glutinous.rice HAN=PFV mash HAN=PFV AF-that.way
+做-糯米飯 HAN=完成貌 擣 HAN=完成貌 主焦-那樣
+
+#a 100.75, None, 103.96
+
+52.
+... mi==-talik nuyni u tatayna,\
+AF-mash GEN.this CN female
+主焦-擣 屬格.這個 CN 女性
+
+#a 103.96, None, 106.61
+
+53.
+.. kuyza u tunuz sa,\
+NOM.that CN rice.cake DM
+主格.那個 CN 麻糬 DM
+
+#a 106.61, None, 107.88
+
+54.
+.. uyza=ay kuyu malu-sa-ka-lahuk.\
+that=FAC NOM.this AF.become-SA-KA-lunch
+那個=FAC 主格.這個 主焦.成為-SA-KA-午餐
+
+#e Women cooked glutinous rice and made it into rice cakes as lunch.
+#c 女性煮糯米飯並將其把打成麻糬成午餐。
+#n 前綴malu有成為之意，如：malu-sinsi 成為老師 malu-saydan 教導巫師的人
+#a 107.88, None, 110.6
+
+55.
+... i tawya a demiad mi-sapunis,\
+PREP before LNK day AF-hunting.festival
+介系詞 以前 連繫詞 天 主焦-捕鳥祭
+
+#a 110.6, None, 112.58
+
+56.
+... uyni han=tu u ayam sa,\
+this HAN=PFV CN bird DM
+這個 HAN=完成貌 CN 鳥 DM
+
+#a 112.58, None, 115.12
+
+57.
+... E==,_
+FIL
+FIL
+
+#a 115.12, None, 116.62
+
+58.
+... tikulac ku nu tikulac.\ 
+ring-necked.pheasant NOM GEN ring-necked.pheasant 
+雉雞 主格 屬格 雉雞 
+ 
+#e On the day of hunting festival, birds like ring-necked pheasant would be put together.
+#c 捕鳥祭的那一天，雉雞的就放在雉雞這一堆。
+#n Tikulac 為雉雞，因其發聲為tikulac而得名，如啄木鳥為takelulu
+#a 116.62, None, 118.69
+
+59.
+.. anu tabaki heni sa-pela’-en,\
+COND big 3PL.POSS IF-cut-IF
+條件詞 大 3PL.所有格 工具焦點-切-工具焦點
+
+#a 118.69, None, 121.24
+
+60.
+... anu sangelac sa anu mala-sepad mala-enem ku ni-pi-pela’ ku ni-cikcik mi-hiza=ay kiza,\ 
+COND white DM COND AF.become-four AF.become-six NOM NI-PI-cut.half NOM NI-cut AF-that.way=FAC NOM.that
+條件詞 白 DM 條件詞 主焦.變成-四 主焦.變成-六 主格 NI-PI-切半 主格 NI-切 主焦-那樣子=FAC 主格.那個
+
+#a 121.24, None, 126.99
+
+61.
+... sa.\
+DM
+DM
+
+#e (We would) cut it if it was big, or cut it half, into four pieces or six pieces.
+#c 大的就切一切，不然就切成四份，切成六份。
+#n mi-pela’ 切半 mi-cikcik 切蔥 菜 塊  mi-tuntun 切豬菜
+#n IU 60中 sangelac 在此與上下文關係不大，故在翻譯時不翻出。
+#a 126.99, None, 127.73
+
+62.
+... uyu Pulo’ Pulo’,\
+this PN PN
+這個 專名 專名
+
+#a 127.73, None, 130.0
+
+63.
+... sanad-en kuyu ni-sa-lami’-an mi-hiza=ay kiza,\
+separate-PF NOM.that NI-do-vegetable-PF AF-this.way=FAC NOM.that
+分開-受焦 主格.那個 NI-做-菜-受焦 主焦-這樣=FAC 主格.那個
+
+#a 130.0, None, 134.22
+
+64.
+... u kabi ku kabi.\
+CN soup NOM soup
+CN 湯 主格 湯
+
+#e (They) separate birds from the cooked vegetables and soup.
+#c 鳥、煮的菜和湯分開放。
+#n IU 62 中的pulo’ 為某種鳥類
+#a 134.22, None, 135.72
+
+65.
+... anu pa-tahkal i <L2TwakungL2T> i yu u ayam u ayam han sa.\ 
+COND CAU-go.out PREP bowl PREP YU CN bird CN bird HAN DM
+條件詞 使動-出來 介系詞 碗 介系詞 YU CN 鳥 CN 鳥 HAN DM
+
+#e (They) put birds in a big bowl.
+#c 用碗公裝鳥。
+#n wakung 為台語中的碗，常寫成碗公
+#a 135.72, None, 139.77
+
+66.
+.. pa-kila==c han kuyni u hiya,\
+CAU-allocate HAN NOM.this CN this.way
+使動-分配 HAN 主格.這個 CN 這樣
+
+#a 139.77, None, 142.69
+
+67.
+... u babalaki.\
+CN elder.people 
+CN 老人
+
+#e (They) gave (birds) to senior citizens in this way.
+#c 就這樣分給老人家。
+#a 142.69, None, 144.32
+
+68.
+... anu==,\
+COND
+條件詞
+
+#a 144.32, None, 145.44
+
+69.
+... si-ma-tulu anu si-ma-lima.\
+have-MA-three COND have-MA-five
+有-MA-三 條件詞 有-MA-五
+
+#e Every senior citizens had three or five.
+#c 分三個或五個給老人家。
+#n si-ma-tulu 為si-mala-tulu 的縮寫
+#a 145.44, None, 147.57
+
+70.
+.. nayi’ ku wantan nu i tawya=ay u iza pi-bihkac.\
+NEG NOM certain GEN PREP before=FAC CN EXIST PI-bow
+否定詞 主格 確定 屬格 介系詞 之前=FAC CN 存在詞 PI-弓  
+ 
+#e It was uncertain how it was distributed.
+#c 那時候沒有一定分法。
+#a 147.57, None, 150.7
+
+71.
+.. nikaw izaw nu ayam kuyni u tapeng,\
+because EXIST GEN bird NOM.this CN ??
+因為 存在詞 屬格 鳥 主格.這個 CN ??
+
+#a 150.7, None, 153.14
+
+72.
+.. anu yadah ku ayam kya,\
+COND many NOM bird NOM.that
+條件詞 許多 主格 鳥 主格.那個
+
+#a 153.14, None, 154.91
+
+73.
+... yadah kuyni u,\ 
+many NOM.this CN
+許多 主格.這個 CN
+
+#a 154.91, None, 156.38
+
+74.
+...(0.9) u== kilac nu payteked.\
+CN allocate GEN everyone
+CN 分配 屬格 每一個
+
+#e If there were many birds, every one could have more.
+#c 如果鳥很多的話，那分給每個人的也很多。
+#n teked 不同於數量詞的一個 cacay; sa-teke-teked han (一個一個的分) sa-teked sa han niza mi-ala (他一個人拿很多) teked用在人身上
+#a 156.38, None, 159.72
+
+75.
+... u ini han=tu nu hiya sa,\
+CN here HAN=PFV GEN that.way DM
+CN 這裡 HAN=完成貌 屬格 那樣 DM
+
+#a 159.72, None, 161.91
+
+76.
+... nu wawa u <L2JsEnEngL2J> kya==,\
+GEN child CN young.people NOM.that
+屬格 小孩 CN 年輕人 主格.那個
+
+#a 161.91, None, 164.68
+
+77.
+... E== tatenga’=tu.\
+FIL really=PFV
+FIL 真的=完成貌
+
+#e Young people did that too.
+#c 青年真的那樣完成。
+#n IU 77 中sEnEng 為日本漢字音，漢字寫成青年(seineN)。因Sakizaya語中無[e]，故以大寫E代替
+#a 164.68, None, 166.56
+
+78.
+...(0.7) u ayam ku pi-melaw-en tya tusa anu si-mala-cacay ma-hiza=ay,\ 
+CN bird NOM PF-see-PF OBL.that two COND have-MALA-one AF-this.way=FAC
+CN 鳥 主格 受焦-看-受焦 斜格.那個 二個 條件詞 有-MALA-一個 主焦-這樣=FAC
+
+#e Every child had one or two.
+#c 小孩分兩個或一人一個。
+#a 166.56, None, 170.03
+
+79.
+.. anu tada ma-hinac kya cikcik-en ma-hiza=ay kiza ku ni-ka u==.\
+COND very AF-deficient NOM.that cut-PF AF-this.way=FAC NOM.that NOM NI-KA CN
+條件詞 很 主焦-少 主格.那個 切-受焦 主焦-這樣=FAC  主格.那個 主格 NI-KA CN
+
+#e If it was deficient, people would cut more.
+#c 不夠的話就再切。
+#a 170.03, None, 176.36
+
+80.
+... ka-kawaw nu ini u Maibul.\
+Ca-thing GEN here CN PN
+Ca重疊-事情 屬格 這裡 CN 地名
+
+#e Those were things in Maibul.
+#c 馬立雲的事情就是這樣。
+#a 176.36, None, 178.36
+
+81.
+... ni-han nu maku u ta'pang nu ini u sapunis hananay sa.\
+NI-HAN GEN 1SG.POSS CN trunk GEN here CN hunting.festival so.called DM
+NI-HAN 屬格 1SG.所有格 CN 樹幹 屬格 這裡 CN 捕鳥祭 所謂的 DM
+
+#e This is so called hunting festival.
+#c 這就是所謂的捕鳥祭的意義。
+#n tapang 樹根以上樹幹以下，在此為根本，可衍伸為領袖級的人。
+#n Sakizaya 則為angangan。lamit 為樹根；pabah為樹葉；caang為樹枝
+#a 178.36, None, 182.13
+
+82.
+... cacay a mi-hiza kina cacay,\
+one LNK AF-this.way NOM.this one
+一個 連繫詞 主焦-這樣 主格.這個 一個
+
+#a 182.13, None, 183.99
+
+83.
+... ya hican,\
+YA how.PF
+YA 怎樣.受焦
+
+#a 183.99, None, 184.97
+
+84.
+.. u ini u hiya.\
+CN here CN that
+CN 這裡 CN 那個
+
+#e Once a year or sometimes
+#c 一年一次或有時候。
+#a 184.97, None, 186.19
+
+85.
+... u selal kuyza u==,\
+CN peer NOM.that CN
+CN 同年齡 主格.那個 CN
+
+#a 186.19, None, 188.46
+
+86.
+...(0.9) u== tapang tu ma-hini=ay,\
+CN trunk OBL AF-this.way=FAC
+CN 樹幹 斜格 主焦-這樣=FAC
+
+#a 188.46, None, 191.57
+
+87.
+... uyza han=tu u== wawa,\
+that HAN=PFV CN child
+那個 HAN=完成貌 CN 小孩
+
+#a 191.57, None, 194.17
+
+88.
+... ma-laluk=ay mi-sikaway,\
+AF-diligent=FAC AF-rucksack
+主焦-勤快=FAC 主焦-背袋
+
+#a 194.17, None, 196.33
+
+89.
+... mi- mi-ani,\
+FS AF-ask
+FS 主焦-要求
+
+#a 196.33, None, 199.63
+
+90.
+... tuyni u babalaki baki-aw,\
+OBL.this CN elder.people grand.father-AW
+斜格.這個 CN 老人 祖父-AW
+
+#a 199.63, None, 201.59
+
+91.
+... amay uyu ni-kunuy-an isu ni-muku-an isu kaku=ay ku mi-muku=ay.\
+懇求 this NI-carry.on.the.back-PF 2SG.GEN NI-carry.on.the.shoulder-PF 2SG.GEN 1SG.NOM=FAC NOM AF-carry.on.the.shoulder=FAC
+beg 這個 NI-背-受焦 2SG.屬格 NI-扛-受焦 2SG.屬格 1SG.主格=FAC 主格 主焦-扛=FAC
+
+#e To the senior citizens, the diligent children said that we would help you carry what you carried.
+#c 勤快的小孩跟老人家說你背的你扛的都讓我來扛。
+#n #n IU 85 中sekal為同年紀的人，加上saba(年紀較小的人)則為u saba a selal 為年輕的人；若加上kaka (年紀較大的人) 則為 u kaka a selal 年紀較大者
+#n saba 弟弟 sabana妹妹  kaka哥哥  kakana姊姊
+#n IU 86 tapang延伸成重要的
+#n IU 89中ma-laluk 為阿美語; Sakizaya 則為sikawaway 
+#n IU 90中的baki 原意為祖父，但在此泛稱一般老人。
+#n IU 91 中 amay 原形為hamay 給我 乞求  hamay-baki 老人賜福(向老人乞討福氣)
+#a 201.59, None, 206.38
+
+92.
+.. kaku=ay kuyu sikaway mi-muku=tu yu balas=ay nu misu u babalaki.\
+1SG.NOM=FAC NOM.this rucksack AF-carry.on.the.shoulder=PFV YU take=FAC GEN 2SG.POSS CN elder.people 
+1SG.主格=FAC 主格.這個 背袋 主焦-扛=完成貌 YU 拿=FAC 屬格 2SG.所有格 CN 老人
+
+#e I would help you carry what you carried.
+#c 老人家您拿的東西讓我背讓我扛。
+#a 206.38, None, 210.33
+
+93.
+... a nu misu a bai anu sa kapah kuyni u==,\
+LNK GEN 2SG.POSS LNK grandmother COND DM good NOM.this CN
+連繫詞 屬格 2SG.所有格 連繫詞 祖母 條件詞 DM 好 主格.這個 CN
+
+#a 210.33, None, 213.91
+
+94.
+.. ka-kawaw sa-ka-i tini niyazu',\
+Ca-thing BF-KA-PREP here tribe
+Ca重疊-事情 受惠焦-KA-介系詞 這裡 部落
+
+#a 213.91, None, 216.13
+
+95.
+... ka-kawaw uyni paka-ini=ay i babalaki kya sa.\
+Ca-thing this from-here=FAC PREP elder.people NOM.that DM
+Ca重疊 這個 從-這裡=FAC 介系詞 老人 主格.那個 DM
+
+#e His behavior was good to our tribe and senior citizens.
+#c 他的行為對部落及對老人家所做的事情都很好。
+#n IU 93 中bai 主要為祖母但亦可以指孫女; baki 主要為祖父但亦可以指孫子
+#a 216.13, None, 219.55
+
+96.
+... i ma-melaw nu babalaki,\
+PREP PF-see GEN elder.people
+介系詞 受焦-看 屬格 老人
+
+#a 219.55, None, 221.85
+
+97.
+.. anu i tawya i pi-sapunis-an sa.\
+COND PREP then PREP PI-hunting.festival-LF DM
+條件詞 介系詞 那時 介系詞 PI-捕鳥祭-處焦 DM
+
+#a 221.85, None, 223.85
+
+98.
+... E==,_
+FIL
+FIL
+
+#a 223.85, None, 224.93
+
+99.
+...(0.7) mi-melaw kuyni u== babalaki,\
+AF-see NOM.this CN elder.people
+主焦-看 主格.這個 CN 老人
+
+#a 224.93, None, 227.71
+
+100.
+... uyni kuyni u==,\
+this NOM.this CN
+這個 主格.這個 CN
+
+#a 227.71, None, 229.36
+
+101.
+...(1.0) sa-sangelac-ay a tunuz-an sa.\
+SA-white-NMZ LNK rice.cake-AN DM
+SA-白-名物化 連繫詞 麻糬-AN DM
+
+#e The senior citizens would look at the whitest rice cake.
+#c 老人家在捕鳥祭時會看最白的麻糬。
+#n IU 101中的an sa 為anu sa 縮寫
+#n Sakizaya中表示最高級的句型為 “sa- -ay”，如：sa-bangcal-ay 最漂亮的 sa-kapah-ay 最好的；sa-daecus-ay 最醜的；sa-talakaw-ay 最高的
+#a 229.36, None, 233.19
+
+102.
+.. tatenga’ u sangelac-ay a tunuz sa.\
+really CN white-NMZ LNK rice.cake DM
+真的 CN 白-名物化 連繫詞 麻糬 DM
+
+#a 233.19, None, 235.92
+
+103.
+... a=si-pabeli’ i tini babalaki kuyni u sangelac-ay a tunuz.\
+FUT=have-give PREP here elder.people NOM.this CN white-NMZ LNK rice.cake
+未來貌=有-給 介系詞 這裡 老人 主格.這個 CN 白-名物化 連繫詞 麻糬
+
+#e The pieces of white rice cake were given to the senior citizens. 
+#c 白色的麻糬是要給這裡老人家的。
+#a 235.92, None, 240.28
+
+104.
+.. nima=ay hakya anu sa sa.\
+GEN.who=FAC Q COND DM say
+屬格.誰=FAC 疑問 條件詞 DM 說
+
+#e Someone asked, “whose is this?”
+#c 有人問是誰的。
+#a 240.28, None, 241.9
+
+105.
+.. anu si-wantan=tu hiya u ngangan kya,\
+COND have-certain=PFV this.way CN name NOM.that
+條件詞 有-確定=完成貌 這樣 CN 名字 主格.那個
+
+#a 241.9, None, 244.86
+
+106.
+... i tatenga’,\
+PREP really
+介系詞 真的
+
+#a 244.86, None, 246.12
+
+107.
+.. a=si-kawlah kuyza ya na=mi==…-sa-tunuz-ay tuyu sangelac-ay.\
+FUT=have-award NOM.that that PAST=AF-do-rice.cake-NMZ OBL.that white-NMZ
+未來貌=有-獎品 主格.那個 那個 過去貌=主焦-做-麻糬-名物化 斜格.那個 白-名物化
+
+#e If (the senior citizens) knew the name, the people who made the whitest rice cake would be awarded.
+#c 如果確定名字的話，麻糬做的很白的人會有獎品。
+#a 246.12, None, 250.51
+
+108.
+.. ma-hiya=ay kiza,\
+AF-this.way=FAC NOM.that
+主焦-這樣=FAC 主格.那個
+
+#a 250.51, None, 251.84
+
+109.
+.. sa-ka-...\
+BF-KA 
+受惠焦-KA
+
+#a 251.84, None, 252.54
+
+110.
+... uyni han=tu u ayam sa.\
+this HAN=PFV CN bird DM
+這個 HAN=完成貌 CN 鳥 DM
+
+#e The award was the birds.
+#c 獎品就是鳥。
+#a 252.54, None, 254.42
+
+111.
+... E==,\
+FIL
+FIL
+
+#a 254.42, None, 255.55
+
+112.
+.. ini ku babalaki,\
+here NOM elder.people
+這裡 主格 老人
+
+#a 255.55, None, 256.91
+
+113.
+... ya ma-laluk-ay a kapah,\
+YA AF-diligent-NMZ LNK good
+YA 主焦-勤勞-名物化 連繫詞 好
+
+#a 256.91, None, 259.12
+
+114.
+... cima=ay hakya,\
+who=FAC Q
+誰=FAC 疑問
+
+#a 259.12, None, 260.6
+
+115.
+.. cima=ay hakya,\
+who=FAC Q
+誰=FAC 疑問
+
+#a 260.6, None, 261.67
+
+116.
+.. ma-tineng kuyni u babalaki a ma te te te.\
+AF-know NOM.this CN elder.people LNK FS FS FS FS
+主焦-知道 主格.這個 CN 老人 連繫詞 FS FS FS FS
+
+#e The senior citizens knew the most diligent young people.
+#c 老人知道誰是最勤勞的年輕人。
+#n IU 112 中kapah原意為好，但根據上下文則翻譯為年輕
+#a 261.67, None, 263.98
+
+117.
+.. cay=tu ma-melaw=ay nu niza tuyu u,\
+NEG=PFV PF-see=FAC GEN 3SG.POSS OBL.this CN
+否定=完成貌 受焦-看=FAC 屬格 3SG.所有格 斜格.這個 CN
+
+#a 263.98, None, 266.42
+
+118.
+.. ma-laluk-ay a <L2JsEnEngL2J>,\
+AF-diligent-NMZ LNK young.people
+主焦-勤勞-名物化 連繫詞 年輕人
+
+#a 266.42, None, 268.31
+
+119.
+... sa.\
+DM
+DM
+
+#e They saw diligent young people.
+#c 他們看到的勤勞的年輕人。
+#n IU116 中，根據發音者 cay tu在此與上下文無關應是語誤。
+#n IU118 中sEnEng 為日本漢字音，漢字寫成青年(seineN)。因Sakizaya語中無[e]，故以大寫E代替
+#a 268.31, None, 269.16
+
+120.
+... uyu u ayam u pulu-pulu’ uyu tikulac kuyza u si ku,\
+this CN bird CN RED-PN this PN that.NOM CN FS NOM
+這個 CN 鳥 CN 重疊-專名 這個 專名 那個.主格 CN FS 主格
+
+#a 269.16, None, 273.14
+
+121.
+... si- si-pa-kawlah tuyu u ma-laluk-ay,\
+FS SI-CAU-award OBL.this CN AF-diligent-NMZ
+FS SI-使動-獎品 斜格.這個 CN 主焦-勤勞-名物化
+
+#a 273.14, None, 276.23
+
+122.
+.. ma-hiza i kiza.\
+AF-this.way PREP NOM.that
+主焦-這樣 介系詞 主格.那個
+
+#e pulu-pulu’and tikulac were the award for diligent people.
+#c pulu-pulu’ 和 tikulac當作勤勞年輕人的獎品。 
+#n IU 120 中pulu-pulu’與tikulac皆為鳥類
+#n IU 121 中kawlah 為獎品，其來源與ma-ulah (很高興) 有關
+#a 276.23, None, 277.2
+
+123.
+... u sa-ka-lahuk sa u tunuz mamin.\
+CN IF-KA-lunch DM CN rice.cake all
+CN 工具焦-KA-中餐 DM CN 麻糬 全部
+
+#e The lunch was rice cake.
+#c 中餐皆是麻糬。
+#a 277.2, None, 279.45
+
+124.
+... anu cay ka-taneng kuyni u hak ku tunuz kya a u hakhak.\
+COND NEG KA-enough NOM.this CN FS NOM rice.cake NOM.that LNK CN glutinous.rice
+條件詞 否定詞 KA-足夠 主格.這個 CN FS 主格 麻糬 主格.那個 連繫詞 CN 糯米飯
+
+#e If rice cake is insufficient, they will eat glutinous rice.
+#c 如果麻糬不夠，就用糯米飯。
+#a 279.45, None, 284.24
+
+125.
+.. ma-hiza=ay kiza kuyni u sa-ka-lahuk.\
+AF-this.way=FAC NOM.that NOM.this CN IF-KA-lunch
+主焦-這樣=FAC 主格.那個 主格.這個 CN 工具焦-KA-午餐
+
+#e This was lunch.
+#c 這就是午餐。
+#a 284.24, None, 286.32
+
+126.
+... uyni han=tu ma-laluk=ay sa ma-awaw ku nganga sa.\ 
+this HAN=PFV AF-diligent=FAC DM AF-yell NOM name say
+這個 HAN=完成貌 主焦-勤勞=FAC DM 主焦-呼喊 主格 名字 說
+
+#e As for the diligent worker, his name was called.
+#c 至於那個勤勞的人，他名字被叫到。
+#a 286.32, None, 289.59
+
+127.
+.. ma-du^ba’=tu,\
+AF-run=PFV
+主焦-跑=完成貌
+
+#a 289.59, None, 290.58
+
+128.
+... mi-ala tuyni u== ni-pa==beli’,\
+AF-take OBL.this CN NI-give
+主焦-拿 斜格.這個 CN NI-給
+
+#a 290.58, None, 293.76
+
+129.
+... ni-pa-sisi nu hiya pa-kilac nuyni u==,\
+NI-CAU-allocate GEN that CAU-allocate GEN.this CN
+NI-使動-分配 屬格 那個 使動-分配 屬格.這個 CN
+
+#a 293.76, None, 297.69
+
+130.
+...(0.7) nu <L2JsEnEngL2J> tuyni u babalaki sa.\
+GEN young.people OBL.this CN elder.people DM
+屬格 年輕人 斜格.這個 CN 老人 DM
+
+#e (They) ran to receive the award that senior citizens gave to the young people.
+#c 跑去拿老人分給年輕人的(獎品)。
+#n IU128中，轉寫發音人說明上下文應該有領取獎品的意思
+#n kawlah 為獎品，其來源與ma-ulah (很高興) 有關
+#n IU129中分配的說法如下：在北勢阿美語中，為pa-sisi；
+#n 南勢阿美及東海岸阿美語則為pa-kilac；Sakizaya 則為pa-wada
+#n IU130中sEnEng 為日本漢字音，漢字寫成青年(seineN)。因Sakizaya語中無[e]，故以大寫E代替
+#a 297.69, None, 300.58
+
+131.
+... ca’ay=tu ka-kan nuyni u babalaki kuyni ka-kan-an nu hiya niza a lami’,\
+NEG=PFV KA-eat GEN.this CN elder.people NOM.this PF-eat-PF GEN that 3SG.GEN LNK dish
+否定詞=完成貌 KA-吃 屬格.這個 CN 老人 主格.這個 受焦-吃-受焦 屬格 那個 他.屬格 連繫詞 菜餚
+
+#a 300.58, None, 305.14
+
+132.
+... mami==n i tini i hiya i== ma-laluk-ay a kapah,\
+all PREP here PREP that.way PREP AF-diligent=NMZ LNK good
+全部 介系詞 這裡 介系詞 那樣 介系詞 主焦-勤勞-名物化 連繫詞 好
+
+#a 305.14, None, 309.45
+
+133.
+... a== sipa==,\
+FUT FS
+未來貌 FS
+
+#a 309.45, None, 311.2
+
+134.
+... a== kawlah.\
+LNK award
+連繫詞 獎品
+
+#e Senior citizens did not have their dishes and gave them to the diligent young people as award.
+#c 老人家也沒吃自己那一份的菜餚，全部都給勤勞的年輕人當作獎賞。
+#n IU 132中，kapah原意為好，但在此延伸為年輕
+#n IU 134 中kawlah 為獎品，其來源與ma-ulah (很高興) 有關
+#a 311.2, None, 312.99
+
+135.
+... u== namuh nu babalaki ma-hiza=ay kiza.\
+CN happy GEN elder.people AF-that.way=FAC NOM.that
+CN 高興 屬格 老人 主焦-那樣=FAC 主格.那個
+
+#e Senior citizens would do this when they felt happy.
+#c 老人家一高興，就會這樣。
+#a 312.99, None, 316.84
+
+136.
+... han nu maku kuni ka u kamu.\
+HAN GEN 1SG.POSS NOM.this KA CN word
+HAN 屬格 1SG.所有格 主格.這個 KA CN 話
+ 
+#e This was what I wanted to say.
+#c 這就是我要講的。
+#a 316.84, None, 318.95
+
+137.
+... tatenga’,\ 
+really
+真的
+
+#a 318.95, None, 320.16
+
+138.
+...(1.1) uyni han=tu u hiya sa.\
+this HAN=PFV CN that DM
+這個 HAN=完成貌 CN 那個 DM
+
+#a 320.16, None, 322.7
+
+139.
+... u==,_
+CN
+CN
+
+#a 322.7, None, 324.19
+
+140.
+.. ma-laluk-ay aca nuyni u==,\
+AF-diligent-NMZ too GEN.this CN
+主焦-勤勞-名物化 也 屬格.這個 CN
+
+#a 324.19, None, 326.36
+
+141.
+... nu==,\
+GEN
+屬格
+
+#a 326.36, None, 327.95
+
+142.
+... tatayna ya hican.\ 
+female YA how.PF
+女性 YA 怎樣.受焦
+
+#e How about the diligent women?
+#c 那勤勞的女性又該如何？
+#n IU 142中的 hican 由hica-an縮寫而成
+#a 327.95, None, 330.17
+
+143.
+... izaw ku sausi nu babalaki tuyni u==,\
+EXIST NOM plan GEN elder.people OBL.this CN
+存在詞 主格 打算 屬格 老人 斜格.這個 CN
+
+#a 330.17, None, 333.6
+
+144.
+.. malu-sa-pa-kawlah tuyni u hiya.\ 
+AF.become-do-CAU-award OBL.this CN that
+主焦.成為-做-使動-獎品 斜格.這個 CN 那個 
+
+#e Senior citizens also planed to award diligent women.
+#c 老人家也有打算給勤勞的婦女獎品。
+#n IU 144 中kawlah 為獎品，其來源與ma-ulah (很高興) 有關
+#a 333.6, None, 335.69
+
+145.
+.. u kawlah sa,\
+CN award TOP
+CN 獎品 主題
+
+#a 335.69, None, 336.85
+
+146.
+... izaw=tu.\
+EXIST=PFV
+存在詞=完成貌
+
+#e There were awards. 
+#c 有獎品的。
+#a 336.85, None, 337.79
+
+147.
+... E anu i tawya=ay sa,\
+FIL COND PREP before=FAC DM
+FIL 條件詞 介系詞 之前=FAC DM
+
+#a 337.79, None, 340.36
+
+148.
+... ca’ay ka-uyza u ayam ku si-pa-kawlah tuyni u tatayna.\
+NEG KA-that CN bird NOM have-CAU-award OBL.this CN female
+否定詞 KA-那 CN 鳥 主格 有-使動-獎品 斜格.這個 CN 女性
+
+#e At that time, the award for women was not bird.
+#c 那時候婦女的獎品不會是鳥。
+#n IU148 中kawlah 為獎品，其來源與ma-ulah (很高興) 有關
+#a 340.36, None, 344.56
+
+149.
+.. anu uyni u <L2TsabunL2T> anu u canan kya==.\
+COND this CN soap COND CN what Q
+條件詞 這個 CN 肥皂 條件詞 CN 什麼 疑問
+
+#e It could be soap or something else.
+#c 可以是肥皂或是其他東西。
+#n sabun 為閩南語借詞
+#a 344.56, None, 347.46
+
+150.
+... anu paka-ini=ay nu tatayna sa nu tatayna kuni tatayna a,\
+COND from-here=FAC GEN female DM GEN female NOM.this female LNK
+條件詞 從-這=FAC 屬格 女性 DM 屬格 女性 主格.這個 女性 連繫詞
+
+#a 347.46, None, 351.9
+
+151.
+... malu-kawlah.\
+AF.become-award
+主焦.變成-獎品
+
+#e If they were women’s awards, they belonged to women.
+#c 若是婦女的獎品就歸女人。
+#n IU 151 中kawlah 為獎品，其來源與ma-ulah (很高興) 有關
+#a 351.9, None, 353.29
+
+152.
+... anu== ayam=ay sa u tatama=ay u==.\
+COND bird=FAC DM CN male=FAC CN
+條件詞 鳥=FAC DM CN 男性=FAC CN
+
+#e Birds belonged to men.
+#c 鳥都是男生的。
+#a 353.29, None, 357.32
+
+153.
+... mi-kelec=ay tuyni u hiya,\ 
+AF-tighten=FAC OBL.this CN that
+主焦-弄緊=FAC 斜格.這個 CN 那個
+
+#a 357.32, None, 359.48
+
+154.
+... ma-tineng=ay sa-ki-i tini i niyazu’.\
+AF-able=FAC BF-KI-PREP here PREP tribe
+主焦-能夠=FAC 受惠焦-KI-介系詞 這裡 介系詞 部落 
+
+#e It united our tribe.
+#c 能夠讓部落團結
+#n IU kelec 原意為弄緊，在此為團結或凝聚
+#n IU 154中的sa-ki-i tini 為慣用型，有方向指涉性。主格需為人且指涉對象常使用在我方的範疇上，如： 
+#n sa-ki-i tini i lima’ kapah ciniza(他對家庭很好)
+#n sa-ki-i tini i wawa makatal ciniza (他對小孩很兇)，本句可替換成
+#n ma-katal ciniza tu wawa (他對小孩很兇)
+#n 但mi-laylay a kapah ku-uzip (運動對身體好)不用sa-ki-i tini來指稱方向
+此外，另一方向詞tiza(那裡) sa-ki-i tiza亦可，但sa-ki-i tini較常用
+#a 359.48, None, 362.49
+
+155.
+... mi==-hiya mi-simaw=ay tu niyazu’,\
+AF-this.way AF-take.care=FAC OBL tribe
+主焦-這樣 主焦-照顧=FAC 斜格 部落
+
+#a 362.49, None, 366.03
+
+156.
+... mala-kapah pa-la-,\
+AF.become-good CAU-la-
+主焦.成為-好 使動-la
+
+#a 366.03, None, 367.81
+
+157.
+... tamtaw tuyni u kapah mamin tuyni u babalaki tuyni nu niyazu’ anu sa kya sa.\
+people OBL.this CN good all OBL.this CN elder.people OBL.this GEN tribe COND DM Q DM
+人 斜格.這個 CN 好 全部 斜格.這個 CN 老人 斜格.這個 屬格 部落 條件詞 DM 疑問 DM
+
+#e In this way, senior citizens made the young people in the tribe outstanding. 
+#c 如果這樣的話，在部落老人家讓年輕人都能成為人才。  
+#n pa-la-tamtaw 成為人才
+#a 367.81, None, 371.94
+
+158.
+.. uyni kuyu ma-tatungus=ay sa,\
+this NOM.this AF-proper=FAC DM
+這個 主格.這個 主焦-適當=FAC DM
+
+#a 371.94, None, 374.02
+
+159.
+... tatenga’ anu,_
+really COND 
+真的 條件詞
+
+#a 374.02, None, 375.35
+
+160.
+... ma-tatungus=tu kuyu u mihca-an a pi-pili’-an-an kya sa,\ 
+AF-proper=PFV NOM.this CN year-AN LNK PF-select-PF-AN Q DM
+主焦-適合=完成貌 主格.這個 CN 年-AN 連繫詞 受焦-選-受焦-AN 疑問 DM
+
+#a 375.35, None, 379.26
+
+161.
+.. mi-pili’=tu tuyni u==,\
+AF-select=PFV OBL.this CN
+主焦-選=完成貌 斜格.這個 CN
+
+#a 379.26, None, 380.91
+
+162.
+.. tutung=ay nu,\
+follow=FAC GEN
+跟著=FAC 屬格
+
+#a 380.91, None, 381.91
+
+163.
+... tumuk.\
+leader
+頭目
+
+#e When the young people were of proper age, one of them would be selected as leader.
+#c 到了被選的合適年齡，就會被選為頭目。
+#a 381.91, None, 382.68
+
+164.
+... tutung=ay tuyni u <L2JkucyuL2J>.\
+follow=FAC OBL.this CN principal
+跟著=FAC 斜格.這個 CN 校長
+
+#e It is like principal.
+#c 就像校長。
+#n IU164中的kucyu為日文借詞，漢字寫成校長(ko:cho:)。另有一近似字gucyu，意思為鄉長(go:chyo:)。根據轉注發音人的說法，本句與上下文的關係不大，可理解成頭目就像校長一樣
+#a 382.68, None, 385.08
+
+165.
+.. ma-hiza=ay kuyni u lekakawa yu,_ 
+AF-this.way=FAC NOM.this CN policy YU
+主焦-這樣=FAC 主格.這個 CN 方針 YU
+
+#a 385.08, None, 387.26
+
+166.
+.. ma-hiza henay nu babalaki uyni han=tu u hiya sa.\ 
+AF-this.way-FAC still GEN elder.people this HAN=PFV CN that DM
+主焦-這樣-FAC 仍然 屬格 老人 這個 HAN=完成貌 CN 那個 DM
+
+#e In the past, the senior citizens did this.
+#c 從前，老人家的做法就是這樣。
+#a 387.26, None, 390.59
+
+167.
+... u i lisin hananay tuyni u sapunis sa.\
+CN PREP ceremony so.called OBL.this CN hunting.festival DM
+CN 介系詞 儀式 所謂的 斜格.這個 CN 捕鳥祭 DM
+
+#e This is so called hunting festival.
+#c 這個所謂的捕鳥祭。
+#n lisin於阿美語中為豐年祭；但lisin 在 Sakizaya中則為祭典
+#n mi-sa-lisin 為巫師做法；而palaw為跳舞，ma-palaw-ay 為跳舞的人，延伸為巫師  
+#n 阿美語中的si-kawas-ay 亦為巫師，但其字根 kawas 可指神或鬼，但大寫時Kawas 專指上帝)
+#a 390.59, None, 393.79
+
+168.
+... tatenga’ cacay a mihca kina cacay.\
+really one LNK year NOM.this one
+真的 一個 連繫詞 年 主格.這個 一個
+
+#e Indeed, it is once in a year.
+#c 的確，一年一次。
+#a 393.79, None, 396.23
+
+169.
+... a=hican i tawya ma-ala ku tulu-tulu anu lima’ a demiad ma-hiza.\
+FUT=how.PF PREP before AF-take NOM RED-three COND five LNK day AF-that.way
+未來貌=怎樣.受焦 介系詞 之前 主焦-拿 主格 重疊-三 條件詞 五 連繫詞 天 主焦-那樣
+
+#e At that time, it took three or five days. That’s it.
+#c 在那時會用到三天甚至五天 就這樣。
+#n a hican 在此有無奈之意，表示沒辦法
+#a 396.23, None, 401.04
+
+170.
+.. ayza sa cacay=tu a demiad.\
+now DM one=PFV LNK day
+現在 DM 一=完成貌 連繫詞 天
+
+#e It is one day now.
+#c 現在只有一天。
+#a 401.04, None, 403.04
+
+171.
+... a=hican u mi-<L2MkuliL2M>=ay tu amin ma-hini ku sausi sa.\ 
+FUT=how.PF CN AF-hard.work=FAC OBL all AF-this.way NOM cause DM
+未來貌=怎樣.受焦 CN 主焦-苦力=FAC 斜格 全部 主焦-這樣 主格 原因 DM
+
+#e It is because every one had to work.
+#c 因為大家都去工作。
+#n kuli 為中文的苦力。sausi 在此解釋成因為或原因
+#a 403.04, None, 407.07
+
+172.
+... E== apuyu’ han=tu kuyni u hiya,\
+FIL short HAN=PFV NOM.this CN this
+FIL 短 HAN=完成貌 主格.這個 CN 這個
+
+#a 407.07, None, 409.71
+
+173.
+... u sausi paka-ini=ay i limulak.\
+CN cause from-here=FAC PREP celebration 
+CN 原因 從-這=FAC 介系詞 慶典
+
+#e Therefore, they shortened celebration.
+#c 所以就縮短慶典時間。
+#n ma-limulak 慶祝
+#a 409.71, None, 412.1
+
+174.
+... E uyni han=tu ini u==,\ 
+FIL this HAN=PFV here CN
+FIL 這個 HAN=完成貌 這裡 CN
+
+#a 412.1, None, 414.3
+
+175.
+... Sakizaya sa niyam u Maibul.\
+PN DM 1PL.POSS CN PN
+專名 DM 1PL.所有格 CN 專名
+
+#a 414.3, None, 416.89
+
+176.
+... uyza dada u ayam,\
+that only CN bird
+那個 只有 CN 鳥
+
+#a 416.89, None, 418.74
+
+177.
+... E ni-bihkac-an ma-hiza=ay.\
+FIL PF-bow-PF AF-that.way=FAC
+FIL 受焦-弓-受焦 主焦-那樣=FAC
+
+#e Sakizaya people in Maibul only shot birds.
+#c 我們馬立雲的sakizaya 人只有射鳥。
+#a 418.74, None, 421.75
+
+178.
+.. nayay ku tudung nu hiya,\
+NEG NOM imitate GEN that
+否定詞 主格 模仿 屬格 那個
+
+#a 421.75, None, 423.26
+
+179.
+... kutungus nu niyam u Maibul tuyni u==,\
+proper GEN 1PL.POSS CN PN OBL.this CN
+合適 屬格 1PL.所有格 CN 專名 斜格.這個 CN
+
+#a 423.26, None, 426.4
+
+180.
+.. nu Sakizaya kuyni kumud hananay mi-buting nayay.\
+GEN PN NOM.this gather so.called AF-fish NEG
+屬格 族名 主格.這個 集合 所謂 主焦-魚 否定
+
+#e We Sakizaya people did not imitate others’ fishing festival.
+#c 我們馬立雲的Sakizaya人沒有仿效大家一起去捕魚的祭典。
+#n IU178中的mi-tudung 原意為學習，在此延伸為模仿。
+#a 426.4, None, 429.77
+
+181.
+... u ayam dada ma-hiza=ay kiza anu yadah kuyni u ayam sa yadah=ay kuyni u.\
+CN bird only AF-that.way=FAC NOM.this COND many NOM.this CN bird DM many=FAC NOM.this CN
+CN 鳥 只有 主焦-那樣=FAC 主格.這個 條件詞 許多 主格.這個 CN 鳥 DM 許多=FAC 主格.這個 CN
+
+#e We only hunt birds; if there were many bird, we would hunt many.
+#c 只有鳥，就這樣; 如果鳥很多就也很多。
+#a 429.77, None, 435.06
+
+182.
+... sa-pabeli’ tuyni u babalaki== sa-pa-kan ma-hiza=ay.\ 
+BF-give OBL.this CN elder.people BF-CAU-eat AF-that.way=FAC
+受惠焦-給 斜格.這個 CN 老人 受惠焦-使動-吃 主焦-那樣=FAC
+
+#e If there were many birds, senior citizens could eat more.
+#c 如果鳥很多要給老人家吃的也很多。
+#a 435.06, None, 438.29
+
+183.
+... han ha nu maku uyni u hiya.\
+be.said HA GEN 1SG.POSS this CN that
+被說 HA 屬格 1SG.所有格 這個 CN 那個
+
+#e I would say this.
+#c 我就這樣講。
+#a 438.29, None, 440.69
+
+184.
+... u==,\
+CN
+CN
+
+#a 440.69, None, 442.09
+
+185.
+...(1.6) u selal,\
+CN age
+CN 年齡
+
+#a 442.09, None, 444.51
+
+186.
+.. mi-sanga ^tu selal,\
+AF-make OBL age
+主焦-做 斜格 年齡
+
+#a 444.51, None, 446.03
+
+187.
+... tulu a mihca kina cacay,\
+three LNK year NOM.this one
+三個 連繫詞 年 主格.這個 一個
+
+#e Every three years, people rank based on their age.
+#c 三年一次安排年齡階級。
+#n IU 185 及186 中的selal原意為年齡，但在此延伸為階級
+#a 446.03, None, 448.23
+
+188.
+... anu tusa a mihca kina cacay,\
+COND two LNK year NOM.this one
+條件詞 二個 連繫詞 年 主格.這個 一個
+
+#a 448.23, None, 450.49
+
+189.
+... mi-sanga tuyni u selal uyni u selal sa.\
+AF-make OBL.this CN age NOM.this CN age DM
+主焦-做 斜格.這個 CN 年齡 主格.這個 CN 年齡 DM
+
+#e Or people rank every two years.
+#c 二年一次安排年齡階級。
+#n IU 189 中的selal原意為年齡，但在此延伸為階級
+#n saba-selal 最小階級為12歲，在Sakizaya的傳統中在階級安排儀式之後會在部落周圍種一圈刺竹，若刺竹成為成的圍牆越多表示青壯年人口多
+#a 450.49, None, 453.48
+
+190.
+.. tatenga’,\
+really
+真的
+
+#a 453.48, None, 454.34
+
+191.
+... cima saw kuyni u ta-zikuz=ay nu hiya,\ 
+who Q NOM.this CN go-backward=FAC GEN that
+誰 疑問 主格.這個 CN 去-往後=FAC 屬格 那個
+
+#a 454.34, None, 456.83
+
+192.
+... nuyni u wawa.\
+GEN.this CN child
+屬格.這個 CN 小孩
+
+#e Would children retreat?
+#c 小孩誰會往後呢?
+#a 456.83, None, 457.97
+
+193.
+... nayay ku ta-zikuz=ay sa.\
+NEG NOM go-backward=FAC DM
+否定詞 主格 去-往後=FAC DM
+
+#e Nobody would retreat.
+#c 沒有人往後。
+#n zikuz原意為往後，但在此延伸為退縮
+#a 457.97, None, 459.63
+
+194.
+... sa=tu==,\
+DM=PFV
+DM=完成貌
+
+#a 459.63, None, 461.0
+
+195.
+.. ma-bilil=ay ma-laluk=ay tuyni u kawaw.\
+AF-earnest=FAC AF-diligent=FAC OBL.this CN work
+主焦-認真=FAC 主焦-勤勞=FAC 斜格.這個 CN 工作 
+
+#e Every one worked diligently.
+#c 全部認真勤勞地工作。
+#a 461.0, None, 463.73
+
+196.
+.. tuyni u==,\
+OBL.this CN
+斜格.這個 CN
+
+#a 463.73, None, 464.91
+
+197.
+... sa-ka-i tini nu babalaki mi-sikaway.\
+SA-KA-PREP here GEN elder.people AF-rucksack
+SA-KA-介系詞 這裡 屬格 老人 主焦-背包
+
+#e Senior citizens united the young people.
+#c 那是老人家所背負的責任。
+#n sa-ka-i tini 的用法請參見IU154
+#n mi-sikaw 為阿美語
+#a 464.91, None, 467.28
+
+198.
+.. ni-han han nu maku kuyni u kamu ha-tiza-ay kina kamu nu maku.\
+NI-HAN be.said GEN 1SG.POSS NOM.this CN word HA-there-FAC NOM.this word GEN 1SG.POSS
+NI-HAN 被說 屬格 1SG.所有格 主格.這個 CN 話 HA-那裡-FAC 主格.這個 話 屬格 1SG.所有格
+
+#e This is what I would say. 
+#c 我的話就講到這。
+#a 467.28, None, 470.29

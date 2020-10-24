@@ -1,0 +1,2203 @@
+topic: Custom
+type: Narrative
+language: 阿美語, Amis, Ciwkangan(長光)
+speaker: 劉李俊, Liu, male, None
+collected: 2005-05-24
+revised: 2014-1-16
+video: Amis_Nr-custom_Liu.mp3
+
+1.
+hai  u==,\
+yes  CN
+是  CN
+
+#a 0.68, None, 1.7
+
+2.
+.. niyaro’  a    niyam       u    ciwkangan.\
+tribe   LNK  1EPL.GEN  CN  Ciwkangan
+部落  連詞  1EPL.屬格  CN  長光
+
+#e Yes, Ciwkangan is our tribe.
+#c 是的，長光是我們的部落。
+#a 1.7, None, 3.28
+
+3.
+...(0.8) unini  sa’an   a,\
+this   said.so  LNK
+這個  如此說  連詞
+
+#a 3.28, None, 5.02
+
+4.
+.. ciwkangan   hananay   a     niyaro’.\
+Ciwkangan  so.called  LNK  tribe
+長光    所謂     連詞   部落
+
+#a 5.02, None, 6.72
+
+5.
+...(1.3) e   ca’ay   ka-,\
+FIL  NEG  KA-
+FIL  否定  KA-
+
+#a 6.72, None, 8.77
+
+6.
+.. ^’ca     ka,\
+NEG  KA
+否定  KA
+
+#a 8.77, None, 9.86
+
+7.
+... mi-tengil  tu    suwal    nu,\
+AF-listen  OBL  speech  GEN
+主焦-聽  斜格  話     屬格
+
+#a 9.86, None, 11.7
+
+8.
+.. kakita’an   iti==ya=iho.\
+chief      then=IMPFV
+首領     那時=未完成
+
+#e Af for the so-called Ciwkangan Tribe, in the past, (we) would never disobey the chief.
+#c 所謂這個長光部落呢，過去而言，絕對不會不聽首領的話。
+#a 11.7, None, 13.46
+
+9.
+...(0.9) anu ira ku sa-lifung,\
+COND EXIST NOM get-plague
+條件詞 存在 主格 得-瘟疫
+
+#a 13.46, None, 15.81
+
+10.
+.. anu    ira      ku==,\
+COND  EXIST  NOM
+條件詞  存在   主格
+
+#a 15.81, None, 17.39
+
+11.
+.. pi-tapuh    tu  omah,\
+PI-recultivate  OBL  farm
+PI-重新耕作  斜格  田
+
+#a 17.39, None, 18.99
+
+12.
+... ma-,\
+AF-
+主焦-
+
+#a 18.99, None, 19.89
+
+13.
+.. ‘emin    i     kakita’an    a==,\
+all     LOC   chief      LNK
+全部  處格   首領      連詞
+
+#a 19.89, None, 21.58
+
+14.
+... mi-sanga’  tura  romi’ad,\
+AF-make  that.OBL  day
+主焦-做   那個.斜格  天
+
+#a 21.58, None, 23.32
+
+15.
+.. tura      hatira-ay.\
+that.OBL   that.way-AY
+那個.斜格  那樣-AY
+
+#e If there was a plague, if people needed to re-cultivate the land, the chief would assign the work to people.
+#c 如果有瘟疫，如果要重新耕作，全部由首領支配時間（對於這些工作）。
+#a 23.32, None, 24.23
+
+16.
+... pa-ka-orad,\
+CAU-KA-rain
+使役-KA-雨
+
+#a 24.23, None, 25.47
+
+17.
+... pa-ka-cidal,\
+CAU-KA-sun
+使役-KA-太陽
+
+#a 25.47, None, 26.6
+
+18.
+...(0.7) hatira-ay  saka,\
+that.way-AY  so
+那樣-AY    因此
+
+#e This was also true of praying for rain and the sun.
+#c 祈雨、祈太陽，都是如此。
+#a 26.6, None, 28.15
+
+19.
+...(0.7) u==,\
+CN
+CN
+
+#a 28.15, None, 30.14
+
+20. 
+... pakayni-ay     itini,\
+from.this-AY   here
+從事-AY     這裡
+
+#a 30.14, None, 31.54
+
+21.
+.. niyaro’  haw  i    adi^hay  ku,\
+tribe    HAW  DM  many  NOM
+部落   HAW  DM  很多  主格
+
+#a 31.54, None, 33.32
+
+22.
+.. paysin  hananay,\
+taboo  so.called
+禁忌   所謂
+
+#e There were many taboos in the tribe.
+#c 從這個部落（情境）呢，禁忌很多。
+#a 33.32, None, 34.36
+
+23.
+...(1.1) anu   ira     ku==,\
+COND  EXIST  NOM
+條件詞  存在   主格
+
+#a 34.36, None, 36.44
+
+24.
+.. ci-ma-patay-ay   nanay,\
+get-AF-die-AY   so.called
+有-主焦-死-AY  所謂
+
+#a 36.44, None, 37.89
+
+25.
+...(0.9) ca’ay  ka-,\
+NEG  KA-
+否定  KA-
+
+#a 37.89, None, 39.27
+
+26.
+.. ^‘ca    ka,\
+NEG  KA
+否定  KA
+
+#a 39.27, None, 40.06
+
+27.
+...(1.0) e==,\
+FIL
+FIL
+
+#a 40.06, None, 41.88
+
+28.
+...(1.0) paysin  ku  niyaro’,\
+taboo  NOM   tribe
+禁忌  主格   部落
+
+#e If someone died, there would be taboos in the tribe.
+#c 如果有過世的人家，部落絕對不會沒有禁忌。
+#a 41.88, None, 44.16
+
+29.
+.. ca’ay  ka-nga’ay  ma-lingad,\
+NEG  KA-good   AF-work
+否定  KA-好     主焦-工作
+
+#a 44.16, None, 45.59
+
+30.
+... hatira-ay     iti==ya=ho      ku     nu    tu’as=ho.\
+that.way-AY  then=IMPFV  NOM  GEN  old=IMPFV
+那樣-AY     那時=未完成  主格   屬格  老=未完成
+
+#e People couldn’t work then.
+#c 不能去工作，從前古老時候是如此。
+#a 45.59, None, 48.45
+
+31.
+...(1.1) sa   mi==,\
+SA  FS
+SA  FS
+
+#a 48.45, None, 50.74
+
+32.
+.. anu==    ma-kedal,\
+COND  AF-drought
+條件詞  主焦-乾旱
+
+#a 50.74, None, 52.12
+
+33.
+... awa         ku     ‘orad,\
+NEG.EXIST  NOM   rain
+否定.存在   主格    雨
+
+#a 52.12, None, 53.43
+
+34.
+...(0.7) pa-ka-‘orad    anini,\
+CAU-KA-rain  today  
+使役-KA-雨   今天
+
+#a 53.43, None, 55.3
+
+35.
+.. anu     sa,\
+COND  SA
+條件詞  SA
+
+#a 55.3, None, 55.83
+
+36.
+... pa-ka-‘orad  ku      finawlan,\
+CAU-KA-rain  NOM   organization
+使役-KA-雨   主格   組織
+
+#e If there was a dought and it didn’t rain, if people needed to pray for rain, the society would pray for rain.
+#c 如果乾旱，沒有下雨，如果今天要祈雨的話，部落組織（動員）祈雨。
+#n finawlan 是阿美族的社會組織。
+#a 55.83, None, 57.17
+
+37.
+...(0.7) l<um>a’oc   ku==,\
+<AF>assemble   NOM
+<主焦>聚集     主格
+
+#a 57.17, None, 59.07
+
+38.
+...(0.7) u==,\
+CN
+CN
+
+#a 59.07, None, 60.82
+
+39.
+.. finawlan,\
+organization
+組織
+
+#a 60.82, None, 61.45
+
+40.
+.. atu    lakacaw.\
+CONJ   women’s.association
+連接詞  婦女會
+
+#e The society and women’s association would assemble.
+#c 聚集部落組織和婦女會。
+#n lakacaw是阿美族裡的婦女團體。
+#a 61.45, None, 62.65
+
+41.
+...(0.8) tayni     i   riyar  a   mi-tiyati’    tu==,\
+come  LOC   sea   LNK  AF-rod     OBL
+來  處格   海    連詞   主焦-棍子  斜格
+
+#a 62.65, None, 65.72
+
+42.
+.. nanum,\
+water
+水
+
+#a 65.72, None, 66.29
+
+43.
+... a      pa-ka-orad,\
+LNK   CAU-KA-rain
+連詞   使役-KA-雨
+
+#e (They) would go to the sea, tapping the sea water and praying for rain.
+#c （他們）到海邊去拍打海水，祈雨。
+#a 66.29, None, 67.55
+
+44.
+... hatira-ay,\
+that.way-AY
+那樣-AY
+
+#a 67.55, None, 68.86
+
+45.
+.. ku     nu==,\
+NOM   GEN
+主格    屬格
+
+#a 68.86, None, 69.76
+
+46.
+.. itiya-ay=ho.\
+then-AY=IMPFV
+那時-AY=未完成
+
+#e This is how things were done in the past.
+#c 從前是這樣做的。
+#a 69.76, None, 70.93
+
+47.
+...(0.8) sa  pakayn   itini    i==,\
+SA  from.this    here   LOC
+SA  從事       這裡   處格
+
+#a 70.93, None, 73.05
+
+48.
+.. rakat  nu    orip  nu==,\
+walk  GEN  life  GEN
+走路  屬格  生活  屬格
+
+#a 73.05, None, 74.48
+
+49.
+.. ‘amis,\
+Amis
+阿美
+
+#a 74.48, None, 75.13
+
+50.
+...(0.7) nu==,\
+GEN
+屬格
+
+#a 75.13, None, 76.93
+
+51.
+.. ma-ra’od-ay           a      ma==-\
+AF-approach-AY    LNK   AF-
+主焦-接近-AY     連詞   主焦-
+
+#a 76.93, None, 78.18
+
+52.
+... takup-ay      nu    niyam      u,\
+catch.up-AY  GEN  1EPL.POSS    CN
+趕上-AY     屬格  1EPL.所有格   CN
+
+#a 78.18, None, 80.02
+
+53.
+... kasa-rarem      i      matini      i.\
+each-junior   LOC    this.way   DM
+各-晚輩     處格    這樣      DM
+
+#e From the life of Amis, what the younger generations see and keep abreast of.
+#c 所以，從阿美族的生活過程中，我們這一代晚輩所接觸的、所趕上的。
+#n ma-ngata=tu  ma-ra’od  ku  ka-ilisin-an：豐年祭快到了。
+#a 80.02, None, 82.02
+
+54.
+...(0.9) watah,\
+INT
+感嘆
+
+#a 82.02, None, 83.46
+
+55.
+.. ka-roray-an=tu        ku        teloc,\
+KA-industrious-AN=PFV  NOM   offspring
+KA-辛勞-AN=完成    主格    後代
+
+#e Alas, the offsprings are industrious.
+#c 哎呀，（當時）我們這些後代真辛苦。
+#a 83.46, None, 84.94
+
+56.
+.. ka-roray-an=tu      nu,\
+KA-industrious-AN=PFV   GEN
+KA-辛勞-AN=完成   屬格
+
+#a 84.94, None, 85.96
+
+57.
+... kakita’an    ku     demak,\
+chief       NOM   thing
+首領       主格    事情
+
+#a 85.96, None, 87.34
+
+58.
+.. nu    niyaro’  hananay.\
+GEN   tribe    so.called
+屬格    部落   所謂
+
+#e The chief worked hard for the tribal matters.
+#c 頭目為了部落的事務而辛苦。
+#a 87.34, None, 88.33
+
+59.
+...(1.3) adihay      ku,\
+many   NOM
+很多 主格
+
+#a 88.33, None, 90.42
+
+60.
+.. ta-tayal-en,\
+Ca-work-PF
+Ca重疊-工作-受焦
+
+#a 90.42, None, 91.1
+
+61.
+.. tu    saki-tini       niyaro’,\
+OBL    belong-this    tribe
+斜格    屬於-這個     部落
+
+#e There was much tribal work.
+#c 關於部落要作的工作很多。
+#a 91.1, None, 92.3
+
+62.
+...(0.8) anu==,\
+COND
+條件詞
+
+#a 92.3, None, 94.35
+
+63.
+.. ma-sa-ma’an=tu      ma==,\
+AF-make-what=PFV   FS
+主焦-做-什麼=完成  FS
+
+#a 94.35, None, 96.18
+
+64.
+...(0.8) matini   kuni      ka-awa       ku     hociyo,\
+this.way   this.NOM  KA-NEG.EXIST   NOM   subsidy
+這樣    這個.主格   KA-否定.存在    主格    補助
+
+#a 96.18, None, 98.63
+
+65.
+.. awa          ku  ma’an,\
+NEG.EXIST   NOM  what
+否定.存在   主格   什麼
+
+#a 98.63, None, 99.64
+
+66.
+...(1.0) ku  nani  fafaw-ay    haw,\
+NOM  from  central-AY  HAW
+主格   從   中央-AY    HAW
+
+#e There are no subsidies from the government now.
+#c （像現在）不知如何，從中央（機關）都沒有補助，什麼也沒有。
+#a 99.64, None, 101.87
+
+67.
+.. sahtu  tu      unu,\
+all     OBL   this
+所有   斜格    這個
+
+#a 101.87, None, 103.01
+
+68.
+...(0.7) finawlan      ku     tayal,\
+organization   NOM  work
+組織         主格   工作
+
+#a 103.01, None, 105.55
+
+69.
+.. unu   kapah    a,\
+this   youth  LNK
+這個  青年  連詞
+
+#a 105.55, None, 106.94
+
+70.
+.. palifet  ku      tayal,\
+serious  NOM   work
+認真  主格    工作
+
+#a 106.94, None, 108.04
+
+71.
+...(0.9) mi-sa-kilang,\
+AF-make-tree
+主焦-做-樹
+
+#a 108.04, None, 110.06
+
+72.
+.. mi-owai,\
+AF-vine
+主焦-藤
+
+#e The youths worked hard in the tribe, logging and picking vines.
+#c 現在只有青年全部都在部落辛勞的工作，砍伐、採藤。。
+#a 110.06, None, 110.79
+
+73.
+... hatira     ku    itiya-ay=ho.\
+that.way  NOM  then-AY=IMPFV
+那樣     主格   那時-AY=未完成
+
+#e That is how the past was.
+#c 過去就是這樣。
+#a 110.79, None, 112.82
+
+74.
+...(0.8) anu  ma-ra’od  kunini     u==,\
+COND  AF-rain   this.NOM  CN
+條件詞  主焦-雨  這個.主格   CN
+
+#a 112.82, None, 115.52
+
+75.
+...(0.7) unini  u==,\
+this   CN
+這個  CN
+
+#a 115.52, None, 117.8
+
+76.
+...(2.5) ka-ilisin-an,\
+KA-harvest.festival-AN
+KA-豐年祭-AN
+
+#a 117.8, None, 121.31
+
+77.
+.. anu     han    aca     i,\
+COND  HAN   PART  DM
+條件詞  HAN   語助詞  DM
+
+#n anu han aca 「如果是」
+#a 121.31, None, 122.3
+#n anu han aca 「如果是」
+
+78.
+...(0.8) roma  sa=tu     pitu    a       romi’ad  ku,\
+next   SA=PFV      seven  LNK   day    NOM
+其次   SA=完成   七    連詞    天     主格
+
+#a 122.3, None, 125.24
+
+79.
+.. la==’oc    nu   finawlan,\
+assemble  GEN  organization
+集合   屬格   組織
+
+#a 125.24, None, 126.84
+
+80.
+... a     mala-lakaw,\
+LNK  become-garbage
+連詞   成為-垃圾
+
+#e When the harvest festival comes, next, the society would assemble for seven days to arrange all the tribal activities.
+#c 如果到了豐年祭的季節，其次，有七天組織會集合，籌備部落一切活動。
+#n ma-la-lakaw泛指部落進行重大活動所需的所有籌備事宜。
+#a 126.84, None, 128.23
+
+81.
+.. mi-sa‘opo     tu,\
+AF-gather   OBL
+主焦-集中     協格
+
+#a 128.23, None, 129.36
+
+82.
+.. datung,\
+piece
+木塊
+
+#a 129.36, None, 130.37
+
+83.
+...(1.0) a==,\
+LNK
+連詞
+
+#a 130.37, None, 132.01
+
+84.
+... mi==-,\
+AF-
+主焦-
+
+#a 132.01, None, 133.66
+
+85.
+.. kilim     tu    mi==,\
+search  OBL  FS
+尋找   斜格  FS
+
+#a 133.66, None, 135.2
+
+86.
+... tu     pa-pacuk-en,\
+OBL   Ca-kill-PF
+斜格   Ca重疊-殺-受焦
+
+#e For example, gathering woods and looking for (pigs) to kill.
+#c 例如：集中薪柴，找尋要殺的（豬）。
+#a 135.2, None, 136.86
+
+87.
+...(2.3) hananay,\
+so.called
+所謂
+
+#a 136.86, None, 139.92
+
+88.
+.. matira     ku     demak  nu==,\
+that.way   NOM   thing   GEN
+那樣     主格    事情    屬格
+
+#a 139.92, None, 142.25
+
+89.
+...(0.8) itini   tu    niyaro’,\
+here   OBL  tribe
+這裡  斜格  部落
+
+#a 142.25, None, 144.3
+
+90.
+.. itiya=ho        saka,\
+then=IMPFV   so
+那時=未完成   如此
+
+#e That’s how the tribe was in the past.
+#c 過去部落的情形就是如此。
+#a 144.3, None, 145.56
+
+91.
+... nu   ma-sarucud    ku     tayal,\
+Q    AF-smooth   NOM   work
+疑問  主焦-平順   主格   工作
+
+#e Why was the work smooth?
+#c 為什麼工作很順利呢？
+#n nu作naw，「為什麼」的意思。
+#a 145.56, None, 147.85
+
+92.
+... nu   ma-sarucud    ku==,\
+Q    AF-smooth   NOM
+疑問  主焦-平順   主格
+
+#a 147.85, None, 149.76
+
+93.
+.. demak   tuya     romi’ad  han.\
+thing    that.OBL  day     HAN
+事情   那個.斜格   天    HAN
+
+#e Why was the thing smooth on that day?
+#c 為什麼事情當天都很順利呢？
+#a 149.76, None, 151.25
+
+94.
+... ira=tu==,\
+EXIST=PFV
+存在=完成
+
+#a 151.25, None, 152.49
+
+95.
+.. kita           ma-<L2TchunpiL2T>  nu,\
+1EPL.NOM    AF-prepare         GEN
+1EPL.主格     主焦-準備        屬格
+
+#e (Because) we had been prepared.
+#c （因為）我們早有準備。
+#a 152.49, None, 153.82
+
+96.
+... hiya     nu==,\
+this.way   GEN
+這樣    屬格
+
+#a 153.82, None, 155.33
+
+97.
+...(0.8) pi==-,\
+PI-
+PI-
+
+#a 155.33, None, 157.08
+
+98.
+.. lekakawa,\
+prepare
+策劃
+
+#a 157.08, None, 157.93
+
+99.
+.. nu==,\
+GEN
+屬格
+
+#a 157.93, None, 158.58
+
+100.
+...(0.9) hiya,\
+this.way
+這樣
+
+#a 158.58, None, 159.84
+
+101.
+.. nu     kakita’an  atu     kapah,\
+GEN  chief     CONJ   youth
+屬格   首領   連接詞  青年
+
+#e The chief and the youths had made proper arrangements.
+#c 部落裡首領和青年們都策劃完善。
+#a 159.84, None, 161.46
+
+102.
+...(0.7) mi-sa‘opo,\
+AF-gather
+主焦-集中
+
+#a 161.46, None, 163.06
+
+103.
+.. tu    ma’a-ma’an  saka,\
+OBL  RED-what  so
+斜格   重疊-什麼  如此
+
+#a 163.06, None, 164.1
+
+104.
+.. sarucud     sa=tu      ku  tayal,\
+smooth   SA=PFV   NOM  work
+平順     SA=完成   主格   工作
+
+#e Everything was arranged so the work was smooth.
+#c 任何事都集中處理，所以工作很順利。
+#a 164.1, None, 165.73
+
+105.
+.. ma-lepun=tu    ku  demak,\
+AF-finish=PFV  NOM  thing
+主焦-結束=完成  主格  事情
+
+#e The thing was done.
+#c 事情就完成了。
+#a 165.73, None, 166.84
+
+106.
+... hatira-ay,\
+that.way-AY
+那樣-AY
+
+#e That’s it.
+#c 事情是這樣的。
+#a 166.84, None, 167.97
+
+107.
+...(0.9) saka,\
+so
+因此
+
+#a 167.97, None, 169.3
+
+108.
+.. pakayni-ay     itini  i==,\
+from.this-AY   here  LOC
+從事-AY      這裡   處格
+
+#a 169.3, None, 171.05
+
+109.
+... demak  nu==,\
+thing   GEN
+事情   屬格
+
+#a 171.05, None, 172.55
+
+110.
+.. ‘amis,\
+Amis
+阿美
+
+#a 172.55, None, 173.21
+
+111.
+... na    ma-fana’-ay     mi-ma’an,\
+Q    AF-know-AY    AF-what
+疑問  主焦-知道-AY  主焦-什麼
+
+#a 173.21, None, 174.76
+
+112.
+.. tunini      u    lising,\
+this.OBL   CN  worship
+這個.斜格  CN  祭拜
+
+#a 174.76, None, 175.68
+
+113.
+.. atu    unini  nu==,\
+CONJ  this  GEN
+連接詞  這個  屬格
+
+#a 175.68, None, 176.83
+
+114.
+... kawas-an  hananay,\
+god-AN   so-called
+神-AN    所謂
+
+#e From Amis matters, how do we know worship and God?
+#c 所以從阿美族的事務裡，我們怎麼知道這個祭祀跟神的這件事？
+#a 176.83, None, 178.28
+
+115.
+... awa-ay       ku    fana’,\
+NEG.EXIST-AY  NOM  know
+否定.存在-AY    主格   知道
+
+#a 178.28, None, 179.75
+
+116.
+...(0.9) unu    ma-tu’as-ay,\
+this    AF-old-AY
+這個   主焦-老-AY
+
+#a 179.75, None, 181.64
+
+117.
+.. a      kawas.\
+LNK   god
+連詞   神
+
+#e We know nothing about the ancestors’ God.
+#c 我們一點都不知，這個祖先的神。
+#a 181.64, None, 182.42
+
+118.
+...(1.2) pa  pakayni    sa’an  itini     i==,\
+FS  from.this     said.so   here  LOC
+FS    從事      如此說  這裏  處格
+
+#a 182.42, None, 185.52
+
+119.
+.. pi-edaw,\
+PI-spell
+PI-法術
+
+#a 185.52, None, 186.17
+
+120.
+.. pakayni   sa’an  itini  i==,\
+from.this  said.so   here  LOC
+從事      如此說   這裡  處格
+
+#a 186.17, None, 187.79
+
+121.
+...(0.8) pi==,\
+FS
+FS
+
+#a 187.79, None, 189.71
+
+122.
+...(1.4) hay  pi-edaw    ku==,\
+yes  PI-spell    NOM
+是   PI-法術   主格
+
+#a 189.71, None, 192.59
+
+123.
+... tudung     nu,\
+in.charge   GEN
+負責      屬格
+
+#a 192.59, None, 193.78
+
+124.
+.. pi-sa-tapang-an    a,\
+PI-make-start-AN  LNK
+PI-做-開始-AN    連詞
+
+#a 193.78, None, 195.48
+
+125.
+...(0.8) a==,\
+LNK
+連詞
+
+#a 195.48, None, 197.03
+
+126.
+.. mala-lakaw      tu     sa-pi-sa-lisin.\
+become-garbage  OBL   IF-PI-make-worship
+成為-垃圾      斜格   工焦-PI-做-祭拜
+
+#e The ritual (by the wizard) means the start of the preparation for worship and other relevant activities.
+#c 只有從（這巫師）作法事可看出，就代表開始籌備祭祀的種種事務。
+#a 197.03, None, 198.85
+
+127.
+...(0.9) anu      sa-sa-lisin-en,\
+COND   Ca-make-worship-PF
+條件詞   Ca重疊-做-祭拜-受焦
+
+#a 198.85, None, 201.41
+
+128.
+... ca’ay   ka-‘ca    ka==,\
+NEG   KA-NEG  KA
+否定   KA-否定  KA
+
+#a 201.41, None, 203.3
+
+129.
+... e==,\
+FIL
+FIL
+
+#a 203.3, None, 204.62
+
+130.
+...(1.4) e==,\
+FIL
+FIL
+
+#a 204.62, None, 206.59
+
+131.
+... ma-‘emin=tu       a,\
+AF-all=PFV       LNK
+主焦-全部=完成   連詞
+
+#a 206.59, None, 208.0
+
+132.
+.. ma-sa==,\
+AF-FS
+主焦-FS
+
+#a 208.0, None, 208.84
+
+133.
+.. naka   mala-ccay     ku==,\
+NAKA   become-one   NOM
+NAKA  成為-一      主格
+
+#a 208.84, None, 210.14
+
+134.
+.. ngasaw,\
+clan
+氏族
+
+#e During the worship, all the clans would be united.
+#c 如果要做祭拜儀式，各氏族（的成員）絕對不會不團結。
+#a 210.14, None, 210.82
+
+135.
+...(0.8) u ngasaw sa’an,\
+CN clan said.so
+CN 氏族 如此說
+
+#a 210.82, None, 212.6
+
+136.
+.. adihay    ku    ngasaw  nu  ciwkangan,\
+many  NOM   clan  GEN   Ciwkangan
+很多  主格  氏族   屬格  長光
+
+#a 212.6, None, 214.37
+
+137.
+.. hananay,\
+so.called
+所謂
+
+#e There are many clans in Ciwkangan.
+#c 氏族呢，長光部落很多氏族，這樣子。
+#a 214.37, None, 214.93
+
+138.
+... sa  ngasa-ngasa-ngasaw=itu     ku     pi-sa-lisin,\
+SA  RED-RED-clan=PFV     NOM  PI-make-service
+SA   重疊-重疊-氏族=完成    主格    PI-做-祭拜
+
+#e Each clan would worship.
+#c 各氏族都各自祭拜了。
+#a 214.93, None, 218.27
+
+139.
+...(0.8) sa   matira-ay     saka.\
+SA   that.way-AY  so
+SA   那樣-AY    因此
+
+#e That’s it.
+#c 所以就是這樣子的。
+#a 218.27, None, 220.27
+
+140.
+...(0.8) pa==,\
+FS
+FS
+
+#a 220.27, None, 222.14
+
+141.
+.. matini     sa=tu      haw    i,\
+this.way   SA=PFV  HAW  DM
+那樣      SA=完成   HAW  DM
+
+#a 222.14, None, 223.34
+
+142.
+... anu     ira      ku      adada-ay,\
+COND  EXIST   NOM     sick-AY
+條件詞  存在    主格    生病-AY
+
+#a 223.34, None, 225.09
+
+143.
+... anu     u    pa-pa-kawas-en,\
+COND  CN  Ca-CAU-god-PF
+條件詞  CN  Ca重疊-使役-神-受焦
+
+#a 225.09, None, 227.0
+
+144.
+... ca’ay   ka-,\
+NEG   KA-
+否定   KA-
+
+#a 227.0, None, 228.1
+
+145.
+.. ‘ca     ka,\
+NEG  KA
+否定  KA
+
+#a 228.1, None, 228.9
+
+146.
+... mi-pacuk  tu==,\
+AF-kill   OBL
+主焦-殺  斜格
+
+#a 228.9, None, 230.65
+
+147.
+.. fafuy,\
+pig
+豬
+
+#a 230.65, None, 231.32
+
+148.
+... ta      pa-ka’en    tu     kawas,\
+then    CAU-eat   OBL   god
+然後   使役-吃    斜格  神
+
+#a 231.32, None, 233.08
+
+149.
+.. a      mi-sa-lisin,\
+LNK   AF-make-worship
+連詞    主焦-做-祭拜
+
+#e Now, if someone is sick and is to be cast a spell on, people would kill pigs to worship God.
+#c 現在呢，如果有人生病而即將要被施法，絕對不會不殺豬，供奉神明。
+#a 233.08, None, 234.09
+
+150.
+...(0.8) u    matira-ay  saka.\
+CN   that.way-AY  so
+CN   那樣-AY   如此
+
+#e That’s it.
+#c 是這樣子的。
+#a 234.09, None, 236.13
+
+151.
+... anu     ira      ku      adada-ay      haw   i,\
+COND  EXIST   NOM  sick-AY    HAW  DM
+條件詞  存在    主格   生病-AY  HAW  DM
+
+#a 236.13, None, 238.36
+
+152.
+... ira-ay      ku     ci-kawas-ay  nu,\
+EXIST-AY  NOM   get-god-AY   GEN
+存在-AY   主格    得到-神-AY  屬格
+
+#a 238.36, None, 240.28
+
+153.
+.. ciwkangan,\
+Ciwkangan
+長光
+
+#e If someone is sick, there are wizards in Ciwkangan.
+#c 如果有人生病，長光部落有巫師。
+#a 240.28, None, 241.12
+
+154.
+...(0.8) ura   sa’an   nura    ciwkangan  hananay==,\
+that   said.so   that.GEN    Ciwkangan  so-called
+那個  如此說   那個.屬格   長光        所謂
+
+#a 241.12, None, 244.0
+
+155.
+... ma-edeng       a==,\
+AF-enough     LNK
+主焦-足夠    連詞
+
+#a 244.0, None, 245.22
+
+156.
+.. ira   ku==,\
+EXIST  NOM
+存在   主格
+
+#a 245.22, None, 246.36
+
+157.
+... ma-mu<te’>tep,\
+Ca-<RED>十
+Ca重疊-<重疊>十
+
+#a 246.36, None, 247.7
+
+158.
+...(0.8) kiya    ku==,\
+that.NOM   NOM
+那個.主格  主格
+
+#a 247.7, None, 249.6
+
+159.
+.. tudung    nu    ci-kawas-ay  nu     niyaro’,\
+in.charge  GEN  get-god-AY   GEN   tribe
+負責     屬格   得到-神-AY  屬格   部落
+
+#e In Ciwkangan, there are more than ten wizards who are in charge of tribal matters.
+#c 這個長光部落呢，有十幾位巫師，負責部落的事務。
+#a 249.6, None, 251.82
+
+160.
+... anu     ira     ku     adada-ay,\
+COND  EXIST  NOM  many-AY
+條件詞  存在   主格   很多-AY
+
+#a 251.82, None, 253.39
+
+161.
+.. ma-tahidang,\
+PF-invite
+受焦-邀請
+
+#a 253.39, None, 254.2
+
+162.
+... ma-sayil,\
+PF-spell
+受焦-法術
+
+#e If someone is sick, he would be invited and a spell would be cast on him/her..
+#c 如果有人生病，就被邀請去被施法。
+#a 254.2, None, 255.66
+
+163.
+... mapa==,\
+FS
+FS
+
+#a 255.66, None, 257.33
+
+164.
+... (THROAT)
+.
+.
+
+#a 257.33, None, 258.18
+
+165.
+... hay  mi==-,\
+yes  AF-
+是   主焦-
+
+#a 258.18, None, 259.52
+
+166.
+.. sayil    ta,\
+spell   then
+法術  然後
+
+#e To cast a spell.
+#c 作法。
+#a 259.52, None, 260.42
+
+167.
+... anu      ma-nga’ay,\
+COND   AF-good
+條件詞   主焦-好
+
+#a 260.42, None, 261.96
+
+168.
+.. ma-nga’ay.\
+AF-good
+主焦-好
+
+#e If s/he can be cured, s/he would recover.
+#c 如果能（治）好，會好。
+#a 261.96, None, 262.43
+
+169.
+.. anu     ma-lemed,\
+COND  AF-lucky
+條件詞  主焦-好運
+
+#a 262.43, None, 263.15
+
+170.
+.. ma-lemed.\
+AF-lucky
+主焦-好運
+
+#e If s/he is lucky, s/he is lucky.
+#c 運氣來的時候，運氣就好。
+#a 263.15, None, 263.57
+
+171.
+.. sanay     ku      nu,\
+so.called   NOM  GEN
+所謂    主格    屬格
+
+#a 263.57, None, 264.4
+
+172.
+... ma-tu’as-ay=ho,\
+AF-old-AY=IMPFV
+主焦-老-AY=未完成
+
+#e The ancestors were like this.
+#c 過去的祖先是這樣子的。
+#a 264.4, None, 265.77
+
+173.
+... u    ising   hananay,\
+CN  worship  so.called
+CN  祭拜   所謂
+
+#a 265.77, None, 267.38
+
+174.
+.. awa         ku    pa-ising-ay,\
+NEG.EXIST  NOM  CAU-worship-AY
+否定.存在   主格   使役-祭拜-AY
+
+#a 267.38, None, 268.5
+
+175.
+.. itiya=ho.\
+then=IMPFV
+然後=未完成
+
+#e None would consult a doctor in the past.
+#c 至於醫生呢，過去都沒有人給醫生看。
+#a 268.5, None, 269.17
+
+176.
+... sahtu  tu    pi-sa^yil,\
+all    OBL  PI-spell
+全部  斜格  PI-法術
+
+#e All depend on spells.
+#c 全部都靠施法。
+#a 269.17, None, 271.97
+
+177.
+... u    pi-pa==,\
+CN  PI-FS
+CN  PI-FS
+
+#a 271.97, None, 273.5
+
+178.
+.. a     (THROAT),\
+LNK    .
+連詞   .
+
+#a 273.5, None, 274.09
+
+179.
+... mi==,\
+FS
+FS
+
+#a 274.09, None, 275.51
+
+180.
+...(0.7) mala-ccay    ku    ngasaw,\
+become-one  NOM  clan
+成為-一     主格   氏族
+
+#e All the clans were united.
+#c 各氏族團結一致。
+#a 275.51, None, 278.6
+
+181.
+... a==,\
+LNK
+連詞
+
+#a 278.6, None, 280.07
+
+182.
+... mala-ccay     ku    pakayni-ay  itini    i==,\
+become-one  NOM  from.this-AY  here  LOC
+成為-一    主格   從事-AY    這裡   處格
+
+#a 280.07, None, 282.45
+
+183.
+...(0.9) sa-lising      hananay,\
+make-worship  so.called
+做-祭拜      所謂
+
+#e From the so-called worship, (they were) united.
+#c 從每個儀式都是一樣的。
+#a 282.45, None, 284.72
+
+184.
+... matira-ay,\
+that.way-AY
+那樣-AY
+
+#e That’s it.
+#c 是那樣。
+#a 284.72, None, 285.87
+
+185.
+... u    roma  sa=tu     haw   i,\
+CN  next   SA=PFV  HAW   DM
+CN  其次  SA=完成   HAW  DM
+
+#a 285.87, None, 288.12
+
+186.
+...(1.7) anini  sa   ma-kedal    ku,\
+now  SA   AF-drought  NOM
+現在  SA   主焦-乾旱  主格
+
+#a 288.12, None, 291.46
+
+187.
+.. kaliwmahan      awa         ku    orad,\
+cultivation.season  NEG.EXIST  NOM   rain
+農忙時期    否定.存在   主格   雨
+
+#e Next, it is cultivation season now. There is a drought; it doens’t rain.
+#c 其次呢，現在農忙時期，非常乾旱，沒有下雨。
+#a 291.46, None, 293.4
+
+188.
+...(0.7) l<um>uwad    ku      finawlan,\
+<AF>wake.up  NOM   organization
+<主焦>起身   主格     組織
+
+#e The society would be mobilized.
+#c 部落大動員。
+#n l<um>awad 表「起身」。
+#a 293.4, None, 295.4
+
+189.
+...(0.7) pa-la’oc      kunini     u      kakita’an,\
+CAU-assemble    this.NOM  CN     chief
+使役-集合    這個.主格   CN   首領
+
+#e The chiefs (of the clans) would assemble.
+#c 集合(氏族的)首領。
+#a 295.4, None, 298.13
+
+190.
+... uni  sa’an   una==,\
+this  said.so  that
+這個  如此說  那個
+
+#a 298.13, None, 300.21
+
+191.
+... kapah,\
+youth
+青年
+
+#a 300.21, None, 301.37
+
+192.
+.. u     tuluc  haw    i,\
+CN   top   HAW   DM
+CN   頂端  HAW   DM
+
+#a 301.37, None, 302.4
+
+193.
+... tayni   i==,\
+come  LOC
+來   處格
+
+#a 302.4, None, 304.24
+
+194.
+.. sacpo’,\
+Xiuguluan.river
+秀姑巒溪
+
+#a 304.24, None, 305.39
+
+195.
+... itini  i      makuta’ay,\
+here  LOC  PN
+這裡  處格  地名
+
+#a 305.39, None, 307.01
+
+196.
+.. tiya      tefun  nu    fulad  hananay,\
+that.OBL  well  GEN  moon  so.called
+那個.斜格  井  屬格   月    所謂
+
+#e The youths would come to Xiuguluan River, here at Makuta’ay, the so-called Moon Well.
+#c 年齡層最低的青少年（們）來秀姑巒溪，在大港口這裡，那個月洞（月井）。
+#a 307.01, None, 308.51
+
+197.
+... i      la’enu’,\
+LOC  beneath
+處格   下面
+
+#a 308.51, None, 310.15
+
+198.
+...(0.7) tiya   tefun  nu  fulad,\
+that.OBL  well  GEN  moon
+那個.斜格  井   屬格  月
+
+#a 310.15, None, 311.96
+
+199.
+.. hananay,\
+so.called
+所謂
+
+#a 311.96, None, 312.67
+
+200.
+... uranan  ku     saka==,\
+that    NOM   so
+那個    主格  因此
+
+#a 312.67, None, 314.64
+
+201.
+... pi-pa-ka-orad,\
+PI-CAU-KA-rain
+PI-使役-KA-雨
+
+#e There is the so-called Moon Well below; (so we) pray for rain there.
+#c 在下面，有那個所謂的月洞，所以從那個月洞來祈雨。
+#a 314.64, None, 316.0
+
+202.
+... anu     ma-ma-lemed,\
+COND  Ca-AF-lucky
+條件詞  Ca重疊-主焦-好運
+
+#a 316.0, None, 317.51
+
+203.
+.. ma-ma-orad,\
+Ca-AF-rain
+Ca重疊-主焦-雨
+
+#a 317.51, None, 318.32
+
+204.
+.. ma-orad.\
+AF-rain
+主焦-雨
+
+#e If they were lucky, it would rain.
+#c 如果運氣好，要下雨的話，就會下雨。
+#a 318.32, None, 318.99
+
+205.
+... hatira      ku    nu,\
+that.way  NOM  GEN
+那樣     主格   屬格
+
+#a 318.99, None, 320.42
+
+206.
+... itiya-ay=ho,\
+then-AY=IMPFV
+那時-AY=未完成
+
+#e The past is like this.
+#c 過去是這樣子的。
+#a 320.42, None, 321.69
+
+207.
+...(0.7) sa  anu  adihay    ku     adada-ay,\
+SA  COND  AF.many  NOM  AF.sick-AY
+SA  條件詞  主焦.很多  主格  主焦.病-AY
+
+#a 321.69, None, 324.43
+
+208.
+.. nu  niyaro’,\
+GEN  tribe
+屬格   部落
+
+#a 324.43, None, 325.14
+
+209.
+...(0.7) u==,\
+CN
+CN
+
+#a 325.14, None, 326.76
+
+210.
+.. ma-lalisan-ay,\
+AF-fever-AY
+主焦-發燒-AY
+
+#a 326.76, None, 327.8
+
+211.
+... ma-sa-ma-ma’an-ay,\
+AF-make-RED-what-AY
+主焦-做-重疊-什麼-AY
+
+#a 327.8, None, 329.37
+
+212.
+.. a      adada     haw  i,\
+LNK   sick   HAW  DM
+連詞   病    HAW  DM
+
+#a 329.37, None, 330.65
+
+213.
+...(0.8) e,\
+FIL
+FIL
+
+#a 330.65, None, 331.95
+
+214.
+... ma-lekal=tu       ku==,\
+PF-call=PFV      NOM
+受焦-呼叫=完成   主格
+
+#a 331.95, None, 333.5
+
+215.
+.. mama  nu      kapah,\
+father   GEN   youth
+父親   屬格   青年
+
+#e If many people in the tribe were sick or had a fever, or any disease, the fathers of the youths would be called.
+#c 如果部落有很多人生病，發燒感冒的，任何疾病，青年之父這輩就被招喚。
+#a 333.5, None, 334.4
+
+216.
+...(0.8) mi==-,\
+AF-
+主焦-
+
+#a 334.4, None, 336.0
+
+217.
+.. sa-lifun        kita         anini,\
+make-plague   1EPL.NOM   now
+做-瘟疫     1EPL.主格    現在
+
+#a 336.0, None, 337.13
+
+218.
+.. sa.\
+SA
+SA
+
+#e We carried out epidemic prevention.
+#c 我們現在實施防疫。
+#n 防疫也是透過「驅魔」的儀式達成。
+#a 337.13, None, 337.58
+
+219.
+...(0.9) u   kapah  sa=tu     haw     i,\
+CN   youth  SA=PFV  HAW   DM
+CN   青年   SA=完成  HAW   DM
+
+#a 337.58, None, 340.01
+
+220.
+.. mi-lidafak        mi-ala    tu==,\
+AF-morning.duty   AF-take  OBL
+主焦-晨間工作    主焦-拿  斜格
+
+#a 340.01, None, 341.78
+
+221.
+... e==,\
+FIL
+FIL
+
+#a 341.78, None, 342.9
+
+222.
+.. oway,\
+vine
+藤
+
+#e The youths picked vines before breakfast.
+#c 年輕一輩呢，早飯前去摘藤。
+#n mi-lidafak特別指「早飯前」的工作。
+#a 342.9, None, 343.48
+
+223.
+...(0.7) u    sa-pa==luwi’   tiraw    i==,\
+CN  make-tie.and.haul        there   LOC
+CN  做-綁著托運    那裡   處格
+
+#a 343.48, None, 346.99
+
+224.
+.. lawac     nu   lalan,\
+side      GEN  road
+邊      屬格  路
+
+#a 346.99, None, 348.01
+
+225.
+...(0.8) u==,\
+CN
+CN
+
+#a 348.01, None, 349.7
+
+226.
+.. kapah  tu   safa-safa           haw    i,\
+youth  OBL  RED-younger.sibling  HAW  DM
+青年  斜格  重疊-弟妹       HAW  DM
+
+#a 349.7, None, 351.4
+
+227.
+.. mi-ala  tuya   aledu.\
+AF-take  that.OBL   some.plant
+主焦-拿  那個.斜格   某種植物
+
+#e The youths picked Aledu (some kind of plant).
+#c 年齡層最小的青年去摘aledu（某植物）。
+#a 351.4, None, 352.54
+
+228.
+...(0.7) e==,\
+FIL
+FIL
+
+#a 352.54, None, 353.87
+
+229.
+... ma-harek  a     ma-ranam,\
+AF-finish  LNK  AF-breakfast
+主焦-結束  連詞  主焦-早餐
+
+#a 353.87, None, 356.05
+
+230.
+...(0.9) ma-sa’opo=itu,\
+AF-gather=PFV
+主焦-集合=完成
+
+#e They gathered after breakfast.
+#c 早餐後就集合了。
+#a 356.05, None, 358.06
+
+231.
+... uya  i,\
+that  DM
+那個  DM
+
+#a 358.06, None, 359.3
+
+232.
+.. cu==ruk-han  ku   luma’  a,\
+circuit-HAN  NOM  house  LNK
+巡迴-HAN  主格   房子  連詞
+
+#a 359.3, None, 361.29
+
+233.
+.. mi-sitatatata,\
+AF-spell
+主焦-施法
+
+#e Spells were casting from door to door.
+#c 那個呢，挨家挨戶的作法。
+#n sitatatata指的是施法時唸咒的狀聲詞。
+#a 361.29, None, 362.59
+
+234.
+... a     mi-tiyati’    tu  luma-luma’,\
+LNK  AF-rod    OBL  RED-house
+連詞  主焦-棍子  斜格  重疊-房子
+
+#a 362.59, None, 364.63
+
+235.
+.. ci’i-ci’iw  nu  luma’,\
+RED-corner  GEN  house
+重疊-角落   屬格  房子  
+
+#e The corners of every house were tapped.
+#c 拍打每家每戶的牆角。
+#a 364.63, None, 365.88
+
+236.
+... a      mi==-,\
+LNK   AF-
+連詞   主焦-
+
+#a 365.88, None, 367.04
+
+237.
+.. ku’ku’  tuya     palafu-ay,\
+expel  that.OBL  demon-AY
+驅除  那個.斜格  惡魔-AY
+
+#a 367.04, None, 368.4
+
+238.
+.. tiya   <L2JakumaL2J>   hananay.\
+that.OBL  demon    so.called
+那個.斜格   惡魔     所謂
+
+#e To expel the demons, the so-called ‘akuma’.
+#c 趕走那些惡魔，也就是日本所說的akuma這樣。
+#a 368.4, None, 369.52
+
+239.
+... hatira-ay     ku==,\
+that.way-AY  NOM 
+那樣-AY    主格
+
+#a 369.52, None, 371.25
+
+240.
+.. nu     ma-tu’as-ay  mi-ku’ku’  tu,\
+GEN  AF-old-AY  AF-expel  OBL
+屬格  主焦-老-AY  主焦-驅除  斜格
+
+#a 371.25, None, 373.23
+
+241.
+... lifun    a     mi-sa-lifun  XX,\
+plague  LNK  AF-make-plague  XX
+瘟疫   連詞   主焦-做-瘟疫   XX
+
+#e That is how the ancestors expeled the demons.
+#c 如此，祖先過去驅魔。
+#a 373.23, None, 375.44
+
+242.
+... hatira-ay   sa,\
+that.way-AY  SA
+那樣-AY    SA
+
+#e That’s it.
+#c 就是那樣。
+#a 375.44, None, 376.88
+
+243.
+...(0.9) u     pakayni-ay    itini  i==,\
+CN   from.this-AY  here    LOC
+CN   從事-AY      這裡  處格
+
+#a 376.88, None, 379.79
+
+244.
+... kala-lakaw,\
+KALA-garbage
+KALA-垃圾
+
+#a 379.79, None, 380.92
+
+245.
+.. hananay  nu==,\
+so.called  GEN
+所謂    屬格
+
+#a 380.92, None, 382.09
+
+246.
+.. ma-tu’as-ay  turu,\
+AF-old-AY  TURU
+主焦-老-AY  TURU
+
+#a 382.09, None, 383.14
+
+247.
+.. mi-sa-luma’  sanay  <L2JwaL2J>,\
+AF-make-house  so.called  DM
+主焦-做-房子   所謂   DM
+
+#e As for what the elders mean by ‘kalalakw’ is to build houses.
+#c 過去老人家所說的kalalakaw就是蓋房子（「分家」）之意。
+#a 383.14, None, 384.86
+
+248.
+... ma-emin=tu  u  kapah,\
+AF-all=PFV  CN  youth
+主焦-全部=完成  CN  青年
+
+#a 384.86, None, 387.68
+
+249.
+.. ku==,\
+NOM
+主格
+
+#a 387.68, None, 388.06
+
+250.
+.. tahira  i    mama  nu  kapah,\
+till  LOC  father  GEN  youth
+到  處格  父親  屬格  青年
+
+#a 388.06, None, 389.23
+
+251.
+.. ku,\
+NOM
+主格
+
+#a 389.23, None, 389.63
+
+252.
+... ci-tudung-ay  a  mi-,\
+get-in.charge-AY  LNK  AF-
+得-負責-AY  連詞  主焦-
+
+#e All the things were taken care of by the youths and their fathers.
+#c 全部由青年輩到青年之父（部落組織）負責。
+#n 年齡層涵蓋14~42歲。
+#a 389.63, None, 391.62
+
+253.
+... e==,\
+FIL
+FIL
+
+#a 391.62, None, 393.02
+
+254.
+... harateng=tu  saka,\
+think=PFV   so
+想=完成   因此
+
+#a 393.02, None, 394.68
+
+255.
+.. ci-luma’  nu,\
+get-house  GEN
+得-房子  屬格
+
+#a 394.68, None, 395.66
+
+256.
+.. ca-ci-luma’,\
+Ca-get-house
+Ca重疊-得-房子
+
+#e Planning the houses for those would like to divide up family property.
+#c 計畫分家的人所住的房子。
+#a 395.66, None, 396.78
+
+257.
+... anu  pa-pa-oway,\
+COND  Ca-CAU-vine
+條件詞  Ca重疊-使役-藤
+
+#a 396.78, None, 398.39
+
+258.
+.. mi-oway  anini  l<um>uwad,\
+AF-vine    today  <AF>get.up
+主焦-藤  今天  <主焦>起身
+
+#a 398.39, None, 399.75
+
+259.
+.. mi-lafin  itini  i,\
+AF-stay.overnight  here  LOC
+主焦-過夜  這裡  處格
+
+#a 399.75, None, 400.84
+
+260.
+.. cifutingay,\
+PN
+地名
+
+#e If people want to pick vines, they have to set out today and stay overnight at Cifutingay.
+#c 如果要摘藤，今天就要出發，在水姆丁過夜。
+#a 400.84, None, 401.64
+
+261.
+...(1.0) ta-tusa,\
+Ca-two
+Ca重疊-二
+
+#a 401.64, None, 403.48
+
+262.
+.. saka-tusa     a     rumi’ad,\
+ordinal-two   LNK  day
+序數-二   連詞   天
+
+#a 403.48, None, 404.72
+
+263.
+.. mi-nukay=tu.\
+AF-come.back=PFV
+主焦-回來=完成 
+
+#e They came back on the second day.
+#c 第二天就回來了。
+#n ta-tusa在此為誤用。
+#a 404.72, None, 405.58
+
+264.
+... si-oway-en  nu    ma-tu’as-ay,\
+SI-vine-PF   GEN  AF-old-AY
+SI-藤-受焦  屬格  主焦-老-AY
+
+#e The elders then processed the vines.
+#c 老人家把藤加工。
+#a 405.58, None, 407.28
+
+265.
+...(0.9) ta  ma-lepun,\
+then  AF-finish
+然後  主焦-結束
+
+#a 407.28, None, 409.27
+
+266.
+... kurira      i     haw,\
+that.NOM  DM   HAW
+那個.主格  DM   HAW
+
+#a 409.27, None, 410.98
+
+267.
+... ma-edeng=tu  mi-sa-luma’,\
+AF-enough=PFV  AF-make-house
+主焦-足夠=完成  主焦-做-房子
+
+#a 410.98, None, 412.76
+
+268.
+... sa-luma’=tu,\
+make-house=PFV
+做-房子=完成
+
+#e After it was done, it is sufficient to build a house, (so they) built a house.
+#c 加工完之後，足夠蓋房子，就蓋房子了。
+#a 412.76, None, 414.05
+
+269.
+... u    kapah,\
+CN  youth
+CN  青年
+
+#a 414.05, None, 415.22
+
+270.
+.. u  finawlan  ku,\
+CN  organization  NOM
+CN   組織   主格
+
+#a 415.22, None, 416.5
+
+271.
+... mi-sa-luma’-ay  tu  luma’,\
+AF-make-house-AY  OBL  house
+主焦-做-房子-AY  斜格  房子
+
+#a 416.5, None, 418.1
+
+272.
+.. pakayni-ay  itini  i,\
+from.this-AY  here  LOC
+從事-AY  這裡  處格
+
+#a 418.1, None, 419.15
+
+273.
+... XX   hananay  pa-tiren     tu  luma’,\
+XX    so.called  CAU-stand  OBL   house
+XX    所謂     使役-站立  斜格   房子
+
+#e The youths built houses.
+#c 由部落青年從事蓋房子的任務。
+#a 419.15, None, 421.4
+
+274.
+... ca’ay  ka-teked-han  nu  luma’,\
+NEG  KA-alone-HAN.PF  GEN  house
+否定  KA-獨自-HAN.受焦  屬格 房子
+
+#a 421.4, None, 423.43
+
+275.
+.. ku  pa-tiren  tu  luma’.\
+NOM  CAU-stand  OBL  house
+主格  使役-站立  斜格  房子
+
+#e People would not build houses on their own.
+#c 不會私自蓋自己的房子。
+#a 423.43, None, 424.65
+
+276.
+... hatira  ku  itiya-ay=ho,\
+that.way  NOM  here-AY=IMPFV
+那樣   主格  這裡-AY=未完成
+
+#a 424.65, None, 427.01
+
+277.
+... a     ma-pada-padang,\
+LNK  AF-RED-help
+連詞  主焦-重疊-幫忙
+
+#a 427.01, None, 428.98
+
+278.
+... matira    ku  nu==,\
+that.way  NOM  GEN
+那樣    主格   屬格
+
+#a 428.98, None, 430.3
+
+279.
+.. ma-tu’as-ay=ho,\
+AF-old-AY=IMPFV
+主焦-老-AY=未完成
+
+#a 430.3, None, 431.55
+
+280.
+... mi-sa-luma’  sa,\
+AF-make-house  SA
+主焦-做-房子   SA
+
+#e In the past, when building houses, people helped each other like this.
+#c 過去是這樣，在蓋房子的時候，互相幫忙。
+#a 431.55, None, 433.0
+
+281.
+...(0.7) u  hatini  sa=tu  haw   i    u  roma=tu  ku,\
+CN  this.way  SA=PFV  HAW  DM  CN  next=PFV  NOM
+CN  這樣   SA=完成   HAW  DM  CN  其次=完成  主格
+
+#a 433.0, None, 436.04
+
+282.
+.. <L2MshidayL2M>  anini.\
+era    now
+時代   現在
+
+#e It is different now.
+#c 在現在來說現在的時代大大的不同了。
+#a 436.04, None, 436.99
+
+283.
+... ma-emin=tu  unu==,\
+AF-all=PFV  this
+主焦-全部=完成  這個
+
+#a 436.99, None, 438.86
+
+284.
+... payci-an,\
+money-AN
+錢-AN
+
+#e Everything depends on money now.
+#c 全部都是用錢。
+#a 438.86, None, 440.19
+
+285.
+... ura  ku     saka  sa’an,\
+that  NOM  so   said.so
+那個  主格  因此  如此說
+
+#a 440.19, None, 441.85
+
+286.
+.. hati==ra   aca     ku    maku  a,\
+that.way  PART   NOM  1SG.POSS  LNK
+那樣   語助詞  主格  1SG.所有格  連詞
+
+#a 441.85, None, 443.13
+
+287.
+... pa-ka-fana’    tu     nu,\
+CAU-KA-know  OBL  GEN
+使役-KA-知道  斜格  屬格
+
+#a 443.13, None, 444.56
+
+288.
+.. tu‘as=ho     a     demak,\
+old=IMPFV  LNK  thing
+過去=未完成  連詞  事情
+
+#e That is what I want to say about the past.
+#c 我所要敘述的過去事務就是那樣。
+#a 444.56, None, 445.7
+
+289.
+... hatira    aca    ku  suwal  aku  kira.\
+that.way  PART  NOM  speech  1SG.GEN  that.NOM
+那樣   語助詞  主格  話   1SG.屬格  那個.主格
+
+#e That is what I want to say.
+#c 這就是我所要講的。
+#a 445.7, None, 447.34

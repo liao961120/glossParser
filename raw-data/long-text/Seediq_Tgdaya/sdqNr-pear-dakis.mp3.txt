@@ -1,0 +1,1933 @@
+topic: pear
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 郭明正, Dakis Pawan, male, 1953-02-24
+collected: 1996-10-19
+revised: None
+video: sdqNr-pear-dakis.mp3
+
+1.
+... mhm.\
+FIL
+FIL
+
+#a 1.33, None, 1.85
+
+2.
+...(0.7) niq-an kingan ah==,\
+be.at-LF one FIL
+在-處焦 一個 FIL
+
+#a 1.85, None, 3.54
+
+3.
+.. rudan ha,_
+elderly PART
+長者 語助詞
+
+#e there is an old man.
+#c 有一個老人，
+#a 3.54, None, 4.38
+
+4.
+.. maanu di,\
+what PFV.PART
+什麼 完成.語助詞
+
+#a 4.38, None, 5.29
+
+5.
+(0.9) m-hada ciida==,\
+AF-mature at.that.time
+主焦-成熟 當時
+
+6.
+.. hei na qhuni.\
+fruit GEN tree
+果子 屬格 樹
+
+#e when the fruit ripe
+#c 水果成熟的時候。
+#a 7.42, None, 8.31
+
+7.
+.. yaani kla-an=na==, 
+probably know-LF=3SG.GEN
+可能 知道-處焦=3SG.屬格
+
+#a 8.31, None, 9.71
+
+8.
+.. quti.rodux uri ah so hari.\
+guava also FIL be.like a.little
+芭樂 也 FIL 像 一點
+
+#a 9.71, None, 11.5
+
+9.
+.. so hari quti.rodux qta-an.\
+be.like a.little guava see-LF
+像 一點 芭樂 看-處焦
+
+#a 11.5, None, 12.88
+
+10.
+.. te-- kla-an so mhm,\
+FIL know-LF be.like FIL
+FIL 知道-處焦 像FIL
+
+#a 12.88, None, 14.41
+
+11.
+.. <L2JnasiL2J> uri ini kla-i.\
+pear also NEG know-PF.IRR
+梨子 也 否定 知道-受焦.非實現
+
+#e probably it is guava or pear.
+#c 可能是芭樂或是梨子。
+#n IU10 quti 'dung 糞', rodux 'rooster 雞'
+#a 14.41, None, 15.97
+
+12.
+... ma qhuni=na, 
+then tree=3SG.GEN 
+然後 樹=3SG.屬格
+
+#a 15.97, None, 17.39
+
+13.
+.. paru ha.\
+AF.big PART
+主焦.大 語助詞
+
+#e the fruits are big.
+#c 水果很大。
+#a 17.39, None, 18.29
+
+14.
+.. tkhako m-usa== l<m>amu ka rudan nii.\
+AF.climb.ladder AF-go <AF>pick NOM elderly this
+主焦.爬梯子 主焦-去 <主焦>採 主格 長者 這個
+
+#e the old man goes up ladder and he picks fruits.
+#c 老人走上梯子去採收。
+#a 18.29, None, 20.43
+
+15.
+... eh== rudan ni we,_
+FIL elderly this PART
+FIL 長者 這個 語助詞
+
+#a 20.43, None, 22.24
+
+16.
+... m-adis a== rawa psa-an=na== hei qhuni.\
+AF-carry FIL basket put-LF=3SG.GEN fruit tree 
+主焦-帶-FIL 籃子 放-處焦=3SG.屬格 果子 樹
+
+#e That old man carries baskets to put fruits.
+#c 那個老人帶藍子放水果。
+#a 22.24, None, 25.43
+
+17.
+...(0.8) ma== m-adis hako.\
+then AF-carry ladder
+然後 主格-帶 梯子
+
+#e And also (he) carries a ladder.
+#c （他）還帶梯子。
+#a 25.43, None, 27.38
+
+18.
+... ma==,\
+then
+然後
+
+#a 27.38, None, 28.42
+
+19.
+...(0.7) paru ka.\
+AF.big NOM
+主焦.大 主格
+
+#a 28.42, None, 29.96
+
+20.
+...(0.8) paru ka==,\
+AF.big NOM
+主焦.大 主格
+
+#a 29.96, None, 31.55
+
+21.
+... ah==,\
+FIL
+FIL
+
+#a 31.55, None, 32.87
+
+22.
+...(1.4) qhuni kii bubu=na qhuni ha,\
+tree that mother=3SG.GEN tree PART
+樹 那個 母親=3SG.屬格 樹 語助詞
+
+#e the mother tree is big
+#c 那棵樹很大，
+#a 32.87, None, 35.97
+
+23.
+.. ini dehe-- eh== hei=na we==,\
+NEG FS FIL tree=3SG.GEN PART
+否定 FS FIL 樹=3SG.屬格 語助詞
+
+#a 35.97, None, 38.05
+
+24.
+.. m-hei de==,\
+AF-fruit PART
+主焦-果實 語助詞
+
+#a 38.05, None, 39.3
+
+25.
+.. ini dhek-i m-angan baga asi ka tkhako m-usa baro m-usa l<m>amu.\
+NEG arrive-PF.IRR AF-take hand above AF-go <AF>pick
+否定 到達-受焦.非實現 主焦-拿 手 上面 主焦-去 <主焦>採
+
+#e When the tree bears fruits, you cannot reach hand to pick up. One has to climb ladder up to pick (them) up.
+#c 水果結果實的時候，伸手也拿不到，必須爬梯子上去採收。
+#a 39.3, None, 42.64
+
+26.
+... ma==,\
+then
+然後
+
+#a 42.64, None, 43.7
+
+27.
+... l<m>amu l<m>amu ka== ima di==,\
+<AF>pick <AF>pick NOM who PFV.PART
+<主焦>採 <主焦>採 主格 誰 完成.語助詞
+
+#a 43.7, None, 46.15
+
+28.
+.. rudan nii.\
+elderly this
+長者 這個
+
+#e the old man is picking fruits.
+#c 這老人在摘水果。
+#a 46.15, None, 46.93
+
+29.
+... ma== i--,\
+then FS
+然後 FS
+
+#a 46.93, None, 48.35
+
+30.
+.. uxe beyo== daha,_
+NEG long two
+否定 久 二
+
+#a 48.35, None, 49.66
+
+31.
+.. daha rawa ka l<n><m>wan na hei qhuni ciida.\
+two basket NOM <PFV><AF>pick GEN fruit tree at.that.time
+二 籃子 主格 <完成><主焦>採 屬格 水果 樹 當時
+
+#e then when he picks two baskets of fruits,
+#c 然後他採兩籃水果的時候，
+#a 49.66, None, 51.83
+
+32.
+... ma m-oda hii ka kingan=na.\
+then AF-pass there NOM one=3SG.GEN
+然後 主焦-經過 那裡 主格 一=3SG.屬格
+
+#a 51.83, None, 53.8
+
+33.
+... riso rudan hari.\
+boy elderly a.little
+男孩 長者 一點
+
+#e an elder boy passes there.
+#c 一個青年經過那裡。
+#a 53.8, None, 55.45
+
+34.
+... ma==, 
+then
+然後
+
+#a 55.45, None, 56.69
+
+35.
+... t<m>ulus ah==,\
+<AF>pull FIL
+<主焦>拖 FIL
+
+#a 56.69, None, 58.01
+
+36.
+.. miric ha.\
+sheep PART
+羊 語助詞
+
+#e he carries a sheep.
+#c 他牽著羊，
+#a 58.01, None, 58.8
+
+37.
+.. ye== m-aha t<m>abu miric na peni.\
+maybe AF.go <AF>feed sheep-3SG.GEN PART
+可能 主焦.去 <主焦>餵 羊-3SG.屬格 語助詞
+
+#e maybe he is going to feed the sheep.
+#c 可能他去餵羊。
+#a 58.8, None, 60.56
+
+38.
+... ma==,_
+then
+然後
+
+#a 60.56, None, 61.62
+
+39.
+... ^wa^da,_
+AUX.PST
+助動詞.過去
+
+#a 61.62, None, 62.72
+
+40.
+... t<m>ulus t<m>ulus ma== m-oda s-- 
+<AF>pull <AF>pull then AF-pass FS
+<主焦>拉 <主焦>拉 然後 主焦-經過 FS
+
+#a 62.72, None, 64.49
+
+41.
+.. m-oda toma== mhm baki ga l<m>amu hei qhuni nii.\
+AF-pass under FIL grandfather PROG <AF>pick fruit tree this
+主焦-經過 底下 FIL祖父 進行 <主焦>採 果子 樹 這個
+
+#e then carrying the sheep, he passed under the tree that the old man is picking fruits.
+#c 牽著羊，他經過老人正在採水果的果樹下面。
+#a 64.49, None, 67.41
+
+42.
+.. kika wada m-oda elu wa-- wada,_
+thus AUX.PST AF-pass road FS AUX.PST
+所以 助動詞.過去 主焦-經過 路 FS 助動詞.過去
+
+#a 67.41, None, 69.86
+
+43.
+... h<m>rinas ma== wada m-oda elu=na== kika h-ha-un=na,_
+<AF>over then AUX.PST AF-pass road=3SG.GEN thus RED-go-PF=3SG.GEN
+<主焦>超過 然後 助動詞.過去 主焦-經過 路=3SG.屬格 所以 重疊-去-受焦=3SG.屬格
+
+#a 69.86, None, 73.49
+
+44.
+... ma== q<m>lahang miric.\
+then <AF>take.care sheep
+然後 <主焦>照顧 羊
+
+#a 73.49, None, 75.42
+
+45.
+...(0.8) ah h-ha-un=na q<m>lahang miric ha-un=na t<m>abu miric peni.\
+FIL RED-go-PF=3SG.GEN <AF>take.care sheep go-PF=3SG.GEN <AF>feed sheep PART
+FIL 重疊-去-受焦=3SG.屬格 <主焦>照顧 羊 去-受焦=3SG.屬格 <主焦>餵 羊 語助詞
+
+#e he passes, go toward the place where he raises sheep.
+#c 他經過，然後往他養羊的地方走去。
+#a 75.42, None, 78.45
+
+46.
+... ma==,\
+then
+然後
+
+#a 78.45, None, 79.38
+
+47.
+... ini qbsiyaq,\
+NEG long
+否定 久
+
+#a 79.38, None, 80.4
+
+48.
+.. niq-an kingan laqi.\
+be.at-LF one child
+在-處焦 一 小孩
+
+#e in a short while, there is a child.
+#c 不久有一個小孩，
+#a 80.4, None, 81.45
+
+49.
+... eh== s-- 
+FIL FS
+FIL FS
+
+#a 81.45, None, 82.58
+
+50.
+... taapa rulu ha.\
+AF.ride bicycle PART
+主焦.騎 腳踏車 語助詞
+
+#a 82.58, None, 83.76
+
+51.
+rulu ge <L2JjidenshaL2J> ha.\
+bicycle PART bike PART
+腳踏車 語助詞 腳踏車 語助詞
+
+#e he is riding a rulu. Rulu is a bike.
+#c 他在騎rulu。Rulu是腳踏車的意思。
+#a 83.76, None, 84.97
+
+52.
+<L2JjidenshaL2J> mesa kari tahtunux ma, 
+bike AF.say speech PN then
+腳踏車 主焦.說 語言 專名 然後
+
+#e jidensha is the Japanese word,
+#c jidensha是日語。
+#a 84.97, None, 86.46
+
+53.
+... taapa <L2JjidenshaL2J> laqi,_
+AF.ride bicycle child
+主焦.騎 腳踏車 小孩
+
+#a 86.46, None, 88.27
+
+54.
+.. q-- laqi nii ma==,_
+FS child this then
+FS 小孩 這個 然後
+
+#a 88.27, None, 89.47
+
+55.
+.. wisu,\
+AF.come
+主焦.來
+
+#a 89.47, None, 90.36
+
+56.
+... uN== m-oda toma inu di==, 
+FIL AF-pass under where PFV.PART
+FIL 主焦-經過 底下 完成.語助詞
+
+#e the child is riding bike and he comes under...
+#c 然後這小孩騎腳踏車來下面...
+#n IU82 moda=muda
+#a 90.36, None, 92.4
+
+57.
+... eh==,\
+FIL
+FIL
+
+#a 92.4, None, 93.47
+
+58.
+m-oda mi-- 
+AF-pass FS
+主焦-經過 FS
+
+#a 93.47, None, 93.96
+
+59.
+mu-- m-usa,\
+FS AF-go
+FS 主焦-去
+
+#a 93.96, None, 94.65
+
+60.
+.. qta-an=na ga l<m>amu==,\
+see-LF=3SG.GEN PROG <AF>pick
+看-處焦=3SG.屬格 進行 <主格>採
+
+#a 94.65, None, 95.92
+
+61.
+... hei qhuni ka==,\
+fruit tree NOM
+果子 樹 主格
+
+#a 95.92, None, 97.54
+
+62.
+.. ba-- kingan,\
+FS one
+FS 一個
+
+#a 97.54, None, 98.45
+
+63.
+.. rudan kiya ma,_
+elderly that then
+長者 那個 然後
+
+#a 98.45, None, 99.47
+
+64.
+... mu-- m-usa ah qta-an=na ye mesa l<m>amu hei qhuni ma ga, 
+FS AF-go FIL see-LF=3SG.GEN maybe AF.say <AF>pick fruit tree then PROG
+FS 主焦-去 FIL 看-處焦=3SG.屬格 可能 主焦.說 <主焦>採 果子 樹 然後 進行
+
+#a 99.47, None, 102.96
+
+65.
+.. waga baro ka rudan kii.\
+EXIST above NOM elderly that
+存在 上 主格 長者 那個
+
+#e he saw the old man is picking fruits above.
+#c 他看到老人在上面採水果。
+#a 102.96, None, 104.39
+
+66.
+.. ma==,\
+then
+然後
+
+#a 104.39, None, 104.96
+
+67.
+l<n>amu=na ye ga=na psa-un dheran di.\
+<PF.PFV>pick=3SG.GEN maybe PROG=3SG.GEN put-PF ground PFV.PART
+<受焦.完成>採=3SG.屬格 可能 進行=3SG.屬格 放-處焦 地面 完成.語助詞
+
+#e then he put picked fruits on the ground.
+#c 然後他把採過的水果放在地上，
+#a 104.96, None, 106.41
+
+68.
+.. ma dheran,_
+then ground
+然後 地面
+
+#a 106.41, None, 107.35
+
+69.
+.. ah ga=na psa-an rawa truma ha m-eniq dheran bo-- dheran peni.\
+FIL PROG=3SG.GEN put-LF basket inside PART AF-be.at ground FS ground PART
+FIL 進行=3SG.屬格 放-處焦 籃子 裡面 語助詞 主焦-在 地面 FS 地面 語助詞
+
+#e basket is put on the ground.
+#c 然後在地上放著籃子。
+#a 107.35, None, 109.71
+
+70.
+... kiya ka ciida de.\
+that KA at.that.time PART
+那個 KA 當時 語助詞
+
+#a 109.71, None, 111.13
+
+71.
+... wada laqi nii.\
+go.PST child this
+去.過去 小孩 這個
+
+#e thus at that time, the child left.
+#c 接著那時候這小孩離開了。
+#a 111.13, None, 112.19
+
+72.
+.. qta-an=na ka rudan kiya l<m>amu baro hii ma,\
+see-LF=3SG.GEN NOM elderly that <AF>pick above there then
+看-處焦=3SG.屬格 主格 長者 那個 <主焦>採 上面 那裡 然後
+
+#e he saw the old man, picking fruits up there.
+#c 他看老人在上面那裡採收，
+#a 112.19, None, 114.34
+
+73.
+...(0.7) ma kika i-- mesa ka ini,\
+then thus FS AF.say NOM NEG
+然後 所以 FS 主焦.說 主格 否定
+
+#a 114.34, None, 116.21
+
+74.
+.. ado ga==,\
+because PROG
+因為 進行
+
+#a 116.21, None, 117.02
+
+75.
+.. maanu di,_
+what PFV.PART
+什麼 完成.語助詞
+
+#a 117.02, None, 117.72
+
+76.
+.. ini kela ali l<m>amu ciida ka== rudan nii ha ma im-- 
+NEG know day <AF>pick at.that.time NOM elderly this PART then FS
+否定 知道 天 <主焦>採 當時 主格 長者 這個 語助詞 然後 FS
+
+#e at that time, the old man is picking fruits very hard,
+#c 然後那時候，老人專心地採收，
+#a 117.72, None, 120.61
+
+77.
+.. ye mesa ini=ku naq,_
+maybe AF.say NEG=1SG.NOM self
+可能 主焦.說 否定=1SG.主格 自己
+
+#a 120.61, None, 121.77
+
+78.
+.. ini=na qta-i ka laqi nii ciida we,_
+NEG=3SG.GEN see-PF.IRR NOM child this at.that.time PART
+否定=3SG.屬格 看-受焦.非實現 主焦 小孩 這個 當時 語助詞
+
+#e he did not even know the child was looking.
+#c 他並不知道小孩在看。
+#a 121.77, None, 123.51
+
+79.
+... wada g<m>ulus m-angan kingan maanu di,_
+AUX.PST <AF>stealthily AF-take one what PFV.PART
+助動詞.過去 <主焦>偷偷地 主格-拿 一 什麼 完成.語助詞
+
+#a 123.51, None, 125.65
+
+80.
+... kingan rawa=na==,\
+one basket=3SG.GEN
+一個 籃子=3SG.屬格
+
+#a 125.65, None, 127.01
+
+81.
+.. hei qhuni kii.\
+fruit tree that
+果子 樹 那個
+
+#e he stole one basket of fruits.
+#c 他偷一籃水果。
+#a 127.01, None, 127.8
+
+82.
+... so hari ah== quti.rodux qta-an ha.\
+be.like a.little FIL guava see-LF PART
+像 一點 FIL 芭樂 看-處焦 語助詞
+
+#e the fruit looks like guava.
+#c 水果看起來是芭樂。
+#a 127.8, None, 129.81
+
+83.
+... ma==,\
+then
+然後
+
+#a 129.81, None, 130.66
+
+84.
+... kika psa-an=na==,\
+thus put-LF=3SG.GEN
+所以 放-處焦=3SG.屬格
+
+#a 130.66, None, 132.14
+
+85.
+berah=na== maanu di,\
+front=3SG.GEN what PFV.PART
+前面=3SG.屬格 什麼 完成.語助詞
+
+#a 132.14, None, 133.39
+
+86.
+.. <L2JjidenshaL2J>=na ma.\
+bike=3SG.GEN then
+腳踏車=3SG.屬格 然後
+
+#e then he put basket in front of his bike,
+#c 然後他把籃子放在他腳踏車前面，
+#a 133.39, None, 134.25
+
+87.
+... ma-- 
+FS
+FS
+
+#a 134.25, None, 134.97
+
+88.
+.. q<m>ita seediq kii.\
+<AF>see people that
+<主焦>看 人 那個
+
+#a 134.97, None, 135.99
+
+89. 
+.. qmit-- q<m>ita== q<m>ita rudan di ma,\
+FS <AF>see <AF>see elderly PFV.PART then
+FS <主焦>看 <主焦>看 長者 完成.語助詞 然後
+
+#e then he sees the old man,
+#c 然後他看這個老人，
+#a 135.99, None, 137.85
+
+90.
+.. ye mesa ka t-- ini ini huwa ini qita ma==,\
+maybe AF.say NOM FS NEG NEG AF.how NEG see then
+可能 主焦.說 主格 FS 否定 否定 主焦.怎麼 否定 看 然後
+
+#e probably he is saying that 'it is okay, he is not seeing'.
+#c 可能在說：「沒有關係，他沒在看。」
+#n IU 128 ini huwa 'it does not matter 沒關係'
+#a 137.85, None, 139.86
+
+91.
+wada=na gruus m-adis,\
+AUX.PST=3SG.GEN AF.steal AF-carry
+助動詞.過去=3SG.屬格 主焦.偷 主格-帶
+
+#a 139.86, None, 140.81
+
+92.
+... grus-un=na m-adis ciida ma==,\
+steal-PF=3SG.GEN AF-carry at.that.time then
+偷-受焦=3SG.屬格 主焦-帶 當時 然後
+
+#e at that time he stole and carried the basket.
+#c 那時候他偷籃子帶走，
+#a 140.81, None, 142.38
+
+93.
+.. ^wada muka-- mu-- 
+AUX.PST FS FS
+助動詞.過去 FS FS
+
+#a 142.38, None, 143.68
+
+94.
+.. wad-- wada==,\
+FS AUX.PST
+FS助動詞.過去
+
+#a 143.68, None, 144.44
+
+95.
+... wada maanu di maha kla-an maha sapah nii peni laqi.\
+AUX.PST what PFV.PART AF.go know-LF AF.go house this PART child
+助動詞.過去 什麼 完成.語助詞 主焦.去 知道-處焦 主焦-去 房子 這個 語助詞 小孩
+ 
+#e the child is going house.
+#c 小孩回家，
+#a 144.44, None, 147.73
+
+96.
+.. ni-- grus-an=na m-adis ye=na,_
+FS steal-LF=3SG.GEN AF-carry maybe=3SG.GEN
+FS 偷-處焦=3SG.屬格 主格-帶 可能=3SG.屬格
+
+#a 147.73, None, 148.88
+
+97.
+.. eh ye=na des-un inu ini kla-i ye=na brig-un ye=na ini kla-i,\
+FIL maybe=3SG.GEN carry-PF where NEG know-PF.IRR maybe=3SG.GEN sell-PF maybe=3SG.GEN NEG know-PF.IRR
+FIL 可能=3SG.屬格 帶-受焦 哪裡 否定 知道-受焦.非實現 可能=3SG.屬格 賣-受焦 可能=3SG.屬格 否定 知道-受焦.非實現
+
+#e the fruit he stealthily took away, I wonder where he brings or whether he sells.
+#c 他偷偷帶走的果實，不曉得要帶到那裏或要賣。
+#a 148.88, None, 151.2
+
+98.
+... wada m-oda elu ciida,_
+AUX.PST AF-pass road at.that.time
+助動詞.過去 主焦-經過 路 當時
+
+#a 151.2, None, 152.84
+
+99.
+... k-- m-oda elu ciida ini dehuk sapah dung we s==terung kingan laqi mqedin.\
+FS AF-pass road at.that.time NEG arrive house still PART AF.encounter one child woman
+FS 主焦-經過 路 當時 否定到達 家 還 語助詞 主焦.碰面 一 小孩 女生
+
+#e when he is on the way, before arriving at his house, he met a girl.
+#c 在路上，還沒到家的時候，他遇見一個女孩。
+#a 152.84, None, 156.38
+
+100.
+.. laqi mqedin uri==,\
+child woman also
+小孩 女生 也
+
+#a 156.38, None, 157.61
+
+101.
+... gnduanr taapa <L2JdenshaL2J> uri.\
+?? AF.ride bike also
+?? 主焦.騎 腳踏車 也
+
+#e the girl also is riding a bike.
+#c 女孩也騎腳踏車來。
+#n densha should be shortened form of jidensha.
+#a 157.61, None, 159.41
+
+102.
+.. taapa <L2JdenshaL2J> ciida laqi nii 
+AF.ride bike at.that.time child this
+主焦.騎 腳踏車 當時 小孩 這個
+
+#a 159.41, None, 161.05
+
+103.
+laqi mqedin nii we,_
+child woman this PART
+小孩 女生 這個 語助詞
+
+#e at that time the girl was riding bike.
+#c 那時候女孩騎腳踏車，
+#a 161.05, None, 162.04
+
+104.
+... ah eh==,\
+FIL FIL
+FIL FIL
+
+#a 162.04, None, 163.18
+
+105.
+... ado ka rseno heya na,\
+because KA man 3SG PART
+因為 KA 男生 3SG 語助詞
+
+#a 163.18, None, 164.57
+
+106.
+ye mesa qta-an do laqi mqedin nii,_
+maybe AF.say see-LF PART child woman this
+可能 主焦.說 看-處焦 語助詞 小孩 女生 這個
+
+#a 164.57, None, 166.35
+
+107.
+.. ye m-btunux qta-an,_
+maybe AF-beautiful see-LF
+可能 主焦-漂亮 看-處焦
+
+#a 166.35, None, 167.78
+
+108.
+.. huwa mesa huwa mesa ka-- 
+AF.what AF.say AF.what AF.say FS
+主焦-什麼 主焦.說 主焦-什麼 主焦.說 FS
+
+#a 167.78, None, 169.29
+
+109.
+hnyegan=na mqedin nii ma,_
+looks=3SG.GEN woman this then
+長相=3SG.屬格 女生 這個 然後
+
+#e because he is a boy, probably he thinks the girl is cute.
+#c 因為他是男生，可能看女孩子長得可愛，
+#a 169.29, None, 170.54
+
+110.
+... a-- ani q<m>ita mu-- laqi mqedin nii ka ka laqi ah== laqi rseno nii ma,\
+FS although <AF>see FS child woman this NOM NOM child FIL child man this then
+FS 甚至 <主焦>看 FS 小孩 女生 這個 主格 主格 小孩 FIL 小孩 男生 這個 然後
+
+#e the boy sees the girl and then,
+#c 這小孩看女孩，然後，
+#a 170.54, None, 174.75
+
+111.
+kika,\
+thus
+所以
+
+#a 174.75, None, 175.15
+
+112.
+.. ini=na kla-i niq-an btunux ka elu ma==,\
+NEG=3SG.GEN know-PF.IRR be.at-LF stone NOM road then
+否定=3SG.屬格 知道-受焦.非實現 在-處焦 石頭 主格 路 然後
+
+#a 175.15, None, 177.18
+
+113.
+.. ptebuk btunux ka maanu di==,\
+AF.bump stone NOM what PFV.PART
+主焦.撞到 石頭 主格 什麼 完成.語助詞
+
+#a 177.18, None, 178.89
+
+114.
+... <L2JjidenshaL2J>=na di ma,_
+bike=3SG.GEN PFV.PART then
+腳踏車=3SG.屬格 完成.語助詞 然後
+
+#a 178.89, None, 180.19
+
+115.
+.. takun ka laqi nii.\
+AF.stumble NOM child this
+主焦.跌倒 主格 小孩 這個
+
+#e So, he did not know that there was a stone in the road, the bike bumped into the stone, then the child fell.
+#c 所以他不知道路上有石頭，然後腳踏車撞到石頭，然後小孩跌倒。
+#a 180.19, None, 181.0
+
+116.
+.. takun ciida de cuwaq ka==,\
+AF.stumble at.that.time PART AF.scatter NOM
+主焦.跌倒 當時 語助詞 主焦.傾倒 主格
+
+#a 181.0, None, 182.6
+
+117.
+.. maanu di den-- ah==,\
+what PFV.PART FS FIL
+什麼 完成.語助詞 FS FIL
+
+#a 182.6, None, 183.86
+
+118.
+... hei qhuni l<n>uwan=na.\
+fruit tree <PF.PFV>pick=3SG.GEN
+果子 樹 <受焦.完成>採=3SG.屬格
+
+#e he fell down and then the fruit spilled.
+#c 他跌倒，然後水果傾倒，
+#a 183.86, None, 185.65
+
+119.
+.. ma==,\
+then
+然後
+
+#a 185.65, None, 186.38
+
+120.
+.. bunuh=na uri we,\
+hat=3SG.GEN also PART
+帽子=3SG.屬格 也 語助詞
+
+#a 186.38, None, 187.47
+
+121.
+.. wada,\
+AUX.PST
+助動詞.過去
+
+#a 187.47, None, 188.17
+
+122.
+.. wada da-an t<m>aus na laqi mqedin ma== tqada so theya hari.\
+AUX.PST pass-LF <AF>touch.off GEN child woman then AF.leap.away be.like AF.far a.little
+助動詞.過去 經過-處焦 <主焦>碰落 屬格 小孩 女生 然後 主焦.摔出 像 主焦.遠 一點
+
+#e the hat also went away. The girl touched it and it leaped far away.
+#c 帽子也飛走了，女孩碰落帽子，然後帽子摔出遠方。
+#a 188.17, None, 191.13
+
+123.
+.. wada thrinas ah==,\
+go.PST AF.over FIL
+去.過去 主焦.超過 FIL
+
+#a 191.13, None, 192.39
+
+124.
+.. wada m-theya,\
+go.PST AF-far
+去.過去 主焦-遠
+
+#a 192.39, None, 193.58
+
+125.
+...(0.7) ah==,_
+FIL
+FIL
+
+#a 193.58, None, 194.62
+
+126.
+bunuh=na daha.ka maanu di,\
+hat=3SG.GEN CONJ what PFV.PART
+帽子=3SG.屬格 連接詞 主格 什麼 完成.語助詞
+
+#a 194.62, None, 196.17
+
+127.
+.. bunuh knbnuh-an=na we,\
+hat wear-LF=3SG.GEN PART
+帽子 戴-處焦=3SG.屬格 語助詞
+
+#a 196.17, None, 197.95
+
+128.
+... theya hari q-- tng-da-an=na na kiya ma kika.\
+far a.little FS TNG-pass-LF=3SG.GEN PART that then thus
+遠 一點 FS TNG-經過-處焦=3SG.屬格 語助詞 那個 然後 所以
+
+#e the hat he was wearing went far away.
+#c 他戴的帽子飛遠方了，
+#a 197.95, None, 200.12
+
+129.
+... lu-- hei qhuni lunam-- eh== gnrus-an=na m-adis kingan rawa ge tqada theya quri icin ka kiya.\
+FS fruit tree FS FIL steal-LF=3SG.GEN AF-bring one basket PART AF.leap.away far AF.toward another NOM that
+FS 果子 樹 FS FIL 偷-處焦=3SG.屬格 主焦-帶 一 籃子 語助詞 主焦.摔出 遠 主焦.向 另外 主格 那個
+
+#e so the basket of fruits he stole spilled away to the other side.
+#c 所以，他偷帶來的一籃水果摔出去另一邊。
+#a 200.12, None, 205.52
+
+130.
+... ma kika.\
+then thus
+然後 所以
+
+#a 205.52, None, 206.76
+
+131.
+.. takun laqi nii ma m-angan tikuh luqah.\
+AF.stumble child this then AF-take little hurt
+主焦. 跌倒  小孩 這個 然後 主焦-拿 一點 傷
+
+#e because the child fell, he got a little hurt.
+#c 小孩因為跌倒他受一點傷，
+#a 206.76, None, 208.31
+
+132.
+ma kika== q<m>ita luqah=na ye ga sdara peni.\
+then thus <AF>see hurt=3SG.GEN Q PROG AF.bleed PART
+然後 所以 <主焦>看 傷=3SG.屬格 疑問 進行 主焦.流血 語助詞
+
+#e So, he is looking at the scar to see if it is bleeding.
+#c 所以他看傷口有沒有流血。
+#a 208.31, None, 210.53
+
+133.
+... ma wisu ka teru== lx-- teru laqi dung.\
+then AF.come NOM three FS three child again
+然後 主焦.來 主格 三個 FS 三 小孩 又
+
+#e then three children come.
+#c 然後三個小孩來，
+#n IU187 dung=dungan
+#a 210.53, None, 212.77
+
+134.
+.. ye naq maha mngexan hari.\
+maybe self about same.age a.little
+可能 自己 大約 同年齡 一點
+
+#a 212.77, None, 214.08
+
+135.
+... ye m-aha theyaq inu peni ini kla-i.\
+Q AF.go AF.play where PART NEG know-PF.IRR
+疑問 主焦.去 主焦.玩耍 哪裡 語助詞 否定 知道-受焦.非實現
+
+#e they are almost the same age as him. Maybe they are on their way to play.
+#c 他們跟他差不多的年齡，他們可能去玩。
+#a 214.08, None, 215.81
+
+136.
+... kika==,\
+thus
+所以
+
+#a 215.81, None, 216.64
+
+137.
+.. teru ris--,\
+three FS
+三 FS
+
+#a 216.64, None, 217.21
+
+138.
+teru laqi laq-- ah==,\
+three child FS FIL
+三 小孩 FS FIL
+
+#a 217.21, None, 218.29
+
+139.
+teru laqi ah==,\
+three child FIL
+三 小孩 FIL
+
+#e Three children came.
+#c 三個小孩來，
+#a 218.29, None, 219.15
+
+140.
+.. laqi r-- ah== rseno nii ah==,\
+child FS FIL man this FIL
+小孩 FS FIL 男生 這個 FIL
+
+#a 219.15, None, 220.38
+
+141.
+q<m>ita wa,_
+<AF>see PART
+<主焦>看 語助詞
+
+#a 220.38, None, 220.97
+
+142.
+.. takun ka ima di==,_
+AF.stumble NOM who PFV.PART
+主焦.跌倒 主格 誰 完成.語助詞
+
+#a 220.97, None, 222.13
+
+143.
+... ah==,
+FIL
+FIL
+
+#a 222.13, None, 222.95
+
+144.
+... gunu-- gnurus,_
+FS AF.steal 
+FS 主焦.偷
+
+#a 222.95, None, 224.34
+
+145.
+m-angan ah==,_
+AF-take FIL
+主焦-拿 FIL
+
+#a 224.34, None, 224.96
+
+146.
+hei qhuni laqi mhm mhm,_
+fruit tree child FIL FIL
+果子 樹 小孩 FIL FIL
+
+#a 224.96, None, 226.38
+
+147.
+.. laqi m-<n>angan hei qhuni nii ciida ma==,\
+child <PFV>AF-take fruit tree this at.that.time then
+小孩 <完成>主焦-拿 果子 樹 這個 當時 然後
+
+#e they saw the child who stealthily took fruits fell down.
+#c （三個小孩）看到那個偷拿水果的小孩跌倒了，
+#a 226.38, None, 228.17
+
+148.
+.. ma mesa pluwe na-- ye mesa pluwe naq ma kika dyag-un=na maanu di,_
+then AF.say AF.compassionate FS maybe AF.say AF.compassionate self then thus help-PF=3SG.GEN what PFV.PART
+然後 主焦.說 主焦.可憐 FS 可能 主焦.說 主焦.可憐 自己 然後 所以 幫忙-受焦=3SG.屬格 什麼 完成.語助詞
+
+#a 228.17, None, 231.85
+
+149.
+l<m>amu ka hei qhuni ma psa-an=na k--
+<AF>pick NOM fruit tree then put-LF=3SG.GEN FS 
+<主焦>採 主格 果子 樹 然後 放-處焦=3SG.屬格 FS
+
+#a 231.85, None, 233.59
+
+150.
+.. pusa-an=na rawa ma kika ttu-un=na laqi nii ma,_
+put-LF=3SG.GEN basket then thus raise-PF=3SG.GEN child this then
+放-處焦=3SG.屬格 籃子 然後 所以 扶起來-受焦=3SG.屬格 小孩 這個 然後
+
+#e then they maybe felt pitiful, so help him picking the fruits and to put in the basket,
+#c 然後他們可能覺得他可憐，所以幫他撿水果放在籃子裡。
+#a 233.59, None, 235.94
+
+151.
+.. psa-an=na toma==,\
+put-LF=3SG.GEN under
+放-處焦=3SG.屬格 下面
+
+#a 235.94, None, 237.27
+
+152.
+... <L2JjidenshaL2J>=na ka== rawa=na dung ma,_
+bike=3SG.GEN NOM basket=3SG.GEN again then
+腳踏車=3SG.屬格 主格 籃子=3SG.屬格 又 然後
+
+#e then they raise the child, and put the basket back to under the bike.
+#c 然後他們扶小孩起來，然後把籃子再放到腳踏車下，
+#a 237.27, None, 239.37
+
+153.
+... ma rireh so d<m>ayo mesa eh mhm,_
+then just.like be.like <AF>help AF.say FIL FIL
+然後 就如 像 <主焦>幫忙 主焦.說 FIL FIL
+
+#e they are helping him.
+#c 他們幫助他。
+#a 239.37, None, 241.55
+
+154.
+.. maanu di,\
+what PFV.PART
+什麼 完成.語助詞
+
+#a 241.55, None, 242.32
+
+155. 
+.. pluwe naq ah==,\
+AF.compassionate self FIL
+主焦.可憐 自己 FIL
+
+#a 242.32, None, 243.19
+
+156.
+.. mhm laqi ye=na knkel-un== maanu,_
+FIL child maybe=3SGGEN possible-PF what
+FIL 小孩 可能=3SG.屬格 能夠-受焦 什麼
+
+#a 243.19, None, 244.93
+
+157.
+h<m>uwa de luqah han-- m-angan luqah paru de== uxe,\
+<AF>how PART hurt FS AF-take hurt AF.pig PART NEG
+<主焦>怎麼 語助詞 傷 FS 主焦-拿 傷 主焦.大 語助詞 否定
+
+#a 244.93, None, 246.91
+
+158.
+.. uxe m-aha sapah.\
+NEG AF.go house
+否定 主焦.去 家
+
+#e they felt pitiful. he got big hurt, maybe he cannot to go home.
+#c 他們可憐他，可能他受大傷不能回家。
+#a 246.91, None, 247.76
+
+159.
+.. ma kika==,\
+then thus
+然後 所以
+
+#a 247.76, None, 248.68
+
+160.
+... m-hedu d<m>ayo ciida de ma==,\
+AF-finish <AF>help at.that.time PART then
+主焦-完成 <主焦>幫忙 當時 語助詞 然後
+
+#a 248.68, None, 250.42
+
+161.
+.. des-un=na di.\
+bring-PF=3SG.GEN PFV.PART
+帶-受焦=3SG.屬格 完成.語助詞
+
+#e then after they finished, he carried the basket.
+#c 然後他們幫忙完了後，他帶籃子。
+#a 250.42, None, 251.18
+
+162.
+... ma kika==,\
+then thus
+然後 所以
+
+#a 251.18, None, 252.22
+
+163.
+^wada lq-laqi,\
+go.PST RED-child
+去.過去 重疊-小孩
+
+#a 252.22, None, 252.88
+
+164.
+.. wada naq teru nii maha theyaq laqi teru nii ini p-- 
+go.PST self three this AF.go AF.play.around child three this NEG FS
+去.過去 自己 三 這個 主焦.去 主焦.玩耍 小孩 三 這個 否定 FS
+
+#e then children left, the three children left to go to play.
+#c 然後小孩們離開，三個小孩去玩。
+#a 252.88, None, 255.09
+
+165.
+.. ini pntena ha-un=daha wada m-aha sapah ka laqi biciq nii.\
+NEG same go-PF=3PL.GEN go.PST AF.go house NOM child AF.small this
+否定 一樣 去-受焦=3PL.屬格 去.過去 主焦.去 家 主格 小孩 主焦.小 這個
+
+#a 255.09, None, 257.32
+
+166.
+... ah laqi==,\
+FIL child
+FIL 小孩
+
+#a 257.32, None, 258.16
+
+167.
+.. gnurus m-angan nii.\
+<AF>steal AF-take this
+<主焦>偷 主焦-拿 這個
+
+#e their destination was not the same. The small child who stole was going home.
+#c 他們的方向不同，比較小的偷東西的孩子要回家。
+#a 258.16, None, 259.06
+
+168.
+.. ma==,\
+then
+然後
+
+#a 259.06, None, 259.39
+
+169.
+... ini t-- ini taapa==,\
+NEG FS NEG ride
+否定 FS 否定 騎
+
+#e but he does not ride bike.
+#c 但是他沒有騎腳踏車，
+#a 259.39, None, 261.33
+
+170.
+.. i-- ma==,
+FS then
+FS 然後
+
+#a 261.33, None, 262.16
+
+171.
+.. ye ado m-unang luqah laqi nii ma==,
+maybe because AF-get hurt child this then
+可能 因為 主焦-得到 傷 小孩 這個 然後
+
+#a 262.16, None, 263.96
+
+172.
+.. ini==,
+NEG
+否定
+
+#a 263.96, None, 264.6
+
+173.
+.. ye ani ini kbeyax maanu di,_
+maybe although NEG forceful what PFV.PART
+可能 即使 否定 出力 什麼 完成.語助詞
+
+#a 264.6, None, 266.05
+
+174.
+ye=na ini kmkel-i qnleqah <L2JdenshaL2J>=na di ma,_
+maybe=3SG.GEN NEG possible-LF.IRR pedal bike=3SG.GEN PFV.PART then
+可能=3SG.屬格 否定 能-處焦.非實現 踏踩 腳踏車=3SG.屬格 完成.語助詞 然後
+
+#e then maybe the child got hurt, he probably has no power to do to pedal the bike, 
+#c 然後可能這小孩受傷，他可能沒力氣踩腳踏車，
+#a 266.05, None, 268.36
+
+175
+mkkesa ma tlus-un=na ka== <L2JzidensyaL2J>=na nii ma,_
+AF.walk then pull-PF=3SG.GEN NOM bike=3SG.GEN this then
+主焦.走路 然後 拖-受焦=3SG.屬格 主格 腳踏車=3SG.屬格 這個 然後
+
+#a 268.36, None, 270.98
+
+176.
+.. kana, 
+all
+全部
+
+#a 270.98, None, 271.36
+
+177.
+... gunu-- g<n>urus=na m-adis kingan rawa maanu di,_
+FS <PF.PFV>steal=3SG.GEN AF-bring one basket what PFV.PART
+FS <受焦.完成>偷=3SG.屬格 主焦-帶 一 籃子 什麼 完成.語助詞
+
+#a 271.36, None, 274.02
+
+178.
+.. hei qhuni nii wa ma kika==,\
+fruit tree this PART then thus
+果子 樹 這個 語助詞 然後 所以
+
+#e he is pulling the bike while waking, stealthily bringing the basket of fruits.
+#c 他牽著腳踏車走路，偷偷帶著一籃水果。
+#a 274.02, None, 275.54
+
+179.
+...(1.8) wo-- 
+FS
+FS
+
+#a 275.54, None, 277.62
+
+180.
+.. mkkesa tikuh ma==, 
+AF.walk a.little then
+主焦.走路 一點 然後
+
+#a 277.62, None, 279.04
+
+181.
+.. q<m>ita bukuy.\
+<AF>see back
+<主焦>看 背後
+
+#e he walked a little and looked back.
+#c 他走了一下之後回頭看，
+#a 279.04, None, 279.87
+
+182.
+.. ma,\
+then
+然後
+
+#a 279.87, None, 280.48
+
+183.
+qm-- qm-- mhm ah q<m>ita==,\
+FS FS FIL FIL <AF>see
+FS FS FIL FIL <主焦>看
+
+#a 280.48, None, 282.3
+
+184. 
+teru laqi==,_ 
+three child
+三 小孩
+
+#a 282.3, None, 283.02
+
+185.
+laqi wada== d<n>ayo heya di.\
+child AUX.PST <PFV>help 3SG PFV.PART
+小孩 助動詞.過去 <完成>幫忙 3SG 完成.語助詞
+
+#e he sees the three children who helped him.
+#c 他看了幫忙過他的那三個小孩。
+#a 283.02, None, 284.35
+
+186.
+.. ma teru na== laqi deheya heya nii we,\
+then three FIL child 3PL 3SG this PART
+然後 三 FIL 小孩 3PL 3SG 這個 語助詞
+
+#a 284.35, None, 286.58
+
+187.
+niq-an kiya kingan.\
+be.at-LF that one
+在-處焦 那個 一
+
+#e the three children, they have one... 
+#c 三個小孩,他們有一個...
+#a 286.58, None, 287.39
+
+188.
+.. mkkesa ma qta-an=na ma nii ka,\
+AF.walk then see-LF=3SG.GEN then this NOM
+主焦.走路 然後 看=3SG.屬格 然後 這個 主格
+
+#a 287.39, None, 289.09
+
+189.
+k-- nima ka bunuh nii dungun mesa,\
+FS whose NOM hat this again AF.say
+FS 誰的 主格 帽子 這個 又 主焦.說
+
+#a 289.09, None, 290.41
+
+190.
+ngal-un=na bunuh kii ma ye nang-- ye m-kela mesa==,\
+take-PF=3SG.GEN hat that then maybe FS maybe AF-know AF.say
+拿-受焦=3SG.屬格 帽子 那個 然後 可能 FS 可能 主焦-知道 主焦.說
+
+#a 290.41, None, 292.49
+
+191.
+na laqi waga q<m>ita ka== laqi ka==,_
+GEN child PROG <AF>see NOM child NOM
+GEN 小孩 進行 <主焦>看 主格 小孩 主格
+
+#a 292.49, None, 294.4
+
+192.
+.. m<n>takun kii uri ma==,\
+AF<PFV>stumble that also then
+主焦<完成>跌倒 那個 也 然後
+
+#e while walking they saw a hat. they took the hat and they probably knew it belongs to the child who fell down,
+#c 他們走路看到這個帽子，把帽子撿起來,可能知道那是跌倒的小孩的。
+#a 294.4, None, 295.83
+
+193.
+... kiya==,\
+that
+那個
+
+#a 295.83, None, 296.79
+
+194.
+... m-- maanu di==,\
+FS what PFV.PART
+FS 什麼 完成.語助詞
+
+#a 296.79, None, 298.04
+
+195.
+... ah==,\
+FIL
+FIL
+
+#a 298.04, None, 298.98
+
+196.
+.. mq-qita ma ciida.\
+REC-see then at.that.time
+交互-看 然後 當時
+
+#a 298.98, None, 300.05
+
+197.
+.. ma== kika== ini,\
+then thus NEG
+然後 所以 否定
+
+#a 300.05, None, 301.32
+
+198.
+.. ma mesa o-- ye mesa na heya ka==,\
+then AF.say FS maybe AF.say NA 3SG NOM
+然後 主焦.說 FS 可能 主焦.說 NA 3SG 主格
+
+#a 301.32, None, 303.05
+
+199.
+.. bunuh nii ma kika had-un=na.\
+hat this then thus send-PF=3SG.GEN
+帽子 這個 然後 所以 送-受焦=3SG.屬格
+
+#e they looked at each other, and they said this is his hat, so one of them sent it back.
+#c 他們互相看，他們說帽子是他的，所以由其中一個送回來。
+#a 303.05, None, 304.69
+
+200.
+... had-un=na==,\
+send-PF=3SG.GEN
+送-受焦=3SG.屬格
+
+#a 304.69, None, 305.67
+
+200.
+... had-un=na==,\
+send-PF=3SG.GEN
+送-受焦=3SG.屬格
+
+#a 304.69, None, 305.67
+
+202.
+.. laqi nii ka bunuh nii ciida de==,\
+child this NOM hat this at.that.time PART
+小孩 這個 主格 帽子 這個 當時 語助詞
+
+#a 306.43, None, 308.18
+
+203.
+.. kika==,
+thus
+所以
+
+#a 308.18, None, 308.95
+
+204.
+laqi m<n>takun gnruus m-angan hei qhuni ge==,\
+child AF<PFV>stumble <AF>steal AF-take fruit tree PART
+小孩 主焦<完成>跌倒 <主焦>偷 主焦-拿 果子 樹 語助詞
+
+#a 308.95, None, 311.34
+
+205.
+.. ngal-un=na ka teru hei qhuni di ma,\
+take-PF=3SG.GEN NOM three fruit tree PFV.PART then
+拿-受焦=3SG.屬格 主格 三 果子 樹 完成.語助詞 然後
+
+#a 311.34, None, 313.12
+
+206.
+.. biq-un=na==,\
+give-PF=3SG.GEN
+給-受焦=3SG.屬格
+
+#a 313.12, None, 314.01
+
+207.
+... riso d<n>ayo=na deheya.\
+young.man <PF.PFV>help=3SG.GEN 3PL
+青少年 <受焦.完成>幫忙=3SG.屬格 3PL
+
+#e when he gave the hat back, the child who fell and stole fruits took three fruits and gave them, to the boy who helped him.
+#c 他還帽子的時候，跌倒又偷水果的那孩子拿了三個水果，送給幫忙他的男孩們。
+#a 314.01, None, 315.7
+
+208.
+... kika wada di.\
+thus go.PST PFV.PART
+所以 去.過去 完成.語助詞
+
+#e then they left.
+#c 然後他們離開。
+#a 315.7, None, 317.01
+
+209.
+.. dn-- ma== kika riso==,\
+FS then thus boy
+FS 然後 所以 男孩
+
+#a 317.01, None, 318.6
+
+210.
+.. teru nii ka pn-kingan,\
+three this NOM PN-one
+三 這個 主格 一
+
+#n pn-kingan "一人一個"。
+#a 318.6, None, 320.15
+#n pn-kingan "一人一個"。
+
+211.
+... teru b<n>ege=na==,\
+three <PF.PFV>give=3SG.GEN
+三 <受焦.完成>給=3SG.屬格
+
+#a 320.15, None, 321.84
+
+211.
+... teru b<n>ege=na==,\
+three <PF.PFV>give=3SG.GEN
+三 <受焦.完成>給=3SG.屬格
+
+#a 320.15, None, 321.84
+
+213.
+d<n>ayo=na kika,\
+<PF.PFV>help=3SG.GEN thus
+<受焦.完成>幫忙=3SG.屬格 所以
+
+#a 322.18, None, 323.22
+
+214.
+.. l-- laqi m<n>takun kii==,\
+FS child AF<PFV>stumble this
+FS 小孩 主焦<完成>跌倒 這個
+
+#a 323.22, None, 324.77
+
+215.
+dheya teru nii,\
+3PL three this
+3PL 三 這個
+
+#a 324.77, None, 325.4
+
+216.
+... teru-- teru h-- ah==,\
+FS three FS FIL
+FS 三 FS FIL
+
+#a 325.4, None, 327.09
+
+217.
+.. hei qhuni b<n>ege=na.\
+fruit tree <PF.PFV>give=3SG.GEN
+果子 樹 <受焦.完成>給=3SG.屬格
+
+#e the boy who fell gave the three fruits to each one.
+#c 那個跌倒的男孩把三個水果給每一個人。
+#a 327.09, None, 328.09
+
+218.
+ma wada pn-kingan m-ekan XX nii.\
+then AUX.PST PN-one AF-eat XX this
+然後 助動詞.過去 PN-一 主焦-吃 XX 這個
+
+#a 328.09, None, 329.46
+
+219.
+.. mg-- m-ekan m-ekan di,\
+FS AF-eat AF-eat PFV.PART
+FS主焦-吃 主焦-吃 完成.語助詞
+
+#e each one left eating the fruit.
+#c 每個人都邊走邊吃水果。
+#a 329.46, None, 330.46
+
+220.
+de-- deheya teru nii ma m-oda kika==,\
+FS 3PL three this then AF-pass thus
+FS 3PL 三 然後 主焦-經過 所以
+
+#a 330.46, None, 331.99
+
+221.
+... ah==,
+FIL
+FIL
+
+#a 331.99, None, 333.0
+
+222.
+... ga=na maanu di,\
+PROG=3SG.GEN what PFV.PART
+進行=3SG.屬格 什麼 完成.語助詞
+
+#a 333.0, None, 334.57
+
+223.
+.. kika rudan ga l<m>amu a hei qhuni kiya.\
+thus elderly PROG <AF>pick FIL fruit tree that
+所以 長者 進行 <主焦>採 FIL 果子 數 那個
+
+#e the three of them came to the place the old man is picking fruits.
+#c 他們三個來到老人採水果那兒。
+#a 334.57, None, 336.79
+
+224.
+mo-- knduwa naq m-oda hii elu=na dungun ma,\
+FS AF.same.as.before self AF-pass there road=3SG.GEN again then
+FS 主焦.同前 自己 主焦-經過 那裡 路=3SG.屬格 又 然後
+
+#e they passes the road as usual.
+#c 他們同樣是經過，
+#a 336.79, None, 338.64
+
+225.
+.. q<m>ita ka rudan nii mesa,\
+<AF>see NOM elderly this AF.say
+<主焦>看 主格 長者 這個 主焦.說
+
+#e the old man sees.
+#c 這老人看，
+#a 338.64, None, 340.04
+
+226.
+.. eh== hu-- 
+INT FS
+感嘆 FS
+
+#a 340.04, None, 340.89
+
+227.
+... mhm butu-- ah==, 
+FIL FS FIL
+FIL FS FIL
+
+#a 340.89, None, 342.33
+
+228.
+.. wa-- m-usa l<m>amu baro s-soni han wada=na gguw-an=na laqi nii ciida wa.\
+FS AF-go <AF>pick above RED-just.a.while.ago first AUX.PST=3SG.GEN steal-LF=3SG.GEN child this at.that.time PART
+FS 主焦-去 <主焦>採 上面 重疊-剛才 先 助動詞.過去=3SG.屬格 偷-處焦=3SG.屬格 小孩 這個 當時 語助詞
+
+#e he went up to pick fruits when the child stole the fruit earlier.
+#c 先前小孩偷走的時候，他正好上去採收，
+#a 342.33, None, 345.7
+
+229.
+ma kika rudan ciida de kika m-eyah ah==,_
+then thus elderly at.that.time PART thus AF-come FIL
+然後 所以 長者 當時 語助詞 所以 主焦-來 FIL
+
+#a 345.7, None, 348.08
+
+230.
+.. tuting dheran ma==,\
+AF.get.down ground then
+主焦.下來 地面 然後
+
+#a 348.08, None, 349.17
+
+231.
+m-eyah m-ita==,\
+AF-come AF-see
+主焦-來 主焦-看
+
+#a 349.17, None, 349.84
+
+232.
+maanu di l<n>amu=na hei qhuni.\
+what PFV.PART <PF.PFV>pick=3SG.GEN fruit tree
+什麼 完成.語助詞 <受焦.完成>採=3SG.屬格 果子 樹
+
+#e so when he comes down, he sees the fruits he picked.
+#c 所以他下來的時候，看他採的水果。
+#a 349.84, None, 351.11
+
+233.
+.. hi-- 
+FS
+FS
+
+#a 351.11, None, 351.48
+
+234.
+.. l<n>gelung we malu--, 
+<PF.PFV>think PART FS
+<受焦.完成>想 語助詞 FS
+
+#a 351.48, None, 352.55
+
+235.
+.. so hari daha==,\
+be.like a.little two
+像 一點 二
+
+#a 352.55, None, 353.52
+
+236.
+.. a rawa ah,\
+FIL basket FIL
+FIL 籃子 FIL
+
+#a 353.52, None, 354.21
+
+237.
+.. l-- l<n>amu=mu soni m-alux ka==,\
+FS <PFV>pick=1SG.GEN just.a.while.ago AF-why NOM
+FS <完成>採=1SG.屬格 剛才 主焦-為什麼 主格
+
+#a 354.21, None, 355.94
+
+238.
+m-- m-sngari kingan bale so hari mesa ga,\
+FS AF-remain one real be.like a.little AF.say PART
+FS 主焦-剩下 一 真的 主焦.說 語助詞
+
+#e "I have just picked two baskets of fruits. Why there left only one", he says.
+#c 「我剛才採了兩籃，為什麼現在只剩下一籃了？」他說。
+#a 355.94, None, 357.76
+
+239.
+... so hari wgag-- 
+be.like a.little FS
+像 一點 FS
+
+#a 357.76, None, 358.87
+
+240.
+.. ini=na kla-i l<m>ngelung,\
+NEG=3SG.GEN know-PF.IRR <AF>think
+否定=3SG.屬格 知道-受焦.非實現 <主格>想
+
+#e he seems not confused.
+#c 他好像想不通，
+#a 358.87, None, 360.15
+
+241.
+oiwa mesa wada inu kingan ka mesa l<m>ngelung peni na.\
+INT AF.say go.PST where one NOM AF.say <AF>think PART PART
+感嘆 主焦.說 去.過去 哪裡 一 主格 主焦.說 <主焦>想  語助詞 語助詞
+
+#e he thinks where one basket is gone.
+#c 他在想另一個籃子到哪去了。
+#a 360.15, None, 362.33
+
+242.
+.. wisu ka deheya teru nii mkkesa m-oda hii ma m-ekan,_
+AF.come NOM 3PL three this AF.walk AF-pass there then AF-eat
+主焦.來 主格 3PL 三 這個 主焦.走路 主焦-經過 那裡 然後 主焦-吃
+
+#a 362.33, None, 365.19
+
+243.
+m-ekan hei qhuni kika quwaq=na ma kika,\
+AF-eat fruit tree thus mouth=3SG.GEN then thus
+主焦-吃 果子 樹 所以 嘴=3SG.屬格 然後 所以
+
+#e the three children passed there. They were eating the fruit.
+#c 他們三位走路經過那裡，嘴裏吃著那個樹果，
+#a 365.19, None, 367.07
+
+244.
+... ma,_
+then 
+然後
+
+#a 367.07, None, 367.83
+
+245.
+l<m>ngelung ah==,_
+then <AF>think FIL
+然後 <主焦>想 FIL
+
+#a 367.83, None, 368.71
+
+246.
+.. baki nii mesa ye,\
+grandfather this AF.say maybe
+祖父 這個 主焦.說 可能
+
+#a 368.71, None, 369.71
+
+247.
+.. ye we ma m-huwa mesa l<m>ngelung uri ini=mu kla-i.\
+maybe PART then AF-how AF.say <AF>think also NEG=1SG.GEN know-PF.IRR
+可能 語助詞 然後 主焦-怎麼 主焦.說 <主焦>想 也 否定=1SG.屬格 知道-受焦.非實現
+
+#e so the old man probably thinks,
+#c 所以這老人可能想，
+#a 369.71, None, 372.14
+
+248.
+... ma ini=na kes-i ye=namu uxe gnuguw-an uri ma==,\
+then NEG=3SG.GEN say-PF.IRR Q=2PL.GEN NEG steal-LF also then
+然後 否定=3SG.屬格 說-受焦.非實現 疑問=2PL.屬格 否定 偷-處焦 也 然後
+
+#e but he did not say 'did you steal?' then,
+#c 但是他也沒有問說「你們（的水果是不是）偷的？」然後，
+#a 372.14, None, 375.03
+
+249.
+ini=na kes-i,\
+NEG=3SG.GEN say-PF.IRR
+否定=3SG.屬格 說-受焦.非實現
+
+#a 375.03, None, 375.77
+
+250.
+.. eh==, 
+FIL
+FIL
+
+#a 375.77, None, 376.21
+
+251.
+.. ini=na sling-i ka riso nii ma wada naq theyaq ka teru riso nii.\
+NEG=3SG.GEN ask-PF.IRR NOM boy this then AUX.PST self AF.play NOM three boy this
+否定=3SG.屬格 問-受焦.非實現 主格 男孩 這個 然後 助動詞.過去 自己 主焦.玩耍 主格 三 男孩 這個
+
+#e he did not ask to the young men and they went to play.
+#c 他並沒有質問男孩，然後男孩們就去玩了。
+#a 376.21, None, 378.69

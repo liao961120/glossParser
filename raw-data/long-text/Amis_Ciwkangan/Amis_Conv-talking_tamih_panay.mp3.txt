@@ -1,0 +1,1509 @@
+topic: Talking
+type: Conversation
+language: 阿美語, Amis, Ciwkangan (長光)
+speaker: 李金妹, Panay, female, 1949-12-28
+collected: 2004-05-13
+revised: None
+video: Amis_Conv-talking_tamih_panay.mp3
+
+1.
+T: mi==-,\
+. AF-
+. 主焦-
+
+#a 15.19, None, 15.97
+
+2.
+.. nukay   a,\
+go.home  LNK
+回家     連詞
+
+#a 15.97, None, 16.88
+
+3.
+... ma-emin  kiya  wawa  isu.\
+AF-all   that.NOM   child  2SG.GEN
+主焦-全部  那個.主格  小孩  2SG.屬格
+
+#e Did all your children come home?
+#c 妳的小孩都回來了嗎？
+#a 16.88, None, 18.59
+
+4.
+P: awa-ay    mi-nukay  u==,\
+. NEG.EXIST-AY  AF-go.home  CN
+. 否定.存在-AY  主焦-回家  CN
+
+#a 18.59, None, 20.62
+
+5.
+.. mi-kadafu-ay=tu,\
+AF-couple-FAC=PFV
+主焦-伴侶-FAC=完成
+
+#a 20.62, None, 21.69
+
+6.
+.. cangra   ira    kuni,\
+3PL.NOM    EXIST  this.NOM
+3PL.主格   存在   這個.主格
+
+#a 21.69, None, 22.6
+
+7.
+.. mi-nukay    itira    i==,\
+AF-go.home  there  LOC
+主焦-回家    那裡  處格
+
+#a 22.6, None, 23.83
+
+8.
+.. timul.\
+south
+南方
+
+#e (No,) they didn’t. They are all married and returned to the hometown of their spouse in the south.
+#c 沒有回來，她們都嫁了，回到南邊（男方）的家。
+#a 23.83, None, 24.42
+
+9.
+... itira   i      [pi-kadafu-an   nira].\ 
+there  LOC   PI-couple-LF    3SG.GEN
+那裡  處格   PI-伴侶-處焦   3SG.屬格
+
+#a 24.42, None, 24.8
+
+10.
+T: [a   ca’ay]  pi-nukay    tayni    i  luma’.\
+.  FIL  NEG  PI-go.home  come  LOC  house
+.  FIL  否定  PI-回家    來   處格   房子
+
+#a 24.8, None, 25.86
+
+11.
+P: ira     inacila,\
+. EXIST  yesterday
+. 存在   昨天
+
+#a 25.86, None, 29.09
+
+12.
+.. mi==-lisu’,\
+AF-visit
+主焦-拜訪
+
+#a 29.09, None, 30.24
+
+13.
+.. patiku=tu   tayra.\
+return=PFV   go
+回=完成     去
+
+#e To the home of their spouse. T: Oh, didn’t (they) come home?　P: Yesterday, they visited, (but) left (right away).
+#c 回到夫婿的家。T: 啊，沒回到家來嗎？P: 昨天有回來拜訪之後就回去了。
+#a 30.24, None, 31.56
+
+14.
+.. en   latek       anudafak   dadaya,\
+FIL   probably   tomorrow   night
+FIL   可能      明天       晚上
+
+#a 31.56, None, 33.36
+
+15.
+.. ira=tu        cangra      tayni.\
+EXIST=PFV  3PL.NOM     come
+存在=完成   3PL.主格       來
+
+#a 33.36, None, 35.28
+
+16. 
+T: ah  ma-herek=tu  kamu,\
+. FIL  AF-finish=PFV  2PL.NOM
+. FIL  主焦-結束=完成  2PL.主格
+
+#a 35.28, None, 36.69
+
+17.
+.. tayra  i  tadem.\
+go  LOC   tomb
+去  處格   墳墓
+
+#e P: They would probably come (again) tomorrow night. T: Oh, have you finished (cleaning up your ancestors’) tombs?
+#c P: 可能明天晚上又回來了。 T: 妳們掃墓結束了嗎？
+#a 36.69, None, 37.56
+
+18.
+P: cah   ca=ho,\
+. FS  NEG=IMPFV
+. FS  否定=未完成
+
+#a 37.56, None, 38.92
+
+19.
+.. ca=ho   mi-sanga,\
+NEG=IMPFV  AF-make
+否定=未完成   主焦-作
+
+#a 38.92, None, 40.0
+
+20.
+.. ma-tayal  anini   tunu==,\
+AF-work   now    this.OBL
+主焦-工作   現在  這個.斜格
+
+#a 40.0, None, 41.55
+
+21.
+.. tadem  kami  icila,\
+tomb   2PL.NOM   several.days.ago
+墳墓  2PL.主格    幾天前
+
+#a 41.55, None, 42.92
+
+22.
+.. mi-sanga=tu    mi-liyaw,\
+AF-make=PFV  AF-repeat
+主焦-作=完成  主焦-重複
+
+#a 42.92, None, 44.07
+
+23.
+.. tu  tadem   niya    wina,\
+OBL  tomb  this.GEN  mother
+斜格  墳墓   這個.屬格  母親
+
+#a 44.07, None, 45.03
+
+24.
+.. tiya     mama.\
+that.OBL   father
+那個.斜格  父親
+
+#e Not yet, we’re still cleaning. A few days ago we cleaned Mother’s and Father’s tombs.
+#c 還沒，我們現在還在整理墳墓。幾天前我們整理、翻修媽媽爸爸的墳墓。
+#a 45.03, None, 45.78
+
+25.
+T: [a==],\
+. FIL
+. FIL
+
+#a 45.78, None, 45.83
+
+26.
+P: [ma-pela’]   kiya  <L2JsulafuL2J>,\
+. AF-break   that.NOM    reinforced.concrete
+. 主焦-破裂  那個.主格   鋼筋水泥
+
+#a 45.83, None, 46.06
+
+27.
+.. nira    haw  ci-nanum,\
+3SG.GEN  HAW  make-water
+3SG.屬格  HAW  作-水
+
+#a 46.06, None, 48.33
+
+28.
+.. ku  laluma.\
+NOM  inside
+主格   裡面
+
+#e The cement cracked and so water leaked inside.
+#c 鋼筋水泥裂了，水滲進裡面了。
+#a 48.33, None, 49.1
+
+29.
+T: hai   ma-haen   ma-pela’   kiya  niyam.\
+. yes  AF-this.way  AF-break  this.NOM    2PL.GEN
+. 是   主焦-這樣    主焦-破裂  這個.主格   2PL.屬格
+
+#e Right, ours also cracked.
+#c 是的，一樣，我們的也裂了。
+#a 49.1, None, 50.63
+
+30.
+P: mi-liyaw   kami        icila,\
+. AF-repeat  1EPL.NOM  several.days.ago
+. 主焦-重複  1EPL.主格   幾天前
+
+#a 50.63, None, 52.05
+
+31.
+.. sa.\
+SA
+SA
+
+
+#e We have started to work a few days ago.
+#c 我們前幾天翻修。
+#a 52.05, None, 52.37
+
+32.
+T: [mi-sanga’-an],\
+. PF-make-PF
+. 受焦-作-受焦
+
+#a 52.37, None, 52.4
+
+33.
+P: [mi-lepun=tu]    anini,\
+. AF-finish=PFV    today
+. 主焦-結束=完成   今天
+
+#a 52.4, None, 52.64
+
+34.
+.. haw   han        pi-pa-herek    han,\
+HAW  say.so.PF   PI-CAU-finish  say.so.PF
+HAW  如此說.受焦  PI-使役-結束   如此說.受焦
+
+#a 52.64, None, 56.11
+
+35.
+.. mi-pacuk tu fafuy.\
+AF-kill  OBL  pig
+主焦-殺  斜格  豬
+
+#e We should be able to finish today. Once we are done, we will kill a pig (today).
+#c 今天要完工了。工作完成，趁這個機會（子女都回來），我們今天要殺豬。
+#a 56.11, None, 57.83
+
+36.
+T: ho==,\
+. BC
+. BC
+
+#a 57.83, None, 58.51
+
+37.
+.. fangcal   kira.\
+good   this.NOM
+好     這個.主格
+
+#e Good!
+#c 哦，很好阿。
+#a 58.51, None, 59.23
+
+38.
+P: hay.\
+. yes
+. 是
+
+#e Right!
+#c 是的。
+#a 59.23, None, 59.97
+
+39.
+T: ya   ma-herek=tu     i     dafak    ca=ho.\
+. that  AF-finish=PFV  LOC  morning  NEG=IMPFV
+. 那個  主焦-結束=完成  處格  早上   否定=未完成
+
+#e Have you finished this morning?
+#c 早上做好了嗎，還沒好嗎？
+#a 59.97, None, 61.73
+
+40.
+P: ma-ma-lepun   anini,\
+. Ca-AF-finish    today
+. Ca重疊-主焦-結束  今天
+
+#a 61.73, None, 63.08
+
+41.
+.. sa’an.\
+said.so
+如此說
+
+#e We would finish today.
+#c 今天說是會完成。
+#a 63.08, None, 63.66
+
+42.
+.. sa  mi-pacuk  anini,\
+SA   AF-kill   today
+SA  主焦-殺  今天
+
+#a 63.66, None, 65.1
+
+43.
+.. mi-pacuk=tu   i==,\
+AF-kill=PFV   LOC
+主焦-殺=完成   處格
+
+#a 65.1, None, 66.39
+
+44.
+.. dafak,\
+morning
+早上
+
+#a 66.39, None, 66.86
+
+45.
+.. ya   [fafuy].\
+that  pig
+那個  豬
+
+#e We already killed a pig this morning.
+#c 所以今天要殺豬，早上就殺了。
+#a 66.86, None, 67.77
+
+46.
+T: [a==],\
+. FIL
+. FIL
+
+#a 67.77, None, 66.5
+
+47.
+.. a  fangcal    kira.\
+FIL  good   that.NOM
+FIL  好   那個.主格
+
+#e That’s good.
+#c 喔，那很好阿。
+#a 66.5, None, 68.6
+
+48.
+P: ya    ci==,\
+. that   NCM.SG
+. 那格  NCM.SG
+
+#a 68.6, None, 69.4
+
+49.
+.. aciang  a   ci   namuh,\
+PN  LNK  NCM.SG  PN
+PN   連詞   NCM.SG  PN
+
+#a 69.4, None, 70.45
+
+50.
+.. kura   ci-tudung-ay,\
+that.NOM   get-part-AY
+那個.主格   得到-部分-AY
+
+#a 70.45, None, 71.38
+
+51.
+.. mi-‘aca  tuya     fafuy.\
+AF-buy   that.OBL   pig
+主焦-買   那個.斜格  豬
+
+#e Aciang and Namuh bought the pig.
+#c Aciang跟Namuh負責買那頭豬。
+#a 71.38, None, 72.71
+
+52.
+.. XX,\
+XX
+XX
+
+#a 72.71, None, 73.3
+
+53.
+.. sa   ati’-han      ni            ofad    ma-lahok,\
+SA   invite-HAN.PF  NCM.SG.GEN  PN  AF-call
+SA  邀請-HAN.受焦   NCM.SG.屬格   PN  主焦-叫
+
+#a 73.3, None, 75.27
+
+54.
+.. cangra     itira    ma-lahok.\
+3PL.NOM   there  AF-call
+3PL.主格   那裡  主焦-叫
+
+#e Ofad invited them (for lunch) there.
+#c 所以Ofad叫他們吃午餐，就在那邊吃了。
+#n ati’可以直接用於口語，叫人家「過來」的意思。
+#a 75.27, None, 76.64
+
+55.
+T: i    honi./
+. LOC  just.then
+. 處格  剛才
+
+#a 76.64, None, 77.2
+
+56.
+P: hai.\
+. yes
+. 是
+
+#e T: Just now? P: Right!
+#c T: 剛才嗎？ P: 是阿。
+#a 77.2, None, 77.58
+
+57.
+T: ha==,\
+. BC
+. BC
+
+#a 77.58, None, 78.13
+
+58.
+P: a      tayra=ho    malafi        anuhoni.\
+. FIL   go=IMPFV   dinner         later
+. FIL   去=未完成   晚餐         待會
+
+#e So (you’re) going there for dinner later?
+#c 等一下還要去哪裡吃晚餐？
+#a 78.13, None, 80.63
+
+59.
+T: [o==],\
+. BC
+. BC
+
+#a 80.63, None, 80.67
+
+60.
+P: [XX],\
+.  XX
+.   XX
+
+#a 80.67, None, 80.77
+
+61.
+T: XX fangcal   kira,\
+. XX   good  that.NOM
+. XX  好  那個.主格
+
+#a 80.77, None, 82.84
+
+62.
+P: m==,\
+. yes
+. 是
+
+#a 82.84, None, 83.57
+
+63.
+T: anudafak   kami  a    tayra,\
+. tomorrow   1EPL.NOM   LNK  go
+. 明天      1EPL.主格   連詞   去
+
+#a 83.57, None, 86.06
+
+64.
+.. tu  niyam,\
+OBL  1EPL.POSS
+斜格   1EPL.所有格
+
+#a 86.06, None, 86.92
+
+65.
+.. <L2MpatienL2M>  [XX  tiya]      pa-tadem-an.\
+eight.o’clock        XX    that.OBL  CAU-tomb-LF
+八點               XX    那個.斜格  使役-墳墓-處焦
+
+#a 86.92, None, 86.96
+
+66.
+P: [a     pi-pa-tadem-an]./
+. LNK   PI-CAU-tomb-LF
+. 連詞   PI-使役-墳墓-處焦
+
+#e T: We are going (to clean up) the tombs at 8 o’clock tomorrow. P: To (clean up) the tombs?
+#c T: 我們的是明天早上八點去墳墓。 P: 去掃墓嗎？
+#a 86.96, None, 89.0
+
+67.
+T: nawhani.\
+. why
+. 為什麼
+
+#e Why?
+#c 為什麼呢？
+#a 89.0, None, 90.13
+
+68.
+... awa         ku     limaw  nuya==,\
+EXIST.NEG  NOM   time   that.GEN
+存在.否定   主格   時間   那個.屬格
+
+#a 90.13, None, 91.74
+
+69.
+.. a     wawa,\
+LNK   child
+連詞    小孩
+
+#a 91.74, None, 92.26
+
+70.
+.. XX.\
+XX
+XX
+
+#e The children don’t have time to come home.
+#c 那些小孩沒有時間回來。
+#a 92.26, None, 92.86
+
+71.
+.. a     i      honi      a    mi-nukay,\
+LNK  LOC   just.then  LNK  AF-go.home
+連詞  處格   剛才    連詞   主焦-回家
+
+#a 92.86, None, 93.91
+
+72.
+.. ca     nufu  na    i   pusung.\
+NCM.PL  PN   from  LOC  Taitung
+NCM.PL  PN   從   處格   台東
+
+#e Nufu (and his family) just came from Taitung.
+#c Nufu一家人剛剛從台東回來。
+#a 93.91, None, 95.19
+
+73.
+P: ca==   ca           hekaw  i,\
+. NCM.PL  NCM.PL    PN   LOC
+. NCM.PL  NCM.PL    PN   處格
+
+#a 95.19, None, 97.12
+
+74.
+.. awa        mi-nukay.\
+EXIST.NEG  AF-go.home
+存在.否定    主焦-回家
+
+#e Didn’t Hekaw come home?
+#c Hekaw一家人沒有回來嗎？
+#a 97.12, None, 97.75
+
+75.
+T: a     ca’ay   pi-nukay,\
+. FIL   NEG   PI-go.home
+. FIL   否定   PI-回家
+
+#a 97.75, None, 98.52
+
+76.
+.. cingra   awa  ku  limaw.\
+3SG.NOM  EXIST.NEG  NOM  time
+3SG.主格   存在.否定   主格    時間
+
+#e (They) didn’t come home; they didn’t have time.
+#c 他沒回來，沒有時間。
+#a 98.52, None, 99.38
+
+77.
+.. [XX],\
+XX
+XX
+
+#a 99.38, None, 99.48
+
+78.
+P: [m==],\
+. FIL
+. FIL
+
+#a 99.48, None, 99.57
+
+79.
+...(2.6) ca’ay   ka-rolay,\
+NEG   KA-tired
+否定   KA-累
+
+#a 99.57, None, 104.28
+
+80.
+.. kisu  tu  ka-pi-hiya.\
+2SG.NOM  OBL  KA-PI-this.way
+2SG.主格   斜格   KA-PI-這樣
+
+#e Aren’t you tired doing this?
+#c 做這一件事你不會累嗎？
+#a 104.28, None, 105.78
+
+81.
+T: hai  ma-ulah   kaku       mi==-,\
+. yes   AF-like   1SG.NOM  AF-
+. 是   主焦-喜歡  1SG.主格  主焦-
+
+#a 105.78, None, 107.17
+
+82.
+.. tengil.\
+listen
+聽
+
+#e No, I like to listen.
+#c 不會，我喜歡聽。
+#a 107.17, None, 107.71
+
+83.
+P: hai  [i    fangcal].\
+. yes  DM  good
+. 是   DM   好
+
+#e That’s good.
+#c 那很好。
+#a 107.71, None, 108.0
+
+84.
+T: [edeng  nika]  @,\
+. only  however    @
+. 只有    然而     @
+
+#a 108.0, None, 107.94
+
+85.
+.. ma-fukil  tu  nu  holam,\
+AF-unable  OBL  GEN  Chinese
+主焦-不會  斜格  屬格   漢語
+
+#a 107.94, None, 110.46
+
+86.
+.. a   mi==-sa-heci.\
+LNK  AF-make-fruit
+連詞  主焦-作-果實
+
+#e But I can’t explain in Chinese.
+#c 只是，不會用漢語解釋。
+#n mi-sa-heci這裡作為「解釋」之意。
+#a 110.46, None, 111.68
+
+87.
+... [anu    ira  kura]   ka-fukil-an,\
+COND  EXIST  that.NOM  KA-unable-AN
+條件詞  存在   那個.主格  KA-不會-AN
+
+#a 111.68, None, 111.98
+
+88.
+P: [hang],\
+. BC
+. BC
+
+#a 111.98, None, 112.26
+
+89. 
+T: [ca==],\
+. NEG
+. 否定
+
+#a 112.26, None, 113.58
+
+90.
+P: [ma-ten],\
+. AF-FS
+. 主焦-FS
+
+#a 113.58, None, 113.75
+
+91.
+T: u   [kira       XX],\
+. CN  that.NOM    XX
+. CN  那個.主格    XX
+
+#a 113.75, None, 114.61
+
+92.
+P: [ma-ten]   ma-tenes,\
+. AF-FS    AF-long.time
+. 主焦-FS   主焦-很久
+
+#a 114.61, None, 114.68
+
+93.
+.. mi==-,\
+AF-
+主焦-
+
+#a 114.68, None, 116.53
+
+94.
+.. sa-liya-liyaw         s<um>uwal   [hai],\
+make-RED-repeat      <AF>speech  DM
+作-重疊-重複         <主焦>說     DM
+
+#e If there is something I don’t know, lots of repetitions, right?
+#c 如果有不會的地方，持續反反覆覆的說，是不是？
+#a 116.53, None, 118.06
+
+95.
+T: [hai].\
+. yes
+. 是
+
+#a 118.06, None, 116.53
+
+96.
+P: kaku   ma   ma-haen.\
+. 1SG.NOM  FS  AF-this.way
+. 1SG.主格   FS   主焦-這樣
+
+#e Me too.
+#c 我也是。
+#a 116.53, None, 119.55
+
+97.
+.. kaku   ma-fana’,\
+1SG.NOM  AF-know
+1SG.主格   主焦-知道
+
+#a 119.55, None, 120.19
+
+98.
+.. kaku  tu  nu,\
+1SG.NOM  OBL  GEN
+1SG.主格   斜格  屬格
+
+#a 120.19, None, 120.92
+
+99.
+.. kaping  haw   matini,\
+Chinese  HAW  this.way
+漢語    HAW    這樣
+
+#a 120.92, None, 121.89
+
+100.
+.. matini  sa’an   cangra    haw.\
+this.way  said.so  3PL.NOM  HAW
+這樣   如此說   3PL.主格   HAW
+
+#e Although I know Mandarin, (they) would say, ’Like this? Like this?’.
+#c 我雖然會說國語，他們說「這樣子、這樣子」。
+#a 121.89, None, 123.22
+
+101.
+...(1.1) ira    kura  ka-fana’-an   aku     haw.\
+EXIST  that.NOM  KA-know-LF  1SG.GEN   HAW
+存在   那個.主格   KA-知道-處焦   1SG.屬格  HAW
+
+#e There are some (answers) that I know.
+#c 有我所知道的。
+#a 123.22, None, 125.88
+
+102.
+...(0.9) roma   anu     ma-fukil   kaku,\
+second  COND  AF-unable  1SG.NOM
+其次   條件詞  主焦-不會  1SG.主格
+
+#a 125.88, None, 128.31
+
+103.
+.. mi-sa-ha<rate>rateng  haw,\
+AF-make-<RED>think  HAW
+主焦-作-<重疊>想     HAW
+
+#a 128.31, None, 129.61
+
+104.
+.. ca’ay  ka-ngaay  matini,\
+NEG  KA-good  this.way
+否定  KA-好   這樣
+
+#a 129.61, None, 130.89
+
+105.
+.. sa cangra     haw.\
+SA  3PL.NOM  HAW
+SA   3PL.主格  HAW
+
+#e If I don’t know and when I am thinking, they would say, ‘Can’t we say this?’
+#c 其次，如果有我不知道，正在思索的時候，他們說「不可以這樣子嗎？」
+#a 130.89, None, 131.64
+
+106.
+.. [ma-tama=itu].\
+PF-find=PFV
+受焦-找到=完成
+
+#e And (they) had the answer.
+#c 結果，答案對了（找到答案了）。
+#a 131.64, None, 133.12
+
+107.
+T: [@@@],\
+.  .
+.  .
+
+#a 133.12, None, 132.18
+
+108.
+P: cangra     ku      pa-tala-hekar-ay          sa  haw.\
+. 3PL.NOM     NOM    CAU-till-world-AY     SA  HAW
+. 3PL.主格      主格    使役-到-世界-AY      SA   HAW
+
+#e They found an answer by themselves.
+#c 結果（將其中涵義）表達出來的人也是他們自己。
+#n pa-tala-hekar-ay 「表達」。
+#a 132.18, None, 134.78
+
+109.
+.. a    hai     matira     kura,\
+FIL   yes   that.way  that.NOM
+FIL   是    那樣    那個.主格
+
+#a 134.78, None, 136.14
+
+110.
+.. ma-tama   han.\
+PF-find    say.so
+受焦-找到  如此說
+
+#e I wouls day, ‘Right, like that’.
+#c （我就會說）「是的，就是這樣，如此如此。」
+#a 136.14, None, 136.87
+
+111.
+... ira      ku     ma-ha’en-ay   nu     maku,\
+EXIST  NOM   AF-this.way-AY  GEN  1SG.POSS
+存在   主格    主焦-這樣-AY   屬格  1SG.所有格
+
+#a 136.87, None, 138.37
+
+112.
+.. cangranan.\
+3PL.OBL
+3PL.斜格
+
+#e I have the same experience.
+#c 我也有同樣的情形在他們身上。
+#a 138.37, None, 138.97
+
+113.
+T: a   fangcal  [kira].\
+. LNK   good  this.NOM
+. 連詞  好   這個.主格
+
+#a 138.97, None, 139.0
+
+114.
+P: [hai].\
+. yes
+. 是
+
+#a 139.0, None, 139.55
+
+115.
+.. nika         u   nuninian,\
+however     CN  this
+然而        CN  這個
+
+#a 139.55, None, 141.11
+
+116.
+.. kahmaw  ku    [nuninian].\
+easy   NOM    this
+簡單   主格    這個.屬格 
+
+#e T: That’s good! P: Yes, but it's easier this time.
+#c T: 很好啊。 P: 是，不過這次（問題）比較簡單。
+#a 141.11, None, 142.37
+
+117.
+.. ca’ay  ka-matira    tu    nu==riraw,\
+NEG  KA-that.way  OBL  that.GEN
+否定  KA-那樣   斜格   那個.屬格
+
+#a 142.37, None, 143.89
+
+118.
+.. tusa  tu  kala  kala   sa,\
+two  OBL  FS   FS   FS
+二   斜格  FS   FS   FS
+
+#a 143.89, None, 145.52
+
+119.
+.. sa-tapang-an    aku,\
+make-start-LF  1SG.GEN
+作-開始-處焦  1SG.屬格
+
+#a 145.52, None, 146.77
+
+120.
+... ka’emed  kununinian,\
+easy   this.NOM
+簡單  這個.主格
+
+#a 146.77, None, 148.6
+
+121.
+.. a     mi-sanga’-an.\
+LNK   PF-make-PF
+連詞   受焦-作-受焦
+
+#e Not like the two, when I just started, this (collecting data) is easy.
+#c 不像那二個人，我剛開始的時候，做這個（採集）很容易。
+#a 148.6, None, 150.07
+
+122.
+T: anu     ca    ca   ka==-,\
+. COND  FS  NEG   KA-
+. 條件詞  FS   否定  KA-
+
+#a 150.07, None, 151.41
+
+123.
+.. tama   haw,\
+find  HAW
+找到  HAW
+
+#a 151.41, None, 151.97
+
+124.
+.. anu,\
+COND
+條件詞
+
+#a 151.97, None, 152.34
+
+125.
+.. hacuwa        kura,\
+how.many     that.NOM
+多少        那個.主格
+
+#a 152.34, None, 153.17
+
+126.
+.. ka-fana’-an    [mi-XX],\
+KA-know-LF   AF-XX
+KA-知道-處焦  主焦-XX
+
+#a 153.17, None, 153.4
+
+127.
+P: [hai]  hai,\
+. yes  yes
+. 是   是
+
+#a 153.4, None, 154.03
+
+128.
+.. anu     [ma-],\
+COND   AF-
+條件詞   主焦-
+
+#a 154.03, None, 154.75
+
+129.
+T: [pa-sadak]    han   [hai].\
+. CAU-go.out  say.so    yes
+. 使役-出去   如此說   是
+
+#e Even though (you) cannot find an answer, regardless of how much you know,(you) can express it.
+#c 雖然答非所問，如果你了解多少，就表達出來。
+#a 154.75, None, 155.8
+
+130.
+P: [ma-ta-tudung]  aca     tu    hati,\
+. AF-to-part   PART   OBL   FS
+. 主焦-到-部分  語助詞  斜格  FS
+
+#a 155.8, None, 157.12
+
+131.
+.. ma-haen     aku.\
+PF-this.way  1SG.GEN
+受焦-這樣   1SG.屬格
+
+#e If the meaning is close, I did so too.
+#c 如果意思很接近，剛剛好的，我也是這樣子做。
+#a 157.12, None, 157.95
+
+132.
+.. ma-ta-tudung=itu     haw,\
+AF-to-partr=PFV     HAW
+主焦-到-部分=完成   HAW
+
+#a 157.95, None, 159.37
+
+133.
+... hatira-en     aca    aku,\
+that.way-PF  PART  1SG.GEN 
+那樣-受焦   語助詞  1SG.屬格
+
+#a 159.37, None, 160.74
+
+134.
+.. ca’ay=tu    ka-filu,\
+NEG=PFV  KA-exceed
+否定=完成   KA-超越
+
+#a 160.74, None, 161.8
+
+135.
+.. kura==,\
+that.NOM
+那個.主格
+
+#a 161.8, None, 162.61
+
+136. 
+... hiya      mi-sa-ma’a-ma’an,\
+this.way   AF-make-RED-what
+這樣     主焦-作-重疊-什麼
+
+#a 162.61, None, 164.09
+
+137.
+.. kira.\
+this.NOM
+這個.主格
+
+#e If the expression is close, I do it like this, but I’m not able to help with the others.
+#c （表達內涵）很接近了的時候，我是這樣子做，其他的方式也無法勝任了。
+#n hiya 指採集時被問到的其他問題。
+#a 164.09, None, 164.63
+
+138.
+T: u    roma    anu    mi==,\
+. CN  second   COND  FS
+. CN  其次    條件詞  FS
+
+#a 164.63, None, 166.69
+
+139.
+.. falic-en      ta         mi-sa-nu-amis   haw,\
+translate-PF  1IPL.GEN   AF-make-NU-Amis       HAW
+翻譯-受焦   1IPL.屬格   主焦-作-NU-阿美語        HAW
+
+#a 166.69, None, 168.64
+
+140.
+... anu==,\
+COND
+條件詞
+
+#a 168.64, None, 169.51
+
+141.
+... pa-ta-tama,\
+CAU-to-fin 
+使役-到-找到
+
+#a 169.51, None, 170.57
+
+142.
+.. anu-han        ita          tura      suwal,\
+COND-HAN.PF  1IPL.GEN   that.OBL  speech
+條件詞-HAN.受焦  1IPL.屬格  那個.斜格  話
+
+#a 170.57, None, 171.6
+
+143.
+.. nu     holam,\
+GEN   Chinese
+屬格   漢語
+
+#a 171.6, None, 172.21
+
+144.
+.. u    roma   i,_
+CN  second  DM
+CN  其次   DM
+
+#a 172.21, None, 173.1
+
+145.
+.. ku’esit    a       [tengil-en].\
+rigid   LNK   listen-PF
+硬   連詞   聽-受焦
+
+#e Then, if we translate it into Amis, if we have to (conform to) Chinese, (the expression would) sound awkward.
+#c 其次，如果我們翻譯成阿美語，如果我們硬要符合漢語的話，聽起來硬梆梆的。
+#a 173.1, None, 174.3
+
+146.
+P: [mhm],\
+. BC
+. BC
+
+#a 174.3, None, 173.65
+
+147.
+.. hai   [hai].\
+yes   yes
+是   是
+
+#e Yes.
+#c 對。
+#a 173.65, None, 175.0
+
+148.
+T: [ta]      u     roma   haw,\
+. then    CN   second  HAW
+. 然後   CN   其次    HAW
+
+#a 175.0, None, 174.5
+
+149.
+.. i    unu  mita         i==,\
+DM  this  1IPL.POSS   DM
+DM  這個  1IPL.所有格  DM
+
+#a 174.5, None, 176.57
+
+150.
+.. a==,\
+FIL
+FIL
+
+#a 176.57, None, 177.48
+
+151.
+.. pafesot   sa,\
+direct   SA
+直接   SA
+
+#a 177.48, None, 178.42
+
+152.
+.. ku    mita          suwal    kira.\
+NOM  1IPL.POSS    speech    this.NOM
+主格  1IPPL.所有格  話      這個.主個
+
+#e Our style of expression is more direct.
+#c 我們的話很直接。
+#a 178.42, None, 179.37
+
+153.
+P: hai.\
+. yes
+. 是
+
+#e Yes.
+#c 沒錯
+#a 179.37, None, 179.97
+
+154.
+T: saka==,\
+. so
+. 因此
+
+#a 179.97, None, 180.81
+
+155.
+... anu     icuwa-ay   kura      ka’emed-ay,\
+COND  where-AY  that.NOM   easy-AY
+條件詞  哪裡-AY  那個.主格   簡單-AY
+
+#a 180.81, None, 182.67
+
+156.
+.. i       sa’an,\
+DM     said.so
+DM     如此說
+
+#a 182.67, None, 183.47
+
+157.
+P: hai    ma  matira=tu,\
+. yes    FS  that.way=PFV
+. 是     FS   那樣=完成
+
+#a 183.47, None, 184.81
+
+158.
+.. hatira    a,\
+that.way   FS
+那樣       FS
+
+#a 184.81, None, 185.43
+
+159.
+.. hatira    aca      kura     pi==-,\
+that.way  PART   that.NOM   PI-
+那樣    語助詞   那個.主格   PI-
+
+#a 185.43, None, 186.79
+
+160.
+.. hiya.\
+this.way
+這樣
+
+#e If there is an easier part, it’s just like this.
+#c 如果哪個地方比較簡單的，僅僅如此作採集工作。
+#a 186.79, None, 187.2
+
+161.
+T: ura  pa-tusuk-an     nangra,\
+. that  CAU-direct-LF   3PL.GEN
+. 那個  使役-直接-處焦  3PL.屬格
+
+#a 187.2, None, 188.31
+
+162.
+.. a      mi-nanam,\
+LNK   AF-learn
+連詞  主焦-學習
+
+#a 188.31, None, 189.0
+
+163.
+.. tunini     i._
+this.OBL   DM
+這個.斜格  DM
+
+#e They come here to learn.
+#c 那個他們專程來這裡學習。
+#a 189.0, None, 189.68
+
+164.
+... u   sa-ka-fana’-aw    nangra,\
+CN  IF-KA-know-OPT  3PL.GEN
+CN  工焦-KA-知道-祈願  3PL.屬格
+
+#a 189.68, None, 191.28
+
+165.
+.. tu   sa-nu-amis-aw  anu    ^ca     i,_
+OBL  IF-NU-Amis-OPT  COND   NEG  DM
+斜格  工焦-NU-阿美語-祈願  條件詞  否定  DM
+
+#a 191.28, None, 192.8
+
+166.
+.. u==,\
+CN
+CN
+
+#a 192.8, None, 193.38
+
+167.
+.. [pi-kingkiw  nira].\
+PI-research  3SG.GEN
+PI-研究    3SG.屬格
+
+#e They want to learn Amis; otherwise, they want to do research.
+#c 他們想要學會說阿美語，如果不是的話，他們是來研究的。
+#a 193.38, None, 194.92
+
+168.
+P: [kingkiw]  nira,\
+. research  3SG.GEN
+. 研究    3SG.屬格
+
+#a 194.92, None, 194.14
+
+169.
+T: a==,\
+. BC
+. BC
+
+#a 194.14, None, 195.76
+
+170.
+P: u   [pi-kingkiw  nira].\
+. CN  PI-research  3SG.GEN
+. CN  PI-研究    3SG.屬格
+
+#a 195.76, None, 197.03
+
+171.
+T: [hay  sa  kaku]  [kira].\
+. yes  SA  1SG.NOM   this.NOM
+. 是   SA  1SG.主格  這個.主格
+
+#e P: They do research. T: I think so.
+#c P: 他們做研究。 T: 我認為是如此。
+#a 197.03, None, 197.58
+
+172.
+P: [hai]   u  pi-kingkiw    nira.\
+. yes  CN  PI-research  3SG.GEN
+. 是   CN  PI-研究    3SG.屬格
+
+#a 197.58, None, 197.08
+
+173.
+T: mi  sulinga’-han  a   [mi-tengil=tu==],\
+. FS   real-HAN.PF  LNK  AF-listen=PFV
+. FS   真的-HAN.受焦  連詞  主焦-聽=完成
+
+#a 197.08, None, 198.42
+
+174.
+P: [hay].\
+. yes
+. 是
+
+#e P: Right, for research. T: (They) really listen to (you). P: Right.
+#c P: 是的，(目的)是研究。 T: 詳細的聽了。 P: 是的。
+#a 198.42, None, 200.0
+
+175.
+T: ira ku    a,\
+. EXIST  NOM  A
+. 存在   主格   A
+
+#a 200.0, None, 201.07
+
+176.
+.. naw     ira      ku.\
+why    EXIST   NOM
+為什麼   存在  主格
+
+#e Why is there an ‘a’?
+#c 為什麼有a？
+#a 201.07, None, 201.82
+
+177.
+P: [ i  sa’an   hai],\
+. DM  said.so  yes
+. DM   如此說  是
+
+#a 201.82, None, 201.86
+
+178.
+T: naw   i    ira     ku  i.\
+. why  DM  EXIST  NOM   I
+. 為什麼   DM  存在  主格  I
+
+#e Why is there an ‘i’?
+#c 為什麼有i？
+#a 201.86, None, 203.1
+
+179.
+P: hai   kin,\
+. yes  FS
+. 是   FS
+
+#a 203.1, None, 202.82
+
+180.
+T: naw  ira     ku  XX  hai,\
+. why  EXIST   NOM  XX      yes
+. 為什麼  存在  主格   XX   是
+
+#a 202.82, None, 205.18
+
+181.
+P: mi-kingkiw-ay cangra.\
+. AF-research-FAC 3PL.NOM
+. 主焦-研究-FAC 3PL.主格
+
+#e They (want to) do research.
+#c 他們是來研究的。
+#a 205.18, None, 205.6
+
+182.
+.. hai==,\
+yes
+是
+
+#a 205.6, None, 206.07
+
+183.
+T: hai   anu    mi-nanam-ay  i,\
+. yes   COND  AF-learn-FAC  DM
+. 是  條件詞  主焦-學習-FAC  DM
+
+#a 206.07, None, 207.62
+
+184.
+.. ku  mi-sa-liya-liyaw,\
+NOM  AF-make-RED-again
+主格   主焦-作-重疊-再度
+
+#a 207.62, None, 208.68
+
+185.
+.. [a  s<um>uwal].\
+LNK  <AF>speak
+連詞  <主焦>說
+
+#a 208.68, None, 208.71
+
+186.
+P: [hai   hai],\
+. yes     yes
+. 是   是
+
+#a 208.71, None, 208.77
+
+187.
+... mi-kinkiw-ay  cingra    sa.\
+AF-research-FAC  3SG.NOM  SA
+主焦-研究-FAC  3SG.主格   SA
+
+#e T: Right, if they want to learn, they have to practice many times. P: Yes, they (are here to) do research.
+#c T: 是的，假如是來學習，應該不斷反覆的說。 P: 是，他是來研究的。
+#a 208.77, None, 211.97
+
+188.
+... anu  ira    ku  i,\
+COND  EXIST  NOM  I
+條件詞  存在    主格  I
+
+#a 211.97, None, 213.15
+
+189.
+.. anu    ira    ku    ka,\
+COND  EXIST  NOM   KA
+條件詞  存在   主格  KA
+
+#a 213.15, None, 214.16
+
+190.
+.. anu     ku     i     ka-‘ayaw,\
+COND  NOM  LOC  KA-before
+條件詞  主格  處格   KA-前
+
+#a 214.16, None, 215.64
+
+191.
+.. i     ka-ikur     masa,\
+LOC  KA-back   FS
+處格  KA-後   FS
+
+#a 215.64, None, 216.69
+
+192. 
+.. [ma-sa-sifelih=itu],\
+AF-SA-reverse=PFV
+主焦-SA-顛倒=完成
+
+#a 216.69, None, 216.84
+
+193.
+T: [uhuh],\
+. BC
+. BC
+
+#a 216.84, None, 217.45
+
+194.
+P: ca’ay  ka-ta-tama   haw.\
+. NEG  KA-Ca-find   HAW
+. 否定  KA-Ca重疊-找到  HAW
+
+#e If there is an ‘i’, if there is a ‘ka’, if the order of ‘ku’ is reversed, it does not sound correct.
+#c 如果有i，如果有ka，如果ku在前，在後，前後顛倒，就不順了。
+#a 217.45, None, 219.45
+
+195.
+.. ca’ay  ka-nga’ay,\
+NEG  KA-good
+否定   KA-好
+
+#a 219.45, None, 220.5
+
+196.
+.. han  kira.\
+said.so  this.NOM
+如此說  這個.主格
+
+#e It’s not good.
+#c 這樣不可以。
+#a 220.5, None, 221.39
+
+197.
+... ca’ay   ka-tatudung.\
+NEG   KA-suitable
+否定   KA-適合
+
+#e It’s not good.
+#c 這樣不適合。
+#a 221.39, None, 223.17

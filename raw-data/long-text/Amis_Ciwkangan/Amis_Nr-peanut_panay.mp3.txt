@@ -1,0 +1,479 @@
+topic: Peanut
+type: Narrative
+language: 阿美語, Amis, Ciwkangan (長光)
+speaker: 李金妹, Panay, female, 1949-12-28
+collected: 2003-04-04
+revised: None
+video: Amis_Nr-peanut_panay.mp3
+
+1.
+u   sa-suwal-en    aku,\
+CN  Ca-speak-PF    1SG.GEN
+CN  Ca重疊-說-受焦  1SG.屬格
+
+#a 8.22, None, 9.47
+
+2.
+.. tuninian  u==,\
+this.OBL  CN
+這個.斜格  CN
+
+#a 9.47, None, 11.22
+
+3.
+... kudasing,\
+peanut
+花生
+
+#a 11.22, None, 12.55
+
+4.
+... sanay    a==,\
+so-called  LNK
+所謂   連詞
+
+#a 12.55, None, 13.94
+
+5.
+.. suwal.\
+speech
+話
+
+#e I will talk about peanuts.
+#c 我要說的是有關花生的說法。
+#a 13.94, None, 14.61
+
+6.
+...(1.5) yo==,\
+DM
+DM
+
+#a 14.61, None, 17.03
+
+7.
+.. ira       ku,\
+EXIST   NOM
+存在    主格
+
+#a 17.03, None, 17.52
+
+8.
+.. ccay  a     rumi’ad,\
+one   LNK  day
+一   連詞   天
+
+#a 17.52, None, 18.57
+
+9.
+.. ira     ku==,\
+EXIST  NOM
+存在   主格
+
+#a 18.57, None, 19.36
+
+10.
+.. ta-tusa-ay    mala-ramud-ay     a==,\
+Ca-two-AY   become-couple-AY  LNK
+Ca重疊-二-AY   成為-伴侶-AY    連詞
+
+#a 19.36, None, 21.64
+
+11.
+... ma-tu’as-ay=tu,\
+AF-old-AY=PFV
+主焦-老-AY=完成
+
+#e One day, there was a couple. (They) were old.
+#c 有一天，有兩夫婦，年紀很大了。
+#a 21.64, None, 23.22
+
+12.
+... tayni   i==,\
+AF.come  LOC
+主焦.來  處格
+
+#a 23.22, None, 24.7
+
+13.
+.. lutuk,\
+mountain
+山
+
+#a 24.7, None, 25.14
+
+14.
+.. i==,\
+LOC
+處格
+
+#a 25.14, None, 26.0
+
+15.
+.. pala’   a     mi==-,\
+field   LNK  AF-
+田    連詞   主焦-
+
+#a 26.0, None, 27.16
+
+16.
+... pitau        tu==,\
+hoe         OBL
+鋤          斜格
+
+#a 27.16, None, 28.95
+
+17.
+.. pala’,\
+field
+田
+
+#a 28.95, None, 29.49
+
+18.
+... pa-luma’,\
+CAU-house
+使役-房子
+
+#a 29.49, None, 30.68
+
+19.
+.. tunini     u==,\
+this.OBL  CN
+這個.斜格  CN
+
+#a 30.68, None, 32.02
+
+20.
+... kudasing.\
+peanut
+花生
+
+#e (They) came to the field in the mountain to till the field to grow peanuts.
+#c （他們）來到山上的田裡耕種來種植花生。
+#a 32.02, None, 33.51
+
+21.
+.. ca’    ka-fana’,\
+NEG  KA-know
+否定  KA-知道
+
+#a 33.51, None, 34.31
+
+22.
+.. tu     nika  u    kudasing,\
+OBL   NIKA   CN  peanut
+斜格  NIKA  CN   花生
+
+#a 34.31, None, 35.49
+
+23.
+.. ku    ngangan  nura,\
+NOM   name   that
+主格  名字   那個
+
+#a 35.49, None, 36.42
+
+24.
+.. pa-pa-luma’-an        nira.\
+Ca-CAU-house-LF   this.GEN
+Ca重疊-使役-房子-處焦   這個.屬格
+
+#e (They) didn’t know ‘kudasing’ was the name of what they were growing.
+#c 他們不知道所要種的東西的名字叫花生。
+#a 36.42, None, 37.65
+
+25.
+... ya   matira==,\
+that  that.way
+那個  那樣
+
+#a 37.65, None, 39.04
+
+26.
+.. cangra     mi-pitau,\
+3PL.NOM   AF-hoe
+3PL.主格   主焦-鋤
+
+#a 39.04, None, 39.92
+
+27.
+.. mi==-,\
+AF-
+主焦-
+
+#a 39.92, None, 40.43
+
+28.
+.. pa-luma’,\
+CAU-house
+使役-房子
+
+#a 40.43, None, 41.15
+
+29.
+...(1.1) ira     mi==-,\
+EXIST  AF-
+存在   主焦-
+
+#a 41.15, None, 43.58
+
+30.
+.. tafesiw,\
+pass
+經過
+
+#a 43.58, None, 44.1
+
+31.
+.. ku    ccay,\
+NOM  one
+主格  一
+
+#a 44.1, None, 44.84
+
+32.
+.. u   taywan=itu.\
+CN  Taiwanese=PFV
+CN   台灣人=完成
+
+#e (When) they were hoeing, a Taiwanese passed by.
+#c （當）他們用鋤頭在種植的時候，有一個閩南人經過。
+#a 44.84, None, 46.33
+
+33.
+...(1.0) watah,\
+INT
+感嘆
+
+#a 46.33, None, 48.09
+
+34.
+... kura    ma-tu’as-ay  sa  kura==,\
+that.NOM  AF-old-AY  SA  that.NOM
+那個.主格  主焦-老-AY  SA  那個.主格
+
+#a 48.09, None, 49.95
+
+35.
+.. taywan    a    mi-nengneng tu  nika==,\
+Taiwanese  LNK  AF-see   OBL  NIKA
+台灣人   連詞   主焦-看  斜格   NIKA
+
+#a 49.95, None, 51.63
+
+36.
+.. sa-inaneng  sa   kuya,\
+SA-competent  SA   that.NOM
+SA-能幹    SA  那個.主格
+
+#a 51.63, None, 52.92
+
+37.
+.. ma-tu’as-ay   a   ta-tusa,\
+AF-old-AY   LNK  Ca-two
+主焦-老-AY  連詞  Ca重疊-二
+
+#a 52.92, None, 54.07
+
+38.
+.. mi-pitau,\
+AF-hoe
+主焦-鋤
+
+#a 54.07, None, 54.96
+
+39.
+... pa-luma’    tuya==,\
+CAU-house    that.OBL
+使役-房子    那個.斜格
+
+#a 54.96, None, 56.79
+
+40.
+... kudasing  sa.\
+peanut    SA
+花生    SA
+
+#e ‘Wow, the old people!’ The Taiwanese saw the old couple work hard to grow peanuts.
+#c 「哇塞，這些老人家！」 那個台灣人看到這二位老人家如此能幹的（用鋤頭）種植花生。
+#a 56.79, None, 58.23
+
+41.
+...(1.2) <L2TkakulacingL2T> sa    kuya==,\
+hardworking     SA   that.NOM
+辛勤     SA    那個.主格
+
+#a 58.23, None, 61.14
+
+42.
+.. taywan     haw.\
+Taiwanese   INT
+台灣人      感嘆
+
+#e The Taiwanese (exclaimed), ‘How hardworking!’
+#c 那閩南人說「ka kulacing（還蠻努力的）」
+#a 61.14, None, 61.88
+
+43.
+.. a    u==,\
+LNK   CN
+連詞   CN
+
+#a 61.88, None, 62.55
+
+44.
+.. kudasing  ku==,\
+peanut   NOM
+花生  主格
+
+#a 62.55, None, 63.66
+
+45.
+.. kuninian,\
+this.NOM
+這個.主格
+
+#a 63.66, None, 64.24
+
+46.
+.. sa=tu      kuya==,\
+SA=PFV  that.NOM
+SA=完成  那個.主格
+
+#a 64.24, None, 65.43
+
+47.
+.. ma-tu’as-ay   a   ta-tusa   sa,\
+AF-old-AY   LNK  Ca-two   SA
+主焦-老-AY  連詞   Ca重疊-二   SA
+
+#a 65.43, None, 66.99
+
+48.
+.. u  kudasing,\
+CN  peanut
+CN  花生
+
+#e The old couple (thought), ‘Ah, (this is called) Kudasing.’
+#c 那兩位老人家想「喔，原來這叫kudasing喔」。
+#a 66.99, None, 67.91
+
+49.
+.. han=tu          ku   ngangan  nura==,\
+say.so.PF=PFV  NOM  name   that.GEN
+如此說.受焦=完成  主格  名字  那個.屬格
+
+#a 67.91, None, 69.49
+
+50.
+.. kudasing.\
+peanut
+花生
+
+#e Peanuts were thus called ‘Kudasing’.
+#c 花生的名字從此就說成kudasing了。
+#a 69.49, None, 70.21
+
+51.
+...(0.7) <L2TkulacingL2T>  sa  ku taywan haw,\
+hardworking  SA   NOM  Taiwanese  INT
+辛勤        SA   主格   台灣話  感嘆
+
+#a 70.21, None, 72.64
+
+52.
+.. u  <L2TkulacingTL2>,\
+CN  hardworking
+CN   辛勤
+
+#a 72.64, None, 73.58
+
+53.
+.. han   nu     kudasing,\
+say.so.PF  GEN   peanut
+如此說.受焦  屬格  花生
+
+#a 73.58, None, 74.46
+
+54.
+.. han=tu    ita   u   pangcah.\
+say.so.PF=PFV  1IPL.GEN  CN  Amis
+如此說.受焦=完成  1IPL.屬格  CN  阿美族
+
+#a 74.46, None, 75.65
+
+55.
+.. mi-sa-Amis-ay      kunini     u    kudasing.\
+AF-make-Amis-AY   this.NOM  CN  peanut
+主焦-做-阿美-AY    這個.主格  CN   花生
+
+#e ‘Kulacing’ in Taiwanese became the name of peanuts in Amis, ‘kudasing’.
+#c 台灣人的「很努力(kulacing)」就變成了我們阿美族的花生名稱kudasing。
+#a 75.65, None, 78.01
+
+56.
+... sanay    ku==,\
+so.called  NOM
+所謂   主格
+
+#a 78.01, None, 79.15
+
+57.
+.. suwal    a==,\
+speech  LNK
+話      連詞
+
+#a 79.15, None, 79.98
+
+58.
+.. ma-tengil,\
+AF-hear
+主焦-聽
+
+#a 79.98, None, 80.68
+
+59.
+... hatira-ay,\
+that.way-AY
+那樣-AY
+
+#e This is what I heard.
+#c 聽到的是如此。
+#a 80.68, None, 81.5
+
+60.
+.. kunini    u   rayray   nu==,\
+this.NOM  CN  pass.down  GEN
+這個.主格  CN  傳承  屬格
+
+#a 81.5, None, 82.91
+
+61.
+.. sa-ka-ira       nu==,\
+IF-KA-EXIST  GEN
+工焦-KA-存在  屬格
+
+#a 82.91, None, 83.95
+
+62.
+.. kudasing,\
+peanut
+花生
+
+#a 83.95, None, 84.85
+
+63.
+.. sanay    a==,\
+so.called   LNK
+所謂    連詞
+
+#a 84.85, None, 85.68
+
+64.
+.. suwal.\
+speech
+話
+
+#e The name ‘kudasing’ is passed down.
+#c 這個有關花生名稱的說法如此傳到現在。
+#a 85.68, None, 86.37

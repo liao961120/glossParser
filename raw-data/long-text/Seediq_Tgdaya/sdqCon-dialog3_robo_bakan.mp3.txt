@@ -1,0 +1,547 @@
+topic: sdqCon-dialog3_robo_bakan
+type: Conversation
+language: 賽德克語, Seediq, Tgdaya
+speaker: 郭溫月桃, Robo Walis, female, 1934
+collected: 2013-09-15
+revised: 2014-7-17
+video: sdqCon-dialog3_robo_bakan.mp3
+
+1.
+B:... isu wa [rengo.\]
+. 2SG PART speak
+. 2SG 語助詞 說
+
+#e It's your turn! Speak!
+#c 是妳啊！講啊！
+#a 4.11, None, 5.15
+
+2.
+R: [i==ta na] wisu=ta suupu tloong han na.\
+. 1IPL PART AF.come=1IPL.NOM AF.together AF.sit first PART
+. 1IPL 語助詞 主焦.來=1IP.主格 主焦.一起 主焦.做 先 語助詞
+
+#e Let's sit together first.
+#c 我們就先坐在一起。
+#a 5.15, None, 4.74
+
+3.
+R: ... wisu ka seediq di ma kika==.\
+. AF.come NOM people PFV.PART then thus
+. 主焦.來 主格 人 誰 完成.語助詞 然後 所以
+
+#e Someone's here. 
+#c 有人過來了。
+#a 4.74, None, 7.63
+
+4.
+R: ... m-lawa=ta ma aguh aguh aguh.\
+. AF-call=1IPL.NOM then come.IMP come.IMP come.IMP
+. 主焦-叫=1IPL.主格 然後 來.祈使 來.祈使 來.祈使
+
+#e Let's call out (to that person): "Come! Come! Come!"
+#c 我們就(對那個人)叫：「過來！過來！過來！」
+#a 7.63, None, 9.98
+
+5.
+R: .. mah-o=ta kingan rusuq sino mesa=ta na.\
+. drink-PF.IRR=1IPL.GEN one bottle alcohol AF.say=1IPL.NOM PART
+. 喝-受焦.非現實-=IPL.屬格 一 瓶 酒 主焦.說=1IPL.主格 語助詞
+
+#e "Let's drink a bottle of alcohol!" we'd say.
+#c 我們就說：「我們來喝一瓶酒吧！」
+#a 9.98, None, 12.01
+
+6.
+B: .. uN.\
+. FIL
+. FIL
+
+#a 12.01, None, 13.85
+
+7.
+R: .. ma,_
+. then
+. 然後
+
+#a 13.85, None, 14.34
+
+8.
+R: ... eh yaku do==.\
+. FIL 1SG PART
+. FIL 1SG 語助詞
+
+#a 14.34, None, 15.19
+
+9.
+R: .. m-osa=ku h<m>anguc sama kesa isu da munlamu peni egu kari isu han.\
+. AF-go=1S.NOM <AF>cook vegetable say 2SG PART AF.diverse PART AF.many speech 2SG first
+. 主焦-去=1S.主格 <主焦>煮 蔬菜說 2SG 語助詞 主焦.多樣 語助詞 主焦.多 話=2S.屬格 先
+
+#e "I'll go cook some vegetables," you'd say. (There are) all kinds of words (to say)! Aren't you talkative? You go first!
+#c 你就說「我先去主菜！」很多種話(可以說)啊！妳不是很多話？妳先說啊！
+#a 15.19, None, 16.31
+
+10.
+B: .. yaku de==,_
+. 1SG PART
+. 1SG 語助詞
+
+#a 16.31, None, 19.49
+
+11.
+R: XXX
+. XXX
+. XXX
+
+#a 19.49, None, 20.53
+
+12.
+B: ... maanu ye uka so begu qnuuqu mesa[=ku m]a.\
+. what Q EXIST.NEG be.like soup AF.mistake AF.say=1SG.NOM then
+. 1SG 語助詞 什麼 疑問 存在.否定 像 湯 主焦.錯誤 主焦.說=1SG.主格 然後
+
+#e What should I say? "Is there any alcohol here?" I say. 
+#c 要說什麼啊？那我說：「有沒有酒啊？」
+#n 此處 begu qnuuqu 字面義為 "錯誤的湯"。為避免直接講 "酒" 之隱喻，為玩笑話。
+#a 20.53, None, 20.96
+
+13.
+R: [un].\
+. yes
+. 好
+
+#e Right.
+#c 對。
+#a 20.96, None, 23.09
+
+14.
+R: ... @[@]
+. @[@]
+. @[@]
+
+#a 23.09, None, 23.9
+
+15.
+B: .. [ni]q-an wa si ma maanu ka cikun=ta peni mesa=ku yaku a.\
+.  be.at-LF PART say then what NOM push.down=1IPL.NOM PART AF.say=1SG.NOM 1SG FIL
+.  在-處焦 語助詞 說 然後 什麼 主格 推下=1IPL.主格 語助詞 主焦.說=1SG.主格 1SG FIL
+
+#e "There is (alcohol)", someone would say. Then, "What should we eat along with the alcohol?" I would say.
+#c 有人就說：「有(酒)啊。」那我就說：「我們要用什麼配酒啊？」
+#n 此處cikun字面意為"推下"，整句字面上為 "要用什麼去把酒推下肚？" 也就是 "要用什麼菜配酒喝?" 的意思。
+#a 23.9, None, 24.06
+
+16.
+B: ... [uh skdiy-o]=mu so n-ngari hini han ah mesa=su han.\
+. FIL search-PF.IRR=1SG.GEN be.like PFV-remain here first FIL AF.say=2S.NOM first
+. FIL 尋找-受焦.非現實=1SG.屬格 像 完成-剩下 這裡 先 FIL主焦.說=2S.主格 先
+
+#e So you say: "Let me see what (food) is left over here first." 
+#c 你先說：「我先找找看這裡剩下什麼。」
+#a 24.06, None, 28.01
+
+17.
+R: .. [@@]
+. @@
+. @@
+
+#a 28.01, None, 28.14
+
+18.
+R: .. XX @@
+. XX @@
+. XX @@
+
+#a 28.14, None, 31.5
+
+19.
+B: ima dadan=ta kes-un=mu plaan-e=ta ka kiya gaga inu mesa.\ 
+. who friend=1IPL.GEN say-PF=1S.GEN call-CF.IRR=1IPL.GEN NOM that EXIST where AF.say
+. 誰 朋友=1IPL.屬格 說-受焦=1SG.屬格 叫-參焦.非現實=1IPL.屬格 主格 那個 存在 哪裡 主焦.說
+
+#e "Where's our friend?" I'd say. "Let's call that person! Where is she?"
+#c 我就說：「我們的朋友在哪裡呢？」「我們叫她吧！她在哪裡？」
+#a 31.5, None, 32.56
+
+20.
+B: ... ga inu haruko ah c- <L2MceceL2M>=ta ha mesa=ta han XX.\
+. EXIST where PN FIL FS older.sister=1IPL.GEN PART AF.say=1IPL.NOM first XX
+. 存在 哪裡 人名 FIL FS 姊姊=1IPL.屬格 語助詞 主焦.說=1IPL.主格 先 XX
+
+#e We would say: "Where is our sister Haruko?"
+#c 我們會說：「我們的春子姊姊在哪裡呢？」
+#a 32.56, None, 36.35
+
+21.
+B: ... [ma==].\
+. then
+. 然後
+
+#a 36.35, None, 39.73
+
+22.
+R: .. [@@]
+. @@
+. @@
+
+#a 39.73, None, 39.73
+
+23.
+B: ... ye ukas a==.\
+. Q EXIST.NEG FIL
+. 疑問 存在.否定 FIL
+
+#a 39.73, None, 40.49
+
+24.
+B: .. maanu mesa ka haruko.\
+..  what AF.say NOM PN
+..  什麼 主焦.說 主格 人名
+
+#e Haruko replies: "What?"
+#c 春子就說：「要幹嘛？」
+#a 40.49, None, 41.87
+
+25.
+B: .. aguh yah-i m-angan a==._
+. come.IMP come-PF.IMP AF-take FIL
+. 來.祈使 來-受焦.祈使 主焦-拿 FIL
+
+#a 41.87, None, 43.56
+
+26.
+B: .. patis awi baso nii a._
+. letter PN PN this FIL
+. 信件 人名 人名 這個 FIL
+
+#a 43.56, None, 45.11
+
+27.
+B: m-iisu=mian seno a==.\
+. AF-fear=1EPL.GEN husband FIL
+. 主焦-怕=1EPL.屬格 丈夫 FIL
+
+#e Come! Come and take this letter from Awi Baso! We are afraind of your husband.
+#c 過來！來拿一下這封Awi Baso 寄來的信。我們害怕妳先生啦！
+#a 45.11, None, 46.86
+
+28.
+B: .. naqah seno m-seyang sa [mp-lawa m-imah si]no.\
+. AF.bad husband AF-angry say REC-call AF-drink alcohol
+. 主焦.壞 先生 主焦-生氣 說 互相-叫 主焦-喝 酒
+
+#e The husband is bad. People say he scolds if we invite each other to drink. 
+#c 丈夫很不好。聽說互相邀約喝酒的話他會罵人。
+#n mseyang 原意為"生氣"，此處宜解釋為"罵人"。
+#a 46.86, None, 48.46
+
+29.
+R: ... [@@@]
+. @@@
+. @@@
+
+#a 48.46, None, 49.99
+
+30.
+B: .. <@naqah@> roro beebu [na wa haruko denu.\]
+. AF.bad PN AF.beat still PART PN PART
+. 主焦.壞 人名 主焦.打 還 語助詞 人名 語助詞
+
+#e Roro is bad. He still beats Haruko.
+#c Roro很不好。他到現在還會打春子。
+#a 49.99, None, 51.29
+
+31.
+R: [@@@@@]
+. @@@@@
+. @@@@@
+
+#a 51.29, None, 53.25
+
+32.
+R: @@[@]
+. @@@
+. @@@
+
+#a 53.25, None, 55.33
+
+33.
+B: [@]@
+. @@
+. @@
+
+#a 55.33, None, 55.88
+
+34.
+B: .. m-iicu riyung @@
+. AF-fear very @@
+. 主焦-怕 非常 @@
+
+#a 55.88, None, 56.54
+
+35.
+B: .. m-iicu riyung roro wa ha[ruko].\
+. AF-fear very PN PART PN
+. 主焦-怕 非常人名 語助詞 人名
+
+#e Haruko is very fraid of Roro.
+#c 春子很怕Roro。
+#a 56.54, None, 57.97
+
+36.
+R: ... [har--] @
+. FS @
+. FS @
+
+#a 57.97, None, 59.92
+
+37.
+.. ha-un=miyan a,_
+go-PF=1EPL.GEN FIL
+去-受焦=1EPL.屬格 FIL
+
+#a 59.92, None, 60.7
+
+38.
+B: .. m-nangi=ku mesa yah-i m-angan <L2JtegamiL2J> a m-- kes-un=mu ma
+. AF-pretend=1SG.NOM AF.say come-PF.IMP AF-take letter FIL FS say-PF=1SG.GEN then
+. 主焦-假裝=1SG.主格 主焦.說來-受焦.祈使 主焦-拿 信 FIL FS 說-受焦=1SG.屬格 然後
+
+#e I'll pretend to say "Come take the letter!"
+#c 我假裝說：「來拿信啊！」
+#a 60.7, None, 61.76
+
+39.
+B: ... m-kela naq [a==].\
+. AF-know self FIL
+. 主焦-知道 自己 FIL
+
+#a 61.76, None, 65.33
+
+40.
+R: [uN].\
+. FIL
+. FIL
+
+#a 65.33, None, 66.2
+
+41.
+B: .. nngiy-un=mu mesa eyah [m-ang <L2JtegamiL2J> a==.\]
+. pretend-PF=1SG.GEN AF.say come AF-take letter FIL
+. 假裝-受焦=1SG.屬格 主焦.說 主焦 主焦-拿 信 FIL
+
+#e She'll know that I'm just pretending in saying "Come take the letter!"
+#c 她自己會知道我只是假裝說：「來拿信啊！」
+#a 66.2, None, 66.84
+
+42.
+R: ...(0.9) [mke-- m-kela riyung] kari isu ha.\
+. FS AF-know very speech 2SG PART
+. FS 主焦-知道 非常 話 2SG 語助詞
+
+#e You are a brillian talker!
+#c 妳真的很會說話。
+#a 66.84, None, 67.72
+
+43.
+B: un [mesa=miyan].\
+. yes AF.say=2EPL.NOM
+. 是 主焦.說=2EPL.主格
+
+#a 67.72, None, 69.58
+
+44.
+R: [@@]
+. @@
+. @@
+
+#a 69.58, None, 69.75
+
+45.
+B: .. yah-i m-ang <L2JtegamiL2J>=su mesa de m-iicu seno de kani eyah ma==.\
+. come-PF.IMP AF-take letter=2SG.GEN AF.say PART AF-fear husband PART originally.not come PART
+. 來-受焦.祈使 主焦-拿 信=2SG.屬格 主焦.說 語助詞 主焦-怕 先生 語助詞 本來不 主焦.來 語助詞
+
+#n kani 後接動詞詞根，為在先前的情況下一件事情 "本來不會" 發生 之意。kani eyah "本來不來"。
+#a 69.75, None, 70.3
+#n kani 後接動詞詞根，為在先前的情況下一件事情 "本來不會" 發生 之意。kani eyah "本來不來"。
+
+46.
+B: .. ado kes-un <L2JtegamiL2J> de m-eyah kes-un ma.\
+. because say-PF letter PART AF-come say-PF then
+. 因為 說-受焦 信 語助詞 主焦-來 說-受焦 然後
+
+#e We can say "Come take your letter!". She is afraid of her husband, so (usually) she wouldn't come (to drink with us). But becuase we (pretend to) say that there is a letter (for her), she will come. 
+#c 我們說：「來拿信啊！」她會害怕丈夫，所以(通常)是不會來(和我們一起喝酒)的。但因為我們(假裝)說有(她的)信(要拿)，她就會來了。
+#a 70.3, None, 73.64
+
+47.
+B: .. m-kela naq a==.\
+. AF-know self FIL
+. 主焦-知道 自己 FIL
+
+#e She knows that herself.
+#c 她自己知道。
+#a 73.64, None, 75.9
+
+48.
+B: ... a==.\
+. FIL
+. FIL
+
+#a 75.9, None, 77.55
+
+49.
+B: ... m-- m-- m-apa laqi diyan a==.\
+. FS FS AF-carry.on.back child day PART
+. FS FS 主焦-背 小孩 白天 語助詞
+
+#a 77.55, None, 77.96
+
+50.
+R: .. [@@]
+. @@
+. @@
+
+#a 77.96, None, 80.02
+
+51.
+B: .. [m-bserux]=ta m-apa laqi di ma
+. AF-exhausted=1IPL.NOM AF-carry.on.back child PFV.PART then
+. 主焦-疲憊=1PL.主格 主焦-背 小孩 完成.語助詞 然後
+
+#e Taking care of the children during the day, we get tired.
+#c 白天背者孩子，我們會累。
+#a 80.02, None, 80.08
+
+52.
+B: .. naqah ka taqi riyung duri ma malu ka==.\
+. AF.bad NOM sleep very also then AF.good NOM
+. 主焦.壞 主格 睡覺 非常 也 然後 主焦.好 主格
+
+#a 80.08, None, 82.32
+
+53.
+B: .. p-rqeda=miyan ncugin peni ma==.\
+. AF-stove=1EP.NOM sometimes PART then
+. 主焦-爐灶=1EP.主格 偶而 語助詞 然後
+
+#n rqeda 原意為"爐灶"。prqeda 表 "使用爐灶"，即"煮菜喝酒"。
+#a 82.32, None, 84.7
+#n rqeda 原意為"爐灶"。prqeda 表 "使用爐灶"，即"煮菜喝酒"。
+
+54.
+B: ... m==-esa=miyan tikuh so==.\
+. ask.for=1EPL.NOM a.little be.like
+. 討=1EPL.主焦 一點 像
+
+#a 84.7, None, 87.09
+
+55.
+B: ... rgerang begu qnuuqu==._
+. AF.find.around soup AF.mistake
+. 主焦.東找西找 湯 主焦.錯誤
+
+#a 87.09, None, 89.15
+
+56.
+B: .. uh uh [uh uh <L2JhairazuL2J> XX] begu naqah X @@@@.\
+. FIL FIL FIL FIL shelf XX soup AF.bad X @@@@
+. FIL FIL FIL FIL 架子 XX 湯 主焦.壞 X @@@@
+
+#e It's bad to sleep to much during the day, and it's OK to use the stove (to prepare food and alcohol) sometimes, looking around for the mistaken soup, or the bad soup (alcohol)!
+#c 早上太愛睡也不好，反而偶爾用用爐灶(準備菜和酒)也很好啊，找找看錯誤的湯、壞的湯(酒)在哪裡！
+#n 此處begu naqah亦為玩笑話，隱喻為"酒"。
+#a 89.15, None, 91.3
+
+57.
+R: ... [begu naqah @@@@]
+. soup AF.bad @@@@
+. 湯 主焦.壞 @@@@
+
+#a 91.3, None, 91.96
+
+58.
+B: .. @@@@
+. @@@@
+. @@@@
+
+#a 91.96, None, 95.22
+
+59.
+B: ... @[@@]
+. @@@
+. @@@
+
+#a 95.22, None, 96.78
+
+60.
+R: .. [kiya ka] begu=nami mah-an sino de.\
+. that KA soup=1EPL.GEN drink-LF alcohol PART
+. 那個 KA 湯=1EPL.屬格 喝-處焦 酒 語助詞
+
+#e That (mistaken) soup is what we will have with the alcohol. 
+#c 那就是我們喝酒要配的湯。
+#a 96.78, None, 96.98
+
+61.
+R: .. @@@
+. @@@
+. @@@
+
+#a 96.98, None, 99.1
+
+62. 
+B: XX[XX].\
+. XXXX
+. XXXX
+
+#a 99.1, None, 99.86
+
+63.
+R: [@@]@
+. @@@
+. @@@
+
+#a 99.86, None, 100.21
+
+64. 
+R: ... kika m--
+. thus FS
+. 所以 FS
+
+#a 100.21, None, 101.48
+
+65.
+R: ... kika m-imah sino de ka==,_
+. thus AF-drink alcohol PART NOM
+. 所以 主焦-喝 酒 語助詞 主格
+
+#a 101.48, None, 102.71
+
+66.
+R: .. egu riyung ka kari di ma m-hemuc m-prengo di.\
+. AF.many very NOM speech PFV.PART then AF-freely AF-speak PFV.PART
+. 主焦.多 非常 主格 話 完成.語助詞 然後 主焦-隨便 主焦-說 完成.語助詞
+
+#e So we've already talked a lot about drinking alcohol. It's just random chatting. 
+#c 所以這個喝酒呢，已經講很多了。只是隨意聊天而已。
+#a 102.71, None, 104.36
+
+67.
+R: ...(0.7) <L2MzheyanglaL2M>.\
+. this.way
+. 這樣啦
+
+#e That's it.
+#c 這樣啦。
+#a 104.36, None, 108.07
+
+68.
+B: @@@@@
+. @@@@@
+. @@@@@
+
+#e @@@@@
+#c @@@@@
+#a 108.07, None, 108.39

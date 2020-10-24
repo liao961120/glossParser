@@ -1,0 +1,4169 @@
+topic: kathethel2
+type: Narrative
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 朱阿良, kalaeh a oemaw, male, 1928-8-8
+collected: 2003-01-01
+revised: None
+video: SaiNr-kathethel2_kalaeh a oemaw.mp3
+
+1.
+kakhayza'an,\
+before
+以前
+
+#a 0.76, None, 1.52
+
+2.
+... yao,/
+1SG.NOM
+1SG.主格
+
+#a 1.52, None, 2.3
+
+3.
+...(0.8) e== ... hayza' koSa'-en ka==,/
+FIL . EXIST say-PF FIL
+FIL . 存在 說-受焦 FIL
+
+#a 2.3, None, 4.78
+
+4.
+...(2.2) noka tatini' ka kapanabih koSa:==,/
+GEN ancestor NOM legend say
+屬格 老人 主格 故事 <主焦>說
+
+#a 4.78, None, 9.11
+
+5.
+...(1.6) ka== kathethel,/
+NOM PN
+主格 雷女
+
+#a 9.11, None, 11.73
+
+6.
+...(1.4) kathethel ==,/
+PN [man]
+雷女 是
+
+#a 11.73, None, 14.0
+
+7.
+... kakhayza'an koSa'en kama==_
+before DM KAMA
+以前 DM KAMA
+
+#a 14.0, None, 15.83
+
+8.
+...(0.8) 'ima ra:am tnon ka==_
+PROG AF.know weave ACC
+進行 主焦.知道 <主焦>織布 受格
+
+#a 15.83, None, 18.26
+
+9.
+...(1.0) kaybae:en,\
+clothes
+衣服
+
+#a 18.26, None, 19.71
+
+10.
+...(1.5) ra:am sihoe,/
+AF.know embroider
+主焦.知道 <主焦>繪紋樣
+
+#e I was told the story by the edlers. It said that long time before, Kathethel was the one who knew very well how to weave and embroider.
+#c 以前我有聽說老人的故事說，雷女是以前很會織布，會製線。
+#a 19.71, None, 22.18
+
+11.
+...(1.6) kakhayza'an nak'ino komoSa==',\
+before how COMP
+以前 如何 COMP
+
+#a 22.18, None, 25.36
+
+12.
+... makak-sekela' ki==,\
+REC-AF.know and
+交互-主焦.相識 和
+
+#a 25.36, None, 27.07
+
+13.
+... SaiSiyat./
+PN
+專名
+
+#e How she met the SaiSiyat people.
+#c 以前如何和賽夏族相識。
+#a 27.07, None, 28.02
+
+14.
+...(1.5) kakhayza'an SaiSiyat,/
+before PN
+以前 專名
+
+#a 28.02, None, 30.36
+
+15.
+...(1.9) oma' ... rengreng rima' 'alep ray== 'oeS'oeSo'an.\
+?? . always AF.go hunt LOC field
+?? . 常常 主焦.去 <主焦>打獵 處格 野外
+
+#e Before, SaiSiyat people often went hunting in the fields.
+#c 以前賽夏人常常去野外打獵。
+#a 30.36, None, 36.13
+
+16.
+...(1.4) ta==,\
+FS
+FS
+
+#a 36.13, None, 37.74
+
+17.
+...(0.9) hayza' .. 'aehae' 'oSa'-an,/
+EXIST . one place-NMZ
+存在 . 一 <完成>去-名物化
+
+#a 37.74, None, 39.98
+
+18.
+... rima' 'alep./
+AF.go hunt
+主焦.去 <主焦>打獵
+
+#e There was a place where they went hunting.
+#c 有一個地方，去打獵。
+#a 39.98, None, 41.38
+
+19.
+...(1.1) rima' lasia ray==,\
+AF.go 3PL.NOM LOC
+主焦.去 3PL.主格 處格
+
+#a 41.38, None, 43.51
+
+20.
+...(1.6) ba:la',/
+river
+河流
+
+#a 43.51, None, 45.78
+
+21.
+... 'al-'alih-an ... mas'inasal risaa'./
+RED-near-NMZ . put.up.a.temporary.shelter there
+重疊-近-名物化 . 搭工寮 在那裡
+
+#e They put up a temporary shelter near the river.
+#c 他們去河流附近搭工寮。
+#a 45.78, None, 48.35
+
+22.
+...(1.7) ra--_
+FS
+FS
+
+#a 48.35, None, 50.37
+
+23.
+...(1.6) baba:aw ray,\
+just LOC
+剛剛 處格
+
+#a 50.37, None, 52.75
+
+24.
+...(2.1) sinsekel rima',/
+not.long AF.go
+不久 主焦.去
+
+#a 52.75, None, 56.1
+
+25.
+...(1.0) ma== 'alep,/
+FIL hunt
+FIL <主焦>打獵
+
+#a 56.1, None, 58.03
+
+26.
+...(2.1) 'isaa,/
+that
+那個
+
+#e When they started to go hunting,
+#c 他們剛剛去打獵沒多久。
+#a 58.03, None, 60.49
+
+27.
+...(0.8) lasia== rima' ila 'alep,/
+3PL.NOM AF.go PFV hunt
+3PL.主格 主焦-打獵 完成 <主焦>打獵
+
+#a 60.49, None, 62.64
+
+28.
+...(1.8) patinasal ray==_
+temporary.shelter LOC
+工寮 處格
+
+#a 62.64, None, 65.38
+
+29.
+... ba:la' langi,/
+river side
+河流 邊
+
+#e They went hunting and put up a temporary shelter by the river bank.
+#c 他們去打獵，工寮搭在河邊。
+#a 65.38, None, 66.86
+
+30.
+...(1.2) lasia ma' isaa==,\
+3PL.NOM also that
+3PL.主格 也 那個
+
+#a 66.86, None, 68.79
+
+31.
+... rima' ila 'alep,/
+AF.go PFV hunt
+主焦.去 完成 <主焦>打獵
+
+#a 68.79, None, 69.98
+
+32.
+... lobih.\
+AF.return
+主焦.回來
+
+#e They went back from hunting.
+#c 他們去打獵回來。
+#a 69.98, None, 70.85
+
+33.
+...(2.2) lobih hini kita'-en ray== hataS nasia,\
+AF.return here see-PF LOC temporary.shelter 3PL.GEN
+主焦.回來 這裡 看-受焦 處格 工寮 3PL.屬格
+
+#a 70.85, None, 75.43
+
+34.
+...(1.4) sa'sa'ih ka==,/
+every ??
+每一個 ??
+
+#a 75.43, None, 77.96
+
+35.
+... koloban,\
+pot
+鍋子
+
+#a 77.96, None, 78.97
+
+36.
+... hiza 'aSkan,\
+there put
+那裡 <完成>放
+
+#a 78.97, None, 80.26
+
+37.
+...(1.1) ray== ka-talek-an,\
+LOC KA-cook-NMZ
+處格 KA-煮飯-名物化
+
+#a 80.26, None, 82.25
+
+38.
+...(1.0) lobih-in ma' ana pazay ma',\
+return-PF also ever rice also
+回來-受焦 也 曾 飯 也
+
+#a 82.25, None, 84.85
+
+39.
+.. ma' 'aS'aSay ila saboeh,\
+also cooked PFV AF.all
+也 熟 完成 主焦.全部
+
+#a 84.85, None, 86.02
+
+40.
+...(1.6) talek ila saboeh.\
+cook PFV AF.all
+<完成>煮 完成 主焦.全部
+
+#e They returned and found each container in the kitchen was filled with cooked rice.
+#c 回來看到他們的工寮，每一個廚房裡的鍋子，回來飯都全部煮好了。
+#a 86.02, None, 88.58
+
+41.
+...(1.0) lasia lobih,\
+3PL.NOM AF.return
+3PL.主格 AF.回來
+
+#a 88.58, None, 90.46
+
+42.
+... kSa:,/
+say
+<主焦>說
+
+#a 90.46, None, 91.01
+
+43.
+... 'ampowa' hini',\
+why here
+為什麼 這個
+
+#a 91.01, None, 92.84
+
+44.
+...(1.1) hayza' ka mae'iyaeh hiya' hini,\
+EXIST NOM person who this
+存在 主格 人 誰 這個
+
+#a 92.84, None, 95.66
+
+45.
+.. m-wa:i' talek ka==,/
+AF-come cook ACC
+主焦-來 主焦-煮 受格
+
+#a 95.66, None, 96.86
+
+46.
+... pazay 'inimita'.\
+rice 1IPL.DAT
+飯 1IPL.予格
+
+#e When they got back, they asked, who always came to cook for us?
+#c 他們回來，說：「怎麼會有人常常來給我們煮飯。」
+#a 96.86, None, 98.18
+
+47.
+...(1.6) rima' lasia,/
+AF.go 3PL.NOM
+主焦.去 3PL.主格
+
+#a 98.18, None, 100.59
+
+48.
+...(1.5) 'aSmi'ael ka hiza ka==,/
+FUT.eat ACC that ACC
+未來.吃 受格 那個 受格
+
+#a 100.59, None, 103.27
+
+49.
+.. pazay talek_
+rice cook
+飯 <完成>煮
+
+#a 103.27, None, 104.31
+
+50.
+... makak-tikot./
+REC-AF.afraid
+互相-主焦.怕
+
+#e They were about to eat, but they felt uneasy.
+#c 他們正要吃飯的時候，大家心裡都怕怕的。
+#a 104.31, None, 105.26
+
+51.
+...(1.8) koSa: 'ima==,/
+say PROG
+<主焦>說 進行
+
+#a 105.26, None, 107.65
+
+52.
+... pasan'a'aih hiza,/
+frame.up that
+<完成>陷害 那個
+
+#a 107.65, None, 109.64
+
+53.
+.. hilasia ka kama==...'-alep./
+3PL.ACC FS KAMA-hunt
+3PL.受格 FS KAMA-<主焦>打獵
+
+#e They said maybe somebody wanted to set them up.
+#c 就說也許有人想要陷害我們。
+#n Note: pinasan'a'aih-in 
+#n Note: yao 'am pa'a'aih hisia 我想要陷害他 We are going to frame him up.
+#n Note: So'o 'izi' pa'a'aih 'iyakin 不要陷害我 Don’t frame me up.
+#a 109.64, None, 111.53
+
+54.
+...(1.2) na==,/
+FS
+FS
+
+#a 111.53, None, 113.07
+
+55.
+...(1.4) nasia pazay,/
+3PL.GEN rice
+3PL.屬格 飯
+
+#a 113.07, None, 115.2
+
+56.
+... mari'-in si-boeloe,/
+take-PF RF-toss
+拿來-受焦 指焦-扔掉
+
+#a 115.2, None, 116.51
+
+57.
+...(1.2) si-pa-si'ael ka 'aehoe',/
+RF-CAU-eat ACC dog
+指焦-使役-吃 受格 狗
+
+#a 116.51, None, 118.84
+
+58.
+...(0.8) noka 'aehoe'  si'ael-en kayzaeh 'okay==,\
+GEN dog [Man]again eat-PF AF.good NEG
+屬格 狗 又 吃-受焦 主焦.好 否定
+
+#a 118.84, None, 121.83
+
+59.
+... pasay 'aehoe'./
+AF.die dog
+主焦.死 狗
+
+#e They tossed the rice for the dog to eat it. The dog happily ate the rice and did not die.
+#c 他們把飯拿起來扔掉，給狗吃了，好好的沒有死掉。
+#n Note: 'okik pasay 不死 won't die
+#n Note: 'okay pasay 沒死 not dead
+#a 121.83, None, 122.99
+
+60.
+...(1.5) m'itol 'aehae' ha-hila,/
+AFstand one Ca-sun
+主焦<完成>起來 一 Ca重疊-太陽
+
+#e On the next day,
+#c 第二天，
+#a 122.99, None, 125.62
+
+61.
+... lasia,/
+3PL.NOM
+3PL.主格
+
+#a 125.62, None, 126.68
+
+62.
+...(0.8) rima' naehaen 'alep./
+AF.go again hunt
+主焦.去 又 <主焦>打獵
+
+#e They went hunting again.
+#c 他們又去打獵。
+#a 126.68, None, 128.54
+
+63.
+...(1.2) komoSa:,/
+DM
+DM
+
+#a 128.54, None, 130.04
+
+64.
+...(1.7) a== ... lobih-in kita'-en ma',/
+FIL . return-PF see-PF also
+FIL . 回來-受焦 看-受焦 也
+
+#a 130.04, None, 133.46
+
+65.
+... noka ina 'alep,/
+GEN EXPER hunt
+屬格 經驗 <主焦>打獵
+
+#a 133.46, None, 134.88
+
+66.
+... ka==_
+ACC
+受格
+
+#a 134.88, None, 135.99
+
+67.
+.. pazay ma',/
+rice also
+飯 也
+
+#a 135.99, None, 136.71
+
+68.
+... nak'isaa kita'-en 'al-'alro:or .. talek ila,/
+like.that see-PF RED- . cook PFV
+像那個 看-受焦 重疊-接著 . <完成>煮 完成
+
+#a 136.71, None, 139.37
+
+69.
+...(1.2) saboeh.\
+AF.all
+主焦.全部
+
+#e When they went back in the evening, the rice was again already prepared.
+#c 那些打獵過的人回來看到飯全部都煮好了。」
+#a 139.37, None, 140.99
+
+70.
+...(1.5) koSa:,/
+say
+<主焦>說
+
+#a 140.99, None, 142.65
+
+71.
+...(0.9) 'ima nak'ino'-an ma' hiya' 'atomalan hini,/
+PROG how-PF also who truly here
+進行 如何-受焦 也 誰 到底 這裡
+
+#a 142.65, None, 146.08
+
+72.
+... ma== talek 'inimita' ka==_
+FIL cook 1IPL.DAT ACC
+FIL 主焦-煮 1IPL.予格 受格
+
+#a 146.08, None, 148.46
+
+73.
+... pazay.\
+rice
+飯
+
+#e They asked, 'Who went out of his way to come to cook for us?'
+#c 就說：「怎麼到底是誰一直來為我們煮飯？」
+#n kama-<m>wai'
+#n KAMA-<AF>come
+#n KAMA-<主焦>來
+#a 148.46, None, 149.26
+
+74.
+...(1.0) lasia ma-'az'azem komoSa:,/
+3PL.NOM AF-think COMP
+3PL.主格 主焦-想 COMP
+
+#a 149.26, None, 151.73
+
+75.
+...(1.9) ma==_
+FIL
+FIL
+
+#a 151.73, None, 153.62
+
+76.
+... takahini ila,\
+like.this PFV
+像這樣 完成
+
+#a 153.62, None, 154.99
+
+77.
+...(1.0) Saro:o' ila So: 'aehae' ka mae'iyaeh rini ma== kit-kita ... o:_
+AF.take.turns PFV COND one NOM person here FIL RED-see . INT
+主焦.照名冊輪流 完成貌 條件詞 一 主格 人 這裡 FIL 重疊-看 . 感嘆
+
+#a 154.99, None, 159.8
+
+78.
+...(1.2) hosa:il i: takosaili 'izi'i: pa-kita'.\
+AF.hide ?? conseal NEG CAU-AF.see
+主焦.躲著 ?? 隱藏 否定 使役-看
+
+#e Let's do something like this: we take turns staying here to hide and observe. Don't let that person see us."
+#c 他們心裡想：「就這樣吧。輪流一個人監視，要躲好，不要被他發現。」
+#n Note: nakhini ila像這樣了It's like this
+#n Note: hosail mina takosaili 'izi'i pa-kita'
+#a 159.8, None, 163.57
+
+79.
+...(1.0) sa'oewaz lasia,/
+AF.truly 3PL.NOM
+主焦.真的 3PL.主格
+
+#a 163.57, None, 165.25
+
+80.
+.. 'aehae' ka kamo'alay,\
+one NOM youth
+一 主格 年輕人
+
+#a 165.25, None, 166.81
+
+81.
+...(0.9) saro'on ri'za ray ataS,\
+AF.stay.behind there LOC temporary.shelter
+主焦.躲在後面 在那裡 處格 工寮
+
+#a 166.81, None, 169.44
+
+82.
+...(1.1) ra-- .. si-'oSa' ila Sa 'alep.\
+FS . RF-go PFV go hunt
+FS . 指焦-走 完成 去 打獵
+
+#e  A young man stayed behind, and the rest of them went to hunt.
+#c 真的一個年輕人躲在工寮後面，他們就去打獵。
+#a 169.44, None, 172.3
+
+83.
+...(1.4) isa-- ... m-wa:i',\
+FS . AF-come
+FS . 主焦-來
+
+#a 172.3, None, 175.01
+
+84.
+...(1.3) potngor .. roehaenaen ila.\
+AF.arrive . evening PFV
+主焦.到達 . 晚上 完成
+
+#e It came the evening.
+#c 到了晚上就來了。
+#a 175.01, None, 177.69
+
+85.
+...(1.5) ray ka-tikinSao'-on sa'oewaz,\
+LOC KA-supper-NMZ AF.truly
+處格 KA-晚餐-名物化 主焦.真的
+
+#a 177.69, None, 180.83
+
+86.
+...(1.1) kita'-en ... 'inay hao,\
+see-PF . from there
+看-受格 . 從 那裡
+
+#a 180.83, None, 182.96
+
+87.
+... m-wa:i' si-paykakamoeh ka kabinao',/
+AF-come RF-suddenly NOM lady
+主焦-來 指焦-匆匆忙忙 主格 小姐
+
+#a 182.96, None, 185.59
+
+88.
+...(1.1) 'inaray,\
+from
+從
+
+#a 185.59, None, 187.21
+
+89.
+...(0.8) wasal 'izo' ma==.\
+sea inside FIL
+海 裡面 FIL
+
+#e When the time came to prepare supper, a lady suddenly appeared from the sea.
+#c 晚餐的時間真的從那裡看到有個小姐匆匆忙忙從海裡出來了。
+#n tikinhila:an煮中飯 cook lunch
+#n komhae:ae''吃早餐 eat breakfast
+#a 187.21, None, 189.38
+
+90.
+... m-wa:i',\
+AF-come
+主焦-來
+
+#a 189.38, None, 190.4
+
+91.
+...(0.9) 'isaza noka==,\
+there GEN
+那個 屬格
+
+#a 190.4, None, 191.9
+
+92.
+... kamo'alay kit-kita',\
+youth RED-see
+年輕人 <完成>重疊-看
+
+#a 191.9, None, 193.68
+
+93.
+...(0.8) tanisia./
+follow
+跟踨
+
+#e She was being observed by the young man.
+#c 被那個年輕人監視跟蹤。
+#a 193.68, None, 194.84
+
+94.
+... m-wa:i',/
+AF-come
+主焦-來
+
+#a 194.84, None, 195.81
+
+95.
+...(0.8) wohwohwoh ma==,\
+ONOM FIL
+狀聲 FIL
+
+#a 195.81, None, 197.68
+
+96.
+...(0.8) talek ila ka pazay.\
+cook PFV ACC rice
+<主焦>煮 完成 受格 飯
+
+#e She washed the rice, and cooked it.
+#c 嘩嘩嘩的洗米，煮起飯來了。
+#a 197.68, None, 199.67
+
+97.
+...(1.7) pazay yo,/
+rice INT
+米 感嘆
+
+#a 199.67, None, 202.0
+
+98.
+...(1.2) nisia ... 'okik ra:am-i ka== 'am== .. sempong.\
+3SG.GEN . NEG know-PF FIL FUT . measure
+3SG.屬格 . 否定 知道-受焦 FIL 未來 . 衡量
+
+#e She didn't know what to use for measuring the rice.
+#c 他不知道米要用什麼量。
+#a 202.0, None, 206.94
+
+99.
+...(1.1) lasia saspong ka==,/
+3PL.NOM measure ACC
+3PL.主格 量米的東西 受格
+
+#a 206.94, None, 209.26
+
+100.
+... ka==no' noka==,/
+what GEN
+什麼 屬格
+
+#a 209.26, None, 210.8
+
+101.
+... kaeh'oe' ka==,\
+tree.name ??
+樹名 ??
+
+#a 210.8, None, 212.59
+
+102.
+...(1.2) pehez,\
+fruit.shell
+果子殼
+
+#a 212.59, None, 214.14
+
+103.
+...(1.5) sa-- ... 'ol'ola'an 'atomal si'siya'an ka==,\
+FS . small very similar FIL
+FS . 小的 非常 像 FIL
+
+#a 214.14, None, 218.67
+
+104.
+... kaklekeh kin sobae:oeh./
+fingernail very AF.big
+指甲 非常 主焦.大
+
+#e The fruit that they used to measure rice was as small as a fingernail.
+#c 他們量米的器具是樹的果實殼，像指甲那麼小。
+#a 218.67, None, 220.32
+
+105.
+... hiza sispeng,\
+there measure
+那裡 量米
+
+#a 220.32, None, 221.48
+
+106.
+...(0.9) za-- hiza ka== SaiSiyat koSa:,/
+FS there NOM PN say
+FS 那裡 主格 專名 <主焦>說
+
+#a 221.48, None, 223.88
+
+107.
+.. na 'inimita' si'si' haysia o hini pazay o:,/
+?? 1IPL.DAT rice still INT this rice INT
+?? 1IPL.予格 米 仍然 感嘆 這個 米 感嘆
+
+#a 223.88, None, 227.87
+
+108.
+... kin 'akoy talek./
+very AF.many cook
+非常 主焦.多 <完成>煮
+
+#e She cooked too much rice, but it didn't seem like rice had been taken.
+#c 量米的時候賽夏人說，我們的飯煮起來還是很多。
+#a 227.87, None, 229.35
+
+109.
+... ampowa' ma==,\
+why FIL
+為什麼 FIL
+
+#a 229.35, None, 231.05
+
+110.
+...(2.5) 'ima kano 'atomal soka' isahiza kita'-en noka hiza ka==,\
+PROG what very reason there see-PF GEN that FIL
+進行 什麼 很 理由 那裡 看-受焦 屬格 那個 FIL
+
+#a 231.05, None, 236.86
+
+111.
+... 'ima==,/
+PROG
+進行
+
+#a 236.86, None, 237.61
+
+112.
+.. mia'lawa' zi'saa pa-kit-kita' bowa,/
+AF.stand.guard there CAU-RED-see post
+主焦.站崗 在那裡 <完成>使役-重疊-看 柱子
+
+#a 237.61, None, 239.63
+
+113.
+...(0.8) tatini' zi'sa ka kamo'alay.\
+old.man there ?? youth
+老人 在那裡 ?? 年輕人
+
+#e It is not known for what reason ... who was sent by the old man to guard the house."
+#c 不知道為什麼，被老人們派去站崗監視的是一個年輕人。
+#a 239.63, None, 242.0
+
+114.
+... hiza kita'-en sia,/
+there see-PF 3SG.NOM
+那裡 看-受焦 3SG.主格
+
+#a 242.0, None, 243.5
+
+115.
+... sa'oewaz,/
+AF.truly
+主焦.真的
+
+#a 243.5, None, 244.16
+
+116.
+...(0.8) m-wa:i',\
+AF-come
+主焦-來
+
+#a 244.16, None, 245.24
+
+117.
+.. talek ila.\
+cook PFV
+<主焦>煮 完成
+
+#e The young person has truly seen her come to cook.
+#c 就被年輕人看到她真的來煮飯了。
+#a 245.24, None, 246.08
+
+118.
+...(1.3) a-- rima' nisia,/
+FS AF.go 3SG.GEN
+FS 主焦.去 3SG.屬格
+
+#a 246.08, None, 248.06
+
+119.
+... tikakameh-en 'am talek ri'sa:a.\
+peek-PF FUT cook there
+偷看.受焦 未來 <主焦>煮 那裡
+
+#e The young man was watching her silently.
+#c 在那裡偷偷的看她煮飯。
+#a 248.06, None, 250.28
+
+120.
+... koSa'en,/
+FIL
+FIL
+
+#a 250.28, None, 251.11
+
+121.
+... hini So'o ay kama,/
+here 2SG.NOM INT KAMA
+這 2SG.主格 感嘆 KAMA
+
+#a 251.11, None, 252.98
+
+122.
+...(0.8) m-wa:i' talek ila hini.\
+AF-come cook PFV here
+主焦-來 <主焦>煮 完成 這
+
+#e It's you who always came to cook here.
+#c 你總是來這裡煮飯。
+#a 252.98, None, 255.07
+
+123.
+... za sia 'okay tiskolater o: pa'yaka:i'./
+there 3SG.NOM NEG AF.honestly INT say
+那裡 3SG.主格 否認 主焦.誠實 感嘆 說
+
+#e She neither answers nor says anything.
+#c 她沒有回答也沒說什麼。
+#a 255.07, None, 258.0
+
+124.
+.. kayzaeh ka==,/
+AF.good ACC
+主焦.好 受格
+
+#a 258.0, None, 258.98
+
+125.
+... kabinao',/
+lady
+小姐
+
+#a 258.98, None, 259.97
+
+126.
+...(1.3) isaa,\
+DM
+DM
+
+#a 259.97, None, 261.16
+
+127.
+...(1.2) koSa'en tikakameeh-en noka isaa kamo'alay./
+DM observe.silently.PF GEN that youth
+DM 觀察.受焦 屬格 那 年輕人
+
+#e The young man observed the girl silently.
+#c 那個年輕人靜靜的看著那個小姐。
+#a 261.16, None, 264.22
+
+128.
+.. yo kita' ka isaa kamo'alay lasia,/
+INT see ACC that youth 3PL.NOM
+感嘆 <主焦>看 受格 那 年輕人 3PL.主格
+
+#e The girl saw the youth.
+#c 小姐也看著年輕人。
+#a 264.22, None, 266.71
+
+129.
+... sa-saze:ez_
+RED-AF.stare
+重疊-主焦.凝視
+
+#a 266.71, None, 267.86
+
+130.
+... lasia roSa'./
+3PL.NOM two
+3PL.主格 兩個
+
+#e Both of them stared at each other.
+#c 他們兩個互相凝視。
+#a 267.86, None, 269.17
+
+131.
+... maehraehraeng o: kik paehraehraeng makak-sikar./
+AF.speak INT NEG AF.speak REC-AF.shy
+主焦.說 感嘆 否定 主焦.說 互相-主焦.害羞
+
+#e They did not speak anything and felt shy.
+#c 沒有說話，都覺得很害羞。
+#a 269.17, None, 272.4
+
+132.
+...(0.9) hiza,/
+FIL
+FIL
+
+#a 272.4, None, 273.66
+
+133.
+...(0.4) in'alay ri'sa:,/
+from that.time
+從 那時
+
+#a 273.66, None, 275.23
+
+134.
+... mayna:a' ila ka== ina 'alep./
+AF.wait PFV ACC EXPER hunt
+主焦.等 完成 受格 經驗 <主焦>打獵
+
+#e From then on, they waited for the hunters.
+#c 從那時候他們開始等打獵的人回來。
+#a 275.23, None, 277.33
+
+135.
+...(1.7) honahai' kita'-en,\
+in.a.short.while see-PF
+一下子 看-受焦
+
+#a 277.33, None, 280.0
+
+136.
+... ina 'alep lobih ila./
+EXPER hunt AF.return PFV
+經驗 <主焦>打獵 主焦.回來 完成
+
+#e In a short while, the hunters returned.
+#c 一下子打獵的人就回來了。
+#a 280.0, None, 282.44
+
+137.
+...(1.5) hiza ma,/
+that FIL
+那 FIL
+
+#a 282.44, None, 284.32
+
+138.
+...(1.8) minsa'la' ka== 'aehoe' potngor ri'sa./
+AF.first NOM dog AF.arrive there
+主焦.先 主格 狗 主焦.到達 那裡
+
+#e The dog arrived first.
+#c 狗先回來。
+#a 284.32, None, 288.37
+
+139.
+...(1.0) ina-'alep ri'sa: m-wa:i' ila isaa ray ataS hiza lasia roSa',/
+EXPER-hunt there AF-come PFV that LOC temporary.shelter there 3PL.NOM two
+經驗-<主焦>打獵 那裡 主焦-來 完成 那 處格 工寮 那裡 3PL.主格 兩個
+
+#a 288.37, None, 292.68
+
+140.
+... kabinao' ki kamo'alay ma' isaa./
+lady and youth also there
+女人 和 年輕人 也 那裡
+
+#e The hunters arrived where both of them were.
+#c  打獵人回到工寮裡年輕人和小姑娘兩人也在那裡。
+#a 292.68, None, 295.01
+
+141.
+... 'i'ini paehraehraeng.\
+NEG AF.speak
+否定 主焦.說話
+
+#e Both of them have not spoken to each other.
+#c 沒有說話。
+#a 295.01, None, 296.93
+
+142.
+...(0.9) sa m-wa:i' ka 'aehoe',/
+DM AF-come NOM dog
+DM 主焦-來 主格 狗
+
+#a 296.93, None, 298.77
+
+143.
+...(0.9) m-wa:i' ... ray kamo'alay ri'sa==.\
+AF-come . LOC youth there
+主焦-來 . 處格 年輕人 那裡
+
+#e The dog came toward the young man.
+#c 狗來到年輕人那邊。
+#a 298.77, None, 301.64
+
+144.
+...(2.3) m-wa:i' ... kilohay ri'sa ray==,\
+AF-come . wag.tail there LOC
+主焦-來 . <主焦>搖尾巴 那裡 處格
+
+#a 301.64, None, 305.92
+
+145.
+... mae'iyaeh 'al-'alih-an.\
+person RED-near-NMZ
+人 重疊-近-名物化
+
+#e It went close to the young man, wagging its tail.
+#c 搖著尾巴接近人那邊。
+#a 305.92, None, 307.67
+
+146.
+... 'inalay risa ... noka==,/
+from there . GEN
+從 那裡 . 屬格
+
+#a 307.67, None, 310.14
+
+147.
+...(0.8) hiza ka==,\
+that FIL
+那 FIL
+
+#a 310.14, None, 311.42
+
+148.
+...(0.8) kamo'alay koSa:,/
+youth say
+年輕人 <主焦>說
+
+#a 311.42, None, 313.28
+
+149.
+.. ma' hini ampowa' hiza ka 'aehoe' m-wa:i',/
+FIL this why that NOM dog AF-come
+FIL 這 怎麼 那 主格 狗 主焦-來
+
+#a 313.28, None, 315.61
+
+150.
+...(1.4) tomo'aewhaey hataki yakin.\
+AF.naughty play 1SG.ACC
+主焦.頑皮 <主焦>玩耍 1SG.受格
+
+#e That time, the young man remarked why the dog naughtily played with him.
+#c 那時候那年輕人說：「這狗怎麼這麼愛跟我玩？」
+#a 315.61, None, 318.46
+
+151.
+... za,/
+FIL
+FIL
+
+#a 318.46, None, 319.32
+
+152.
+...(1.7) m-wa:i' ila ka==,/
+AF-come PFV NOM
+主焦-來 完成 主格
+
+#a 319.32, None, 321.99
+
+153.
+.. imahaebae:aen ri'sa iska he-hemi'an noka hiza./
+AF.many there do RED-AF.silent GEN there
+主焦.許多 那裡 做 重疊-主焦.安靜 屬格 那裡
+
+#e There came a crowd of people silently.
+#c 很多人安靜的來了。
+#a 321.99, None, 324.95
+
+154.
+...(0.9) ka== kamo'alay hiza 'aehoe' sebet-en sa./
+FIL youth that dog hit-PF DM
+FIL 年輕人 那 狗 打-受焦 DM
+
+#e The young man hit the dog.
+#c 年輕人拍了那狗一下。
+#a 324.95, None, 328.24
+
+155.
+...(0.7) 'tet sa.\
+fart DM
+<主焦>放屁 DM
+
+#e The dog farted.
+#c 狗放屁了。
+#a 328.24, None, 329.74
+
+156.
+...(1.9) in'alay ri'sa bazae' ka intot hiza ka==,/
+be.from there AF.hear ACC fart that NOM
+從 那裡 主焦.聽 受格 放屁 那 主格
+
+#a 329.74, None, 334.35
+
+157.
+... kabinao,/
+lady
+小姐
+
+#a 334.35, None, 335.19
+
+158.
+...(1.0) isa,/
+FIL
+FIL
+
+#a 335.19, None, 336.46
+
+159.
+...(0.8) baza' na'ora==,/
+AF.hear suddenly
+主焦.聽 突然
+
+#a 336.46, None, 338.07
+
+160.
+... sawa' ila hiza ka== kamo'alay ma' sawa' ila./
+AF.laugh PFV that NOM young.man also AF.laugh PFV
+主焦.笑 完成 那 主格 年輕人 也 主格.笑 完成
+
+#e Upon hearing the dog fart, the lady laughed. The young man also laughed.
+#c 聽到放屁聲，那女人笑了，年輕人也笑了。
+#a 338.07, None, 341.35
+
+161.
+... inalay ri'sa isaa lasia maehraehraeng komoSa:,/
+be.from there that 3PL.NOM AF.discuss say
+從 那裡 那個 3PL.主格 主焦.商量 <主焦>說
+
+#a 341.35, None, 344.18
+
+162.
+...(0.9) maehraehraeng ila komoSa:,/
+AF.discuss PFV say
+主焦.商量 完成 <主焦>說
+
+#a 344.18, None, 346.11
+
+163.
+... So'o,/
+2SG.NOM
+2SG.主格
+
+#a 346.11, None, 347.12
+
+164.
+...(1.4) sin-hiya'-en.\
+who
+誰
+
+#e They talked ans asked "Who are you?"
+#c 那時他們開始討論，討論說：「你是誰？」
+#a 347.12, None, 349.47
+
+165.
+... hiza ka==,/
+that NOM
+那 主格
+
+#a 349.47, None, 350.73
+
+166.
+...(1.2) kabinao' koSa: yao ka== kaSnay ralom,\
+lady say 1SG.NOM FIL from water
+小姐 <主焦>說 1SG.主格 FIL 從 水
+
+#a 350.73, None, 354.35
+
+167.
+... 'izo',/
+inside
+裡面
+
+#a 354.35, None, 355.48
+
+168.
+...(1.7) koSa'-en ka kathethel,/
+say-PF NOM PN
+叫做-受焦 主格 雷女
+
+#e The lady told him that she came from the sea. Her name was Kathethel.
+#c 小姐就說，我是從水裡來的。名字叫做雷女。
+#a 355.48, None, 358.44
+
+169.
+...(1.0) isaa sa'oewaz,\
+that AF.true
+那 主焦.真的
+
+#a 358.44, None, 360.01
+
+170.
+... lasia maehraehraeng ila ri'sa.\
+3PL.NOM AF.discuss PFV there
+3PL.主格 主焦.商量 完成 那裡
+
+#e They were talking to each other there.
+#c 他們在那裡講話。
+#a 360.01, None, 362.39
+
+171.
+...(0.9) m-wa:i' lohapor-on ila noka==,/
+AF-come catch.up-PF PFV GEN
+主焦-來 抓到-受焦 完成 屬格
+
+#a 362.39, None, 364.48
+
+172.
+.. tatini' hiza ina 'alep lobih ila./
+old.man there EXPER hunt AF.return PFV
+老人 那裡 經驗 <主焦>打獵 主焦.回來 完成
+
+#e They were there when the old folks arrived. The hunters returned home.
+#c 他們在那裡，老人們回來了，打獵回來了。
+#a 364.48, None, 366.85
+
+173.
+... sa-en ay So'o ay hini kama-m-wa:i',/
+say-PF Q 2SG.NOM Q here NMZ-AF-come
+說-受焦 疑問 2SG.主格 疑問 這裡 名物化-主焦-來
+
+#a 366.85, None, 369.34
+
+174.
+...(0.8) talek,\
+cook
+<主焦>煮
+
+#a 369.34, None, 370.52
+
+175.
+...(0.8) 'iniya'om.\
+1EPL.DAT
+1EPL.予格
+
+#e They said: "Is it you who come to cook for us?"
+#c 就說：「就是你常常來煮飯給我們嗎？」
+#a 370.52, None, 371.62
+
+176.
+...(1.2) ma' sa yako./
+FIL DM 1SG.NOM
+FIL DM 1SG.主格
+
+#e Yes, it was me.
+#c 就是我。
+#a 371.62, None, 373.66
+
+177.
+...(0.9) nimon sa,/
+2PL.GEN DM
+2PL.屬格 DM
+
+#a 373.66, None, 374.96
+
+178.
+... kapowa'en sa a talek sa si-boeloe.\
+how.come FIL FIL cook DM RF-throw
+怎麼會 FIL FIL <完成>煮 DM 指焦-丟
+
+#e Tell me why you threw away the food I cooked.
+#c 你們怎麼把煮好的東西丟掉。
+#a 374.96, None, 377.33
+
+179.
+...(0.9) hini mina 'inmoyo sa nonak si'si' ma'an talek-en.\
+here certainly 2PL.POSS DM self rice 1SG.GEN cook-PF
+這 一定 2PL.所有格 DM 自己 米 1SG.屬格 煮-受焦
+
+#e The rice I cooked was your own.
+#c 我煮的是你們自己的米。
+#a 377.33, None, 380.7
+
+180.
+...(0.8) isaa sa==',/
+there DM
+那裡 DM
+
+#a 380.7, None, 381.91
+
+181.
+... noka== tatini' kosa'-en,\
+GEN old.man say-PF
+屬格 老人 說-受焦
+
+#a 381.91, None, 383.45
+
+182.
+...(1.0) So'o,/
+2SG.NOM
+2SG.主格
+
+#a 383.45, None, 384.89
+
+183.
+... anyami ka==,/
+1EPL.POSS FIL
+1EPL.所有格 FIL
+
+#a 384.89, None, 386.27
+
+184.
+... si'si' o: 'ampowa' 'oka' ka==,\
+rice INT why NEG FIL
+米 感嘆 為何 否定 FIL
+
+#a 386.27, None, 388.08
+
+185.
+... sispeng-en ka si'si' 'okik wawala'./
+measure-PF NOM rice NEG decrease
+量-受焦 主格 米 否定 減少
+
+#e The old men said, " If it's our own rice, then why is there no trace of any rice being measures?"
+#c 老人就說，你用我們的米為什麼都沒有被量過，沒有減少？
+#a 388.08, None, 391.11
+
+186.
+...(0.8) hiza sa pa-kita' ila ka saspeng./
+there DM CAU-see PFV ACC measure
+那裡 DM 使役-看 完成 受格 量杯
+
+#e She showed everybody the measuring cup.
+#c 她就給大家看她的量杯。
+#a 391.11, None, 393.42
+
+187.
+...(0.8) nisia ka inoka kaeh'oe ka==,/
+3SG.GEN FIL use tree.name FIL
+2SG.屬格 FIL 用 (樹的名字) FIL
+
+#a 393.42, None, 396.44
+
+188.
+...(1.9) ka== pehez./
+FIL fruit.shell
+FIL 水果殼
+
+#e She took a tree fruit for measuring.
+#c 他用樹木的果實殼作量杯。
+#a 396.44, None, 399.42
+
+189.
+...(0.8) isa-- .. mari'-in sispeng,\
+FS . take-PF measure
+FS . 拿-受焦 量
+
+#a 399.42, None, 401.44
+
+190.
+...(0.8) hiza 'ol'ola'an 'atomalan si'siya'an ka kakloekoeh ka==,/
+that small very similar FS fingernail FIL
+那 小 很 像 FS 指甲 FIL
+
+#a 401.44, None, 404.78
+
+191.
+... pehez kin ol'ola'an o:./
+fruit.shell very small INT
+水果殼 很 小 感嘆
+
+#e It was taken for measuring. The tree fruit was as small as a fingernail.
+#c 拿來量東西。那樹的果實殼很小，像指甲那樣非常小。
+#a 404.78, None, 406.34
+
+192.
+... koSa: 'ampowa' soka kin 'akoy ka== pazay,\
+say why Q very AF.many NOM rice
+<主焦>說 為何 疑問 很 主焦.多 主格 飯
+
+#a 406.34, None, 409.01
+
+193.
+... mayhae'hae' ray== koloban./
+AF.full LOC pot
+主焦.滿 處格 鍋子
+
+#e They said, "Why was so much rice cooked that the pot was filled to the brim?"
+#c 問說，為什麼飯滿滿的一鍋子。
+#a 409.01, None, 411.0
+
+194.
+... koSa: niya'om noka isaa nana==w,/
+say 1EPL.GEN GEN that only
+<主焦>說 1EPL.屬格 屬格 那 只有
+
+#a 411.0, None, 413.08
+
+195.
+... saspeng .. ma nakhini'an.\
+measure . FIL like.this
+量杯 . FIL 像這樣
+
+#e She said, " We only used the measuring cup to measure like this."
+#c 答說：「我們用量杯這樣量。」
+#a 413.08, None, 415.24
+
+196.
+...(1.0) sa'oewaz
+AF.truly
+主焦.真的
+
+#a 415.24, None, 416.54
+
+197.
+... 'in'alay risa noka tatini' koSa'en,/
+from there GEN old.man say-PF
+從 那裡 屬格 老人 說-受焦
+
+#a 416.54, None, 418.82
+
+198.
+...(0.9) So'o,/
+2SG.NOM
+2SG.主格
+
+#a 418.82, None, 420.09
+
+199.
+... am kayzaeh ay mari' niya'om noka SaiSiyat./
+FUT AF.good Q AF.take 1EPL.GEN GEN PN
+未來 主焦.好 疑問 主焦.拿 1EPL.屬格 屬格 專名
+
+#e The old man said, "Could we take you as a daughter-in-law?
+#c 老人說：「你讓我們賽夏人娶來當媳婦不是很好媽？」
+#a 420.09, None, 422.38
+
+200.
+... sia koSa:,\
+3SG.NOM say
+3SG.主格 <主焦>說
+
+#a 422.38, None, 423.63
+
+201.
+... ma' 'am kayzaeh siya o:,/
+also FUT AF.good however INT
+也 未來 主焦.好 但是 感嘆
+
+#a 423.63, None, 425.31
+
+202.
+...(0.9) yao 'am,\
+1SG.NOM want
+1SG.主格 要
+
+#a 425.31, None, 426.42
+
+203.
+...(2.2) rima' naehaen ray taew'an,\
+AF.go still LOC home
+主焦.去 還 處格 家
+
+#a 426.42, None, 429.78
+
+204.
+... a singozaw ka== tatini'./
+FIL ask ACC old.man
+FIL <主焦>問 受格 老人家
+
+#e She said , "Yes, but I have to go home first to ask my old man."
+#c 她說，也很好，但是我還要回家去問老人家。
+#a 429.78, None, 431.15
+
+205.
+.. So: tatini' siwa' yao ma',/
+COND old.man agree 1SG.NOM also
+條件詞 老人家 <主焦>答應 1SG.主格 也
+
+#a 431.15, None, 433.45
+
+206.
+... 'asmiwa' mari'-in 'inimon.\
+be.willing.to take-PF 2PL.DAT
+願意 拿-受焦 2PL.予格
+
+#e I don't have any opposition if they agree.
+#c 如果老人家答應了我也願意當你們媳婦。
+#a 433.45, None, 435.15
+
+207.
+...(0.8) isaa inalay risa,/
+then from there
+那 從 那裡
+
+#a 435.15, None, 436.98
+
+208.
+...(0.8) sia rima',\
+3SG.NOM AF.go
+3SG.主格 主焦.去
+
+#a 436.98, None, 438.25
+
+209.
+...(1.2) lobih ray taew'an,\
+AF.return LOC home
+主焦.回來 處格 家
+
+#a 438.25, None, 440.34
+
+210.
+... manabih ka tatini'.\
+AF.say ACC old.man
+主焦.說 受格 老人家
+
+#e Therefore, she went home and told her parents.
+#c 那她就回家去跟父母講。
+#a 440.34, None, 441.48
+
+211.
+... koSa:,\
+say
+<主焦>說
+
+#a 441.48, None, 442.41
+
+212.
+...(1.3) hawka',/
+there
+那裡
+
+#a 442.41, None, 444.26
+
+213.
+... yao sasbong ki== SaiSiyat o: SaiSiyat.\
+1SG.NOM AF.meet and PN INT PN
+1SG.主格 主焦.見 和 賽夏人 感嘆 賽夏人
+
+#e She said, "I met the SaiSiyats there."
+#c 說我在那裡遇到賽夏人。
+#a 444.26, None, 446.53
+
+214.
+.. koSa:,/
+say
+<主焦>說
+
+#a 446.53, None, 447.38
+
+215.
+... minowa' yakin,\
+like 1SG.ACC
+喜歡 1SG.受格
+
+#a 447.38, None, 448.85
+
+216.
+...(1.3) 'iya inmari' yakin o:,/
+want take 1SG.ACC INT
+想 拿 1SG.受格 感嘆
+
+#a 448.85, None, 452.18
+
+217.
+... kayzaeh ay./
+AF.good Q
+主焦.好 疑問
+
+#e They liked me, and wanted me as a daughter-in-law. Can I?
+#c 說他們喜歡我，想娶我做媳婦，可以嗎？
+#a 452.18, None, 452.97
+
+218.
+...(0.9) isaa sa,\
+that FIL
+那 FIL
+
+#a 452.97, None, 454.07
+
+219.
+... manabih ka== tatini' isaa tatini',/
+AF.say ACC old.man that old.man
+主焦.說 受格 老人家 那 老人家
+
+#a 454.07, None, 456.4
+
+220.
+...(0.8) isaa koSa: So'o,/
+DM say 2SG.NOM
+DM <主焦>說 2SG.主格
+
+#a 456.4, None, 457.68
+
+221.
+...(0.9) So'o,/
+2SG.NOM
+2SG.主格
+
+#a 457.68, None, 458.8
+
+222.
+... moyo roSa' a'inowa' ma' isaa,/
+2PL.NOM two intend DM that
+2PL.主格 兩個 想要 DM 那
+
+#a 458.8, None, 460.91
+
+223.
+... 'am 'iyankowa==./
+FUT why.not
+未來 何不
+
+#e She asked the old man. He said if both of them had the intention, then why not.
+#c 問老人家，老人家說，如果你們兩個想要，有什麼不可以？
+#a 460.91, None, 461.83
+
+224.
+...(1.0) inaray risa==,/
+from then
+從 那時
+
+#a 461.83, None, 463.77
+
+225.
+... noka SaiSiyat,/
+GEN PN
+屬格 賽夏人
+
+#a 463.77, None, 464.73
+
+226.
+...(2.3) isaa m-wa:i',/
+that AF-come
+那 主焦-來
+
+#a 464.73, None, 467.55
+
+227.
+... kala SaiSiyat a koSa:==,/
+LOC PN FIL say
+處格 賽夏族 FIL <主焦>說
+
+#a 467.55, None, 469.22
+
+228.
+... hao,/
+there
+那裡
+
+#a 469.22, None, 469.8
+
+229.
+... tatini' siwa'./
+old.man agree
+老人家 <主焦>答應
+
+#e She came to the SaiSiyats and reported that her parents had no objection.
+#c 她就來賽夏人的住處，說老人家答應了。
+#a 469.8, None, 471.36
+
+230.
+...(1.4) o: ... So:==,/
+INT . COND
+感嘆 . 條件詞
+
+#a 471.36, None, 473.9
+
+231.
+... moyo koSa: 'am,\
+2PL.NOM say FUT
+2PL.主格 <主焦>說 未來
+
+#a 473.9, None, 474.99
+
+232.
+... sa'oewaz 'am,\
+really FUT
+真的 未來
+
+#a 474.99, None, 476.29
+
+233.
+...(1.8) mari' yakin ma' isaa,/
+AF.take 1SG.ACC also that
+主焦.拿 1SG.受格 也 那
+
+#a 476.29, None, 479.42
+
+234.
+... m-wa:i ila./
+AF-come PFV
+主焦-來 完成
+
+#e If you say you can take me as a daughter-in-law, then come.
+#c 如果你們真的要娶我當媳婦，那就跟我來。
+#a 479.42, None, 480.09
+
+235.
+... ma==,/
+FIL
+FIL
+
+#a 480.09, None, 480.91
+
+236.
+... ta sasbong ki== tatini' ma'an,/
+EXH AF.meet and old.man 1SG.GEN
+EXH 主焦.見 和 老人 1SG.屬格
+
+#a 480.91, None, 483.14
+
+237.
+... hi== yaba' kil 'oya',/
+?? father and mother
+?? 父親 和 母親
+
+#a 483.14, None, 484.68
+
+238.
+... 'aehael./
+sibling
+兄弟姊妹
+
+#e To meet my father, mother, and siblings.
+#c 見我的父親、母親，和兄弟姊妹。
+#a 484.68, None, 485.57
+
+239.
+...(0.9) hiza ta-paehraehraeng./
+there EXH-say
+那裡 EXH-說
+
+#e We'll talk there.
+#c 在那裡談。
+#a 485.57, None, 487.35
+
+240.
+...(0.8) hiza sa'owaz,/
+that really
+那 主焦.真的
+
+#a 487.35, None, 488.73
+
+241.
+...(1.0) lasia,/
+3PL.NOM
+3PL.主格
+
+#a 488.73, None, 490.13
+
+242.
+... maehraehraeng kayzaeh ila ka pahraehraeng-an.\
+AF.discuss AF.good PFV ACC discuss-NMZ
+主焦.討論 主焦.好 完成 受格 <完成>討論-名物化
+
+#e They discussed and reached an agreement.
+#c 他們討論之後商量好了。
+#a 490.13, None, 492.57
+
+243.
+... rima' ila lasia,/
+AF.go PFV 3PL.NOM
+主焦.去 完成 3PL.主格
+
+#a 492.57, None, 494.21
+
+244.
+...(1.4) koSa: ta-'ila./
+say EXH-go
+<主焦>說 EXH-去
+
+#e They went and said, 'Let's go.'
+#c 他們去了，就說：「走吧！」
+#a 494.21, None, 496.0
+
+245.
+.. ila o ray taew'an kanman./
+go INT LOC house 1SG.LOC
+去 感嘆 處格 家 1SG.處格
+
+#e We will go to my house.
+#c 我們去我家。
+#a 496.0, None, 497.71
+
+246.
+... isaa lasia rima' ila.\
+there 3PL.NOM AF.go PFV
+那裡 3PL.主格 主焦.去 完成
+
+#e Off they went.
+#c 他們就去了。
+#a 497.71, None, 499.34
+
+247.
+...(0.8) rima' ri'saza o:,/
+AF.go there INT
+主焦.去 那裡 感嘆
+
+#a 499.34, None, 500.89
+
+248.
+.. potngor ray,/
+AF.arrive LOC
+主焦.到達 處格
+
+#a 500.89, None, 501.64
+
+249.
+.. wasal sa-kita'-en Sa,/
+sea go-see-PF DM
+海 去-看-受焦 DM
+
+#a 501.64, None, 503.03
+
+250.
+...(0.8) koSa: 'am mayhini mina,/
+say FUT AF.pass.here certainly
+<主焦>說 未來 主焦.經過 確實
+
+#a 503.03, None, 504.97
+
+251.
+...(0.8) 'am ila hao ray ralom 'i'izo'./
+FUT go there LOC water inside
+未來 去 那裡 處格 水 裡面
+
+#e They reached the sea and she said: "We will go deep into the sea."
+#c 他們去到海邊，看了，她就說要進入到水裡面。
+#a 504.97, None, 506.4
+
+252.
+... hiza SaiSiyat isa koSa:,\
+that PN DM say
+那 賽夏人 DM <主焦>說
+
+#a 506.4, None, 508.62
+
+253.
+... ma yami powa'-powa' rima' ray ralom,\
+DM 1EPL.NOM RED-why AF.go LOC water
+DM 1EPL.主格 重疊.為何 主焦.去 處格 水
+
+#a 508.62, None, 511.22
+
+254.
+... hiza ray ralom 'i'izo' o:,/
+there LOC water inside INT
+那裡 處格 水 裡面 感嘆
+
+#a 511.22, None, 512.69
+
+255.
+... 'am nak'ino 'am rima'./
+FUT how FUT AF.go
+未來 怎麼 未來 主焦.去
+
+#e The Saisiyts asked, "Why do we go deep under the sea? How do we go?"
+#c 賽夏人就說，我們為什麼要進入水裡面？要怎麼去？
+#a 512.69, None, 514.63
+
+256.
+... yami ma',/
+1EPL.NOM also
+1EPL.主格 也
+
+#a 514.63, None, 515.82
+
+257.
+... tikot./
+AF.afraid
+主焦.怕
+
+#e We are afraid.
+#c 我們很害怕。
+#a 515.82, None, 516.4
+
+258.
+... kayzaeh Sa So:,/
+AF.good DM COND
+主焦.好 DM 條件詞
+
+#a 516.4, None, 517.77
+
+259.
+... moyo tikot,/
+2PL.NOM AF.afraid
+2PL.主格 主焦.怕
+
+#a 517.77, None, 518.86
+
+260.
+... 'ayna:a' rini langi.\
+wait here side
+等 這裡 邊
+
+#e That's all right. If you are afraid, you can wait here.
+#c 好吧，如果你們怕的話，在這邊等。
+#a 518.86, None, 520.29
+
+261.
+.. hiya:o ta-Sa,\
+1SG.NOM EXH-go
+1SG.主格 EXH-去
+
+#a 520.29, None, 521.72
+
+262.
+...(1.6) ta-sa panabih ka==,/
+EXH-go say ACC
+EXH-去 說 受格
+
+#a 521.72, None, 524.37
+
+263.
+... tatini' ma'an.\
+old.man 1SG.GEN
+老人 1SG.屬格
+
+#e I go to talk with my elders for you.
+#c 我去跟我父母說。
+#a 524.37, None, 525.85
+
+264.
+...(1.7) isaza 'ayna:a' rini ta-paehraehraeng ila./
+there wait here EXH-say PFV
+那裡 等 這裡 EXH-說 完成
+
+#e They wait there for discussion.
+#c 在那裡等著要商量。
+#a 525.85, None, 528.9
+
+265.
+... hiza sa'oewaz,\
+there really
+那裡 主焦.真的
+
+#a 528.9, None, 530.09
+
+266.
+... sia rima' ila hao manabih ka tatini'./
+3SG.NOM AF.go PFV there AF.speak ACC old.man
+3SG.主格 主焦.去 完成 那裡 主焦.說 受格 老人家
+
+#e She went there to speak with her old man.
+#c 她就真的去跟父母說。
+#a 530.09, None, 532.73
+
+267.
+... lasia sasbong ray,/
+3PL.NOM AF.meet LOC
+3PL.主格 主焦.見 處格
+
+#a 532.73, None, 534.44
+
+268.
+...(1.5) ray wasal langi./
+LOC sea side
+處格 海 邊
+
+#e They met each other by the seashore.
+#c 他們在海邊見面。
+#a 534.44, None, 537.0
+
+269.
+...(0.8) hiza,/
+there
+那裡
+
+#a 537.0, None, 537.94
+
+270.
+...(1.5) m-wa:i' isaa tatini'./
+AF-come that old.man
+主焦.來 那 老人
+
+#e The old man came.
+#c 老人家來了。
+#a 537.94, None, 540.36
+
+271.
+.. isaa so: nak isaa ma' kayzaeh./
+that COND like that also AF.good
+那 條件詞 像 那 也 主焦.好
+
+#e If that is the case, then good.
+#c 如果是那樣，也好。
+#a 540.36, None, 542.16
+
+272.
+.. So: lasia roSa' 'a'aynowa' o: 'am 'iyangkowa'./
+COND 3PL.NOM two be.fond.of INT FUT why.not
+條件詞 3PL.主格 兩個 喜歡 感嘆 未來 何不
+
+#e If both of them like each other, then why not (let them marry)?
+#c 如果你們喜歡有什麼不可以。
+#a 542.16, None, 545.56
+
+273.
+...(0.8) So: rima',\
+COND AF.go
+條件詞 主焦.去
+
+#a 545.56, None, 546.79
+
+274.
+...(0.9) pa-kayzaeh kaelaehaeng,/
+CAU-good AF.take.care
+使役-好 主焦.照顧
+
+#a 546.79, None, 548.66
+
+275.
+...(0.8) ka korkoring ma'an./
+ACC child 1SG.GEN
+受格 孩子 1SG.屬格
+
+#e If you went, take good care of my child.
+#c 如果去了要好好照顧我的孩子。
+#a 548.66, None, 550.46
+
+276.
+... sia 'in'alay ri'sa,/
+3SG.NOM from there
+3SG.主格 從 那裡
+
+#a 550.46, None, 552.22
+
+277.
+...(0.8) lasia makak-sekela' isi ma,/
+3PL.NOM REC-AF.know FIL also
+3PL.主格 互相-主焦.了解 FIL 也
+
+#a 552.22, None, 554.68
+
+278.
+...(1.0) maehraehraeng sizaeh./
+AF.discuss AF.finish
+主焦.商量 主焦.完
+
+#e From then on, they spoke with each other, and they got to know about each other.
+#c 那時候起，他們互相了解，也商量好了。
+#a 554.68, None, 557.0
+
+279.
+... hiza hayza nasia 'araS ka==,/
+there EXIST 3PL.GEN take FIL
+那裡 存在 3PL.屬格 <完成>拿 FIL
+
+#a 557.0, None, 559.64
+
+280.
+... kasi'aelen ma' isaa,/
+food also there
+食物 也 那裡
+
+#a 559.64, None, 561.22
+
+281.
+.. si-bae:ay ila hilasia./
+RF-give PFV 3PL.ACC
+指焦-給 完成 3PL.受格
+
+#e They brought food there which they gave to them.
+#c 那他們有拿食物給他們。
+#a 561.22, None, 562.22
+
+282.
+... haysia ila ka pinaehraehraengan./
+AF.decide PFV ACC discussion
+主焦.決定 完成 受格 商量
+
+#e They have made a decision on the matter.
+#c 做好了決定。
+#a 562.22, None, 564.22
+
+283.
+... hiza kakhayza'an tatini' ma So: kayzaeh ka paehraehraeng-an,/
+that before old.man FIL COND AF.good NOM discuss-NMZ
+那 以前 老人 FIL 條件詞 主格.好  <完成>討論-名物化
+
+#a 564.22, None, 567.45
+
+284.
+... mae'iyaeh ma' .. si-pa-'araS ila,/
+person also . RF-CAU-take PFV
+人 也 . 指焦-使役-拿 完成
+
+#a 567.45, None, 569.9
+
+285.
+...(0.8) ka== .. hiza,/
+FIL . that
+FIL . 那
+
+#a 569.9, None, 571.49
+
+286.
+... nomtomo,/
+bride-to-be
+未婚妻
+
+#a 571.49, None, 572.74
+
+287.
+...(1.9) ma'iaeh ka hiza ka./
+person FIL that FIL
+人 FIL 那 FIL
+
+#e Before, after the elders discussed about the wedding, the groom can take away his bride-to-be away.
+#c 以前老人家做好了決定，就可以帶走未婚妻。
+#a 572.74, None, 575.5
+
+288.
+... koSa'en ka kathethel 'araS-en ila ray taew'an,/
+FIL NOM PN take-PF PFV LOC house
+FIL 主格 雷女 拿-受焦 完成 處格 家
+
+#a 575.5, None, 578.9
+
+289.
+...(1.7) isaa o rima' ila ray taew'an.\
+there INT AF.go PFV LOC house
+那裡 感嘆 主焦.去 完成 處格 家
+
+#e Kathethel was taken home. They went home.
+#c 雷女被帶回家。回去家裡。
+#a 578.9, None, 581.96
+
+290.
+...(0.8) lasia,/
+3PL.NOM
+3PL.主格
+
+#a 581.96, None, 583.18
+
+291.
+... nak'ino hiza kathethel ma,/
+how that PN also
+如何 那 雷女 也
+
+#a 583.18, None, 585.05
+
+292.
+.. (Hx) .. ma==_
+. . FIL
+. . FIL
+
+#a 585.05, None, 586.31
+
+293.
+...(1.0) rima' ma matawaw./
+AF.go also AF.work
+主焦.去 也 主焦.工作
+
+#e Kathethel worked as the SaiSiyats worked.
+#c 他們做什麼工作雷女也跟著作。
+#a 586.31, None, 588.72
+
+294.
+...(0.7) matawaw ila kia== ka==,/
+AF.work PFV ?? ??
+主焦.工作 完成 ?? ??
+
+#a 588.72, None, 591.08
+
+295.
+...(0.9) kil SaiSiyat saboeh.\
+with PN AF.all
+和 專名 主焦.全部
+
+#e She worked with all the SaiSiyat people.
+#c 和賽夏人一起工作。
+#a 591.08, None, 592.9
+
+296.
+...(0.8) isahiza,/
+there
+那裡
+
+#a 592.9, None, 594.27
+
+297.
+...(1.6) sia ... tor-toroe' ila ka== saysiyat,/
+3SG.NOM . RED-teach PFV ACC PN
+3SG.主格 . <主焦>重疊-教 完成 受格 專名
+
+#a 594.27, None, 598.27
+
+298.
+.. koSa:,/
+say
+<主格>說
+
+#a 598.27, None, 598.84
+
+299.
+... moyo ra:am ay tnon a-- ma tnon ka== kaybae:en.\
+2PL.NOM AF.know Q weave . FIL weave ACC clothes
+2PL.主格 主焦.知道 疑問 <主焦>織布 . FIL <主焦>織布 受格 衣服
+
+#e She taught the SaiSiyats. She asked them if they knew how to weave.
+#c 她教導賽夏人，說：「你們會織布嗎？」
+#a 598.84, None, 601.97
+
+300.
+...(0.8) hiza,/
+that
+那
+
+#a 601.97, None, 602.92
+
+301.
+...(0.8) SaiSiyat .. ma',/
+PN . also
+專名 . 也
+
+#a 602.92, None, 604.54
+
+302.
+... hayza' ka 'ima ra:am tnon,/
+EXIST NOM PROG AF.know weave
+存在 主格 進行 主焦.知道 <主焦>織布
+
+#a 604.54, None, 606.65
+
+303.
+...(0.9) ra:am tnon hasa' ma==,/
+AF.know weave able FIL
+主焦.知道 <主焦>織布 會 FIL
+
+#a 606.65, None, 609.64
+
+304.
+... sihoe,/
+embroider
+<主焦>繪紋樣
+
+#a 609.64, None, 610.67
+
+305.
+... kano' koSa'en sihoe,/
+what FIL embroider
+什麼 FIL <主焦>繪紋樣
+
+#a 610.67, None, 612.32
+
+306.
+... hoba:ang hara ka==,/
+draw like ACC
+<主焦>畫 像 受格
+
+#a 612.32, None, 614.07
+
+307.
+... ka== kaybae:en hiza./
+ACC clothes that
+受格 衣服 那
+
+#e There were SaiSiyats who knew how to weave, to embroider, and to draw things like the totems on clothes."
+#c 那時候賽夏人也有會織布，會製線什麼的，繪畫那種衣服的圖樣。
+#a 614.07, None, 616.61
+
+308.
+...(1.0) a tnon,/
+FIL weave
+FIL <主焦>織布
+
+#a 616.61, None, 618.21
+
+309.
+...(1.7) noka==,/
+GEN
+屬格
+
+#a 618.21, None, 620.53
+
+310.
+...(1.5) kano' hiza ha-- rareme==,/
+what that FS dye
+什麼 那個 FS 染料
+
+#a 620.53, None, 623.79
+
+311.
+... 'okik hinghae' isaa ra-- ro-- hoba:ang noka isaza==,/
+NEG same that FS FS color GEN that
+否定 相同 那 FS FS 顏色 屬格 那
+
+#a 623.79, None, 627.6
+
+312.
+.. tonon-on.\
+weave-PF
+織布-受焦
+
+#e Using the dyes when weaving makes different colors of the clothes.
+#c 織布的時候用什麼染料之類的，織出來的衣服顏色都不同。
+#a 627.6, None, 628.28
+
+313.
+... m-wa:i' ka hinoba:ang mina kin kayzaeh kita'-en 'oyae',\
+AF-come NOM design certainly very AF.good see-PF together
+主焦-來 主格 設計 一定 很 主焦.好 看-受焦 一起
+
+#a 628.28, None, 631.74
+
+314.
+... hiza,/
+FIL
+FIL
+
+#a 631.74, None, 632.63
+
+315.
+...(0.9) komoSa: sh-- nak'isaa./
+FIL FS like.that
+FIL FS 像那樣
+
+#e If like this, it must look very good for clothes design.
+#c 像那樣的話，來設計一定很好看。
+#a 632.63, None, 634.8
+
+316.
+...(0.8) ma 'ita ta-toeroe' ay lasia saboeh sia,/
+FIL 1IPL.NOM Ca-AF.teach Q 3PL.NOM AF.all 3SG.NOM
+FIL 1IPL.主格 Ca重疊-主焦.教 疑問 3PL.主格 主焦.全部 3SG.主格
+
+#a 634.8, None, 637.2
+
+317.
+... toer-toeroe ila ka SaiSiyat saboeh./
+RED-teach PFV ACC PN AF.all
+<主焦>重疊-教 完成 受格 專名 主焦.全部
+
+#e We will ask her to teach the SaiSiyats."
+#c 請她來教我們，教導我們全部的賽夏人。
+#a 637.2, None, 638.48
+
+318.
+... hiza tabin haysani koSa'en,/
+this until now FIL
+這 直到 現在 FIL
+
+#a 638.48, None, 640.59
+
+319.
+... hara ka==,/
+like FIL
+像 FIL
+
+#a 640.59, None, 642.06
+
+320.
+... sihoew-an kaybae:en,/
+embroider-NMZ clothes
+<完成>製線-名物化 衣服
+
+#e Till now, the way of weaving,
+#c 直到現在像那樣的織布的方法，
+#a 642.06, None, 643.7
+
+321.
+... hiza noka==,/
+there GEN
+那裡 屬格
+
+#a 643.7, None, 645.02
+
+322.
+... kathethel,/
+PN
+雷女
+
+#a 645.02, None, 646.14
+
+323.
+... tinon-on ma tor-toroe'-an,\
+weave-PF FIL RED-teach-NMZ
+織布-受焦 FIL <完成>重疊-教-名物化
+
+#a 646.14, None, 648.07
+
+324.
+...(1.0) lasia tor-toroe' sizaeh./
+3PL.NOM RED-teach AF.finish
+3PL.主格 <主焦>重疊-教 主焦.完
+
+#e Kathethel taught them weaving, and they finished the lessons.
+#c 雷女教導織布，他們學完了。
+#a 648.07, None, 650.64
+
+325.
+...(1.6) ma==,/
+FIL
+FIL
+
+#a 650.64, None, 652.67
+
+326.
+...(1.6) ra:am ila hiza ka== SaiSiyat./
+AF.know PFV that NOM PN
+主焦.知道 完成 那 主格 專名
+
+#e The SaiSiyats were able to weave.
+#c 賽夏人知道織布的方法了。
+#a 652.67, None, 655.72
+
+327.
+... koSa:,/
+say
+<主焦>說
+
+#a 655.72, None, 656.8
+
+328.
+...(1.5) 'ampowa' sia hiza kin ra:am,\
+why 3SG.NOM that very AF.know
+為何 3SG.主格 那 很 主格.知道
+
+#a 656.8, None, 659.67
+
+329.
+... ka== inak hiza'an ka==,/
+ACC like that ACC
+受格 像 那 受格
+
+#a 659.67, None, 661.64
+
+330.
+...(0.8) ta-tnon./
+Ca-weave
+Ca重疊-織布
+
+#e They asked, "Why is she very good at the ways of weaving?"
+#c 就說，為什麼她那麼會織布？
+#a 661.64, None, 662.88
+
+331.
+...(0.8) hiza==,/
+FIL
+FIL
+
+#a 662.88, None, 663.89
+
+332.
+... lasia koSa'en kabalihan,\
+3PL.NOM FIL student
+3PL..主格 FIL 學生
+
+#a 663.89, None, 665.6
+
+333.
+... yo,/
+INT
+感嘆
+
+#a 665.6, None, 666.71
+
+334.
+...(0.8) 'okik hinghae' ka 'az-'azem hiza ka SaiSiyat kabalihan.\
+NEG same NOM RED-heart that NOM PN student
+否定 一樣 主格 <完成>重疊-心 那 主格 專名 學生
+
+#e The students thought differently.
+#c 那些賽夏學生們就懷有異心。
+#a 666.71, None, 670.53
+
+335.
+...(0.8) lasia roSa',/
+3PL.NOM two
+3PL.主格 兩個
+
+#a 670.53, None, 672.12
+
+336.
+...(0.8) hiza,/
+that
+那個
+
+#a 672.12, None, 673.1
+
+337.
+... koSa:,/
+say
+<主焦>說
+
+#a 673.1, None, 673.78
+
+338.
+...(1.3) sia 'am==,\
+3SG.NOM FUT
+3SG.主格 未來
+
+#a 673.78, None, 675.61
+
+339.
+...(0.9) sia sa'i:i==' nanaw hisia,/
+3SG.NOM hate only 3SG.ACC
+3SG.主格 恨 只有 3SG.受格
+
+#a 675.61, None, 677.74
+
+340.
+...(0.9) kayni',/
+NEG
+否定
+
+#a 677.74, None, 679.29
+
+341.
+... kita' a hisia ka 'ima 'aehae' sik-ra:am hara,/
+see LNK 3SG.ACC FIL PROG one RF-know like
+<主焦>看 LNK 3SG.受格 FIL 進行 一 指焦.知道 像
+
+#a 679.29, None, 682.3
+
+342.
+... sik-ra:am 'atomalan nisia sa'i:i'./
+RF-know very 3SG.GEN hate
+指焦-知道 很 3SG.屬格 恨
+
+#e She did not teach her on purpose.
+#c 她不是故意教她。
+#a 682.3, None, 685.31
+
+343.
+... hiza komoSa:,/
+that DM
+那 DM
+
+#a 685.31, None, 686.39
+
+344.
+... So: nak isaa soka==',/
+COND like this reason
+條件詞 像 這 原因
+
+#a 686.39, None, 687.89
+
+345.
+... 'ita',/
+1IPL.NOM
+1IPL.主格
+
+#a 687.89, None, 688.61
+
+346.
+...(2.2) ta-pa-pa-si-hinghae' ila ka==,/
+EXH-RED-CAU-RF-same PFV ACC
+EXH-重疊-使役-指焦-依樣 完成 受格
+
+#a 688.61, None, 692.17
+
+347.
+...(0.8) tnon./
+weave
+<完成>織布
+
+#e If it's like that, let's compare.
+#c 如果是這個原因的話，那我們來比賽吧。
+#a 692.17, None, 693.27
+
+348.
+... nihiya' 'akoy ka tnon./
+who.GEN AF.many NOM weave
+誰.屬格 主焦.多 主格 <完成>織布
+
+#e to see who weaves the most.
+#c 看誰織的多。
+#a 693.27, None, 694.79
+
+349.
+...(1.1) hiza,/
+FIL
+FIL
+
+#a 694.79, None, 696.12
+
+350.
+...(0.8) o: nihiya' kayzaeh ka tnon,\
+INT who.GEN AF.good NOM weave
+感嘆 誰.屬格 主焦.好 主格 <完成>織布
+
+#e See who weaves the better.
+#c 誰織的好。
+#a 696.12, None, 698.32
+
+351.
+...(1.0) hiza,/
+that
+那
+
+#a 698.32, None, 699.61
+
+352.
+... hiza ka SaiSiyat ,/
+that NOM PN [Man]is
+那 主格 專名 是
+
+#a 699.61, None, 701.18
+
+353.
+... koSa:,/
+say
+<主焦>說
+
+#a 701.18, None, 701.64
+
+354.
+... yao ra:am 'atomalan na' ini tnon.\
+1SG.NOM AF.know very ?? ?? weave
+1SG.主格 主焦.知道 很 ?? ?? <主焦>織布
+
+#e The SaiSiyat said, "I know weaving very much."
+#c 賽夏人說：「我很會織布。」
+#a 701.64, None, 704.02
+
+355.
+...(1.1) nisia kita' nisia ka ka-'aSkan-an ka==,/
+3SG.GEN see 3SG.GEN ?? KA-put-NMZ FIL
+3SG.屬格 <主焦>看 3SG.屬格 ?? KA-放-名物化 FIL
+
+#a 704.02, None, 707.57
+
+356.
+... hiza tnon ma' isahiza ka==,/
+that weave DM that FIL
+那 <完成>織布 DM 那 FIL
+
+#a 707.57, None, 709.68
+
+357.
+... kano' XX noka kaeh'oe ka==,/
+what XX GEN tree.name ??
+什麼 XX 屬格 (樹的名字) ??
+
+#a 709.68, None, 712.36
+
+358.
+... pehez.\
+fruit.shell
+果實殼
+
+#e She saw the cabinet where Kathethel put her clothes. It was made by the fruit of a kind of tree.
+#c 她看到雷女放織布的箱子是用什麼樹之類的果實殼作成的。
+#a 712.36, None, 713.04
+
+359.
+... roSa',/
+two
+兩個
+
+#a 713.04, None, 714.08
+
+360.
+...(1.2) kaplalazemen isaa askan-en ri'haw 'i'izo',/
+join;connect that put-PF there inside
+合在一起 那個 放-受焦 那裡 裡面
+
+#a 714.08, None, 717.7
+
+361.
+... hiza sai-- noka SaiSiyat lika,/
+this FS GEN PN tree.name
+這 FS 屬格 專名 (樹名)
+
+#a 717.7, None, 720.03
+
+362.
+... paskayzaeh ka==,/
+do ACC
+<完成>做 受格
+
+#a 720.03, None, 721.54
+
+363.
+... koSa'en sazakepan./
+FIL cabinet
+FIL 箱子
+
+#e The SaiSiyat person's cabinet was two cabinets joined together.
+#c 那賽夏人放衣服的箱子是用兩個樹木做的箱子合在一起。
+#a 721.54, None, 723.15
+
+364.
+...(1.2) sobae:oeh 'atomal ka==,/
+AF.big very NOM
+主焦.大 很 主格
+
+#a 723.15, None, 725.76
+
+365.
+.. ka-aSkan-an ka==,/
+KA-put-NMZ ??
+KA-放-名物化 ??
+
+#a 725.76, None, 726.9
+
+366.
+.. kaybae:en.\
+clothes
+衣服
+
+#e Very large cabinet.
+#c 很大的衣櫃。
+#a 726.9, None, 727.49
+
+367.
+... komoSa:,/
+FIL
+FIL
+
+#a 727.49, None, 727.96
+
+368.
+... nisia titi'an hiza kin ol'ola'an o:,/
+3SG.GEN small that very small INT
+3SG.屬格 小 那 很 小 感嘆
+
+#a 727.96, None, 730.77
+
+369.
+...(1.6) yao,/
+1SG.NOM
+1SG.主格
+
+#a 730.77, None, 732.82
+
+370.
+... papasingha' ki== sia ma,/
+compare with 3SG.NOM DM
+比較 和 3SG.主格 DM
+
+#a 732.82, None, 734.73
+
+371.
+... ma'an 'am 'akoy nanaw a minsalaz 'inisia./
+1SG.GEN FUT AF.many still LNK win.over 3SG.DAT
+1SG.屬格 未來 主焦.多 還 LNK 贏過 3SG.予格
+
+#e If she uses such a small cabinet, I would have more clothes than her.
+#c 她的箱子很小，我和他比我一定贏過她。
+#a 734.73, None, 737.25
+
+372.
+... hiza sa'oewaz lasia maehraehraeng roSa' ka kabalihan,\
+there AF.truly 3PL.NOM AF.discuss two NOM student
+那 主焦.真 3PL.主格 主焦.商量 兩個 主格 學生
+
+#a 737.25, None, 740.43
+
+373.
+... roSa' pap-'aynola isaa lasia./
+two CAU-compete there 3PL.NOM
+兩個 使役-比賽 那 3PL.主格
+
+#e The two students discussed how to go about the competition.
+#c 兩個學生就討論他們比賽的進行。
+#a 740.43, None, 742.72
+
+374.
+... koSa So: yao si-obaz,/
+say COND 1SG.NOM RF-lose
+說 條件詞 1SG.主格 指焦-輸
+
+#a 742.72, None, 744.63
+
+375.
+... niSo' .. ma isaa,/
+2SG.GEN . FIL that
+2SG.屬格 . FIL 那
+
+#a 744.63, None, 746.38
+
+376.
+...(1.8) ma==,/
+FIL
+FIL
+
+#a 746.38, None, 748.64
+
+377.
+...(1.4)  yao ma',/
+compete 1SG.NOM also
+比 1SG.主格 也
+
+#a 748.64, None, 750.52
+
+378.
+...(1.4) kayni' ila ma==,/
+NEG PFV FIL
+否定 完成 FIL
+
+#a 750.52, None, 752.92
+
+379.
+...(1.4) yao ma 'am nak'ino ka==,/
+1SG.NOM also FUT how FIL
+1SG.NOM 也 未來 如何 FIL
+
+#a 752.92, None, 756.07
+
+380.
+.. mita' paeraehraeng-an,\
+1IPL.GEN discuss-NMZ
+1IPL.屬格 <完成>商量-名物化
+
+#a 756.07, None, 757.49
+
+381.
+... hiza koSa:,/
+DM say
+DM <主焦>說
+
+#a 757.49, None, 758.33
+
+382.
+... kayzaeh So:_
+AF.good COND
+主焦.好 條件詞
+
+#e They discussed what to do with the winner and what to do with the loser. The other person agreed."
+#c 他們討論贏的人怎麼樣，輸的人怎麼樣，另外一個人說好。
+#a 758.33, None, 759.47
+
+383.
+...(1.5) wa:i' Sa'wa:i' tap'-aynola hiza,/
+come formally hold-compete DM
+來 正式 舉行比賽 DM
+
+#a 759.47, None, 762.55
+
+384.
+...(0.9) aynola ila hiza ka ton.\
+AF.compete PFV that ?? weave
+主焦.比較 完成 那 ?? <完成>織布
+
+#e They had a contest of weaving.
+#c 來就來正式比賽織布。
+#a 762.55, None, 765.07
+
+385.
+... hao noka==,/
+there GEN
+那裡 屬格
+
+#a 765.07, None, 766.56
+
+386.
+... komoSa: 'am nak'ino 'am ma-'ay'inola.\
+FIL FUT how FUT AF-compete
+FIL 未來 如何 未來 主格-比賽
+
+#e How shall we compete?
+#c 要怎樣比？
+#a 766.56, None, 768.37
+
+387.
+... koSa: 'aSkan ka kapanrahiyan,\
+say put ACC clothes.hanger
+<主焦>說 放 受格 衣架
+
+#a 768.37, None, 770.49
+
+388.
+...(0.9) kita'./
+see
+看
+
+#e Put some clothes hangers (and see who has more clothes)."
+#c 放在衣架上看。
+#a 770.49, None, 771.73
+
+389.
+... kakhayza'an noka saysiyat,/
+before GEN PN
+以前 屬格 專名
+
+#a 771.73, None, 773.55
+
+390.
+...(1.2) hayza' ka kaybae:en ma' ray kapanrahiyan isa sipanrahi koza' kin 'akoy,\
+EXIST ACC clothes also LOC clothes.hanger that hang how.many very AF.many
+存在 受格 衣服 也 處格 衣架 那 掛 多少 很 主焦.多
+
+#a 773.55, None, 778.71
+
+391.
+... hayza 'aehae' kapanrahiyan hayza lampez ka== .. tnon,\
+EXIST one clothes.hanger EXIST ten NOM . weave
+存在 一 衣架 存在 十 主格 . <完成>織布
+
+#a 778.71, None, 782.43
+
+392.
+...(1.2) hayza' sam'iyaeh,/
+EXIST twenty
+存在 二十
+
+#a 782.43, None, 784.7
+
+393.
+...(0.9) ka,/
+NOM
+主格
+
+#a 784.7, None, 785.82
+
+394.
+... tnon ma' hayza'./
+weave also EXIST
+<完成>織布 也 存在
+
+#e Before, SaiSiyat has clothes hangers where they hung many clothes. A clothe-hanger holds ten pieces of clothes or twenty pieces of clothes."
+#c 以前賽夏人有衣服就掛在衣架上，很多。一根衣架有十件，二十件衣服也有。
+#a 785.82, None, 787.2
+
+395.
+.. hiza,\
+DM
+DM
+
+#a 787.2, None, 788.37
+
+396.
+... lasia a'inola ila,\
+3PL.NOM AF.compete PFV
+3PL.主格 主焦.比賽 完成
+
+#a 788.37, None, 790.22
+
+397.
+...(0.8) noka,\
+GEN
+屬格
+
+#a 790.22, None, 791.29
+
+398.
+...(0.8) minsa'la' ka== SaiSiyat hiza ka==,\
+AF.first NOM PN that NOM
+主格.先 主格 專名 那 主格
+
+#a 791.29, None, 794.22
+
+399.
+... kabalihan hiza ka==,/
+student that NOM
+學生 那 主格
+
+#a 794.22, None, 796.26
+
+400.
+...(1.8) minkoringan hiza koSa:,/
+woman that say
+女人 那 <主焦>說
+
+#a 796.26, None, 799.15
+
+401.
+... ay nisia o: ta 'insa'la' ta==,/
+INT 3SG.GEN INT ?? first FIL
+感嘆 3SG.屬格 感嘆 ?? 先 FIL
+
+#a 799.15, None, 801.24
+
+402.
+... 'al'oehaz ka== tnon./
+AF.pull ACC weave
+主焦.拉 受格 <完成>織布
+
+#e They began the contest. The SaiSiyat said to let her go first. "Let me take out my woven clothes."
+#c 他們正式比賽了。賽夏女人說，讓她先開始，先把衣服拿出來。
+#a 801.24, None, 803.05
+
+403.
+...(0.8) hiza,\
+DM
+DM
+
+#a 803.05, None, 804.22
+
+404.
+...(2.3) nisia pa-'al'oehaez ila Sa==,\
+3SG.GEN CAU-pull PFV FIL
+3SG.屬格 使役-拉 完成 FIL
+
+#a 804.22, None, 807.9
+
+405.
+... inaray sazakepan,/
+from cabinet
+從 箱子
+
+#a 807.9, None, 809.02
+
+406.
+... mari'-in Sa si-panrahi si-panrahi ray,/
+take-PF FIL RF-hang RF-hang LOC
+拿-受焦 FIL 指焦-掛 指焦-掛 處格
+
+#a 809.02, None, 811.6
+
+407.
+... kapanrahiyan./
+clothes.hanger
+衣架
+
+#e She took them to hang on the clothes hanger.
+#c 她從箱子裡拿出來掛在衣架上。
+#a 811.6, None, 812.9
+
+408.
+...(0.9) 'aehae' kapanrahiyan,/
+one clothes.hanger
+一 衣架
+
+#a 812.9, None, 814.79
+
+409.
+... yo,/
+also
+又
+
+#a 814.79, None, 815.67
+
+410.
+...(1.2) ma==,\
+FIL
+FIL
+
+#a 815.67, None, 817.47
+
+411.
+...(2.1) to:o' may'amet ila zi'saza==,/
+three AF.filled.to.the.brim PFV there
+三 主焦.塞滿 完成 那裡
+
+#a 817.47, None, 821.13
+
+412.
+... hao_
+DM
+DM
+
+#a 821.13, None, 821.95
+
+413.
+...(1.4) nisia ma' .. 'ima koSa: ma'an hini 'aehae' kapanrahiyan,/
+3SG.GEN DM . PROG say 1SG.GEN here one clothes.hanger
+3SG.屬格 DM . 進行 <主焦>說 1SG.屬格 這 一 衣架
+
+#a 821.95, None, 826.04
+
+414.
+...(0.8) ma' ak-- 'akoy 'atomalan ila.\
+also FS AF.many very PFV
+也 FS 主焦.多 很 完成
+
+#e The other person said, 'I have hung one hanger. There are too many clothes.'
+#c 一個衣架又三件，掛的滿滿的。他說，我有一個衣架的衣服。也已經很多了。
+#a 826.04, None, 828.0
+
+415.
+... kayzaeh,/
+AF.good
+主焦.好
+
+#a 828.0, None, 829.15
+
+416.
+... ma'an komoSa: la'oz ila hini,/
+1SG.GEN DM AF.enough PFV this
+1SG.屬格 DM 主格.夠 完成 這
+
+#a 829.15, None, 830.77
+
+417.
+... la'oz ila si'an hini kin 'akoy.\
+AF.enough PFV AF.exceedingly.many this very AF.many
+主焦.夠 完成 主焦.非常多 這 很 主焦.多
+
+#e Very good. My clothes are enough. Many clothes."
+#c 很好，我的已經夠多了，非常的多。
+#a 830.77, None, 832.49
+
+418.
+... za',/
+FIL
+FIL
+
+#a 832.49, None, 833.31
+
+419.
+... hiza ka== kathethel ila ka==,/
+that NOM PN PFV NOM
+這 主格 雷女 完成 主格
+
+#a 833.31, None, 835.9
+
+420.
+...(1.4) kabinao hiza==,/
+lady that
+小姐 這
+
+#a 835.9, None, 838.27
+
+421.
+... koSa:,/
+say
+<主焦>說
+
+#a 838.27, None, 839.17
+
+422.
+...(2.0) ma==,\
+FIL
+FIL
+
+#a 839.17, None, 841.57
+
+423.
+... koSa: ay,\
+say INT
+<主焦>說 感嘆
+
+#a 841.57, None, 842.63
+
+424.
+...(1.0) ma'an,\
+1SG.GEN
+1SG.屬格
+
+#a 842.63, None, 844.08
+
+425.
+...(0.9) hini,/
+here
+這
+
+#a 844.08, None, 845.3
+
+426.
+...(1.9) 'ititi'an iyo' ma isaa,/
+AF.not.much INT FIL this
+主焦.一點點 感嘆 FIL 這
+
+#a 845.3, None, 848.55
+
+427.
+... tak yao ila ta-panrahi== ila mari'-in Sa inaray==,/
+then 1SG.NOM PFV EXHORT-hang PFV take-PF FIL from
+然後 1SG.主格 完成 EXHORT-掛 完成 拿-受焦 FIL 從
+
+#a 848.55, None, 851.87
+
+428.
+...(1.1) hiza ray pehez./
+there LOC fruit.shell
+那 處格 果實殼
+
+#e It came to Kathethel's turn. She said, "Let me take out the so few clothes of mine and hang them on the clothe-hangers."
+#c 然後換雷女了，她說，我這一點點衣服也從果實裡拿出來掛著。
+#a 851.87, None, 853.77
+
+429.
+... 'askan 'i'izo',/
+put inside
+<完成>放 裡面
+
+#e The clothes were placed inside.
+#c 衣服放在裡面。
+#a 853.77, None, 855.18
+
+430.
+...(0.9) pa-'al'oehaz si-panrahi si-panrahi./
+CAU-AF.take.out RF-hang RF-hang
+使役-主焦.拿出來 指焦-掛 指焦-掛
+
+#e She took them out and hung them there."
+#c 拿出來掛。
+#a 855.18, None, 858.24
+
+431.
+... 'aehae' kapanrahiyan,/
+one clothes.hanger
+一 衣架
+
+#a 858.24, None, 859.89
+
+432.
+...(1.7) mayhae'hae' ila kinae'hae'an naehaen kapanrahiyan.\
+AF.full PFV piece.by.piece still clothes.hanger
+主焦.滿 完成 一個個 還 衣架
+
+#e A hanger was already filled with clothes. Still more clothes.
+#c 滿滿一衣架，還一個一個衣架掛著。
+#a 859.89, None, 863.45
+
+433.
+... roSa' ila kapanrahiyan to:o' kapanrahiyan hini ma'./
+two PFV clothes.hanger three clothes.hanger here also
+兩個 完成 衣架 三個 衣架 這裡 也
+
+#e Two clothes hangers, then three clothes hangers.
+#c 兩個衣架，三個衣架了。
+#a 863.45, None, 866.47
+
+434.
+.. 'akoy nanaw pa-'al'oehaz./
+AF.many still CAU-AF.pull
+主焦.多 還 使役-主焦.拉
+
+#e She took some more clothes.
+#c 還拿出更多來。
+#a 866.47, None, 868.0
+
+435.
+... hiza ka==,/
+that NOM
+這 主格
+
+#a 868.0, None, 869.42
+
+436.
+... SaiSiyat koSa: kano' a'ola So'o 'ampowa' kin,\
+PN say what AF.strange 2SG.NOM why very
+專名 <主焦>說 什麼 主焦.奇怪 2SG.主格 為何 很
+
+#a 869.42, None, 872.57
+
+437.
+...(1.3) niSo' ila 'ol'ola'an 'atomalan ka-'aSkan-an o:,/
+2SG.GEN PFV small very KA-put-NMZ INT
+2SG.屬格 完成 小 很 KA-放-名物化 感嘆
+
+#a 872.57, None, 875.99
+
+438.
+... 'ampowa' kin 'akoy ka==,/
+why very AF.many NOM
+為什麼 很 主焦.多 主格
+
+#a 875.99, None, 877.35
+
+439.
+...(1.2) ka== kaybaeen .. 'aSkan./
+NOM clothes . put
+主格 衣服 . <完成>放
+
+#e The SaiSiyat said, "With such a small cabinet, how come you got so many clothes?"
+#c 賽夏人說，奇怪，為什麼她的衣箱那麼小，放了那麼多衣服？
+#a 877.35, None, 879.74
+
+440.
+... isaa lasia ma-'oe'oe' ri'saza./
+there 3PL.NOM AF-argue there
+那 3PL.主格 主焦-吵架 那
+
+#e They had a quarrel.
+#c 他們吵起來了。
+#a 879.74, None, 882.07
+
+441.
+...(0.9) ma==,/
+FIL
+FIL
+
+#a 882.07, None, 883.49
+
+442.
+... (COUGHS)_
+.
+.
+
+#a 883.49, None, 884.1
+
+443.
+...(1.2) koSa:,/
+say
+<主焦>說
+
+#a 884.1, None, 885.53
+
+444.
+... so: nak isaa hi moyo,/
+COND like that NOM 2PL.NOM
+條件詞 像 那 主格 2PL.主格
+
+#a 885.53, None, 887.64
+
+445.
+.. sahoewis 'iyakin koSa 'aewhaey ma' isaa,/
+hate 1SG.ACC say AF.bad also then
+<主焦>恨 1SG.受格 <主焦>說 主焦.壞 也 那
+
+#a 887.64, None, 890.07
+
+446.
+...(0.8) kayzaeh yao ma'./
+AF.good 1SG.NOM also
+主焦.好 1SG.主格 也
+
+#e Then she said, "If you hate me like that, it's all right."
+#c 她就說，如果你們那麼討厭我的話，也好。
+#a 890.07, None, 891.5
+
+447.
+... 'am,\
+FUT
+未來
+
+#a 891.5, None, 892.45
+
+448.
+... lobih ila ila haw ray==,\
+AF.return PFV go there LOC
+主焦.回 完成 去 那裡 處格
+
+#a 892.45, None, 894.23
+
+449.
+...(0.9) 'inkaehoelan.\
+family
+家
+
+#e I'll just go home to my family.
+#c 我要回去我家了。
+#a 894.23, None, 895.3
+
+450.
+... hiza==,/
+DM
+DM
+
+#a 895.3, None, 896.54
+
+451.
+...(1.7) nisia,/
+3SG.GEN
+3SG.屬格
+
+#a 896.54, None, 898.66
+
+452.
+... 'ima==,/
+PROG
+進行
+
+#a 898.66, None, 899.93
+
+453.
+...(2.2) 'ima==,/
+PROG
+進行
+
+#a 899.93, None, 902.79
+
+454.
+... rwasek ray==,/
+AF.live LOC
+主焦.生活 處格
+
+#a 902.79, None, 904.16
+
+455.
+.. saysiyat isaa 'aehae' korkoring nasia,/
+PN there one child 3SG.GEN
+專名 那 一 小孩 3SG.屬格
+
+#a 904.16, None, 906.69
+
+456.
+...(0.8) ma==,/
+FIL
+FIL
+
+#a 906.69, None, 907.99
+
+457.
+...(2.7) paskayzaeh./
+do
+<完成>做
+
+#e She lived with the SaiSiyats and had a child.
+#c 她和賽夏人一起生活有一個小孩。
+#a 907.99, None, 911.02
+
+458.
+... hiza,/
+DM
+DM
+
+#a 911.02, None, 912.19
+
+459.
+... komoSa: hini 'aehae' korkoring o:,/
+say this one child INT
+<主焦>說 這 一 小孩 感嘆
+
+#a 912.19, None, 914.66
+
+460.
+.. ataka'ino'on ila.\
+what.to.do PFV
+怎麼辦 完成
+
+#e What to do with the child?
+#c 這個小孩怎麼辦？
+#a 914.66, None, 915.67
+
+461.
+... hiza .. kathethel koSa: yao,/
+that . PN say 1SG.NOM
+那 . 雷女 <主焦>說 1SG.主格
+
+#a 915.67, None, 918.25
+
+462.
+...(0.9) nanaw 'okik lobih,/
+still NEG AF.return
+仍然 否定 主焦.回
+
+#a 918.25, None, 920.3
+
+463.
+... rara'itin yao ti'lilih-in noka==,/
+remain 1SG.NOM bully-PF GEN
+保持 1SG.主格 虐待-受焦 屬格
+
+#a 920.3, None, 922.45
+
+464.
+.. kabalihan tina noka minatini',/
+student ?? GEN classmate
+學生 ?? 屬格 同學
+
+#a 922.45, None, 924.24
+
+465.
+... ka== .. balih,\
+FIL . student
+FIL . 學員
+
+#a 924.24, None, 925.71
+
+466.
+...(0.9) yao 'am nak'ino'./
+1SG.NOM FUT how
+1SG.NOM 未來 如何
+
+#e Kathethel said that if she would stay and not go home, she would be bullied by the students. Then what should I do?
+#c 雷女說如果我沒有回去，會繼續被賽夏學生欺負。那我要怎麼辦？
+#a 925.71, None, 927.51
+
+467.
+...(1.1) 'aewhaey ma'an ka kin'i'iyaeh m-wa:i' rini a ka moyo.\
+AF.bad 1SG.GEN NOM life AF-come here LNK ?? 2PL.NOM
+主焦.壞 1SG.屬格 主格 生活 主焦-來 這 LNK ?? 2PL.主格
+
+#e I have not lived happily here with you.
+#c 我到你們這裡,我的生活不快樂。
+#a 927.51, None, 931.19
+
+468.
+... ya:o 'ita' ta-rasiwazay ila manabih ka== kamamanra:an komoSa:,\
+1SG.NOM 1IPL.NOM EXHORT-separate PFV AF.say ACC man COMP
+1SG.主格 1IPL.主格 EXHORT-分離 完成 主焦.說 受格 男人 補語詞
+
+#a 931.19, None, 935.32
+
+469.
+... rasiwazay ila,/
+AF.separate PFV
+主焦.分離 完成
+
+#a 935.32, None, 936.8
+
+470.
+... isaa ta-pa-rasiwazay mita' hini korkoring,\
+then EXHORT-CAU-separate 1IPL.GEN this child
+那 EXHORT-使役-分離 1IPL.屬格 這 小孩
+
+#a 936.8, None, 939.59
+
+471.
+.. 'aehae' nanaw o:,/
+one only INT
+一 只有 感嘆
+
+#a 939.59, None, 940.58
+
+472.
+... 'am nak'ino ila.\
+FUT how PFV
+未來 如何 完成
+
+#e The husband said that they should separate. "We only had one child. What to do with the child?"
+#c 分開吧。男人說：「分開吧。可是我們只有一個小孩，要怎麼辦呢？」
+#a 940.58, None, 941.76
+
+473.
+... ma',/
+FIL
+FIL
+
+#a 941.76, None, 942.51
+
+474.
+...(1.0) 'ana 'aehae' ma' kayzaeh,/
+although one also AF.good
+雖然 一 也 主焦.好
+
+#a 942.51, None, 944.64
+
+475.
+... mita',\
+1IPL.GEN
+1IPL.屬格
+
+#a 944.64, None, 945.21
+
+476.
+...(1.1) ta== hiwa',/
+EXHORT slice
+EXHORT 切
+
+#a 945.21, None, 947.4
+
+477.
+...(1.0) ta 'roSa'-ani o:./
+EXHORT two-RF INT
+EXHORT <完成>兩個-指焦 感嘆
+
+#e One is good. We cut the child in two.
+#c 只有一個也好，我們把小孩切成兩半。
+#a 947.4, None, 949.6
+
+478.
+... 'aehae' 'iniSo,/
+one 2SG.DAT
+一 2SG.予格
+
+#a 949.6, None, 951.01
+
+479.
+...(0.9) 'aehae' 'inima-- inay kabih 'iniman,\
+one FS from side 1SG.DAT
+一 FS 從 邊 1SG.予格
+
+#a 951.01, None, 953.85
+
+480.
+... inay kabih 'iniSo.\
+from side 2SG.DAT
+從 邊 2SG.予格
+
+#e One for you and one for me.
+#c 一個給你一個給我。
+#a 953.85, None, 955.18
+
+481.
+...(0.8) lasia o: si-roSa' ka==,/
+3PL.NOM INT RF-two ACC
+3PL.主格 感嘆 指焦-<完成>兩個 受格
+
+#a 955.18, None, 957.51
+
+482.
+... korkoring,\
+child
+小孩
+
+#a 957.51, None, 958.61
+
+483.
+.. ti-roSa'-en nasia./
+cut-two-PF 3SG.GEN
+切-兩個-受焦 3SG.屬格
+
+#e They cut the child in two.
+#c 他們把小孩切成兩半。
+#a 958.61, None, 959.85
+
+484.
+... la-lasia rasiwazay ila.\
+RED-3PL.NOM AF.separate PFV
+重疊-3PL.主格 主焦.分離 完成
+
+#e Then they separated.
+#c 然後他們就分手了。
+#a 959.85, None, 961.49
+
+485.
+... hiza noka==,/
+that GEN
+那 屬格
+
+#a 961.49, None, 962.93
+
+486.
+... (coughs)_
+
+#a 962.93, None, 963.55
+
+487.
+... kathethel ma',/
+PN also
+雷女 也
+
+#a 963.55, None, 964.95
+
+488.
+... 'aehae' ka==,/
+one NOM
+一 主格
+
+#a 964.95, None, 966.45
+
+489.
+...(0.9) inay kabih,/
+from side
+從 邊
+
+#a 966.45, None, 967.88
+
+490.
+... nisia 'araS-en,/
+3SG.GEN take-PF
+3SG.屬格 拿-受焦
+
+#a 967.88, None, 968.85
+
+491.
+... ila o ray taew'an.\
+go INT LOC house
+去 感嘆 處格 家
+
+#e Kathethel had one half of the child and carried it to her family.
+#c 雷女也分到一邊帶回去家裡。
+#a 968.85, None, 969.64
+
+492.
+... isaso o:,/
+that INT
+那 感嘆
+
+#a 969.64, None, 971.07
+
+493.
+... ma'an ka 'araS-en o: So:,/
+1SG.GEN ?? take-PF INT COND
+1SG.屬格 ?? 拿-受焦 感嘆 假如
+
+#a 971.07, None, 973.02
+
+494.
+...(1.2) inowan 'ita' .. 'ipilaz.\
+when 1IPL.NOM . how.many.days
+何時 1IPL.主格 . 幾天
+
+#e If I take the child home, how many days alter should we meet again?
+#c 如果我把他帶回去，我們多久以後再見面？
+#a 973.02, None, 975.79
+
+495.
+...(1.2) hayza' 'aehae' 'iya sa==,/
+EXIST one IYA FIL
+存在 一 IYA FIL
+
+#a 975.79, None, 978.28
+
+496.
+... koza' kin honahnge 'ita,/
+how.many very AF.long.time 1IPL.NOM
+多少 很 主焦.很久 1IPL.主格
+
+#a 978.28, None, 980.0
+
+497.
+...(1.1) 'am sasbong naehaen tapap--,\
+FUT AF.meet still FS
+未來 主焦-見 仍然 FS
+
+#a 980.0, None, 982.29
+
+498.
+...(0.8) tapap ka-kita' ila mita' ka== .. korkoring,/
+?? Ca-see PFV 1IPL.GEN NOM . child
+?? Ca重疊-看 完成 1IPL.屬格 主格 . 小孩
+
+#a 982.29, None, 985.52
+
+499.
+...(1.3) nihia kayzaeh ka kaelaehaeng./
+who.GEN AF.good NOM care
+誰.屬格 主焦.好 主格 <完成>照顧
+
+#e When do we meet again to see who takes better care of the child?
+#c 多久之後再見面？看誰的小孩照顧的好？
+#a 985.52, None, 988.06
+
+500.
+... ila sa'oewaz,\
+PFV AF.truly
+完成 主焦.真的
+
+#a 988.06, None, 989.46
+
+501.
+... potngor ila nasia ka paraehraeng-an,\
+AF.arrive PFV 3SG.GEN NOM discuss-NMZ
+主焦.到達 完成 3SG.屬格 主格 <完成>商量-名物化
+
+#e The day of their meeting arrived.
+#c 到了他們約定的日子。
+#a 989.46, None, 991.74
+
+502.
+... ma hiza 'aehae' hahila Sa,/
+DM that one day DM
+DM 那 一 天 DM
+
+#a 991.74, None, 993.85
+
+503.
+...(1.0) ma koza kin hoenaehnge,/
+DM how.many very AF.long.time
+DM 多少 很 主焦.很久
+
+#a 993.85, None, 996.12
+
+504.
+... hiza== .. ma 'okik.\
+there . DM NEG
+那 . DM 否定
+
+#a 996.12, None, 997.41
+
+505.
+... sekla-'i 'atomalan,/
+recognize-PF very
+認識-受焦 很
+
+#a 997.41, None, 999.0
+
+506.
+... isaa lasia potngor ila ka paeh-raehraengan lasia./
+DM 3PL.NOM AF.arrive PFV ?? discuss-NMZ 3PL.NOM
+DM 3PL.主格 主焦.到達 完成 ?? <完成>商量-名物化 3PL.主格
+
+#e The day of their meeting arrived.
+#c 過了很久到了他們約定的日子。
+#a 999.0, None, 1002.08
+
+507.
+... m-araS ka korkoring hiza ka kathethel.\
+AF-take ACC child that NOM PN
+主焦-拿 受格 小孩 那 主格 雷女
+
+#a 1002.08, None, 1004.78
+
+508.
+... komoSa:,\
+say
+<主焦>說
+
+#a 1004.78, None, 1005.62
+
+509.
+...(0.8) ta sasbong mita' riha'o./
+EXHORT AF.meet 1IPL.GEN there
+EXHORT 主焦.相見 1IPL.屬格 那裡
+
+#e Kathethel brought the child, and said, "Let's meet."
+#c 雷女帶了小孩子來，說我們在那裡見面。
+#a 1005.62, None, 1007.1
+
+510.
+.. tapak ka-kita' isaa ka== korkoring.\
+?? Ca-see that ACC child
+?? Ca重疊-看 那 受格 小孩
+
+#a 1007.1, None, 1009.47
+
+511.
+...(0.8) al 'araS-en nisia ka== korkoring ma',/
+FS take-PF 3SG.GEN NOM child also
+FS 帶-受焦 3SG.屬格 主格 小孩 也
+
+#a 1009.47, None, 1012.13
+
+512.
+.. 'ima ra:am ila,\
+PROG AF.know PFV
+進行 主焦.知道 完成
+
+#a 1012.13, None, 1013.16
+
+513.
+...(1.1) ra:am ila manra:an./
+AF.know PFV AF.walk
+主焦.知道 完成 主焦.走
+
+#e Her child has grown up and learned how to walk.
+#c 她帶來的小孩子已經會走了。
+#a 1013.16, None, 1015.19
+
+514.
+...(1.2) ma==,/
+FIL
+FIL
+
+#a 1015.19, None, 1016.92
+
+515.
+... nisia haysia ma 'i'iyaeh./
+3SG.GEN still PROG AF.alive
+3SG.屬格 仍然 進行 主焦.活
+
+#e Her child was still alive."
+#c 她的小孩還活著。
+#a 1016.92, None, 1019.13
+
+516.
+... hiza noka saysiyat ka korkoring,\
+that GEN PN NOM child
+那 屬格 專名 主格 小孩
+
+#a 1019.13, None, 1021.43
+
+517.
+...(0.8) pa-'apol nasia,/
+CAU-distribute 3SG.GEN
+<完成>使役-分 3SG.屬格
+
+#a 1021.43, None, 1023.22
+
+518.
+...(0.9) 'aSkan-en nisia,/
+put-PF 3SG.GEN
+放-受焦 3SG.屬格
+
+#a 1023.22, None, 1025.09
+
+519.
+.. bo:ok ila,/
+AF.rot PFV
+主焦.爛 完成
+
+#a 1025.09, None, 1025.81
+
+520.
+...(1.5) masay hiza ma'./
+AF.die that FIL
+主焦.死 那 FIL
+
+#e The child of the SaiSiyat person was rotten. The child was dead.
+#c 分給賽夏人的小孩已經爛了，死掉了。
+#a 1025.81, None, 1028.34
+
+521.
+... 'oka' ila 'i==,\
+NEG PFV FS
+否定 完成 FS
+
+#a 1028.34, None, 1029.95
+
+522.
+... 'okik ila 'i'iyaeh,/
+NEG PFV AF.alive
+否定 完成 主焦.活
+
+#a 1029.95, None, 1031.2
+
+523.
+...(1.1) hiza .. lasia./
+that . 3PL.NOM
+那 . 3PL.主格
+
+#e  It's not alive anymore.
+#c 沒有活著了。
+#a 1031.2, None, 1032.67
+
+524.
+... sa'oewaz 'ahoewis 'atomal ka inaz'azem rima' sasbong,/
+AF.truly sad very NOM heart AF.go AF.meet
+主焦.真 <主焦>難過 很 主格 心 主焦.去 主焦.見
+
+#a 1032.67, None, 1036.3
+
+525.
+... kosa: niSo korkoring hayno' ila.\
+say 2SG.GEN child where PFV
+說 2SG.屬格 小孩 哪裡 完成
+
+#e They met with a heavy heart. She asked him where his child was.
+#c 見面時心裡很難過，她問說：「你的小孩去哪裡了？」
+#a 1036.3, None, 1038.47
+
+526.
+...(1.7) Sa ma'an,\
+say 1SG.GEN
+說 1SG.屬格
+
+#a 1038.47, None, 1040.82
+
+527.
+.. ka korkoring o: 'am hayno'./
+NOM child INT FUT where
+主格 小孩 感嘆 未來 哪裡
+
+#e Where my child is?
+#c 我的小孩呢？
+#a 1040.82, None, 1042.22
+
+528.
+... 'am ma== .. nom 'i'iya mita' ti-roSa'-en,/
+FUT FIL . ?? AF.live 1IPL.GEN cut-two-PF
+未來 FIL . ?? 主焦.活 1IPL.屬格 切-兩-受焦
+
+#a 1042.22, None, 1045.05
+
+529.
+... s-roSa' ma' isaa masay ila bo:ok ila .. 'oka' ila.\
+RF-two DM there AF.die PFV AF.rot PFV . NEG PFV
+指焦-<完成>兩個 DM 那裡 主焦.死 完成 主焦.爛 完成 . 否定 完成
+
+#e We cut it in two, and it died, rotten, and gone.
+#c 我們把他切成兩半，現在死了，爛了，沒有了。
+#a 1045.05, None, 1048.52
+
+530.
+... kita' ma'an ka korkoring hini 'ampowa' kayzaeh 'okik bo:ok./
+see 1SG.GEN NOM child this why AF.good NEG AF.rot
+看 1SG.屬格 主格 小孩 這 為何 主焦.好 否定 主焦.爛
+
+#e See my child is good. He's not rotten.
+#c 看我的小孩為什麼好好的，沒有爛。
+#a 1048.52, None, 1051.7
+
+531.
+... hiza korkoring ma' kayzaeh ila ka==,/
+that child also AF.good PFV FIL
+那 小孩 也 主焦.好 完成 FIL
+
+#a 1051.7, None, 1054.32
+
+532.
+... kin 'i'iyaeh,\
+very AF.alive
+很 主焦.活
+
+#a 1054.32, None, 1055.39
+
+533.
+... 'ibabaw ila Sa== s'oelan.\
+AF.grow.tall PFV FIL grow
+主焦.長高 完成 FIL <完成>長大
+
+#e He's very much alive and has grown tall.
+#c 那小孩活的很好，也長高了。
+#a 1055.39, None, 1057.2
+
+534.
+...(1.0) hiza,/
+that
+那
+
+#a 1057.2, None, 1058.88
+
+535.
+...(1.7) SaiSiyat,\
+PN
+專名
+
+#a 1058.88, None, 1060.97
+
+536.
+.. maybih naehaen koSa: 'ita' naw 'okay ti'lilihi hisia ma' hiza kayzaeh 'atomalan.\
+AF.regret still say 1IPL.NOM COND NEG bully 3SG.ACC also there AF.good very
+主焦.後悔 仍然 <主焦>說 1IPL.主格 條件詞 否定 虐待 3SG.受格 也 那裡 主焦.好 很
+
+#e The SaiSiyat person expressed regret and said that that person was good, and they shouldn't have bullied her.
+#c 賽夏人很後悔，說，如果我們當初沒有欺負她的話，現在也很好。
+#a 1060.97, None, 1065.32
+
+537.
+... 'in'alay ri'sa ma' isaa .. sia .. koSa',\
+from here also then . 3SG.NOM . say
+從 這裡 也 那麼 . 3SG.主格 . <主焦>說
+
+#a 1065.32, None, 1068.43
+
+538.
+... 'oka' ila ka-paybih-an.\
+NEG PFV KA-regret-NMZ
+否定 完成 KA-後悔-名物化
+
+#e She said there was nothing to regret about.
+#c 她說沒必要後悔。
+#a 1068.43, None, 1069.31
+
+539.
+.. koSa'-en lobih naehaen sia ma' kayni' ila.\
+say-PF AF.return again 3SG.NOM also NEG PFV
+說-受焦 主焦.回 再 3SG.主格 也 否定 完成
+
+#e She won't come back even if we ask her to.
+#c 就算求她她也不會回去了。
+#a 1069.31, None, 1071.46
+
+540.
+... koSa ay yao ti'nililih-an nao nimon.\
+say INT 1SG.NOM bully-NMZ ?? 2PL.GEN
+說 感嘆 1SG.主格 <完成>虐待-名物化 ?? 2PL.屬格
+
+#e She said, I have been bullied by you.
+#c 她說，我被你們欺負過。
+#a 1071.46, None, 1074.55
+
+541.
+...(0.8) 'oka' yao kayni' ka lobih 'in'alay ri'sa' lasia,/
+NEG 1SG.NOM NEG ?? AF.return from here 3PL.NOM
+否定 1SG.主格 否定 ?? 主焦.回 從 這裡 3PL.主格
+
+#a 1074.55, None, 1077.85
+
+542.
+... rasiwazay.\
+AF.separate
+主焦.分開
+
+#e I don't like to go back. From then on, they separated.
+#c 我不會回去。從此他們分開了。
+#a 1077.85, None, 1078.9
+
+543.
+... hiza tabin,\
+there until
+那裡 直到
+
+#a 1078.9, None, 1080.15
+
+544.
+...(1.3) haysani ma' isaa 'oka' ila ka-kita' ki== saysiyat.\
+today DM there NEG PFV Ca-see with PN
+今天 DM 那裡 否定 完成 Ca重疊-見 和 專名
+
+#e From then on, she didn't meet with the SaiSiyat people again.
+#c 直到今日都沒有再見賽夏人。
+#a 1080.15, None, 1083.79
+
+545.
+... isaa papay 'isaa ma'an ka,/
+there until there 1SG.GEN NOM
+那裡 直到 那裡 1SG.屬格 主格
+
+#a 1083.79, None, 1086.37
+
+546.
+...(0.8) panabih.\
+say
+<完成>說
+
+#e My story ends here.
+#c 我的故事到此結束。
+#a 1086.37, None, 1087.94

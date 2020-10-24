@@ -1,0 +1,1244 @@
+topic: Pear Story
+type: Narrative
+language: 阿美語, Amis, Ciwkangan (台東縣長光社區)
+speaker: 李金妹, Panay, female, 1949-12-28
+collected: 2007-01-05
+revised: None
+video: Amis_Nr-pear_panay.mp3
+
+1.
+ira  ku==,\
+EXIST  NOM
+存在  主格
+
+#a 11.58, None, 12.41
+
+2.
+.. ccay   a==,\
+one   LNK
+一   連詞
+
+#a 12.41, None, 13.43
+
+3.
+.. tamdaw._
+person
+人
+
+#a 13.43, None, 14.27
+
+4.
+...(0.8) ira  ku  pena-luma’,\
+EXIST  NOM  PENA-house
+存在  主格   PENA-房子
+
+#a 14.27, None, 16.23
+
+5.
+.. nira   tu==,\
+3SG.GEN  OBL
+3SG.屬格   斜格
+
+#a 16.23, None, 17.21
+
+6.
+.. ccay  a   kilang  tu==,_
+one  LNK  tree  OBL
+一   連詞  樹   斜格
+
+#a 17.21, None, 19.01
+
+7.
+...(2.5) ci-haci-ay  tu==,_
+get-fruit-AY   OBL
+得-水果-AY   斜格
+
+#a 19.01, None, 23.08
+
+8.
+...(1.1) enem.\
+six
+六
+
+#a 23.08, None, 24.86
+
+9.
+...(1.4) u==  nasi.\
+CN  pear
+CN   梨子
+
+#e There was a person planting a tree, which bore six pears.
+#c 有一個人他種了一棵樹，長出六顆梨子的樹。
+#n pena(在IU 4)近似pina，而pina很有可能來自於ni-pa- "PFV-CAU-"的重組
+#a 24.86, None, 27.5
+
+10.
+...(1.2) mi-pitpit  cingra  tu==,_
+AF-pluck  3SG.NOM  OBL
+主焦-摘   3SG.主格  斜格
+
+#a 27.5, None, 30.71
+
+11.
+... nasi  nira.\
+pear   3SG.GEN
+梨子   3SG.屬格
+
+#e He plucked pears.
+#c 他去摘梨子。
+#a 30.71, None, 32.31
+
+12.
+...(1.1) mi-kalic   cingra   i==,_
+AF-climb  3SG.NOM   LOC
+主焦-爬   3SG.主格   處格
+
+#a 32.31, None, 35.35
+
+13.
+... fafa’ed  tata’ang=tu  kuya==,\
+above   AF.big=PFV   that.NOM
+上面   主焦.大=完成   那個.主格
+
+#a 35.35, None, 37.97
+
+14.
+.. kilang  nira.\
+tree  3SG.GEN
+樹    3SG.屬格
+
+#e He climbed up. The tree grew tall.
+#c 他爬上去，那棵樹長得很大棵。
+#a 37.97, None, 38.97
+
+15.
+...(1.1) mi-kalic  cingra  i    fafa’ed,\
+AF-climb  3SG.NOM  LOC  above
+主焦-爬   3SG.主格  處格  上面
+
+#a 38.97, None, 41.83
+
+16.
+... pa-kawal   han   nira   a    mi==-,\
+CAU-ladder  HAN  3SG.GEN  LNK  AF-
+使役-梯子   HAN  3SG.屬格  連詞  主焦-
+
+#a 41.83, None, 43.87
+
+17.
+.. kalic.\
+climb
+爬
+
+#e He climbed up. He climbed up with a ladder.
+#c 他爬上去（的時候），用樓梯爬上去。
+#a 43.87, None, 44.53
+
+18.
+...(2.0) adihay=tu   kuya   ni==-,\
+AF.many=PFV    that.NOM  PFV-
+主焦.很多=完成  那個.主格  完成-
+
+#a 44.53, None, 47.96
+
+19.
+.. pitpit-an  nira.\
+pluck-LF  3SG.GEN
+摘-處焦   3SG.屬格
+
+#e What he plucked were numerous.
+#c 他摘的果實多了。
+#a 47.96, None, 49.13
+
+20.
+.. ma-‘pud   cingra,\
+AF-descend  3SG.NOM
+主焦-下來  3SG.主格
+
+#a 49.13, None, 50.52
+
+21.
+.. mi-teli,\
+AF-put
+主焦-放
+
+#a 50.52, None, 51.53
+
+22.
+... tulu,\
+three
+三
+
+#a 51.53, None, 52.61
+
+23.
+.. ku   langa  nira    i==,\
+NOM  basket  3SG.GEN  LOC
+主格  籃子    3SG.屬格 處格
+
+#a 52.61, None, 54.23
+
+24.
+.. la’enu.\
+below
+下面
+
+#e He went down to put (the pears) in the three baskets below.
+#c 他下來了，要放置在下面的三個籃子。
+#a 54.23, None, 54.96
+
+25.
+...(2.0) ma-tumus=tu   ku==,\
+AF-full=PFV    NON
+主焦-裝滿=完成   主格
+
+#a 54.96, None, 58.74
+
+26.
+.. tusa  a==,\
+two  LNK
+二   連詞
+
+#a 58.74, None, 59.7
+
+27.
+.. langa.\
+basket
+籃子
+
+#e Two baskets were full.
+#c 兩個籃子都裝滿了。
+#a 59.7, None, 60.28
+
+28.
+...(1.0) mi-liyaw  haca  cingra  a,\
+AF-again   yet   3SG.NOM   LNK
+主焦-再次  仍  3SG.主格   連詞
+
+#a 60.28, None, 62.84
+
+29.
+.. mi-kalic.\
+AF-climb
+主焦-爬
+
+#a 62.84, None, 64.01
+
+30.
+...(1.1) mi-pitpit,_
+AF-pluck
+主焦-摘
+
+#a 64.01, None, 65.96
+
+31.
+...(1.8) i  fafa’ed  ku==,_
+LOC  above   NOM
+處格  上面  主格
+
+#e He climbed up again to pluck (fruit) up there.
+#c 他再次爬上去，在上面摘。
+#a 65.96, None, 69.54
+
+32.
+... takaraw  kura   kilang._
+AF.tall  that.NOM  tree
+主焦.高  那個.主格  樹
+
+#a 69.54, None, 71.41
+
+33.
+...(2.1) i  fafa’ed  cingra   a==,\
+LOC  above   3SG.NOM   LNK
+處格  上面  3SG.主格   連詞
+
+#a 71.41, None, 75.07
+
+34.
+.. mi-kalic.\
+AF-climb
+主焦-爬
+
+#e The tree was tall, and he climbed up.
+#c 那棵樹很高，他爬到上面。
+#a 75.07, None, 75.95
+
+35.
+...(2.0) ira  ku   ccay   a==,\
+EXIST  NOM  one   LNK
+存在  主格  一   連詞
+
+#a 75.95, None, 79.35
+
+36.
+.. tamdaw  mi==-,\
+person  AF-
+人    主焦-
+
+#a 79.35, None, 80.45
+
+37.
+.. kiting-ay  tu==,\
+lead-AY   OBL
+牽-AY     斜格
+
+#a 80.45, None, 81.82
+
+38.
+.. siri.\
+goat
+山羊
+
+#e There was a person who pulled a goat along.
+#c 有一個人牽著山羊。
+#a 81.82, None, 82.47
+
+39.
+...(4.3) tayra  a   mi==-,_
+AF.go  LNK   AF-
+主焦.去  連詞  主焦-
+
+#a 82.47, None, 88.38
+
+40.
+.. ra’ud.\
+approach
+接近
+
+#a 88.38, None, 89.21
+
+41.
+...(0.8) nengneng-han  nira  u==,\
+see-HAN  3SG.GEN   CN
+看-HAN   3SG.屬格  CN
+
+#a 89.21, None, 91.45
+
+42.
+.. nasi,\
+pear
+梨子
+
+#a 91.45, None, 92.08
+
+43.
+.. kuya==,\
+that.NOM
+那個.主格
+
+#a 92.08, None, 92.7
+
+44.
+.. mi-pitpit-an.\
+PF-pluck-PF
+受焦-摘-受焦
+
+#a 92.7, None, 93.62
+
+45.
+...(1.0) pa-tiku’.\
+CAU-return
+使役-返回
+
+#e He went and approached, seeing the plucked pears. He put them back.
+#c 他靠近然後看了，（原來是）摘下來的梨子，就放了回去。
+#a 93.62, None, 95.54
+
+46.
+...(2.0) huni,\
+a.while
+一會兒
+
+#a 95.54, None, 98.17
+
+47.
+.. ira   ku   ccay  a==,\
+EXIST  NOM  one  LNK
+存在 主格 一 連詞
+
+#a 98.17, None, 99.84
+
+48.
+.. wawa,\
+child
+小孩
+
+#a 99.84, None, 100.37
+
+49.
+.. tu  ni-kiliciw-ay,\
+OBL PFV-bike-AY
+斜格 完成-腳踏車-AY
+
+#a 100.37, None, 101.6
+
+50.
+...(0.7) mi-tafsiw  itira,\
+AF-pass    there
+主焦-經過   那裡
+
+#e After a while, there was a child who rode a bike and passed by.
+#c 一會兒，有一個小孩騎著單車，從那裡經過。
+#a 101.6, None, 103.86
+
+51.
+...(1.1) nengneng-han  nira,_
+see-HAN  3SG.GEN
+看-HAN   3SG.屬格
+
+#a 103.86, None, 106.0
+
+52.
+...(1.5) ira  i  fafa’ed,\
+EXIST LOC above
+存在 處格 上面
+
+#a 106.0, None, 108.52
+
+53.
+.. kuya==,\
+that.NOM
+那個.主格
+
+#a 108.52, None, 109.55
+
+54.
+.. tamdaw  mi-pitpit.\
+person  AF-pluck
+人   主焦-摘
+
+#e He saw a person plucking (fruit) above.
+#c 他一看，那個人在上面摘（水果）。
+#a 109.55, None, 110.84
+
+55.
+...(1.1) ca’a-han  nira   mi-ca’a,_
+raise.head-HAN  3SG.GEN  AF-raise.head
+抬頭-HAN   3SG.屬格  主焦-抬頭
+
+#a 110.84, None, 113.66
+
+56.
+.. ca’ay  pi-nengneng  pa-si-la’enu,\
+NEG  PI-see   CAU-SI-below
+否定  PI-看  使役-SI-下面
+
+#a 113.66, None, 115.34
+
+57.
+.. kuya==   tamdaw.\
+that.NOM   person
+那個.主格  人
+
+#e He raised his head, and (saw) that person (the person who was plucking fruit) did not look down.
+#c 他抬頭仰望，那個（摘果樹的）人都不往下看。
+#a 115.34, None, 116.65
+
+58.
+...(0.8) ya  mi-kuliciw-ay,\
+that  AF-bike-AY
+那個  主焦-腳踏車-AY
+
+#a 116.65, None, 118.56
+
+59.
+.. sa=tu  a   wawa,\
+SA=PFV LNK  child
+SA=完成 連詞 小孩
+
+#a 118.56, None, 119.3
+
+60.
+.. nengneng-han   nira   kuya==,_
+see-HAN   3SG.GEN   that.NOM
+看-HAN   3SG.屬格   那個.主格
+
+#a 119.3, None, 120.73
+
+61.
+.. nasi  itira  i  langa.\
+pear  there  LOC  basket
+梨子  那裡  處格  籃子
+
+#e The child that rode a bike looked at the pears in the baskets.
+#c 而後，騎著腳踏車的小孩，他看著在籃子裡的梨子。
+#a 120.73, None, 122.73
+
+62.
+...(3.0) ala-han  nira  mi-ala,\
+take-HAN  3SG.GEN AF-take
+拿-HAN  3SG.屬格 主焦-拿
+
+#a 122.73, None, 126.93
+
+63.
+.. ku  ccay  a==  langa.\
+NOM  one  LNK  basket
+主格  一  連詞   籃子
+
+#a 126.93, None, 128.31
+
+64.
+... pa-kalic  itira  i==,\
+CAU-climb  there  LOC
+使役-爬  那裡  處格
+
+#a 128.31, None, 130.04
+
+65.
+.. kuliciw  nira.\
+bike   3SG.GEN
+腳踏車   3SG.屬格
+
+#e He took one basket and put it on his bike.
+#c 他拿走了一籃裝上他的腳踏車。
+#a 130.04, None, 131.17
+
+66.
+...(1.6) ca’ay  ka-nengneng   nuya==,_
+NEG  KA-see   that.GEN
+否定  KA-看  那個.屬格
+
+#a 131.17, None, 134.69
+
+67.
+...(1.2) tamdaw  tuya   mi-kalic-ay.\
+person  that.OBL   AF-climb-AY
+人  那個.斜格  主焦-爬-AY
+
+#e The person who climbed up did not see this.
+#c 爬到上面的人沒有看到。
+#a 134.69, None, 137.7
+
+68.
+... sa-maan-en  i   fafa’ed  cingra a==,\
+IF-what-PF  LOC above 3SG.NOM LNK
+工焦-什麼-受焦  處格 上面 3SG.主格 連詞
+
+#a 137.7, None, 140.28
+
+69.
+.. mi-pitpit.\
+AF-pluck
+主焦-摘
+
+#e He couldn’t do anything. He was plucking (fruit) above.
+#c 那有什麼辦法呢，（因為）他在上面摘嘛。
+#n sa-maan-en:「有什麼辦法呢」(無奈的表示)；「用什麼方法」
+#a 140.28, None, 141.3
+
+70.
+...(1.5) ala-han nuya  wawa,\
+take-HAN that.GEN  child
+拿-HAN 那個.屬格 小孩
+
+#a 141.3, None, 143.91
+
+71.
+.. tu  fa’inayan  ni-kuliciw-ay,\
+OBL  male  PFV-bike-AY
+斜格 男性   完成-腳踏車-AY
+
+#a 143.91, None, 145.51
+
+72.
+.. ku  ccay  a  langa.\
+NOM  one  LNK  basket
+主格  一  連詞  籃子
+
+#e The boy who rode a bike took one basket.
+#c 那個騎單車的男孩拿走了一籃。
+#a 145.51, None, 146.72
+
+73.
+...(1.4) kuliciw sa=tu  cingra   mi==-,\
+bike   SA=PFV   3SG.NOM   AF-
+腳踏車  SA=完成  3SG.主格  主焦-
+
+#a 146.72, None, 149.48
+
+74.
+.. nukay.\
+go.home
+回家
+
+#e He rode his bike home.
+#c 他就騎著單車回家。
+#a 149.48, None, 150.14
+
+75.
+...(1.0) tahira  i==  ra’ay,_
+arrive  LOC  far
+到達  處格  遠
+
+#a 150.14, None, 152.79
+
+76.
+... ira   ma-sa-litemuk  nira   ku==,\
+EXIST  AF-SA-meet  3SG.GEN  NOM
+存在  主焦-SA-碰面  3SG.屬格  主格
+
+#a 152.79, None, 155.17
+
+77.
+.. ccay  a  fafahiyan,\
+one  LNK  female 
+一  連詞  女性
+
+#a 155.17, None, 156.35
+
+78.
+.. a   mi-kuliciw-ay,\
+LNK AF-bike-AY
+連詞 主焦-腳踏車-AY
+
+#e Somewhere not far away, he met one girl who rode a bike.
+#c 不遠處和他一位騎著腳踏車的女孩子交會了。
+#n ra’ay:「遠」；tahira i ra’ay:「不遠」
+#a 156.35, None, 157.69
+
+79.
+...(0.7) ma-la-litemuk  cangra,_
+AF-CA-meet   3PL.NOM
+主焦-CA重疊-碰面   3PL.主格
+
+#a 157.69, None, 160.01
+
+80.
+...(1.2) ma-fiyuk  nu==,\
+PF-blow   GEN
+受焦-吹  屬格
+
+#a 160.01, None, 162.76
+
+81.
+.. fali  nu  ka-la-litemuk   nira   ku   kafung,\
+wind  GEN  KA-CA-meet  3SG.GEN  NOM   hat
+風  屬格  KA-CA重疊-碰面  3SG.屬格  主格  帽子
+
+#a 162.76, None, 165.11
+
+82.
+.. nuya==  wawa  tiya   fa’inayan,_
+that.GEN   child  that.OBL   male
+那個.屬格   小孩  那個.斜格   男性
+
+#e When they met, the wind blew the boy’s hat away.
+#c 他們交會的時候，忽然一陣風把那個男孩的帽子吹走了。
+#n fiyuk來自於風聲
+#a 165.11, None, 167.02
+
+83.
+...(1.2) ma-tefad  ku,\
+AF-drop   NOM
+主焦-掉落   主格
+
+#a 167.02, None, 169.16
+
+84.
+.. kafung   nira,_
+hat   3SG.GEN
+帽子   3SG.屬格
+
+#e His hat fell.
+#c 他的帽子掉下來。
+#a 169.16, None, 170.05
+
+85.
+... tala  dadama,\
+wait    ??
+等待  ??
+
+#a 170.05, None, 171.22
+
+86.
+.. cingra  tu==,\
+3SG.NOM OBL
+3SG.主格 斜格
+
+#a 171.22, None, 172.11
+
+87.
+.. kafung  nira  tu==,\
+hat   3SG.GEN OBL
+帽子 3SG.屬格 斜格
+
+#a 172.11, None, 173.34
+
+88.
+.. sa-ka-tefad-aw  nuya  kafung   nira  haw,_
+IF-KA-drop-OPT   that.GEN  hat   3SG.GEN   HAW
+工焦-KA-掉落-祈願  那個.屬格  帽子 3SG.屬格  HAW
+
+#e His hat was going to fall down soon, so he grasped it.
+#c 帽子就快要掉下來了，所以他扶住他的帽子。
+#a 173.34, None, 175.31
+
+89.
+...(1.3) pa-ci’ci  sa’an  ma-tefad  kiya   kafung   nira,_
+CAU-effort  said.so  AF-drop  that.NOM  hat   3SG.GEN
+使役-努力 如此說  主焦-掉落  那個.主格  帽子   3SG.主格
+
+#e Even though he tried hard, his hat still fell down.
+#c 如此努力，帽子（還是）掉下來。
+#a 175.31, None, 178.77
+
+90.
+.. ca’ay=tu   pi-na’on,\
+NEG=PFV  PI-pay.attention
+否定=完成  PI-注意
+
+#a 178.77, None, 179.94
+
+91.
+.. cingra  mi-nengneng  tu  a-ayaw,_
+3SG.NOM  AF-see  OBL  CA-front
+3SG.主格  主焦-看  斜格  CA重疊-前面
+
+#e He could not look at the front attentively.
+#c 他不能注意看著前方。
+#a 179.94, None, 181.66
+
+92.
+... ira  ku   fekeloh  i   a-ayaw,\
+EXIST  NOM  stone  LOC   CA-front
+存在  主格    石頭  處格   CA重疊-前面
+
+#a 181.66, None, 183.68
+
+93.
+.. tahastul  sa=tu   kuya    kuliciw,\
+bump.into  SA=PFV  that.NOM   bike
+碰上  SA=完成    那個.主格  腳踏車
+
+#a 183.68, None, 185.46
+
+94.
+.. nira    tuya    fekeloh.\
+3SG.GEN   that.OBL   stone
+3SG.屬格   那個.斜格   石頭
+
+#e There was a stone in the front, and the bike hit the stone.
+#c 前面有一塊石頭，腳踏車撞上那顆石頭。
+#a 185.46, None, 186.62
+
+95.
+... pulin,\
+fall
+摔倒
+
+#a 186.62, None, 187.54
+
+96.
+.. sa’an  a   ma-pulin,\
+said.so  LNK  AF-fall
+如此說  連詞  主焦-落下
+
+#a 187.54, None, 188.49
+
+97.
+.. kuya==   wawa.\
+that.NOM   child
+那個.主格   小孩
+
+#e The child fell down.
+#c 那個小孩突然跌倒。
+#a 188.49, None, 190.1
+
+98.
+...(2.1) ta.\
+then
+然後
+
+#a 190.1, None, 192.6
+
+99.
+.. adada  ku   wa’ay   nira,\
+AF.hurt  NOM  foot  3SG.GEN
+主焦.痛  主格   腳  3SG.屬格
+
+#e His foot hurt.
+#c 他的腳很痛。
+#a 192.6, None, 194.09
+
+100.
+.. laklak  sa=tu    kuya==,\
+spread  SA=PFV   that.NOM
+分散    SA=完成  那個.主格
+
+#a 194.09, None, 195.52
+
+101.
+.. nasi,\
+pear
+梨子
+
+#a 195.52, None, 196.13
+
+102.
+.. tiya==   langa   ma-tapulung,_
+that.OBL   basket   AF-spill
+那個.斜格  籃子  主焦-散落
+
+#a 196.13, None, 198.0
+
+103.
+.. tuni   ka-pulin    nira.\
+this.OBL  KA-fall    3SG.GEN
+這個.斜格  KA-摔倒  3SG.屬格
+
+#e The pears in the basket were scattered all over when he fell down.
+#c 在他摔倒的時候，籃子裡的梨子全部傾倒散落滿地。
+#a 198.0, None, 199.44
+
+104.
+...(1.3) mi-sa-puh-puhpuh,\
+AF-SA-RED-stroke
+主焦-SA-重疊-撫摸
+
+#a 199.44, None, 201.92
+
+105.
+.. tuya  wa’ay   nira,\
+that.OBL  foot  3SG.GEN
+那個.斜格  腳  3SG.屬格
+
+#e He stroked his foot.
+#c 他撫摸他的腳。
+#a 201.92, None, 202.81
+
+106.
+.. ca’ay=tu   paka-luwad   kuya   wawa.\
+NEG=PFV  PAKA2-get.up  that.NOM  child
+否定=完成 PAKA2-起身   那個.主格  小孩
+
+#e The child could not get up.
+#c 那小孩無法爬起身來。
+#a 202.81, None, 204.57
+
+107.
+... honi,\
+a.while
+一會兒
+
+#a 204.57, None, 205.42
+
+108.
+.. ira   ku==,\
+EXIST  NOM
+存在   主格
+
+#a 205.42, None, 206.28
+
+109.
+.. ta-tulu   a==,_
+CA-three   LNK
+CA重疊-三  連詞
+
+#a 206.28, None, 207.39
+
+110.
+... sa-ka-lecad,\
+IF-KA-same
+工焦-KA-相同
+
+#a 207.39, None, 208.69
+
+111.
+.. tunira  a==  wawa.\
+this.OBL  LNK   child
+這個.斜格  連詞  小孩
+
+#a 208.69, None, 210.43
+
+112.
+...(0.7) ta-tulu,\
+CA-three
+CA重疊-三
+
+#a 210.43, None, 211.93
+
+113.
+... ra’ud-han   nuya,\
+approach-HAN  that.GEN
+到達-HAN   那個.屬格
+
+#a 211.93, None, 213.6
+
+114.
+.. ta-tulu-ay,\
+CA-three -AY
+CA重疊-三-AY
+
+#e After a while, there were three children who were as old as he. The three approached him.
+#c 沒多久，有三個跟他一樣大的小孩，那三個人靠近他。
+#a 213.6, None, 214.61
+
+115.
+...(1.2) u==,_
+CN
+CN
+
+#a 214.61, None, 216.72
+
+116.
+...(1.0) ta tayra  mi-tafsiw,\
+then   AF.go   AF-pass
+然後  主焦.去  主焦-經過
+
+#a 216.72, None, 219.04
+
+117.
+.. tuya    mi-pitpit-ay   kuya    ta-tulu-ay,\
+that.OBL  AF-pluck-AY  that.NOM   CA-three-AY
+那個.斜格  主焦-摘-AY  那個.主格  CA重疊-三-AY
+
+#a 219.04, None, 221.06
+
+118.
+.. a   wawa   mi-tatuy,\
+LNK  child  AF-carry
+連詞  小孩  主焦-提
+
+#a 221.06, None, 222.42
+
+119.
+.. tu  mali.\
+OBL  ball
+斜格  球
+
+#e The three children passed the person who plucked fruit and they carried balls.
+#c 那三個小孩將經過摘水果的，他們拿著球。
+#a 222.42, None, 223.14
+
+120.
+...(1.2) padang-han  nira,\
+help-HAN   3SG.GEN
+幫忙-HAN   3SG.屬格
+
+#a 223.14, None, 225.2
+
+121.
+.. mi-padang  mi-pudpud  tuya==,\
+AF-help   AF-pick    that.OBL
+主焦-幫忙  主焦-撿   那個.斜格
+
+#a 225.2, None, 227.59
+
+122.
+.. nasi  mi-paru,\
+pear   AF-fill
+梨子  主焦-裝
+
+#a 227.59, None, 228.71
+
+123.
+.. itira  i==  langa.\
+there  LOC  basket
+那裡  處格  籃子
+
+#e He helped pick up the pears and put them in the basket.
+#c 他幫忙撿梨子，裝在籃子裡。
+#a 228.71, None, 230.22
+
+124.
+... ta  l<um>uwad=tu   kuya==,\
+then  <AF>get.up=PFV   that.NOM
+然後  <主焦>起身=完成   那個.主格
+
+#a 230.22, None, 232.1
+
+125.
+.. ma-pulin-ay   a    wawa,_
+AF-fall-AY   LNK  child
+主焦-摔倒-AY   連詞   小孩
+
+#e The child who fell down got up.
+#c 那個跌倒的小孩起來了。
+#a 232.1, None, 233.53
+
+126.
+.. ta   pa-tadu,\
+then   CAU-do.for
+然後   使役-替
+
+#a 233.53, None, 234.61
+
+127.
+.. han  nuya    ta-tulu-ay,\
+HAN  that.GEN  CA-three-AY
+HAN  那個.屬格  CA重疊-三-AY
+
+#a 234.61, None, 235.67
+
+128.
+.. a  mi-pa-kalic   itira    i==,_
+LNK  AF-CAU-climb  there   LOC
+連詞  主焦-使役-爬  那裡   處格
+
+#a 235.67, None, 237.78
+
+129.
+...(0.7) kuliciw  nira.\
+bike   3SG.GEN
+腳踏車  3SG.屬格
+
+#e The three helped him put (the pears) onto his bike.
+#c 那三個人協助他放到他的腳踏車上。
+#a 237.78, None, 239.63
+
+130.
+... ta   mi-laliw=tu   kuya    wawa  a==,_
+then  AF-leave=PFV  that.NOM  child  LNK
+然後  主焦-離開=完成  那個.主格  小孩  連詞
+
+#a 239.63, None, 242.49
+
+131.
+... mi-nukay.\
+AF-go.home
+主焦-回家
+
+#e Then, the child left and went home.
+#c 之後，那個小孩就離開回家了。
+#a 242.49, None, 243.71
+
+132.
+... ya  ta-tulu-ay    sa=tu,_
+that   CA-three-AY   SA=PFV
+那個  CA重疊-三-AY   SA=完成
+
+#a 243.71, None, 245.62
+
+133.
+...(1.3) tayra=tu   i==,\
+AF.go=PFV  LOC
+主焦=完成  處格
+
+#a 245.62, None, 248.2
+
+134.
+.. ka-tayra-an   nira,_
+KA-go-LF   3SG.GEN
+KA-去-處焦  3SG.屬格
+
+#e The three went towards their destination.
+#c 那三個人呢，要去他們的目的地。
+#a 248.2, None, 249.32
+
+135.
+... mi-tafsiw,\
+AF-pass
+主焦-經過
+
+#a 249.32, None, 250.37
+
+136.
+.. turira==  lalan,\
+that.OBL  road
+那個.斜格  路
+
+#a 250.37, None, 251.94
+
+137.
+.. tuya    pi-pitpit-an   nuya    tamdaw,\
+that.OBL  PI-pluck-LF  that.GEN  person
+那個.斜格  PI-摘-處焦  那個.屬格  人
+
+#a 251.94, None, 253.81
+
+138.
+.. tu==  nasi.\
+OBL  pear
+斜格  梨子
+
+#e They went past the road where the person was plucking pears.
+#c 經過那條路，那個人在摘梨子的那一條路。
+#a 253.81, None, 255.31
+
+139.
+...(2.3) ma-‘pud  kuya  mi-pitpit-ay   tu==,\
+AF-descend  that.NOM  AF-pluck-AY  OBL
+主焦-下來   那個.主格  主焦-摘-AY   斜格
+
+#a 255.31, None, 259.77
+
+140.
+.. nasi.\
+pear
+梨子
+
+#e The person who was plucking pears went down.
+#c 摘水果的人下來。
+#a 259.77, None, 260.4
+
+141.
+...(1.2) nengeng-han   nira,_
+see-HAN   3SG.GEN
+看-HAN   3SG.屬格
+
+#a 260.4, None, 262.56
+
+142.
+...(0.8) ccay=tu  kuya   ma-tumus-ay,\
+one=PFV  that.NOM  AF-full-AY
+一=完成  那個.主格  主焦-裝滿-AY
+
+#a 262.56, None, 264.81
+
+143.
+.. a==,\
+LNK
+連詞
+
+#a 264.81, None, 265.46
+
+144.
+.. langa,_
+basket
+籃子
+
+#a 265.46, None, 265.9
+
+145.
+.. tu  nasi.\
+OBL  pear
+斜格  梨子
+
+#a 265.9, None, 266.89
+
+146.
+.. awa=ho   ku  paru   niya  ccay,_
+EXIST.NEG=still  NOM  fill  that.GEN  one
+存在.否定=還   主格  裝  那個.屬格  一
+
+#e He saw only one basket was filled with pears, and one basket was not full.
+#c 他看，只有一個籃子裝滿梨子，一個籃子沒有裝。
+#a 266.89, None, 268.53
+
+147.
+... icuwa sa=tu   kuya      ccay,\
+where  SA=PFV  that.NOM  one
+哪裡   SA=完成  那個.主格  一
+
+#a 268.53, None, 270.17
+
+148.
+.. sa’an  cingra  a   mi-sa-ha<rate>rateng._
+said.so  3SG.NOM  LNK  AF-SA-<RED>think
+如此說  3SG.主格  連詞  主焦-SA-<重疊>想
+
+#e Where was one basket? He kept thinking.
+#c 一個籃子到哪去了呢？他不斷的想。
+#a 270.17, None, 272.13
+
+149.
+... ira   kiya   mi-tafsiw-ay,\
+EXIST  that.NOM  AF-pass-AY
+存在  那個.主格  主焦-經過-AY
+
+#a 272.13, None, 273.51
+
+150.
+.. tiya    ta-tulu-ay,_
+that.OBL  CA-three-AY
+那個.斜格  CA重疊-三-AY
+
+#a 273.51, None, 274.49
+
+151.
+... nengneng-han  nira,\
+see-HAN  3SG.GEN
+看-HAN  3SG.屬格
+
+#a 274.49, None, 275.59
+
+152.
+.. awa   ku   ma’an   nuya   ta-tulu-ay,\
+EXIST.NEG  NOM  what  that.GEN  CA-three-AY
+存在.否定  主格   什麼   那個.屬格 CA重疊-三-AY
+
+#e He found the three people who passed nothing (special).
+#c 路過的那三個人，他一看，沒有什麼（特別的）。
+#a 275.59, None, 277.36
+
+153.
+.. u  mali,\
+CN  ball
+CN 球
+
+#a 277.36, None, 277.86
+
+154.
+.. mi-tatuy-an  nangra,_
+PF-carry-PF   3PL.GEN
+受焦-提-受焦   3PL.屬格
+
+#a 277.86, None, 279.04
+
+155.
+.. tafsiw  sa’an  kiya   ta-tulu-ay._
+pass  said.so   that.NOM  CA-three-AY
+經過  如此說  那個.主格  CA重疊-三-AY
+
+#e They passed, carrying balls.
+#c 他們三個（只）拿著球經過。
+#a 279.04, None, 280.97
+
+156.
+...(1.5) sa  ‘inga<’inga>ing,\
+SA  <RED>shake.head
+SA  <重疊>搖頭
+
+#a 280.97, None, 283.52
+
+157.
+.. sa=tu   mi-sa-<ingi>ingir   kuya==,\
+SA=PFV  AF-SA-<RED>head.lopsided  that.NOM
+SA=完成  主焦-SA-<重疊>歪著頭    那個.主格
+
+#a 283.52, None, 285.51
+
+158.
+.. tamdaw,_
+person
+人
+
+#a 285.51, None, 286.27
+
+159.
+.. a   mi-nengneng   tuya,\
+LNK  AF-see    that.OBL
+連詞  主焦-看   那個.斜格
+
+#a 286.27, None, 287.45
+
+160.
+.. nika  awa    nu   ccay   a==,\
+DM  EXIST.NEG  GEN  one  LNK
+DM  存在.否定   屬格 一 連詞
+
+#a 287.45, None, 289.18
+
+161.
+.. langa  nuya==,\
+basket  that.GEN
+籃子    那個.屬格
+
+#a 289.18, None, 290.3
+
+162.
+... mi-pitpit-an  nira   a==,\
+PF-pluck-PF   3SG.GEN  LNK
+受焦-摘-受焦   3SG.屬格  連詞
+
+#a 290.3, None, 292.45
+
+163.
+.. nasi.\
+pear
+梨子
+
+#e That person shook his head. His head was lopsided, looking at the basket which not was filled with pears.
+#c 那個人搖頭，歪著頭，看著沒有裝梨子的籃子。
+#a 292.45, None, 293.09

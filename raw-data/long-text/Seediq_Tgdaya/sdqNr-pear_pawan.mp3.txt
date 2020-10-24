@@ -1,0 +1,633 @@
+topic: pear
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 錢成鏡, None, male, None
+collected: None
+revised: 2014-1-17
+video: sdqNr-pear_pawan.mp3
+
+1.
+.. q<m><n>ita=ku kingana==,\
+<AF><PFV> see=1SG.NOM one
+<主焦><完成>看=1SG.主格 一
+
+#a 0.45, None, 2.11
+
+2.
+.. (THROAT).\
+
+#a 2.11, None, 2.55
+
+3.
+.. seediq a==,\
+people FIL
+人 FIL
+
+#a 2.55, None, 3.76
+
+4.
+... gaga m-angan a==,\
+PROG AF-take FIL
+進行 主焦-拿 FIL
+
+#a 3.76, None, 5.65
+
+5.
+.. hei qhuni.\
+fruit tree
+果實 樹
+
+#e I have seen one person picking fruits.
+#c 我看過有一個人正在摘樹果。
+#a 5.65, None, 6.65
+
+6.
+...(1.7) ma==,_
+then
+然後
+
+#a 6.65, None, 9.3
+
+7.
+.. (THROAT).\
+
+#a 9.3, None, 9.8
+
+8.
+...(0.8) yah-an=na s<m>eli dheran han ma m-usa m-angal baro duri.\
+come-LF=3SG.GEN <AF>collect ground first then AF-go AF-take above also
+來-處焦=3SG.屬格 <主焦>收集 地面 先 然後 主焦-去 主焦-拿 上面 也
+
+#e He first came down and gathered the fruits on the ground and then went up to pick again.
+#c 他先下來將水果收集在地上，再上去摘。
+#n IU6 hei refers to fruit flesh./ hei指植物的果實無定名者，翻成水果
+#n IU7 ma = conjunction marker (VP and VP)/ 語氣上連接詞
+#n ma = ‘NP and/和NP’, e.g. yaku ma bubu-mu ‘Me and my mother 我和我母親’ 
+#n ma is also the short form of malux ‘why’/ malux ‘為何’ 之縮寫也是ma.
+#n yahan ‘go to and fro有上有下/來來去去’
+#n han is the short form of hayan/ han 為hayan縮寫 
+#n younger people use dungan ‘again’ instead of duri./ duri年輕人會用dungan，意思一樣，duri表示重複動作。
+#a 9.8, None, 13.78
+
+9.
+...(1.7) ma==,_
+then
+然後
+
+#a 13.78, None, 16.18
+
+10.
+... bsiyaq hari de==,_
+long little PART
+久 一點 語助詞
+
+#a 16.18, None, 18.09
+
+11.
+.. m-eyah kingan,\
+AF-come one
+主焦-來 一
+
+#a 18.09, None, 19.03
+
+12.
+.. (THROAT).\
+
+#a 19.03, None, 19.39
+
+13.
+... m-eyah kingan a==,\
+AF-come one FIL
+主焦-來 一 FIL
+
+#a 19.39, None, 21.42
+
+14.
+.. laqi taapa <L2JjidenshaL2J>.\
+child AF.ride bicycle
+小孩 主焦.騎 腳踏車
+
+#e Soon there came a child riding a bicycle.
+#c 不久來了一個騎腳踏車的小孩。
+#n taapa is alternatable with tapa ‘ride horse, bike, cow etc.’ /taapa有時會成tapa，指騎馬、單車、牛...。
+#a 21.42, None, 23.36
+
+15.
+... m-eyah a==,_
+AF-come FIL
+主焦-來 FIL
+
+#a 23.36, None, 24.81
+
+15.
+... m-eyah a==,_
+AF-come FIL
+主焦-來 FIL
+
+#a 23.36, None, 24.81
+
+17.
+...(1.7) m-eyah a==,_
+AF-come FIL
+主焦-來 FIL
+
+#a 25.2, None, 28.04
+
+18.
+.. m-angan a==,_
+AF-take FIL
+主焦-拿 FIL
+
+#a 28.04, None, 29.23
+
+19.
+.. hei qhuni kiya.\
+fruit tree that
+果實 樹 那個
+
+#e He came to take away those tree fruits.
+#c 他來拿那些樹果。
+#a 29.23, None, 30.44
+
+20.
+... m-eyah==,\
+AF-come
+主焦-來
+
+#a 30.44, None, 31.35
+
+21.
+... m-eyah m-angal hei qhuni <n>angal rudan kiya.\
+AF-come AF-take fruit tree <PF.PFV>.pick elder that
+主焦-來 主焦-拿 果實 樹 <受焦.完成>摘 長者 那個
+
+#e (He) came to take the tree fruits the old man picked.
+#c (他)來拿那個老人摘下來的樹果。
+#a 31.35, None, 34.69
+
+22.
+...(0.9) ma==,_
+then
+然後
+
+#a 34.69, None, 36.36
+
+23.
+.. (THROAT).\
+
+#a 36.36, None, 36.75
+
+24.
+...(1.4) ma wada=na psa-un a==,_
+then PST=3SG.GEN put-PF
+然後 過去=3SG.屬格 放置-受焦
+
+#a 36.75, None, 40.09
+
+25.
+.. <L2JjidenshaL2J>,\
+bicycle
+腳踏車
+
+#a 40.09, None, 41.03
+
+26.
+.. han ma kika bobo=na,\
+first then thus afterwards=3SG.GEN
+先 然後 所以 之後=3SG.屬格
+
+#a 41.03, None, 42.6
+
+27.
+... wada di.\
+AF.leave ASP
+主焦.離去 動貌
+
+#e And he put (them) on the bicycle and then left.
+#c 他把(它們)放在腳踏車之後就離開了。
+#a 42.6, None, 43.68
+
+28.
+.. wa,_
+FS
+FS
+
+#a 43.68, None, 44.31
+
+29.
+.. um,\
+FIL
+FIL
+
+#a 44.31, None, 44.74
+
+30.
+.. wada di ma==,_
+AF.leave ASP PART
+主焦.離去 動貌 語助詞
+
+#a 44.74, None, 45.73
+
+31.
+.. kika==,_
+thus
+所以
+
+#a 45.73, None, 46.21
+
+32.
+... wada m-oda ptebuk a==,\
+PST AF-pass AF.bump FIL
+過去 主焦-經過 主焦.碰 FIL
+
+#a 46.21, None, 48.69
+
+33.
+... an,\
+FIL
+FIL
+
+#a 48.69, None, 49.95
+
+34.
+.. btunux ka==,_
+stone NOM
+石頭 主格
+
+#a 49.95, None, 51.28
+
+35.
+.. <L2JjidenshaL2J>=na kiya ma==._
+bicycle=3SG.GEN that then
+腳踏車-3SG.屬格 那個 然後
+
+#e And he left and so his bicycle hit a stone on the way.
+#c 然後他離開了，所以在路上腳踏車碰到石頭。
+#a 51.28, None, 53.06
+
+36.
+... kiya ka==,\
+that NOM
+那個 主格
+
+#a 53.06, None, 54.14
+
+37.
+.. wada takur di.\
+PST AF.fall ASP
+過去 主焦.跌倒 動貌
+
+#a 54.14, None, 55.42
+
+38.
+... ma wada cuwaq a==,_
+then PST AF.pour FIL
+然後 過去 主焦.倒 FIL
+
+#a 55.42, None, 57.83
+
+39.
+... a==,_
+FIL
+FIL
+
+#a 57.83, None, 58.84
+
+40.
+.. hei qhuni p<n>usa=na ra-rawa nii.\
+fruit tree <PF.PFV>put=3SG.GEN RED-basket this
+果實 樹 <受焦.完成>放=3SG.屬格 重疊-籃子 這個
+
+#e So (he) fell and the tree fruits put in the basket poured out.
+#c 所以(他)就跌倒了，然後裝在籃子裡的水果就倒出來。
+#n pnusa is derived from posa/pusa. Pusa is the form probably influenced by Toda dialect’s pronunciation. / pnusa來自posa/pusa. pusa可能為受Toda影響的發音。
+#n wada...di are often used together to indicate a past event. / wada...di常在一起用表過去或已完成.
+#a 58.84, None, 61.13
+
+41.
+...(1.1) ma==,_
+then
+然後
+
+#a 61.13, None, 62.86
+
+42.
+... m-eyah a== (THROAT),\
+AF-come FIL
+主焦-來 FIL
+
+#a 62.86, None, 64.76
+
+43.
+... m-eyah ka==,_
+AF-come NOM
+來 主格
+
+#a 64.76, None, 66.41
+
+44.
+.. teru a== (THROAT),\
+three FIL
+三 FIL
+
+#a 66.41, None, 68.05
+
+45.
+... seediq,\
+person
+人
+
+#a 68.05, None, 69.26
+
+46.
+... m-eyah ma yah-an=daha t<m>utuy di,\
+AF-come then come-LF=3SG.GEN <AF >lift ASP
+主焦-來 然後 來-處焦=3SG.屬格 <主焦>扶 動貌
+
+#e Then three people came and helped him up.
+#c 然後來了三個人他們扶(他)起來。
+#n the original meaning of tmutuy is to raise fallen things. It also means to ask lying people to stand up./ tmutuy原意指把倒的東西立起來，或也可指把躺下的人叫醒。
+#a 69.26, None, 72.47
+
+47.
+...(1.1) ma==,_
+then
+然後
+
+#a 72.47, None, 74.12
+
+48.
+...(2.0) ma==,_
+then
+然後
+
+#a 74.12, None, 76.99
+
+49.
+.. kika==,_
+thus
+所以
+
+#a 76.99, None, 77.9
+
+50.
+... psa-un=daha== (THROAT),\
+put-PF=3PL.GEN
+放-受焦=3PL.GEN
+
+#a 77.9, None, 79.99
+
+51.
+... p--,_
+FS
+FS
+
+#a 79.99, None, 80.95
+
+51.
+... p--,_
+FS
+FS
+
+#a 79.99, None, 80.95
+
+53.
+.. law-- a psa-un 
+FS FIL put-PF
+FS FIL放-PF
+
+#a 82.47, None, 83.62
+
+54.
+l<m>uun=daha ka==,_
+<AF>pick=3PL.GEN NOM
+<主焦>撿=3PL.屬格 主格
+
+#a 83.62, None, 85.13
+
+55.
+.. hei qhuni kiya ma psa-un=daha rawa dungan ma kika.\
+fruit tree that CONJ put-PF=3PL.GEN basket again PART thus
+果實 樹 那個 連接詞 放-受焦=3PL.屬格 籃子 又 語助詞 所以
+
+#e They picked up the tree fruits and also put (them) into the basket.
+#c 他們把樹果撿起來後，還(把它們)放到籃子裡。
+#a 85.13, None, 88.49
+
+56.
+... a== psa-un=daha==,_
+FIL put-PF=3SG.GEN
+FIL 放-受焦=3PL.屬格
+
+#a 88.49, None, 90.7
+
+57.
+... <L2JjidenshaL2J> di ma,\
+bicycle ASP PART
+腳踏車 動貌 語助詞
+
+#e They put (the fruits) on the bicycle.
+#c 他們(把水果)放到腳踏車上。
+#a 90.7, None, 92.07
+
+58.
+... seediq t<n>aapa <L2JjitensyaL2J> kiya duwe,_
+people AF<PFV>ride bicycle that PART
+人 主焦<完成>騎 腳踏車 那個 語助詞
+
+#a 92.07, None, 94.84
+
+59.
+.. ini a== (THROAT),\
+NEG FIL
+否定詞 FIL
+
+#a 94.84, None, 96.24
+
+60.
+... kiya,\
+that
+那個
+
+#a 96.24, None, 97.27
+
+61.
+.. ini taapa <L2JjidenshaL2J>,\
+NEG AF.ride.IMP bicycle
+否定 主焦.騎.祈使 腳踏車
+
+#a 97.27, None, 98.64
+
+62.
+.. di wada m-kkesa,_
+ASP PST AF.walk
+動貌 過去 主焦.走路
+
+#a 98.64, None, 99.87
+
+63.
+.. cmik-un di.\
+push-PF ASP
+推-受焦 動貌
+
+#e The person who had ridden the bike didn’t ride a bike, but walked and pushed the bike.
+#c 本來騎車的那個人不騎車了，而是走路推車。
+#a 99.87, None, 100.84
+
+64.
+...(1.3) ma==,_
+then
+然後
+
+#a 100.84, None, 102.68
+
+65.
+...(1.2) ma==,_
+then
+然後
+
+#a 102.68, None, 104.51
+
+66.
+.. bobo=na,\
+afterwards=3SG.GEN
+之後=3SG.屬格
+
+#a 104.51, None, 105.45
+
+67.
+.. daha uh,_
+two FIL
+二 FIL
+
+#a 105.45, None, 106.43
+
+68.
+.. teru seediq,_
+three people
+三 人
+
+#a 106.43, None, 107.32
+
+69.
+... teru seediq ka==,_
+three people NOM
+三 人 主格
+
+#a 107.32, None, 109.0
+
+70.
+.. m-eyah a==,_
+AF-come FIL
+主焦-來 FIL
+
+#a 109.0, None, 109.82
+
+71.
+... m-oda siyo a==,_
+AF-pass side FIL
+主焦-經過 旁邊 FIL
+
+#a 109.82, None, 111.27
+
+72.
+.. pusu qhuni hiya.\
+lower.trunk tree there
+樹幹底部 樹 那裡
+
+#e Afterwards, three people came and passed by that tree.
+#c 之後，來了三個人，經過那顆樹旁邊。
+#a 111.27, None, 112.51
+
+73.
+...(1.2) ma== (THRAOT),_
+then
+然後
+
+#a 112.51, None, 114.83
+
+74.
+...(1.0) kiya ka munu--,_
+that NOM FS
+那個 主格 FS
+
+#a 114.83, None, 116.36
+
+75.
+rudan m<n>usa baro duwe,\
+elder AF<PFV>go above PART
+老人 主焦<完成>去 上面 語助詞
+
+#a 116.36, None, 118.59
+
+76.
+... e==,_
+FIL
+FIL
+
+#a 118.59, None, 119.79
+
+77.
+... qta-an=na,\
+look-LF=3SG.GEN
+看著-處焦=3SG.屬格
+
+#a 119.79, None, 120.83
+
+78.
+.. bale ka nang-an=na nii,\
+real PART take-LF=3SG.GEN this
+真的 語助詞 拿-處焦=3SG.屬格 這個
+
+#e Then the old man who went up, he looked at what he picked carefully.
+#c 然後那個上去的老人，他仔細看著他採的東西。
+#a 120.83, None, 121.95
+
+79.
+.. ye maanu gaga=na ye l<n>ung-un ye u,\
+Q what PROG=3SG.GEN Q <PFV>think-PF Q FIL
+疑問 什麼 進行=3SG.屬格 疑問 <完成>想-受焦 疑問 FIL
+
+#a 121.95, None, 124.16
+
+80.
+.. ye wada gedang ye so.\
+that PST AF.lose Q like
+那個 過去 主焦.遺失 疑問 像
+
+#e He was thinking, “Is anything lost?”
+#c 他在想：「是不是有東西掉了？」
+#a 124.16, None, 125.69
+
+81.
+... a==,_
+FIL
+FIL
+
+#a 125.69, None, 126.51
+
+82.
+.. ye so kenu ka nda-an=na._
+Q like how NOM PFV-pass-LF=3SG.GEN
+疑問 像 如何 主格 完成-經過-處焦=3SG.屬格
+
+#e What happened exactly?
+#c 究竟是發生什麼事？
+#n so kenu 如何。
+#a 126.51, None, 128.87
+
+83.
+.. a==,\
+FIL
+FIL
+
+#a 128.87, None, 129.77
+
+84.
+.. ini=mu kla-i kiya di.\
+NEG=1SG.GEN know-PF.IMP that ASP
+否定=1SG.屬格 知道-受焦.祈使 那個 動貌
+
+#e That, I don’t know.
+#c 那個我就不知道了。
+#a 129.77, None, 130.98

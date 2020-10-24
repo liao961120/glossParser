@@ -1,0 +1,2335 @@
+topic: The man from China_Pani
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 孔岳中, Pani Kanpanena, male, 1951
+collected: 00:10:43
+revised: None
+video: kkvNr_the man from china_Pani.mp3
+
+1.
+... te=ku…,_
+IRR=1SG.NOM
+非實現=1SG.主格
+
+#a 3.18, None, 3.97
+
+2.
+.. t<um>a-tuturu,_
+<AF>Ca-tell
+<主焦>Ca重疊-告訴
+
+#a 3.97, None, 5.16
+
+3.
+.. po-isua,_
+say-that.AF
+說-那
+
+#n po-isua即為「講關於（某某主題）」的意思。
+#n po-kari-kari 說話(kari話語)、講話。
+#n po-kari 呼叫。
+#a 5.16, None, 5.92
+#n po-isua即為「講關於（某某主題）」的意思。
+#n po-kari-kari 說話(kari話語)、講話。
+#n po-kari 呼叫。
+
+4.
+.. tacin,\
+one
+一位
+
+#n tacin 一定是用來計算人。
+#a 5.92, None, 6.65
+#n tacin 一定是用來計算人。
+
+5.
+...(1.0) ni-aranai,\
+PFV-from.AF
+完成-從.主焦
+
+#n arainai 有「開始」、「從」的意思。
+#n ai經常音變為ee，因此也會念成aranee。
+#a 6.65, None, 8.58
+#n arainai 有「開始」、「從」的意思。
+#n ai經常音變為ee，因此也會念成aranee。
+
+6.
+...(1.0) tauruu,\
+Tauruu
+大陸
+
+#n tauru 指外省人(大陸人)。
+#a 8.58, None, 10.28
+#n tauru 指外省人(大陸人)。
+
+7.
+...(1.2) <L2JkocisinseL2J>.\
+principal
+校長
+
+#e I’m going to talk about a principal that comes from China.
+#c 我要說關於一位來自大陸的校長。
+#n kocisinse為日語，指校長。
+#a 10.28, None, 12.09
+
+8.
+...(3.1) manasʉ,_
+perhaps
+或許
+
+#a 12.09, None, 15.94
+
+9.
+.. na,_…
+LOC
+處格
+
+#a 15.94, None, 16.66
+
+10.
+.. <L2MminkuoL2M>,_
+Minkuo
+民國
+
+#a 16.66, None, 17.9
+
+11.
+...(0.9) masʉpatʉn,_
+forty
+四十
+
+#a 17.9, None, 20.04
+
+12.
+.. u-rima,\
+NHUM-five
+非人-五
+
+#a 20.04, None, 20.75
+
+13.
+...(0.8) nukai,_
+or
+或者
+
+#a 20.75, None, 22.36
+
+14.
+... u-nʉm.\
+NHUM-six
+非人-六
+
+#e It was in about Minkuo 45th or 46th year.
+#c 大約在民國四十五年或者四十六年。
+#n unʉm 是從unʉmʉ 簡化字尾母音後，拉長字中母音而得。
+#a 22.36, None, 23.51
+
+15.
+...(2.8) mesua,_
+then
+那時
+
+#a 23.51, None, 27.2
+
+16.
+.. tanasʉn=mia,_
+village=1PL.GEN.EXCL
+聚落=1PL.屬格.排除式
+
+#a 27.2, None, 28.7
+
+17.
+.. namasia,\
+Namasia
+那瑪夏
+
+#a 28.7, None, 29.94
+
+18.
+...(2.4) mesua ia,_
+then TOP
+那時 主題
+
+#a 29.94, None, 33.16
+
+19.
+.. <L2MsanminsiangL2M> kisʉ-ʉn.\
+Sanminsiang call-PF
+三民鄉 叫-受焦
+
+#e At that time, our tribe Namaasia was called Sanminsiang.
+#c 當時我們的部落納瑪夏被稱為三民鄉。
+#n kisʉ-ʉn有「說成」、「所謂」的意思。
+#a 33.16, None, 34.55
+
+20.
+...(2.9) ’akia pa-kangvang,\
+NEG still-all
+否定 仍然-全部
+
+#n 此處，pa-有「仍然」的意思，其他的否定詞包含:’akia 沒有,ka’aan 不是,’akuni 不要,aaka 不好,koo 未曾
+#a 34.55, None, 38.88
+#n 此處，pa-有「仍然」的意思，其他的否定詞包含:’akia 沒有,ka’aan 不是,’akuni 不要,aaka 不好,koo 未曾
+
+21.
+...(1.8) tanasa m-ocaca,\
+house AF-walk
+房子 主焦-走路
+
+#n tanasa mocaca指車子。
+#a 38.88, None, 41.97
+#n tanasa mocaca指車子。
+
+22.
+...(3.1) cau mesua na._
+person then LOC
+人 那時 處格
+
+#a 41.97, None, 46.47
+
+23
+.. noten,_
+if.to
+若要
+
+#n noten由noo-tia簡化而來。
+#a 46.47, None, 47.66
+#n noten由noo-tia簡化而來。
+
+24.
+.. m-ocaca,_
+AF-walk
+主焦-走路
+
+#a 47.66, None, 48.77
+
+25.
+.. m-okusa,_
+AF-go
+主焦-去
+
+#a 48.77, None, 49.6
+
+26.
+.. maraa,_
+relatively
+比較
+
+#a 49.6, None, 50.36
+
+27.
+.. aracen makai,_
+far.AF be.like.AF
+遠.主焦 好像.主焦
+
+#a 50.36, None, 51.81
+
+28.
+.. kasanpo,_
+Kasanpo
+甲仙埔
+
+#a 51.81, None, 52.67
+
+29.
+... aupoo,\
+Aupoo
+大埔
+
+#n 大埔在嘉義，緊鄰納瑪夏。
+#a 52.67, None, 53.94
+#n 大埔在嘉義，緊鄰納瑪夏。
+
+30.
+...(1.7) ’uru-,_
+use-
+使用-
+
+#n ’uru-表使用(’urupacan)
+#a 53.94, None, 55.87
+#n ’uru-表使用(’urupacan)
+
+31.
+.. kʉkʉ,_
+leg
+腿
+
+#n ’uru-kʉkʉ意思指(使用腿)徒步。
+#a 55.87, None, 56.47
+#n ’uru-kʉkʉ意思指(使用腿)徒步。
+
+32.
+.. kangvang m-okusa ’inia.\
+all AF-go there
+都 主焦-去 那裏
+
+#e There wasn’t any car. If people wanted to walk to the place that was far away such as Kasanpo and Aupoo, they would go there on foot.
+#c 都還沒有車子，當時的人如果要走去遠的地方，比如甲仙埔、大埔，都要徒步去那裏。
+#a 56.47, None, 57.89
+
+33.
+...(2.0) ’akia tenki,\
+NEG.EXIST electricity
+否定.存在 電器
+
+#n tenki為日語借字，電器，在此指電燈。
+#a 57.89, None, 60.67
+#n tenki為日語借字，電器，在此指電燈。
+
+34.
+...(2.3) kangvang sia-rupaca,_
+all IF-use
+全部 工焦-使用
+
+#n 原形為’urupaca 使用。
+#a 60.67, None, 64.49
+#n 原形為’urupaca 使用。
+
+35.
+...(1.4) sinʉng,_
+light
+光
+
+#n 老師認為此字發音應是sinang，此為語誤。
+#n sinʉng(語誤) 從sinangʉn 簡化而來。
+#n mari-sinan 照射、發光。
+#a 64.49, None, 66.78
+#n 老師認為此字發音應是sinang，此為語誤。
+#n sinʉng(語誤) 從sinangʉn 簡化而來。
+#n mari-sinan 照射、發光。
+
+36.
+...(1.5) po’ocipi,\
+cook.AF
+烹煮
+
+#a 66.78, None, 69.12
+
+37.
+...(2.1) ’urupaca,_
+use.AF
+使用
+
+#a 69.12, None, 71.79
+
+38.
+.. kangvang,_
+all
+全部
+
+#a 71.79, None, 72.61
+
+39.
+...(1.5) karu,_
+timber
+木材
+
+#n karu通稱樹木、材火，木製品或與木頭有關的產品。
+#a 72.61, None, 74.43
+#n karu通稱樹木、材火，木製品或與木頭有關的產品。
+
+40.
+...(0.9) to’omang.\
+bamboo
+竹子
+
+#e there wasn’t electricity. All the light used and cooking needed to use timber and bamboo.
+#c 沒有電器，所有使用的光、烹煮都要使用木材或者是竹子。
+#n to’omang此為竹類的總稱。
+#a 74.43, None, 75.89
+
+41.
+...(3.3) ’akia kangvang,\
+NEG.EXIST all
+否定.存在 全部
+
+#a 75.89, None, 80.07
+
+42.
+.. ’akia cucumeen kangvang si==sia-rupacaa.\
+NEG.EXIST other all IF-use
+否定.存在 其他的 全部 工焦-使用
+
+#e There wasn’t any other (tool) that could be used.
+#c 沒有任何其他的可以使用。
+#n cucumeen (其他的、另外的)由cucumeni簡化字尾子音並拉長字中母音而得。
+#n 此處sia-rupacaa 第一音節語音拉長。
+#a 80.07, None, 82.67
+
+43.
+...(2.4) me-sia,_
+PST-that
+過去-那
+
+#n miana以前。
+#n mia’enan 以往，但現在說法為me’enan。
+#n mamisa 最近。
+#a 82.67, None, 85.88
+#n miana以前。
+#n mia’enan 以往，但現在說法為me’enan。
+#n mamisa 最近。
+
+44.
+...(0.8) cau na,_
+person LOC
+人 處所
+
+#n cau可指人、人類、別人。
+#a 85.88, None, 87.54
+#n cau可指人、人類、別人。
+
+45.
+...(2.0) Namasia,\
+Namasia
+那瑪夏
+
+#a 87.54, None, 90.25
+
+46.
+.. Kanakanavu ia,_
+Kanakanavu TOP
+卡那卡那富人 主題
+
+#a 90.25, None, 91.08
+
+47.
+...(1.4) ma-tʉ-tʉa kangvang,_
+RED-be.the.same.AF all
+重疊-一樣.主焦 全部
+
+#n matʉa 相同，matʉtʉa拉長中間音節表強調。
+#n matʉtʉtʉa 也表強調。
+#a 91.08, None, 94.13
+#n matʉa 相同，matʉtʉa拉長中間音節表強調。
+#n matʉtʉtʉa 也表強調。
+
+48.
+...(1.6) maraa,_
+relatively
+比較
+
+#n mara 拿取。
+#a 94.13, None, 96.49
+#n mara 拿取。
+
+49.
+...(0.5) muru’inasʉ.\
+poverished.and.industrious.AF
+艱困.主焦
+
+#e The Kanakanavu living in Namasia at that time were the same more industrious.
+#c 當時住在那瑪夏的Kanakanavu族人，都一樣比較艱困。
+#a 96.49, None, 98.01
+
+50.
+...(1.9) imo,_
+so
+所以
+
+#n mimo喝.主焦。
+#n imoo 喝.祈使受焦。
+#a 98.01, None, 100.66
+#n mimo喝.主焦。
+#n imoo 喝.祈使受焦。
+
+51.
+...(1.1) maraa ka’an,_
+relatively NEG
+比較 否定
+
+#a 100.66, None, 102.42
+
+52.
+.. =kim,\
+=1PLNOM.EXC
+=1PL.主格.排除式
+
+#a 102.42, None, 103.03
+
+53.
+.. c<um>a-cʉ’ʉra,_
+<AF>Ca-see
+<主焦>Ca重疊-看
+
+#a 103.03, None, 104.04
+
+54.
+.. cau cucumen.\
+person other
+人 其他的
+
+#e So, we relatively couldn’t see other people (from other tribes).
+#c 所以我們比較看不到其他的人。
+#n 這裡的其他人是指別族的人。
+#a 104.04, None, 105.2
+
+55.
+(2.4) matʉa,_
+be.the.same.AF
+相同.主焦
+
+56.
+...(0.8) sii,_
+because
+因為
+
+#a 108.41, None, 110.02
+
+57.
+.. aracen,\
+far.AF
+遠.主焦
+
+#n tara-ceni 眺望，tara-有「大」的意思。
+#n ni-alaceni曾經從遠方。
+#a 110.02, None, 110.91
+#n tara-ceni 眺望，tara-有「大」的意思。
+#n ni-alaceni曾經從遠方。
+
+58.
+...(2.4) cucumen,_
+other
+其他的
+
+#a 110.91, None, 114.14
+
+59.
+.. ka’an kangvang=kim,_
+NEG all=1PL.NOM.EXCL
+否定 全部=1PL.主格.排除
+
+#a 114.14, None, 115.79
+
+60. 
+... m-o-kusa na,_
+AF-go-toward LOC
+主焦-去 處格
+
+#a 115.79, None, 117.32
+
+61.
+...(1.2) aracen,_
+far.AF
+遠.主焦
+
+#a 117.32, None, 119.38
+
+62.
+...(1.6) manamanarʉ.\
+level.ground
+平地
+
+#e Similarly, we wouldn’t go to the farther level ground either because it was far away.
+#c 同樣地，因為很遠，我們也不去比較遠的平地。
+#n manamanarʉ 指平地，跟原住民的居住地區分開來，但ningning特別指平原。
+#a 119.38, None, 121.72
+
+63.	
+...(5.0) surumo,_
+suddenly
+突然
+
+#a 121.72, None, 127.76
+
+64.
+...(2.5) ’una can taniara,\
+EXT one day
+存在 一 天
+
+#n cani 一，通常在正式書面上會完整寫出來。
+#n taniarʉ 太陽。
+#n makanaru taniara soni 今天天氣如何?/今天如何?
+#a 127.76, None, 131.48
+#n cani 一，通常在正式書面上會完整寫出來。
+#n taniarʉ 太陽。
+#n makanaru taniara soni 今天天氣如何?/今天如何?
+
+65.
+...(1.7) ni-vatu,_
+PFV-come
+完成-來
+
+#n ivata 來。
+#n ivatan 來來看。
+#n te=ku iovutu nura我明天會來。
+#a 131.48, None, 134.26
+#n ivata 來。
+#n ivatan 來來看。
+#n te=ku iovutu nura我明天會來。
+
+66.
+.. tacin,\
+one
+一位
+
+#a 134.26, None, 135.12
+
+67.
+...(0.7) nanmarua.\
+youngster
+年輕人
+
+#n nanmarua通常指15~20出頭的青少男女。
+#n manu 小朋友(12歲前) 。
+#a 135.12, None, 136.48
+#n nanmarua通常指15~20出頭的青少男女。
+#n manu 小朋友(12歲前) 。
+
+68.
+...(1.9) ka’an tavarʉ’ʉ masii Kanakanavu.\
+NEG be.able.to speak.AF Kanakanavu
+否定 能夠 說 卡那卡那富語
+
+#e One day, there suddenly came a young man who couldn’t speak Kanakanavu.
+#c 突然有一天，來了一位年輕人，不會說Kankanavu族語。
+#n tavarʉ’ʉ 可以解釋成「會、懂、可以、能」。
+#n tavarʉ’ʉ有些人會說成tavʉrʉ’ʉ。
+#n masii sumukun說布農話。
+#n makari tacau跟狗說話。
+#a 136.48, None, 139.82
+
+69.
+...(2.6) me-sua,\
+PST-that 
+過去-那
+
+#a 139.82, None, 143.22
+
+70.
+...(1.3) ma-marang=mia ia,_
+RED-old.person=1PL.GEN.EXCL TOP
+重疊-老人=1PL.屬格.排除 主題
+
+#n marangʉ老人，後簡化成marang。
+#n mamarurang有資格參加長老會議的長者(通常50歲以上) 。
+#a 143.22, None, 145.75
+#n marangʉ老人，後簡化成marang。
+#n mamarurang有資格參加長老會議的長者(通常50歲以上) 。
+
+71.
+... maraa ka’an pa,_
+relatively NEG still
+比較 否定 還
+
+#a 145.75, None, 147.54
+
+72.
+... tavarʉ’ʉ,_
+be.able.to
+能夠
+
+#a 147.54, None, 148.69
+
+73.
+...(0.8) masii,_
+speak.AF
+說.主焦
+
+#a 148.69, None, 150.32
+
+74.
+.. nakasaiana.\
+Nakasaiana
+中文
+
+#e At that time, our seniors were still not able to speak Mandarin.
+#c 當時我們的長輩們還不說國語。
+#a 150.32, None, 151.29
+
+75.
+...(2.7) kacaua pa cau mesua,_
+many.HUM FS person then
+多.人 FS 人 當時
+
+#n ’itumuru (物質/動物，不含人)多。
+#n miiriki’ 水(液體)滿/多。
+#n kuratumuru  (容器)多、滿。
+#n macakuarʉ (人可吃的東西)多。
+#a 151.29, None, 155.34
+#n ’itumuru (物質/動物，不含人)多。
+#n miiriki’ 水(液體)滿/多。
+#n kuratumuru  (容器)多、滿。
+#n macakuarʉ (人可吃的東西)多。
+
+76.
+.. masii ripun.\
+speak.AF Japanese
+說.主焦 日文
+
+#e There were still many people speaking Japanese at that time.
+#c 當時還有很多人說日語。
+#a 155.34, None, 156.18
+
+77.
+...(2.4) c<um>a-cʉ’ʉra,_
+<AF>Ca-see
+<主焦>Ca重疊-看
+
+#n cʉ’ʉroo 看(祈使受焦)。
+#n cʉ’ʉrʉ-ʉn 看.受焦。
+#a 156.18, None, 159.61
+#n cʉ’ʉroo 看(祈使受焦)。
+#n cʉ’ʉrʉ-ʉn 看.受焦。
+
+78.
+.. namarua isua iovutu.\
+youngster that come
+年輕人 那些 來
+
+#e (People) saw the young man come.
+#c 看到那位年輕人來。
+#n isi 這。
+#n isua那/些(很明確的地點)。
+#n ’isa 那/些(比較不明確的地點)。
+#n nesi 這裡。
+#n nesa 那裏。
+#n sana 那裏(當下未必看得到) 。
+#n nesua 那裏(說話者其中一人看得到)。
+#a 159.61, None, 161.41
+
+79.
+...(2.6) p-asin ma-marang=mia,\
+CAU-say RED-old.person=1PL.GEN.EXCL
+使役-說 重疊-老人=1PL.屬格.排除
+
+#n te=ku makari kasua 我要跟你說話。
+#n te=ku po-kari-kari 我要說話。
+#a 161.41, None, 165.61
+#n te=ku makari kasua 我要跟你說話。
+#n te=ku po-kari-kari 我要說話。
+
+80.
+...(2.1) ni-aranai=kasu=nan iovutu kisʉ-ʉn.\
+PFV-from.AF=2SG.NOM=where come call-PF
+過去-從.主焦=哪裡=2SG.主格 來 叫-受焦
+
+#e Our seniors said to him, “Where do you come from?”
+#c 我們的長輩們對他說:「你是從哪裡來的?」
+#n nan/nanu哪裡。
+#n kisʉ-ʉn原形為kisa「所謂/稱為」。
+#a 165.61, None, 169.69
+
+81.
+...(1.2) marivari,_
+reply.AF
+回答.主焦
+
+#a 169.69, None, 171.65
+
+82.
+...(1.2) nguain,\
+3SG.NOM
+3SG.主格
+
+#n 'inia 可以指「他那裏」。
+#a 171.65, None, 173.12
+#n 'inia 可以指「他那裏」。
+
+83.
+...(1.5) makasi,_
+say.like.this
+如此說
+
+#n makasia 如此這般。
+#n 孔老師認為makasi和masii很有可能是同一個詞根，但是要表達說語言時會用masii，但引述內容時，則會用makasi。
+#a 173.12, None, 175.13
+#n makasia 如此這般。
+#n 孔老師認為makasi和masii很有可能是同一個詞根，但是要表達說語言時會用masii，但引述內容時，則會用makasi。
+
+84.
+...(1.4) ni-aranai=ku,_
+PFV-from.AF=1SG.NOM
+從.主焦=1SG.主格
+
+#a 175.13, None, 177.65
+
+85.
+.. tauru.\
+Tauru
+中國人
+
+#e He replied, “I come from China.”
+#c 他回答說「我來自大陸。」
+#a 177.65, None, 178.4
+
+86.
+...(3.0) me-sua,_
+PST-that
+過去-那
+
+#a 178.4, None, 182.14
+
+87.
+.. cʉ’ʉr-ʉn kan ma-marang=mia ia,_
+see-PF QUOT RED-old.person=1PL.GEN.EXCL TOP
+看-受焦 QUOT 重疊-老人=1PL.屬格.排除 主題
+
+#n kan從kani簡化而來，kani使用於轉述別人說的話或是轉述無參與的經驗的事情。
+#a 182.14, None, 183.76
+#n kan從kani簡化而來，kani使用於轉述別人說的話或是轉述無參與的經驗的事情。
+
+88.
+...(1.6) nguain tamna cenana manasʉ,_
+3SG.NOM POSS age perhaps
+3SG.主格 所有 年齡 或許
+
+#n iku tamna tanasa 我的房子。
+#a 183.76, None, 187.52
+#n iku tamna tanasa 我的房子。
+
+89.
+... mapusan,_
+twenty
+二十
+
+#a 187.52, None, 189.46
+
+90.
+...(1.3) u-turu nukai,_
+NHUM-three or
+非人-三 或者
+
+#n turu 三，uturu用來指數量三。
+#n taturu 三(數人)。
+#a 189.46, None, 192.4
+#n turu 三，uturu用來指數量三。
+#n taturu 三(數人)。
+
+91.
+.. u-sʉpatʉ.\
+NHUM-four
+四
+
+#e It is said that the seniors saw that he was at about the age of 23 or 24 at that time.
+#c 據說當時長輩們看著他的年紀大約二十三或者二十四歲。
+#n urima五; usʉpatu四，用在數物。
+#a 192.4, None, 193.45
+
+92.
+...(2.5) ara-kicacʉ ma-marang=mia sii,_
+become-stunned RED-old.person=1PL.GEN.EXCL because
+變成-驚嚇 重疊-老人=1PL.屬格.排除 因為
+
+#n ara-變成，無法單獨成字，後面須接一情緒詞。
+#a 193.45, None, 197.86
+#n ara-變成，無法單獨成字，後面須接一情緒詞。
+
+93.
+.. tavarʉ’ʉ,_
+be.able.to
+能夠
+
+#a 197.86, None, 198.73
+
+94.
+... masii ripun,\
+speak.AF Japanese
+說.主焦 日語
+
+#a 198.73, None, 199.88
+
+95.
+...(3.5) ara-ku-kukun=cu kanakanavu.\
+become-RED-gather=COS Kanakanavu
+變成-重疊-一起=COS 卡那卡那富人
+
+#e Our seniors were too surprised because he was unexpectedly able to speak Japanese. And so (he) got along with the Kanakanavu people. 
+#c 我們長輩嚇了一跳，因為他竟然會說日語，就和Kanakanavu族人相處在一起了
+#n arakukun指人或動物聚在一起。
+#n ʉtʉmʉkʉnʉ (兩人以上在一起相處比較長的時間，可能長久居住下來) 。
+#n muru’ucangʉ結婚。
+#n ’ucangʉ 用來稱呼配偶。
+#n saronai=maku 我的先生。
+#n nanakʉ=maku 我的女人。
+#n rʉ’ʉvʉ=maku 我的伴侶/夥伴。
+#n tuma-tiuru 做-攪拌 「做攪拌的動作」。
+#a 199.88, None, 205.01
+
+96.
+...(2.9) t<um>a-tuturu=cu nguain,\
+<AF>Ca-tell=COS 3SG.NOM
+<主焦>Ca重疊-告訴=COS 3SG.主格
+
+#n 年長的族人會cu、ci混用。
+#a 205.01, None, 208.99
+#n 年長的族人會cu、ci混用。
+
+97.
+...(2.1) makasi,_
+say.AF
+說.主焦
+
+#a 208.99, None, 211.82
+
+98
+...(1.2) te=kan mon na <L2MminshengguoxiaoL2M>,_
+IRR=KAAN be.located.at.AF LOC Minshengguoxiao
+非實現=KAAN 位在.主焦 處格 民生國小
+
+#n mon 處在….地方。
+#n na 表示方向、時間。
+#n 'esi 表存在。
+#n 'esi=kara nesi pani Pani在這裡嗎?
+#a 211.82, None, 214.92
+#n mon 處在….地方。
+#n na 表示方向、時間。
+#n 'esi 表存在。
+#n 'esi=kara nesi pani Pani在這裡嗎?
+
+99.
+... to-isua,_
+become-this
+成為-這個
+
+#n 對孔老師來說，to-有表示「跟你一樣、模仿」的意思
+#n toisua有成為、擔任的意思。
+#n taka-isua 假裝。
+#a 214.92, None, 216.53
+#n 對孔老師來說，to-有表示「跟你一樣、模仿」的意思
+#n toisua有成為、擔任的意思。
+#n taka-isua 假裝。
+
+100.
+...(2.1) <L2JkocisinseL2J>.\
+principal
+校長
+
+#e He said that he would stay at Minsheng Elementary School as the principal.
+#c 他就說要待在民生國小當校長。
+#a 216.53, None, 219.27
+
+101.
+...(1.0) sua <L2JkocisinseL2J> isi ia,_
+NOM principal this TOP
+主格 校長 這 主題
+
+#a 219.27, None, 221.56
+
+102.
+.. kari ma-marang=mia masii ripun,\
+word RED-old.person=1PL.GEN.EXCL say.AF Japanese
+話 重疊-老人=1PL.屬格.排除 說.主焦 日文
+
+#a 221.56, None, 223.64
+
+103.
+...(1.0) cucuru kari ʉngcoo nakasaiana ia <L2MxiaozhangL2M> kisʉ-ʉn.\
+truely word FIL Nakasaiana TOP principal call-PF
+真的 話 FIL 中文 主題 校長 稱作-受焦
+
+#e The word, “kocisinse,” is how our seniors said in Japanese. The correct way to say in Mandarin is “xiaozhang.”
+#c “Kocisinse”這句話是我們長輩用日語說的，中文真正的說法是「校長」。
+#n cucuru 有「真的、非常、太、的確」的意思。
+#a 223.64, None, 228.02
+
+104.
+...(4.9) me-sua,_
+PST-that
+過去-那
+
+#a 228.02, None, 233.25
+
+105.
+...(2.0) ^ta-ti’ing pa=kim,\
+Ca-little still=1PL.NOM.EXCL
+Ca重疊-小 還=1PL.主格.排除
+
+#n ta-ti’ing從 ta-ti’ingi變化而來。
+#a 233.25, None, 236.21
+#n ta-ti’ing從 ta-ti’ingi變化而來。
+
+106.
+...(2.0) ka’an=kim tavarʉ’ʉ,_
+NEG=1PL.NOM.EXCL know.AF
+否定=1PL.主格.排除 知道
+
+#a 236.21, None, 239.4
+
+107.
+...(0.8) ah nen tia== vu,_
+INTJ what IRR== FS
+感嘆 什麼 非實現 FS
+
+#n ah通常對一件事不屑時會發出的感嘆詞。
+#n nen 從neni變化而來。
+#a 239.4, None, 242.01
+#n ah通常對一件事不屑時會發出的感嘆詞。
+#n nen 從neni變化而來。
+
+108.
+.. vuren,_
+achievement
+成果
+
+#n 原本是vureni (vura指剝殼的米、果實的肉)，指的是植物的果實，但在此是指成果。
+#a 242.01, None, 242.8
+#n 原本是vureni (vura指剝殼的米、果實的肉)，指的是植物的果實，但在此是指成果。
+
+109.
+.. sua mari-sinatʉ misee,\
+NOM AF-take-paper say.AF
+主格 主焦-拿-紙張 說.主焦
+
+#n sinatʉ 有「文字、紙張、書本」的意思。
+#n mari- 做動作，無法單獨成字，後接一名詞，使其成為動作。
+#n misee 本意是「說」，但這裡是指「想」。
+#a 242.8, None, 244.69
+#n sinatʉ 有「文字、紙張、書本」的意思。
+#n mari- 做動作，無法單獨成字，後接一名詞，使其成為動作。
+#n misee 本意是「說」，但這裡是指「想」。
+
+110.
+.. sii cucuru,_
+because truely
+因為 的確
+
+#a 244.69, None, 245.75
+
+111.
+...(0.8) 'akia tavara-'a=mia.\
+NEG know-NMZ=1SG.GEN.EXCL
+否定 知道-名物化=1SG.屬格.排除
+
+#e At that time, we were still too young, not knowing what achievement we could have from studying because what we know was surely little.
+#c 當時我們的年紀還很小，不知道讀書會有什麼成果，因為的確我們懂的不多。
+#a 245.75, None, 247.84
+
+112.
+...(1.2) ka’an=kim tavarʉ’ʉ m-ari-sinatʉ,_
+NEG=1PL.NOM.EXCL be.able.to.AF AF-take-paper
+否定=1PL.主格.排除 能夠.主焦 主焦-拿-紙張
+
+#n mari-sinatʉ 書寫。
+#n sumasʉpʉrʉ 數數。
+#n sumasʉpʉrʉ sinatʉ 則指朗讀。
+#a 247.84, None, 251.1
+#n mari-sinatʉ 書寫。
+#n sumasʉpʉrʉ 數數。
+#n sumasʉpʉrʉ sinatʉ 則指朗讀。
+
+113.
+... nakasaiana,_
+Nakasaiana
+中文
+
+#a 251.1, None, 252.6
+
+114.
+.. ka’an=kim tavarʉ’ʉ po-kari-kari._
+NEG=1PL.NOM.EXCL be.able.to.AF say-RED-word.AF
+否定=1PL.主格.排除 能夠 說-重疊-話語
+
+#e We could not write and speak Mandarin.
+#c 我們不會寫跟說中文。
+#a 252.6, None, 254.76
+
+115.
+...(1.5) ^te=noman,_
+IRR=what
+非實現=什麼
+
+#n te=noman由tia nomani簡化而來。
+#n nomani 什麼，在此指「有什麼用處」，但可能也有「誰」的意思。
+#a 254.76, None, 257.07
+#n te=noman由tia nomani簡化而來。
+#n nomani 什麼，在此指「有什麼用處」，但可能也有「誰」的意思。
+
+116.
+... m-okusa na ta-ri-sinat-a,\
+AF-go.toward LOC TA-take-book-A
+主焦-去 處所 TA-拿-書-A學校
+
+#n sinatʉ 書本。
+#n ta----a 指場所。
+#a 257.07, None, 259.35
+#n sinatʉ 書本。
+#n ta----a 指場所。
+
+117.
+... mesua cʉpʉng=mia.\
+then heart=1PL.GEN.EXCL
+當時 心=1PL.屬格.排除
+
+#e At that time, we were thinking, “What is it for to go to school?”
+#c 當時我們在想「去學校有什麼用?」
+#a 259.35, None, 261.15
+
+118.
+...(2.9) nakai iovutu=cu==,_
+but come.AF=COS
+但是 來.主焦=COS
+
+#a 261.15, None, 265.53
+
+119.
+...(1.0) namaraa isua,\
+youngster that
+年輕人 那個
+
+#a 265.53, None, 267.33
+
+120.
+...(1.3) t<um>a-tuturu kimia,\
+<AF>Ca-tell 1PL.OBL.EXL
+<主焦>Ca重疊-告訴1PL.斜格.排除
+
+#a 267.33, None, 269.52
+
+121.
+...(2.1) sua nganai=ni kan ia,_
+NOM name=3PL.GENKAAN TOP
+主格 名字=3PL.屬格 KAAN 主題
+
+#a 269.52, None, 272.76
+
+122.
+...(1.3) <l2MzhangjieL2M> kisʉ-ʉn,\
+PN call-PF
+專有名詞 稱為-受焦
+
+#a 272.76, None, 275.7
+
+123.
+...(1.9) ni-arainai na tauru.\
+PFV-from.AF LOC Tauru
+完成-從.主焦 處所 大陸
+
+#e But after that young man came, he told us that his name was Jhangjie and that he came from China.
+#c 但是那位年輕人來了之後，告訴我們說他的名字叫張傑，來自大陸。
+#a 275.7, None, 278.89
+
+124.
+...(2.4) makasua=cu,\
+in.that.way=COS
+就那樣=COS
+
+#a 278.89, None, 281.56
+
+125.
+...(2.4) mon nguain na,_
+be.located.AF 3SG.NOM LOC
+處在.主焦3SG.主格 處所
+
+#a 281.56, None, 285.17
+
+126.
+.. ta-ri-sinat-a si’icʉpʉ,\
+TA-take-book-A sleep.AF
+TA-拿-書-A 睡覺.主焦
+
+#n ta-ri-sinita si’icʉpʉ指住在學校裡。
+#a 285.17, None, 286.55
+#n ta-ri-sinita si’icʉpʉ指住在學校裡。
+
+127.
+...(1.7) pai==ra mocʉmcʉm aramia’ʉ.\
+often hurry.AF wake.up.AF
+經常 趕早.主焦 起床.主焦
+
+#e afterwards, he lived in the school and woke up early every day.
+#c 之後，他住在學校，每天很早起床。
+#n mocʉmcʉm 指趕早的行動。
+#n paira 這裡是指每天。
+#a 286.55, None, 290.95
+
+128.
+...(0.9) ^takacicin nguain,\
+by.oneself 3SG.NOM
+自己3SG.主格
+
+#n takacicin 由詞根tacin (一位)而來。
+#n iisua takacicin 我自己來。
+#n takacicin=ku k<um>akʉn-ʉn 我獨自吃。
+#a 290.95, None, 293.19
+#n takacicin 由詞根tacin (一位)而來。
+#n iisua takacicin 我自己來。
+#n takacicin=ku k&lt;um&gt;akʉn-ʉn 我獨自吃。
+
+129.
+...(1.0) mari-siki,_
+take-clean.AF
+打掃.主焦
+
+#n 根據孔老師，詞根siki沒特別意思。
+#n sia-risiki 掃把 (也有族人說se-risiki)
+#a 293.19, None, 295.24
+#n 根據孔老師，詞根siki沒特別意思。
+#n sia-risiki 掃把 (也有族人說se-risiki)
+
+130.
+...(1.5) mo-’uru’uru ngʉcoo pangka._
+AF-RED-first. FIL table
+首先.主焦FIL桌子
+
+#e He cleaned up and wiped tables every day.
+#c 每天自己打掃、擦桌子。
+#n 孔老師原本要說mururu (擦拭)，此為用詞錯誤。
+#a 295.24, None, 298.64
+
+131.
+...(1.8) pati-manʉ==ng-ʉn=kee,\
+CAU-good-PF=3SG.GEN
+致使-好.受焦=3SG.屬格
+
+#n manʉʉng指「好的」。
+#a 298.64, None, 302.19
+#n manʉʉng指「好的」。
+
+132.
+.. sua,_
+NOM
+主格
+
+#a 302.19, None, 302.99
+
+133.
+.. tia to’onaa,_
+IFF location
+非實現 位置
+
+#n to’onaa指位置或所在的位置。
+#a 302.99, None, 304.07
+#n to’onaa指位置或所在的位置。
+
+134.
+.. a==_
+FIL
+FIL
+
+#a 304.07, None, 304.75
+
+135.
+... seto,_
+student
+學生
+
+#a 304.75, None, 306.25
+
+136.
+...(0.9) m-ari-sinitʉ.\
+AF-take-paper
+主焦-拿-紙張
+
+#e He put away all the things in the classroom. 
+#c 他把學生要讀書的地方整理得好好的。
+#n mari-sinitʉ指讀書。
+#a 306.25, None, 307.9
+
+137.
+...(3.4) turupang=cu,_
+finish.AF=COS
+完成.主焦=COS
+
+#n turupangʉ 完成/完工。
+#a 307.9, None, 312.02
+#n turupangʉ 完成/完工。
+
+138.
+... m-ari-siki,_
+AF-take-clean.AV
+主焦-拿-打掃.主焦
+
+#a 312.02, None, 313.2
+
+139.
+.. m-okusa XX na,_
+AVAF-go.toward XX LOC
+主焦-去 XX 處所
+
+#a 313.2, None, 314.66
+
+140.
+...(2.4) si’inʉva,_
+door
+門
+
+#n ta-sinʉva 指窗戶。
+#a 314.66, None, 317.92
+#n ta-sinʉva 指窗戶。
+
+141. 
+.. ta-ri-sinatʉ,\
+TA-take-book-Aschool
+TA-拿-書-A學校
+
+#n 此處應是語誤，正確為tari-sinatat-ari-sinat-a。
+#a 317.92, None, 318.69
+#n 此處應是語誤，正確為tari-sinatat-ari-sinat-a。
+
+142.
+.. maritarʉ,\
+wait.for .AVAF
+等待.主焦
+
+#n 此處詞根tarʉ(床)跟詞語沒有關聯。
+#a 318.69, None, 319.49
+#n 此處詞根tarʉ(床)跟詞語沒有關聯。
+
+143.
+...(1.2) te=cu iovutu seto.\
+IRR=COS come.AF student 
+未實現=COS 來.主焦 學生
+
+#e After cleaning up, he would go to the school gate and waited for the students to come.
+#c 打掃完後，就去校門口，等待學生要來了。
+#a 319.49, None, 321.94
+
+144.
+...(3.1) noo c<um>a-cʉ’ʉra na seto,_
+if <AF>Ca-see LOC student
+如果 <主焦>Ca重疊-看 處所 學生
+
+#a 321.94, None, 326.51
+
+145.
+.. m-okusa ana ngʉcoo,_
+AF-go.toward FS FIL
+主焦-去 FS FIL
+
+#a 326.51, None, 328.66
+
+146.
+... si’inʉva ia,_
+door TOP 
+門 主題
+
+#a 328.66, None, 329.86
+
+147.
+... mana==sʉ kari=in ia,_
+perhaps word=3SG.GEN TOP
+或許 話=3SG.屬格 主題
+
+#n manasʉ在這裡拉長聲音強調推測的正確性。
+#a 329.86, None, 331.83
+#n manasʉ在這裡拉長聲音強調推測的正確性。
+
+148.
+...(1.6) <L2MsiaupʉngiuL2M> <L2McauL2M> misee,\
+little.kid morning say.AF
+小朋友 早 說.主焦
+
+#a 331.83, None, 335.12
+
+149.
+...(2.3) musu’ʉvʉ kamua._
+nod.AF 2PL.OBL
+點頭.主焦 2PL.斜格
+
+#e If he saw student at the school gate, he would usually say “Siaopengyou zao. Musu’ʉvʉ kamua.”
+#c 如果看到學生在校門口，通常他會說:「小朋友早(中文)，早安。」
+#n 在此孔老師又把「小朋友早」翻成族語再說一遍。
+#n musu’ʉvʉ點頭致意、敬禮，引申為早安。
+#a 335.12, None, 338.69
+
+150.
+...(2.8) sii mesua ka’an=pa nguain tavarʉ’ʉ masii Kanakanavu.\
+because then NEG=still 3SG.NOM be.able.to say.AF Kanakanavu
+因為 當時 否定=還 3SG.主格 能夠 說 卡那卡那富語
+
+#e Because he was still not able to speak Kanakanavu at that time.
+#c 因為那個時候他還不會說卡那卡那富語。
+#a 338.69, None, 344.17
+
+151.
+...(2.5) ke-tuturu nen,\
+learn what
+學習 什麼
+
+#n 這裡為語誤，整句話無法達意。
+#a 344.17, None, 347.57
+#n 這裡為語誤，整句話無法達意。
+
+152.
+... amusen=kamu noo,_
+how.to.say.AF=2PL.NOM if
+如何說.主焦=2PL.主格 如果
+
+#n misen指為什麼。
+#a 347.57, None, 349.34
+#n misen指為什麼。
+
+153.
+... <L2McauanL2M> misee.\
+good.morning say.AF
+早安 說.主焦
+
+#e If you say “Good morning,” how (can I) say it?
+#c 如果你們說「早安」要怎麼說?
+#a 349.34, None, 350.8
+
+154.
+.. tuturu-ʉn=mia,\
+tell-PF=1PL.GEN.EXCL
+告訴-受焦=1SG.屬格.排除
+
+#a 350.8, None, 351.66
+
+155.
+...(2.0) musu’ʉvʉ tasiarʉ kisʉ-ʉn=mia,\
+nod.AF mornig call-PF=1PL.GEN.EXCL
+點頭.主焦 早上 稱呼-受焦=1PL.屬格.排除
+
+#n tasiarʉ 從to-tasiarʉ(早上)簡化而來。
+#a 351.66, None, 355.37
+#n tasiarʉ 從to-tasiarʉ(早上)簡化而來。
+
+156.
+...(1.3) taku-tavarʉ’ʉ=cu,_
+TAKU-be.able.to.AF=COS
+TAKU-會.主焦=COS
+
+#e We taught him “musu’ʉvʉ tasiarʉ” and then he learned it.
+#c 我們教他”musu’ʉvʉ tasiarʉ”，就學會了。
+#n 孔老師認為taku- 有「形成」或是表示「從不懂到懂」的過程。
+#a 355.37, None, 357.62
+
+157.
+...(1.3) noo c<um>a-cʉ’ra kimia ia totasiarʉ ia,_
+when <AF>Ca-see 1PL.OBL.EXCL TOP day.time TOP
+當 <主焦>Ca重疊-看到1PL.斜格.排除 主題 上午 主題
+
+#n 孔老師補充以下時間的說法: vʉrʉʉngana深夜, maupurupoo 天將亮而未亮, ara-ciasʉ 天亮(開始變亮), ararakau taniarʉ 太陽出現, totasiarʉ 上午(大約到十一點左右), matAFʉsʉke taniarʉ 中午, ca’aania 日間，通常指下午, matarai taniarʉ 太陽下山, maupurupoo 天將暗而未暗, rovana 晚間, mapitʉ’ʉ 天暗
+#a 357.62, None, 360.76
+#n 孔老師補充以下時間的說法: vʉrʉʉngana深夜, maupurupoo 天將亮而未亮, ara-ciasʉ 天亮(開始變亮), ararakau taniarʉ 太陽出現, totasiarʉ 上午(大約到十一點左右), matAFʉsʉke taniarʉ 中午, ca’aania 日間，通常指下午, matarai taniarʉ 太陽下山, maupurupoo 天將暗而未暗, rovana 晚間, mapitʉ’ʉ 天暗
+
+158.
+...(1.2) makahi=cu,_
+be.like.AF=COS
+像.主焦=COS
+
+#n 口誤，原本發音人要說makasi=cu (就是說)，有些族人會用h但替s音。
+#a 360.76, None, 362.62
+#n 口誤，原本發音人要說makasi=cu (就是說)，有些族人會用h但替s音。
+
+159.
+...(0.8) musu’ʉvʉ tasiarʉ misee kimia.\
+nod.AF day.time say.AF 1PL.OBL.EXCL
+點頭.主焦日間 說.主焦1PL.斜格.排除
+
+#e When seeing us in the morning, He would say, “Good morning.”
+#c 早上看到我們的時候，就說musu’ʉvʉ tasiarʉ。
+#n musu’ʉvʉ tasiarʉ 意思為早安。
+#n misee 如此說，前面會加上說了的內容。
+#a 362.62, None, 365.26
+
+160.
+...(1.2) marivari=kim,_
+reply.AF=1PL.NOM.EXCL
+回答.主焦=1PL.主格.排除
+
+#n 詞根為rivari。
+#a 365.26, None, 367.29
+#n 詞根為rivari。
+
+161.
+... musu’ʉvʉ tasiarʉ,_
+nod.AF day.time
+點頭.主焦 日間
+
+#a 367.29, None, 369.24
+
+162.
+.. misee.\
+say.AF
+說.主焦
+
+#e We replied, “Good morning.”
+#c 我們回答說:「早安」。
+#a 369.24, None, 369.89
+
+163.
+...(2.5) eh/
+FIL
+FIL
+
+#a 369.89, None, 372.84
+
+164.
+... pa-cʉpʉ-cʉpʉngʉ=kim,_
+PA-RED-heart.AF=1PL.NOM.EXCL
+PA-重疊-心.主焦=1pl.主格.排除
+
+#n pa-cʉpʉng 想、測量。
+#n cʉpʉng 心。
+#n cʉpʉng重複表示一直想。
+#a 372.84, None, 374.56
+#n pa-cʉpʉng 想、測量。
+#n cʉpʉng 心。
+#n cʉpʉng重複表示一直想。
+
+165.
+...(1.0) ma-manʉng-ana m-okusa na,_
+RED-good-ANA AF-go LOC
+重疊-好-ANA 主焦-去 處所
+
+#n mamanʉng好。
+#n -ana表示驚嘆的語氣，特別用在凸顯有好壞、長短、高低的對比字。
+#a 374.56, None, 377.09
+#n mamanʉng好。
+#n -ana表示驚嘆的語氣，特別用在凸顯有好壞、長短、高低的對比字。
+
+166.
+.. ta-ari-sinit-a,\
+TA-take-book-A
+TA-拿-書-A
+
+#a 377.09, None, 378.02
+
+167.
+...(2.9) tavarʉ’ʉ,_
+be.able.to.AF
+能夠.主焦
+
+#a 378.02, None, 381.6
+
+168.
+...(0.8) t<um>u-tuturu kimia m-ari-sinatʉ,_
+<AF>Ca-teach 1PL.OBL.EXCL AF-take-paper.
+<主焦>Ca重疊-教 1PL.斜格.排除 主焦-拿-紙張.
+
+#a 381.6, None, 384.32
+
+169.
+... para-cani.\
+PARA-song.AF
+PARA-歌.主焦
+
+#e We thought how good it was to go to school, which could teach us to sing and dance.
+#c 我們心想能夠去學校真好啊!可以教我們讀書、唱歌。
+#n tarisinata 學校 由詞根 ta-ari-sinatʉ-a所組成，字面意義為拿書的地方。
+#n para- 無法單獨成字，使…成動作; para-cani唱歌。
+#a 384.32, None, 385.47
+
+170.
+...(2.7) nakai noo,_
+but if
+但是 如果
+
+#a 385.47, None, 389.01
+
+171.
+... itumuru,_
+many.NHUM
+多.非人
+
+#a 389.01, None, 390.6
+
+172.
+... ’umo’uma tamna,_
+field POSS
+田地 所有
+
+#a 390.6, None, 392.4
+
+173.
+.. putukikioi-a,\
+Work-TOP
+工作-主題
+
+#n 這裡發音人將putukikioa ia簡化成putukikioia。
+#n kamanʉngʉ 製作。
+#n mo’uma 做農事。
+#a 392.4, None, 393.36
+#n 這裡發音人將putukikioa ia簡化成putukikioia。
+#n kamanʉngʉ 製作。
+#n mo’uma 做農事。
+
+174.
+...(1.5) kacaua=cu seto mesua ka’an=cu m-osa na,_
+many.HUM=COS student then NEG=COS AF-go.toward LOC
+多.人=COS 學生 當時 否定=COS 主焦-去 處所
+
+#n mosa應為mokusa。
+#a 393.36, None, 397.08
+#n mosa應為mokusa。
+
+175.
+... ta-ari-sinat-a sii,_
+TA-take-book-A because
+TA-拿-書-A 因為
+
+#a 397.08, None, 398.42
+
+176.
+... tia m-oran ma-marang,_
+IRR AF-help RED-old.person
+非實現 主焦-幫助 重疊-長輩
+
+#n moran 為moranʉ簡化字尾並拉長中間母音而得。
+#a 398.42, None, 400.43
+#n moran 為moranʉ簡化字尾並拉長中間母音而得。
+
+177.
+...(0.8) a==,_
+FIL
+FIL
+
+#a 400.43, None, 401.6
+
+178.
+.. mo-’uma.\
+AF-field.主焦-田
+
+#e But when the farming business was busy, many students wouldn’t go to school because they needed to help their seniors do farming. 
+#c 但是當農事忙碌的時候，就很多學生不去學校，因為要幫忙長輩們做農事。
+#a 401.6, None, 402.91
+
+179.
+...(2.6) noo,_
+when
+當
+
+#a 402.91, None, 406.04
+
+180.
+...(0.9) taku-tavarʉ’ʉ,_
+TAKU-know
+TAKU-知道
+
+#a 406.04, None, 407.9
+
+181.
+...(1.1) <L2JkosicinseL2J> isua,_
+principal that
+校長 那個
+
+#a 407.9, None, 410.01
+
+182.
+...(2.3) m-okusa=cu na,_
+AF-go.toward=COS LOC
+主焦-去=COS處所
+
+#a 410.01, None, 413.25
+
+183.
+.. taira,_
+wildness
+荒野
+
+#n ’umo’uma田園之外沒有耕作的地方稱為taira。
+#a 413.25, None, 413.84
+#n ’umo’uma田園之外沒有耕作的地方稱為taira。
+
+184.
+.. m-okusa na ’umo’uma=mia,\
+AF-go.toward LOC field=1PL.GEN.EXCL
+主焦-去 處所 田園=1PL.屬格.排除
+
+#a 413.84, None, 415.43
+
+185.
+... ^tikirim seto ^acuu nan=kamu misen ’an iovutu misee.\
+look.for.AF student go where=2PL.NOM why.AF NEG come.AF say.AF
+尋找.主焦 學生 去 哪裡=2PL.主格 為什麼.主格 否定 來 主焦.說
+
+#e When the principal knew it (students’ doing farming), he would go to the open field. (He would) go to our farmland and find the students, saying “Where did you go? Why didn’t you come?”
+#c 當那位校長獲知之後，就去曠野，到我們的田裡找學生說:「你們去哪裡了，為什麼不來?」
+#n acuu 指去了。
+#n nan 是 nanu 的簡化。
+#a 415.43, None, 418.74
+
+186.
+...(1.7) m-atisa’ʉ=kimia ah,_
+AF-grab. 1PL.OBL.EXCL FIL
+抓.主焦 1PL.斜格.排除 FIL
+
+#a 418.74, None, 421.58
+
+187.
+...(1.4) avic-in,_
+bring-PF.PAST
+帶-受焦.過去
+
+#n mavici 帶.主焦。
+#a 421.58, None, 423.71
+#n mavici 帶.主焦。
+
+188.
+... m-avici ʉngcoo oh manu ta-ti’ing,_
+AF-bring FIL FIL kid Ca-little
+主焦-帶 FIL FIL 小孩 Ca重疊-小的
+
+#a 423.71, None, 426.99
+
+189.
+.. u-mavici na,_
+PROG-bring.AF LOC
+PROG-帶.主焦 處所
+
+#n u表示當下進行的行為時，動詞後面會加u-。
+#n u-m’ara karu 正拿著木條。
+#a 426.99, None, 428.11
+#n u表示當下進行的行為時，動詞後面會加u-。
+#n u-m’ara karu 正拿著木條。
+
+190.
+... ta-ari-sinit-a.\
+TA-take-book-A
+TA-拿-書-A
+
+#e grabbing us (the little kids), he brought the little kids to school.
+#c 抓著我們喔，帶著小朋友到學校。
+#n tarisinita一詞由ta-ari-sinitʉ-a所組成。
+#a 428.11, None, 429.54
+
+191.
+...(1.6) 'apanapa,_
+sometimes
+偶爾
+
+#a 429.54, None, 431.77
+
+192.
+.. arakuracʉ ma-marang=mia,\
+become.angry RED-old.person=1PL.GEN.EXCL
+變生氣 重疊-老人=1PL.屬格.排除
+
+#a 431.77, None, 433.2
+
+193.
+... misen cau makasia,_
+why.AF person be.such.AF
+為什麼.主焦 人 如此.主焦
+
+#e Our seniors got very angry from time to time. How would it be so?
+#c 我們的長輩們有時候會很生氣，怎麼會這樣啊?
+#a 433.2, None, 435.06
+
+194.
+... tia m-oran kimia manu putukikio,_
+IRR AF-help 1PL.OBL.EXCL kid work
+非實現 主焦-幫助 1PL.斜格.排除 小孩 工作
+
+#a 435.06, None, 438.31
+
+195.
+... avic-in=kee m-okusa na t-ari-sinit-a.\
+bring-PF.PAST=3SG.GEN AF-go.toward LOC TA-take-book-A
+帶.受焦.過去=3SG.屬格 主焦-去 TA-拿-書-A
+
+#e The little kids would help us work. Should (he) take the kids to school.
+#c 小朋友要幫我們工作，還把小孩子帶去學校。
+#n 此時語境有暗示「竟然」會發生這種事情。
+#a 438.31, None, 440.97
+
+196.
+...(1.9) makasi=cu ʉngcoo,_
+say=COS FIL
+說=COS FIL
+
+#a 440.97, None, 444.17
+
+197.
+...(1.3) <L2McangL2M> <L2MsiaucangL2M> isua,\
+PN principal that
+專有名詞 校長 那個
+
+#a 444.17, None, 446.63
+
+198.
+...(2.1) p-ari-sinit-oo== manu=mu,_
+CAU-take-book-.IMP.PF kid=2PL.GEN
+使役-拿-書-祈使.受焦 小孩=2PL.屬格
+
+#a 446.63, None, 450.68
+
+199.
+... kan tia== ara-karana==na=nguain tam nguani tamna,\
+KAN IRR become-different=3SG.NOM FS 3PL.NOM POSS
+KAN 未實現 變成-不同=3SG.主格 FS 3PL.主格 所有
+
+#a 450.68, None, 455.42
+
+200.
+...(0.9) cʉpʉng miana.\
+heart then
+心 那時
+
+#e That Principal Jhang said in this way, “Let your children go to school and their thoughts will change in the future.”
+#c 那位張校長就如此說:要讓你們的小孩讀書，他們未來的想法會改變的。
+#n miana此處為口誤，應為nuari未來。
+#n 此時cʉpʉng表示想法。
+#a 455.42, None, 457.35
+
+201.
+...(2.2) tia ara-ma-manʉng,_
+IRR become-RED-good
+未實現 變成-重疊-好
+
+#a 457.35, None, 460.61
+
+202.
+...(1.7) ikamu tamna,_
+2PL.NOM POSS
+2PL.主格 POSS
+
+#a 460.61, None, 463.32
+
+203.
+.. sia-cʉvʉrʉ.\
+RF-grow
+參焦-成長
+
+#e Your ways of living will become good.
+#c 你們的生活方式會變好的。
+#n cʉvʉrʉ指生長，加了前綴sia-就有「生活方式」的意思。
+#a 463.32, None, 464.11
+
+204.
+...(2.4) makasua=cu macasʉ=cu XX ni-arakukun=mia,_
+in.that.way.AF=COS grow=COS XX PFV-together=1PL.GEN.EXCL
+那樣.主焦=COS 生長=COS XX 過去-一起=1PL.屬格.排除
+
+#n macasʉ在這裡要解釋成「久」。
+#a 464.11, None, 470.54
+#n macasʉ在這裡要解釋成「久」。
+
+205.
+... taku-tavarʉ’ʉ ma-marang=mia.\
+TAKU-know RED-old.person=1PL.GEN.EXCL
+TAKU-了解 重疊-老人=1PL.屬格.排除
+
+#e In that way, we got along for so long. Our seniors also understood (that principal).
+#c 就那樣，我們相處久了，我們的長輩們也了解(那位校長)了。
+#n taku-tavarʉ’ʉ 有暗示從不明白到明白的過程，taku-形成。
+#a 470.54, None, 472.57
+
+206.
+...(1.2) cucuru-ava,\
+truly-AVA
+的確-AVA
+
+#n -ava表示驚訝或恍然大悟。
+#n -ana 有類似的用法，mamanʉng-ana真好啊! sa’o’o-ana真好吃啊!
+#n sosomanpe curu 非常感謝。
+#a 472.57, None, 474.53
+#n -ava表示驚訝或恍然大悟。
+#n -ana 有類似的用法，mamanʉng-ana真好啊! sa’o’o-ana真好吃啊!
+#n sosomanpe curu 非常感謝。
+
+207.
+...(1.6) m-okusa na ta-ari-sinat-a ma-man=mita,_
+AF-go.toward LOC TA-takebook-A RED-kid=1PL.GEN.INCL
+主焦-去 處所 TA-拿-書-A 重疊-小孩=1PL.屬格.包含
+
+#n ma-man原本是ma-manu 學生(複數)。
+#a 474.53, None, 478.44
+#n ma-man原本是ma-manu 學生(複數)。
+
+208.
+...(2.1) ni-ara-karanana ti’ing=cu,\
+PFV-become-different a.little=COS
+過去-變成-不同 稍微=COS
+
+#a 478.44, None, 482.22
+
+209.
+...(2.1) tavarʉ’ʉ=cu s<um>a-sʉpʉrʉ,_
+be.able.to.AF=COS <AF>Ca-read
+能夠=COS <主焦>CA重疊-念
+
+#n mari-sinatʉ 指寫字，後有讀書之義。
+#n sumasʉpʉrʉ 指念書。
+#a 482.22, None, 485.4
+#n mari-sinatʉ 指寫字，後有讀書之義。
+#n sumasʉpʉrʉ 指念書。
+
+210.
+.. ah ti’ing,\
+FIL a.little
+FIL 一些
+
+#a 485.4, None, 486.43
+
+211.
+...(1.0) ^tavarʉ’ʉ ti’ing masii,_
+be.able.to a.little speak.AF
+能夠 一些 說.主焦
+
+#n tavarʉ’ʉ重音在ta表示會這個會又那個。
+#a 486.43, None, 489.3
+#n tavarʉ’ʉ重音在ta表示會這個會又那個。
+
+212.
+.. Nakasaiana.\
+Nakasaiana
+中文
+
+#e Truly, after our little kids went to school, (They) changed slightly, being able to read a little Chinese.
+#c 的確，我們的小朋友去了學校之後，稍微有點改變喔，會念一點中文。
+#n nakasaiana 中國人，漢語，中文。
+#a 489.3, None, 490.28
+
+213.
+...(2.3) makasua=cu,_
+be.such.AF=COS
+如此.主焦=COS
+
+#n 根據孔老師，makasua=cu在卡那富語有「如此這般之後」的意思，中文翻譯成「之後」即可。
+#n 隨著語境的音調makasua的拼法會改變，在這裡會拼成makasua。
+#a 490.28, None, 493.64
+#n 根據孔老師，makasua=cu在卡那富語有「如此這般之後」的意思，中文翻譯成「之後」即可。
+#n 隨著語境的音調makasua的拼法會改變，在這裡會拼成makasua。
+
+214.
+...(1.9) paira=cu nguain,_
+usually=COS 3SG.NOM
+通常=COS 3SG.主格
+
+#a 493.64, None, 496.72
+
+215.
+...(1.0) ro-rovana ia m-okusa na,_
+RED-night TOP AF-go.toward LOC
+重疊-夜晚 主題 主焦-去 處所
+
+#n 重複表示經常，因此ro-rovana翻成「每個晚上」。
+#a 496.72, None, 499.84
+#n 重複表示經常，因此ro-rovana翻成「每個晚上」。
+
+216.
+...(1.2) tanasʉn ara-kukun ma-marang,_
+tribe become-together RED-old.person
+部落 變成-一起 重疊.老人
+
+#n tanasʉn部落，也可擴大解釋為「社」、「群」。
+#a 499.84, None, 503.2
+#n tanasʉn部落，也可擴大解釋為「社」、「群」。
+
+217.
+.. ^pa-rʉ’ʉna.\
+talk-story
+說-故事
+
+#e Afterwards, he often came to the community at night and accompanied the seniors, chatting with them.
+#c 之後，晚上的時候，他經常來到社區，跟老人家相處聊天。
+#n ’ʉna 故事。
+#n po-ʉna 說故事。
+#n po-’ʉ’ʉna 一直說故事。
+#n 對Kanakanavu人來說，聊天就是講古。
+#a 503.2, None, 504.22
+
+218.
+...(1.3) ah,/
+FIL
+FIL
+
+#a 504.22, None, 505.8
+
+219.
+...(0.9) macasʉ taniarʉ,_
+grow.AF sun
+生長.主焦 太陽
+
+#n kakangca 天空。
+#n taniara 日子。
+#n 孔老師在這裡要表達的是「日子久了」。
+#a 505.8, None, 507.96
+#n kakangca 天空。
+#n taniara 日子。
+#n 孔老師在這裡要表達的是「日子久了」。
+
+220.
+...(1.4) makai=cu nguain,_
+be.like.AF=COS 3SG.NOM
+好像.主焦=COS 3SG.主焦
+
+#a 507.96, None, 510.55
+
+221.
+... ma-marang=mia,\
+RED-old.person=1PL.GEN.EXCL
+重疊-老人=1PL.屬格.排除
+
+#n 此處應翻成長輩。
+#a 510.55, None, 512.04
+#n 此處應翻成長輩。
+
+222.
+...(1.6) kin-va-varang=mia,\
+relation-RED-sibling=1PL.GEN.EXCL
+relation-重疊-兄弟姊妹=1PL.屬格.排除
+
+#n vai 兄弟姊妹。
+#n kin-varang 兄弟姊妹關係。
+#n kin-na’ucanga 配偶關係。
+#n kin-caucauwa 親戚關係。
+#a 512.04, None, 514.64
+#n vai 兄弟姊妹。
+#n kin-varang 兄弟姊妹關係。
+#n kin-na’ucanga 配偶關係。
+#n kin-caucauwa 親戚關係。
+
+223.
+...(1.4) arakukun kimia kavang,_
+together.AF 1PL.OBL.EXCL all
+一起.主焦 1PL.OBL.排除 全部
+
+#a 514.64, None, 517.83
+
+224.
+...(2.1) c<um>a-cʉvʉrʉ.\
+<AF>Ca-grow
+<主焦>Ca重疊-成長
+
+#e He’s just like our senior relatives and our siblings, living with us.
+#c 他就像我們的長輩，像我們的兄弟姊妹們，跟我們在一起生活。
+#n c<um>acʉvʉrʉ在這裡指一起生活。
+#a 517.83, None, 520.63
+
+225.
+...(3.5) imo,_
+so
+所以
+
+#a 520.63, None, 524.6
+
+226.
+...(2.4) mesua,_
+then
+當時
+
+#a 524.6, None, 527.84
+
+227.
+...(1.3) ara-kacaua=cu,_
+become-many.HUM=COS
+變成-多.人=COS
+
+#a 527.84, None, 530.82
+
+228.
+.. seto,_
+student
+學生
+
+#a 530.82, None, 531.88
+
+229.
+... ma-man=cu m-okusa na ta-ari-sinit-a arakukun nia m-on nia m-ari-sinitʉ.\
+RED-kid=COS AF-go.toward LOC TA-take-book-A together.AF there AF-stay 3PL.OBL AF-take-book
+重疊-小孩=COS 主焦-去 處所 TA-拿-書-A 一起 那裏 主焦-待 3PL.斜格 主焦-拿-書
+
+#e So, many students got to like going to the school to get along with him and study there.
+#c 所以，當時很多學生變成喜歡去學校跟他相處，在那裡讀書。
+#n 'esi指存在；mon指待在。
+#n te-ku mon nesi k<um>akʉn 我要待在這裡吃。
+#a 531.88, None, 537.15
+
+230.
+...(1.7) makasua=cu,_
+in.that.way=COS
+那樣=COS
+
+#a 537.15, None, 539.67
+
+231.
+...(1.9) ’una=cu,_
+EXIST=COS
+存在=COS
+
+#a 539.67, None, 542.56
+
+232.
+...(1.2) cau m-okusa na namanamarʉ m-ari-sinitʉ,\
+person AF-go.toward LOC ground AF-take-book
+人 主焦-去 處所 平地 主焦-拿-書
+
+#a 542.56, None, 546.53
+
+233.
+...(1.2) ara-tatia nguain tamna,_
+become-big 3SG.NOM POSS
+變成-大 3SG.主格 POSS
+
+#a 546.53, None, 549.63
+
+234.
+...(1.0) taku-tavara-’a,\
+TAKU-know-NMZ
+TAKU-知道-名詞化
+
+#n taku-tavara-’a指所學會的/所了解的。
+#a 549.63, None, 551.48
+#n taku-tavara-’a指所學會的/所了解的。
+
+235.
+...(1.0) ara-itumuru nguain tamna taku-tavara-’a.\
+become-many.NHUM 3.SG.NOM POSS TAKU-know-NMZ
+變多-多.非人 3SG.主格 POSS TAKU-知道-名詞化
+
+#e Afterwards, some people went to the plain area for study, knowing much more.
+#c 之後，有人去平地讀書，懂得更多了。
+#n 因為「知識」無法測量，所以用「變大變多」來說明獲得很多知識。
+#a 551.48, None, 554.59
+
+236.
+.. poi’i na tanasʉ=mia m-oran cau,_
+return LOC tribe=1PL.GEN.EXCL AF-help person
+回去 處所 部落=1PL.屬格.排除主焦-幫忙 人
+
+#n poi’i 指回來或回去。
+#n cau 在這裡指族人。
+#a 554.59, None, 557.84
+#n poi’i 指回來或回去。
+#n cau 在這裡指族人。
+
+237.
+.. paka-ma-manʉng.\
+CAU-RED-good
+使役-重疊-好
+
+#e (They) returned to the tribe, helping the tribal men lead a better life.
+#c 回到部落協助族人更好。
+#n manʉngʉ 好。
+#a 557.84, None, 558.79
+
+238.
+...(2.7) pa-cʉpʉ-cʉcʉng=mia,_
+PA-RED-heart=1PL.GEN.EXCL
+PA-重疊-心.主焦=1PL.屬格.排除
+
+#a 558.79, None, 562.64
+
+239.
+.. ah,_
+FIL
+FIL
+
+#a 562.64, None, 563.64
+
+240.
+...(1.4) 'una-va,_
+EXT-AVA
+存在-AVA
+
+#n ’esi單獨表達「存在」;’una表示「所有」。
+#n ’una kara=kasu vantuku 你有錢嗎? ; vantuku指錢、元、紙。
+#a 563.64, None, 565.85
+#n ’esi單獨表達「存在」;’una表示「所有」。
+#n ’una kara=kasu vantuku 你有錢嗎? ; vantuku指錢、元、紙。
+
+241.
+...(1.1) <L2JkocisinseL2J> makasia t<um>a-tuturu kimia paka-ma-manʉng,_
+principal be.like.this.AF <AF>Ca-tell 1PL.OBL.EXCL CAU-RED-good
+校長 像這樣.主焦 <主焦>Ca重疊-說 1PL.斜格.排除 使役-重疊-好
+
+#a 565.85, None, 570.02
+
+242.
+...(1.1) tanasʉ=mia.\
+tribe=1PL.GEN.EXCL
+部落=1PL.屬格.排除
+
+#e We thought “Ah, there turns out to be such a principal who teaches us to make our tribe better.”
+#c 我們心想著，啊，原來有這樣的校長，教我們使我們的部落更好。
+#a 570.02, None, 572.03
+
+243.
+...(1.5) imo,_
+so
+所以
+
+#a 572.03, None, 574.32
+
+244.
+...(1.0) miaranau=cu,_
+for.a.long.time.AF=COS
+久=COS
+
+#a 574.32, None, 576.57
+
+245.
+...(1.0) <L2JkocisinseL2J> iisi,_
+principal this
+校長 這
+
+#a 576.57, None, 578.84
+
+246.
+...(0.9) aratʉkʉn na tanasʉn,_
+leave.AF LOC tribe
+離開.主焦 處所 部落
+
+#n marairuai 指兩個人分開。
+#n ara-tʉkʉn pani mataa na’u  Pani和Na’u離婚。
+#n manguru 逃走。
+#a 578.84, None, 581.46
+#n marairuai 指兩個人分開。
+#n ara-tʉkʉn pani mataa na’u  Pani和Na’u離婚。
+#n manguru 逃走。
+
+247.
+...(3.9) ni-ara-aka,_
+PFV-become-bad
+過去-變成-壞
+
+#n 詞根aka指不好、壞掉。
+#n 這裡很有可能指親人死亡，非親人或動物死亡則會用mamacai。
+#a 581.46, None, 586.36
+#n 詞根aka指不好、壞掉。
+#n 這裡很有可能指親人死亡，非親人或動物死亡則會用mamacai。
+
+248.
+...(2.4) kacaua cau ikim kanakanavu pa-cʉpʉ-cʉpʉng 'inia.\
+many.HUM person 1PL.NOM.EXCL Kanakanavu PA-RED-heart.AF 3SG.OBL
+多.人 人 1PL.主格.排除 卡那卡那富人 PA-重疊-心.主焦 3SG.斜格
+
+#e So, though the principal has left the tribe for a long time, we Kanakanavu still miss him a lot.
+#c 所以，雖然這位校長離開部落很久了也過世了，我們Kanakanavu族人還是很思念著他。
+#a 586.36, None, 591.72
+
+249.
+...(2.4) tia-va=kita ketuturu 'inia makasua,\
+IRR-AVA=1PL.NOM.INCL learn 3SG.OBL be.like.that.AF
+非實現-AVA=1PL.主格.包含 學習 3SG.斜格 那樣.主焦
+
+#n tiava 指「原來要」。
+#a 591.72, None, 596.81
+#n tiava 指「原來要」。
+
+250.
+...(1.2) m-oran na cau,\
+AF-help LOC person
+主焦-幫助 處所 人
+
+#a 596.81, None, 599.26
+
+251.
+... paka-ma-munʉng na cau,\
+CAU-RED-good LOC person
+使役-重疊-好 處所 人
+
+#n 此處paka-mamunʉng為語誤，應為paka-mamanʉng。
+#a 599.26, None, 601.38
+#n 此處paka-mamunʉng為語誤，應為paka-mamanʉng。
+
+252.
+... masii,_
+so.that
+才
+
+#a 601.38, None, 602.6
+
+253.
+...(2.0) ara-ma-manʉng kangvang,_
+become-RED-good all
+變成-重疊-好 全部
+
+#a 602.6, None, 606.1
+
+254.
+...(0.8) cau tamna,_
+person POSS
+人 所有
+
+#n 此處指族人。
+#a 606.1, None, 607.93
+#n 此處指族人。
+
+255.
+... sia-cʉvʉrʉ.\
+RF-grow
+參焦-生長
+
+#e It is the case that we learn the very way he helped others and made others live well. In so doing, (he) could improve the lives of the tribal men.
+#c 我們原來要學他那種幫助別人、讓別人好的作為，才能使族人的生活都獲得改善。
+#n mama’ari sia-cʉvʉrʉ=maku 我的生活還不錯。mama’ari稍好/不錯。
+#a 607.93, None, 609.26
+
+256.
+...(1.0) matarava masin,\
+until.AF now
+直到.主焦 現在
+
+#a 609.26, None, 611.31
+
+257.
+...(0.8) ikim Kanakanavu,_
+1PL.NOM.EXCL Kanakanavu
+1PL.主格.排除 卡那卡那富人
+
+#a 611.31, None, 613.62
+
+258.
+... noo==,_
+when
+當
+
+#a 613.62, None, 614.64
+
+259.
+... parʉ’ʉna po-isua <L2JkocisinseL2J> <L2McangsiaucangL2M> ia,\
+chat say-about principal principal TOP
+聊天 說-關於 校長 校長 主題
+
+#a 614.64, None, 618.47
+
+260.
+...(1.8) 'esi pa=kim,_
+EXI still=1PL.NOM.EXCL
+存在 持續=1PL.主格.排除
+
+#a 618.47, None, 621.31
+
+261.
+... pa-cʉpʉ-cʉpʉng 'inia.\
+PA-RED-heart 3SG.OBL
+PA-重疊-想.主焦 3SG.斜格
+
+#e Up to now, whenever we Kanakanavu talk about Principal Zhang, we still miss him.
+#c 直到現在我們Kanakanavu族人聊到張校長的時候，我們還在思念著他。
+#a 621.31, None, 623.14
+
+262.
+...(0.8) 'una kari,_
+EXIST word
+存在 話
+
+#a 623.14, None, 624.9
+
+263.
+.. makasi,_
+say.like.this.AF
+這樣說.主焦
+
+#a 624.9, None, 625.7
+
+264.
+...(0.8) sua <L2McangsiaucangL2M> kan ia,_
+NOM principal QUOT TOP
+主格 校長 QUOT 主題
+
+#a 625.7, None, 628.29
+
+265.
+...(2.9) Kanakanavu tamna,_
+Kanakanavu POSS
+卡那卡那富人 所屬
+
+#a 628.29, None, 632.46
+
+266.
+...(2.6) <L2JkocisinseL2J>,_
+principal
+校長
+
+#a 632.46, None, 636.12
+
+267.
+...(0.9) matarava,_
+until.AF
+直到.主焦
+
+#a 636.12, None, 637.82
+
+268.
+... nuari.\
+future
+未來
+
+#e Therefore, it is said that Principal Zhang is our Kanakanavu’s principal for good.
+#c 所以，有這麼一說，張校長是我們Kanakanavu族人永遠的校長。
+#a 637.82, None, 638.72

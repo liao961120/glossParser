@@ -1,0 +1,523 @@
+topic: family
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 翁范秀香, Paicʉ, female, 1939-01-11
+collected: 2012-05-31
+revised: 2017-6-6
+video: kkvNr_family_Paicu.mp3
+
+1.
+te=ku po-isua sua,\
+IRR=1SG.NOM say-that NOM
+非實現=1SG.主格 說-那個 主格
+
+#a 4.31, None, 6.34
+
+2.
+...(0.8) er tanasa er cani pining-a.\
+FIL FS FIL one plaza-REL
+FIL FS FIL 一 廣場-關係詞
+
+#e I want to talk about (my) family.
+#c 我要講關於我的家庭。
+#n tanasa指的是「房子」、「家屋」，而cani pininga則是「家庭」。發音人所要講的主題是家庭，前面提到房子應是講錯，所以標為FS。
+#a 6.34, None, 10.73
+
+3.
+...(2.4) er miana,\
+FIL past
+FIL 以前
+
+#a 10.73, None, 13.92
+
+4.
+...(1.8) iikim 'esi=pa coomaku,\
+1EPL.NOM PROG=still my.father 
+1EPL.主格 進行=還 我的爸爸
+
+#n coomaku由cuma=maku變音而來，類似的情況如cuma=musu「你的爸爸」變音為coomusu。根據發音老師，cuma有三種念法：(1)cuma(原本的念法)；(2)coomusu, coomaku(重音在oo)；(3)Cumaa Pani, Cumaa 'Angai(後加人名的情況；重音在aa)。
+#a 13.92, None, 19.45
+#n coomaku由cuma=maku變音而來，類似的情況如cuma=musu「你的爸爸」變音為coomusu。根據發音老師，cuma有三種念法：(1)cuma(原本的念法)；(2)coomusu, coomaku(重音在oo)；(3)Cumaa Pani, Cumaa 'Angai(後加人名的情況；重音在aa)。
+
+5.
+...(0.8) cinaa=maku,\
+mother=1SG.GEN
+媽媽=1SG.屬格
+
+#n cina跟cuma比起來較少變音，此句aa為重音所在。
+#a 19.45, None, 21.07
+#n cina跟cuma比起來較少變音，此句aa為重音所在。
+
+6.
+...(1.6) er kin-va-vaia,\
+FIL sibling-RED-sibling
+FIL 兄弟姊妹-RED-兄弟姊妹
+
+#n kinvava與ia必須分開念而不能連著念。發音老師建議中間須有分音符號。
+#n 本句的「兄弟姊妹」為老人家的說法，年輕一輩的說法為kinvara(單數)及kinvavara(複數)。
+#a 21.07, None, 25.24
+#n kinvava與ia必須分開念而不能連著念。發音老師建議中間須有分音符號。
+#n 本句的「兄弟姊妹」為老人家的說法，年輕一輩的說法為kinvara(單數)及kinvavara(複數)。
+
+7.
+...(1.1) 'esi=pa kangvang.\
+PROG=still all
+進行=還 全部
+
+#e In the past, my father was still alive, my mother and my siblings were all alive.
+#c 以前，我爸爸還在，我媽媽，我兄弟姊妹，全部都還在。
+#a 25.24, None, 28.46
+
+8.
+...(2.9) makasua=cu=kim.\
+in.that.way=PART=1EPL.NOM
+那樣=語助詞=1EPL.主格
+
+#e In the past, my father was still alive, my mother and my siblings were all alive. We were so.
+#c 以前，我爸爸還在，我媽媽，我兄弟姊妹，全部都還在。我們就那樣了。
+#n 本篇敘述裡將會出現許多makasua=cu=kim，用來對之前所說的話做一個小結，表示「我們的情況就是那樣了」。=cu為「了」的意思。
+#n 「這樣」為makasia。
+#a 28.46, None, 33.68
+
+9.
+...(1.3) er 'una=ku vai nanakʉ,\
+FIL EXIST=1SG.NOM sibling female
+FIL 存在=1SG.主格 親兄弟姊妹 女性
+
+#n vai指「(一個)兄弟姊妹」，是向別人介紹自己手足時所用較親密的叫法。男的兄弟姊妹稱vai saronai。
+#a 33.68, None, 37.29
+#n vai指「(一個)兄弟姊妹」，是向別人介紹自己手足時所用較親密的叫法。男的兄弟姊妹稱vai saronai。
+
+10.
+...(2.2) kanarua,\
+younger.sibling
+弟弟或妹妹
+
+#n 雖然此處用的詞彙是「弟弟或妹妹」，但上一句有提到是女性的手足，所以作妹妹解。
+#n 「哥哥或姐姐(單數)」為kana'ua。
+#a 37.29, None, 40.02
+#n 雖然此處用的詞彙是「弟弟或妹妹」，但上一句有提到是女性的手足，所以作妹妹解。
+#n 「哥哥或姐姐(單數)」為kana'ua。
+
+11.
+...(1.9) iiku iiku marang kana-kana'ua,\
+1SG.NOM 1SG.NOM age RED-older.sibling
+1SG.主格 1SG.主格 年老 重疊-哥哥或姐姐
+
+#n marang有「年長」、「年紀大」、「長輩」等等意思。
+#a 40.02, None, 45.05
+#n marang有「年長」、「年紀大」、「長輩」等等意思。
+
+12.
+...(1.1) makasua=cu=kim.\
+in.that.way=PART=1EPL.NOM
+那樣=語助詞=1EPL.主格
+
+#e I have a female sibling, (more precisely) a younger sister, I am the oldest among my siblings. We are so.
+#c 我有一個姊妹，(更正確地說)是妹妹。我是兄弟姊妹當中年紀最大的。我們就那樣了。
+#a 45.05, None, 48.41
+
+13.
+...(1.9) ara-taatiaa-,/
+become-big
+變成-大
+
+#n 重音在aa的位置，拉長音代表話還沒說完。
+#a 48.41, None, 51.44
+#n 重音在aa的位置，拉長音代表話還沒說完。
+
+14.
+...(1.2) m-osa=cu na m-arisinatU,\
+AF-go=PART LOC AF-write
+主焦-去=語助詞 處格 主焦-寫
+
+#n m-osa為m-okusa的簡化。
+#n m-arisinatU有「寫字」、「讀書」、「上學」等等意思，此處應解為「上學」較符合上下文。另外，此處m-arisinatU變成如名詞的概念(學校；讀書的地方)，所以前面可以加上表示場所/動作目的地的助詞na。真正代表「學校」的詞彙為ta-risinata，其中ta-表示場所。
+#a 51.44, None, 54.45
+#n m-osa為m-okusa的簡化。
+#n m-arisinatU有「寫字」、「讀書」、「上學」等等意思，此處應解為「上學」較符合上下文。另外，此處m-arisinatU變成如名詞的概念(學校；讀書的地方)，所以前面可以加上表示場所/動作目的地的助詞na。真正代表「學校」的詞彙為ta-risinata，其中ta-表示場所。
+
+15.
+...(1.1) m-arisinatʉʉ._
+AF-write
+主焦-寫
+
+#e Growing up, I went to attend school and kept learning.
+#c 長大後，就去上學了，一直讀書。
+#n 尾音拉長可表示動作持續，也可以用重疊來表示持續：mari-sina-sinatʉ。
+#a 54.45, None, 56.63
+
+16.
+...(2.0) ma-tirupaang m-arisinatU po po'i=ci=kia,\
+AF-finish AF-write FS return=PART=1SG.NOM
+主焦-完成 主焦-寫 FS 回來=語助詞=1SG.主格
+
+#n po'i可表示「回來」或「回去」。
+#n 此處的=ci等同於=cu。以下同。
+#a 56.63, None, 62.26
+#n po'i可表示「回來」或「回去」。
+#n 此處的=ci等同於=cu。以下同。
+
+17.
+...(0.8) 'aan 'aan=ci=kia m-arisinatU,\
+NEG NEG=PART=1SG.NOM AF-write
+否定 否定=語助詞=1SG.主格 主焦-寫
+
+#n 'aan由ka'aan簡化而來，表示「不」。
+#a 62.26, None, 65.57
+#n 'aan由ka'aan簡化而來，表示「不」。
+
+18.
+...(1.6) er makasua=cu._
+FIL in.that.way=PART
+FIL 那樣=語助詞
+
+#e Finishing studying, I went back to home, I didn't (continue to) study. That was so.
+#c 完成學業我就回來，我就不(繼續)讀書了。就這樣。
+#a 65.57, None, 70.74
+
+19.
+...(3.3) ta'u tavarU'Un=ci=kia um-ara cau 'una Uncoo,\
+FS able=PART=1SG.NOM AF-take person EXIST FIL
+FS 可以=語助詞=1SG.主格 主焦-取 人 存在 FIL
+
+#n tavarU'U為「可以」、「知道」，而tavarU'Un(受焦形式)為「可以了」、「被知道」、「被了解」等等。
+#n 發音老師認為主焦形式的um-ara似乎有誤，因為發音人為女性，為被娶者，應用受焦形式。
+#a 70.74, None, 78.96
+#n tavarU'U為「可以」、「知道」，而tavarU'Un(受焦形式)為「可以了」、「被知道」、「被了解」等等。
+#n 發音老師認為主焦形式的um-ara似乎有誤，因為發音人為女性，為被娶者，應用受焦形式。
+
+20.
+...(3.3) er er ma-marang ma-kasi tia kan,\
+FIL FIL RED-old.man AF-say IRR KAN
+FIL FIL 重疊-長輩 主焦-說 非實現 KAN
+
+#n kan表據說。
+#a 78.96, None, 85.01
+#n kan表據說。
+
+21.
+...(0.8) poru po-ru'ucaang-Un misee po-ru'ucaang-Un mu-ru'ucaang ai er.\
+FS CAU-get.married-PF say CAU-get.married-PF AF-get.married FIL FIL
+FS 使役-結婚-受焦 說著 使役-結婚-受焦 主焦-結婚 FIL FIL
+
+#e My parents said (that they) wanted to make me get married.
+#c 我父母說要讓我結婚。
+#n 'ucaang為「配偶」，而mu-ru'ucaang為「結婚(主焦)」。
+#n 本句講得較零散，不確定中英文翻譯。
+#a 85.01, None, 92.76
+
+22.
+...(6.3) er,_
+FIL
+FIL
+
+#a 92.76, None, 99.43
+
+23.
+...(4.1) mu-ru'ucaang er=kim,\
+AF-get.married FIL=1EPL.NOM
+主焦-結婚 FIL=1EPL.主格
+
+#a 99.43, None, 105.44
+
+24.
+...(5.3) Mu Mu'u nganai-in Mu'u Mu'u PaicU,\
+FS Mu'u name-3SG.GEN Mu'u Mu'u PaicU
+FS Mu'u 名字-3SG.屬格 Mu'u Mu'u PaicU
+
+#n 本句講得顛三倒四且零零落落，是含蓄的表現。
+#a 105.44, None, 115.25
+#n 本句講得顛三倒四且零零落落，是含蓄的表現。
+
+25.
+...(1.7) sua nganai=mia,\
+NOM name=1EPL.GEN
+主格 名字=1EPL.屬格
+
+#a 115.25, None, 120.94
+
+26.
+...(2.9) makasua=cu=kim miana.\
+in.that.way=PART=1EPL.NOM past
+那樣=語助詞=1EPL.主格 以前
+
+#e Mu'u is his name, and Mu'u and PaicU are our names. We were so in the past.
+#c Mu'u是他的名字，Mu'u和PaicU是我們的名字。我們以前就是那樣了。
+#a 120.94, None, 126.86
+
+27.
+...(1.1) er ma-marurang m-arang=cu ma-marang=maku,\
+FIL RED-old.man AF-age=CU RED-old.man=1SG.GEN
+FIL 重疊-長輩 主焦-年老=CU 重疊-老人=1SG.屬格
+
+#a 126.86, None, 132.08
+
+28.
+...(0.9) 'aan=cu tavarU'U putukikio ma-u-'ura=pi=kim ma-u-'ura=pi=kim.\
+NEG=CU able work junior-RED-junior=still=1EPL.NOM junior-RED-junior=still=1EPL.NOM
+否定=CU 可以 工作 年幼-重疊-年幼=還=1EPL.主格 年幼-重疊-年幼=還=1EPL.主格
+
+#e (Our) parents got aged, (our) parents got aged (so that they) could not work, (but) we (siblings) were still very young.
+#c 父母年長了，我的父母年長了不能工作了，(但)我們(兄弟姊妹們)年紀還很小。
+#n 發音老師將「還」發為=pa。
+#n ma-u-'ura為複數，其單數為ma'ura。
+#a 132.08, None, 136.62
+
+29.
+...(3.5) 'akia,\
+NEG
+否定
+
+#a 136.62, None, 140.68
+
+30.
+...(1.6) kUn-a 'una ai m-UmUkU m-UmUkU ma-marang miana,\
+eat-REL EXIST FIL AF-grow AF-grow RED-old.man past
+吃-關係詞 存在 FIL 主焦-種植 主焦-種植 重疊-長輩 以前
+
+#a 140.68, None, 147.81
+
+31.
+... tanUkU tammi,\
+taro sweet.potato
+芋頭 地瓜
+
+#a 147.81, None, 150.17
+
+32.
+...(1.2) 'una vina'U,\
+EXIST millet
+存在 小米
+
+#a 150.17, None, 153.38
+
+33.
+...(2.1) kUn-a kUn-a miana.\
+eat-REL eat-REL past
+吃-關係詞 吃-關係詞 以前
+
+#e There was no food, (and our) parents grew taroes, sweet potatoes, millets in the past. (They were) the food in the past.
+#c 沒有食物，長輩們以前有種芋頭、地瓜和小米。(這些是)以前的食物。
+#a 153.38, None, 156.86
+
+34.
+...(2.8) makasua=ci=kia.\
+in.that.way=PART=1SG.NOM
+那樣=語助詞=1SG.主格
+
+#e There was no food, (and our) parents grew taroes, sweet potatoes, millets in the past. (They were) the food in the past. We were so.
+#c 沒有食物，長輩們以前有種芋頭、地瓜和小米。(這些是)以前的食物。我們就那樣了。
+#n 此處的=kia解為複數。以下同。
+#a 156.86, None, 161.14
+
+35.
+...(2.2) masiin m-arang m-arang=ci=kia masiin,\
+now AF-age AF-age=PART=1SG.NOM now
+現在 主焦-年老 主焦-年老=語助詞=1SG.主格 現在
+
+#a 161.14, None, 167.46
+
+36.
+...(2.0) m-arurang=ci=kia masiin,\
+AF-age=PART=1SG.NOM now
+主焦-年老=語助詞=1SG.主格 現在
+
+#n marang和marurang都可以表示「年長(動詞)」或是「長輩(名詞)」，兩者均為單數；其各自的複數形式為mamarang及mamarurang。
+#a 167.46, None, 170.89
+#n marang和marurang都可以表示「年長(動詞)」或是「長輩(名詞)」，兩者均為單數；其各自的複數形式為mamarang及mamarurang。
+
+37.
+...(0.7) 'akia er vaantuku 'aan=ci=kia tavarU'U ka-van-vaantuku m-arang=cu,\
+NEG FIL money NEG=PART=1SG.NOM able make-RED-money AF-age=PART
+否定 FIL 錢 否定=語助詞=1SG.主格 可以 做-重疊-錢 主焦-年老=語助詞
+
+#a 170.89, None, 176.19
+
+38.
+...(1.8) mi-aranasU=kia mamia,\
+AF-tough=1SG.NOM only
+主焦-困苦=1SG.主格 僅僅
+
+#a 176.19, None, 179.56
+
+39.
+...(3.0) sii 'akia manu saronai.\
+because NEG child male
+因為 否定 孩子 男性
+
+#e There was no money, I couldn't make money (because) I got aged. I could only be tough, because (my parents) didn't have any boy.
+#c 沒有錢，沒辦法賺錢，(因為)我年紀大了，我只有困苦著，因為(我父母)沒有男孩子。
+#a 179.56, None, 187.43
+
+40.
+...(1.7) ucaan mamia na kana-kana'ua=maku,_
+one only NA RED-older.sibling=1SG.GEN
+一 僅僅 NA 重疊-哥哥或姐姐=1SG.屬格
+
+#n 這句話發音人提到她只有一位兄姊，用複數型態的kana-kana'ua應是把自己算在裡面。由下文判斷此兄姊應該是哥哥，所以底下翻譯為哥哥。
+#n 這句的na的意思為「原來的」，為過世的人的格位標記。
+#a 187.43, None, 192.85
+#n 這句話發音人提到她只有一位兄姊，用複數型態的kana-kana'ua應是把自己算在裡面。由下文判斷此兄姊應該是哥哥，所以底下翻譯為哥哥。
+#n 這句的na的意思為「原來的」，為過世的人的格位標記。
+
+41.
+...(1.8) acecu 'akia=cu mamane.\
+leave.AF NEG=PART world
+離去.主焦 否定=語助詞 世間
+
+#e I only had one late older brother, (who already) left and was't in the world.
+#c 我只有一位哥哥，已經走了，不在人世間了。
+#n acecu表示「離去」，而mosa表示「行走」。
+#n mamane可表示「人間」、「宇宙」、「地球」。
+#a 192.85, None, 197.75
+
+42.
+...(2.3) er XX=ci=kim,\
+FIL XX=PART=1EPL.NOM
+FIL XX=語助詞=1EPL.主格
+
+#a 197.75, None, 203.27
+
+43.
+...(3.6) er cani pininga.\
+FIL one plaza
+FIL 一 廣場
+
+#e We the whole family....
+#c 我們一家人……了。
+#a 203.27, None, 209.21
+
+44.
+...(2.9) er umaraciku a um-ara=ci=kim rU'UvU rU'UvU kana'ua=maku,\
+FIL FS FIL AF=take=PART=1EPL.NOM partner partner older.sibling=1SG.GEN
+FIL FS FIL 主焦=取=語助詞=1EPL.主格 伴侶 伴侶 哥哥或姐姐=1SG.屬格
+
+#n umaraciku原為um-ara=ci=ku，意為「我娶……」，但其實發音人想說的是um-ara=ci=kim「我們(家)娶……」，所以判定前面為false start。
+#a 209.21, None, 216.31
+#n umaraciku原為um-ara=ci=ku，意為「我娶……」，但其實發音人想說的是um-ara=ci=kim「我們(家)娶……」，所以判定前面為false start。
+
+45.
+...(1.3) ucang kana'ua=maku.\
+spouse older.sibling=1SG.GEN
+配偶 哥哥或姐姐=1SG.屬格
+
+#e If the condition was like so, my heart would be relieved.
+#c 如果那樣的話，心裡就比較舒坦一點了。
+#a 216.31, None, 219.9
+
+46.
+...(2.4) ka'-anvuana ka'-anvuana sua 'Uncoo ni-ar-a=mia.\
+live-NU'Uvana live-瑪雅里 NOM FIL PFV-take-REL=1EPL.NOM
+住-瑪雅里 住-瑪雅里 主格 FIL 完成-取-關係詞=1EPL.主格
+
+#e We (our family) took my older brother's partner, my older brother's spouse, the person we took lived in NU'Uvana.
+#c 我們(家)娶了我哥哥的伴侶，我哥哥的配偶，我們所娶的是住瑪雅里的。
+#n ka-表示「住」，如ka-naan=kasu「你住哪裡」。
+#n 瑪雅里指的是高雄那瑪夏區的瑪雅里。
+#a 219.9, None, 225.37
+
+47.
+...(1.3) naannakU,\
+women
+女人們
+
+#n 發音老師認為此句有誤，應為單數的nanakU。
+#a 225.37, None, 227.57
+#n 發音老師認為此句有誤，應為單數的nanakU。
+
+48.
+...(1.1) XX=ci=kim arakukun mamanUUng._
+XX=PART=1EPL.NOM get.along.with good
+XX=語助詞=1EPL.主格 相處 好
+
+#e We ...got along with the woman (my older brother's spouse).
+#c 我們……跟那個女人(哥哥的老婆)很好的相處。
+#a 227.57, None, 231.06
+
+49.
+...(1.3) er noo no'onani-in,\
+FIL if afterwards-if
+FIL 如果 之後-如果
+
+#n 「之後」發音老師發為no'onaan。
+#n 有關的時間用語：masiin「現在」、koonpa「等一下(祈使句)」、nusoon「待會兒」、no'onaan「可預測或不可預測的之後」、nuari「未來」。
+#a 231.06, None, 236.95
+#n 「之後」發音老師發為no'onaan。
+#n 有關的時間用語：masiin「現在」、koonpa「等一下(祈使句)」、nusoon「待會兒」、no'onaan「可預測或不可預測的之後」、nuari「未來」。
+
+50.
+...(1.7) mararuai=ci=kim.\
+separate=PART=1EPL.NOM
+分開=語助詞=1EPL.主格
+
+#e Well, afterwards, we were separated from each other.
+#c 之後我們就分開了。
+#n 比較：mararuai為「分開」，用在分家或在叉路分開等等情況；而aratUkUn為「分離」，指兩個人不想在一起。
+#a 236.95, None, 240.15
+
+51.
+...(0.9) mu m-ucaan=cu nguani ka-ta-tanasa karanana=kim.\
+FS AF-leave=PART 3PL.NOM make-RED-house differ=1EPL.NOM
+FS 主焦-離去=語助詞 3PL.主格 製作-重疊-房子 不同=1EPL.主格
+
+#e They left to build (their) house, and were different from us.
+#c 他們就離開蓋房子，跟我們不同。
+#n 本句的ka-ta-tanasa之所以有重疊，是因為房子不是一天蓋好的，重疊用來表示動作的持續。
+#n 本句的「不同」指的是我們兩家就分家了，成了不同家的人。
+#a 240.15, None, 244.58
+
+52.
+...(5.0) er makasia=cu=kim mia-ranasU,\
+FIL in.this.way=PART=1EPL.NOM AF-tough
+FIL 這樣=語助詞=1EPL.主格 主焦-困苦
+
+#a 244.58, None, 252.68
+
+53.
+...(1.8) sii 'akia no-nonoman se-rupac-a._
+because NEG RED-tool SE-use-REL
+因為 否定 重疊-工具 SE-使用-關係詞
+
+#e We were tough in this way, because we didn't have the tools that we could use.
+#c 就這樣子，我們很困苦，因為沒有可以使用的各種工具。
+#n ia傾向會變音為e，如se-rupac-a本來為sia-rupac-a。
+#n se的意思為「用以」、「用來」，應為工具焦點。
+#n 此句的no-nonoman應該是指農事用的工具。
+#a 252.68, None, 259.25
+
+54.
+...(1.6) mataa,\
+and
+以及
+
+#n mataa可表示「和」、「與」、「以及」、「跟」等等。
+#a 259.25, None, 261.55
+#n mataa可表示「和」、「與」、「以及」、「跟」等等。
+
+55.
+...(5.5) er cinaa=maku na cinaa=maku m-arang kangvang na coomaku m-arang=cu kangvang,_
+FIL mother=1SG.GEN NA mother=1SG.GEN AF-age also NA my.father AF-age=PART also
+FIL 媽媽=1SG.屬格 NA 媽媽=1SG.屬格 主焦-年老 也 NA 我爸爸 主焦-年老=語助詞 也
+
+#n 此處的kangvang解為「也」。
+#a 261.55, None, 273.82
+#n 此處的kangvang解為「也」。
+
+56.
+...(1.2) er 'akia 'akia=cu masiin er,\
+FIL NEG NEG=PART now FIL
+FIL 否定 否定=語助詞 現在 FIL
+
+#n masiin「現在」為makasiin的簡化。
+#a 273.82, None, 278.43
+#n masiin「現在」為makasiin的簡化。
+
+57.
+...(5.8) 'akia 'akia=cu mamane masiin.\
+NEG NEG=PART world now
+否定 否定=語助詞 世間 現在
+
+#e (My) late mother also got old, (my) late father also got old; they don't exist now, they aren't in the world now.
+#c 原本的媽媽也年老了，原本的爸爸也年老了，現在沒有了，不在人間了。
+#a 278.43, None, 286.65

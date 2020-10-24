@@ -13,6 +13,7 @@
 
 #%%
 import re
+import logging
 
 def is_pureDM(x):
     # Specific rules
@@ -23,14 +24,15 @@ def is_pureDM(x):
     else: return False
 
 
-def align(ori, en="", ch=""):
+def align(ori, en="", ch="", gloss_id=""):
     ori = ori.split()
     en = [ t for t in en.split() if t != "." ]
     ch = [ t for t in ch.split() if t != "." ]
 
+    error = {"error": False, "id": gloss_id}
     if len(en) != len(ch):
-        print("Different lengths of en and ch annotation")
-        raise Exception("Invalid Gloss Format!") 
+        logging.warning(f"Diff. num of tokens in EN & CH annot:\t{gloss_id}")
+        #raise Exception("Invalid Gloss Format!") 
 
     tokens = [{'ori': ori_tk, 'en': '', 'ch': '', 'is_DM': True} for ori_tk in ori]
     
@@ -59,30 +61,3 @@ def align(ori, en="", ch=""):
 
     return tokens 
         
-#%%
-
-
-##############
-# TOKENS
-##############
-
-TK_L2_lBracket = 'L2_lBracket'
-TK_L2_rBracket = 'L2_rBracket'
-TK_LAUGHTER_lBracket = 'LAUGHTER_lBracket'
-TK_LAUGHTER_rBracket = 'LAUGHTER_rBracket'
-
-
-
-class Token:
-
-    def __init__(self, type_, value_):
-        self.type = type_
-        self.value = value_
-
-    def __repr__(self):
-        if self.value:
-            return f"{self.type}:{self.value}"
-        return f"{self.type}"
-
-
-

@@ -1,0 +1,295 @@
+topic: sinobale
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 邱紅春蘭, Uma Nokan, female, 1932
+collected: 1997-04-04
+revised: 2014-2-10
+video: sdqNr-sinobale_uma.mp3
+
+1.
+... nii ka beras dhequy snag-un qsiya,\
+this NOM rice sticky.rice wash-PF water
+這個 主格 米 糯米 洗-受焦 水
+
+#e Firstly, wash sticky rice with water,
+#c 先用水將糯米洗過，
+#n IU1 beras dehequy 'sticky rice糯米'
+#n IU1 snagun is from smino 'to wash'. Other forms are snagi, snagan 'things that can be washed 洗一般的物品' , psnagi 'ask someone to wash', psnagan 
+#n IU1 msino 'brew釀酒'
+#a 0.13, None, 2.42
+
+2.
+... ma==,\
+then
+然後
+
+#a 2.42, None, 3.55
+
+3.
+... rbeg-un a==,\
+soak-PF FIL
+泡-受焦 FIL
+
+#a 3.55, None, 5.46
+
+4.
+... ani naq <L2JLsanjikangL2J>,\
+although self three.hours
+即使 自己 三個小時
+
+#e then soak the washed sticky rice into water for three hours.
+#c 接著將洗過的糯米浸泡在水中約三小時，
+#n IU3 rbegun 'soak into water以水浸泡' is related to rmebu, rbegi, rbegun, rbegan, runbegan/rnbegan 'things that are soaked/water that is used for washing rice泡過之物；洗米水'。
+#n sino bale is also called sino seediq. Its original name was qnepu. Qnepu refers to filtrated liquid. / sino bale 又稱sino seediq, 其實它最初的稱謂是 qnepu. Qnepu是「經篩子過濾之液體」的意思。
+#a 5.46, None, 7.23
+
+5.
+...(0.8) ma rbeg-i ma ma,\
+then soak-PF.IMP then then
+然後 泡-受焦.祈使 然後 然後
+
+#e After soaking sticky rice into water,
+#c 糯米泡水後，
+#a 7.23, None, 9.25
+
+6.
+... kika hlma-un=su,\
+thus steam-PF=2SG.GEN
+所以 蒸煮-受焦=2SG.屬格
+
+#a 9.25, None, 11.01
+
+7.
+.. kulu hlama di.\
+steam.box rice.cake PFV.PART
+蒸桶 糯米糕 完成.語助詞
+
+#e you use steaming box to steam the sticky rice.
+#c 妳用蒸桶將糯米蒸煮。
+#n IU7 hlmaun is from hlama 'sticky rice/cake (noun) 糯米飯、糖果（名詞）', hmlama 'steam sticky rice (verb) 蒸煮糯米飯（動詞）'. Other forms are hlmai, hlmaun, hlmaan.
+#n Seediq steam box (蒸桶) is made by Firmiana simplex梧桐.
+#n duhung 'mortar 臼', seru 'mallet杵'. They are made of tgebin ' zelkova tree櫸木'.
+#a 11.01, None, 12.13
+
+8.
+...(1.2) m-hada pray-un=su==,\
+AF-finish cook-PF=2SG.GEN
+主焦-結束 煮-受焦=2SG.屬格
+
+#a 12.13, None, 15.22
+
+9.
+.. puniq ma,\
+fire PART
+火 語助詞
+
+#e you use fire to steam up.
+#c 妳用柴火蒸熟，
+#n IU8 Mahada means 'mature (fruit)', 'cooked well', and 'boiled well' 
+#n IU8 prayun is from pure 'cook煮飯'. Other forms are prai, prayun/praun, prayan/praan, hpurai, hprayun, hprayan, hnprayan 'cooked food', sapah pprayan 'kitchen廚房'.
+#a 15.22, None, 15.87
+
+10.
+... m-hada hlama kii de,\
+AF-finish rice.cake that PART
+主焦-結束 糯米糕 那個 語助詞
+
+#e After the sticky rice steamed well,
+#c 糯米蒸熟後，
+#a 15.87, None, 17.62
+
+11.
+... p-kru-un btuku di.\
+CAU-pour-PF plate PFV.PART
+使役-倒入-受焦 圓箕 完成.語助詞
+
+#e put it into round-shaped tray.
+#c 把它倒在圓箕裡。
+#n IU11 pkruun is from pkeru/mkeru 'pour倒入'. Other forms are pkrui 'ask someone to pour', pkruun, pkruan, kpurui 'pour: speakers action'.
+#a 17.62, None, 19.31
+
+12.
+... kru-un btuku ma,\
+pour-PF plate then
+倒入-受焦 圓萁 然後
+
+#e pout into the round-shaped plate.
+#c 倒在圓箕裡。
+#n IU12 in pkruun, p is almost inaudible.
+#a 19.31, None, 20.93
+
+13.
+... tleetu ma==,\
+AF.chill then
+主焦.冷卻 然後
+
+#a 20.93, None, 22.72
+
+14.
+hlama kii de,\
+sticky.rice that PART
+糯米飯 那個 語助詞
+
+#e When the sticky rice cools down to room temperature,
+#c 糯米飯冷卻到常溫時，
+#n IU13 mtilux 'heat up'
+#n IU13 tleetu 'room temperature 指常溫的溫度' Tltei 'put something hot in room temparature to make it cool down將熱的物品冷卻'. Other forms are tlteun, tltean, tleetu.
+#a 22.72, None, 23.43
+
+15.
+...(0.7) t<m>amun di.\
+<AF>put.malted.rice PFV.PART
+<主焦>放酒麴 完成.語助詞
+
+#e you put malted rice (it should be mixed evenly).
+#c 就灑上酒麴（要攪拌均勻），
+#a 23.43, None, 25.03
+
+16.
+.. t<m>amun t<m>amun tamun di.\
+<AF>malted.rice <AF> malted.rice malted.rice PFV.PART
+<主焦>酒麴 <主焦>酒麴 酒麴 完成.語助詞
+
+#e Put malted rice,
+#c 灑上酒麴，
+#n IU16 tmamun 'put malted rice into something 以酒麴混入某物' tamun 'malted rice (noun)/酒麴（名詞）' or 'Mallotus paniculatus白匏樹'.
+#a 25.03, None, 26.89
+
+17.
+... ma kika==,\
+then thus
+然後 所以
+
+#a 26.89, None, 28.48
+
+18.
+... bung-un=su a==,\
+cover-PF=2SG.GEN FIL
+蓋-受焦=2SG.屬格 FIL
+
+#e and then, cover it up.
+#c ..接著.將它蓋起來。
+#n IU18 bungun 'cover蓋住'is related to mubung, bungi, bungun, bungan.
+#a 28.48, None, 30.05
+
+19.
+... m-- a-- m-hedu=su t<m>amun de bung-un=su di ma,\
+FS FS AF-finish=2SG.NOM <AF>malted.rice PART cover-PF=2SG.GEN PFV.PART then
+FS FS主焦-完成=2SG.主格 <主焦>酒麴 語助詞 蓋-受焦=2SG.屬格 完成.語助詞 然後
+
+#a 30.05, None, 33.64
+
+20.
+... kika==,\
+thus
+所以
+
+#e After you mix the sticky rice and koji evenly, you cover it up, then,
+#c 妳將糯米飯與酒麴混合均勻後，妳就把它蓋起來...那麼（接下來），
+#a 33.64, None, 34.89
+
+21.
+... mk-teru de m-tilux de,\
+MK-three PART AF-hot PART
+MK-三 語助詞 主焦-熱 語助詞
+
+#e after three days (due to catalysis), sticky rice become heated.
+#c 過了三天（因酒麴發酵）糯米飯會發熱，
+#n IU21 mkdaha 'after two days 經過兩天', mksepac 'after four days經過四天',
+#a 34.89, None, 37.08
+
+22.
+... ng^al-un=su du ma psa-un=su salo di.\
+take-PF=2SG.GEN PFV.PART then put-PF=2SG.GEN container PFV.PART
+拿-受焦=2SG.屬格 完成.語助詞 然後 放-受焦=2SG.屬格 容器 完成.語助詞
+
+#e So, put it inside salo (a kind of container).
+#c 就把它放入容器（salo）中。
+#n IU22 ngalun 'take取拿'is related to mangan, ngali, ngalun, ngalan
+#n IU22 psaun 'put放置' is related to paha, psai, psaun, psaan.
+#a 37.08, None, 40.56
+
+23.
+... salo ma psa-un qsiya di ma,\
+container then put-PF water PFV.PART then
+容器 然後 放-受焦 水 完成.語助詞 然後
+
+#a 40.56, None, 42.82
+
+24.
+... psa-un biciq qsiya wa psa-un betaq bale hini qsiya.\
+put-PF AF.small water PART put-PF AF.arrive real here water
+放-受焦 主焦.小 水 語助詞 放-受焦 主焦.到達 真的 這裡 水
+
+#e (When you put steamed rice into a container), pour a little water, only up to here. 
+#c （已發酵的糯米飯置入容器中時）加少許的水，只能加水到這裡，
+#n IU24 she is probably making a gesture explaining that water should be poured until certain point.
+#a 42.82, None, 45.94
+
+25.
+.. kes-un g<m>^egang ma==,\
+say-PF <AF>mix then
+說-受焦 <主焦>攪拌 然後
+
+#e Like this way, mix them,
+#c 這樣子將它攪拌，
+#n IU25 gmegang 'mix攪拌' is related to ggami, ggamun, ggaman.
+#a 45.94, None, 47.75
+
+26.
+... kika==,\
+thus
+所以
+
+#a 47.75, None, 49.08
+
+27.
+... gmuk-i di ma,\
+cover.up-PF.IMP PFV.PART then
+蓋起來-受焦.祈使 完成.語助詞 然後
+
+#a 49.08, None, 51.07
+
+28.
+... tikuh e--,\
+a.little FS
+少 FS
+
+#e then, cover it. A little...
+#c 那麼把它蓋起來...少..
+#n IU27 gmuki 'cover蓋住' is related to gmemuk, gmukun, gmukan.
+#a 51.07, None, 52.62
+
+29.
+... ani naq a mk-maxan hari de,\
+although self FIL MK-ten a.little PART
+即使 自己 FIL MK-十 一點 語助詞
+
+#a 52.62, None, 55.62
+
+30.
+malu di ngal-i di,\
+AF.good PFV.PART take-PF.IMP PFV.PART
+主焦.好 完成.語助詞 拿-受焦.祈使完成.語助詞
+
+#e after about ten days, it brews well, then take it out,
+#c 約過了10天後..就（釀）好了，把它取出來，
+#a 55.62, None, 56.59
+
+31.
+... sino di.\
+liquor PFV.PART
+酒 完成.助動詞
+
+#e it already is liquor.
+#c 那就是酒了。
+#a 56.59, None, 57.96
+
+32.
+...(0.7) so kiya.\
+be.like that
+像 那樣
+
+#e That is it.
+#c 就這樣。
+#a 57.96, None, 59.19

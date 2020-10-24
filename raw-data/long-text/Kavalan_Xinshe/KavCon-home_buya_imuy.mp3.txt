@@ -1,0 +1,2238 @@
+topic: Returning Home
+type: Conversation
+language: 噶瑪蘭語, Kavalan, Xinshe (新社)
+speaker: 潘金妹, Imuy, female, 1952-10-25
+collected: 2003-06-01
+revised: 2014-1-15
+video: KavCon-home_buya_imuy.mp3
+
+1.
+I: maken,_
+. real
+. 真的
+
+#a 19.96, None, 20.52
+
+2.
+… tangi  haw,\
+ today  PART
+ 今天   語助詞
+
+#a 20.52, None, 21.37
+
+3.
+…(1.2) tanan=pa=imi,\
+ return=FUT=1EPL.NOM
+ 回=未來=1EPL.主格
+
+#a 21.37, None, 23.46
+
+4.
+… anu   temawaR    si,\
+ if   tomorrow  COND
+ 如果   明天      條件詞
+
+#e We are returning home tomorrow.
+#c 我們明天要回去。
+#a 23.46, None, 25.02
+
+5.
+…(0.8) yau   a  lanas-niq,\
+ EXIST  NOM  matter-1EPL.GEN
+ 存在  主格  事情-1EPL.屬格
+
+#a 25.02, None, 26.97
+
+6.
+.. qa-ngid   tanan   sa==,\
+QA-want  return    LOC
+QA-想要  回來    處格
+
+#a 26.97, None, 28.44
+
+7.
+.. kalinku   anu  temawaR,\
+Hualien  DM  tomorrow
+花蓮   DM  明天
+
+#a 28.44, None, 30.02
+
+8.
+… zin-ku        nani.\
+ say-1SG.GEN  DM
+ 說-1SG.屬格   DM
+
+#e We have things (to do) tomorrow and want to go back to Hualian.
+#c 我們明天有事情，想要回去花蓮。
+#a 30.02, None, 31.45
+
+9.
+… mai==,\
+ NEG
+ 否定
+
+#a 31.45, None, 32.45
+
+10.
+.. qawtu,\
+come
+來
+
+#a 32.45, None, 33.22
+
+11.
+… anu   temawaR   anu==,_
+ if   afterwards  if
+ 如果   以後   如果
+
+#n temawaR之後的時間都可以叫temawaR
+#a 33.22, None, 35.28
+#n temawaR之後的時間都可以叫temawaR
+
+12.
+… iza       u,\
+  sometime  PART
+  某時     語助詞
+
+#a 35.28, None, 36.46
+
+13.
+.. anu  qawtu-an  pasazi    tazian,\
+if  come-LF  toward.here  here
+如果  來-處焦  往這裡   這裡
+
+#e I probably won’t have time to come here next time.
+#c 下次可能沒時間來這裡。
+#a 36.46, None, 38.18
+
+14.
+.. pasi   mai=pama  qawtu.\
+possible  NEG=yet    come
+可能   否定=還    來
+
+#e Maybe (I) won’t be able to come.
+#c 也許還沒辦法來。
+#a 38.18, None, 39.56
+
+15.
+…(1.0) si==,\
+ ??
+ ??
+
+#a 39.56, None, 40.77
+
+16.
+.. qumni  wanay  yau=ti   ‘nay  nani==.\
+when  ??      EXIST=PFV  that   DM
+何時   ??     存在=完成   那個   DM
+
+#n qumni wanay: 不知道什麼時候
+#a 40.77, None, 42.57
+#n qumni wanay: 不知道什麼時候
+
+17.
+.. <L2MtongzhiL2M>  na==,\
+notification    GEN
+通知     屬格
+
+#a 42.57, None, 43.5
+
+18.
+… na   singsi   si.\
+ GEN   teacher  COND
+ 屬格   老師   條件詞
+
+#a 43.5, None, 44.9
+
+19.
+.. awka=imi,\
+just=1EPL.NOM
+才=1EPL.主格
+
+#a 44.9, None, 45.62
+
+20.
+.. mawtu    uman,\
+AF.come  again
+主焦.來    再
+
+#a 45.62, None, 46.6
+
+21.
+.. zin-ku.\
+say-1SG.GEN
+說-1SG.屬格
+
+#e I will come here sometime when the teacher notifies me.
+#c 不知道什麼時候老師通知我再回來。
+#a 46.6, None, 47.37
+
+22.
+…(1.6) nani.\
+ DM
+ DM
+
+#a 47.37, None, 49.49
+
+23.
+…(0.7) anu==,\
+ if
+ 如果
+
+#a 49.49, None, 51.18
+
+24.
+.. yau=ti     ‘nay==,\
+EXIST=PFV  that
+存在=完成  那個
+
+#a 51.18, None, 52.5
+
+25.
+… <L2MtongzhiL2M>  na   singsi   si,_
+ notification   GEN  teacher  COND
+ 通知    屬格  老師   條件詞
+
+#a 52.5, None, 54.27
+
+26.
+.. awka=imi,\
+just=1EPL.NOM
+才=1EPL.主格
+
+#a 54.27, None, 55.0
+
+27.
+.. mawtu  uman  pasazi      tazian  ta==-,\
+AF.come again  toward.here  here  LOC-
+主焦.來 再    過來     這裡  處格-
+
+#a 55.0, None, 56.94
+
+28.
+.. <L2MtaidaL2M>-an  zin-ku.\
+National.Taiwan.University-LOC    say-1SG.GEN
+台大-處格  說-1SG.屬格
+
+#a 56.94, None, 58.25
+
+29.
+… ni==,\
+ GEN
+ 屬格
+
+#a 58.25, None, 59.67
+
+30.
+.. sikawma.\
+speak
+講
+
+#e We will come again to NTU if notified.
+#c 有通知的話再到台大。
+#a 59.67, None, 60.46
+
+31.
+B: m.\
+. BC
+. BC
+
+#a 60.46, None, 63.34
+
+32.
+…(2.5) azu   manan=ita      si,_
+ seem  return=1IPL.NOM   COND
+ 好像  回=1IPL.主格    條件詞
+
+#e After we return home,
+#c 如果回家之後，
+#a 63.34, None, 67.02
+
+33.
+.. (THROAT),\
+.
+.
+
+#a 67.02, None, 67.53
+
+34.
+…(1.8) yau=pama  sa==-,\
+ EXIST=still  FUT-
+ 存在=還   未來-
+
+#a 67.53, None, 70.0
+
+35.
+.. sin-sanu-an    tu    zana     la==,\
+REC-talk-NMZ  OBL   3SG.POSS  DM
+交互-談-名物化  斜格   3SG.所有格  DM
+
+#a 70.0, None, 71.95
+
+36.
+I: na==,\
+.  DM
+.  DM
+
+#a 71.95, None, 73.04
+
+37.
+B: zin-na=ay.\
+. say-3SG.GEN=REL
+. 說-3SG.屬格=關係詞
+
+#a 73.04, None, 73.92
+
+38.
+… atu  zana==,\
+ and  3SG.POSS
+ 和   3SG.所有格
+
+#a 73.92, None, 75.13
+
+39.
+.. lepaw=ay   zin-ku         nani.\
+house=REL   say-1SG.GEN    DM
+家=關係詞  說-1SG.屬格   DM
+
+#e We still need to talk about some family matters.
+#c 我們還要談家裡的事情。
+#a 75.13, None, 76.32
+
+40.
+… uta,\
+ FS
+ FS
+
+#a 76.32, None, 76.92
+
+41.
+… aisu  i,\
+ 2SG.NOM  FS
+ 2SG.主格 FS
+
+#a 76.92, None, 77.9
+
+42.
+.. aisu==,\
+2SG.NOM
+2SG.主格
+
+#a 77.9, None, 78.93
+
+43.
+…(0.7) supaR=ay     si.\
+ know=REL   COND
+ 知道=關係詞   條件詞
+
+#e You know more.
+#c 你比較懂。
+#a 78.93, None, 80.46
+
+44.
+…(1.6) naquni  ni-kasianem-su   zin-ku.\
+ how    PFV-think-2SG.GEN  say-1SG.GEN
+ 如何   完成-想-2SG.屬格    說-1SG.屬格
+
+#e I want to know your opinion.
+#c 我想知道你的想法是什麼。
+#a 80.46, None, 83.87
+
+45.
+I: anu  nianu  zin-numi      sa-swani=ay   si,\
+. if  what  say-2PL.GEN   ??-younger.sibling=REL  COND
+. 如果  什麼  說-2PL.屬格   ??-弟妹=關係詞      條件詞
+
+#e If you younger generation decides on anything,
+#c 你們做弟妹的如果決定什麼事，
+#n swani 弟弟妹妹, qenaswani親戚朋友
+#a 83.87, None, 86.87
+
+46.
+.. nianatiziku,\
+I.have.no.opinion
+我沒有意見
+
+#a 86.87, None, 87.76
+
+47.
+.. aiku     sa-qaqa=ay  zin-ku          ya.\
+1SG.NOM  ??-elder.sibling=REL  say-1SG.GEN   PART
+1SG.主格  ??-兄姐=關係詞  說-1SG.屬格    語助詞
+
+#e As a sister, I don’t have any opinion.
+#c 我做大姐的沒有什麼意見。
+#a 87.76, None, 89.48
+
+48.
+B: hm.\
+. BC
+. BC
+
+#a 89.48, None, 89.97
+
+49.
+…(2.3) (THROAT),\
+ .
+ .
+
+#a 89.97, None, 92.46
+
+50.
+.. qawman  kilim-an-ta    ‘nay,\
+certainly  look.for-LF-1IPL.GEN    that
+當然     找-處焦-1IPL.屬格  那個
+
+#a 92.46, None, 93.84
+
+51.
+.. qenaswani-ta==,_
+sibling-1IPL.GEN
+手足-1IPL.屬格
+
+#n qawman「只好；一定；當然」
+#a 93.84, None, 94.93
+#n qawman「只好；一定；當然」
+
+52.
+.. qa-lisimpu  qawka.\
+QA-gather  just
+QA-集合   才
+
+#n 也可以講qa-lisimpu awka
+#a 94.93, None, 96.54
+#n 也可以講qa-lisimpu awka
+
+53.
+.. [m-iza]       tu==,\
+AF-do.something  OBL
+主焦-做某事     斜格
+
+#a 96.54, 96.67, 97.95
+
+54.
+I: [hm].\
+. BC
+. BC
+
+#a 97.95, 96.71, 96.96
+
+55.
+B: [lanas-ta].\
+. matter-1IPL.GEN
+. 事情-1IPL.屬格
+
+#e We certainly will gather our siblings and take care of some matters.
+#c 我們當然要找我們的兄弟姊妹聚在一起，處理一些事情。
+#n m-iza aisu tu ninu? 你在做什麼
+#a 96.96, 97.98, 99.1
+
+56.
+I: [nayawu],\
+. that.way
+. 那樣
+
+#a 99.1, 98.67, 99.15
+
+57.
+.. nayawu  sayzi.\
+that.way  exactly
+那樣   就是
+
+#e Exactly so.
+#c 就是這樣啊。
+#a 99.15, None, 100.3
+
+58.
+B: 'nay  zena    tazian  nani==,\
+. that  paddy   here    DM
+. 那個  水田   這裡   DM
+
+#a 100.3, None, 104.92
+
+59.
+…(0.7) pameng  ma   ma-iza.\
+ could.only   DM  MA-do.something
+ 只好       DM  MA-做某事
+
+#e The paddy has become like this.
+#c 那塊田現在變成這樣。
+#a 104.92, None, 106.74
+
+60.
+… ma==,\
+ MA
+ MA
+
+#a 106.74, None, 108.08
+
+61.
+…(1.8) pun   lanas-na,\
+ finish  matter-3SG.GEN
+ 完成  事情-3SG.屬格
+
+#a 108.08, None, 110.91
+
+62.
+.. tu  zana==,\
+OBL 3SG.POSS
+斜格 3SG.所有格
+
+#a 110.91, None, 111.39
+
+63.
+.. ni-ala-an-na==,\
+PFV-take-NMZ-3SG.GEN
+完成-拿-名物化-3SG.屬格
+
+#a 111.39, None, 112.35
+
+64.
+.. lazan  ‘nay  zin-ku  nani.\
+road   that  say-1SG.GEN  DM
+路    那個  說-1SG.屬格   DM
+
+#e About the land, that the land was levied is not settled yet.
+#c 關於那塊地呢，地被道路徵收的事情還沒解決。
+#a 112.35, None, 113.4
+
+65.
+I: tayan  ta-sinsya-an     nanay,\
+. there  LOC-xinshe-LOC  DM
+. 那裡  處格-新社-處格   DM
+
+#e The land in Xinshe.
+#c 在新社的那塊田。
+#a 113.4, None, 115.57
+
+66.
+B: hm./
+. BC
+. BC
+
+#a 115.57, None, 116.01
+
+67.
+I: m.\
+. BC
+. BC
+
+#a 116.01, None, 116.37
+
+68.
+B: m.\
+. BC
+. BC
+
+#a 116.37, None, 117.37
+
+69.
+… pata==z  m-iza        ti==-,\
+ often   AF-do.something  NCM-
+ 常常   主焦-做某事      NCM-
+
+#a 117.37, None, 119.16
+
+70.
+… <L2TabuL2T>  tayan  tu==,\
+ mother     there   TU
+ 母親       那裡  TU
+
+#a 119.16, None, 120.61
+
+71.
+… mana    ma==i=pama,_
+ why    NEG=yet
+ 為什麼  否定=還
+
+#e Mother often asks why the thing hasn’t been solved yet.
+#c 媽媽常常在問這件事為什麼還沒解決。
+#a 120.61, None, 122.43
+
+72.
+I: [sim--],\
+. .
+. .
+
+#a 122.43, 123.44, 124.11
+
+73.
+B: [m-zukat],\
+. AF-go.out
+. 主焦-出去
+
+#a 124.11, 123.9, 124.47
+
+74.
+… sa-iza-an-na   sab,\
+ FUT-do.something-NMZ-3SG.GEN  FS
+ 未來-做某事-名物化-3SG.屬格  FS
+
+#a 124.47, None, 125.9
+
+75.
+… sa-bula-an-na  timaitaan       [tu==],\
+ FUT-give-NMZ-3SG.GEN  1IPL.LOC   OBL
+ 未來-給-名物化-3SG.屬格  1IPL.處格  斜格
+
+#a 125.9, 126.07, 128.41
+
+76.
+I: [kelisiw].\
+.  money
+.  錢
+
+#a 128.41, 128.17, 128.78
+
+77.
+B: kelisiw  ‘nay  zana     iza=ay.\
+. money  that  3SG.POSS  do.something=REL
+. 錢   那個  3SG.所有格  做某事=關係詞
+
+#e Why isn’t the money given to us yet?
+#c 錢怎麼還沒撥下來？
+#a 128.78, None, 130.45
+
+78.
+… m,\
+ FIL
+ FIL
+
+#a 130.45, None, 131.11
+
+79.
+.. zin-na       ni  <L2TabuL2T>  nani.\
+say-3SG.GEN  GEN   mother    DM
+說-3SG.屬格   屬格   母親     DM
+
+#e Mother said so.
+#c 媽媽這樣說。
+#a 131.11, None, 132.18
+
+80.
+…(1.4) pataz-an-ku   m-iza             qaya,\
+ often-LF-1SG.GEN   AF-do.something   also
+ 常常-處焦-1SG.屬格  主焦-做某事      也
+
+#a 132.18, None, 134.85
+
+81.
+.. pa-lingwa    nani.\
+??-telephone  DM
+??-電話      DM
+
+#e I also call (them) often.
+#c 我也時常打電話。
+#a 134.85, None, 135.66
+
+82.
+…(1.5) yau   sayzi   ni-iza-an-na        ni==,\
+ EXIST  exactly  PFV-do.something-NMZ-3SG.GEN  GEN
+ 存在  就是    完成-做某事-名物化-3SG.屬格   屬格
+
+#a 135.66, None, 139.66
+
+83.
+…(1.7) ni-patuqes-an-na,\
+ PFV-reply-NMZ-3SG.GEN
+ 完成-回覆-名物化-3SG.屬格
+
+#a 139.66, None, 142.21
+
+84.
+.. X,\
+X
+X
+
+#e They also replied.
+#c 對方也有答覆。
+#a 142.21, None, 142.83
+
+85.
+I: ni==,\
+. FS
+. FS
+
+#a 142.83, None, 144.63
+
+86.
+.. sika   ni==,\
+FS   FS
+FS   FS
+
+#a 144.63, None, 145.81
+
+87.
+.. pa-lingwa-an-na  [na==],\
+??-telephone-LF-3SG.GEN GEN
+??-電話-處焦-3SG.屬格   屬格
+
+#a 145.81, 145.85, 147.06
+
+88.
+B: [m].\
+.  BC
+.  BC
+
+#a 147.06, 146.91, 147.22
+
+89.
+I: iza,_
+. do.something
+. 做某事
+
+#e You call them.
+#c 你打電話給對方。
+#a 147.22, 147.08, 147.45
+
+90.
+.. na==,\
+GEN
+屬格
+
+#a 147.45, None, 148.32
+
+91.
+…(1.6) zana   nianu=ay=ti   ‘nay._
+ 3SG.POSS    what=REL=PFV  that
+ 3SG.所有格  什麼=關係詞=完成  那個
+
+#e Which thing do you mean?
+#c 你指的是哪一件事？
+#a 148.32, None, 151.19
+
+92.
+B: lazan  ‘nay,\
+. road  that
+. 路  那個
+
+#a 151.19, None, 152.04
+
+93.
+…(0.7) ni-ala-an-na   lazan  ‘nay  zena     ‘nay  kwa  nani.\
+ PFV-take-NMZ-3SG.GEN  road  that  paddy   that  PART  DM
+ 完成-拿-名物化-3SG.屬格  路   那個  水田   那個  語助詞  DM
+
+#e The thing about the road being levied.
+#c 地被路徵收的那件事啊。
+#n kwa對方已經知道的意思
+#a 152.04, None, 154.67
+
+94.
+I: m.\
+. BC
+. BC
+
+#a 154.67, None, 154.99
+
+95.
+B: pama,\
+. yet
+. 還
+
+#e Not yet.
+#c 還沒有。
+#a 154.99, None, 156.71
+
+96.
+I: [anu],\
+. if
+. 如果
+
+#a 156.71, 157.48, 157.94
+
+97.
+B: [mawtu]   ‘nay==,\
+. AF.come    that
+. 主焦.來   那個
+
+#a 157.94, 157.56, 158.75
+
+98.
+.. sudad  ‘nay  tangi,\
+book   that  today
+書    那個   今天
+
+#a 158.75, None, 159.93
+
+99.
+.. zin-na       kya.\
+say-3SG.GEN    PART
+說-3SG.屬格    語助詞
+
+#e Mother said that the official document would be issued today.
+#c 媽媽說今天公文會下來。
+#a 159.93, None, 160.69
+
+100.
+I: tanian   ta   <L2MhualienL2M>  <L2MnaliL2M>.\
+. where  LOC   Hualien  where
+. 哪裡   處格  花蓮     哪裡
+
+#e Where in Hualian?
+#c 在花蓮哪裡?
+#a 160.69, None, 162.35
+
+101.
+B: ‘nay  <L2MhualiendaqiaoL2M>  ‘nay   kwa.\
+. that    Hualien.bridge     that   PART
+. 那個   花蓮大橋      那個    語助詞
+
+#e At Hualian bridge.
+#c 花蓮大橋那裡。
+#a 162.35, None, 164.34
+
+102.
+I: a   ti-<L2MhuangxianshengL2M>  ‘nay.\
+. FIL  NCM-Mr.Huang   that
+. FIL  NCM-黃先生   那個
+
+#a 164.34, None, 165.75
+
+103.
+B: m==,\
+.  BC
+.  BC
+
+#a 165.75, None, 166.38
+
+104.
+.. m.\
+BC
+BC
+
+#a 166.38, None, 167.05
+
+105.
+…(2.1) pataz-ika   pa-lingwa    zin-na       ni  <L2TabuL2T>.\
+ often-LF.IMP  ??-telephone  say-3SG.GEN  GEN    mother
+ 常常-處焦.祈使  ??-電話     說-3SG.屬格  屬格    母親
+
+#e Mother tells me to call them often.
+#c 媽媽叫我要常常打電話過去。
+#a 167.05, None, 171.07
+
+106.
+…(0.7) nani.\
+ DM
+ DM
+
+#a 171.07, None, 172.2
+
+107.
+I: [mai==],\
+. NEG
+. 否定
+
+#a 172.2, 172.63, 173.2
+
+108.
+B: [sa-<L2MlibayL2M>-an],\
+. ??-week-??
+. ??-禮拜-??
+
+#a 173.2, 172.94, 173.76
+
+109.
+.. qa-zusa-an-ku      pa-lingwa  nani==.\
+QA-twice-LF-1SG.GEN    ??-telephone  DM
+QA-兩次-處焦-1SG.屬格   ??-電話     DM
+
+#e I call twice a week.
+#c 我一個禮拜打兩次電話。
+#a 173.76, None, 175.49
+
+110.
+…(1.3) ipili X,\
+ ??  X
+ ??  X
+
+#a 175.49, None, 177.43
+
+111.
+… palana=iku,\
+ wait=1SG.NOM
+ 等=1SG.主格
+
+#a 177.43, None, 178.36
+
+112.
+.. palana-ika=ti  lingwa-ku           zin-na,\
+wait-LF.IMP=PFV  telephone-1SG.GEN   say-3SG.GEN
+等-處焦.祈使=完成  電話-1SG.屬格    說-3SG.屬格
+
+#e He said, “Wait for my call.”
+#c 他說, 等我的電話。
+#n palana=iku/palana-an-ku/m-lana=iku ti-abas-an: 我在等Abas
+#a 178.36, None, 180.29
+
+113.
+… stangi  mai=pama  nani.\
+ now  NEG=yet   DM
+ 現在  否定=還   DM
+
+#e No calls yet.
+#c 到現在還沒有。
+#n tuzuz tu tangi 直到現在
+#a 180.29, None, 181.9
+
+114.
+… amawaR   manan=ita        si,_
+ next.time  return=1IPL.NOM    COND
+ 下次     回=1IPL.主格      條件詞
+
+#e Next time we go back,
+#c 下次我們回去的時候,
+#a 181.9, None, 183.21
+
+115.
+I: teqaz-an-su=pa=ti.\
+. stop-LF-2SG.GEN=FUT=PFV
+. 停-處焦-2SG.屬格=未來=完成
+
+#e You stop by (and take care of that)?
+#c 你就停下來(辦一辦)?
+#a 183.21, None, 184.53
+
+116.
+B: teqaz-an  nengi=ti,\
+. stop-LF  good=PFV
+. 停-處焦   好=完成
+
+#a 184.53, None, 186.57
+
+117.
+.. azu==,\
+seem
+好像
+
+#a 186.57, None, 187.07
+
+118.
+.. yau  lawaz-ta        t<m>eqaz  nengi   ya.\
+EXIST  time-1IPL.GEN  <AF>stop   good  PART
+存在  時間-1IPL.屬格  <主焦>停    好   語助詞
+
+#e If we have time, sure.
+#c 如果我們有時間的話,可以啊。
+#n lawaz 空檔, 時間
+#a 187.07, None, 189.01
+
+119.
+I: nengi=ti   anu   teqaz-an.\
+. good=PFV  if   stop-LF
+. 好=完成  如果   停-處焦
+
+#e We can stop by.
+#c 可以停下來啊。
+#a 189.01, None, 191.18
+
+120.
+…(1.2) wanay  ka.\
+ but     PART
+ 但是   語助詞
+
+#a 191.18, None, 193.0
+
+121.
+… yau   qumni  aizipna,\
+ EXIST  when  3SG.NOM
+ 存在   何時   3SG.主格
+
+#a 193.0, None, 194.97
+
+122.
+.. ta-lepaw-an   zin-ta            ya,\
+LOC-house-LOC  say-1IPL.GEN  PART
+處格-家-處格  說-1IPL.屬格     語助詞
+
+#e But we don’t know if he will be at home.
+#c 但是他在不在家我們也不知道。
+#a 194.97, None, 196.3
+
+123.
+.. qunay-ka     pa-lingwa     si,/
+before-AF.IMP  ??-telephone  COND
+之前-主焦.祈使  ??-電話     條件詞
+
+#a 196.3, None, 197.59
+
+124.
+.. kawka,\
+just
+才
+
+#a 197.59, None, 198.25
+
+125.
+.. zin-ku      ya,_
+say-1SG.GEN   PART
+說-1SG.屬格     語助詞
+
+#e (We) should call before we go.
+#c 先打電話才可以。
+#a 198.25, None, 199.12
+
+126.
+B: nayau   ni-kasianem-an-ku         sayzi   nani.\
+. that.way  PFV-think-NMZ-1SG.GEN  exactly  DM
+. 那樣     完成-想-名物化-1SG.屬格   就是    DM
+
+#e I think so, too.
+#c 我的想法也是這樣。
+#a 199.12, None, 201.53
+
+127.
+…(0.9) wanay,\
+ but
+ 但是
+
+#a 201.53, None, 202.92
+
+128.
+…(1.1) mwaza  lanas-na         aizipna.\
+ many.NHUM   matter-3SG.GEN  3SG.NOM
+ 多.NHUM     事情-3SG.屬格   3SG.主格
+
+#e He has many things (to do).
+#c 他事情很多。
+#a 202.92, None, 205.67
+
+129.
+… pataz  sma,\
+ often   FS
+ 常常   FS
+
+#a 205.67, None, 207.19
+
+130.
+.. m  s<m>a-saqay    tu==,_
+FS  <AF>RED-walk   OBL
+FS  <主焦>重疊-走   斜格
+
+#e (He) often rushes about for…
+#c 常常東跑西跑…
+#n tu後面應加lanas-na，表「為了工作東跑西跑」。
+#a 207.19, None, 209.11
+
+131.
+I: zana     lazan  [‘nay  si],_
+. 3SG.POSS   road   that  COND
+. 3SG.所有格  路    那個   條件詞
+
+#e For that road.
+#c (為了)那條路的事。
+#a 209.11, 209.16, 210.44
+
+132.
+B: [lazan=ay    na==],_
+. road=REL  GEN
+. 路=關係詞  屬格
+
+#a 210.44, 210.03, 211.0
+
+133.
+… atu  iza        ya,\
+ and  something  PART
+ 和  某事       語助詞
+
+#a 211.0, None, 212.11
+
+134.
+.. tu==,\
+TU
+TU
+
+#a 212.11, None, 212.68
+
+135.
+.. pa<sa>sani=ay,_
+<RED>toward=REL
+<重疊>往=關係詞
+
+#e (He) rushes about for things about the road and others.
+#c (為了)路的事情和別的事情東跑西跑。
+#a 212.68, None, 213.74
+
+136.
+I: mai  yu,\
+. NEG   PART
+. 否定  語助詞
+
+#a 213.74, None, 214.87
+
+137.
+.. wama   zata=ay   qaya  lanas  ya==,\
+only  1IPL.POSS=REL   also  matter  PART
+只有  1IPL.所有格=關係詞 也   事情  語助詞
+
+#a 214.87, None, 216.67
+
+138.
+.. lanas-na          si.\
+matter-3SG.GEN    COND
+事情-3SG.屬格    條件詞
+
+#e He is busy not only with our things.
+#c 他要忙的事情並不是只有我們的事。
+#n 可簡省為mai yu wama zata=ay lanas-na
+#n 也可為mai yu nayawma lanas-na  (mayauma ‘only’)
+#n *mai yu nayawma zata=ay lanas-na
+#a 216.67, None, 217.53
+
+139.
+B: miso.\
+. BC
+. BC
+
+#a 217.53, None, 218.35
+
+140.
+…(0.8) m.\
+ BC
+ BC
+
+#a 218.35, None, 219.55
+
+141.
+…(1.8) mawaR   manan=ita    si==,\
+ tomorrow  return=1IPL.NOM    COND
+ 明天      回=1IPL.主格     條件詞
+
+#e We will go back (to Xinshe) tomorrow, then,
+#c 明天我們回去之後，
+#a 219.55, None, 222.35
+
+142.
+…(1.1) yau   lanas   zau  zana     ni   qa.\
+ EXIST  matter  this  3SG.POSS   GEN  FS
+ 存在   事情   這個  3SG.所有格  屬格   FS
+
+#e There will be things about (the person who passed away). 
+#c 有(過世的那個人的)事情(要忙)。
+#n 原本要講 yau lanas zau zana ni qawi=ay (qawi ‘leave’)
+#a 222.35, None, 225.14
+
+143.
+I: m==,_
+.  BC
+.  BC
+
+#a 225.14, None, 225.79
+
+144.
+…(1.6) <L2TityuL2T>  ti-<L2TzunsingL2T>=ay,\
+ uncle        NCM-PN=REL
+ 姨丈        NCM-春成=關係詞
+
+#a 225.79, None, 228.98
+
+145.
+I: [si],_
+. COND
+. 條件詞
+
+#e (things) about Uncle Zunsing.
+#c 就是姨丈春成的事。
+#n 春成是死者的名字。
+#a 228.98, 229.09, 229.72
+
+146.
+B: [ni  ku],\
+. GEN  FS
+. 屬格  FS
+
+#a 229.72, 229.12, 229.76
+
+147.
+.. tuzani.\
+??
+??
+
+#a 229.76, None, 230.44
+
+148.
+I: tanem-an  timaizipana,\
+. bury-LF    3SG.OBL
+. 埋葬-處焦 3SG.斜格
+
+#a 230.44, None, 232.42
+
+149.
+.. Ranaw,\
+so
+所以
+
+#e He will be buried, so,
+#c 要埋葬他，所以，
+#n 也可為tanem-an aizipna 或 tanem-an timaizipana
+#a 232.42, None, 233.0
+
+150.
+… niz=ita     tanan  pasazi       ta==-,\
+ all=1IPL.NOM  return  toward.here   LOC-
+ 全部=1IPL.主格  回   過來       處格-
+
+#a 233.0, None, 235.18
+
+151.
+.. sinsya-an   anu==,_
+Xinshe-LOC   if
+新社-處格     如果
+
+#a 235.18, None, 236.36
+
+152.
+… temawaR  anu==,\
+ tomorrow  if
+ 明天      如果
+
+#a 236.36, None, 238.24
+
+153.
+.. iza   u.\
+something PART
+某事   語助詞
+
+#e All of us will go back to Xinshe tomorrow.
+#c 我們明天全部要回去新社。
+#a 238.24, None, 238.81
+
+154.
+…(0.8) <L2MsanhaoL2M>  u,_
+ third     or
+ 三號    或
+
+#a 238.81, None, 240.46
+
+155.
+.. <L2MerhaoML2>=pa=iku   t<m>anan,\
+second=FUT=1SG.NOM   <AF>return
+二號=未來=1SG.主格  <主焦>回
+
+#a 240.46, None, 241.9
+
+156.
+.. [zin-ku],\
+say-1SG.GEN
+說-1SG.屬格
+
+#a 241.9, 241.93, 242.75
+
+157.
+B: [(THROAT)]
+.    .
+.    .
+
+#a 242.75, 242.26, 242.7
+
+158.
+I: nani.\
+. DM
+. DM
+
+#e I think I will go back on (June) 3 or 2.
+#c 我三號或二號要回去。
+#a 242.7, None, 243.27
+
+159.
+… anu==,_
+ if
+ 如果
+
+#a 243.27, None, 244.91
+
+160.
+… t<m>anan=ti=ita               si.\
+ <AF>return=PFV=1IPL.NOM     COND
+ <主焦>回=完成=1IPL.主格     條件詞
+
+#e After we go back,
+#c 我們回去了之後，
+#a 244.91, None, 246.45
+
+161.
+… awka=ita      sim-sanu   m-niz       si.\
+ just=1IPL.NOM  REC-tell    AF-all      COND
+ 才=1IPL.主格    交互-告訴  主焦-全部   條件詞
+
+#a 246.45, None, 248.55
+
+162.
+.. awka  nengi  zin-ku        ya.\
+just     good  say-1SG.GEN   PART
+才      好    說-1SG.屬格   語助詞
+
+#e We can talk about (it) together. I think it would be better.
+#c 我們全部再一起談，我想這樣比較好。
+#a 248.55, None, 250.02
+
+163.
+B: ah  nengi=ti    nayau.\
+. BC  good=PFV  that.way
+. BC  好=完成   那樣
+
+#e That is okay.
+#c 那樣的話也可以。
+#a 250.02, None, 251.3
+
+164.
+I: en==,_
+. BC
+. BC
+
+#a 251.3, None, 251.76
+
+165.
+B: usi==,_
+.  ??
+.  ??
+
+#a 251.76, None, 252.74
+
+166.
+.. aiku      si==,_
+1SG.NOM  COND
+1SG.主格    條件詞
+
+#e As for me,
+#c 我呢，
+#a 252.74, None, 253.69
+
+167.
+… qangasan=iku==,\
+ slow=1SG.NOM
+ 慢=1SG.主格
+
+#a 253.69, None, 255.34
+
+168.
+.. qangasan=iku    zin-ku      manan.\
+slow=1SG.NOM  say-1SG.GEN  return
+慢=1SG.主格    說-1SG.屬格  回
+
+#e I think I will go back later.
+#c 我想我慢一點回去。
+#a 255.34, None, 256.94
+
+169.
+… su-Rabi=pa=iku     manan,\
+ ??-night=FUT=1SG.NOM   return
+ ??-夜晚=未來=1SG.主格   回
+
+#a 256.94, None, 258.73
+
+170.
+.. zin-ku       aikuan,_
+say-1SG.GEN  1SG
+說-1SG.屬格   1SG
+
+#e I will take the night train back.
+#c 我要坐夜車回去。
+#n su-Rabi是「趁夜」的意思。
+#n aikuan只是加重語氣，不要或用aiku代替都可。
+#a 258.73, None, 259.46
+
+171.
+I: eh  su-Rabi=pa=imu,\
+. FIL  ??-night=FUT=2PL.NOM
+. FIL  ??-夜晚=未來=2PL.主格
+
+#e You will go back at night?
+#c 你們要趁晚嗎?
+#a 259.46, None, 260.72
+
+172.
+.. ti-azay    qaya  nani.\
+NCM-PN   also  DM
+NCM-阿才  也    DM
+
+#a 260.72, None, 261.63
+
+173.
+.. su-Rabi=pa=imi,\
+??-night=FUT=1EPL.NOM
+??-夜晚=未來=1EPL.主格
+
+#a 261.63, None, 262.58
+
+174.
+.. zin-na    qaya  s<m>anu     nani,_
+say-3SG.GEN  also  <AF>tell    DM
+說-3SG.屬格  也   <主焦>告訴    DM
+
+#e Azay said, “We will also go back at night.”
+#c 阿才說他們也要趁夜回去。
+#a 262.58, None, 264.25
+
+175.
+.. ita.\
+not.know
+不知道
+
+#e I don’t know. (I am not sure.)
+#c 我不知道。
+#a 264.25, None, 264.84
+
+176.
+… naquni  kelawkaway-an  na    qaniyau,\
+ how   work-NMZ       GEN   3PL.NOM
+ 如何   工作-名物化     屬格  3PL.主格
+
+#a 264.84, None, 266.73
+
+177.
+.. Rayngu-an-ku=pama  qaya,\
+not.know-LF-1SG.GEN=yet   also
+不知道-處焦-1SG.屬格=還   也
+
+#a 266.73, None, 268.19
+
+178.
+.. nani.\
+DM
+DM
+
+#e I don’t know how their work is.
+#c 他們的工作怎麼樣我還不清楚。
+#a 268.19, None, 268.66
+
+179.
+… qawanay=ti,_
+ only=PFV
+ 只有=完成
+
+#a 268.66, None, 270.08
+
+180.
+… <L2MsanhaoL2M>.\
+ third
+ 三號
+
+#a 270.08, None, 270.9
+
+181.
+…(0.8) Rabi  si,\
+ night  COND
+ 夜晚  條件詞
+
+#a 270.9, None, 272.38
+
+182.
+.. awka=iku   tanan,\
+just=1SG.NOM  return
+才=1SG.主格   回
+
+#a 272.38, None, 273.4
+
+183.
+.. zin-na  nani,_
+say-3SG.GEN  DM
+說-3SG.屬格   DM
+
+#e He said, “I can go back only on the night of 3.”
+#c 他說他只好三號晚上才可以回去。
+#a 273.4, None, 274.05
+
+184.
+.. ita       X,\
+ not.know  X
+ 不知道   X
+
+#a 274.05, None, 274.77
+
+185.
+.. tanan  u  qumuni  Rayngu-an-ku     qaya, \
+return  or  how  not.know-LF-1SG.GEN  also
+回來  或   如何  不知道-處焦-1SG.屬格  也
+
+#e To go back or whatever. I don’t know either.
+#c 回去或怎麼樣，我也不知道。
+#a 274.77, None, 276.94
+
+186.
+B: niqeinu,\
+. ??
+. ??
+
+#a 276.94, None, 278.35
+
+187.
+.. <L2MsanhaoL2M>=ti  ma==,_
+third=PFV    DM
+三號=完成   DM
+
+#a 278.35, None, 279.56
+
+188.
+… <L2MjuedingL2M>  zaku=ay  <L2MsanhaoL2M>  tu,_
+ decide    1SG.POSS=REL     third      TU
+ 決定    1SG.所有格=關係詞   三號     TU
+
+#a 279.56, None, 281.44
+
+189.
+.. tanan-an,_
+return-LF
+回來-處焦
+
+#e I decide to go back on (June) 3.
+#c 我決定三號一定要回去。
+#a 281.44, None, 282.01
+
+190.
+I: tu   [Rabi],_
+. TU   night
+. TU   夜晚
+
+#e At night.
+#c 利用晚上。
+#a 282.01, 282.15, 282.71
+
+191.
+B: [tu  Rabi],\
+. TU  night
+. TU  夜晚
+
+#a 282.71, 282.28, 282.95
+
+192.
+.. [taRbabi=ti]  maseq  tu  lepaw,\
+morning=PFV  AF.arrive   OBL  house
+早上=完成    主焦.到達  斜格   家
+
+#a 282.95, 283.07, 284.71
+
+193.
+I: [ah].\
+. BC
+. BC
+
+#a 284.71, 283.16, 283.66
+
+194.
+B: [zin-ku].\
+. say-1SG.GEN
+. 說-1SG.屬格
+
+#e Taking the night (train), I think I would arrive home in the morning.
+#c 坐夜車，我想早上就到家了。
+#a 283.66, 284.75, 285.13
+
+195.
+I: [eN].\
+. BC
+. BC
+
+#a 285.13, 284.81, 285.09
+
+196.
+.. <L2MganghaoL2M>  t<m>anan=ti,\
+just      <AF>return=PFV     
+剛好     <主焦>回=完成
+
+#a 285.09, None, 286.36
+
+197.
+.. [nengi=ti]    ya,_
+good=PFV    PART
+好=完成    語助詞
+
+#e Coming back just (on the day of the funeral). It’s ok.
+#c 剛好(出殯那天)回來，可以啦。
+#a 286.36, 286.43, 287.24
+
+198.
+B: [(THROAT)].\
+.   .
+.   .
+
+#a 287.24, 286.47, 286.89
+
+199.
+.. m==,_
+FIL
+FIL
+
+#a 286.89, None, 287.9
+
+200.
+I: m==,_
+. BC
+. BC
+
+#a 287.9, None, 288.36
+
+201.
+B: m,_
+. BC
+. BC
+
+#a 288.36, None, 288.8
+
+202.
+…(0.8) ‘nay   ni==-,\
+ that   PFV-
+ 那個    完成-
+
+#a 288.8, None, 290.33
+
+203.
+.. sanu-an     ni  <L2TabuL2T>  tu==,_
+tell-NMZ     GEN   mother  OBL
+告訴-名物化    屬格  母親   斜格
+
+#a 290.33, None, 291.71
+
+204.
+I: zana==,\
+.  3SG.POSS
+.  3SG.所有格
+
+#a 291.71, None, 294.23
+
+205.
+B: zana=ay        tu==,\
+. 3SG.POSS=REL  OBL
+. 3SG.所有格=關係詞 斜格
+
+#a 294.23, None, 295.91
+
+206.
+.. sa-azas-an-na   ‘nay  iza  ka,_
+FUT-bring-NMZ-3SG.GEN  that something PART
+未來-帶-名物化-3SG.屬格   那個 某物 語助詞
+
+#a 295.91, None, 297.21
+
+207.
+.. <L2MdianfongshanL2M>-su   nani.\
+fan-2SG.GEN       DM
+電風扇-2SG.屬格   DM
+
+#e Mother asked (you) to bring back your fan. 
+#c 阿母交代要帶回去的有你的電風扇。
+#a 297.21, None, 298.24
+
+208.
+I: eh  ‘nay   <L2MinshuijiL2M>  ‘nay  qaya.\
+. FIL  that    water.cooler  that   also
+. FIL  那個    飲水機     那個  也
+
+#e As well as the water cooler.
+#c 還有飲水機。
+#a 298.24, None, 299.78
+
+209.
+B: m    ti.\
+. BC    NCM
+. BC     NCM
+
+#a 299.78, None, 300.44
+
+210.
+I: isis-an-numi=pa        u,_
+. carry-LF-2PL.GEN=FUT   or
+. 提-處焦-2PL.屬格=未來  或
+
+#a 300.44, None, 302.67
+
+211.
+.. qumuni,\
+how
+如何
+
+#a 302.67, None, 303.1
+
+212
+.. zinaq  ni  aimu=pa        m-isis=ay     hata   haw.\
+heavy  DM  2PL.NOM=FUT  AF-carry=REL  DM    PART
+重     DM  2PL.主格=未來  主焦-提=關係詞  DM    語助詞
+
+#e You carry (the water cooler) or whatever. It’s heavy. You carry it.
+#c 你們來提還是怎麼樣，(飲水機)很重呢，你們來提好了。
+#a 303.1, None, 305.24
+
+213.
+B: kwa  ya,_
+.  ok    PART
+.  好   語助詞
+
+#a 305.24, None, 306.06
+
+214.
+.. azu   yau   si.\
+if    EXIST  COND
+如果  存在   條件詞
+
+#e Okay, if…
+#c 好，如果有…
+#a 306.06, None, 306.68
+
+215.
+I: eN,_
+. BC
+. BC
+
+#a 306.68, None, 307.09
+
+216.
+B: azu==,\
+. if
+. 如果
+
+#a 307.09, None, 307.98
+
+217.
+yau=ti    [si]._
+EXIST=PFV  COND
+存在=完成    條件詞
+
+#e If there is (one then).
+#c 如果有了的話。
+#n 指「如果(飲水機)買回來了的話。」
+#a 307.98, 308.04, 308.82
+
+218.
+I: [pizya]  ta-lepaw-an     si.\
+. put  LOC-house-LOC  COND
+. 放   處格-家-處格    條件詞
+
+#e (I will) put (it) at home (first);
+#c 我先放在家裡，
+#a 308.82, 308.55, 309.93
+
+219.
+.. aimu=pa=ti.\
+2PL.NOM=FUT=PFV
+2PL.主格=未來=完成
+
+#a 309.93, None, 310.73
+
+220.
+.. m-azas=ay     pa-tanan  si,\
+AF-bring=REL   CAU-return COND
+主焦-帶=關係詞  使役-回來 條件詞
+
+#a 310.73, None, 311.97
+
+221.
+awka   zin-ku.\
+just   say-1SG.GEN
+才    說-1SG.屬格
+
+#a 311.97, None, 312.68
+
+222.
+zinaq  qaya   qamu   is-isis-an-ku,\
+heavy  also   how.come  RED-carry-LF-1SG.GEN
+重     也   怎麼可能   重疊-提-處焦-1SG.屬格
+
+#a 312.68, None, 314.59
+
+223.
+.. zin-ku        ya._
+say-1SG.GEN  PART
+say-1SG.屬格  語助詞
+
+#e Then you bring it back. (It’s) heavy; how can I carry it around?
+#c 你們再帶回去才好。很重耶，我怎麼可能提來提去?
+#a 314.59, None, 315.25
+
+224.
+B: en  nengi=ti.\
+. okay  good=PFV
+. 好  好=完成
+
+#e Okay.
+#c 好啊。
+#a 315.25, None, 316.18
+
+225.
+I: aw.\
+. BC
+. BC
+
+#a 316.18, None, 316.64
+
+226.
+B: en,_
+. BC
+. BC
+
+#a 316.64, None, 317.34
+
+227.
+I: m-ala    <L2MdianfongshanL2M>  ‘nay.\
+. AF-take      fan         that
+. 主焦-拿    電風扇      那個
+
+#e Take that electronic fan.
+#c 拿電風扇。
+#a 317.34, None, 319.23
+
+228.
+B: m,_
+. BC
+. BC
+
+#a 319.23, None, 319.85
+
+229.
+B: u-zusa         inengat  ma    ‘nay,\
+. CLF.NHUM-two  light  DM      that
+. 非人量詞-二    輕    DM     那個
+
+#a 319.85, None, 322.02
+
+230.
+wama  [‘nay==],\
+only     that
+只有     那個
+
+#a 322.02, 322.06, 322.98
+
+231.
+I: [<L2MinshuijiL2M>],\
+.  water.cooler
+.  飲水機
+
+#a 322.98, 322.64, 323.33
+
+232.
+B: [<L2MinshuijiL2M>  ‘nay  zinaq].\
+. water.cooler  that  heavy
+. 水機      那個   重
+
+#e Between the two, only (the fan) is lighter; the water cooler is heavy.
+#c 這兩個只有那個(電風扇)比較輕，飲水機很重。
+#n azu inengat Ribang zau是指「這東西不是很輕」或「這東西好像很輕」，差別在於語調不同，前者重音在inengat，而後者重音在azu。
+#a 323.33, 323.05, 324.45
+
+233.
+I: [<L2MbijiaoML2>  zinaq].\
+. relatively    heavy
+. 比較         重
+
+#e The water cooler is relatively heavier.
+#c 飲水機比較重。
+#a 324.45, 323.4, 324.41
+
+234.
+.. en,_
+BC
+BC
+
+#a 324.41, None, 324.98
+
+235.
+B: m==,_
+. BC
+. BC
+
+#a 324.98, None, 326.21
+
+236.
+I: ala-ka=pama      tu==,\
+. take-AF.IMP=still  OBL
+. 拿-主焦.祈使=還  斜格
+
+#a 326.21, None, 329.44
+
+237.
+.. <L2MnyunayL2M>  ni   <L2TabuL2M>,\
+milk        GEN  mother
+牛奶        屬格   母親
+
+#a 329.44, None, 330.37
+
+238.
+.. zin-ku       ti==-,\
+say-1SG.GEN  NCM-
+說-1SG.屬格  NCM-
+
+#a 330.37, None, 331.01
+
+239.
+.. meifang  qaya  nani.\
+PN    also  DM
+美芳   也   DM
+
+#e I also told Meifang to buy the milk Mother wanted.
+#c 我還叫美芳去拿(/買)阿母的牛奶。
+#a 331.01, None, 332.0
+
+240.
+… pa-lingwa-an-ku       nani.\
+ ??-telephone-LF-1SG.GEN   DM
+ ??-電話-處焦-1SG.屬格    DM
+
+#a 332.0, None, 333.43
+
+241.
+.. mana,_
+why
+為什麼
+
+#a 333.43, None, 333.94
+
+242.
+… mai  tu  <L2TmelaycyapL2T>=ay  tu==,\
+ NEG  OBL   not.answer=REL   OBL
+ 否定  斜格  沒來接=關係詞  斜格
+
+#a 333.94, None, 335.54
+
+243.
+.. lingwa-ku          ka,\
+telephone-1SG.GEN   PART
+電話-1SG.屬格      語助詞
+
+#a 335.54, None, 336.43
+
+244.
+.. zin-ku.\
+say-1SG.GEN
+說-1SG.屬格
+
+#e I called Mother; how come nobody answered my phone?
+#c 我打電話(給媽媽)，怎麼沒有人接我的電話。
+#a 336.43, None, 337.06
+
+245.
+… sanu-an-ku=ti      <L2TabinL2T>  nani,\
+ tell-LF-1SG.GEN=PFV      PN       DM
+ 告訴-處焦-1SG.屬格=完成   阿明     DM
+
+#e I told Abin…
+#c 我跟阿明講說，
+#a 337.06, None, 338.97
+
+246.
+…(0.8) pa==-,\
+ CAU-
+ 使役-
+
+#a 338.97, None, 340.28
+
+247.
+.. iza-ika,_
+do.something-LF.IMP
+做某事-處焦.祈使
+
+#e to do something….
+#c 要(他)去那個…。
+#a 340.28, None, 341.0
+
+248.
+… pa-lingwa-ika   ti==-,\
+ ??-telephone-LF.IMP  NCM-
+ ??-電話-處焦.祈使  NCM-
+
+#a 341.0, None, 342.37
+
+249.
+.. meifang   si.\
+PN   COND
+美芳    條件詞
+
+#n 也可為pa-lingwa-ika ti-meifang-an si
+#a 342.37, None, 343.12
+#n 也可為pa-lingwa-ika ti-meifang-an si
+
+250.
+.. m-ala=pa     tu==,\
+AF-take=FUT  OBL
+主焦-拿=未來  斜格
+
+#a 343.12, None, 344.09
+
+251.
+.. <L2MnyunayL2M>  ni  <L2TabuL2T>,\
+milk       GEN   mother
+牛奶       屬格   母親
+
+#a 344.09, None, 345.15
+
+252.
+.. zin-ku        ti==,\
+say-1SG.GEN   NCM
+說-1SG.屬格   NCM
+
+#a 345.15, None, 346.47
+
+253.
+.. ti-<L2TabinL2>.\
+NCM-PN
+NCM-阿明
+
+#a 346.47, None, 347.38
+
+254.
+… nani.\
+ DM
+ DM
+
+#e I told Abin to call Meifang and to ask her to buy the milk Mother wanted.
+#c 我叫阿明打電話給美芳叫她買媽媽的牛奶(奶粉)。
+#a 347.38, None, 347.86
+
+255.
+…(0.8) kwa  ya,_
+ okay  PART
+ 好  語助詞
+
+#a 347.86, None, 349.15
+
+256.
+.. zin-na        ni   <L2TabinL2T>  nani.\
+say-3SG.GEN  GEN    PN      DM
+說-3SG.屬格   屬格     阿明    DM
+
+#e Abin said, “Okay.”
+#c 阿明說好。
+#a 349.15, None, 350.14
+
+257.
+.. <L2MsanhaoL2M>  aiku     tanan  qaya,\
+third    1SG.NOM  return  also
+三號    1SG.主格  回   也
+
+#a 350.14, None, 351.74
+
+258.
+.. zin-na       ni  <L2TabinL2T>.\
+say-3SG.GEN  GEN  PN
+說-3SG.屬格  屬格   阿明
+
+#e Abin said, “I will also go back on (June) 3.”
+#c 阿明說：「我也是三號回去。」
+#a 351.74, None, 352.66
+
+259.
+… [s<m>anu],\
+ <AF>say
+ <主焦>說
+
+#e He said…
+#c 他說…
+#a 352.66, 353.15, 353.73
+
+260.
+B: [tanan=pa]   qaya.\
+. return=FUT    also
+. 回=未來    也
+
+#e (He) will also go back?
+#c (他)也要回去嗎?
+#a 353.73, 353.24, 354.12
+
+261.
+I: tanan  qaya  zin-na,\
+. return  also  say-3SG.GEN
+. 回   也   說-3SG.屬格
+
+#e He said (he) would also go back.
+#c 他也說要回去。
+#a 354.12, None, 355.39
+
+262.
+B: azu   yau    ‘nay==,_
+. if    EXIST  that
+. 如果  存在  那個
+
+#a 355.39, None, 357.31
+
+263.
+… kelawkaway-an-na,\
+ work-NMZ-3SG.GEN
+ 工作-名物化-3SG.屬格
+
+#a 357.31, None, 358.29
+
+264.
+.. naRin [manan  zin-ku].\
+NEG   return   say-1SG.GEN
+否定   回    說-1SG.屬格
+
+#e If he has work, I think (it would be better for him) not to go back.
+#c 如果他有工作的話，我想(阿明)不要回去(比較好)。
+#a 358.29, 358.34, 359.41
+
+265.
+I: [pun=ti=iku         <L2MqingjiaL2M>]    zin-na.\
+. finish=PFV=1SG.NOM  ask.for.leave  say-3SG.GEN
+. 完成=完成=1SG.主格  請假         說-3SG.屬格
+
+#e He said, “I’ve already taken (several days’) leave.”
+#c 他說：「我已經請假了。」
+#a 359.41, 358.54, 360.33
+
+266.
+B: m,_
+. BC
+. BC
+
+#a 360.33, None, 361.03
+
+267.
+…(1.7) si==,_
+ ??
+ ??
+
+#a 361.03, None, 363.15
+
+268.
+…(0.7) nayau  m-niz     manan=ita          n,\
+ that.way       AF-all    return=1IPL.NOM  FS
+ 那樣        主焦-全部  回=1IPL.主格     FS
+
+#a 363.15, None, 365.15
+
+269.
+.. [nengi=ti],/
+good=PFV
+好=完成
+
+#e If so, it would be better that all of us went back.
+#c 那樣的話，我們全部都回去也好啦。
+#a 365.15, 365.22, 365.98
+
+270.
+I: [ni  t<m>anan],\
+. FS  <AF>return
+. FS  <主焦>回
+
+#a 365.98, 365.46, 366.02
+
+271.
+.. nengi=ti    paqsiqaz    qaya  [tu==],\
+good=PFV  embarrassing  also    TU
+好=完成   不好意思    也      TU
+
+#e It would be good (for all of us) to go back; otherwise we would feel sorry.
+#c 回去也好，不然不好意思。
+#a 366.02, 366.07, 368.03
+
+272.
+B: [(THROAT)].\
+.   .
+.   .
+
+#a 368.03, 367.22, 367.93
+
+273.
+I: [mai-yu=ti]  tiana.\
+. NEG-??=PFV  who
+. 否定-??=完成   誰
+
+#e (After all,) (he) is not somebody else.
+#c 又不是別人，
+#n 「誰」在此指別人。此句意為「都是自己人」。
+#a 367.93, 368.27, 369.39
+
+274.
+B: [m].\
+. BC
+. BC
+
+#a 369.39, 368.5, 369.03
+
+275.
+I: ‘nay==,\
+.  that
+.  那個
+
+#a 369.03, None, 371.04
+
+276.
+…(0.8) tama    na==,\
+ father   GEN
+ 父親    屬格
+
+#a 371.04, None, 372.72
+
+277.
+.. swani-ta                qaya  ni==,\
+younger.sibling-1IPL.GEN  also  GEN
+弟妹-1IPL.屬格           也  屬格
+
+#a 372.72, None, 374.22
+
+278.
+… kincyang   si.\
+ PN     ??
+ PN     ??
+
+#e (He is) our cousin Kincyang’s father-in-law.
+#c 是我們的堂弟Kincyang的岳父。
+#a 374.22, None, 375.59
+
+279.
+B: m,_
+. BC
+. BC
+
+#a 375.59, None, 376.36
+
+280.
+I: m,_
+. BC
+. BC
+
+#a 376.36, None, 376.74
+
+281.
+B: ah   nengi=ti.\
+. INT  good=PFV
+. 感嘆  好=完成
+
+#e Okay.
+#c 好了。
+#a 376.74, None, 378.65
+
+282.
+I: m,_
+. BC
+. BC
+
+#a 378.65, None, 379.16
+
+283.
+B: m,_
+. BC
+. BC
+
+#a 379.16, None, 381.49
+
+284.
+I: en,/
+. yes
+. 是
+
+#e Yes.
+#c 是。
+#a 381.49, None, 382.49
+
+285.
+… nayawma,\
+ only
+ 只
+
+#a 382.49, None, 383.72
+
+286.
+.. sikawma-an-niq,\
+speak-NMZ-1EPL.GEN
+說-名物化-1EPL.屬格
+
+#a 383.72, None, 384.62
+
+287
+.. zaka  tazian  haw.\
+??   here   PART
+??   這裡   語助詞
+
+#e That’s all.
+#c 我們就講到這裡為止。
+#a 384.62, None, 385.88

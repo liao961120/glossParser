@@ -1,0 +1,944 @@
+topic: Pear Story 3
+type: Narrative
+language: 鄒語, Tsou, Tfya
+speaker: 
+collected: None
+revised: 2013-11-18
+video: None
+
+1.
+pan to moso la cihi ci mo no==,_
+EXIST OBL AUX.AF HAB one REL AUX.AF FIL
+存在 斜格 助動詞.主焦 習慣 一 關係詞 助動詞.主焦 FIL
+
+#a
+
+2.
+... mo toa,_
+AUX.AF pick.AF
+助動詞.主焦 採.主焦
+
+#a
+
+3.
+.. nasi ci== eatatiskova.\
+pear REL man
+梨 關係詞 人
+
+#a
+
+4.
+...(1.0) eh==,_
+FIL
+FIL
+
+#a
+
+5.
+.. mo alʉ na'no euho'a 'o i-si toa-i ci nasi.\
+AUX.AF even.AF very.AF well.fruited.AF NOM AUX.NAF-3SG.GEN pick-LF REL pear
+助動詞.主焦 甚至.主焦 非常.主焦 結實纍纍.主焦 主格 助動詞.非主焦-3SG.屬格 採-處焦 關係詞 梨
+
+#e There was one...one man that gathered pears. The pear tree from which he gathered pears was well-fruited.
+#c 有一個人採梨子。他採的那棵梨樹結實纍纍。
+#a
+
+6.
+...(1.0) eh==,_
+FIL
+FIL
+
+#a
+
+7.
+...(1.0) ne o-si cu==,_
+when AUX.NAF-3SG.GEN PFV
+當時 助動詞.非主焦-3SG.屬格 完成
+
+#a
+
+8.
+... pemomoun'a toepʉng-a,\
+almost..NAF finish.gathering-PF
+幾乎.非主焦 採完 .受焦
+
+#a
+
+9.
+...(0.7) eh mi-cu asonʉ peeueusno khago 'o i-si==,_
+FIL AUX.AF-PFV probably.AF make.two.AF basket NOM AUX.NAF-3SG.GEN
+FIL 助動詞.主焦-完成 或許.主焦 使成兩個.主焦 籃子 主格 助動詞.非主焦-3SG.屬格
+
+#a
+
+10.
+... toa-i ci nasi.\
+pick-LF REL pear
+採-處焦 關係詞 梨
+
+#e When he almost finished (gathering pears), the pears that were gathered almost made two baskets... 
+#c 當他幾乎要（採）完的時候，已經採了幾乎兩個籃子。
+#a
+
+11.
+...(1.0) eh mo 'ene--,_
+FIL AUX.AF FS
+FIL 助動詞.主焦 FS
+
+#a
+
+12.
+... 'enepio ci 'a'ausna 'o i-si== aiti,\
+several.AF REL situation NOM AUX.NAF-3SG.GEN see.LF
+許多.主焦 關係詞 情形 主格 助動詞.非主焦-3SG.屬格 看.處焦
+
+#e Several things/situations were seen/observed. 
+#c 看到的情況有許多。
+#a
+
+13.
+... 'e mo coni,\
+NOM AUX.AF one
+主格 助動詞.主焦 一
+
+#a
+
+14.
+... pan to moso cihi ci mo sucaefi.\
+EXIST OBL AUX.AF one REL AUX.AF pass.by.AF
+存在 斜格 助動詞.主焦 一 關係詞 助動詞.主焦 經過.主焦
+
+#a
+
+15.
+.. ci mo== ^e'tʉ to==,_
+REL AUX.AF pull.AF  OBL
+關係詞 助動詞.主焦 拉.主焦 斜格
+
+#a
+
+16.
+... moa^tʉ'nʉ ci eatatiskova mo==,_
+goat REL man AUX.AF
+山羊 關係詞 人 助動詞.主焦
+
+#a
+
+17.
+.. sucaifi ho==,_
+pass.by.AF CONJ
+經過.主焦 連接詞
+
+#a
+
+18.
+.. uk'a ci i-si na'na u--,_
+NEG.EXIST REL AUX.NAF-3SG.GEN very.NAF FS
+否定.存在 關係詞 助動詞.非主焦-3SG.屬格 非常.非主焦 FS
+
+#a
+
+19.
+... na'na hioa.\
+very.NAF work.PF
+非常.非主焦 工作.受焦
+
+#e (First), there was one man passing by pulling a goat, and nothing happened/was done (by him). 
+#c (首先)，有一個人牽著一隻羊經過，沒（什麼）事發生/（他）沒做（什麼）事。
+#a
+
+20.
+...(1.5) eh==,_
+FIL
+FIL
+
+#a
+
+21.
+.. cu aomane,\
+PFV a.while.later
+完成 一會兒
+
+#a
+
+22.
+.. pan to mo cihi ci oko.\
+EXIST OBL AUX.AF one REL child
+存在 斜格 助動詞.主焦 一 關係詞 小孩
+
+#a
+
+23.
+.. mo moneo to==,_
+AUX.AF sit.on.AF OBL
+助動詞.主焦 乘坐.主焦 斜格
+
+#a
+
+24.
+.. jidensa,\
+bike
+自行車
+
+#a
+
+25.
+..(0.6) ho== maezo sucaefi.\
+CONJ too.AF pass.by.AF
+連接詞 也.主焦 經過.主焦
+
+#e A while later/after that, a boy on a bike passed by, too.
+#c 過了不久，有一個小孩也騎著腳踏車經過。
+#a
+
+26.
+...(0.8) 'e oko eni i-si== aiti ho mo na'no man'i 'e mo eon ta ceoa ci nasi.\
+NOM child this  AUX.NAF-3S.GEN see.LF COMP AUX.AF very.AF plenty.AF NOM AUX.AF be.at.AF OBL earth REL pear
+主格 小孩 這 助動詞.非主焦-3S.屬格 看.處格 補語詞 助動詞.主焦 非常.主焦 多.主焦 主格 助動詞.主焦 在.主焦 斜格 地 關係詞 梨
+
+#e This child saw plenty of pears which are on the ground.
+#c 這個小孩看到許多梨子在地上。
+#a
+
+27.
+...(0.6) mi=cu tosvo ho==,_
+AUX.AF=PFV stop.AF CONJ
+助動詞.主焦=完成 停.主焦 連接詞
+
+#a
+
+28.
+.. i-si iu'i'ia ho aiti.\
+AUX.NAF-3SG.GEN check.carefully.PF CONJ see.LF
+助動詞.非主焦-3SG.屬格 仔細瞧.受焦 連接詞 看.處格
+
+#e (Therefore), he stopped to check carefully and see (the fruit). 
+#c (因此)，他停下來仔細看（那些梨子）。
+#a
+
+29.
+...(1.3) eh==,_
+FIL
+FIL
+
+#a
+
+30.
+.. mo asonʉ maica na to'tohʉngʉ ta oko mo mici meo'eoi.\
+AUX.AF probably.AF like.this.AF NOM thought OBL child AUX.AF intend.AF steal.AF
+助動詞.主焦 或許.主焦 像這樣.主焦 主格 想法 斜格 小孩 助動詞.主焦 想要.主焦 偷.主焦
+
+#e The thought of the child was probably like that he intended to steal (them).
+#c 那小孩的想法或許是想要偷（那些梨子）
+#a
+
+31.
+...(0.7) at'inghi i-si==,_
+but;yet AUX.NAF-3SG.GEN
+但是 助動詞.非主焦-3SG.屬格
+
+#a
+
+32.
+... ake'-a==,_
+a.little-NAF
+一點-非主焦
+
+#a
+
+33.
+... zou,_
+DM
+DM
+
+#a
+
+34.
+.. aiti na 'e mo==,_
+see.LF FIL NOM AUX.AF
+看.處焦 FIL 主格 助動詞.主焦
+
+#a
+
+35.
+...(0.8) noepe ta== evi ho,\
+stay.above.AF OBL tree CONJ
+在上面.主焦 斜格 樹 連接詞
+
+#a
+
+36.
+.. toa nasi ci==,_
+pick.AF pea REL 
+採.主焦 梨 關係詞
+
+#a
+
+37.
+... i-- himnonu.\
+FS owner
+FS 主人
+
+#e But he slightly saw the owner, who was staying above the tree picking pears. 
+#c 但是他看了一下主人，他還在上面採梨子。
+#a
+
+38.
+...(0.8) eh==,_
+FIL
+FIL
+
+#a
+
+39.
+... mo ake'i ngoheʉngʉ.\
+AUX.AF a.little.AF afraid.of.AF
+助動詞.主焦 一點.主焦 害怕.主焦
+
+#a
+
+40.
+.. nte aueu mici maeo ta mo c'o XX== 'enepio.\
+AUX.HYP precede.AF intend.AF take.AF Obl AUX.AF only XX some.AF
+助動詞.假設 先.主焦 想要.主焦 拿.主焦 斜格 助動詞.主焦 只有 XX 一些.AF
+
+#a
+
+41.
+... ho hafa pkaako.\
+CONJ carry.PF away.from.AF
+連接詞 帶.受焦 離開.主焦
+
+#e He was somehow/a little bit afraid, and intended to take only a small part of them first and escaped. 
+#c 他有一點害怕，想要先拿走一些就離開。
+#a
+
+42.
+...(0.7) at'inghi i-si ait 'e mot--,_
+but AUX.NAF-3SG.GEN see.LF NOM FS
+但是 助動詞.非主焦-3SG.屬格 看.處焦 主格 FS
+
+#a
+
+43.
+.. toa nasi ci==,_
+pick.AF pear REL
+採.主焦 梨 關係詞
+
+#a
+
+44.
+... eatatiskova ho a'a mo,_
+man CONJ NEG AUX.AF
+人 連接詞 否定 助動詞.主焦
+
+#a
+
+45.
+... a'a i-si na'na==,\
+NEG AUX.NAF-3SG.GEN very.NAF
+否定 助動詞.非主焦-3SG.屬格 非常.非主焦
+
+#a
+
+46.
+.. zou aiti na 'e==,_
+DM see.LF FIL NOM
+DM 看.處焦 FIL 主格
+
+#a
+
+47.
+.. 'e mo eon ta ceoa ci==,_
+NOM AUX.AF be.at.AF OBL earth REL
+主格 助動詞.主焦 在.主焦 斜格 地 關係詞
+
+#a
+
+48.
+.. i-si cu toa-i ci nasi.\
+AUX.NAF-3SG.GEN PFV pick -LF REL pear
+助動詞.非主焦-3SG.屬格 完成 採-受焦 關係詞 梨
+
+#e Yet he noticed that the pear-picking man wasn't paying much attention to/looking carefully after the gathered pears on the ground. 
+#c 但是他發現採梨子的人沒在看那些採好放在地上的梨子。
+#a
+
+49.
+...(0.5) ko'ko eno 'e oko mo,_
+therefore FIL NOM child AUX.AF
+因此 FIL 主格 小孩 助動詞.主焦
+
+#a
+
+50.
+.. atavei,_
+finally.AF
+最後.主焦
+
+#a
+
+51.
+.. alʉ moezʉ,_
+just.AF traightforward.AF
+就.主焦 直接.主焦
+
+#a
+
+52.
+.. cono khago 'o i-si==,_
+one basket NOM AUX.NAF-3SG.GEN
+一 籃 主格 助動詞.非主焦-3SG.屬格
+
+#a
+
+53.
+...(0.7) zou i-si peo'eoza ho hafa eh,\
+DM AUX.NAF-3SG.GEN  steal.PF CONJ carry.PF FIL
+DM 助動詞.非主焦-3SG.屬格 偷.受焦 連接詞 帶.受焦 FIL
+
+#a
+
+54.
+.. mo'unu maita'e.\
+go.toward.AF just.like.that
+朝特定方向去.主焦 像那樣
+
+#e Therefore, the child finally stole one basket (of the pears) straightforward, took it away, and went in some direction. (It was something) like that (way). 
+#c 因此，小孩最後直接偷走了一籃梨子，就那樣走了。
+#a
+
+55.
+...(1.0) eh ne moh-cu mi ta ceonʉ 'e oko nte-si,_
+FIL when AUX.AF-PFV walk.AF OBL road NOM child AUX.HYP-3SG.GEN
+FIL 當 助動詞.主焦-完成 走.主焦 斜格 路 主格 助動詞.假設-3SG.屬格
+
+#a
+
+56.
+.. a'a i-s cohivi nte-si hafa'uvo.\
+NEG AUX.NAF-3SG.GEN know.LF AUX.FUT-3SG.GEN carry.to.where
+否定 助動詞.非主焦.3SG.屬格 知道.處焦 助動詞.未來-3SG.屬格 帶到哪裡
+
+#e When the child was walking on the road, he didn't know where he would carry (the pears). 
+#c 當那小孩走在路上，他不知道要（將梨子）帶到哪裡去。
+#a
+
+57.
+... a== ne mi-cu  mi ta ^ceonʉ.\
+FIL when AUX.AF-PFV walk.AF OBL road
+FIL 當 助動詞.主焦-完成 走.主焦 斜格 路
+
+#a
+
+58.
+...(0.6) i-si==,_
+AUX.NAF-3SG.GEN
+助動詞.非主焦-3SG.屬格
+
+#a
+
+59.
+...(1.1) zou==,_
+DM
+DM
+
+#a
+
+60.
+... hafa na 'e==,_
+carry.PF FIL NOM
+帶.受焦 FIL 主格
+
+#a
+
+61.
+.. 'e i-si peo'eoza ci nasi.\
+NOM AUX.NAF-3SG.GEN steal.PF REL pear
+主格 助動詞.非主焦-3S.屬格 偷.受焦 關係詞 梨
+
+#e When he was on his way, carrying the stolen pears, 
+#c 他走在路上，帶著他偷來的梨子。
+#a
+
+62.
+...(1.0) ho aʉlʉ eupte'lʉ to mo cihi ci==,_
+CONJ happen.to.AF meet.AF OBL AUX.AF one.AF REL
+連接詞 碰巧.主焦 遇見.主焦 斜格 助動詞.主焦 一.主焦 關係詞
+
+#a
+
+63.
+.. mo hmʉhmʉskʉ ci mamespingi.\
+AUX.AF similar.AF REL female;girl
+助動詞.主焦 一樣.主焦 關係詞 女人;女孩
+
+#e (he) happened to meet a girl who is similar with him. 
+#c 他碰巧遇見一個跟他一樣的女孩。
+#a
+
+64.
+...(0.9) na 'e== hahocngʉ,\
+FIL NOM man;male
+FIL 主格 男人
+
+#a
+
+65.
+.. i-si ason-a==,_
+AUX.NAF-3SG.GEN probably-NAF
+助動詞.非主焦-3SG.屬格 或許-非主焦
+
+#a
+
+66.
+... na'na huaca huseolʉ-a 'e mamespingi.\
+very.NAF likely.PF be.pleased.with-PF NOM girl
+非常.非主焦 或許.受焦 喜歡-受焦 主格 女孩
+
+#e (and) probably liked the girl. 
+#c 那男孩或許在喜歡那女孩。
+#a
+
+67.
+.. ko'ko eno ne moso no eon ta jidensa.\
+therefore FIL when AUX.AF FIL be.at.AF OBL bike
+因此 FIL when 助動詞.主焦 FIL 在.主焦 斜格 腳踏車
+
+#a
+
+68.
+... o'a i-si iu'i'ia 'e nte-si mia ci ceonʉ.\
+NEG AUX.NAF-3SG.GEN  check.carefully.PF  NOM  AUX.FUT-3SG.GEN walk.PF REL road
+否定 助動詞.非主焦.3SG.屬格 仔細瞧.受焦 主格 助動詞.未來-3SG.屬格 走.受焦 關係詞 路
+
+#a
+
+69.
+... mi=cu atavei smoftongʉ ta fatu ho._
+AUX.AF=PFV finally.AF bump.into.AF OBL stone CONJ
+助動詞.主焦=完成 最後.主焦 撞到.主焦 斜格 石頭 連接詞
+
+#a
+
+70.
+... ho oefʉ'ʉ.\
+CONJ fall.AF
+連接詞 跌倒.主焦
+
+#e Therefore, while on the bike, the way/road was not carefully taken care of. Finally (he) bumped into a stone, and fell (down). 
+#c 因此，他在腳踏車上，沒有仔細看路，最後撞到石頭掉下來。
+#a
+
+71.
+...(0.7) la a--,_
+HAB FS
+習慣 FS
+
+#a
+
+72.
+... cono==,_
+one
+一
+
+#a
+
+73.
+.. ceoa na 'e==,_
+earth FIL NOM
+地 FIL 主格
+
+#a
+
+74.
+... mo miuhu ci==,_
+AUX.AF  spilt.AF REL
+助動詞.主焦 灑.主焦 關係詞
+
+#a
+
+75.
+.. ci na ci nasi.\
+REL FIL REL pear
+關係詞 FIL 關係詞 梨
+
+#e The pears were spilt all over the place/ground. 
+#c 梨子灑了一地。
+#a
+
+76.
+...(0.6) ine.mio,\
+at.that.time
+那時候
+
+#n ine mio 兩詞合用為已固化之詞組(fixed expression)，語意為："那時候"。
+#a 
+#n ine mio 兩詞合用為已固化之詞組(fixed expression)，語意為："那時候"。
+
+77.
+... eh==,_
+FIL
+FIL
+
+#a
+
+78.
+... ine nte-si cu akoeva no ucia patmʉta.\
+when AUX.FUT-3SG.GEN PFV plan.PF NO intend.PF pick.up.PF
+當 助動詞.未來-3SG.屬格 完成 計畫.受焦 NO 想要.受焦 撿.受焦
+
+#e At that time, when he wanted to pick them up, 
+#c 那時候，當他想要撿起梨子。
+#n 鄒語中有些在謂語位置，語意較像副詞的詞，常會接一no，再接主要謂語（動詞），結構就像 [[Adverbial + no]] + Verb]。這種用法不是普遍出現在所有像副詞性的詞上，而是只有部分副詞性的詞有此用法，像此句的akoeva no，而akoeva本身必須與no 連用，因此顯示這是某種定型化的用法。語料中的標記為NO。
+#a
+
+79.
+...(0.7) mo tueu ci,\
+AUX.AF three REL
+助動詞.主焦 三 關係詞
+
+#a
+
+80.
+.. mocmo ci ^'o-'oko ho,\
+other REL RED-child CONJ
+其他 關係詞 重疊-小孩 連接詞
+
+#a
+
+81.
+... i-he aiti 'e a'ausna ta mo==,\
+AUX.NAF-3PL.GEN see.LF NOM situation OBL AUX.AF
+助動詞.非主焦-3PL.屬格 看.受焦 主格 情形 斜格 助動詞.主焦
+
+#a
+
+82.
+.. smopcuku ci ha-- ci na ci oko.\
+fall.down.AF REL FS REL FIL REL child
+跌下.主焦 關係詞 FS 關係詞  FIL 關係詞 小孩
+
+#e Three children, the situation of the fallen child was seen by them. 
+#c 其他三個小孩，他們看見那個（男）孩跌下來。
+#a
+
+83.
+...(0.7) 'a i-he cu._
+EVI AUX.NAF-3PL.GEN PFV
+知識詞 助動詞.非主焦-3PL.屬格 完成
+
+#a
+
+84.
+...(0.6)toe-- toehung-a to'usn-i ho==,\
+FS together-NAF help -LF CONJ
+FS 一起-非主焦 幫助-處焦 連接詞
+
+#a
+
+85.
+.. patmʉt-a 'e nasi ho ivah-a soovei-a ta khago.\
+pick.up-PF NOM pear CONJ again-NAF return-PF OBL basket
+撿起來-受焦 主格 梨 連接詞 再 回去-受焦 斜格 籃子
+
+#e The pears were put back/loaded again into the basket under/by their help(ing) together. 
+#c 他們一起幫忙檢梨子，梨子又被放回籃子裡。
+#a
+
+86.
+...(0.7) ine mi nte c'u eupevai.\
+at.that.time AUX.HYP PFV depart.from.each.other.AF
+那時候 助動詞.未來 完成 相互分離.主焦
+
+#a
+
+87.
+...(1.3) ina 'e mo tueu ^ci 'o-'oko no hahocng-- hahocngʉ.\
+FIL NOM AUX.AF  three REL RED-child OBL FS male
+FIL 主格 助動詞.主焦 三 關係詞 重疊-小孩 斜格 FS 男人
+
+#e When the three boys departed ((each other) with the other child), 
+#c 當那三個男孩（與男孩）分開，
+#a
+
+88.
+...(0.7) eh==,_
+FIL
+FIL
+
+#a
+
+89.
+.. i-he aiti 'e mo eon ta ceoa ^ci==,\
+AUX.NAF-3PL.GEN see.LF NOM AUX.AF be.at.AF OBL earth REL
+助動詞.非主焦-3PL.屬格 看.處焦 主格 助動詞.主焦 在 斜格 地 關係詞
+
+#a
+
+90.
+.. ceopngu.\
+hat
+帽子
+
+#e a hat was seen (by them) laying on the ground/road. 
+#c 他們看到一頂帽子在地上。
+#a
+
+91.
+...(0.8) i-he=cu patmʉt-a ho==,\
+AUX.NAF-3PL.GEN=PFV pick.up-PF CONJ
+助動詞.非主焦-3PL.屬格=完成 撿-受焦 連接詞
+
+#a
+
+92.
+.. faeni ta himnonu ci oko.\
+give.BF OBL owner REL child
+給.予焦 斜格 主人 關係詞 小孩
+
+#e It was picked up (by them), and was returned to the owner (child). 
+#c (他們)撿起了帽子，還給主人那個小孩。
+#a
+
+93.
+...(0.7) eh== ina 'e==,_
+FIL FIL NOM
+FIL FIL 主格
+
+#a
+
+94.
+.. na 'e oko,/
+FIL NOM child
+FIL 主格 小孩
+
+#a
+
+95.
+.. nenu-si no mo aveoveoyu ho i-si==,\
+what-3SG.GEN OBL AUX.AF happy;delight.AF COMP NAF-3SG.GEN
+什麼-3SG.屬格 斜格 助動詞.主焦 高興.主焦 補語詞 非主焦-3SG.屬格
+
+#a
+
+96.
+... ho i-he==,\
+COMP NAF-3PL.GEN
+補語詞 非主焦-3PL.屬格
+
+#a
+
+97.
+.. to'usn-i.\
+help-LF
+幫忙-處焦
+
+#e The child was somehow grateful that he was helped by them. 
+#c 那孩子很高興他們幫他。
+#a
+
+98.
+... i-he=cu,_
+AUX.NAF-3PL.GEN=PFV
+助動詞.非主焦-3PL.屬格=完成
+
+#a
+
+99.
+... i-si=cu pa-macoconi ta==,\
+AUX.NAF-3SG.GEN=PFV  CAU-one.each.AF OBL
+助動詞.非主焦-3SG.屬格=完成 使役-每一個.主焦 斜格
+
+#a
+
+100.
+.. nasi 'e mo tueu ci 'o-'oko.\
+pear NOM AUX.AF three REL RED-child.
+梨 主格 助動詞.主焦 三 關係詞 重疊-小孩
+
+#e Therefore, the three children were each given a pear (by him). 
+#c 因此，他給每個小孩一個梨子。
+#a
+
+101.
+...(0.7) ine.mio 'e mo tueu ci 'o-'oko mi=cu==,_
+at.that.time NOM AUX.AF three REL RED-child AUX.AF=PFV
+那時候 主格 助動詞.主焦 三 關係詞 重疊-小孩 助動詞.主焦=完成
+
+#a
+
+102.
+... maita'e== mo'usnu maica,\
+come.here go.toward.AF like;as.if
+來這裡 朝某方向去.主焦 像這樣
+
+#a
+
+103.
+...(0.7) ai--,/
+FS
+FS
+
+#a
+
+104.
+.. ai-- 'aa i-he cohivi 'e te-he==,_
+FS NEG AUX.NAF-3PL.GEN know.LF NOM FUT-3PL.GEN
+FS 否定 助動詞.非主焦-3PL.屬格 知道.處焦 主格 未來-3PL.屬格
+
+#a
+
+105.
+... 'e te-he sucaefi-za ci==,_
+NOM FUT-3PL.GEN pass.by-PF REL
+主格 未來-3PL.屬格 經過-受焦 關係詞
+
+#a
+
+106.
+.. 'e te-he mia ci ceonʉ.\
+NOM AUX.FUT-3PL.GEN walk.PF REL road
+主格 助動詞.未來-3PL.屬格 走.受焦 關係詞 路
+
+#e The three children seemed to have no idea which road they were going to pass, 
+#c 那三個小孩好像不知道要走哪條路。
+#a
+
+107.
+... 'iama te sucaefi to mo==,\
+happen.to FUT pass.by.AF OBL AUX.AF
+剛好 未來 經過.主焦 斜格 助動詞.主焦
+
+#a
+
+108.
+.. toa nasi ci eatatiskova.\
+pick.AF pear REL  man
+採.AF 梨 關係詞 人
+
+#e which happen to be the pass-by where the man gathered the pears. 
+#c 剛好（他們）經過那個採梨子的人。
+#a
+
+109.
+...(0.8) ine.mio na 'e==,\
+at.that.time FIL NOM
+那時候 FIL 主格
+
+#a
+
+110.
+.. mo toa na 'e mo toa nasi ci eatatiskova o-si=^cu.\
+AUX.AF pick.AF FIL NOM AUX.AF pick.AF pear REL man AUX.NAF-3SG.GEN=PFV
+助動詞.主焦 採.主焦 FIL 主格 助動詞.主焦 採.AF 梨 關係詞 人 助動詞.非主焦-3SG.屬格=完成
+
+#a
+
+111.
+... zou== cohivi ho,\
+DM know.LF COMP
+DM 知道.處焦 補語詞
+
+#a
+
+112.
+...(0.8) ho== i-he-- i-si pa'eo'-a 'o mo cono khago ci nasi.\
+COMP AUX.NAF-3PL.GEN AUX.NAF-3SG.GEN lose-PF NOM AUX.AF one basket REL  pear
+補語詞 助動詞.非主焦-3PL.屬格 助動詞.非主焦-3SG.屬格 遺失-受焦 主格 助動詞.主焦 一 籃子 關係詞 梨
+
+#e Then, the pear-gathering man seemed to have learned that one basket of the pears was missing. 
+#c 採梨子的人好像已經知道一籃梨子不見了。
+#a
+
+113.
+...(0.7) ine.mio==.\
+at.that.time
+那時候
+
+#a
+
+114.
+... i-si=cu,\
+AUX.NAF-3SG.GEN=PFV
+助動詞.非主焦-3SG.屬格=完成
+
+#a
+
+115.
+.. 'aka ta'totohʉng-va eainca ma ^sia na mo meo'eo'i.\
+keep.on.PF think-PF say.PF EVI who NOM AUX.AF  steal.AF
+一直.PF 想-受焦 說.受焦 知識詞 誰 主格 助動詞.主焦 偷.主焦
+
+#e (And) at that time he kept thinking of who might have stolen the pears. 
+#c 那時候他一直想是誰偷走了梨子。
+#a
+
+116.
+...(1.3) aʉlʉ ne,\
+just.AF when
+就.主焦 當
+
+#a
+
+117.
+... ne o-si ta'totohʉng-va,\
+when AUX.NAF-3SG.GEN think-PF
+當 助動詞.非主焦-3SG.屬格 想-受焦
+
+#a
+
+118.
+.. mi=cu sucaefi 'e mo tueu ci oko ho macoconi==,\
+AUX.AF=PFV pass.by.AF NOM AUX.AF three REL child CONJ one.each
+助動詞.主焦=完成 經過.主焦 主格 助動詞.主焦 三 關係詞 小孩 連接詞 每一個
+
+#e Just when he was thinking, the three children (happened to) passed by, 
+#c 就當他在想的時候，三個小孩剛好經過。
+#a
+
+119.
+... na'no kokakaebʉ ho mo mʉpʉtʉ ta ma ta== ta nasi.\
+very.AF delighted.AF CONJ AUX.AF hold.AF OBL FIL OBL OBL pear
+非常.主焦 高興.主焦 連接詞 助動詞.主焦 拿著.主焦 斜格 FIL 斜格 斜格 梨
+
+#e and each was holding with great joy a pear in hand.
+#c 而且每一位都很高興的手裡拿著一顆梨子。
+#a
+
+120.
+...(0.8) ine.mio na 'e==,\
+at.that.time FIL NOM
+那時候 FIL 主格
+
+#a
+
+121.
+... ina 'e himnonu ta nasi.\
+FIL NOM owner OBL pear
+FIL 主格 主人 斜格 梨
+
+#a
+
+122.
+.. i-si cu s'a no o'te cohivi ho eainca== no no ko--,/
+AUX.NAF-3SG.GEN PFV  NEG FIL NEG know.LF CONJ  say.PF OBL OBL FS
+助動詞.非主焦-3SG.屬格  完成  否定 FIL  否定 知道.處焦 連接詞 說.受焦 斜格 斜格 FS
+
+#a
+
+123.
+.. no== no koeu-si.\
+OBL OBL ear-3SG.GEN
+斜格 斜格 耳-3SG.屬格
+
+#a
+
+124.
+... eainca ma asonʉ ^hin'i co mo meo'eo'i.\
+say.PF EVI probably.AF 3SG.NOM NOM AUX.AF steal.AF
+說.受焦 EVI 或許.主焦 3SG.主格 主格 助動詞.主焦 偷.主焦
+
+#e The pear-owner must have realized/learned by guessing that  they probably stole/have stolen (the pears). 
+#c 梨子的主人已經猜到「或許是他們偷走了梨子」。
+#a

@@ -1,0 +1,710 @@
+topic: frog8
+type: Narrative
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 高德盛, parain a oemaw, male, 1928-1-5
+collected: 2003-01-01
+revised: None
+video: SaiNr-frog8_parain a 'oemaw.mp3
+
+1.
+korkoring kit-kita ka==,/
+child RED-see ACC
+小孩 <主焦>重疊-看 受格
+
+#a 4.8, None, 6.99
+
+2.
+...(0.8) 'aehoe'./
+dog
+狗
+
+#e The child was looking at a dog.
+#c 小孩正在看狗。
+#a 6.99, None, 8.03
+
+3.
+... 'ima kit-kita ka takem ray==,/
+PROG RED-see ACC frog LOC
+進行 <主焦>重疊-看 受格 青蛙 處格
+
+#a 8.03, None, 10.34
+
+4.
+.. binbinisitan 'izo'./
+container inside
+容器 裡面
+
+#e He was looking at the frog inside the container.
+#c 他正在看容器裡的青蛙。
+#a 10.34, None, 11.54
+
+5.
+...(3.3) korkoring== .. ma'rem ila.\
+child . AFrest PFV
+小孩 . 主焦<完成>休息 完成
+
+#e The child went to bed.
+#c 小孩去睡覺了。
+#a 11.54, None, 16.47
+
+6.
+...(2.9) a==,/
+FIL
+FIL
+
+#a 16.47, None, 19.34
+
+7.
+...(1.4) takem,\
+frog
+青蛙
+
+#a 19.34, None, 21.14
+
+8.
+... kas'oehaz.\
+AF.move.out
+主焦.出來
+
+#a 21.14, None, 22.42
+
+9.
+... inaray binbinisitan kaslatar./
+from container AF.to.outside
+從 容器 主焦.到外面
+
+#e The frog went out of the container.
+#c 青蛙從容器裡出來。
+#a 22.42, None, 24.22
+
+10.
+...(2.4) korkoring==,/
+child
+小孩
+
+#a 24.22, None, 27.34
+
+11.
+...(1.1) 'okik ra:am ma'rem m'itol kita'-en,/
+NEG AF.know AFrest AFrise see-PF
+否定 主焦.知道 主焦<完成>休息 主焦<完成>起來 看-受焦
+
+#a 27.34, None, 30.34
+
+12.
+...(1.4) takem 'oka' ila.\
+frog NEG PFV
+青蛙 否定 完成
+
+#e The child did not know and when he got up, the frog was gone.
+#c 小孩不知道, (當)他起來看, 青蛙不見了。
+#a 30.34, None, 32.62
+
+13.
+...(3.1) sia mari' ka==,/
+3SG.GEN AF.take ACC
+3SG.屬格 主焦.拿 受格
+
+#a 32.62, None, 36.68
+
+14.
+... haehoeway 'aehae',/
+shoe one
+鞋子 一
+
+#a 36.68, None, 37.71
+
+15.
+...(0.9) 'am==,\
+FUT
+未來
+
+#a 37.71, None, 38.88
+
+16.
+... s==bet ka .. 'aehoe'./
+beat ACC . dog
+<主焦>打 受格 . 狗
+
+#e He took one shoe to beat the dog.
+#c 他拿一個鞋子要打狗。
+#a 38.88, None, 40.86
+
+17.
+...(1.8) 'aehoe' moiti' ray==,/
+dog AF.insert LOC
+狗 主焦.鑽 處格
+
+#a 40.86, None, 43.76
+
+18.
+...(1.2) moiti' ray binbinisitan 'izo' ka ta'oeloeh.\
+AF.insert LOC container inside ACC head
+主焦.鑽 處格 容器 裡面 受格 頭
+
+#e The dog stuck its head inside the container.
+#c 狗把它的頭鑽到容器裡。
+#a 43.76, None, 46.89
+
+19.
+...(2.1) sia haewaeh ka hinoehas,\
+3SG.NOM open ACC window
+3SG.主格 <主焦>開 受格 窗戶
+
+#a 46.89, None, 50.35
+
+20.
+...(2.6) 'aehoe' ra:iw ila,\
+dog AF.leave PFV
+狗 主焦.離開 完成
+
+#a 50.35, None, 53.77
+
+21.
+...(1.5) tkaw ila-ila.\
+jump go-PFV
+<主焦>跳 走-完成
+
+#e He opened the window and the dog jumped away.
+#c 他打開窗戶, 狗跳出去了。
+#a 53.77, None, 55.85
+
+22.
+...(1.5) rima' noka korkoring rakep-en 'aehoe' aewpoe'-oen.\
+AF.go GEN child catch-PF dog carry-PF
+主焦.走 屬格 小孩 抓-受焦 狗 帶-受焦
+
+#a 55.85, None, 59.76
+
+23.
+...(2.8) m-wai' ray taew'an./
+AF-come LOC house
+主焦-來 處格 房子
+
+#e He caught the dog and carried it into the house.
+#c 他抓住狗帶他到屋子裡。
+#a 59.76, None, 63.13
+
+24.
+.. 'oe'oe ila,\
+call PFV
+<主焦>叫 完成
+
+#a 63.13, None, 64.26
+
+25.
+...(2.8) 'oe'oe ila si-'oe'oe hini,/
+call PFV RF-call here
+<主焦>叫 完成 指焦-叫 這裡
+
+#a 64.26, None, 67.59
+
+26.
+... kabih.\
+side
+邊
+
+#e He kept calling in every direction.
+#c 他往四處一直叫。
+#a 67.59, None, 68.6
+
+27.
+... hayza ka boya',/
+EXIST NOM beehive
+存在 主格 蜂窩
+
+#a 68.6, None, 69.93
+
+28.
+...(1.5) boya',/
+beehive
+蜂窩
+
+#a 69.93, None, 71.98
+
+29.
+...(2.4) m-wa:i' hayap,/
+AF-come fly
+主焦-來 <主焦>飛
+
+#a 71.98, None, 74.81
+
+30.
+.. ray korkoring ki 'aehoe'.\
+LOC child and dog
+處格 小孩 和 狗
+
+#e There were bees flying toward the boy and the dog.
+#c 有蜂飛往小孩和狗。
+#a 74.81, None, 76.23
+
+31.
+...(3.1) 'aehoe' rima' tobong ka boya'./
+dog AF.go bark ACC bee
+狗 主焦.走 <主焦>吠 受格 蜂
+
+#e The dog barked at the bees.
+#c 狗對著蜂窩吠叫。
+#a 76.23, None, 80.93
+
+32.
+...(1.1) korkoring masroko' isaa,\
+child AF.bend.down there
+小孩 主焦.彎下腰 那裡
+
+#a 80.93, None, 83.49
+
+33.
+...(2.0) korkoring==,/
+child
+小孩
+
+#a 83.49, None, 85.85
+
+34.
+... aseng-en noka boya'./
+bite-PF GEN bee
+叮-受焦 屬格 蜂
+
+#e The child bent down and the bees were biting him.
+#c 小孩彎下腰, 蜂在叮他。
+#a 85.85, None, 87.62
+
+35.
+...(1.2) hini 'aehoe' yo tobong lalenges,\
+this dog INT bark shake
+這 狗 感嘆 <主焦>吠 <主焦>搖
+
+#a 87.62, None, 90.91
+
+36.
+...(3.9) lalenges-en== .. boya' kas'oehaz ila saboeh.\
+shake-PF . bee AF.move.out PFV all
+搖-受焦 . 蜂 主焦.出來 完成 全部
+
+#e The dog barked and shook the hive and the bees all came out.
+#c 狗對著蜂窩吠(而且)搖(樹), 搖一搖蜂全部都跑出來了。
+#a 90.91, None, 96.91
+
+37.
+...(1.2) hini takem ma' tikot ila.\
+this frog also AF.afraid PFV
+這 青蛙 也 主焦.害怕 完成
+
+#e The frog got afraid.
+#c 青蛙也害怕
+#n 應是口誤, 要說'狗'卻說成'青蛙'
+#n Note: slip of the tongue, ahoe' 'dog' mis-uttered as takem 'frog.'
+#a 96.91, None, 99.3
+
+38.
+... korkoring rima' ra:iw ray==,/
+child AF.go AF.leave LOC
+小孩 主焦.走 主焦.離開 處格
+
+#a 99.3, None, 101.21
+
+39.
+.. kaehoey babaw hayza ka roro'.\
+tree TOP EXIST NOM hole
+樹 頂 存在 主格 洞
+
+#e The child left and climbed on top of the tree where there was a hole.
+#c 小孩離開, 爬上有樹洞的樹頂。
+#a 101.21, None, 102.97
+
+40.
+...(2.0) ray roro' 'izo' hayza ka 'oewi'./
+LOC hole inside EXIST NOM owl
+處格 洞 裡面 存在 主格 貓頭鷹
+
+#e There was an owl inside the hole.
+#c 洞裡有貓頭鷹。
+#a 102.97, None, 106.42
+
+41.
+.. kas'oehaz.\
+AF.move.out
+主焦.出來
+
+#a 106.42, None, 107.34
+
+42.
+...(0.9) korkoring homses.\
+child AF.be.surprised
+小孩 主焦.嚇一跳
+
+#e The owl got out and the child got surprised.
+#c 貓頭鷹出來, 小孩嚇一跳。
+#a 107.34, None, 109.25
+
+43.
+...(1.0) maykonkonay sahae' ra==,\
+AF.roll AF.fall FS
+主焦.滾 主焦.掉下來 FS
+
+#a 109.25, None, 111.43
+
+44.
+.. ray==,\
+LOC
+處格
+
+#a 111.43, None, 112.13
+
+45.
+...(1.4) ra:i'./
+ground
+地
+
+#e The child fell down rolling.
+#c 小孩滾下來。
+#a 112.13, None, 113.83
+
+46.
+...(1.2) 'aehoe' noka==,/
+dog GEN
+狗 屬格
+
+#a 113.83, None, 115.7
+
+47.
+.. boya' sowaw-en ila.\
+bee chase-PF PFV
+蜂 追-受焦 完成
+
+#e The bees were chasing the dog.
+#c 蜜蜂正在追狗。
+#a 115.7, None, 117.15
+
+48.
+...(2.3) hini ko==,/
+this FS
+這 FS
+
+#a 117.15, None, 120.18
+
+49.
+...(1.4) korkoring yo== .. ka-babawaw-en noka==,/
+child FIL . KA-above-PF GEN
+小孩 FIL . KA-上面-受焦 屬格
+
+#a 120.18, None, 123.07
+
+50.
+.. 'oewi'./
+owl
+貓頭鷹
+
+#e The owl was hovering over the child.
+#c 貓頭鷹在小孩上面盤旋。
+#a 123.07, None, 123.48
+
+51.
+...(1.6) korkoring rima' tai'itol ray bato' babaw.\
+child AF.go AF.move.up LOC rock TOP
+小孩 主焦.走 主焦.爬上去 處格 石頭 上面
+
+#e The child climbed on top of a rock.
+#c 小孩爬到石頭上面。
+#a 123.48, None, 127.19
+
+52.
+...(0.9) hayza ka==,/
+EXIST NOM
+存在 主格
+
+#a 127.19, None, 128.7
+
+53.
+...(1.0) wae'ae'./
+deer
+鹿
+
+#e There was a deer.
+#c 有鹿。
+#a 128.7, None, 130.12
+
+54.
+...(0.8) ri'sa pakomoSa:,/
+there thought.as
+那裡 以為
+
+#a 130.12, None, 131.93
+
+55.
+...(1.4) pakomoSa: kaehoey nisia tikama'-en ka kaeh'oeng.\
+thought.as tree 3SG.GEN catch-PF ACC antler
+以為 樹 3SG.屬格 抓-受焦 受格 鹿角
+
+#e The child grabbed on a tree branch which turned out to be the deer's antler.
+#c 小孩抓住鹿角, 誤以為是樹枝
+#n IU54 pa-komosa '使役─說'
+#n Note: IU#54 pa-komoSa' <cau-say>
+#a 131.93, None, 135.62
+
+56.
+...(1.8) noka== .. wae'ae' si-'in'itol sia hoe'oeng-en,\
+GEN . deer RF-move.up 3SG.NOM lift.up-PF
+屬格 . 鹿 指焦-起來 3SG.主格 提起-受焦
+
+#a 135.62, None, 139.88
+
+57.
+... kibabaw-en ray== .. ta'oeloeh,/
+carry.over-PF LOC . head
+帶走-受焦 處格 . 頭
+
+#a 139.88, None, 141.92
+
+58.
+... pa-'ae'ae:aew ila.\
+CAU-AF.run PFV
+使役-主焦.跑 完成
+
+#e The deer lifted him over its head and ran away.
+#c 鹿把他頂在頭上, 然後跑走了。
+#a 141.92, None, 143.19
+
+59.
+... 'aehoe' ma' tobong ila ma'oenhael ra:iw ila.\
+dog also bark PFV together AF.leave PFV
+狗 也 <主焦>吠 完成 一起 主焦.離開 完成
+
+#e The dog also barked and they left together.
+#c 狗也在吠, 然後一起跑走了。
+#a 143.19, None, 145.87
+
+60.
+...(2.2) rima' nisia,/
+AF.go 3SG.GEN
+主焦.走 3SG.屬格
+
+#a 145.87, None, 148.96
+
+61.
+... noka wae'ae',/
+GEN deer
+屬格 鹿
+
+#a 148.96, None, 150.13
+
+62.
+...(1.3) pak-sahae'-en ray 'ataS ila hini kamasal.\
+CAU-fall-PF LOC cliff PFV here below
+使役-掉下來-受焦 處格 懸崖 完成 這 山腰下
+
+#e The deer took them to a cliff where it threw them over.
+#c 鹿把他們帶到懸崖上, 把他們丟下去。
+#a 150.13, None, 153.42
+
+63.
+...(1.3) mae'iyaeh ki==,/
+man CONJ
+人 連接詞
+
+#a 153.42, None, 155.42
+
+64.
+... 'aehoe',/
+dog
+狗
+
+#a 155.42, None, 155.97
+
+65.
+...(4.7) sahae' ila o: rima' potngor ray wasal./
+AF.fall PFV INT AF.go AF.arrive LOC sea
+主焦.掉下來 完成 感嘆 主焦.走 主焦.到達 處格 水
+
+#e Both the boy and the dog fell into the water.
+#c 小孩和狗都被丟到水裡。
+#a 155.97, None, 162.47
+
+66.
+... mae'iyaeh minsa'la',/
+man AF.first
+人 主焦.先
+
+#e The boy first,
+#c 小孩先，
+#a 162.47, None, 163.73
+
+67.
+.. 'aehoe' maybiil.\
+dog AF.after
+狗 主焦.後
+
+#e The dog followed.
+#c 再來是狗。
+#a 163.73, None, 164.84
+
+68.
+...(1.3) nisia 'aewpoe'-oen ka 'aehoe'.\
+3SG.GEN carry-PF NOM dog
+3SG.屬格 抱-受焦 主格 狗
+
+#e He carried the dog.
+#c 他帶著狗。
+#a 164.84, None, 167.52
+
+69.
+...(0.9) si-kas'oemaeh ila,\
+RF-to.land PFV
+指焦-上岸 完成
+
+#a 167.52, None, 169.36
+
+70.
+...(3.3) kas'oemaeh ila./
+AF.to.land PFV
+主焦.上岸 完成
+
+#e They moved toward the land.
+#c 他們往岸邊移動。
+#a 169.36, None, 173.48
+
+71.
+...(1.0) 'aehoe' pa-langoy-on amaray horok 'am kababaw.\
+dog CAU-swim-PF through flatland FUT TOP
+狗 使役-游泳-受焦 經由 平地 未來 上去
+
+#e The dog swam and moved over the ground.
+#c 狗(在小孩肩上)游泳上岸。
+#a 173.48, None, 176.89
+
+72.
+.. korkoring koSa:,\
+child say
+小孩 <主焦>說
+
+#a 176.89, None, 178.03
+
+73.
+.. saksakaw.\
+softly
+輕輕地
+
+#e The child told the dog to move silently.
+#c 小孩叫狗安靜。
+#a 178.03, None, 178.82
+
+74.
+...(1.1) lasia saksakaw maray==,/
+3PL.NOM softly through
+3PL.主格 <主焦>輕輕地 經由
+
+#a 178.82, None, 181.33
+
+75.
+...(2.3) maray roro' babaw,\
+through hole TOP
+經由 洞 上面
+
+#a 181.33, None, 184.79
+
+76.
+...(4.2) onkosa'en ila o: kita'-en hayza' ka==,/
+after.walking.through PFV INT see-PF EXIST NOM
+穿過去 完成 感嘆 看-受焦 存在 主格
+
+#a 184.79, None, 190.75
+
+77.
+...(0.8) takem roSa' riza.\
+frog two there
+青蛙 兩 那裡
+
+#e They moved slowly through the hole and saw two frogs.
+#c 他們輕輕地穿過洞, 然後看到兩隻青蛙。
+#a 190.75, None, 192.67
+
+78.
+...(1.9) sia kita' ka takem hiza,/
+3SG.NOM see ACC frog there
+3SG.主格 <主焦>看 受格 青蛙 那裡
+
+#a 192.67, None, 195.85
+
+79.
+...(1.2) honay babaw./
+there TOP
+那裡 上面
+
+#e He saw the frog there on top.
+#c 他看到青蛙在那上面。
+#a 195.85, None, 197.68
+
+80.
+...(0.8) kita' saksaakaw,/
+see softly
+<主焦>看 <主焦>輕輕地
+
+#a 197.68, None, 199.82
+
+81.
+...(0.8) ra:iw ila,\
+AF.leave PFV
+主焦.離開 完成
+
+#a 199.82, None, 201.27
+
+82.
+...(1.2) pa-ra:iw ila ilahato noka==,/
+CAU-AF.leave PFV AF.go.there GEN
+使役-主焦.離開 完成 主焦.走.那裡 屬格
+
+#a 201.27, None, 203.83
+
+83.
+... 'aehoe' ki==,/
+dog and
+狗 和
+
+#a 203.83, None, 204.89
+
+84.
+... korkoring.\
+child
+小孩
+
+#e The boy and the dog left slowly.
+#c 小孩和狗輕輕地離開。
+#a 204.89, None, 206.03
+
+85.
+...(0.8) hiza takem ray roro' babaw,\
+that frog LOC hole TOP
+那 青蛙 處格 洞 上面
+
+#a 206.03, None, 208.41
+
+86.
+... 'ima==,\
+PROG
+進行
+
+#a 208.41, None, 209.19
+
+87.
+...(0.9) saze:ez,\
+stare
+瞪
+
+#a 209.19, None, 210.67
+
+88.
+...(2.3) 'ima saze:ez,\
+PROG stare
+進行 瞪
+
+#a 210.67, None, 213.62
+
+89.
+...(2.6) 'oka' ila.\
+NEG PFV
+否定 完成
+
+#e The frogs on top of the hole kept on staring them.
+#c 小孩在洞上面一直瞪著看。
+#a 213.62, None, 216.65

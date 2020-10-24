@@ -1,0 +1,649 @@
+topic: pear
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 謝美, Lubi Nomin, female, None
+collected: None
+revised: None
+video: sdqNr-pear_lubi.mp3
+
+1.
+.. niq-an ka,_
+be.at-LF NOM
+在-處焦 主格
+
+#a 0.12, None, 1.17
+
+2.
+... kingan anu ka==,_
+one then KA
+一 然後 KA
+
+#a 1.17, None, 2.86
+
+3.
+... seediq anu ka waga,\
+people then KA PROG
+人 DM 進行
+
+#a 2.86, None, 4.65
+
+4.
+... kiya waga so m-eniq so anu ka,_
+that PROG be.like AF-be.at be.like then KA
+那個 進行 像 主焦-在 像 然後 KA
+
+#a 4.65, None, 6.8
+
+5.
+... a== neepah=na==,\
+FIL field=3SG.GEN
+FIL 田=3SG.屬格
+
+#a 6.8, None, 9.06
+
+6.
+seediq nii ma._
+people this then
+人 這個 然後
+
+#e There was a person who was in his own field.
+#c 有一個人在他自己的田裡。
+#a 9.06, None, 10.0
+
+7.
+... waga m-usa a==,_
+PROG AF-go FIL
+進行 主焦-去 FIL
+
+#a 10.0, None, 11.5
+
+8.
+.. l<m>amu anu ka,_
+<AF>pick then KA
+<主焦>採 然後 KA
+
+#a 11.5, None, 12.89
+
+9.
+... hei na qhuni.\
+fruit GEN tree
+果實 屬格 樹
+
+#a 12.89, None, 14.3
+
+10.
+.. yaani quti.^rodux uri yaani maanu ini=mu kla-i.\
+probably guava also probably what NEG=1SG.GEN know-PF.IRR
+可能 番石榴 也 可能 什麼 否定-=SG.屬格 知道-受焦.非實現
+
+#e He was picking the fruits of a tree, which were probably guavas or something. I don't know.
+#c 他當時正在採收樹的果實，可能是芭樂之類的水果，我不知道。
+#n quti rodux 'guava 芭樂'
+#a 14.3, None, 17.31
+
+11.
+... m-- @<BREATH>, 
+FS @ 
+FS @
+
+#a 17.31, None, 18.68
+
+12.
+.. ma kika,_
+then thus
+然後 所以
+
+#a 18.68, None, 19.52
+
+13.
+.. wa m-usa,\
+PROG AF-go
+進行 主焦-去
+
+#a 19.52, None, 20.41
+
+14.
+.. l<m>amu wada hiya ka,_
+<AF>pick go.PST there NOM
+<主焦>採 去.過去 那裡 主格
+
+#a 20.41, None, 22.19
+
+15.
+... kingan ka so riso hari gaga m-osa,\
+one NOM be.like boy a.little PROG AF-go
+一 主格 像 男孩 一點進行 主焦-去
+
+#a 22.19, None, 25.23
+
+16.
+... a==,_
+FIL
+FIL
+
+#a 25.23, None, 26.28
+
+17.
+... m-osa m-angan a u-- m-usa,\
+AF-go AF-take FIL FS AF-go
+主焦-去 主焦-拿 FIL FS 主焦-去
+
+#a 26.28, None, 28.31
+
+18.
+.. ^m-apa anu ka==,_
+AF-carry then KA
+主焦-背 然後 KA
+
+#a 28.31, None, 29.75
+
+19.
+... anu ka==,_
+then KA
+然後 KA
+
+#a 29.75, None, 30.99
+
+20.
+.. hei na qhuni kiya ma==,_
+fruit GEN tree that then
+果實 屬格 樹 那個 然後
+
+#e As he went picking (the fruits), there came a young person who went to carry the tree fruits.
+#c 他去採（水果）後，來了個年輕人，去背起了樹的果實。
+#a 30.99, None, 32.77
+
+21.
+... anu ka==,_
+then KA
+然後 KA
+
+#a 32.77, None, 34.3
+
+22.
+...(0.7) taapa,\
+AF.ride
+主焦.騎
+
+#a 34.3, None, 35.67
+
+23.
+.. anu ka,_
+then KA
+然後 KA
+
+#a 35.67, None, 36.35
+
+24.
+.. anu ka== rulu.\
+then KA bicycle
+然後 KA 腳踏車
+
+#a 36.35, None, 37.67
+
+25.
+.. t<m>ediq,\
+<AF>踏
+<主焦>step
+
+#a 37.67, None, 38.62
+
+26.
+.. anu ka m-apa==,_
+then KA AF-carry
+然後 KA 主焦-背
+
+#a 38.62, None, 39.85
+
+27.
+... kingal rawa <n>apa=na.\
+one basket <PF.PFV>carry=3SG.GEN
+一 籃子 <受焦.完成>背=3SG.屬格
+
+#a 39.85, None, 41.64
+
+28.
+.. anu ka hei qhuni kii.\
+then KA fruit tree that
+然後 KA 果實 樹 那個
+
+#a 41.64, None, 43.31
+
+29.
+.. yaani quti.rodux ini kla-i ma,_
+probably guava NEG know-PF.IRR then 
+可能 芭樂 否定 知道-受焦.非實現 然後 
+
+#e Then, (he) rode a bike, taking a basket of fruits, which were probably guavas. I don't know.
+#c 然後，（他）騎著腳踏車，帶著一籃水果，或許是芭樂吧，我不知道。
+#a 43.31, None, 45.67
+
+30.
+.. kika wada,\
+thus AUX.PST
+所以 助動詞.過去
+
+#a 45.67, None, 47.03
+
+31.
+.. so==,_
+be.like
+像
+
+#a 47.03, None, 47.5
+
+32.
+.. t^<m>alang m-adis anu ka==,_
+<AF>run AF-take then KA
+<主焦>跑 主焦-拿然後 KA
+
+#a 47.5, None, 50.05
+
+33.
+... a kingal rawa a,_
+FIL one basket FIL
+FIL 一 籃子 FIL
+
+#a 50.05, None, 51.61
+
+34.
+.. quti.rodux kii di ma,_
+guava that PFV.PART then
+芭樂 那個 完成.語助詞 然後
+
+#e It's like he ran taking those fruits.
+#c 他像是拿著那些水果在跑。
+#a 51.61, None, 52.8
+
+35.
+... wa niq-an btunux ka elu kiya ma wada m-oda a,_
+PROG be.at-LF stone NOM road that then AUX.PST AF-past FIL
+進行 在-處焦 石頭 主格 路 那個 然後 助動詞.過去 主焦-經過 FIL
+
+#a 52.8, None, 56.08
+
+36.
+... so a==,_
+be.like FIL
+像 FIL
+
+#a 56.08, None, 57.13
+
+37.
+.. ptebuk hiya di ma wada,_
+AF.bump there PFV.PART then AUX.PST
+主焦.碰撞 那裡完成.語助詞 然後 助動詞.過去
+
+#e There was a stone on his way, and he bumped into it.
+#c 他經過的路上有石頭，而他撞到了（石頭）。
+#a 57.13, None, 58.78
+
+38.
+... ^takun ka anu ka==,_
+AF.fall NOM then KA
+主焦.跌倒 主格 然後 KA
+
+#a 58.78, None, 60.99
+
+39.
+... seediq a==,_
+people FIL
+人 FIL
+
+#a 60.99, None, 62.28
+
+40.
+.. m-apa anu ka==,_
+AF-carry then KA
+主焦-背 然後 KA
+
+#a 62.28, None, 63.67
+
+41.
+... a==,\
+FIL
+FIL
+
+#a 63.67, None, 65.0
+
+42.
+.. quti.rodux kii di ma wada tdoruy kana ka,_
+guava that PFV.PART then AUX.PST AF.roll.down all NOM
+芭樂 那個 完成.語助詞 然後 助動詞.過去 主焦.滾落 全部 主格
+
+#a 65.0, None, 67.91
+
+43.
+... anu ka==,_
+then KA
+然後 KA
+
+#a 67.91, None, 69.06
+
+44.
+.. hei na a,_
+fruit GEN FIL 
+果實 屬格 FIL
+
+#a 69.06, None, 69.92
+
+45.
+.. <n>apa=na,\
+<PF.PFV>carry=3SG.GEN
+<受焦.完成>背=3SG.屬格
+
+#a 69.92, None, 70.52
+
+46.
+.. quti.rodux kii di ma,\
+guava that PFV.PART then
+芭樂 那個 完成.語助詞 然後
+
+#e There was a stone on the road. As he went past, he bumped into it and fell. All those guavas that he carried rolled down.
+#c 在路上有顆石頭。當他經過時，撞到了（那顆石頭）然後就跌倒了。他背的所有芭樂也都滾落了下來。
+#a 70.52, None, 71.66
+
+47.
+... gisu ka,_
+AF.come NOM
+主焦.來 主格
+
+#a 71.66, None, 73.23
+
+48.
+.. teru a== riso,\
+three FIL boy
+三 FIL 男孩
+
+#a 73.23, None, 74.8
+
+49.
+.. so laqi ha di ma.\
+be.like child PART PFV.PART then
+像 小孩 語助詞 完成.語助詞 然後
+
+#e Then, there came three boys, who seemed rather young. 
+#c 然後，來了三個男孩，像是年紀比較小一點的。
+#a 74.8, None, 76.27
+
+50.
+... wa q<m>ita kiya ma,_
+PROG <AF>see that then
+進行 <主焦>看 那個 然後
+
+#a 76.27, None, 78.09
+
+51.
+.. wa m-osa a,_
+PROG AF-go FIL
+進行 主焦-去 FIL
+
+#a 78.09, None, 79.06
+
+52.
+.. d<m>ayo anu ka==._
+<AF>help then KA
+<主焦>幫忙 然後 KA
+
+#a 79.06, None, 80.45
+
+53.
+.. a p-s-totui a rulu=na wa=daha dyaw-an l<m>amu ka,\
+FIL CAU-RF-lift.up bicycle=3SG.GEN PROG=3PL.GEN help-LF <AF>pick NOM
+FIL 使役-參焦-扶起來 腳踏車=3SG.屬格 進行=3PL.屬格 幫忙-處焦 <主焦>採 主格
+
+#a 80.45, None, 84.3
+
+54.
+.. anu ka quti.rodux=na stenge kiya rawa di ma,_
+then KA guava=3SG.GEN AF.full that basket PFV.PART then
+然後 KA 芭樂=3SG.屬格 主焦.裝滿 那個 籃子 完成.語助詞 然後
+
+#e They went to help lift up his bike and pick up the guavas, refilling the basket.
+#c 他們前去幫忙將腳踏車扶起，並且將芭樂都撿起來裝滿籃子。
+#a 84.3, None, 87.57
+
+55.
+... kiya ka wada di.\
+that KA go.PST PFV.PART
+那個 KA 去.過去 完成.語助詞
+
+#a 87.57, None, 89.27
+
+56.
+...(0.8) wada m-swaye di ma,_
+PST AF-separate PFV.PART then
+過去 主焦-分開 完成.語助詞 然後
+
+#e Then, they went away, and separated (with the boy).
+#c 然後，他們便離開，和（男孩）分開了。
+#a 89.27, None, 91.58
+
+57.
+... m-oda elu ka anu ka laqi kii wa q<m>ita kingan anu ka==,_
+AF-pass road NOM then KA child that PROG <AF>see one then KA
+主焦-經過 路 主格 主格 然後 KA 小孩 那個 進行 <主焦>看 一 然後 KA
+
+#a 91.58, None, 95.81
+
+58.
+... anu ka==,_
+then KA
+然後 KA
+
+#a 95.81, None, 97.5
+
+59.
+... uh.\
+FIL
+FIL
+
+#a 97.5, None, 98.33
+
+60.
+.. bnubung na a==,_
+thing.to.cover GEN FIL
+用來蓋的 屬格 FIL
+
+#a 98.33, None, 100.02
+
+61.
+.. tunux.\
+head
+頭
+
+#a 100.02, None, 100.77
+
+62.
+.. m-ntena hari a so a==,_
+AF- same a.little FIL be.like FIL
+主焦-一樣 一點 FIL 像 FIL
+
+#a 100.77, None, 102.7
+
+63.
+... a <L2JbosiL2J> peni.\
+FIL hat PART
+FIL 帽子 語助詞
+
+#e Those kids went passed the road and saw something used for covering the head, which was kind of like a hat.
+#c 那些小孩經過路邊，看到一個用來蓋頭用的東西，有點像是帽子。
+#a 102.7, None, 104.47
+
+64.
+.. m-- anu ka,_
+FS then KA
+FS 然後 KA
+
+#a 104.47, None, 105.55
+
+65.
+... so,_
+be.like
+像
+
+#a 105.55, None, 106.41
+
+66.
+.. <L2JbosiL2J> s<n>alu na anu ka==,_
+hat <PF.PFV>make GEN then KA
+帽子 <受焦.完成>-做 屬格 然後 KA
+
+#a 106.41, None, 108.23
+
+67.
+... so sudu ye na,\
+be.like grass maybe PART
+像 草 也許 語助詞
+
+#a 108.23, None, 109.77
+
+68.
+.. uh irih so a,_
+FIL just.like be.like FIL
+FIL 就如 像 FIL
+
+#a 109.77, None, 110.8
+
+69.
+... anu ka==,_
+then KA
+然後 KA
+
+#a 110.8, None, 112.45
+
+70.
+.. trasi.\
+leaf.hat
+斗笠
+
+#a 112.45, None, 113.42
+
+71.
+.. kii di ma kika,_
+that PFV.PART then thus
+那個 完成.語助詞 然後 所以
+
+#e The hat was made of something like grass. It seemed to be a leaf hat.
+#c 那帽子像是用草做成的。可能是斗笠吧。
+#a 113.42, None, 114.48
+
+72.
+.. wa q<m>ita kii deheya kii di ma waga=na,\
+PROG <AF>see that 3PL that PFV.PART then PROG=3SG.GEN
+進行 <主焦>看 那個 3PL那個 完成.語助詞 然後 進行=3SG.屬格
+
+#a 114.48, None, 117.25
+
+73.
+... wa=na s-plawa a wa=na,_
+PROG=3SG.GEN RF-call FIL PROG=3SG.GEN
+進行=3SG.屬格 參焦-叫 FIL進行=3SG.屬格
+
+#a 117.25, None, 119.56
+
+74.
+... hrenang quwaq=na m-lawa anu ka==,\
+voice mouth=3SG AF-call then KA
+聲音 嘴巴=3SG.屬格 主焦-叫 然後 KA
+
+#a 119.56, None, 122.22
+
+75.
+.. m-iyuk quwaq=na m-lawa anu ka,\
+AF-whistle mouth=3SG AF-call then KA
+主焦-吹口哨嘴巴=3SG.屬格 主焦-叫 然後 KA
+
+#a 122.22, None, 124.07
+
+76.
+... seediq wada,_
+people AUX.PST
+人 助動詞.過去
+
+#a 124.07, None, 125.12
+
+77.
+.. taapa <L2JjidenshaL2J > m-adis a==,_
+AF.ride bicycle AF-take FIL
+主焦.騎 腳踏車 主焦-拿 FIL
+
+#a 125.12, None, 127.25
+
+78.
+... a==,_
+FIL
+FIL
+
+#a 127.25, None, 128.09
+
+79.
+.. hei qhuni kii di ma,_
+fruit tree that PFV.PART then
+果實 樹 那個 完成.語助詞 然後
+
+#e As they saw it (that hat), they called out, making noises and whistling with their mouths, to the person who had already gone riding the bicycle with the fruits.
+#c 他們看到了（帽子）之後，便大叫，用嘴巴發出聲音吹口哨，呼喊已經騎著腳踏車帶走芭樂的那個人。
+#a 128.09, None, 129.55
+
+80.
+.. wa kberih m-ita waga m-aha m-ege ka==,_
+PROG AF.return AF-see PROG AF.go AF.give NOM
+進行 主焦.歸還 主焦-看 進行 主焦.去 主焦.給 主格
+
+#a 129.55, None, 132.29
+
+81.
+.. anu ka==,_
+then KA
+然後 KA
+
+#a 132.29, None, 133.02
+
+82.
+.. bnubung=na.\
+thing.to.cover=3SG.GEN
+用來蓋的=3SG.屬格
+
+#a 133.02, None, 134.0
+
+83.
+.. bunux=na.\
+hat=3SG.GEN
+帽子=3SG.屬格
+
+#a 134.0, None, 134.66
+
+84.
+.. kiya ka trasi.\
+that KA leaf.hat
+那個 KA 斗笠
+
+#a 134.66, None, 135.68
+
+85.
+.. kiya di.\
+that PFV.PART
+那個 完成.語助詞
+
+#e (He) looked back, and they they went to return the thing for covering his hat, that leaf hat.
+#c （他）回頭看，然後他們就去將蓋頭的東西還給他，就是那頂斗笠。
+#a 135.68, None, 136.19
+
+86.
+.. ma kiya naq a wada m-swaye di.\
+then that self FIL AUX.PST AF-separate PFV.PART
+然後 那個 自己 FIL 助動詞.過去 主焦-分開 完成.語助詞
+
+#e That's all. They separated.
+#c 就是那樣。他們分開了。
+#a 136.19, None, 138.7
+
+87.
+.. m-hedu di.\
+AF-finish PFV.PART
+主焦-完成 完成.語助詞
+
+#e I finished.
+#c 我說完了。
+#a 138.7, None, 139.59
