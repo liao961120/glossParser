@@ -21,7 +21,6 @@ def main():
     DOCS_FOLDER_PATH = pathlib.Path(DOCS_FOLDER_PATH)
     C = GlossProcessor(docs_folder_path=DOCS_FOLDER_PATH)
 
-
     # Save as different formats    
     output_glosses = []
     for docname, content in C.data.items():
@@ -34,14 +33,14 @@ def main():
             output_glosses.append(gloss)
         
         # Save separate file for each text
-        fname = docname.replace("raw-data/long-text", "json-long-text")
+        fname = docname.replace("raw-data/long-text", "json-long-text").replace('.txt', '.json')
         json_dir, lang_dir, fpath = fname.split('/')
         if not os.path.exists(f"{json_dir}/{lang_dir}"):
             os.mkdir(f"{json_dir}/{lang_dir}")
         with open(fname, "w", encoding="utf-8") as f:
-            json.dump(content, f)
+            json.dump(content, f, ensure_ascii=False)
     
-    # Write to json
+    # Write flatten data to json
     with open("all_lang-long-text.json", "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
 
