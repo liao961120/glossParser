@@ -21,10 +21,13 @@ def main():
     DOCS_FOLDER_PATH = pathlib.Path(DOCS_FOLDER_PATH)
     C = GlossProcessor(docs_folder_path=DOCS_FOLDER_PATH)
 
+    # Save separate file for each text
+
+
     # Flatten data to match frontend json format
     output_glosses = []
-    for docname, glosses in C.data.items():
-        for gloss_num, gloss in glosses:
+    for docname, content in C.data.items():
+        for gloss_num, gloss in content["glosses"]:
             gloss.update({
                 'file': docname,
                 'num': gloss_num,
@@ -34,7 +37,6 @@ def main():
     # Write to json
     with open("all_lang-long-text.json", "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
-
 
     #-------- Get glossary --------#
     glossary = {}
@@ -82,7 +84,7 @@ def main():
         sorted_glossary.append( (k, glossary[k], list(tokens)) )
 
 
-    with open('glossary.json', 'w') as f:
+    with open('all_lang-long-text-glossary.json', 'w') as f:
         json.dump(sorted_glossary, f, ensure_ascii=False)
 
 
@@ -102,30 +104,38 @@ class GlossProcessor:
         self.data structure:
         
         {
-        '20200325.docx': [
-            (1, {
-                'ori': ['yakay', 'ku', 'tatulru', 'ku', 'ababay/sauvalay', 'ku', 'agili'],
-                'gloss': [
-                    ('yakay', 'have', '有'),
-                    ('ku', 'three', '3'),
-                    ('tatulru', 'female/male', '女性/男性'),
-                    ('(ku', 'yonger_brother/sister-1SG.POSS', '弟妹-我的.第一人稱單數.所有格'),
-                    ('ababay/sauvalay)', '_', '_'),
-                    ('ku', '_', '_'),
-                    ('agi-li', '_', '_')
-                    ],
-                'free': [
-                    '#e I have 3 younger brother/sister',
-                    '#c 我有 3 個弟弟/妹妹',
-                    '#n  yakay ku 可省略'
-                    ]
-                }
-            ),
-            (2, ...),
-        
-        ...
+        '20200325.docx': {
+            "meta": {
+                'speaker': 'Balenge',
+                'video': 'xxxx.mp3'
+            },
+            "glosses": [
+                (1, {
+                    'ori': ['yakay', 'ku', 'tatulru', 'ku', 'ababay/sauvalay', 'ku', 'agili'],
+                    'gloss': [
+                        ('yakay', 'have', '有'),
+                        ('ku', 'three', '3'),
+                        ('tatulru', 'female/male', '女性/男性'),
+                        ('(ku', 'yonger_brother/sister-1SG.POSS', '弟妹-我的.第一人稱單數.所有格'),
+                        ('ababay/sauvalay)', '_', '_'),
+                        ('ku', '_', '_'),
+                        ('agi-li', '_', '_')
+                        ],
+                    'free': [
+                        '#e I have 3 younger brother/sister',
+                        '#c 我有 3 個弟弟/妹妹',
+                        '#n  yakay ku 可省略'
+                        ],
+                    's_end': True,
+                    'audio_span': [1.5, 7.53]  # optional, only present in the last IU of a sentence
+                    'meta': {'speaker': 'Balenge', 'video': 'xxxx.mp3'}
+                    }
+                ),
+                (2, ...),
+            ...
+            },
 
-        '20200408.docx': [...],
+            '20200408.docx': {"meta": {...}, "glosses": [...]},
         }
         """
 
@@ -139,11 +149,13 @@ class GlossProcessor:
         for fp in path.rglob('*'):
             if fp.suffix not in exts: continue
             try:
-                glosses = process_doc(str(fp))
+                glosses, meta = process_doc(str(fp))
             except:
                 logging.warning(f"INVALID DOCUMENT formatting:\t\t\t{fp}")
                 continue
-            self.data[str(fp)] = tokenize_glosses(glosses, str(fp))
+            self.data[str(fp)] = {}
+            self.data[str(fp)]["glosses"] = tokenize_glosses(glosses, str(fp))
+            self.data[str(fp)]["meta"] = meta
 
 
 
@@ -198,7 +210,7 @@ def process_doc(fp="corp/20200325.docx"):
         gloss_lines = [ l.strip() for l in a_doc[(start + 1):end] ]
         glosses.append( (gloss_num, gloss_lines, meta.copy()) )
     
-    return glosses
+    return glosses, meta
 
 
 
@@ -237,24 +249,55 @@ def tokenize_glosses(glosses, filename):
         #en_gloss = en_gloss.strip().split()
         #zh_gloss = zh_gloss.strip().split()
         gloss = [ (tk["ori"], tk["en"], tk["ch"]) for tk in tokens ]
+        free = [ l for l in free_lines if l != '' ]
         #gloss.append( (rk, en, zh) )
 
+        # Get sentence audio play time span (if sent end)
+        if '#c' in [ l[:2] for l in free ]:
+            s_end = True  # record this IU's status: last IU in a sentence
+            s_audio_span = get_full_sent_audio_span(glosses, parsed_glosses, free)
+        else:
+            s_end = False  # record this IU's status: not the last IU in a sentence
+            s_audio_span = None
+        
         # Save data
-        parsed_glosses.append(
-            
-           (glosses[gloss_id][0], 
-            {
+        g = {
             'ori': ori_lang,
             'gloss': gloss,
-            'free': [l for l in free_lines if l != ''],
+            'free': free,
+            's_end': s_end,
             'meta': glosses[gloss_id][2]
-            }
-           )
-        )
+        }
+        if s_audio_span is not None:
+            g['audio_span'] = s_audio_span
+        
+        parsed_glosses.append( (glosses[gloss_id][0], g) )
     
     return parsed_glosses
 
 
+
+def get_full_sent_audio_span(glosses, parsed_glosses, curr_IU_free_lines):
+    sent_end_iu_idx = [ i for i, g in enumerate(parsed_glosses) if g[1]['s_end'] == True ]
+    if len(sent_end_iu_idx) < 1: return None
+    this_sent_start_iu_idx = sent_end_iu_idx[-1] + 1
+
+    sent_starttime = get_audio_time(glosses[this_sent_start_iu_idx][1])[0]
+    sent_endtime = get_audio_time(curr_IU_free_lines)[-1]
+
+    if sent_starttime is not None and sent_endtime is not None:
+        return [sent_starttime, sent_endtime]
+    
+    return None
+
+
+def get_audio_time(free_lines):
+    for line in free_lines:
+        if re.match(r'#a ([0-9.]+|None), ([0-9.]+|None), ([0-9.]+|None)', line):
+            times = line.replace('#a ', '').split(', ')
+            times = [ float(t) if t != 'None' else None for t in times ]
+            return times
+    return [None, None, None]
 
 def assign_gloss_free_lines(gloss):
     
@@ -263,7 +306,7 @@ def assign_gloss_free_lines(gloss):
     
     for lid, l in enumerate(gloss.copy()):
         # Skip empty lines
-        if l == '' or l.startswith('#a'): continue
+        if l == '': continue
 
         # Assign Gloss/Free lines
         if l.startswith('#'):
@@ -272,6 +315,8 @@ def assign_gloss_free_lines(gloss):
             gloss_lines.append(l)
 
     return gloss_lines, free_lines # ['\n'.join(l) for l in free_lines]
+
+
 
 
 
