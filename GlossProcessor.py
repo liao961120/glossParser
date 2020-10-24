@@ -21,18 +21,25 @@ def main():
     DOCS_FOLDER_PATH = pathlib.Path(DOCS_FOLDER_PATH)
     C = GlossProcessor(docs_folder_path=DOCS_FOLDER_PATH)
 
-    # Save separate file for each text
 
-
-    # Flatten data to match frontend json format
+    # Save as different formats    
     output_glosses = []
     for docname, content in C.data.items():
+        # Flatten data to match frontend json format
         for gloss_num, gloss in content["glosses"]:
             gloss.update({
                 'file': docname,
                 'num': gloss_num,
             })
             output_glosses.append(gloss)
+        
+        # Save separate file for each text
+        fname = docname.replace("raw-data/long-text", "json-long-text")
+        json_dir, lang_dir, fpath = fname.split('/')
+        if not os.path.exists(f"{json_dir}/{lang_dir}"):
+            os.mkdir(f"{json_dir}/{lang_dir}")
+        with open(fname, "w", encoding="utf-8") as f:
+            json.dump(content, f)
     
     # Write to json
     with open("all_lang-long-text.json", "w", encoding="utf-8") as f:
