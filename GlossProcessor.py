@@ -4,6 +4,7 @@ import sys
 import json
 import pathlib
 import logging
+from utils import strQ2B
 from tokenizer import align
 from datetime import datetime
 from urllib.parse import urlparse
@@ -27,7 +28,7 @@ def main():
         # Flatten data to match frontend json format
         for gloss_num, gloss in content["glosses"]:
             gloss.update({
-                'file': docname,
+                'file': docname.replace("raw-data/", "").replace("long-text/", "").replace("sentence/", "").replace(".mp3.txt", ""),
                 'num': gloss_num,
             })
             output_glosses.append(gloss)
@@ -172,15 +173,22 @@ def process_doc(fp="corp/20200325.docx"):
     if str(fp).endswith('.docx'):
         d = Document(fp)
         a_doc = '\n'.join(p.text.strip() for p in d.paragraphs)
-        a_doc = a_doc.split('\n')
+        a_doc = [ line.strip() for line in a_doc.split('\n') ]
     elif str(fp).endswith('.txt'):
-        a_doc, enc = read_with_guessed_encoding(fp)
-        a_doc = a_doc.split('\n')
+        a_doc, _ = read_with_guessed_encoding(fp)
+        a_doc = [ line.strip() for line in a_doc.split('\n') ]
     else:
         raise Exception("Unsupported format. Please provide `.docx` or `.txt`")
 
+    # Parse metadata
+    meta = {}
+    for line in a_doc:
+        if line == "": break  # Break if encounter the 1st empty line
+        k, v = strQ2B(line).split(':')
+        meta[k.strip()] = v.strip()
+
     # Find the positions of each elicitation
-    pat_start = re.compile("^(\d{1,2})\.\s*$")
+    pat_start = re.compile(r"^(\d{1,2})\.\s*$")
     glosses_on = []
     gloss_num_old = None
     for i, line in enumerate(a_doc):
@@ -202,17 +210,10 @@ def process_doc(fp="corp/20200325.docx"):
                 break
     glosses_on.append( (gloss_num_old, end_idx) )
 
-    # Parse metadata
-    meta = {}
-    for line in a_doc:
-        if line.strip() == "": break  # Break if encounter the 1st empty line
-        k, v = line.strip().split(': ')
-        meta[k] = v
-
     # Get all elicitations in the document
     glosses = []
     for start, end in glosses_on:
-        gloss_num = int(re.match("(\d+)\.", a_doc[start])[1])
+        gloss_num = int(re.match(r"(\d+)\.", a_doc[start])[1])
         gloss_lines = [ l.strip() for l in a_doc[(start + 1):end] ]
         glosses.append( (gloss_num, gloss_lines, meta.copy()) )
     
@@ -224,7 +225,7 @@ def tokenize_glosses(glosses, filename):
 
     parsed_glosses = []
     for gloss_id in range(len(glosses)):
-        gloss_lines, free_lines = assign_gloss_free_lines(glosses[gloss_id][1])
+        gloss_lines, free_lines, audio_lines = assign_gloss_free_lines(glosses[gloss_id][1])
 
         # Deal with 3-line and 4-line formats
         num_of_lines = len(gloss_lines) 
@@ -261,21 +262,23 @@ def tokenize_glosses(glosses, filename):
         # Get sentence audio play time span (if sent end)
         if '#c' in [ l[:2] for l in free ]:
             s_end = True  # record this IU's status: last IU in a sentence
-            s_audio_span = get_full_sent_audio_span(glosses, parsed_glosses, free)
+            s_audio_span = get_full_sent_audio_span(glosses, parsed_glosses, audio_lines)
         else:
             s_end = False  # record this IU's status: not the last IU in a sentence
             s_audio_span = None
         
         # Save data
+        iu_audio_time = get_audio_time(audio_lines)
         g = {
             'ori': ori_lang,
             'gloss': gloss,
             'free': free,
             's_end': s_end,
+            'iu_a_span': [ iu_audio_time[0], iu_audio_time[-1] ],
             'meta': glosses[gloss_id][2]
         }
         if s_audio_span is not None:
-            g['audio_span'] = s_audio_span
+            g['s_a_span'] = s_audio_span
         
         parsed_glosses.append( (glosses[gloss_id][0], g) )
     
@@ -305,25 +308,23 @@ def get_audio_time(free_lines):
             return times
     return [None, None, None]
 
+
 def assign_gloss_free_lines(gloss):
-    
     free_lines = []
     gloss_lines = []
+    audio_lines = []
     
-    for lid, l in enumerate(gloss.copy()):
-        # Skip empty lines
-        if l == '': continue
-
-        # Assign Gloss/Free lines
-        if l.startswith('#'):
+    for l in gloss:
+        if l == '': 
+            continue
+        elif l.startswith('#a'):
+            audio_lines.append(l)
+        elif l.startswith('#'):
             free_lines.append(l)
         else:
             gloss_lines.append(l)
 
-    return gloss_lines, free_lines # ['\n'.join(l) for l in free_lines]
-
-
-
+    return gloss_lines, free_lines, audio_lines
 
 
 
@@ -334,7 +335,7 @@ def read_with_guessed_encoding(fp: str):
     guessed_enc = suggestion.original_encoding
 
     with open(fp, 'r', encoding=guessed_enc) as f:
-        return f.read(), guessed_enc
+        return f.read().strip(), guessed_enc
 
 
 
