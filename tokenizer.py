@@ -18,8 +18,8 @@ import logging
 
 def align(ori, en="", ch="", gloss_id=""):
     ori = [ replace_backslash(x) for x in ori.strip().split() ]
-    en = [ t for t in en.strip().split() if (t != "." and t != "") ]
-    ch = [ t for t in ch.strip().split() if (t != "." and t != "") ]
+    en = [ replace_backslash(t) for t in en.strip().split() if (t != "." and t != "") ]
+    ch = [ replace_backslash(t) for t in ch.strip().split() if (t != "." and t != "") ]
 
     error = {"error": False, "id": gloss_id}
     if len(en) != len(ch):
