@@ -17,7 +17,7 @@ import logging
 
 
 def align(ori, en="", ch="", gloss_id=""):
-    ori = ori.split()
+    ori = [ replace_backslash(x) for x in ori.split() ]
     en = [ t for t in en.split() if t != "." ]
     ch = [ t for t in ch.split() if t != "." ]
 
@@ -34,7 +34,7 @@ def align(ori, en="", ch="", gloss_id=""):
             return tokens
 
         tk = {
-            'ori': replace_backslash(ori_tk),
+            'ori': ori_tk,
             'en': '',
             'ch': '',
             'is_DM': is_pureDM(ori_tk)
