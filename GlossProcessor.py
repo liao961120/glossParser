@@ -184,8 +184,11 @@ def process_doc(fp="corp/20200325.docx"):
     meta = {}
     for line in a_doc:
         if line == "": break  # Break if encounter the 1st empty line
-        k, v = strQ2B(line).split(':')
-        meta[k.strip()] = v.strip()
+
+        line = strQ2B(line)
+        first_col_idx = line.index(':')
+        k, v = line[:first_col_idx].strip(), line[(first_col_idx + 1):].strip()
+        meta[k] = v
 
     # Find the positions of each elicitation
     pat_start = re.compile(r"^(\d{1,2})\.\s*$")
@@ -251,7 +254,7 @@ def tokenize_glosses(glosses, filename):
 
         # Tokenize
         ori_lang = ori_lang.strip().split()
-        tokens = align(ori=rk_gloss.strip(), en=en_gloss.strip(), ch=zh_gloss.strip(), gloss_id=f"{filename}/#{gloss_id}")
+        tokens = align(ori=rk_gloss.strip(), en=en_gloss.strip(), ch=zh_gloss.strip(), gloss_id=f"{filename}/#{glosses[gloss_id][0]}")
         #rk_gloss = rk_gloss.strip().split()
         #en_gloss = en_gloss.strip().split()
         #zh_gloss = zh_gloss.strip().split()
