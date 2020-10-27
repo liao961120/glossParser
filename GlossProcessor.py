@@ -42,7 +42,7 @@ def main():
             json.dump(content, f, ensure_ascii=False)
     
     # Write flatten data to json
-    with open("all_lang-long-text.json", "w", encoding="utf-8") as f:
+    with open("docs/all_lang-long-text.json", "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
 
     #-------- Get glossary --------#
@@ -91,7 +91,7 @@ def main():
         sorted_glossary.append( (k, glossary[k], list(tokens)) )
 
 
-    with open('all_lang-long-text-glossary.json', 'w') as f:
+    with open('docs/all_lang-long-text-glossary.json', 'w') as f:
         json.dump(sorted_glossary, f, ensure_ascii=False)
 
 
