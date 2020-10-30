@@ -14,7 +14,7 @@ from bs4 import UnicodeDammit
 
 
 def main():
-    DOCS_FOLDER_PATH = r'./raw-data/long-text/'
+    DOCS_FOLDER_PATH = r'./raw-data/long-text'
     PUBLIC_DIR = './docs'
 
     logging.basicConfig(level=logging.INFO, format='%(message)s', filemode='w', filename=f'{PUBLIC_DIR}/{os.path.basename(DOCS_FOLDER_PATH)}.log')
