@@ -36,7 +36,7 @@ def main():
         
         # Save separate file for each text
         fname = docname.replace("raw-data/long-text", "json-long-text").replace('.txt', '.json')
-        json_dir, lang_dir, fpath = fname.split('/')
+        json_dir, lang_dir, _ = fname.split('/')
         if not os.path.exists(f"{json_dir}/{lang_dir}"):
             os.mkdir(f"{json_dir}/{lang_dir}")
         with open(fname, "w", encoding="utf-8") as f:
