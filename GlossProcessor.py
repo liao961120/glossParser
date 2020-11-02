@@ -57,7 +57,7 @@ def main():
             
             # Normalize token pattern
             tk = [ t.strip('()/*?+-_,!.1234567890[]') for t in tk ]
-            tk[0] = tk[0].lower()
+            tk[0] = tk[0]
             #if tk[0] in [''] + list(PERSON_NAMES): continue
             
             sense = ' | '.join(t.strip() for t in tk[1:] if t.strip() != '')
