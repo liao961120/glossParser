@@ -7,9 +7,9 @@ revised: 2017-9-21
 video: sdqNr-pear_temi.mp3
 
 1.
-ah== prengo=ku kari a==, 
-FIL AF.tell=1SG.NOM speech FIL
-FIL主焦.說=1SG.主格 話語 FIL
+ah==   prengo=ku         kari a==, 
+FIL    AF.tell=1SG.NOM   speech FIL
+FIL    主焦.說=1SG.主格    話語 FIL
 
 #a 0.79, None, 2.73
 
@@ -32,7 +32,7 @@ pass-LF say-PF pear
 4.
 ...(0.8) ah== niq-an kingan rudan,\
 FIL be.at-LF one elderly
-FIL在-處焦 一 長者
+FIL 在-處焦 一 長者
 
 #a 7.34, None, 9.81
 
@@ -54,8 +54,8 @@ then AF.big pear=3SG.GEN PFV.PART
 
 7.
 .. m-usa l<m>amu <L2JnasiL2J> rudan kiya.\
-AF-go <AF>pick pear elderly that
-主焦-去 <主焦>採 梨子 長者 那個
+   AF-go <AF>pick pear elderly that
+   主焦-去 <主焦>採 梨子 長者 那個
 
 #e When pears grow big, that old man goes to pick them up.
 #c 梨子長大時，老人就去摘。

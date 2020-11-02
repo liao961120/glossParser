@@ -695,9 +695,9 @@ then say this
 #a 192.2, None, 193.42
 
 95.
-.. <L2Mwei weiL2M>kai tulrupunu=su laiya.\
-PART PART this hat=2SG.GEN DM
-PART PART這個 帽子=2SG.屬格 DM
+.. <L2Mwei weiL2M> kai tulrupunu=su laiya.\
+       PART PART this hat=2SG.GEN DM
+       PART PART 這個 帽子=2SG.屬格 DM
 
 #e When the three male pals was leaving, then (they) see (it) and (think) “why is this hat here”; and (they) say “hey! your hat!”
 #c 當那三個男性朋友們要離開時，(他們)看到(它)然後想「為什麼這個帽子(在這)」，然後(他們)說「喂喂！你的帽子！」。
