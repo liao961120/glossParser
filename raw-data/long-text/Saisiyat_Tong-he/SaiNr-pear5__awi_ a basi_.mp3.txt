@@ -4,7 +4,7 @@ language: 賽夏語, Saisiyat, Saisiyat
 speaker: 日繁雄, 'awi' a basi', male, 1945-4-4
 collected: 2002-01-01
 revised: None
-video: SaiNr-pear5_'awi' a basi'.mp3
+video: SaiNr-pear5__awi_ a basi_.mp3
 
 1.
 hayzani== 'aehae' ka== mae'iyaeh kamamanra:an,\

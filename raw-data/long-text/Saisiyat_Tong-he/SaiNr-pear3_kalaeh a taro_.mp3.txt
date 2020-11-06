@@ -4,7 +4,7 @@ language: 賽夏語, Saisiyat, Saisiyat
 speaker: 風秀郎, kalaeh a taro', male, 1937-01-25
 collected: 2002-01-01
 revised: None
-video: SaiNr-pear3_kalaeh a taro'.mp3
+video: SaiNr-pear3_kalaeh a taro_.mp3
 
 1.
 'aehae' ka baki',\

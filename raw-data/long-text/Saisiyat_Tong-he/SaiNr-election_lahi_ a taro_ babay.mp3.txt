@@ -4,7 +4,7 @@ language: 賽夏語, Saisiyat, Saisiyat
 speaker: 風建福, lahi' a taro' babayi, male, None
 collected: 2002-01-01
 revised: 2014-4-10
-video: SaiNr-election_lahi' a taro' babay.mp3
+video: SaiNr-election_lahi_ a taro_ babay.mp3
 
 1.
 M: o: baki' So'o m-wa:i' ila hini' kala== minayti',/

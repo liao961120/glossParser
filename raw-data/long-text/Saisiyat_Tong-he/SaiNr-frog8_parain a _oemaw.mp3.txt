@@ -4,7 +4,7 @@ language: 賽夏語, Saisiyat, Saisiyat
 speaker: 高德盛, parain a oemaw, male, 1928-1-5
 collected: 2003-01-01
 revised: None
-video: SaiNr-frog8_parain a 'oemaw.mp3
+video: SaiNr-frog8_parain a _oemaw.mp3
 
 1.
 korkoring kit-kita ka==,/

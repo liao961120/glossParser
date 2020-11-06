@@ -4,7 +4,7 @@ language: 賽夏語, Saisiyat, Saisiyat
 speaker: 日繁雄, 'awi' a basi', male, 1945-4-4
 collected: 2003-01-01
 revised: None
-video: SaiNr-frog5_'awi' a basi'.mp3
+video: SaiNr-frog5__awi_ a basi_.mp3
 
 1.
 kita'-en koSa'-en ka
