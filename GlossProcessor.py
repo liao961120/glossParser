@@ -4,7 +4,7 @@ import sys
 import json
 import pathlib
 import logging
-from utils import strQ2B
+from utils import get_raw_text_meta
 from tokenizer import align
 from datetime import datetime
 from urllib.parse import urlparse
@@ -182,14 +182,7 @@ def process_doc(fp="corp/20200325.docx"):
         raise Exception("Unsupported format. Please provide `.docx` or `.txt`")
 
     # Parse metadata
-    meta = {}
-    for line in a_doc:
-        if line == "": break  # Break if encounter the 1st empty line
-
-        line = strQ2B(line)
-        first_col_idx = line.index(':')
-        k, v = line[:first_col_idx].strip(), line[(first_col_idx + 1):].strip()
-        meta[k] = v
+    meta = get_raw_text_meta(a_doc)
 
     # Find the positions of each elicitation
     pat_start = re.compile(r"^(\d{1,2})\.\s*$")
@@ -302,6 +295,11 @@ def get_full_sent_audio_span(glosses, parsed_glosses, curr_IU_free_lines):
 
     if sent_starttime is not None and sent_endtime is not None:
         return [sent_starttime, sent_endtime]
+    else:
+        if sent_starttime is None:
+            logging.debug(f"sent start iu idx:\t{glosses[this_sent_start_iu_idx]}")
+        else:
+            logging.debug(f"curr_IU_free_lines:\t{curr_IU_free_lines}")
     
     return None
 
