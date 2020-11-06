@@ -1,3 +1,24 @@
+def get_raw_text_meta(doc):
+    if isinstance(doc, str):
+        with open(doc, encoding="utf-8") as f:
+            doc = f.read().strip()
+    elif isinstance(doc, list):
+        pass
+    else:
+        raise Exception("invalid input format")
+
+    # Parse metadata
+    meta = {}
+    for line in doc:
+        if line == "": break  # Break if encounter the 1st empty line
+        line = strQ2B(line)
+        first_col_idx = line.index(':')
+        k, v = line[:first_col_idx].strip(), line[(first_col_idx + 1):].strip()
+        meta[k] = v
+    
+    return meta
+
+
 # 半形轉全形函數
 def strB2Q(ustring):
     ss = []
