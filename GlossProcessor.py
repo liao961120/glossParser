@@ -292,8 +292,10 @@ def tokenize_glosses(glosses, filename):
 
 def get_full_sent_audio_span(glosses, parsed_glosses, curr_IU_free_lines):
     sent_end_iu_idx = [ i for i, g in enumerate(parsed_glosses) if g[1]['s_end'] == True ]
-    if len(sent_end_iu_idx) < 1: return None
-    this_sent_start_iu_idx = sent_end_iu_idx[-1] + 1
+    if len(sent_end_iu_idx) < 1: 
+        this_sent_start_iu_idx = 0
+    else:
+        this_sent_start_iu_idx = sent_end_iu_idx[-1] + 1
 
     sent_starttime = get_audio_time(glosses[this_sent_start_iu_idx][1])[0]
     sent_endtime = get_audio_time(curr_IU_free_lines)[-1]
