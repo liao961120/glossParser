@@ -3,3 +3,4 @@ test*
 video*.zip
 audio/raw
 audio/split
+audio

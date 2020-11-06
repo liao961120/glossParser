@@ -76,7 +76,6 @@ def main():
     # Sort and index for search
     sorted_glossary = []
     for k in sorted(glossary.keys()):
-        
         tokens = set()
 
         # Add lexical entry
@@ -94,6 +93,9 @@ def main():
 
     with open('docs/all_lang-long-text-glossary.json', 'w') as f:
         json.dump(sorted_glossary, f, ensure_ascii=False)
+    
+    # Zip file for publish
+    os.system('zip -r docs/json-long-text.zip json-long-text')
 
 
 
