@@ -21,7 +21,6 @@ def align(ori, en="", ch="", gloss_id=""):
     en = [ t for t in en.strip().split() if (t != "." and t != "") ]
     ch = [ t for t in ch.strip().split() if (t != "." and t != "") ]
 
-    error = {"error": False, "id": gloss_id}
     if len(en) != len(ch):
         logging.warning(f"Diff. num of tokens in EN & CH annot:\t{gloss_id}")
         #raise Exception("Invalid Gloss Format!") 
