@@ -38,13 +38,14 @@ def main():
         fname = docname.replace("raw-data/long-text", "json-long-text").replace('.txt', '.json')
         json_dir, lang_dir, _ = fname.split('/')
         if not os.path.exists(f"{json_dir}/{lang_dir}"):
-            os.mkdir(f"{json_dir}/{lang_dir}")
+            os.makedirs(f"{json_dir}/{lang_dir}")
         with open(fname, "w", encoding="utf-8") as f:
             json.dump(content, f, ensure_ascii=False)
     
     # Write flatten data to json
     with open("docs/all_lang-long-text.json", "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
+    os.system(f"mv {json_dir} docs/")
 
     #-------- Get glossary --------#
     glossary = {}
@@ -95,7 +96,7 @@ def main():
         json.dump(sorted_glossary, f, ensure_ascii=False)
     
     # Zip file for publish
-    os.system('zip -r docs/json-long-text.zip json-long-text')
+    os.system('zip -r docs/json-long-text.zip docs/json-long-text')
 
 
 
