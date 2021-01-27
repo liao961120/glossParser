@@ -45,7 +45,6 @@ def main():
     # Write flatten data to json
     with open("docs/all_lang-long-text.json", "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
-    os.system(f"mv {json_dir} docs/")
 
     #-------- Get glossary --------#
     glossary = {}
@@ -96,7 +95,10 @@ def main():
         json.dump(sorted_glossary, f, ensure_ascii=False)
     
     # Zip file for publish
+    os.system("rm -r docs/json-long-text")
+    os.system("mv json-long-text docs/")
     os.system('zip -r docs/json-long-text.zip docs/json-long-text')
+    
 
 
 
