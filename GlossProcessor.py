@@ -188,7 +188,7 @@ def process_doc(fp="corp/20200325.docx"):
     meta = get_raw_text_meta(a_doc)
 
     # Find the positions of each elicitation
-    pat_start = re.compile(r"^(\d{1,2})\.\s*$")
+    pat_start = re.compile(r"^(\d{1,4})\.\s*$")
     glosses_on = []
     gloss_num_old = None
     for i, line in enumerate(a_doc):
