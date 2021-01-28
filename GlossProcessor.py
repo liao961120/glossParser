@@ -95,9 +95,10 @@ def main():
         json.dump(sorted_glossary, f, ensure_ascii=False)
     
     # Zip file for publish
+    os.system('zip -r docs/json-long-text.zip json-long-text')
     os.system("rm -r docs/json-long-text")
     os.system("mv json-long-text docs/")
-    os.system('zip -r docs/json-long-text.zip docs/json-long-text')
+    
     
 
 
