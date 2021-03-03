@@ -205,35 +205,35 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Kanakanavu_Kanakanavu/2",
+				"file": "Kanakanavu_Kanakanavu/2",
 				"sent_num": 16
 			},
 			{
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Kanakanavu_Kanakanavu/5",
+				"file": "Kanakanavu_Kanakanavu/5",
 				"sent_num": 73
 			},
 			{
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Kanakanavu_Kanakanavu/1",
+				"file": "Kanakanavu_Kanakanavu/1",
 				"sent_num": 489
 			},
 			{
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Kanakanavu_Kanakanavu/3",
+				"file": "Kanakanavu_Kanakanavu/3",
 				"sent_num": 522
 			},
 			{
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Kanakanavu_Kanakanavu/4",
+				"file": "Kanakanavu_Kanakanavu/4",
 				"sent_num": 181
 			}
 		]
@@ -1880,14 +1880,14 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Bunun_Isbukun/2",
+				"file": "Bunun_Isbukun/2",
 				"sent_num": 74
 			},
 			{
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "docs/json-sentence/Bunun_Isbukun/1",
+				"file": "Bunun_Isbukun/1",
 				"sent_num": 920
 			}
 		]

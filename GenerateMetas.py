@@ -16,7 +16,7 @@ def get_info(path):
     info['type'] = meta['type']
     info['speaker'] = meta['speaker']
     info['collected'] = meta['collected']
-    info['file'] = f"{path.parent}/{path.stem}"
+    info['file'] = f"{path.parent.name}/{path.stem}"
 
     if 'long-text' in str(path.absolute()):
         info['topic'] = meta['topic']
