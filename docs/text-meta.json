@@ -245,7 +245,9 @@
 				"sent_num": 487,
 				"record_time": 4043.28
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -367,7 +369,9 @@
 				"sent_num": 868,
 				"record_time": 6154.67
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -549,7 +553,9 @@
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -871,7 +877,9 @@
 				"sent_num": 921,
 				"record_time": 4686.77
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -1033,7 +1041,9 @@
 				"sent_num": 541,
 				"record_time": 2544.89
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -1115,7 +1125,9 @@
 				"sent_num": 1607,
 				"record_time": 8860.84
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -1387,7 +1399,9 @@
 				"sent_num": 756,
 				"record_time": 4217.19
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -1579,7 +1593,9 @@
 				"sent_num": 1297,
 				"record_time": 6971.91
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -1791,7 +1807,9 @@
 				"sent_num": 408,
 				"record_time": 1069.1
 			},
-			"sentence": {}
+			"sentence": {
+				"sent_num": 0
+			}
 		},
 		"text": [
 			{
@@ -1848,7 +1866,11 @@
 	},
 	"Bunun_Isbukun": {
 		"summary": {
-			"story": {},
+			"story": {
+				"iu_num": 0,
+				"sent_num": 0,
+				"record_time": 0
+			},
 			"sentence": {
 				"sent_num": 994
 			}
