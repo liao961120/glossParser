@@ -1,0 +1,525 @@
+type: Sentence
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: None
+collected: None
+Transcribed by: 鄧安婷
+
+
+1.
+ka’aan=ku m-a’icʉpʉ
+
+#c 我不怕。
+#e I’m not afraid.
+
+
+2.
+ta-m-a’icʉpʉ nguain
+
+#c 他很膽小。
+#e He is timid.
+
+
+3.
+ka-’icʉpʉ-ʉn
+
+#c 很可怕。
+#e It's terrifying.
+
+
+4.
+kan=nguain sua ma’icʉpʉ.
+
+#c 他該是膽小.
+#e It is heard that he is timid.
+
+
+5.
+ni-ara-kicacʉ=ku ta-m-aicʉpʉ=kasu
+
+#c 我很驚訝你很膽小。
+#e I was surprised that you are cowardly.
+
+
+6.
+ni-ara-kicacʉ=kia ta-m-a'icʉpʉ=kasu.
+
+#c 我很驚訝你很膽小。
+#e I was surprised that you are cowardly.
+
+
+7.
+ta-pa-savuan-a kacaua iseen.
+
+#c 醫院裡有很多醫生。
+#e Many doctors are in the hospital.
+
+
+8.
+te=ku m-ookusa ’inia ’apa-cʉ’ʉra iseen.
+
+#c 我要到那裡給醫生看。
+#e I will go there to have the doctor see me.
+
+
+9.
+aaka cʉpʉngʉ=maku musukʉmʉ=cu=kasu
+
+#c 我很難過你生病了。
+#e I am sad that you are sick.
+
+
+10.
+ni-masukomʉ=ku.
+
+#c 我生過病了
+#e I had been sick.
+
+
+11.
+'akuni natutu. te=kasu musu-vakʉrʉ
+
+#c 不要調皮，你會受傷。
+#e Do not be naughty, or you will get hurt.
+
+
+12.
+c<in>apa=cu=maku ’aramʉ vavuru
+
+#c 山豬肉我已經烤了。
+#e I have roasted the wild boar meat.
+
+
+13.
+'aramʉ vavuru (sua) c<in>ap-a=maku
+
+#c 我烤的是山豬肉。
+#e what I roasted is the wild boar meat.
+
+
+14.
+te=ku c<um>acapa 'aramʉ.
+
+#c 我要來烤山豬肉.
+#e Let me roast the wild boar meat.
+
+
+15.
+iiku sua c<in>ap-a 'aramʉ vavuru.
+
+#c 山豬肉是我烤的。
+#e The one who roasted the wild boar meat is me.
+
+
+16.
+ni-k<um>a-kʉnʉ nguani c<in>ap-a=maku 'aramʉ vavuru.
+
+#c 他們吃過我所烤的山豬肉。
+#e They ate the wild boar meat I roasted.
+
+
+17.
+’esi kʉnʉ-ʉn=kee sua 'aramʉ vavuru ia, c<in>ap-a=maku.
+
+#c 他在吃的山豬肉是我烤的。
+#e The wild boar meat he is eating is what I roasted.
+
+
+18.
+m-acici namanamarʉ.
+
+#c 城市很熱。
+#e Relative to the countryside, it is hot in the city.
+
+
+19.
+isi sua ni-paracani-a=maku	cani.
+
+#c 我唱的歌是這首。
+#e What I sang is this song.
+
+
+20.
+iisua sua ni-’utori-a=maku ’utori.
+
+#c 那個是我跳過的舞。
+#e That is what I danced.
+
+
+21.
+sua tavara-’a-in kamanʉng-a  ia imaamia iisia.
+
+#c 他所知道的只有這些。
+#e What he knows is simply this.
+
+
+22.
+sua tanasa isi ia, cina.
+
+#c 這房子是媽媽的。
+#e This house is the mother ‘s.
+
+
+23.
+cina tamna tanasa iisi
+
+#c 媽媽的房子是這個。
+#e This house is the mother's.
+
+
+24.
+cina sua ni-pu’-a	 tanasa isi.
+
+#c 這房子是媽媽買的。
+#e The one who bough the house is the mother.
+
+
+25.
+sua pair-ʉ-ʉn=maku pinaarupu ia, makai vutuukuru isi.
+
+#c 我經常釣的就像這種魚。
+#e What I often fish is like this kind of fish.
+
+
+26.
+ni-pinarupu=ku miʉra u-cani vutuukuru	tatia.
+
+#c 我昨天釣了一隻大魚。
+#e I fished a big fish yesterday.
+
+
+27.
+sua vutuukuru iisi ia,	ni-pinarupu=maku
+
+#c 這些魚，是我用釣的。
+#e These fish are fished by me.
+
+
+28.
+sua vutuukuru iisi ia, ni-pinarup-a=maku.
+
+#c 
+#e These fish are what I fished.
+
+
+29.
+tavara’ʉ nguain m-ima pai'ici.
+
+#c 他可以/能喝酒。
+#e He can drink.
+
+
+30.
+ka’aan Pani tavarʉ’ʉ te=kasu t<um>a-tangi.
+
+#c Pani不知道你要哭。
+#e Pani didn't know that you would cry.
+
+
+31.
+ka’aan Pani tavarʉ’ʉ ni-tumanga=musu.
+
+#c Pani 不知道你所哭的(原因)。
+#e Pani doesn't know the reason you cried.
+
+
+32.
+Manmaan Pani sua ni-arapana’-a cau
+
+#c Pani likes those places where people had run.
+#e Pani喜歡人們跑過的地方
+
+
+33.
+manmaan Pani (sua) ni-arapana’-a=maku tarapana’a.
+
+#c Pani喜歡我跑過的操場。
+#e Pani likes the playground that I ran in.
+
+
+34.
+noo ’esi-in mari-vina’ʉ (ia), sua ka’aan m-ookusa ’umoo’uma	putukikio ia, tia ara-kuracʉ-ʉn.
+
+#c 在收割小米的時候，沒有去田裡工作的，要被責罵。
+#e When cropping the millets,those who don’t go to the field to work will be scolded.
+
+
+35.
+ka’aan=ku po-tucucuru sua  kari ta-kituturu-a, ’akia reki  sua k<um>a-kʉnʉ narangʉ noo ’esi-in kia-tuturu.
+
+#c 我不認為老師說上課吃便當是不禮貌的。
+#e I don’t think the teacher says eating meal box during class is impolite.
+
+
+36.
+te=ku pari-vaantuku, tia pu’a ni-pu’-a Pani miʉra tanasa.
+
+#c 我要賺錢來買走Pani昨天買的房子。
+#e I will earn money to buy the house Pani bought yesterday.
+
+
+37.
+pa-<cʉpʉ>cʉpʉngʉ nguain, tia ’apa-koo’ua kasua, tanasa Pani tamna tarukuka.
+
+#c 他一直想，要你偷Pani家的雞
+#e He kept thinking to make you steal the chicken of Pani’s family.
+
+
+38.
+vurʉʉngana=cu t<um>a-tang manu p-ara-mia’ʉ tanasʉn cau kavangvang.
+
+#c 小孩半夜哭吵醒全部落的人。
+#e The child cries at midnight and makes all the people in the tribe wake up.
+
+
+39.
+vanai musu-vakurʉ Pani sii, ni-arivura’ʉ Mu’u
+
+#c Pani受傷的原因是因為被Mu’u打.
+#e Pani gets hurt because Mu’u hit (him).
+
+
+40.
+musu-vakurʉ Pani, vanai sii ni-arivura’ʉ Mu’u
+
+#c Pani受傷是因為被Mu’u打了
+#e Pani gets hurt because Mu’u hit (him).
+
+
+41.
+vurʉʉngana nguain mo-cikiiringa p-ara-kicacʉ Pani.
+
+#c 他深夜去邊邊角落(上廁所)的地方嚇到Pani
+#e At midnight, he goes to the toilet and shocks Pani.
+
+
+42.
+paira=kasu ‘apu-rangrang mintasu kani mupana’u
+
+#c 據說你經常炫耀射擊很厲害。
+#e It is heard that you often show off that you shots well.
+
+
+43.
+tanganua sua ka’aan=maku rooimi-in tanasʉn.
+
+#c 達卡努瓦是我忘不了的。
+#e Tanganua is what I can’t forget.
+
+
+44.
+’esi mati’arangʉ	ma-manu tia p-ara-kicacʉ ka<ka>naa’ua.
+
+#c 小朋友們在準備嚇大人。
+#e The children are preparing to shock adults.
+
+
+45.
+rangrang na kana’amisan pu’a vankavuka.
+
+#c 在冬天很難買褲子。
+#e It’s difficult to buy pants in winter.
+
+
+46.
+nguain sua	 m-ara’an marisinatʉ cau.
+
+#c 他是讀書讀很快的人。
+#e He is a fast reader.
+
+
+47.
+’esi=ku ’apa-kʉnʉ sua	 ’esi kara-pai'ici cau tamna	tacau.
+
+#c 我在餵食正在喝酒的人的狗。
+#e I am feeding the dog of the person who is drinking.
+
+
+48.
+ni-maanava=cu kangvang cau ni-m-ima pai'ici soni.
+
+#c 今晚喝過酒的人也醉了。
+#e All the people who drank tonight were drunk.
+
+
+49.
+arivura’ʉ=maku cau tia arapara’ʉ ta-pining-a.
+
+#c 我打那個跑操場的人。
+#e I hit the person who ran around the track.
+
+
+50.
+aritarʉnʉ Pani noo arapipining ia,	tʉni=cu=kita kooravi.
+
+#c 等到Pani一出現, 就可以吃晚餐了。
+#e As soon as Pani shows up, we can have our dinner.
+
+
+51.
+noo c<ʉm>ura=kasu vutuun ia, pana-’o
+
+#c 你一看到山鹿的話, 就射牠!
+#e Once you see the wild deer, shoot it!
+#n c<ʉm>ʉra 即為c<um>acʉ’ ʉra 的簡化唸法
+
+
+52.
+ucaniava noo m-osa=kasu na tararakaua taniarʉ ia, 'aan=cu=kasu	 tia makacʉkʉ na tanasa.
+
+#c 如果你往太陽出來的地方走, 你將不會到家。
+#e If you go eastwards, you won’t arrive home.
+#n mosa=mookusa 有 “要往什麼方向; 要去哪裡”之意
+
+
+53.
+noo ka’an-iin=kasu ni-pukari-ʉn ia, ka‘aan=kasu ia, matipa.
+
+#c 如果你不是被邀請的, 你就不會參加。
+#e If you are not invited, you will not attend.
+#n 如果用noo ka'aan kasu 語氣比較強烈也比較確定。
+
+
+54.
+noo m-ova=kasu ‘ikua vaantuku	ia, te=ku m-uranʉ kasua.
+
+#c 如果你給我錢的話, 我將會幫你。
+#e If you pay me, I will help you then.
+
+
+55.
+noo ‘umo’ucanʉ-in ia, 	te=kita m-oon sian tikirimi to’ona  tarasangai.
+
+#c 如果下雨的話, 我們在這裡找地方休息。
+#e If it rains, we will find a place to rest in here.
+
+
+56.
+noo ‘esi-in si’icʉpʉ Pani ia, ka’aan =kita  tia m-aramia’ʉ ‘inia.
+
+#c 如果巴尼正在睡覺的話, 我們將不會叫醒他 (不會讓他起來)。
+#e If Pani is sleeping, we won’t wake him up.
+#n ka’aan=namane’e “不要; 不會”
+
+
+57.
+noo itumuru-in Pani tamna vaantuku  ia, tia ‘ituumuru pu’a=in ‘ʉnai.
+
+#c 如果Pani錢很多, 他要買更多土地。
+#e If Pani were rich, he would buy more lands.
+
+
+58.
+te=ku moca sii, ’una tangsua ioovutu.
+
+#c 我要離開的時候, 她就打來了 (我要走, 電話來了)
+#e She called me, as I was leaving.
+#n 此句情形為：同時發生，且正在發生。
+
+
+59.
+noo musukʉmʉ=kasu	ia tia-ra m-eecara kasua Pani?
+
+#c 如果你生病了, Pani會照顧你嗎?
+#e If you were sick, would Pani look after you?
+#n tia kara =tiara
+
+
+60.
+noo m-anmaan=ku makananguru, te=ku paira makananguru.
+
+#c 如果我喜歡游泳, 我會經常去游泳。
+#e If I liked swimming, I would go swimming every day.
+
+
+61.
+noo ‘esi pukariikariPani ia, ka’aan=kasupukariikari (‘inia).
+
+#c 如果Pani在說話, 你不要打斷/ 干擾他 (=Pani)。
+#e If Pani was speaking, then you don’t interrupt him.
+#n ‘aratʉkʉʉn: 離開
+
+
+62.
+noo mucan-iin takituturua  ia, te=cu tarasangai seto.
+
+#c 如果老師離開的話, 學生們就要休息了。
+#e If the teacher left, the students would start to rest.
+
+
+63.
+Te=ku paracani m-atarava ka’anʉ=cu=ku tavarʉ’ʉ paracani.
+
+#c 我要唱歌唱到我不能唱。
+#e I would sing until I could not sing anymore.
+#n 此句情形為: 唱歌這件事情正在發生。
+
+
+64.
+vanai	 sii ni-mo’ucaan imo muurupu ‘ʉnai
+
+#c 因為下過雨, 所以土地濕了。
+#e Because it rained, the land is wet.
+#n neen vanai: 什麼原因
+
+
+65.
+noo ka’aan=ku seto ia, ka’aan=ku tia m-ookusa t-ari-sinatʉ-a.
+
+#c 如果我不是學生, 我就不用/不要/不會去學校。
+#e If I were not a student, I wouldn’t have to go to school.
+
+
+66.
+noo 'akiaiin Pani marisiki, manasʉ 'akia cucumen cau marisiki.
+
+#c 如果沒有Pani掃地，沒有其他人掃地。
+#e If Pani does not wipe the floor, there will be no one can do this.
+
+
+67.
+ka’aniin ku ’akia vaantuku ia, miana pa ku pu’a tanasa mocaca
+
+#c 我要不是沒有錢的話，我早就買車子了。
+#e I would have bought a car if I had money.
+
+
+68.
+ka’an-iin ku 'una vaantuku ia, miseni te ku pu’a tanasa mocaca.
+
+#c 我要不是有錢的話，我怎麼會買車子。
+#e If I didn't have money, how it could be possible that I have a car?
+
+
+69.
+naka ku maca’ʉ kasua, manasʉ te kasu matapari’i
+
+#c 如果我沒有抓住你，你早就掉下去了。
+#e If I didn't have caught you, you would fall.
+
+
+70.
+acecu takiatuturua, musuteen cu kita marisinatʉ.
+
+#c 老師走了, 我們上課停下來
+#e The teacher had gone, so our learning stopped.
+
+
+71.
+acecu takiatuturua, tarasangai=cu kita marisinatu
+
+#c 老師走了, 我們休息讀書。
+#e The teacher has gone, we stop studying.
+
+
+72.
+te ku muran kasua, noo mova kasu ‘ikua vaantuku.
+
+#c 如果你給我錢的話, 我會幫你.
+#e I will help you if you pay me money.
+
+
+73.
+noo caniava manmanʉ kasu kʉmʉnʉ kʉnʉa isi ia, te kasu paira mavucuruku
+
+#c 如果你很喜歡這些食物的話, 你會常常飽飽的
+#e If you really like these food, you will always be full.

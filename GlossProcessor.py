@@ -14,7 +14,7 @@ from bs4 import UnicodeDammit
 
 
 def main():
-    DOCS_FOLDER_PATH = r'./raw-data/long-text'
+    DOCS_FOLDER_PATH = r'./raw-data'
     PUBLIC_DIR = './docs'
 
     logging.basicConfig(level=logging.INFO, format='%(message)s', filemode='w', filename=f'{PUBLIC_DIR}/{os.path.basename(DOCS_FOLDER_PATH)}.log')
@@ -29,13 +29,18 @@ def main():
         # Flatten data to match frontend json format
         for gloss_num, gloss in content["glosses"]:
             gloss.update({
-                'file': docname.replace("raw-data/", "").replace("long-text/", "").replace("sentence/", "").replace(".mp3.txt", ""),
+                'file': docname.replace("raw-data/", "").replace("long-text/", "").replace("sentence/", "").replace(".mp3.txt", "").replace(".txt", ""),
                 'num': gloss_num,
             })
             output_glosses.append(gloss)
         
         # Save separate file for each text
-        fname = docname.replace("raw-data/long-text", "json-long-text").replace('.txt', '.json')
+        if 'long-text' in docname:
+            fname = docname.replace("raw-data/long-text", "json-long-text").replace('.txt', '.json')
+        elif 'sentence' in docname:
+            fname = docname.replace("raw-data/sentence", "json-sentence").replace('.txt', '.json')
+        else:
+            raise Exception(f"Unexpected raw-data/ structure: {docname}")
         json_dir, lang_dir, _ = fname.split('/')
         if not os.path.exists(f"{json_dir}/{lang_dir}"):
             os.makedirs(f"{json_dir}/{lang_dir}")
@@ -43,61 +48,61 @@ def main():
             json.dump(content, f, ensure_ascii=False)
     
     # Write flatten data to json
-    with open("docs/all_lang-long-text.json", "w", encoding="utf-8") as f:
+    with open("docs/all_lang.json", "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
 
     #-------- Get glossary --------#
-    glossary = {}
-    for gloss in output_glosses:
-        id_ = f"{gloss['file']}#{gloss['num']}"
+    # glossary = {}
+    # for gloss in output_glosses:
+    #     id_ = f"{gloss['file']}#{gloss['num']}"
 
-        gloss_set = { '=00000='.join(tup) for tup in gloss['gloss'] }
+    #     gloss_set = { '=00000='.join(tup) for tup in gloss['gloss'] }
 
-        for tk in [x.split('=00000=') for x in gloss_set]:
+    #     for tk in [x.split('=00000=') for x in gloss_set]:
             
-            # Normalize token pattern
-            tk = [ t.strip('()/*?+-_,!.1234567890[]') for t in tk ]
-            tk[0] = tk[0]
-            #if tk[0] in [''] + list(PERSON_NAMES): continue
+    #         # Normalize token pattern
+    #         tk = [ t.strip('()/*?+-_,!.1234567890[]') for t in tk ]
+    #         tk[0] = tk[0]
+    #         #if tk[0] in [''] + list(PERSON_NAMES): continue
             
-            sense = ' | '.join(t.strip() for t in tk[1:] if t.strip() != '')
-            if sense == '': continue
+    #         sense = ' | '.join(t.strip() for t in tk[1:] if t.strip() != '')
+    #         if sense == '': continue
             
-            if tk[0] not in glossary:
-                glossary[tk[0]] = {
-                    sense: [id_],
-                }
-            else:
-                if sense not in glossary[tk[0]]:
-                    glossary[tk[0]][sense] = [id_]
-                else:
-                    glossary[tk[0]][sense].append(id_)
+    #         if tk[0] not in glossary:
+    #             glossary[tk[0]] = {
+    #                 sense: [id_],
+    #             }
+    #         else:
+    #             if sense not in glossary[tk[0]]:
+    #                 glossary[tk[0]][sense] = [id_]
+    #             else:
+    #                 glossary[tk[0]][sense].append(id_)
 
-    # Sort and index for search
-    sorted_glossary = []
-    for k in sorted(glossary.keys()):
-        tokens = set()
+    # # Sort and index for search
+    # sorted_glossary = []
+    # for k in sorted(glossary.keys()):
+    #     tokens = set()
 
-        # Add lexical entry
-        tokens.add(k)
-        tokens.add(k.replace('-', ''))
+    #     # Add lexical entry
+    #     tokens.add(k)
+    #     tokens.add(k.replace('-', ''))
 
-        # Add sense
-        for sense in glossary[k]:
-            for tk in sense.split('|'):
-                tokens.add(tk.strip())
+    #     # Add sense
+    #     for sense in glossary[k]:
+    #         for tk in sense.split('|'):
+    #             tokens.add(tk.strip())
 
-        # Save sorted gloss
-        sorted_glossary.append( (k, glossary[k], list(tokens)) )
+    #     # Save sorted gloss
+    #     sorted_glossary.append( (k, glossary[k], list(tokens)) )
 
-
-    with open('docs/all_lang-long-text-glossary.json', 'w') as f:
-        json.dump(sorted_glossary, f, ensure_ascii=False)
+    # with open('docs/all_lang-long-text-glossary.json', 'w') as f:
+    #     json.dump(sorted_glossary, f, ensure_ascii=False)
     
     # Zip file for publish
-    os.system('zip -r docs/json-long-text.zip json-long-text')
-    os.system("rm -r docs/json-long-text")
-    os.system("mv json-long-text docs/")
+    for d in ['json-long-text', 'json-sentence']:
+        os.system(f'zip -r docs/{d}.zip {d}')
+        os.system(f"rm -r docs/{d}")
+        os.system(f"mv {d} docs/")
     
     
 

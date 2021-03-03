@@ -1,0 +1,149 @@
+type: Sentence
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: None
+collected: None
+Transcribed by: 劉星辰
+
+
+1.
+ʉsʉ'ʉ-ʉn=maku na takuacapa paici cuma (tia iima-a/imʉ-ʉn cuma)
+放-受焦=1SG.屬格 地方 桌 酒 父親 未來 喝-關係詞/喝-受焦 父親
+put-PV=1SG.GEN LOC table wine father FUT drink-REL/drink-PV father
+
+#c 我把爸爸的酒放在飯桌上(爸爸要喝)
+#e I put Father's wine on the table (for Father to drink).
+
+
+2.
+masiin	sua 		umi		ia 	acecu 	ni-pu'a-a
+現在 主格 梅子 主題 已經 受焦.過去-買-關係詞
+now NOM plum TOP already PV.PFV-buy-REL
+
+#c 現在梅子已經賣掉了。
+#e Now the plums have already been sold out.
+
+
+3.
+avʉ-ʉn manu	c<um>a-cancu.
+揹-受焦 小孩 Ca重疊<主焦>插秧
+carry.on.shoulder-PV  child Ca<AV>seedling
+
+#c (我)背著小孩插秧。
+#e (I) transplanted seedlings,child being carried on the back.’
+
+
+4.
+te=ci=kia 	pocu'u kanavunavu
+非實現=狀態改變=1SG.主格 整理 麻竹
+IRR=COS=1SG.NOM clean.out  Ma.bamboo
+
+#c 我要整理麻竹了。
+#e I’m going to clean the Ma Bamboo.
+
+
+5.
+nuu	c<ʉm>ʉre=en	sua ramaang	vavuru 	ia,  kamanʉʉng-ʉn=kee sua 	ringee	vavuru
+如果 <主焦>看=如果 主格 蹤跡 山豬 主題 做-受焦=3SG.屬格 主格 陷阱 山豬
+if	<AV>see=if	NOM	trace  boar  TOP  do-PV=3SG.GEN  NOM	trap	 boar
+
+#c 如果看到山豬的足跡，就做山豬的陷阱。
+#e If the boar’s trace is seen, he will make the trap for boars.
+
+
+6.
+nuu	ni-mu-ri^ngee=ci	ia, m-uaca=cu	 m-osa  tu-tunuvu  taru'an=ni
+如果 過去-主焦-陷阱=狀態改變 主題 主焦-走=狀態改變 主焦-去 重疊-獵寮 寮=3PL.所有格
+if	PFV-AV-trap=COS	TOP		AV-walk=COS	AV-go  RED-hunting.shed	shed=3PL.POSS
+
+#c 如果他們已經設好陷阱了，他們就會走到他們的獵寮。
+#e If (they) have already set up the trap, they would rush to their hunting shed.
+
+
+7.
+tia	ma-tapari'i	manu	sii		avu-un,	avu-un	na	 kukuca
+非實現 主焦-掉 小孩 因為 揹-受焦 揹-受焦 地方 背
+IRR	AV-fall		child		because	carry-PV	carry-PV	LOC	 back
+
+#c 小孩會掉下來，因為是揹在背上。
+#e The child would fall down because it’s carried on the back.
+
+
+8.
+nuura	ia,	m-uaca=cu	 r<um>ingee
+明天 主題 主焦-走=狀態改變 <主焦>設陷阱
+tomorroa	TOP	AV-walk=COS	<AV>set.up.traps
+
+#c 明天(獵人們)會去設陷阱。
+#e Tomorrow, (the hunters) will go and set up traps.
+
+
+9.
+iiku	 ia,  cuma	 Mu'u
+1SG.主格 主題 父親 專有名詞
+1SG.NOM	TOP		father	PN
+
+#c 我是Mu'u叔叔。
+#e I am Uncle Mu’u.
+
+
+10.
+te=ku po-isua	aracakan
+非實現=1SG.主格 說-那 打獵
+IRR=1SG.NOM	say-that	hunting
+
+#c 我要說打獵的事。
+#e I am going to talk about hunting.
+
+
+11.
+sii	ni-aru=cu	 cau		kangvang	 ma-maan=maku
+因為 過去.受焦-拿=狀態改變 人 全部 重疊-小孩=1SG.屬格
+because	PFV.PV-take=COS	person	all		 RED-child=1SG.GEN
+
+#c 因為我所有的小孩都被娶走了。
+#e Because all my children were married.
+
+
+12.
+iimo	makahi 	iikua		po-’isua=pa 	vina’ʉ
+所以 說 1SG.斜格 說-那=助詞 小米
+so		tell		1SG.OBL	say-that=PTC	millet
+
+#c 所以(她)叫我再說一遍小米的事。
+#e So (she) told me to talk about the millet again.
+
+
+13.
+m-umuku		ma-marang	miana		tanuku	(mataa)	tammi
+主焦-長大 重疊-老 以前 芋頭 和 地瓜
+AV-grow		RED-old		in.the.past	taro		and		sweet.potato
+
+#c (我們的)長輩們以前種芋頭和地瓜。
+#e (Our) parents used to grow taro and sweet potatoes.
+
+
+14.
+na-cina=maku	 marang
+過去-母親=1SG.屬格 老
+PST-mother=1SG.GEN	old
+
+#c 我逝世的母親年紀很大。
+#e My late mother was old.
+
+
+15.
+kamanʉʉng=kia	tingingai kumarai
+主焦-做=1SG.主格 小 田
+AV.do=1SG.NOM	small	field
+
+#c 我耕作(在)小田地。
+#e I did (it) on a small field.
+
+
+16.
+m-oraan 	Pani	cina 	m-aara 	tikuru
+主焦-幫助 專有名詞 母親 主焦-拿 衣服
+AV-help		PN	mother	AV-take	clothes
+
+#c Pani幫媽媽拿衣服。
+#e Pani helps mother take clothes.
