@@ -3,7 +3,7 @@ import csv
 import json
 
 INPUT = 'docs/text-meta.json'
-OUTPUT = ['docs/langMetas.csv', 'docs/txtMetas.csv']
+OUTPUT = ['docs/meta/langMetas.csv', 'docs/meta/txtMetas.csv']
 
 with open(INPUT, encoding="utf-8") as f:
     data = json.load(f)

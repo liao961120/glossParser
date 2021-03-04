@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/papaparse@5.2.0/papaparse.min.js"></script>
+    <script src="dfFromWeb.js"></script>
+    <title>收錄語料資訊</title>
+</head>
+
+<body>
+    <h2>收錄語言</h2>
+    <div id="data-from-web-1" class="data-from-web-csv df-from-web" data-url="langMetas.csv"></div>
+
+    <h2>語料檔</h2>
+    <div id="data-from-web-2" class="data-from-web-csv df-from-web" data-url="txtMetas.csv"></div>
+</body>
+
+<style>
+    body {
+        width: 98%;
+        margin: 30px auto;
+        padding: 0 auto;
+    }
+
+    /* Reload btn styles */
+    .reload-data-btn {
+        /* display: none; */
+        position: fixed;
+        right: 0.3%;
+        bottom: 0.5%;
+        height: 1.5em;
+        width: 1.5em;
+        padding: 0;
+        border: 0;
+        background-color: transparent;
+    }
+
+    .reload-data-btn:hover {
+        background-color: rgba(255, 153, 153, 0.39);
+    }
+
+    /* Table styles */
+    div.df-from-web {
+        margin-bottom: 5px;
+        overflow-x: auto;
+        overflow-y: auto;
+    }
+
+    .df-from-web>table {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        min-width: 50%;
+    }
+
+    .df-from-web td,
+    .df-from-web th {
+        border: 1px solid #ddd;
+        padding: 7px;
+    }
+
+    .df-from-web tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .df-from-web tr:hover {
+        background-color: #ddd;
+    }
+
+    .df-from-web th {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: left;
+        background-color: #4CAF50;
+        color: white;
+    }
+
+    div#data-from-web-2 {
+        max-height: 500px;
+    }
+    #data-from-web-2 table {
+        position: relative
+    }
+    
+    #data-from-web-2 table th {
+        position: sticky;
+        top: 0;
+    }
+</style>
+
+</html>
