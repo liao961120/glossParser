@@ -21,6 +21,8 @@ def get_info(path):
     if 'long-text' in str(path.absolute()):
         info['topic'] = meta['topic']
         info['file'] = meta['video'].strip('.mp3')
+    else:
+        info['transcribed'] = meta['Transcribed by']
 
     # Text data info
     if 'sentence' in str(path.absolute()):

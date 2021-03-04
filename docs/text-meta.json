@@ -206,6 +206,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/2",
+				"transcribed": "劉星辰",
 				"sent_num": 16
 			},
 			{
@@ -213,6 +214,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/5",
+				"transcribed": "鄧安婷",
 				"sent_num": 73
 			},
 			{
@@ -220,6 +222,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/1",
+				"transcribed": "張盛傑",
 				"sent_num": 489
 			},
 			{
@@ -227,6 +230,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/3",
+				"transcribed": "李中佑",
 				"sent_num": 522
 			},
 			{
@@ -234,6 +238,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/4",
+				"transcribed": "楊佳縈",
 				"sent_num": 181
 			}
 		]
@@ -1881,6 +1886,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Bunun_Isbukun/2",
+				"transcribed": "楊淳然",
 				"sent_num": 74
 			},
 			{
@@ -1888,6 +1894,7 @@
 				"speaker": "None",
 				"collected": "None",
 				"file": "Bunun_Isbukun/1",
+				"transcribed": "張智傑",
 				"sent_num": 920
 			}
 		]
