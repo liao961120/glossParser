@@ -4,24 +4,24 @@ import sys
 import json
 import pathlib
 import logging
-from utils import get_raw_text_meta
-from tokenizer import align
 from datetime import datetime
 from urllib.parse import urlparse
 from docx import Document
 from bs4 import UnicodeDammit
+from utils import get_raw_text_meta
+from tokenizer import align
+from data import Data
 
+DATA = Data()
+DOCS_FOLDER_PATH = pathlib.Path(DATA.corpus_files_root)
+PUBLIC_DIR = DATA.public
 
 
 def main():
-    DOCS_FOLDER_PATH = r'./raw-data'
-    PUBLIC_DIR = './docs'
-
-    logging.basicConfig(level=logging.INFO, format='%(message)s', filemode='w', filename=f'{PUBLIC_DIR}/{os.path.basename(DOCS_FOLDER_PATH)}.log')
+    logging.basicConfig(level=logging.INFO, format='%(message)s', filemode='w', filename=f'{PUBLIC_DIR}/{DOCS_FOLDER_PATH.stem}.log')
     logging.info(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}\n')
 
-    DOCS_FOLDER_PATH = pathlib.Path(DOCS_FOLDER_PATH)
-    C = GlossProcessor(docs_folder_path=DOCS_FOLDER_PATH)
+    C = GlossProcessor(docs_folder_path=str(DOCS_FOLDER_PATH))
 
     # Save as different formats    
     output_glosses = []
@@ -48,64 +48,15 @@ def main():
             json.dump(content, f, ensure_ascii=False)
     
     # Write flatten data to json
-    with open("docs/all_lang.json", "w", encoding="utf-8") as f:
+    with open(DATA.all_lang_search, "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
-
-    #-------- Get glossary --------#
-    # glossary = {}
-    # for gloss in output_glosses:
-    #     id_ = f"{gloss['file']}#{gloss['num']}"
-
-    #     gloss_set = { '=00000='.join(tup) for tup in gloss['gloss'] }
-
-    #     for tk in [x.split('=00000=') for x in gloss_set]:
-            
-    #         # Normalize token pattern
-    #         tk = [ t.strip('()/*?+-_,!.1234567890[]') for t in tk ]
-    #         tk[0] = tk[0]
-    #         #if tk[0] in [''] + list(PERSON_NAMES): continue
-            
-    #         sense = ' | '.join(t.strip() for t in tk[1:] if t.strip() != '')
-    #         if sense == '': continue
-            
-    #         if tk[0] not in glossary:
-    #             glossary[tk[0]] = {
-    #                 sense: [id_],
-    #             }
-    #         else:
-    #             if sense not in glossary[tk[0]]:
-    #                 glossary[tk[0]][sense] = [id_]
-    #             else:
-    #                 glossary[tk[0]][sense].append(id_)
-
-    # # Sort and index for search
-    # sorted_glossary = []
-    # for k in sorted(glossary.keys()):
-    #     tokens = set()
-
-    #     # Add lexical entry
-    #     tokens.add(k)
-    #     tokens.add(k.replace('-', ''))
-
-    #     # Add sense
-    #     for sense in glossary[k]:
-    #         for tk in sense.split('|'):
-    #             tokens.add(tk.strip())
-
-    #     # Save sorted gloss
-    #     sorted_glossary.append( (k, glossary[k], list(tokens)) )
-
-    # with open('docs/all_lang-long-text-glossary.json', 'w') as f:
-    #     json.dump(sorted_glossary, f, ensure_ascii=False)
     
     # Zip file for publish
     for d in ['json-long-text', 'json-sentence']:
+        if os.path.exists("docs/{d}"): os.system(f"rm -r docs/{d}")
         os.system(f'zip -r docs/{d}.zip {d}')
-        os.system(f"rm -r docs/{d}")
         os.system(f"mv {d} docs/")
-    
-    
-
+        
 
 
 class GlossProcessor:
@@ -179,7 +130,7 @@ class GlossProcessor:
 
 
 #--------------- Helper functions -------------------#
-def process_doc(fp="corp/20200325.docx"):
+def process_doc(fp):
 
     # Normalize document into a list of lines
     if str(fp).endswith('.docx'):
@@ -260,12 +211,8 @@ def tokenize_glosses(glosses, filename):
         # Tokenize
         ori_lang = ori_lang.strip().split()
         tokens = align(ori=rk_gloss.strip(), en=en_gloss.strip(), ch=zh_gloss.strip(), gloss_id=f"{filename}/#{glosses[gloss_id][0]}")
-        #rk_gloss = rk_gloss.strip().split()
-        #en_gloss = en_gloss.strip().split()
-        #zh_gloss = zh_gloss.strip().split()
         gloss = [ (tk["ori"], tk["en"], tk["ch"]) for tk in tokens ]
         free = [ l for l in free_lines if l != '' ]
-        #gloss.append( (rk, en, zh) )
 
         # Get sentence audio play time span (if sent end)
         if '#c' in [ l[:2] for l in free ]:

@@ -1,12 +1,57 @@
 #%%
 import csv
 import json
+from data import Data
 
-INPUT = 'docs/text-meta.json'
-OUTPUT = ['docs/meta/langMetas.csv', 'docs/meta/txtMetas.csv']
+DATA = Data()
+META_JSON = DATA.meta
+OUTPUT = [ DATA.meta_csv_languages, DATA.meta_csv_texts ]
 
-with open(INPUT, encoding="utf-8") as f:
-    data = json.load(f)
+
+def main():
+    with open(META_JSON, encoding="utf-8") as f:
+        data = json.load(f)
+
+    lang_csv = []
+    text_csv = []
+    for lang, d in data.items():
+
+        # One language per row
+        story = d['summary']['story']
+        sentence = d['summary']['sentence']
+        row_lang = {
+            'language': lang,
+            'story_iuNum': story["iu_num"],
+            'story_sentNum': story["sent_num"],
+            'story_recordTime': story["record_time"],
+            'sentence_sentNum': sentence["sent_num"]
+        }
+        lang_csv.append(row_lang)
+
+        # One text file per row
+        texts = d['text']
+        for txt in texts:
+            row_txt = {
+                'file': txt['file'],
+                'language': lang,
+                'type': txt['type'],
+                'topic': get_val('topic', txt, default='NA'),
+                'speaker': get_val('speaker', txt, default='NA'),
+                "collected": get_val('collected', txt, default='NA'),
+                "transcribed": get_val('transcribed', txt, default='NA'),
+                "iu_num": get_val('iu_num', txt, default=0),
+                "sent_num": get_val('sent_num', txt, default=0),
+                "record_time": get_val('record_time', txt, default=0),
+            }
+            text_csv.append(row_txt)
+
+    for i, csv_ in enumerate([lang_csv, text_csv]):
+        with open(OUTPUT[i], 'w', newline='', encoding='utf-8') as csvfile:
+            fieldnames = list(csv_[0].keys())
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+            writer.writeheader()
+            for r in csv_: writer.writerow(r)
 
 # %%
 def get_val(key_, dict_, default):
@@ -18,50 +63,7 @@ def get_val(key_, dict_, default):
             return val
     return default
 
-# {'language', 'story_iuNum', 'story_sentNum', 'story_recordTime', 'sentence_sentNum'}
-
-lang_csv = []
-text_csv = []
-
-for lang, d in data.items():
-
-    # One language per row
-    story = d['summary']['story']
-    sentence = d['summary']['sentence']
-    row_lang = {
-        'language': lang,
-        'story_iuNum': story["iu_num"],
-        'story_sentNum': story["sent_num"],
-        'story_recordTime': story["record_time"],
-        'sentence_sentNum': sentence["sent_num"]
-    }
-    lang_csv.append(row_lang)
-
-    # One text file per row
-    texts = d['text']
-    for txt in texts:
-        row_txt = {
-            'file': txt['file'],
-            'language': lang,
-            'type': txt['type'],
-            'topic': get_val('topic', txt, default='NA'),
-            'speaker': get_val('speaker', txt, default='NA'),
-            "collected": get_val('collected', txt, default='NA'),
-            "transcribed": get_val('transcribed', txt, default='NA'),
-            "iu_num": get_val('iu_num', txt, default=0),
-            "sent_num": get_val('sent_num', txt, default=0),
-            "record_time": get_val('record_time', txt, default=0),
-        }
-        text_csv.append(row_txt)
 
 
-# %%
-for i, csv_ in enumerate([lang_csv, text_csv]):
-    
-    with open(OUTPUT[i], 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = list(csv_[0].keys())
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-
-        writer.writeheader()
-        for r in csv_: writer.writerow(r)
-# %%
+if __name__ == "__main__":
+    main()

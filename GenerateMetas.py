@@ -1,10 +1,46 @@
 # %%
 import json
 import pathlib
+from data import Data
 
-JSON_LONG_TEXT = pathlib.Path('docs/json-long-text')
-JSON_SENTENCE = pathlib.Path('docs/json-sentence')
-OUTFILE = 'docs/text-meta.json'
+DATA = Data()
+STORY = pathlib.Path(DATA.story_files_json)
+SENTENCE = pathlib.Path(DATA.sentence_files_json)
+OUTFILE = DATA.meta
+
+
+def main():
+    # Main function
+    meta = {}
+    for lang in list(STORY.iterdir()) + list(SENTENCE.iterdir()):
+        if lang.stem not in meta:
+            meta[lang.stem] = {
+                'summary': {
+                    "story": {
+                        "iu_num": 0,
+                        "sent_num": 0,
+                        "record_time": 0
+                    },
+                    "sentence": {"sent_num": 0}
+                },
+                'text': []
+            }
+
+        for text in lang.glob("*.json"):
+            meta[lang.stem]['text'].append(get_info(text))
+
+        if 'sentence' in str(lang.absolute()):
+            meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
+                t['sent_num'] for t in meta[lang.stem]['text'])
+        else:
+            for k in ['iu_num', 'sent_num', 'record_time']:
+                meta[lang.stem]['summary']['story'][k] = round(
+                    sum(t[k] for t in meta[lang.stem]['text']), 2)
+
+
+    with open(OUTFILE, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent="\t")
+
 
 
 def get_info(path):
@@ -46,33 +82,6 @@ def load_text(path):
         return json.load(f)
 
 
-# Main function
-meta = {}
-for lang in list(JSON_LONG_TEXT.iterdir()) + list(JSON_SENTENCE.iterdir()):
-    if lang.stem not in meta:
-        meta[lang.stem] = {
-            'summary': {
-                "story": {
-                    "iu_num": 0,
-                    "sent_num": 0,
-                    "record_time": 0
-                },
-                "sentence": {"sent_num": 0}
-            },
-            'text': []
-        }
 
-    for text in lang.glob("*.json"):
-        meta[lang.stem]['text'].append(get_info(text))
-
-    if 'sentence' in str(lang.absolute()):
-        meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
-            t['sent_num'] for t in meta[lang.stem]['text'])
-    else:
-        for k in ['iu_num', 'sent_num', 'record_time']:
-            meta[lang.stem]['summary']['story'][k] = round(
-                sum(t[k] for t in meta[lang.stem]['text']), 2)
-
-
-with open(OUTFILE, "w", encoding="utf-8") as f:
-    json.dump(meta, f, ensure_ascii=False, indent="\t")
+if __name__ == "__main__":
+    main()
