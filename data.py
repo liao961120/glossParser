@@ -37,5 +37,3 @@ class Data:
             fp = fp.replace(self.sentence_files_raw, self.sentence_files_json)
             return fp.replace(".txt", ".json")
         raise Exception(f'Cannot derive public file path from {fp}')
-
-# %%
