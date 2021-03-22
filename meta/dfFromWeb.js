@@ -32,6 +32,7 @@ function createFromCSV(dom_id, url) {
     var csv_data = Papa.parse(url, {
         download: true,
         header: true,
+        skipEmptyLines: true,
         // Callback function
         complete: function(results) {
             var div = document.getElementById(dom_id)
