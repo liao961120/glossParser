@@ -43,7 +43,7 @@ def main():
                 "transcribed": get_val('transcribed', txt, default='NA'),
                 "iu_num": get_val('iu_num', txt, default=0),
                 "sent_num": get_val('sent_num', txt, default=0),
-                "record_time": get_val('record_time', txt, default=0),
+                "record_time": str(datetime.timedelta(seconds=int(get_val('record_time', txt, default=0)))),
             }
             text_csv.append(row_txt)
 
