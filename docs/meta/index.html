@@ -21,7 +21,7 @@
 
 <style>
     body {
-        width: 98%;
+        width: 95%;
         margin: 30px auto;
         padding: 0 auto;
     }
@@ -49,6 +49,7 @@
     }
     td {
         max-width: 17em;
+        overflow-wrap: break-word;
     }
     div.df-from-web {
         margin-bottom: 5px;
@@ -94,6 +95,24 @@
     #data-from-web-2 table th {
         position: sticky;
         top: 0;
+    }
+
+
+    table {
+        counter-reset: row-num -1;
+    }
+    table tr {
+        counter-increment: row-num;
+    }
+    table tr td:first-child::before {
+        content: counter(row-num);
+        display: inline-block;
+        margin-left: -2.7em;
+        margin-right: 0.4em;
+        width: 2.2em;
+        color: rgb(116, 116, 116);
+        font-size: 0.85em;
+        text-align: center;
     }
 </style>
 
