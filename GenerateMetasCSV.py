@@ -46,7 +46,9 @@ def main():
             text_csv.append(row_txt)
 
     for i, csv_ in enumerate([lang_csv, text_csv]):
-        with open(OUTPUT[i], 'w', newline='', encoding='utf-8') as csvfile:
+        outpath = pathlib.Path(OUTPUT[i])
+        outpath.parent.mkdir(parents=True, exist_ok=True)
+        with open(outpath, 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = list(csv_[0].keys())
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
