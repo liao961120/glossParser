@@ -2,6 +2,7 @@
 import csv
 import json
 import pathlib
+from datetime import datetime
 from data import Data
 
 DATA = Data()
@@ -24,7 +25,7 @@ def main():
             'language': lang,
             'story_iuNum': story["iu_num"],
             'story_sentNum': story["sent_num"],
-            'story_recordTime': story["record_time"],
+            'story_recordTime': str(datetime.timedelta(seconds=int(story["record_time"]))),
             'sentence_sentNum': sentence["sent_num"]
         }
         lang_csv.append(row_lang)
