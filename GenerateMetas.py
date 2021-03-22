@@ -54,7 +54,7 @@ def get_info(path):
     info['collected'] = meta['collected']
     info['file'] = f"{path.parent.name}/{path.stem}"
 
-    if 'long-text' in str(path.absolute()):
+    if 'story' in str(path.absolute()):
         info['topic'] = meta['topic']
         info['file'] = meta['video'].strip('.mp3')
     else:
