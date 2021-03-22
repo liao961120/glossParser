@@ -1,6 +1,7 @@
 #%%
 import csv
 import json
+import pathlib
 from data import Data
 
 DATA = Data()
