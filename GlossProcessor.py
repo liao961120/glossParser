@@ -6,7 +6,6 @@ import pathlib
 import logging
 from datetime import datetime
 from urllib.parse import urlparse
-from docx import Document
 from bs4 import UnicodeDammit
 from utils import get_raw_text_meta
 from tokenizer import align
@@ -18,7 +17,8 @@ PUBLIC_DIR = DATA.public
 
 
 def main():
-    logging.basicConfig(level=logging.INFO, format='%(message)s', filemode='w', filename=f'{PUBLIC_DIR}/{DOCS_FOLDER_PATH.stem}.log')
+    logging.basicConfig(level=logging.INFO, format='%(message)s', filemode='w', 
+                        filename=f'{PUBLIC_DIR}/{DOCS_FOLDER_PATH.stem}.log')
     logging.info(f'{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}\n')
 
     C = GlossProcessor(docs_folder_path=str(DOCS_FOLDER_PATH))
@@ -26,37 +26,26 @@ def main():
     # Save as different formats    
     output_glosses = []
     for docname, content in C.data.items():
+        public_fp = DATA.get_public_fp(docname)
+        corpLoadPath = strip_path(public_fp)
+        
         # Flatten data to match frontend json format
         for gloss_num, gloss in content["glosses"]:
             gloss.update({
-                'file': docname.replace("raw-data/", "").replace("long-text/", "").replace("sentence/", "").replace(".mp3.txt", "").replace(".txt", ""),
+                'file': corpLoadPath,
                 'num': gloss_num,
             })
             output_glosses.append(gloss)
         
         # Save separate file for each text
-        if 'long-text' in docname:
-            fname = docname.replace("raw-data/long-text", "json-long-text").replace('.txt', '.json')
-        elif 'sentence' in docname:
-            fname = docname.replace("raw-data/sentence", "json-sentence").replace('.txt', '.json')
-        else:
-            raise Exception(f"Unexpected raw-data/ structure: {docname}")
-        json_dir, lang_dir, _ = fname.split('/')
-        if not os.path.exists(f"{json_dir}/{lang_dir}"):
-            os.makedirs(f"{json_dir}/{lang_dir}")
-        with open(fname, "w", encoding="utf-8") as f:
+        public_fp = pathlib.Path(public_fp)
+        public_fp.parent.mkdir(parents=True, exist_ok=True)
+        with open(public_fp, "w", encoding="utf-8") as f:
             json.dump(content, f, ensure_ascii=False)
     
     # Write flatten data to json
     with open(DATA.all_lang_search, "w", encoding="utf-8") as f:
         json.dump(output_glosses, f, ensure_ascii=False)
-    
-    # Zip file for publish
-    for d in ['json-long-text', 'json-sentence']:
-        if os.path.exists("docs/{d}"): os.system(f"rm -r docs/{d}")
-        os.system(f'zip -r docs/{d}.zip {d}')
-        os.system(f"mv {d} docs/")
-        
 
 
 class GlossProcessor:
@@ -134,6 +123,7 @@ def process_doc(fp):
 
     # Normalize document into a list of lines
     if str(fp).endswith('.docx'):
+        from docx import Document
         d = Document(fp)
         a_doc = '\n'.join(p.text.strip() for p in d.paragraphs)
         a_doc = [ line.strip() for line in a_doc.split('\n') ]
@@ -296,9 +286,16 @@ def read_with_guessed_encoding(fp: str):
     suggestion = UnicodeDammit(content)
     guessed_enc = suggestion.original_encoding
 
+    if guessed_enc.lower() != "utf-8":
+        logging.warning(f"File {fp} not UTF-8 encoded. Guess: {guessed_enc}")
     with open(fp, 'r', encoding=guessed_enc) as f:
         return f.read().strip(), guessed_enc
 
+
+def strip_path(fp):
+    for pat in [ r'^docs/', r'\.json$', r'\.mp3' ]:
+        fp = re.sub(pat, "", fp)
+    return fp
 
 
 if __name__ == "__main__":
