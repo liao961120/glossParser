@@ -4,3 +4,4 @@ video*.zip
 audio/raw
 audio/split
 audio
+.vscode
