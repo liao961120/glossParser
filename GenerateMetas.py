@@ -54,14 +54,14 @@ def get_info(path):
     info['collected'] = meta['collected']
     info['file'] = f"{path.parent.name}/{path.stem}"
 
-    if 'story' in str(path.absolute()):
+    if DATA.story_dirname in str(path.absolute()):
         info['topic'] = meta['topic']
-        info['file'] = meta['video'].strip('.mp3')
+        info['file'] = meta['video']
     else:
         info['transcribed'] = meta['Transcribed by']
 
     # Text data info
-    if 'sentence' in str(path.absolute()):
+    if DATA.sentence_dirname in str(path.absolute()):
         info['sent_num'] = len(text["glosses"])
     else:
         info['iu_num'] = len(text["glosses"])
