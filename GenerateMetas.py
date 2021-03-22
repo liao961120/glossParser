@@ -56,7 +56,6 @@ def get_info(path):
 
     if DATA.story_dirname in str(path.absolute()):
         info['topic'] = meta['topic']
-        info['file'] = meta['video']
     else:
         info['transcribed'] = meta['Transcribed by']
 
