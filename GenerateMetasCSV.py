@@ -2,7 +2,7 @@
 import csv
 import json
 import pathlib
-from datetime import datetime
+import datetime
 from data import Data
 
 DATA = Data()
