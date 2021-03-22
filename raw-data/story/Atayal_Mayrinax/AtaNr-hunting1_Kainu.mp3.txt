@@ -1,0 +1,991 @@
+topic: Hunting 1
+type: Narrative
+language: 泰雅語, Atayal, Mayrinax
+speaker: 劉國基, Kainu, male, 1941-02-14
+collected: 2011-04-01
+revised: None
+video: AtaNr-hunting1_Kainu.mp3
+
+1.
+ti' kuing ga,_
+EXIST 1SG.NEU TOP
+存在 1SG.中性格 主題
+
+#a 21.62, None, 22.67
+
+2.
+... kainu' kung na hawving,\
+PN 1SG.NEU GEN PN
+人名 1SG.中性格 屬格 人名
+
+#a 22.67, None, 24.94
+
+3.
+...(0.7) hawving na vaw.\
+PN GEN PN
+人名 屬格 人名
+
+#e I am Kainu', son of Hawvin, son of Vaw.
+#c 我是Kainu'，Hawvin的兒子，Hawvin是Vaw的兒子。
+#n 此處Vaw完整應為Yavaw。
+#a 24.94, None, 26.81
+
+4.
+...(1.1) sunga' su',_
+past ACC
+過去 受格
+
+#a 26.81, None, 29.15
+
+5.
+... m-usa' kuing i,_
+AF-go 1SG.NEU LNK
+主焦-去 1SG.中性格 連詞
+
+#a 29.15, None, 31.19
+
+6.
+...(2.0) s<um>vu' su ngarux.\
+<AF>shoot ACC bear
+<主焦>射 受格 熊
+
+#e In the past, I went to shoot bears.
+#c 我以前會去獵熊。
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+#a 31.19, None, 35.79
+
+7.
+... ana-nanu' ga,_
+any-what TOP
+任何-什麼 主題
+
+#a 35.79, None, 37.67
+
+8.
+...(0.7) g<in>alg-an=mu i,_
+<PFV>follow-LOC=1SG.GEN LNK
+<完成>跟隨-處所=1SG.屬格 連詞
+
+#a 37.67, None, 39.9
+
+9.
+...(1.6) m-usa i,_
+AF-go LNK
+主焦-去 連詞
+
+#a 39.9, None, 42.54
+
+10.
+...(1.3) s<um>vu su,_
+<AF>shoot ACC
+<主焦>射 受格
+
+#a 42.54, None, 45.09
+
+11.
+.. vawwak i,_
+boar LNK
+山豬 連詞
+
+#a 45.09, None, 46.64
+
+12.
+...(1.1) lahulahu sunga'.\
+forest past
+森林 過去
+
+#e In the past, I followed (people) to the forest to shoot boars all the time.
+#c 以前我都有跟隨(人們)去森林裡射野豬。
+#a 46.64, None, 48.99
+
+13.
+...(1.0) m-usa' kuing ru,_
+AF-go 1SG.NEU CONJ
+主焦-去 1SG.中性格 連接詞
+
+#a 48.99, None, 51.15
+
+14.
+...(2.0) gi vali kia viru' na itaal sunga'._
+CONJ NEG have book GEN people past
+連接詞 否定 有 書 屬格 人 過去
+
+#e I went (there), because there were no books of us in the past.
+#c 我去(那裏)因為以前沒有我們的書。
+#n 此處書可能指地圖或文字。itaal專指泰雅族人。
+#a 51.15, None, 56.63
+
+15.
+...(0.9) m-usa' ragiax ga,_
+AF-go mountain TOP
+主焦-去 山 主題
+
+#a 56.63, None, 58.82
+
+16.
+...(0.8) mutux asi hakay ru,_
+customarily only walk CONJ
+通常會 只 走 連接詞
+
+#e When I went to the mountain, I would just go on foot.
+#c 如果我去山上，我會只用走的去。
+#n 此處asi亦有直接的意思。
+#a 58.82, None, 61.46
+
+17.
+...(0.8) y<um>iax i sa qutux su,_
+<AF>fall LNK FIL one ACC
+<主焦>下降 連詞 FIL 一 受格
+
+#a 61.46, None, 64.76
+
+18.
+... ragiax la ga,_
+mountain PART TOP
+山 助詞 主題
+
+#e I went down from a (mountain).
+#c 我從一(座山上)走下來。
+#a 64.76, None, 66.29
+
+19.
+.. ini' vaq-i ku in-uwah-an._
+NEG know-PF NOM PFV-come-LF
+否定 知道-受焦 主格 完成-來-處焦
+
+#e (I) didn't know the road traveled.
+#c (我)不知道走過的路。
+#n inuwah來過；inuwah表示來的路。
+#a 66.29, None, 68.37
+
+20.
+...(1.0) ini' vaq-i i-- ku in-uwah-an la ga,_
+NEG know-PF FS NOM PFV-come-LF PART TOP
+否定 知道-受焦 FS 主格 完成-來-處焦 語助詞 主題
+
+#a 68.37, None, 71.7
+
+21.
+...(0.8) asi.ki,_
+necessary
+必要
+
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga）等語意。目前將此類用法合併為一個單位標記。
+#a 71.7, None, 73.49
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga）等語意。目前將此類用法合併為一個單位標記。
+
+22.
+...(1.4) kut-an ku kahuniq gi,_
+chop-LF NOM tree CONJ
+砍-處焦 主格 樹 連接詞
+
+#a 73.49, None, 76.77
+
+23.
+.. naki vaq-un ku in-uwah-an ru',_
+so.that know-PF NOM PFV-come-LF CONJ
+才會 知道-受焦 主格 完成-來-處焦 連接詞
+
+#e If (you) did not know the road traveled, (you) needed to chop down the trees, so that you would know the road traveled.
+#c 如果不知道來的路，就必須要砍樹，這樣才會知道來的路。
+#a 76.77, None, 79.01
+
+24.
+... naki ini' i p-utukari'.\
+so.that NEG LNK AF.FUT-go.lost
+才會 否定 連詞 主焦.未來-迷路
+
+#e This way you wouldn't get lost.
+#c 你才不會迷路。
+#a 79.01, None, 81.37
+
+25.
+...(0.7) m-utukari'=su' la ga,_
+AF-go.lost=2SG.GEN PART TOP
+主焦-迷路=2SG.屬格 語助詞 主題
+
+#a 81.37, None, 83.51
+
+26.
+...(1.2) pa-siquaw=su' inu' ga qat=su' va-vaq-un.\
+AF.FUT-appear=2SG.GEN where TOP NEG=2SG.GEN Ca-know-PF
+主焦.未來-出現=2SG.屬格 哪裡 主題 否定=2SG.屬格 Ca重疊-知道-受焦
+
+#e If you get lost, you don't know where you will appear.
+#c 如果你迷路的話，你不知道你會在哪裡出現。
+#a 83.51, None, 87.13
+
+27.
+.. qat=su' laluw-an na,_
+NEG=2SG.GEN find-PF GEN
+否定=2SG.屬格 找到-受焦 屬格
+
+#a 87.13, None, 88.54
+
+28.
+... squliq m-usa' k<um>iyum.\
+people AF-go <AF>search
+人 主焦-去 <主焦>尋找
+
+#e You wouldn't be found by people who go for a search.
+#c 你不會被搜尋的人找到。
+#a 88.54, None, 90.66
+
+29.
+...(1.3) ru'== nanu' tiku kai'=mu sawni' ka m-aha u,_
+CONJ what DM word=1SG.GEN just.now LNK AF-say FIL
+連詞 什麼 DM 話=1SG.屬格 剛才 連詞 主焦-說 FIL
+
+#a 90.66, None, 95.64
+
+30.
+... asi.ki,_
+necessary
+必須
+
+#a 95.64, None, 97.13
+
+31.
+... kut-an tikay ku kahuniq gi naki vaq-un su-- ku,_
+chop-LF little NOM tree CONJ so.that know-PF FS NOM
+砍-處焦 一點 主格 樹 連接詞 才會 知道-受焦 FS 主格
+
+#a 97.13, None, 101.3
+
+32.
+.. a 'usa.\
+FIL go
+FIL 去
+
+#e (Like) what I just said, it's necessary to chop a little wood so that you know where to go.
+#c (像)我剛才說的，必須要砍一點樹才會知道要走哪裡。
+#n 目前不確定a 'usa是否與前個IU為同一clause。
+#a 101.3, None, 102.33
+
+33.
+...(1.0) ru m-usa' i,_
+CONJ AF-go LNK
+連接詞 主焦-去 連詞
+
+#a 102.33, None, 105.11
+
+34.
+...(1.0) i,_
+LNK
+連詞
+
+#a 105.11, None, 107.22
+
+35.
+...(1.5) s<um>vu' su,_
+<AF>shoot ACC
+<完成>射 受格
+
+#a 107.22, None, 110.03
+
+36.
+...(0.7) yapit ini' ga vawwak sunga' ga,_
+polatouche NEG TOP boar past TOP
+飛鼠 否定 山豬 過去 主題
+
+#e I went to shoot polatouches or boars in the past.
+#c 我以前去射飛鼠或山豬
+#n ini' ga意為「或者」。
+#a 110.03, None, 113.72
+
+37.
+...(1.1) mutux i,_
+customarily LNK
+通常會 連詞
+
+#a 113.72, None, 115.98
+
+38.
+... payux vay ku qasinu sunga' gi,_
+much really NOM beast past CONJ
+許多 真的 主格 野獸 過去 連接詞
+
+#n vay為suvalay簡稱。
+#a 115.98, None, 119.0
+#n vay為suvalay簡稱。
+
+39.
+...(0.9) nanu' gi,_
+what because
+什麼 因為
+
+#a 119.0, None, 120.88
+
+40.
+...(1.2) uwehti' ku,_
+wide NOM
+寬 主格
+
+#a 120.88, None, 123.37
+
+41.
+...(1.3) lahulahu.\
+forest
+森林
+
+#e There would really be many beasts in the past, because the forest was widespread.
+#c 以前真的會有很多野獸，因為森林很寬廣。
+#a 123.37, None, 125.6
+
+42.
+... ru ana-nanu' ga kia._
+CONJ any-what TOP EXIST
+連接詞 任何-什麼 主題 存在
+
+#e There was everything.
+#c 什麼東西都有。
+#n anananu任何東西。
+#a 125.6, None, 127.85
+
+43.
+... ngarux ru,_
+bear CONJ
+熊 連接詞
+
+#a 127.85, None, 129.68
+
+44.
+...(1.0) miit ... para,_
+goat muntjac
+山羊 山羌
+
+#a 129.68, None, 132.07
+
+45.
+...(1.3) ru ka-kavahniq ga,_
+CONJ Ca-bird TOP
+連接詞 Ca重疊-鳥 主題
+
+#e Like bears, goats, muntjacs, and birds.
+#c 像是有熊、山羊、山羌、還有鳥。
+#n kavahniq(單數)。
+#a 132.07, None, 135.47
+
+46.
+...(1.3) mutux i al-un na-- nku-- nku navakis hal-an naha' s<um>vu'._
+customarily LNK take-PF FS FS GEN old.man go-LF 3PL.NEU <AF>shoot
+通常會 連詞 拿-受焦 FS FS 屬格 老人 去-處焦 3PL.中性格 <主焦>射
+
+#e Old men would go shooting and take (the prey) back.
+#c 老人會去打獵，把(獵物)拿回來。
+#a 135.47, None, 140.52
+
+47.
+...(0.8) vu-un naha' ru,_
+shoot-PF 3PL.NEU CONJ
+射-受焦 3PL.中性格 連接詞
+
+#a 140.52, None, 142.36
+
+48.
+... nanu' a,_
+what FIL
+什麼 FIL
+
+#a 142.36, None, 143.48
+
+49.
+...(1.0) mutux naha' si-panga ru,_
+AUX 3PL.NEU IF-bear CONJ
+助動詞 3PL.中性格 工焦-背 連接詞
+
+#a 143.48, None, 146.02
+
+50.
+...(0.7) ras-un naha' imuag.\
+bring-PF 3PL.NEU house
+帶-受焦 3PL.中性格 房子
+
+#e They went shooting, and would bear (the prey) on their back home.
+#c 他們去打獵，會把(獵物)用背的帶回家。
+#a 146.02, None, 148.18
+
+51.
+...(0.8) gi,_
+CONJ
+連接詞
+
+#a 148.18, None, 149.55
+
+52.
+... ra-ranga' naha' cku,_
+Ca-comfort 3PL.NEU ACC
+Ca重疊-安慰 3PL.中性格 受格
+
+#a 149.55, None, 151.51
+
+53.
+... qutux=nia' su'imuag gi,_
+one=3SG.GEN ACC house because
+一=3SG.屬格 受格 房子 因為
+
+#e They will relieve his family. 
+#c 他們要紓解一家人。
+#a 151.51, None, 153.49
+
+54.
+...(0.8) ukas ku naniq-un naha' sunga'.\
+NEG NOM eat-PF 3PL.NEU past
+否定 主格 吃-受焦 3PL.中性格 過去
+
+#e That's because they have little to eat in the past.
+#c 因為他們過去沒有什麼東西吃。
+#a 153.49, None, 156.34
+
+55.
+...(1.2) i vali kia ku slaq ka,_
+LNK NEG EXIST NOM farm LNK
+連詞 否定 存在 主格 田 連詞
+
+#a 156.34, None, 160.42
+
+56.
+... patuwaw-un naha'._
+work-PF 3PL.NEU
+工作-受焦 3PL.中性格
+
+#e There was no farming field for them to farm.
+#c 沒有農田讓他們耕作。
+#a 160.42, None, 162.17
+
+57.
+...(0.7) asi qaniq su,_
+only eat ACC
+只 吃 受格
+
+#a 162.17, None, 164.25
+
+58.
+...(1.0) qa-qasinu gi,_
+Ca-beast CONJ
+Ca重疊-野獸 連接詞
+
+#a 164.25, None, 166.59
+
+59.
+...(1.4) ukas ku',_
+NEG NOM
+否定 主格
+
+#a 166.59, None, 168.91
+
+60.
+... p<in>tuaw-an naha' ka,_
+<PFV>work-LF 3PL.NEU LNK
+<完成>工作-受焦 3PL.中性格 連詞
+
+#n pintuawan收成。
+#a 168.91, None, 170.48
+#n pintuawan收成。
+
+61.
+...(0.9) nanu pati' ru vuax.\
+what rice CONJ rice
+什麼 米 連接詞 米
+
+#e They could only eat beasts because there was no harvest of rice.
+#c 他們只有吃獸肉因為沒有米的收成。
+#n pati'和vuax相同。
+#a 170.48, None, 173.51
+
+62.
+...(1.0) ru yaku qasinu ku niq-un naha'.\
+CONJ that beast NOM eat-PF 3PL.NEU
+連詞 那個 野獸 主格 吃-受焦 3PL.中性格
+
+#e They ate that beast.
+#c 他們吃那個野獸。
+#a 173.51, None, 176.77
+
+71.
+...(0.8) ru',_
+CONJ
+連接詞
+
+#a 198.91, None, 200.23
+
+72.
+...(1.3) atu' na,_
+really LNK
+真的 連詞
+
+#n atu' 原意為”界線”，與連詞na合用有”如果…真的”的語意。
+#a 200.23, None, 202.58
+#n atu' 原意為”界線”，與連詞na合用有”如果…真的”的語意。
+
+73.
+... s<um>vu' ga,_
+<AF>shoot TOP
+<主焦>射 主題
+
+#a 202.58, None, 204.07
+
+74.
+...(1.4) ras-un imuag.\
+bring-PF house
+帶-受焦 房子
+
+#a 204.07, None, 206.61
+
+75.
+... ras-un imuag ru,_
+bring-PF house CONJ
+帶-受焦 房子 連接詞
+
+#e If after shooting, they bring back to house.
+#c 如果射獵完，(他們)把獵物帶回家。
+#a 206.61, None, 208.56
+
+76.
+.. nial n<um>aga' imuag ku,_
+PROG <AF>wait house NOM
+進行 <主焦>等 房子 主格
+
+#n nial表示「正在」，為hanial簡稱，與hanian(正在)為不同方言說法，不確定是否為progressive。
+#a 208.56, None, 210.42
+#n nial表示「正在」，為hanial簡稱，與hanian(正在)為不同方言說法，不確定是否為progressive。
+
+77.
+...(0.7) ka-kanayril.\
+RED-woman
+重疊-女人
+
+#e Women were waiting in the house.
+#c 女人在家裡等。
+#a 210.42, None, 212.28
+
+78.
+...(0.9) atu' na parux ku s<in>vu' ga,_
+really LNK much NOM <PF.PFV>shoot TOP
+真的 連詞 多 煮格 <受焦.完成>射 主題
+
+#a 212.28, None, 215.63
+
+79.
+...(1.3) nanu' u,_
+what FIL
+什麼 FIL
+
+#a 215.63, None, 217.82
+
+80.
+...(1.2) sitaku-- sikal-- si-kaal cku,_
+FS FS IF-say ACC
+FS FS 工焦-說 受格
+
+#a 217.82, None, 221.23
+
+81.
+... a 'ulaqi' m-aha hal-ay=ta' i ma-panga gi,_
+FIL children AF-talk go-AF.IRR=1IPL.NOM LNK AF-bear CONJ
+FIL 小孩 主焦-說 去-主焦.非實現=1IPL.主格 連詞 主焦-背 連接詞
+
+#e If they shot much, they would tell the kids, “Let's go to bring back”.
+#c 如果他們射到許多，會告訴小孩，「我們去背回來」。
+#a 221.23, None, 224.81
+
+82.
+...(0.8) ini' vaq-i ma-panga' na saxa' gi payux ga.\
+NEG know-PF AF-bear INS one.person CONJ much TOP
+否定 知道-受焦 主焦-背 工格 一人 連接詞 多 主題
+
+#e One man can't bear it, because it's too much.
+#c 一個人搬不動，因為太多。
+#n ini' vaqi表示「無法」。saxa'一人(人數有專門數法)。
+#a 224.81, None, 228.67
+
+83.
+...(1.9) ru,_
+CONJ
+連接詞
+
+#a 228.67, None, 231.17
+
+84.
+...(0.7) nanu' ras-un ku sinsining ru,_
+what bring-PF NOM youngster CONJ
+什麼 帶-受焦 主格 年輕人 連接詞
+
+#n sinsining為日語外來語。
+#a 231.17, None, 234.26
+#n sinsining為日語外來語。
+
+85.
+...(1.0) m-aha hal-ay=ta' i,_
+AF-talk go-AF.IRR=1IPL.NOM LNK
+主焦-說 去-主焦.非實現=1IPL.主格 連詞
+
+#a 234.26, None, 236.51
+
+86.
+...(1.0) ma-gal ku s<in>vu'=mu.\
+AF-take NOM <PF.PFV>shoot=1SG.GEN
+主焦-拿 主格 <受焦.完成>射=1SG.屬格
+
+#e They led the youngster, saying “Let's go bring back the prey I hunted'.
+#c 他們帶年輕人，說「我們去拿回我射的獵物」。
+#a 236.51, None, 239.09
+
+87.
+...(1.3) gi parux ku s<in>vu' nanu ras-un.\
+CONJ much NOM <PF.PFV>shoot what bring-PF
+連接詞 多 主格 <受焦.過去>射 什麼 拿-受焦
+
+#a 239.09, None, 243.0
+
+88.
+... ras-un ku sinsining ru,_
+bring-PF NOM youngster CONJ
+帶-受焦 年輕人 連接詞
+
+#e Because there was too much to bring back, (they) brought the youngsters.
+#c 因為有太多要拿回來，所以(他們)帶年輕人。
+#a 243.0, None, 245.15
+
+89.
+... si-panga' naha' ru ras-un naha' imuag.\
+INS-bear 3PL.NEU CONJ bring-PF 3PL.NEU house
+工焦-背 3PL.中性格 連接詞 帶-受焦 3PL.中性格 房子
+
+#e They bore it on back and brought it home.
+#c 他們背在身上帶回家。
+#a 245.15, None, 247.78
+
+90.
+...(0.7) ras-un naha' imuaug ru tal-an kahavaw nku,_
+bring-PF 3PL.NEU house CONJ see-LF all
+帶-受焦 3PL.中性格 房子 連接詞 看-處焦 全部
+
+#e They brought it back home and everyone saw them.
+#c 他們帶回家，所有人都看到。
+#a 247.78, None, 251.0
+
+91.
+...(0.8) nial imuaug ga pa-qasun naha' ru,_
+PROG house TOP AF-happy 3PL.NEU CONJ
+進行 房子 主題 主焦 高興 3PL.中性格 連接詞
+
+#e The family were happy.
+#c 家人很開心。
+#a 251.0, None, 254.03
+
+92.
+...(0.7) n<um>aga' gi,_
+<AF>wait CONJ
+<主焦>等待 連接詞
+
+#n numage有「準備」的意思。
+#a 254.03, None, 256.02
+#n numage有「準備」的意思。
+
+93.
+...(1.3) i pa-nuvuwaw su quaw.\
+LNK AF-drink ACC wine
+連詞 主焦-喝 受格 酒
+
+#e (They) prepared wine for drinking.
+#c (他們)準備酒喝。
+#a 256.02, None, 258.86
+
+94.
+... ma-nuvuaw su quaw la ru,_
+AF-drink ACC wine PART CONJ
+主焦-喝 受格 酒 助詞 連接詞
+
+#a 258.86, None, 261.2
+
+95.
+...(1.0) nanu' gi pa-qasun naha' la ga,_
+what GI AF-happy 3PL.NEU PART TOP
+什麼 GI 主焦-高興 3PL.中性格 語助詞 主題
+
+#e After they drank wine, they got happy.
+#c 喝完酒之後，他們很開心。
+#a 261.2, None, 263.99
+
+96.
+...(1.3) elev--,_
+FS
+FS
+
+#a 263.99, None, 266.44
+
+97.
+...(0.7) pan-yugi' la,_
+AF-dance PART
+主焦-跳舞 語助詞
+
+#e (They) dance.
+#c (他們)跳舞。
+#a 266.44, None, 268.4
+
+98.
+...(0.7) ru niq-un naha' ku tahk-un naha' ku,_
+CONJ eat-PF 3PL.NEU NOM cook-PF 3PL.NEU NOM
+連接詞 吃-受焦 3PL.中性格 主格 煮-受焦 3PL.中性格 主格
+
+#a 268.4, None, 272.13
+
+99.
+...(0.7) in-aras.\
+PF.PFV-bring
+受焦.完成-帶
+
+#a 272.13, None, 273.8
+
+100.
+...(0.8) ru niq-un naha',_
+CONJ eat-PF 3PL.NEU
+連接詞 吃-受焦 3PL.中性格
+
+#e They ate, and cooked and ate the thing they brought back.
+#c 他們就吃，烹煮和享用帶回來的東西。
+#a 273.8, None, 275.77
+
+101.
+...(0.8) sua' ana ku 'ulaqi' uwi ga,_
+why even NOM child also TOP
+為什麼 即使 主格 小孩 也 主題
+
+#e Even children (ate), too.
+#c 連小孩也(來吃)。
+#n sua可能為語誤。
+#a 275.77, None, 278.59
+
+102.
+...(1.3) ini' i==,_
+NEG LNK
+否定 連詞
+
+#a 278.59, None, 280.88
+
+103.
+.. qavaq i,_
+know LNK
+知道 連詞
+
+#a 280.88, None, 282.25
+
+104.
+... sa-sal-un qasinu ga,_
+Ca-call-PF beast TOP
+Ca重疊-叫-受焦 野獸 主題
+
+#e (The children) didn't know the names of the beasts.
+#c (小孩)不知道野獸的名稱。
+#n salun意為「名稱」。
+#a 282.25, None, 284.36
+
+105.
+... sahahiya' naha' niq-un gi,_
+delicious 3PL.NEU eat-PF CONJ
+美味 3PL.中性格 吃-受焦 連接詞
+
+#a 284.36, None, 286.47
+
+106.
+... qaat u== m<in>-aniq su,_
+NEG FIL AF<PFV>-eat ACC
+否定 FIL 主焦<完成>-吃 受格
+
+#a 286.47, None, 289.19
+
+107.
+...(0.7) nak-- m<in>-ukahul i lahulahu.\
+FS AF<PFV>-come.from LOC forest
+FS 主焦<完成>-來自 處格 森林
+
+#e What they ate was delicious. That's because they had never eaten things from the forest.
+#c 他們所吃的東西很美味，因為他們沒吃過來自森林的東西。
+#a 289.19, None, 292.51
+
+108.
+...(0.8) nanu' yaku,_
+what that
+什麼 那個
+
+#a 292.51, None, 294.28
+
+109.
+... yani ku,_
+that NOM
+那個 主格
+
+#a 294.28, None, 295.73
+
+110.
+...(0.9) si-qiyanux naha' ru,_
+IF-live 3PL.NEU CONJ
+工焦-生活 3PL.中性格 連接詞
+
+#n kinqiyanux 生活
+#a 295.73, None, 298.01
+#n kinqiyanux 生活
+
+111.
+...(1.0) sku hani la ga ini' pa-ska la ga,_
+ACC now PART TOP NEG AF-same PART TOP
+受格 現在 助詞 主題 否定 主焦-一樣 語助詞 主題
+
+#a 298.01, None, 301.58
+
+112.
+...(0.8) ku,_
+NOM
+主格
+
+#a 301.58, None, 303.08
+
+113.
+...(0.7) k<in>qiyanux la.\
+<PF>live PART
+<受焦>生活 助詞
+
+#e What they lived by was not the same as the present.
+#c 他們賴以生活的和現在不一樣。
+#a 303.08, None, 304.87
+
+114.
+...(1.0) k<in>qianux sawni' hiya' la ga,_
+<PF>live now 3SG.NEU PART TOP
+<受焦>生活 現在 3SG.中性格 助詞 主題
+
+#a 304.87, None, 307.49
+
+115.
+.. ana-nanu' ga,_
+any-what TOP
+任何-什麼 主題
+
+#a 307.49, None, 308.84
+
+116.
+...(1.2) kia la ru,_
+EXIST PART CONJ
+存在 助詞 連接詞
+
+#n 解釋為「有的話」。
+#a 308.84, None, 310.91
+#n 解釋為「有的話」。
+
+117.
+...(1.1) mutux=ta' i,_
+customarily=1IPL.NOM LNK
+通常會=1IPL.主格 連詞
+
+#a 310.91, None, 313.09
+
+118.
+... kia tikay ku pila' ga,_
+EXIST little NOM money TOP
+存在 少 主格 錢 主題
+
+#e As for the life now, if with a little money, we would (do something).
+#c 至於現在的生活，如果有一點錢，我們會去(做某事)。
+#a 313.09, None, 315.3
+
+119.
+...(0.9) m-usa'=mu va-vaynay.\
+AF-go=1SG.GEN Ca-buy
+主焦-去=1SG.屬格 Ca重疊-買
+
+#e I will go to buy (something).
+#c 我會去買東西。
+#a 315.3, None, 317.41
+
+120.
+...(0.9) m-usa' ma-vaynay hi' i,_
+AF-go AF-buy meat LOC
+主焦-去 主焦 肉 處格
+
+#a 317.41, None, 319.77
+
+121.
+...(1.3) ku-- ku-- tinqalangan nku say-sayho,_
+FS FS tribe GEN Ca-PN
+FS FS 部落 屬格 Ca重疊-專名
+
+#e (We) go the Han people's village to buy meat.
+#c (我們)去漢人的聚落買肉。
+#n tinqalang建設部落；tin-有「作」的意思。saysayho此指客家人。
+#a 319.77, None, 323.92
+
+122.
+...(1.0) ras-un naha' i imuag ru,_
+bring-PF 3PL.NEU LOC house CONJ
+帶-受焦 3PL.中性格 處格 房子 連接詞
+
+#a 323.92, None, 326.9
+
+123.
+... niq-un naha' m-aska' cku,_
+eat-PF 3PL.NEU AF-resemble ACC
+吃-受焦 3PL.中性格 主焦-相像 受格
+
+#e They bring (the meat) back, and eat it in the same way.
+#c 他們把肉帶回來，還是以相同方式吃掉。
+#a 326.9, None, 329.18
+
+124.
+...(1.0) m-usa' i ragiax sunga' ku k<in>qianux uwe la gi.\
+AF-go LNK mountain past NOM <PF>live also PART CONJ
+主焦-去 連詞 山 過去 主格 <PF>生活 也 語助詞 連接詞
+
+#e Just like the life where they went to the mountain in the past.
+#c 就像他們以前去山上的生活一樣。
+#a 329.18, None, 333.38
+
+125.
+...(2.0) tiku hani la ga pila' nku lawkah la.\
+DM now PART TOP money GEN strong PART
+DM 現在 語助詞 主題 錢 屬格 強 語助詞
+
+#e Money is strong now.
+#c 錢現在很強勢。
+#n nku不確定是否為屬格。
+#a 333.38, None, 339.13
+
+126.
+... ru hal-an naha' i,_
+CONJ go-LF 3PL.NEU LNK
+連接詞 去-處焦 3PL.中性格 連詞
+
+#a 339.13, None, 341.47
+
+127.
+...(0.7) ma-vaynay ku vuax ru,_
+AF-buy NOM rice CONJ
+主焦-買 主格 米 連接詞
+
+#a 341.47, None, 343.95
+
+128.
+... na-niq-un ru uah-an naha' ma-niq imuag.\
+Ca-eat-PF CONJ come-LF 3PL.NEU AF-eat house
+Ca重疊-吃-受焦 連接詞 來-處焦 3PL.中性格 主焦-吃 房子
+
+#e They go to buy rice and food back, and eat in the house.
+#c 他們去買米和食物，回來在家吃。
+#n naniqun意為「食物」。
+#a 343.95, None, 346.59
+
+129.
+...(0.8) m-aska' ku,_
+AF-resemble NOM
+主焦-相像 主格
+
+#a 346.59, None, 348.46
+
+130.
+... k<in>qianux sunga'.\
+<PF>live past
+<受焦>生活 過去
+
+#e The life is the same as in the past.
+#c 生活和以前一樣。
+#a 348.46, None, 349.96

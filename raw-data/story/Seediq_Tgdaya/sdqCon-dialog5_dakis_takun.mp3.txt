@@ -1,0 +1,2262 @@
+topic: sdqCon-dialog5_dakis_takun
+type: Conversation
+language: 賽德克語, Seediq, Tgdaya
+speaker: 邱建堂, Takun, male, 1952
+collected: None
+revised: 2014-7-24
+video: sdqCon-dialog5_dakis_takun.mp3
+
+1.
+T: takun.\
+. PN
+. PN
+
+#e I am Takun.
+#c 我是Takun。
+#a 0.03, None, 0.32
+
+2.
+D: .. un un wa=su inu.\
+. yes yes EXIST=2SG.NOM where
+. 是 是 存在=2SG.主格 哪裡
+
+#e Yes, where are you?
+#c 是，你在哪裡？
+#a 418.25, None, 0.67
+
+3.
+T: ... wa=ku sapah.\
+. PROG=1SG.NOM house
+. 進行=1SG.主格 家
+
+#e I am home.
+#c 我在家裡。
+#a 0.32, None, 1.81
+
+4.
+D: .. o kii huwa=su=mu <L2JdenwaL2J> wada inu laqi kii di ha.\
+. INT that how.PF=2SG.NOM=1SG.NOM phone go.PST where child that PFV.PART PART
+. 感嘆 那個 怎麼.受焦=2SG.主格=1SG.主格 電話 去.過去 哪裡 小孩 那個 完成.語助詞 語助詞
+
+#e I was thinking to call you. Where did those children go?
+#c 我本來要打電話給你的. 那些小孩子去哪裡了？
+#a 0.67, None, 2.59
+
+5.
+T: ... wa hini ka kingan ngudus kii dung a.\
+. EXIST here NOM one beard that again PART
+. 存在 這裡 F主格 一 鬍鬚 那個 又 語助詞
+
+#e That beard is still here.
+#c 那個鬍鬚還在這裡。
+#a 1.81, None, 5.16
+
+6.
+D: ... wada inu.\
+. go.PST where
+. 去.過去 哪裡
+
+#e Where did he go?
+#c 去哪裡了？
+#a 2.59, None, 8.05
+
+7.
+T: .. ga naq so== m-hemuc m-kkesa alang.\
+. PROG self like AF-freely AF-walk tribe
+. 進行 自己 像 主焦-隨便 主焦-走 部落
+
+#e He is hanging around.
+#c 他自己在部落四處晃晃。
+#a 5.16, None, 9.09
+
+8.
+D: <@wada skadi@>,_
+. PROG AF.look.for
+. 進行 主焦.尋找
+
+#a 8.05, None, 10.58
+
+9.
+T: malu heya ado niq-an=na==.\
+. AF.good 3SG because be.at-LF=3SG.GEN
+. 主焦.好 3SG 因為 在-處焦=3SG.屬格
+
+#a 9.09, None, 11.52
+
+10.
+T: .. ado niq-an rulu han.\
+. because be.at-LF car first
+. 因為 在-處焦 車 先
+
+#a 11.52, None, 13.31
+
+11.
+D: .. un un.\
+. yes yes
+. 是 是
+
+#a 10.58, None, 14.47
+
+12.
+T: .. niq-an kana <L2JkameraL2J>.\
+. be.at-LF all camera
+. 在-處焦 全部 照相機
+
+#e He is well. He has a car. He has a camera.
+#c 他很好，有車。他有相機。
+#a 13.31, None, 15.07
+
+13.
+T: ... uxe uxe ka kingan kingan nii da asi maku tqipi hini.\
+. NEG NEG NOM one one this PFV.PART must therefore shrink here
+. 否定 否定 主格 一 一 這個 完成.語助詞 一定 所以 縮小 這裡
+
+#e The other is not. He could only squat here.
+#c 另一個就不是了，他只能縮在這裡。
+#a 15.07, None, 16.43
+
+14.
+D: ka-- pa-- a== [patis] a==.\
+. FS FS FIL AF.write FIL
+. FS FS FIL 主焦.寫 FIL
+
+#a 14.47, None, 19.69
+
+14.
+D: ka-- pa-- a== [patis] a==.\
+. FS FS FIL AF.write FIL
+. FS FS FIL 主焦.寫 FIL
+
+#a 14.47, None, 19.69
+
+16.
+T: kari [seediq peni.\]
+. word PN PART
+. 話 專名 語助詞
+
+#a 21.06, None, 21.82
+
+17.
+D: [kari seediq].\
+. word PN
+. 話 專名
+
+#e He is writing on the Seediq language. 
+#c 他寫賽德克語。
+#a 19.69, None, 22.24
+
+18.
+D: ... o== uka.\
+. FIL NEG.EXIST
+. FIL否定.存在
+
+#a 22.24, None, 23.32
+
+19.
+D: uxe me-hedu m-usa skadi uri ma.\
+. NEG AF-finish AF-go AF.find also then
+. 否定 主焦-結束 主焦-去 主焦.找 也 然後
+
+#e Hasn’t he gone to look for it?
+#c 他不是已經去找了？
+#a 23.32, None, 24.29
+
+20.
+T: a.\
+. FIL
+. FIL
+
+#a 21.82, None, 24.33
+
+21.
+T: ma ye niq-an seediq n-sa-an=na r<m>engo.\
+. then Q be.at-LF people PFV-go-LF=3SG.GEN <AF>speak
+. 然後 疑問 在-處焦 人 完成-去-處焦=3SG.屬格 <主焦>說
+
+#e He has interviewed some people?
+#c 他去訪談過某些人吧？
+#a 24.33, None, 26.24
+
+22.
+D: ima naq m-kela peni.\
+. who self AF-know PART
+. 誰 自己 主焦-知道 語助詞
+
+#e Who knows?
+#c 誰又知道呢？
+#a 24.29, None, 28.04
+
+23.
+D: @
+. @
+. @
+
+#a 28.04, None, 29.81
+
+24.
+T: egu [egu riyung] so h-ha-un duri.\
+. AF.many many very like RED-go-LF also
+. 主焦.多 多 非常 像 重疊-去-處焦 也
+
+#e I myself have many places to go, too.
+#c 我自己也有很多地方要去。
+#a 26.24, None, 30.09
+
+25.
+D: [@@]
+. @@
+. @@
+
+#a 29.81, None, 30.31
+
+26.
+D: .. kini kes-un=mu kes-un=mu te,_
+. this.way say-PF=1SG.GEN say-PF=1SG.GEN DM
+. 這樣 說-受焦-1SG.屬格 說-受焦=1SG.屬格 DM
+
+#e So I told him.
+#c 所以我跟他說喔。
+#a 30.31, None, 32.28
+
+25.
+D: [@@]
+. @@
+. @@
+
+#a 29.81, None, 30.31
+
+26.
+D: .. kini kes-un=mu kes-un=mu te,_
+. this.way say-PF=1SG.GEN say-PF=1SG.GEN DM
+. 這樣 說-受焦-1SG.屬格 說-受焦=1SG.屬格 DM
+
+#e So I told him.
+#c 所以我跟他說喔。
+#a 30.31, None, 32.28
+
+27.
+D: yaku naq maha sa.\
+. 1SG self go.FUT say
+. 1SG自己 去.未來 說
+
+#e He said, “I’ll go by myself.”
+#c 他說：「我自己去。」
+#a 32.28, None, 33.87
+
+28.
+D: .. ma-hnui.\
+. AF-do.that
+. 主焦-那樣做
+
+#a 33.87, None, 35.18
+
+29.
+D: .. ha-i skadi sapah=mu niq-an seediq ga sapah=mu kes-un=mu.\
+. go-LF AF.look.for house=1SG.GEN be.at-LF people EXIST house say-PF=1SG.GEN
+. 去-處焦 主焦.尋找 家=1SG.屬格 有-處焦 人 存在 家 說-受焦=1SG.屬格
+
+#e “Go to my house. There are people at home,” I told him.
+#c 「去我家找，我家有人。」我對他說。
+#a 35.18, None, 35.97
+
+30. 
+T: .. <L2MdiannaoL2M> nii gaga=na hun-un ga=na so.\
+. computer this PROG=3SG.GEN do-PF PROG=3SG.GEN like
+. 電腦 這個 進行=3SG.屬格 搞-受焦 進行=3SG.屬格 像
+
+#a 30.09, None, 38.47
+
+31.
+T: ... tiheq-un tiheq-un naq kingan alang kingan ali na.\
+. play-PF play-PF self one tribe one day PART
+. 玩-受焦 玩-受焦 自己 一 部落 一 日子 與助詞
+
+#e He is doing something with the computer. He plays the computer all day in the tribe.
+#c 他在搞電腦。他整天在部落玩電腦。
+#a 38.47, None, 41.42
+
+32.
+D: .. un ma maanu ga=na tiheq-un ga so hari.\
+. yes then what PROG=3SG.GEN play-PF PROG like a.little
+. 是 然後 什麼 進行=3SG.屬格 玩-受焦 進行 像 一點
+
+#e What is he playing?
+#c 他在玩什麼？
+#a 35.97, None, 44.44
+
+33.
+T: s-malu kiya naqah si.\
+. RF-good that bad say
+. 指焦-好 那個 壞 說
+
+#e He seems to be doing that but says it does not work.
+#c 他好像在做那個又說不好。
+#n s-malu不確定標記。
+#a 41.42, None, 46.16
+
+34.
+T: .. wa kiya naq [<L2JjikangL2J>] maanu bale kii di.\
+. PROG that self time what real that PFV.PART
+. 進行 那個 自己 時間 什麼 真的 那個 完成.語助詞
+
+#e His time was all spent on that. How can it be like that?
+#c 他的時間都花在那裡，那怎麼可以呢？
+#a 46.16, None, 47.8
+
+35.
+D: [a a.\]
+. FIL FIL
+. FIL FIL
+
+#a 44.44, None, 48.29
+
+36.
+T: malu si malu ma.\
+. AF.good say AF.good then
+. 主焦.好 說 主焦.好 然後
+
+#e It’s fixed but...
+#c 是好了，但是...
+#a 47.8, None, 49.69
+
+37.
+D: ... uxe uka kari dung.\
+. NEG NEG.EXSIT word again
+. 否定 否定.存在 話 又
+
+#e There is still no sound.
+#c 還是沒有聲音。
+#a 48.29, None, 51.26
+
+38.
+D: ye uxe ini eyah baro kari=na.\
+. Q NEG NEG AF.come above word=3SG.GEN
+. 疑問 否定 否定 主焦.來 上面 話=3SG.屬格 
+
+#e Is it that its sound does not come out?
+#c 是不是他的聲音沒出來？
+#a 51.26, None, 52.48
+
+39.
+D: ... asi ka psa-an birac han sa.\
+. must KA put-LF ear first say
+. 一定 KA 放-處焦 耳朵 先 說
+
+#a 52.48, None, 54.22
+
+40.
+T: ...(0.7) un.\
+. yes
+. 是
+
+#a 49.69, None, 56.31
+
+41.
+D: ... [uxe] asi ka niq-an gqiy-un birac=na peni ma==.\
+. NEG must KA be.at-LF insert-PF ear=3SG.GEN PART then
+. 否定 一定 KA 在-處焦 插-受焦 耳朵=3SG.屬格 語助詞 然後
+
+#e Are there ones that are inserted into the ears?
+#c 不是有插入耳朵的嗎？
+#a 54.22, None, 57.15
+
+42.
+D: .. inu ma kika niq-an <L2EspikaL2E> a maanu di henu na han na.\
+. where then thus be.at-LF speaker FIL what PFV.PART DM PART first PART
+. 哪裡 然後 所以 在-處焦 喇叭 FIL 什麼 完成.語助詞 DM 語助詞 先 語助詞
+
+#e Aren’t there speakers? His what...
+#c 不是有喇叭嗎？那個他的什麼...
+#a 57.15, None, 60.15
+
+43.
+T: ... <L2JrapaL2J> so hari ga naqah.\
+. speaker like a.little PROG bad
+. 喇叭 像 一點 進行 壞
+
+#e It seems his speaker is out of order.
+#c 好像是他的喇叭壞掉了。
+#a 56.31, None, 63.54
+
+44.
+T: inu naq knkel-un ka==.\
+. NEG self capable-PF NOM
+. 否定 自己 能夠-受焦 主格
+
+#a 63.54, None, 64.8
+
+45.
+D: .. @
+. @
+. @
+
+#a 60.15, None, 66.24
+
+46.
+T: ngudus ka.\
+. beard NOM
+. 鬍鬚 主格
+
+#e How can he win beard?
+#c 他怎麼比得過鬍鬚呢？
+#a 64.8, None, 66.59
+
+47.
+T: .. niq-an naq rulu ma [niq-an] <L2JkameraL2J>.\
+. be.at-LF self car CONJ be.at-LF camera
+. 在-處焦 自己 車 連接詞 在-處焦 照相機
+
+#e He has a car and a camera.
+#c 他有車子，又有相機。
+#a 66.59, None, 67.49
+
+48.
+D: [@]
+. @
+. @
+
+#a 66.24, None, 68.45
+
+49.
+D: @@[@]
+. @@@
+. @@@
+
+#a 68.45, None, 69.29
+
+50.
+T: .. tutuy ciga ma keta--.\
+. AF.wake.up yesterday then FS
+. 主焦.起床 昨天 然後 FS
+
+#a 67.49, None, 69.59
+
+51.
+T: .. knwana tutuy a==.\
+. so.early AF.wake.up FIL
+. 那麼早 主焦.起床 FIL
+
+#n knwana「那麼快」「那麼早」。
+
+#e He got up so early in the yesterday morning.
+#c 他昨天起來得很早。
+#a 69.59, None, 71.44
+#n knwana「那麼快」「那麼早」。
+
+52.
+T: ... [seediq] peni wa s<m>ebuc paye han ciga.\
+. people PART PROG <AF>beat rice first yesterday
+. 人 語助詞 進行 <主焦>打 稻 先 昨天
+
+#e Yesterday people were beating rice.
+#c 昨天有人在打稻米。
+#n s<m>ebuc用棍子打。
+#a 71.44, None, 73.08
+
+53.
+D: [mrebu].\
+. morning
+. 早上
+
+#a 69.29, None, 73.14
+
+54.
+D: ... o==.\
+. INT
+. 感嘆
+
+#a 73.14, None, 75.12
+
+55.
+T: m-usa p-sasing hiya.\
+. AF-go CAU-photo 3SG
+. 主焦-去 使役-照片 3SG
+
+#e He went and took photos.
+#c 他去拍照。
+#a 73.08, None, 75.78
+
+56.
+D: ...@
+. @
+. @
+
+#a 75.12, None, 77.35
+
+57.
+T: .. m-usa=ku nanto ciga um.\
+. AF-go=1SG.NOM PN yesterday FIL
+. 主焦-去=1SG.主格 地名 昨天 FIL
+
+#a 75.78, None, 77.72
+
+58.
+T: ...(0.8) m-eyah=ku u== kengus-- maanu <L2JkekongL2J> ma==.\
+. AF-come=1SG.NOM FIL FS what marry then
+. 主焦-來=1SG.主格 FIL FS 什麼 結婚 然後
+
+#e I went to Nantou yesterday to attend wedding.
+#c 我昨天去南投參加結婚。
+#a 77.72, None, 79.95
+
+59.
+T: ...(0.8) nakahara hini.\
+. PN here
+. 地名 這裡
+
+#e A person from Nakahara.
+#c 中原這邊的人。
+#a 79.95, None, 82.88
+
+60.
+D: ... kenu uxe.\
+. which NEG
+. 哪一個 否定
+
+#e Which one?
+#c 哪一個？
+#a 77.35, None, 84.18
+
+61.
+D: .. uxe <L2JkekongL2J> laqi na iyung nawi uri peni saya.\
+. NEG AF.marry child GEN PN PN also PART today
+. 否定 主焦.結婚 小孩 屬格 地名 地名 也 語助詞 今天
+
+#e Isn’t a child of Iyung Nawi getting married today?
+#c 今天不是Iyung Nawi的小孩也結婚嗎？
+#a 84.18, None, 85.11
+
+62.
+T: .. a saya kiya.\
+. INT today that
+. 感嘆 今天 那個
+
+#e That one is today.
+#c 那是今天。
+#a 82.88, None, 87.49
+
+63.
+T: .. o [ciga han] zhang minghua <L2MdeL2M> swai Zhang Ming-hua.\
+. INT yesterday first PN PN of younger.sibling PN PN
+. 感嘆 昨天 先 人名 人名 的 弟妹 人名 人名
+
+#e Yesterday, it was a brother/sister of Zhang Minghua.
+#c 昨天是張明華的弟弟/妹妹。
+#a 87.49, None, 88.2
+
+64.
+D: [ciga han].\
+. yesterday first
+. 昨天 先
+
+#a 85.11, None, 88.49
+
+65.
+D: o==.\
+. INT
+. 感嘆
+
+#e Oh, it was yesterday.
+#c 喔，是昨天喔！
+#a 88.49, None, 90.83
+
+66. 
+T: m-eyah=ku <L2MqidianL2M> sngari sterung=mu kdere a sipo wa.\
+. AF-come=1SG.NOM seven.o’clock pass encounter=1SG.GEN cliff FIL other.side PART
+. 主焦-來=1SG.主焦 七點 超過 遇到=1SG.屬格 懸崖 FIL 另一邊 語助詞
+
+#a 88.2, None, 91.49
+
+67.
+T: ... [ngudus] nguduss ga na.\
+. beard beard EXIST PART
+. 鬍鬚 鬍鬚 存在 語助詞
+
+#e When I came back, it was over eleven o’clock. I ran into the beard, who was at the other side on the cliff.
+#c 我回來的時候，超過十一點，遇到鬍鬚，他在對面懸崖那裡。
+#a 91.49, None, 94.57
+
+68.
+D: m-kkesa di.\
+. AF-walk PFV.PART
+. 主焦-走路 完成.語助詞
+
+#a 90.83, None, 94.61
+
+69.
+D: a.\
+. INT
+. 感嘆
+
+#e Did you walk?
+#c 你走路嗎？
+#a 94.61, None, 96.05
+
+70.
+T: maanu p-sasing a p-sasing ga h<m>uwa.\
+. what CAU-photo FIL CAU-photo EXIST <AF>how
+. 什麼 使役-照片 FIL 使役-照片 存在 <主焦>怎麼
+
+#a 94.57, None, 96.48
+
+71.
+T: .. manu hngali=ta.\
+. what PN=1IPL.GEN
+. 什麼 地名=1IPL.屬格
+
+#e He was taking pictures of our Hngali.
+#c 他在拍照我們的Hngali。
+#n hngali意思為「遠」。
+#a 96.48, None, 98.55
+
+72.
+D: un saya.\
+. yes today
+. 是 今天
+
+#a 96.05, None, 99.46
+
+73.
+D: .. o ga p-sasing quri breenux ka hngali=ta.\
+. INT PROG CAU-photo direction plain NOM PN=1IP.GEN
+. 感歎 進行 使役-照片 方向 平 主格 地名=1IP.屬格
+
+#e So he took pictures of our Hngali plain?
+#c 他就面對著我們的Hngali平原拍照？
+#a 99.46, None, 100.29
+
+74.
+T: un.\
+. yes
+. 是
+
+#a 98.55, None, 102.71
+
+75.
+T: bsuring hngali=ta.\
+. farmland PN=1SG.GEN
+. 耕地PN=1SG.屬格
+
+#a 102.71, None, 103.02
+
+76.
+T: ga m-usa p-sasing hiya ma.\
+. PROG AF-go CAU-photo there then
+. 進行 主焦-去 使役-照片 那裡 然後
+
+#e Yes, he went there and took pictures of our farmland in Hngali.
+#c 對，他去那裡拍我們Hngali的耕地。
+#a 103.02, None, 104.14
+
+77.
+D: un.\
+. yes
+. 是
+
+#a 100.29, None, 105.18
+
+78.
+T: ... ma naq malu heya.\
+. why self AF.good 3SG
+. 為什麼 自己 主焦.好 3SG
+
+#a 104.14, None, 106.21
+
+79.
+T: .. k<m>hemuc m-kkesa mesa mesa=ku.\
+. <AF>freely AF-walk AF.say AF.say=1SG.NOM
+. <主焦>隨便 主焦-走 主焦.說 主焦.說=1SG.主格
+
+#e I think how good it is for him to go wherever he wants.
+#c 我想他怎麼那麼好，可以去想去的地方。
+#a 106.21, None, 107.22
+
+80.
+D: heya naq m-urux ye ye ye n-eyah ka mqedin.\
+. 3SG self AF-alone Q Q Q PFV-come NOM woman
+. 3SG 自己 主焦-獨自 疑問 疑問 疑問 完成-來 主格 女人
+
+#e Is he alone? did the woman come?
+#c 只有他一個人嗎？那個女的有來嗎？
+#a 105.18, None, 108.3
+
+81.
+T: .. uka m-eyah a.\
+. NEG.EXIST AF-come FIL
+. 否定.存在 主焦-來 FIL
+
+#e She did not come. 
+#c 她沒來。
+#a 107.22, None, 110.64
+
+82.
+D: o o o.\
+. INT INT INT
+. 感歎 感歎 感歎
+
+#a 108.3, None, 111.34
+
+83.
+T: mah=ku maha=ku kiya di sa.\
+. go.FUT=1SG.NOM go.FUT=1SG.NOM that PFV.PART say
+. 主焦-去.未來-1SG.主格 主焦-去.未來-1SG.主格 那個 完成.語助詞 說
+
+#e He said, “I will be back later.”
+#c 他說：「我等一下要回去。」
+#a 110.64, None, 112.14
+
+84.
+D: ...(0.8) kii ga=ku=na rngag-un maha=ku naq a==.\
+. that PROG=1SG.NOM=3SG.GEN speak-PF go.FUT=1SG.NOM self FIL
+. 那個 進行=1SG.主格=3SG.屬格 說-受焦 去.未來=1SG.主格 自己 FIL
+
+#a 111.34, None, 114.21
+
+85.
+D: <L2JniciyoL2J> ga=ku=na kes-un.\
+. Sunday PROG=1SG.GEN=3SG.GEN say-PF
+. 星期天 進行=1SG.屬格=3SG.屬格 說-受焦
+
+#e He said to me, “I’m going back on Sunday.”
+#c 他原本就跟我說：「我星期天要回去。」
+#a 114.21, None, 116.24
+
+86.
+D: ... a muka-- a ima di.\
+. FIL FS FIL who PFV.PART
+. FIL FS FIL 誰 完成.語助詞
+
+#a 116.24, None, 117.53
+
+87.
+D: .. mukan wa.\
+. Southern.Min PART
+. 閩南人 那個 語助詞
+
+#n 那個平地朋友啊
+
+#e Which one? That Southern Min guy?
+#c 哪一位？ 是那個閩南人嗎？
+#a 117.53, None, 119.21
+#n 那個平地朋友啊
+
+88.
+T: [maha h<m>uwa XX naqah].\
+. AUX.FUT <AF>how AF.bad
+. 助動詞.未來 <主焦>怎麼 主焦.壞
+
+#a 112.14, None, 120.41
+
+89.
+D: [<L2Mbushi bushi bushiL2J>].\
+. no no no
+. 不是 不是 不是
+
+#a 119.21, None, 120.63
+
+90.
+D: .. naqah henu ma h<m>uwa ka ngudus maha kiya uri.\
+. AF.bad DM then <AF>how NOM beard go.FUT that also
+. 主焦.壞 DM 然後 <主焦>怎麼 主格 鬍鬚 去.未來 那個 也
+
+#e What about the beard? Is he leaving, too?
+#c 那個鬍鬚怎麼樣，也要走嗎？
+#a 120.63, None, 122.1
+
+91.
+T: maha kiya di [um] h<m>uwa di.\
+. go.FUT that PFV.PART FIL <AF>how PFV.PART
+. 主焦-去.未來 那個 完成.語助詞 FIL <主焦>怎麼 完成.語助詞
+
+#e He is leaving... What?
+#c 他也要走...怎麼樣了？
+#a 120.41, None, 124.62
+
+92.
+D: [o].\
+. INT
+. 感歎
+
+#a 122.1, None, 125.29
+
+93.
+T: XX[X].\
+. XXX
+. XXX
+
+#a 124.62, None, 126.48
+
+94.
+D: wa=su h<m>uwa h<m>uwa ma <L2JtayrikuL2J> ma wa=su bi--,_
+. PROG=2SG.NOM <AF>how <AF>how then PN then PROG=2SG.GEN
+. 進行=2SG.主格 <主焦>怎麼 <主焦>怎麼 然後 地名 然後 進行=2SG.屬格
+
+#a 125.29, None, 126.55
+
+95.
+D: ...(0.9) ye=su <L2MjuedingL2M> maha.\
+. Q=2SG.NOM decide go.FUT
+. 疑問=2SG.主格 決定 去.未來
+
+#e How about that matter of going China? Have you decided to go yet?
+#c 要去大陸的事怎麼樣了？你決定要去了嗎？
+#a 126.55, None, 130.39
+
+96.
+T: ...(1.0) 那就==.\
+
+#a 126.48, None, 132.7
+
+97.
+T: 這一兩天 asi naq a==.\
+. must self FIL
+. 一定 自己 FIL
+
+#a 132.7, None, 133.58
+
+98.
+T: ...(1.1) 兩萬要要要匯過去了啦.\
+
+#e Then, I am tranferring two thousand dollar over in two days.
+#c 那就這一兩天可能兩萬要匯過去了啦。
+#a 133.58, None, 135.83
+
+99.
+D: .. 不要換對啊==.\
+
+#a 130.39, None, 137.74
+
+100.
+T: o niq-an 我是有啦.\
+. INT be.at-LF 
+. 感歎 在-處焦
+
+#a 135.83, None, 138.15
+
+101.
+D: .. un.\
+. yes
+. 是
+
+#a 137.74, None, 139.76
+
+102.
+T: 我是有我我 s-- ni--
+
+#a 138.15, None, 140.12
+
+103.
+T: .. 我這邊有啦，我要匯
+
+#a 140.12, None, 141.36
+
+104.
+D: ...h<m>uwa.\
+. <AF>how
+. <主焦>怎麼
+
+#a 139.76, None, 143.04
+
+105.
+D: ... ye=su maha bale ye=su.\
+. Q=2SG.NOM go.FUT real Q=2SG.NOM 
+. 疑問=2SG.主格 去.未來 真的 疑問=2SG.主格
+
+#e Are you really going?
+#c 你真的要去嗎？
+#a 143.04, None, 143.89
+
+106.
+T: ...好我明天行程我想去看一下
+
+#a 141.36, None, 145.69
+
+107.
+D: .. h^a,/
+. INT
+. 感歎
+
+#a 143.89, None, 147.18
+
+108.
+T: .. 行程 a.\
+
+#a 145.69, None, 147.84
+
+109.
+T: ...(0.9) maha=ku so.\
+. go.FUT=1SG.NOM like
+. 去.未來=1SG.主格 像
+
+#e I will go.
+#c 我會去。
+#a 147.84, None, 149.36
+
+110.
+D: [uxe]=su=na ga pdes-un peni wa=ku=na pdes-un patis yaku wa.\
+. NEG=2SG.NOM=3SG.GEN PROG send-PF PART PROG=1SG.NOM=3SG.GEN send-PF letter 1SG PART
+. 否定=2SG.主格=3SG.屬格 進行 寄-受焦 語助詞 進行=1SG.主格=3SG.屬格 寄-受焦 信 1SG 語助詞
+
+#e Didn’t he send to you? He sent the letter to me.
+#c 他沒寄給你嗎？他寄信給我了。
+#a 147.18, None, 150.2
+
+111.
+T: [X].\
+. X
+. X
+
+#a 149.36, None, 150.24
+
+112.
+T: ... ini=ku=na pdes-i yaku na wa=na pdes-un inu di.\
+. NEG=1SG.NOM=3SG.GEN send-PF.IRR 1SG PART PROG=3SG.GEN send-PF where PFV.PART
+. 否定=1SG.主格=3SG.屬格 寄-受焦.非實現 1SG 語助詞 進行=3SG.屬格 寄-受焦 哪裡 完成.語助詞
+
+#e He didn’t send it to me. Where did they send to?
+#c 他沒寄給我。他寄到哪裡去了？
+#a 150.24, None, 153.55
+
+113.
+D: ... ha.\
+. INT
+. 感歎
+
+#a 150.2, None, 155.74
+
+114.
+T: ... pdes-un <L2JnokayL2J>.\
+. send-PF farmers’.association
+. 寄-受焦 農會
+
+#e Maybe he sent to the farmers’ association.
+#c 他寄到農會了吧。
+#a 153.55, None, 156.32
+
+115.
+D: ... e== maanu patis maanu p<n>des-an=na ha.\
+. FIL what letter what <PERF>send-LF=3SG.GEN PART
+. FIL 什麼 信 什麼 <完成>寄-處焦=3SG.屬格 語助詞
+
+#a 155.74, None, 157.53
+
+116.
+T: 喔你那邊有行程表嘛ho.\
+
+#a 156.32, None, 158.77
+
+117.
+D: un niq-an.\
+. yes be.at-LF
+. 是 在-處焦
+
+#e Yes, I have it.
+#c 有。
+#a 157.53, None, 160.59
+
+118.
+T: .. niq-an o 那我就 m-ita hii kiya hari da.\
+. be.at-LF FIL  AF-see there that a.little PFV.PART
+. 在-處焦 FIL  主焦-看 那裡 那個 一點 完成.語助詞
+
+#e I will go there to see it.
+#c 我等一下去那裡看。
+#a 158.77, None, 161.23
+
+119.
+D: ... me-- m-eyah=su hori kiya hari.\
+. FS AF-come=2SG.GEN PN that a.little
+. FS 主焦-來-2SG.屬格 地名 那個 一點
+
+#e Are you coming to Hori later?
+#c 你等會兒來埔里嗎？
+#a 160.59, None, 163.76
+
+120.
+T: ...(0.8) 要明天了啦.\
+
+#a 161.23, None, 165.59
+
+121.
+D: ... o==.\
+. FIL
+. FIL
+
+#a 163.76, None, 166.91
+
+122.
+T: 明天o
+
+#a 165.59, None, 167.46
+
+123.
+D: ...(0.7) naqah wa ini=ku gdema==.\
+. AF.bad PART NEG=1SG.NOM AF.free
+. 主焦.壞 語助詞 否定=1SG.主格 主焦.閒
+
+#n naqah wa這裡是「不巧」的意思。
+#n mgdema得閒。
+#a 166.91, None, 168.5
+#n naqah wa這裡是「不巧」的意思。
+#n mgdema得閒。
+
+124.
+D: XX m-usa mi-- m-usa m--.\
+. XX AF-go FS AF-go FS
+. XX 主焦-去 FS 主焦-去 FS
+
+#a 168.5, None, 170.28
+
+125.
+D: .. m-damac m--,_
+. AF-join.in FS
+. 主焦-湊熱鬧 FS
+
+#n m-damac也有「歡迎」的意思。
+#a 170.28, None, 172.22
+#n m-damac也有「歡迎」的意思。
+
+126.
+D: m-teme seediq ga g<m>eeluk pila taicu hi wa.\
+. AF-watch people PROG <AF>fight.for money PN there PART
+. 主焦-觀看 人 進行 <主焦>搶 錢 地名 那裡 語助詞
+
+#e Unfortunately, I will not be free. I’m going to join in watching people fighting for money in Taichung.
+#c 不巧我沒空，我要去台中湊熱鬧看搶錢。
+#a 172.22, None, 173.15
+
+127.
+T: ... maanu kiya o.\
+. what that INT
+. 什麼 那個 感歎
+
+#e What’s that?
+#c 那是什麼東西？
+#a 167.46, None, 175.62
+
+128.
+D: ... um.\
+. FIL
+. FIL
+
+#a 173.15, None, 176.57
+
+129.
+T: .. [a==] malu kii dungan.\
+. INT AF.good that again
+. 感歎 主焦.好 那個 又
+
+#e Is that still fine?
+#c 那個還好嗎？
+#a 175.62, None, 177.01
+
+130.
+D: [heya um].\
+. 3SG FIL
+. 3SG FIL
+
+#a 176.57, None, 177.31
+
+131.
+D: malu kii riyung,_
+. AF.good that very
+. 主焦.好 那個 非常
+
+#a 177.31, None, 177.85
+
+132.
+D: malu riyung o 我就說.\
+. AF.good very FIL
+. 主焦.好 非常 FIL
+
+#a 177.85, None, 179.13
+
+133.
+D: .. knuwan niq-an=su <L2JjikanL2J> ha=ta m-ita texan.\
+. when be.at-LF=2SG.GEN time go=1IP.GEN AF-see once
+. 何時 在-處焦=2SG.屬格 時間 去=1IPL.屬格 主焦-看 一次
+ 
+#e It’s fine. When you have time, let’s go see once.
+#c 很好。你有時間的時候，我們去看一次。
+#a 179.13, None, 180.66
+
+134.
+D: ... iya ani=su naq ini ha-e=su=mu p-qita=ku [te=ta] huwa mesa [mukan pgeeluk pila].\
+. NEG.IMP any=2SG.GEN self NEG go-PF.IRR=2SG.NOM=1SG.GEN CAU-AF.see=1SG.NOM see.PF.IRR=1IP.GEN AF.how AF.say Southen.Min AF.fight.for money
+. 否定.祈使 任何=2SG.屬格 自己 否定 去-受焦.非現實=2SG.主格=1SG.屬格 使役-主焦.看=1SG.主格 看.受焦.非現實=1IP.屬格 主焦.怎麼 主焦.說 閩南人 主焦.搶 錢
+
+#e No matter what, I will take to see how Southern Min people fight for money.
+#c 不管怎樣，我帶你去看看台灣人怎麼搶錢。
+#n iya ani-su naq不論你...
+#a 180.66, None, 182.43
+
+135.
+T: [kla-un m-usa=ku hari peni].\
+. know-PF AF-go=1SG.NOM a.little PART
+. 知道-受焦 主焦-去=1SG.主格 一點 語助詞
+
+#a 177.01, None, 184.41
+
+136.
+D: ..ha./
+. INT
+. 感嘆
+
+#a 182.43, None, 186.43
+
+137.
+T: .. kla-un m-usa=ku kiya hari.\
+. know-PF AF-go-1SG.NOM that a.little
+. 知道-受焦 主焦-去-1SG.主格 那個 一點
+
+#e Maybe I going later.
+#c 或許我等一下會去吧。
+#a 184.41, None, 186.91
+
+138.
+D: ... maha=su inu.\
+. go.FUT=2SG.NOM where
+. 去.未來=2SG.主格 哪裡
+
+#e Where will you go?
+#c 你要去哪裡？
+#a 186.43, None, 188.31
+
+139.
+T: .. niq-an <L2JyojiL2J> ga e 這幾天很多事情.\
+. be.at-LF matter EXIST FIL
+. 在-處焦 事情 存在 FIL
+
+#a 186.91, None, 189.09
+
+140.
+D: ... um maha=su ngerac.\
+. FIL go.FUT=2SG.NOM outside
+. FIL 去.未來=2SG.主格 外面
+
+#e Are you going out?
+#c 你要出去嗎？
+#n ngerac指離開部落。
+#a 188.31, None, 192.1
+
+141.
+T: ... un.\
+. yes
+. 是
+
+#e Yes.
+#c 嗯。
+#a 189.09, None, 193.58
+
+142.
+D: .. ima ka ha-un=namu m-ita ga m-huqin singgi.\
+. who NOM go-PF=2PL.GEN AF-see PROG AF-die PN
+. 誰 主格 去-受焦=2PL.屬格 主焦-看 進行 主焦-死 地名
+
+#e Who is the person who passed away and who you will go to see in Xinyi?
+#c 你們要去信義鄉看的那個過世的人是誰？
+#a 192.1, None, 194.06
+
+143.
+T: ...(0.9) 那個理事啦 ye m<n>imah sino ma ptebuk m-uda ptebuk si.\
+. Q AF<PERF>drink wine then AF.bump AF-pass AF.bump say
+. 疑問 主焦<完成>喝 酒 然後 主焦.撞 主焦-經過 主焦-碰撞
+
+#e That chairman. Maybe he drank wine and bumped.
+#c 那個理事啦。可能他喝酒撞車。
+#a 193.58, None, 196.81
+
+144.
+D: wa wa uka di.\
+. PROG PROG NEG.EXIST PFV.PART
+. 進行 進行 否定.存在 完成.語助詞
+
+#e Has he already passed away?
+#c 已經去世了嗎？
+#a 194.06, None, 199.84
+
+145.
+T: .. uka mukan.\
+. NEG.EXIST Southern.Min
+. 否定.存在 閩南
+
+#e The Southern Min passed away. 
+#c 那個閩南人過世了。
+#a 196.81, None, 200.66
+
+146.
+D: o o.\
+. INT INT
+. 感嘆 感嘆
+
+#a 199.84, None, 201.73
+
+147.
+T: ...(0.8) a 所以說很麻煩<L2Msuoyi shuo [hen mafanL2M>].\
+. INT therefore say very troublesome
+. 感嘆 所以 說 非常 麻煩
+
+#e So, it is very troublesome.
+#c 所以說很麻煩喔。
+#a 200.66, None, 203.32
+
+148.
+D: [明天]
+
+#a 201.73, None, 204.73
+
+149.
+D: 明天十三號啦ho.\
+
+#a 204.73, None, 205.64
+
+150.
+T: ... un.\
+. yes
+. 是
+
+#a 203.32, None, 207.02
+
+151.
+T: .. 明天十三.\
+
+#a 207.02, None, 207.56
+
+152.
+D: te kii kes-un=su=mu ini=ku ini=ku paadis yaku dung ma==.\
+. DM that say-PF=2SG.NOM=1SG.GEN NEG=1SG.NOM NEG=1SG.NOM AF.send 1SG again then
+. DM 那個 說-2SG.主格-1SG.屬格 否定-1SG.主格 否定-1SG.主格 主焦.寄 1SG 又 然後
+
+#e So I told you I have not transferred it yet.
+#c 所以我才跟你說我還沒有匯。
+#a 205.64, None, 207.97
+
+153.
+D: netun so netun so paadis de.\
+. COND like COND like AF.send PFV.PART
+. 條件詞 像 條件詞 主焦.寄 完成.語助詞
+
+#a 207.97, None, 210.62
+
+154.
+T: ... h<m>uwa.\
+. <AF>how
+. <主焦>怎麼
+
+#a 207.56, None, 213.09
+
+155.
+D: ...(0.7) ye ye=su=mu uxe spu-un paadis.\
+. Q Q=2SG.NOM=1SG.GEN NEG together-PF AF.send
+. 疑問 疑問=2SG.主格=1SG.屬格 否定 一起-受焦 主焦.寄
+
+#e Do you want me to transfer together?
+#c 我是不是跟你一起匯？
+#a 210.62, None, 214.22
+
+156.
+T: ...不要不要不要，你那裡有那個帳 niq-an 帳號=su hii na.\
+. be.at-LF  =2SG.GEN there PART
+. 在-處焦  =2SG.屬格 那裏 語助詞
+
+#a 213.09, None, 216.42
+
+157.
+T: ... 他那個.\
+
+#a 216.42, None, 219.51
+
+158. 
+D: [ye=mu ga] ptas-un hini wa.\
+. Q=1SG.GEN EXIST write here PART
+. 疑問=1SG.屬格 存在 寫 這裡 語助詞
+
+#e Perhaps I wrote down the account.
+#c 我可能有把帳號記下來喔。
+#a 214.22, None, 220.09
+
+159.
+T: [什麼旅行社]
+
+#a 219.51, None, 220.12
+
+160.
+T: 他有傳真給我嗎 wada=mu,_
+. AUX.PST=1SG.GEN
+. 助動詞.過去=1SG.屬格
+
+#a 220.12, None, 221.67
+
+161.
+T: .. wada=mu,_
+. AUX.PST=1SG.GEN
+. 助動詞.過去=1SG.屬格
+
+#a 221.67, None, 223.4
+
+162.
+D: wada=su qtaan-un,_
+. AUX.PST=2SG.GEN lose-PF
+. 助動詞.過去=2SG.屬格 失去-受焦
+
+#e Did you lose it?
+#c 你把它丟掉了嗎？
+#a 220.09, None, 224.12
+
+163.
+T: ... kla-un ye wada inu di peni paadis kiya.\
+. know-PF Q AUX.PST where PFV.PART PART letter that
+. 知道-處焦 疑問 助動詞.過去 哪裡 完成.語助詞 語助詞 信 那個
+
+#e Maybe... I don’t know where that letter is.
+#c 可能...我不曉得那個信在哪裡了。
+#a 223.4, None, 225.11
+
+164.
+T: ... 電話，電話號碼我都沒有了，明天早上
+
+#a 225.11, None, 227.67
+
+165.
+D: un,_
+. yes
+. 是
+
+#a 224.12, None, 227.8
+
+166.
+D: 因為 asi ka dehuk 十五號以前
+. must KA arrive
+. 一定 KA 抵達
+
+#a 227.8, None, 229.9
+
+167.
+T: ini=su eniq hii do psa-i 桌 psa-i so,_
+. NEG=2SG.NOM be.at there PFV.PART put-IRR  put-IRR like
+. 某定=2SG.主格 在 那裡 完成.語助詞 放-非實現  放-非實現 像
+
+#a 227.67, None, 232.12
+
+168.
+T: ... so <L2JckueL2J>=su peni <L2JckueL2J>=su a XX di peni.\
+. like desk=2SG.GEN PART desk=2SG.GEN FIL XX PFV.PART PART
+. 像 桌子=2SG.屬格 語助詞 桌子=2SG.屬格 FIL XX 完成.語助詞 語助詞
+
+#e If you are not there, put it on your desk.
+#c 如果你不在的話，就放在你的桌子。
+#a 232.12, None, 234.78
+
+169.
+D: e==,_
+. FIL
+. FIL
+
+#a 229.9, None, 235.77
+
+170.
+D: XX m-eniq=ku ka,_
+. XX AF-be.at=1SG.NOM KA
+. XX 主格-在=1SG.主格 KA
+
+#a 235.77, None, 236.77
+
+171.
+D: m-eniq=ku hini kusun.\
+. AF-be.at=1SG.NOM here next.day
+. 主焦-在=1SG.主格 這裡 隔天
+
+#e I’ll be here tomorrow.
+#c 明天我會在這裡。
+#a 236.77, None, 238.52
+
+172.
+D: o m-eniq=ku hini kusun因為下午我有課
+. FIL AF-be.at=1SG.NOM here next.day
+. FIL 主焦-在=1SG.主格 這裡 隔天
+
+#a 238.52, None, 239.67
+
+173.
+D: .. niq-an ma=ku t<m>gesa,_
+. be.at-LF why=1SG.NOM <AF>teach
+. 在-處焦 為什麼=1SG.主格 <主焦>教
+
+#a 239.67, None, 241.72
+
+174.
+D: ... laqi 重修 kusun.\
+. child  next.day
+. 小孩  隔天
+
+#e I’ll be here because tomorrow I’m going to teach a retake course.
+#c 我會在，因為明天要去教重修課。
+#a 241.72, None, 243.32
+
+175.
+T: ... 明天我去給他匯啦
+
+#a 234.78, None, 244.64
+
+176.
+D: ma
+. then
+. 然後
+
+#a 243.32, None, 245.78
+
+177.
+D: ...(0.7) ma maha=namu ngerac dungan kiya ga h<m>uwa
+. then go.FUT=2PL.NOM outside again that PROG <AF>how
+. 然後 去.未來=2PL.主格 外面 又 那個 進行 <主焦>怎麼
+
+#e Are you still going out?
+#c 等下你還要外出嗎？
+#a 245.78, None, 246.98
+
+178.
+T: 到幾號那個
+
+#a 244.64, None, 248.98
+
+179.
+D: ga h<m>uwa
+. PROG <AF>how
+. <主焦>怎麼
+
+#e What’s wrong?
+#c 怎麼了？
+#a 246.98, None, 249.74
+
+180.
+T: 二十八號
+
+#a 248.98, None, 250.36
+
+181.
+D: 十五號以前sa
+
+#a 249.74, None, 251.03
+
+182.
+T: .. 我是我說我們二十一嗎
+
+#a 250.36, None, 252.03
+
+183.
+D: XXX
+
+#a 251.03, None, 253.08
+
+184.
+D: 二十八就回來
+
+#a 253.08, None, 254.34
+
+185.
+D: 二十八號嘛ho
+
+#a 252.03, None, 255.28
+
+186.
+D: 二十八
+
+#a 254.34, None, 255.32
+
+187.
+T: ... 一個禮拜而已
+
+#a 255.28, None, 256.78
+
+188.
+D: 對對對
+
+#a 255.32, None, 257.96
+
+189.
+D: m-eyah knuwan de-tumun di.\
+. AF-come when PL-PN PFV.PART
+. 主焦-來 何時 PL-人名 完成.語助詞
+
+#e When do Tumun and others come back?
+#c Tumun他們什麼時候回來？
+#n de-前綴家在人名前，表示「...他們」。
+#a 257.96, None, 259.15
+
+190.
+T: ... 十九 deheya.\
+. 3PL.NOM
+. 3PL.主格
+
+#a 256.78, None, 260.6
+
+191.
+D: ... 十九
+
+#a 260.6, None, 261.89
+
+192.
+T: .. XXX
+
+#a 261.89, None, 262.57
+
+193.
+D: XX
+
+#a 259.15, None, 262.68
+
+194.
+T: ... so hari deheya m<n>eyah <L2JdenwaL2J> ciga <L2JsanjiL2> ceka rabi,_
+. like a.little 3PL.NOM AF<PFV>come telephone yesterday three.o’clock middle night
+. 像 一點 3PL.主格 主焦<完成>來 電話 昨天三點 中間 晚上
+
+#a 262.57, None, 263.87
+
+195.
+T: .. o mn-daha.\
+. FIL MN-two
+. FIL MN-二
+
+#e It might be their phone call three o’clock yesterday midnight, twice.
+#c 昨天晚上可能是他們打來的電話，兩次。
+#a 263.87, None, 266.53
+
+196.
+T: ...(0.8) 他那邊好像慢==
+
+#a 266.53, None, 268.27
+
+197.
+T: ...(1.2) 慢==
+
+#a 268.27, None, 270.59
+
+198.
+D: .. o
+
+#a 270.59, None, 271.66
+
+199.
+T: 快六小時了
+
+#a 271.66, None, 272.05
+
+200.
+D: 喔這樣喔
+
+#a 262.68, None, 273.08
+
+201.
+T: en差六小時了
+
+#a 272.05, None, 273.73
+
+202.
+D: inu kiya 北京喔
+. where that
+. 哪裡 那個
+
+#a 273.08, None, 275.13
+
+203.
+T: 阿慢六小時
+
+#a 273.73, None, 276.35
+
+204.
+D: 法國
+
+#a 275.13, None, 276.6
+
+205.
+T: ... 法國
+
+#a 276.35, None, 277.84
+
+206.
+T: XX
+
+#a 277.84, None, 278.54
+
+207.
+D: wa 葡萄牙 saya
+. PROG  now
+. 進行  現在
+
+#a 276.6, None, 278.59
+
+208.
+T: .. 他緯度比較北啊
+
+#a 278.54, None, 279.44
+
+209.
+D: wa 葡萄牙 saya
+. PROG  now
+. 進行  現在
+
+#e Are they now in Portugal?
+#c 他們現在在葡萄牙嗎？
+#a 278.59, None, 280.8
+
+210.
+T: ... 法國
+
+#a 279.44, None, 282.34
+
+211.
+T: 法國ho
+
+#a 280.8, None, 283.01
+
+212.
+T: 法國 ma maha kla-un m-oda 荷蘭 maha德國
+. then AUX.FUT know-PF AF-pass  go.FUT
+. 然後 語助詞.未來 知道-受焦 主焦-經過  去.未來
+
+#e They are in France. Then they are going to pass the Netherlands and go to Germany.
+#c 他們在法國，然後會經過荷蘭，到德國。
+#a 282.34, None, 283.62
+
+213.
+D: .. un un un
+. yes yes yes
+. 是 是 是
+
+#a 283.01, None, 286.74
+
+214.
+D: ... 我都忘光wa=mu chngiy-un da le=mu naq,_
+. PROG=1SG.GEN forget-PF PFV.PART mistake=1SG.GEN self
+. 進行=1SG.屬格 忘記-受焦 完成.語助詞 誤認=1SG.屬格 自己
+
+#e I forgot. I thought it was...
+#c 我忘了，我以為是...
+#n hlie「誤以為」。
+#a 286.74, None, 288.05
+
+215.
+T: ye=su uxe neyah alang ma uxe.\
+. Q=2SG.NOM NEG come tribe then NEG
+. 疑問=2SG.主格 否定 來 部落 然後 否定
+
+#e Are you not coming back to the tribe?
+#c 你等下不回部落嗎？
+#a 283.62, None, 289.72
+
+216.
+D: ...(1.1) uxe mi-icu=ku mi-mah wa naqah,_
+. NEG AF-afraid=1SG.NOM AF-drink PROG bad
+. 否定 主焦-怕=1SG.主格 主焦-喝 進行 壞
+
+#e No, I’m afraid of drinking. It’s bad.
+#c 不，我怕喝酒，這樣不好。
+#a 288.05, None, 291.95
+
+217.
+T: 我最近ho就是
+
+#a 289.72, None, 293.73
+
+218.
+D: .. ado=ku uncuin 喝一兩杯 na p-mahun=ku=daha de,_
+. because=1SG.NOM sometimes  PART CAU-drink=1SG.NOM=3PL.GEN PFV.PART
+. 因為=1SG.主格 有時  語助詞 使役-喝=1SG.主格=3PL.屬格
+
+#e If I sometimes drink one or two cups. They make me drink...
+#c 如果我有時候喝一兩杯，他們讓我喝的話...
+#a 291.95, None, 295.46
+
+219.
+D: .. 我每次回來de
+
+#a 295.46, None, 298.25
+
+220.
+D: ... 不是不舒服我心裡有壓力
+
+#a 298.25, None, 300.0
+
+221.
+T: ye kii.\
+. Q that
+. 疑問 那個
+
+#e I see.
+#c 原來如此。
+#a 293.73, None, 302.62
+
+222.
+D: yaku naq XX
+. 1SG self XX
+. 1SG 自己
+
+#a 300.0, None, 302.69
+
+223.
+D: yaku naq 很後悔 dung maanu ka mah-un=ta
+. 1SG self  again what NOM drink-PF=1IPL.GEN
+. 1SG 自己  又 什麼 主格 喝-受焦=1IPL.屬格
+
+#e I myself will regret why we drank.
+#c 我自己又很後悔，我們為什麼要喝。
+#a 302.69, None, 303.68
+
+224.
+T: e un
+
+#a 302.62, None, 305.98
+
+225.
+D: 我是乾脆決定是說
+
+#a 303.68, None, 307.09
+
+226.
+D: .. uka所以就像以前剛m-eyah sapah hini ciida we,_
+. NEG.EXIST  AF-come house here past PART
+. 否定.存在  主焦-來 房子 這裡 以前 語助詞
+
+#a 307.09, None, 309.32
+
+227.
+D: .. 我什麼都不參加，我乾脆就這樣啦
+
+#a 309.32, None, 314.3
+
+228.
+T: kiya,_
+. that
+. 那個
+
+#a 305.98, None, 316.6
+
+229. 
+D: 不然太麻煩啦
+
+#a 314.3, None, 316.76
+
+230.
+D: ... uxe mesa henu peni 謝敏男 takun so hari mesa==,_
+. NEG AF.say DM PART  PN like a.little AF.say
+. 否定 主焦.說 DM 語助詞  人名 像 一點 主焦.說
+
+#a 316.76, None, 318.11
+
+231.
+D: ... naqah ga m-narux naqah sa.\
+. bad PROG AF-sick bad say
+. 壞 進行 主焦-生病 壞 說
+
+#e Takun, weren’t we talking about Xie Minnan getting a bad illness?
+#c Takun，不是說謝敏男生不好的病？
+#a 318.11, None, 321.56
+
+232.
+D: ...(0.7) unsaun=su m-ita.\
+. better=2SG.GEN AF-see
+. 比較好=2SG.屬格 主焦-看
+
+#e You’d better go see him.
+#c 你最好去看他。
+#a 321.56, None, 323.83
+
+233.
+T: .. 我沒有去看
+
+#a 316.6, None, 325.05
+
+234.
+D: 聽說 聽說是 m-narux naqah kiya wa.\
+. 		AF-sick bad that PART
+
+#e I heard that is a bad illness.
+#c 聽說那是不好的病耶。
+#a 323.83, None, 326.05
+
+235.
+D: ... m==
+
+#a 326.05, None, 328.86
+
+236.
+T: m==
+
+#a 325.05, None, 329.55
+
+237.
+D: uxe so hari yani uxe pqbsiyaq
+. NEG like a.little perhaps NEG long
+. 否定 像 一點 可能 否定 久
+
+#e It seems that he won’t last long.
+#c 他好像不會太久。
+#a 328.86, None, 330.05
+
+238.
+T: 癌症啊
+
+#a 329.55, None, 331.68
+
+239.
+D: 對啊
+
+#a 330.05, None, 332.52
+
+240.
+D: ...(1.0) iya k<m>heti r<m>engo XXX
+. NEG.IMP <AF>at.will <AF>say XXX
+. 否定.祈使 <主焦>隨便 <主焦>說 XXX
+
+#e Don’t tell other people.
+#c 不要隨便說。
+#n 不確定k<m>heti的「隨便」是哪一個意思。
+#a 332.52, None, 334.0
+
+241.
+T: XX
+
+#a 331.68, None, 334.06
+
+242.
+T: 我是看他骨架。
+
+#a 334.06, None, 335.91
+
+243.
+T: ... 不行了
+
+#a 335.91, None, 337.73
+
+244.
+D: wada sapah na saya di.\
+. AUX.PST house PART now PFV.PART
+. 助動詞.過去 房子 語助詞 現在 完成.語助詞
+
+#e Has he come home now?
+#c 他現在回家了嗎？
+#a 334.0, None, 338.12
+
+245.
+T: ...(0.9) ima naq m-kela q<n>ta-an=mu texan ke-- a== oriru henu hii.\
+. who self AF-know <PFV>see-LF=1SG.GEN once FS FIL== get.off DM there
+. 誰 自己 主焦-知道 <完成>看-處焦=1SG.屬格 一次 FS FIL 下車 DM 那裡
+
+#e Who knows? I saw him there get out of a car once.
+#c 誰知道呢？我有一次看到他在那裡下車。
+#a 337.73, None, 339.87
+
+246.
+D: nisu XXX
+. 2SG
+. 2SG
+
+#a 338.12, None, 340.23
+
+247.
+D: uxe m-ntena yaku k<n>kure duri peni.\
+. NEG same 1SG <PFV>thin also PART
+. 否定 一樣 1SG <完成>瘦 也 語助詞
+
+#e Isn’t he already as thin as I?
+#c 不是也跟我一樣那麼瘦了嗎？
+#a 340.23, None, 343.47
+
+248.
+D: .. so hari XXX
+. like a.little
+. 像 一點
+
+#a 343.47, None, 345.13
+
+249.
+T: XXX
+
+#a 339.87, None, 346.42
+
+250.
+T: uka beyax=na mkesa di,_
+. NEG.EXIST power=3SG.GEN AF.walk PFV.PART
+. 否定.存在 力量=3SG.屬格 主焦.走 完成.語助詞
+
+#e He even doesn’t have the strength to walk.
+#c 他連走路的力量都沒有。
+#a 346.42, None, 347.38
+
+251.
+D: 對啊
+
+#a 345.13, None, 348.55
+
+252.
+D: ... 那他那種身材
+
+#a 348.55, None, 349.27
+
+253.
+D: ... hei hei m<n>nanang paru seediq kii cbeyo,_
+. body body AF<PFV>strong big people that past
+. 身體 身體 主焦<完成>強壯 大 人 那個 過去
+
+#e That man used to be very strong.
+#c 那個人以前身體非常強健。
+#a 349.27, None, 351.16
+
+254.
+T: 0
+
+#a 347.38, None, 351.49
+
+255.
+D: 突然變這樣，那是
+
+#a 351.16, None, 353.8
+
+256.
+T: o
+
+#a 351.49, None, 355.32
+
+257.
+T: ... 對
+
+#a 355.32, None, 356.12
+
+258.
+D: kiya naqah qta-an.\
+. that bad see-LF
+. 那個 壞 看-處焦
+
+#e So he does not look good.
+#c 所以他不好看。
+#a 353.8, None, 356.4
+
+259.
+T: 有問題啦
+
+#a 356.12, None, 357.21
+
+260
+T: ... so==,_
+. like
+. 像
+
+#a 357.21, None, 358.22
+
+261.
+T: ... m<n>nanang riyung so hari kure riyung di ma,_
+. AF<PFV>strong very like a.little thin very PFV.PART then
+. 主焦<完成>強壯 非常 像 一點 瘦 非常 完成.語助詞 然後
+
+#e He used to be very strong, but now seems to be very thin.
+#c 他本來很強健，現在好像很瘦。
+#a 358.22, None, 359.31
+
+262.
+D: 對啊那個差很多，那個就是有問題啊。
+
+#a 356.4, None, 360.94
+
+263.
+T: XXX
+
+#a 359.31, None, 361.96
+
+264.
+T: ... m
+
+#a 361.96, None, 363.21
+
+265.
+T: ...(0.8) XXX m-eyah do,_
+. AF-come PFV.PART
+. 主焦-來 完成.語助詞
+
+#a 363.21, None, 364.33
+
+266.
+D: XX
+
+#a 360.94, None, 364.39
+
+267.
+T: ga smiling a==,_
+. PROG ask FIL
+. 進行 問 FIL
+
+#a 364.33, None, 365.55
+
+268.
+T: .. laqi rseno nii.\
+. child man this
+. 小孩 男人 這個
+
+#e This boy is asking.
+#c 這個男孩子在問。
+#a 365.55, None, 366.74
+
+269.
+D: .. maanu di.\
+. what PFV.PART
+. 什麼 完成.語助詞
+
+#a 364.39, None, 368.3
+
+270.
+T: ... m-eyah=su de maha=ku taapa rulu=su des-un=mu kusun denu.\
+. AF-come=2SG.NOM PFV.PART AUX.FUT ride car=2SG.GEN bring-PF=1SG.GEN next.day DM
+. 主焦-來=2SG.主格 完成.語助詞 助動詞.未來 搭車=2SG.屬格 帶-受焦=1SG.屬格
+
+#e He said, “If you are coming, I’ll ride in your car.” I’ll bring him over tomorrow.
+#c 他說：「你來的話，我要搭你的車。」那明天我會帶他去。
+#a 366.74, None, 369.14
+
+271.
+T: ... XXX
+
+#a 369.14, None, 371.79
+
+272.
+D: des-i mrebu kusun da ma des-un=mu hmaduc a kii,_
+. bring-IMP morning next.day PFV.PART then bring-PF=1SG.GEN accompany FIL there
+. 帶-祈使 早上 隔天 完成.語助詞 然後 帶-受焦=2SG.屬格 陪 FIL 那裡
+
+#e Bring him over tomorrow morning. Then I’ll accompany him.
+#c 明天早上帶他來好了，然後我可以陪他。
+#a 368.3, None, 372.07
+
+273.
+D: m-eyah mrebu de,_
+. AF-come morning PFV.PART
+. 主焦-來 早上 完成.語助詞
+
+#a 372.07, None, 376.1
+
+274.
+D: .. ha-i hmaduc ciida di.\
+. go-IMP accompany at.that.time PFV.PART
+. 去-祈使 陪 當時 完成.語助詞
+
+#e If you come in the morning, send him at that time.
+#c 你早上來的話，那個時候送去。
+#a 376.1, None, 377.41
+
+275.
+T: o
+
+#a 371.79, None, 378.29
+
+276.
+D: ... uxe ini huwa usa skadi mrebu han niq-an seediq rngag-un kes-i.\
+. NEG NEG how go look.for morning first be.at-LF people say-PF say-IMP
+. 否定 否定 如何 去 尋找 早上 先 在-處焦 人 說-受焦 說-祈使
+
+#e No, it does not matter. Tell him to look for people in the morning, so there are people to talk with.
+#c 不是啦，沒關係啦。叫他早上先去找，才有人對話。
+#a 377.41, None, 379.24
+
+277.
+T: ...(0.7) ima naq m-kela peni.\
+. who self AF-know PART
+. 誰 自己 主焦-知道 語助詞
+
+#e Who knows.
+#c 誰知道。
+#n 這裡解釋成「我也不曉得」。
+#a 378.29, None, 383.45
+
+278.
+T: a pp-rengo daka bubu=mu so hari,_
+. FIL REC CONJ mother=1SG.GEN like a.little
+. FIL 交互 連接詞 媽媽=1SG.屬格 像 一點
+
+#e I talked with my mother, and he seems...
+#c 他跟我媽媽互相講話，好像...
+#a 383.45, None, 384.82
+
+279.
+D: (COUGH)
+
+#a 379.24, None, 384.86
+
+280.
+D: .. uxe,_
+. NEG
+. 否定
+
+#a 384.86, None, 386.66
+
+281.
+D: ga naqah henu na ga,_
+. PROG bad DM PART PROG
+. 進行 壞 DM 語助詞 進行
+
+#e No, his thing is broken.
+#c 不是啦，他那個好像壞掉。
+#a 386.66, None, 387.76
+
+282.
+T: ...(0.8) <L2MdiannaoL2M> na ga.\
+. computer PART PROG
+. 電腦 語助詞 進行
+
+#a 384.82, None, 389.94
+
+283.
+D: ga=na ini des-i a manu di,_
+. PROG=3SG.GEN NEG bring-IRR FIL what PFV.PART
+. 進行=3SG.屬格 否定 帶-非實現 FIL什麼 完成.語助詞
+
+#a 387.76, None, 390.8
+
+284.
+D: mp-rengo mp-rengo=na gaga.\
+. MP-say MP-say=3SG.GEN PROG
+. MP-說 MP-說=3SG.屬格 進行
+
+#e He doesn’t bring his speaker.
+#c 他沒有帶他的喇叭。
+#a 390.8, None, 393.13
+
+285.
+D: huwa bari hori hini ma,_
+. how buy PN here then
+. 怎麼 買 地名 這裡 然後
+
+#e He intended to buy it in Puli.
+#c 他本來要在埔里買。
+#a 393.13, None, 395.15
+
+286.
+D: ... so s-mhlis uri laqi wa,_
+. like RF-laugh also child PART
+. 像 指焦-笑 也 小孩 語助詞
+
+#e That child is funny.
+#c 那個孩子也很好笑。
+#a 395.15, None, 397.13
+
+287.
+D: ... uxe de ini so==,_
+. NEG PFV.PART NEG like
+. 否定 完成.語助詞 否定 像
+
+#a 397.13, None, 398.69
+
+288.
+D: ima naq ma-dis nii niq-an tayhoku kiya=mu sa.\
+. who self AF-bring this be.at-LF PN that=1SG.GEN say
+. 誰 自己 主焦-帶 這個 在-處焦 地名 那個=1SG.屬格 說
+
+#e Who will bring this? “I have this in Taipei,” he said.
+#c 誰要帶這個？他說：「台北有我這個東西」。
+#a 398.69, None, 400.41
+
+289.
+T: ... un==.\
+. yes
+. 是
+
+#a 389.94, None, 403.4
+
+290.
+D: p<n>qbhang-an=ku kii m-eniq tayhoku texan,_
+. CAU<PFV>hear-LF=1SG.NOM that AF-be.at PN once
+. 使役<完成>聽-處焦=1SG.主格 那個 主焦-在 地名 一次
+
+#e He once had me hear that in Taipei.
+#c 在台北曾經用那個給我聽。
+#a 400.41, None, 403.87
+
+291.
+T: m-drumuc laqi nii.\
+. AF-diligent child this
+. 主焦-勤奮 小孩 這個
+
+#e This child is diligent.
+#c 這個孩子很認真。
+#a 403.4, None, 405.73
+
+292.
+D: ... o so kii mukan
+. FIL like that Southern.Min
+
+#e Plain dwellers are like that.
+#c 平地人就像那樣。
+#a 403.87, None, 407.46
+
+293.
+T: ...(1.2) kii na naq,_
+. that PART self
+. 那個 語助詞 自己
+
+#e That’s it?
+#c 就這樣嗎？
+#a 405.73, None, 409.76
+
+293.
+T: ...(1.2) kii na naq,_
+. that PART self
+. 那個 語助詞 自己
+
+#e That’s it?
+#c 就這樣嗎？
+#a 405.73, None, 409.76
+
+294.
+D: un un.\
+. yes yes
+. 是 是
+
+#a 407.46, None, 410.47
+
+295.
+T: 明天
+
+#a 409.76, None, 411.14
+
+296.
+D: iya chngi-i nii patis a uda hini kusun denu tra-o=su=mu denu.\	
+. NEG.IMP forget-IRR this letter FIL pass here next.day DM expect-IRR=2SG.NOM=1SG.GEN DM
+. 否定.祈使 忘記-非實現 這個 信 FIL 經過 這裡 隔天 DM 期待-非實現=2SG.主格=1SG.屬格 DM
+
+#e Don’t forget this document. Pass by here. I’ll be expecting you.
+#c 不要忘記那個文件。你明天從這裡經過，我會等你。
+#a 410.47, None, 411.89
+
+297.
+T: un.\
+. yes
+. 是
+
+#a 411.14, None, 414.76
+
+298.
+T: 我的XX在XX那邊
+
+#a 414.76, None, 415.47
+
+299.
+D: kla-un=su m-uda kla-un=su so paadis pila henu.\
+. know-PF=2SG.GEN AF-pass know-PF=2SG.GEN like letter money DM
+. 知道-受焦=2SG.屬格 主焦-經過 知道-受焦=2SG.屬格 像 信 錢 DM
+
+#e You know to pass...so you know how to transfer money.
+#c 你知道經過...你才知道怎麼寄錢。
+#a 411.89, None, 415.91
+
+300.
+T: un un.\
+. yes yes
+. 是 是
+
+#a 415.47, None, 418.25
+
+301.
+D: kiya ha.\
+. that PART
+. 那個 語助詞
+
+#e That’s all.
+#c 就那樣喔。
+#a 415.91, None, 418.76

@@ -1,0 +1,534 @@
+topic: sowing
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 蕭范秀玉, Kuatʉ, female, 1941-12-03
+collected: 2008-05-31
+revised: 2017-6-6
+video: kkvNr_sowing_Kuatu.mp3
+
+1.
+aranai=kia,\
+from=1SG.NOM
+從=1SG.主格
+
+#a 3.5, None, 4.95
+
+2.
+mia ta-ti’ingi=pa,_
+time TA-little.in.age=still
+時候 TA-年紀小=還
+
+#n tati’ingi和tati’ing為free variation，皆表年紀小。詞尾母音i脫落為該語言常見的現象。
+#n ti’ingee=pa cenana 為”年紀還小”之意。ti’ingee應為動詞，目前不確定tati’ingi中的ta-該如何標記。
+#a 4.95, None, 6.79
+#n tati’ingi和tati’ing為free variation，皆表年紀小。詞尾母音i脫落為該語言常見的現象。
+#n ti’ingee=pa cenana 為”年紀還小”之意。ti’ingee應為動詞，目前不確定tati’ingi中的ta-該如何標記。
+
+3.
+’una=ci=kia manu.\
+have=PART=1SG.NOM child
+有=語助詞=1SG.主格 小孩
+
+#e I’ve had a child since I was still young. 
+#c 自從我年紀還很小的時候，我就有了小孩。
+#a 6.79, None, 8.31
+
+4.
+... te=kia c<um>a-cancu,/
+IRR=1SG.NOM Ca<AF>-transplant.rice.seedlings
+非實現=1SG.主格 Ca重疊<主焦>-插秧
+#n cumacancu受焦形式為cancuun。
+#a 8.31, None, 10.75
+#n cumacancu受焦形式為cancuun。
+
+5.
+...(0.9) te=kia manan c<um>a-cancu sii,_
+IRR=1SG.NOM how Ca<AF>-transplant.rice.seedlings CONJ
+非實現=1SG.主格 如何 Ca重疊<主焦>-插秧 連接詞
+
+#n manan和makanan為free variation。
+#n sii一般表”因為”。
+#a 10.75, None, 13.9
+#n manan和makanan為free variation。
+#n sii一般表”因為”。
+
+6.
+...(0.9) ’ekia ni-m-ava manu,_
+PROG.1SG.NOM Prf-AF-carry.on.the.back child
+進行.1SG.主格 完成-主焦-背 小孩
+
+#n nimava直述受焦形式為avUUn；祈使受焦形式為avoo。
+#n ’ekia為 ’esi=kia　經過音節合併後的形式。
+#a 13.9, None, 16.89
+#n nimava直述受焦形式為avUUn；祈使受焦形式為avoo。
+#n ’ekia為 ’esi=kia　經過音節合併後的形式。
+
+7.
+.. noo c<um>a-cancu=kia mangucun ia,/
+if Ca<AF>-transplant.rice.seedlings=1SG.NOM finish.one.part TOP
+若 Ca重疊<AF>-插秧=1SG.主格 完成一段 主題
+
+#n mangucun專指農事工作中已完成某個階段、一部份（如：插秧完稻田中可種植的第一排），必須開始新的一段（如：從第二排開始重新插秧）。若是表整體工做完成，則是用matirupang/marupang。
+#a 16.89, None, 19.56
+#n mangucun專指農事工作中已完成某個階段、一部份（如：插秧完稻田中可種植的第一排），必須開始新的一段（如：從第二排開始重新插秧）。若是表整體工做完成，則是用matirupang/marupang。
+
+8.
+...(1.3) ^tia matapari’i ha manu aranai kukuca._
+IRR fall NOM child from back
+非實現 掉落 主格 小孩 從 背
+
+#e (If) I was to transplant some rice seedlings, how should I do it? Since I was already carrying the child on my back, when I finished one part of the whole transplanting process, the child would fall from my back.
+#c (如果)我要插秧，我要怎麼插秧呢？因為我已經在背著小孩，當我插秧已經完成一段的時候，小孩子會從我的背上滑落下來。
+#n ha為sua (主格標記)的free variation，為經過音韻變化的結果。此語言中類似的變化有: tanasa~tanaha。
+#a 19.56, None, 23.89
+
+9.
+...(0.7) uh ma^ka==sua=kia mamia,_
+FIL like.that=1SG.NOM only
+FIL 那樣=1SG.主格 只有
+
+#a 23.89, None, 26.74
+
+10.
+...(0.9) uh,\
+FIL
+FIL
+
+#a 26.74, None, 28.45
+
+11.
+...(0.9) c<um>a-cancu==,_
+Ca<AF>-transplant.rice.seedlings
+Ca重疊<主焦>-插秧
+
+#a 28.45, None, 30.62
+
+12.
+...(0.8) uh avʉ-ʉn ha manu.\
+FIL carry.on.the.back-PF NOM child
+FIL 背-受焦 主格 小孩
+
+#e I could only do it like that, transplanting the rice seedlings and carrying the child.
+#c 我也只能那樣，插著秧，小孩背著。
+#a 30.62, None, 33.59
+
+13.
+...(2.2) ah nuu== matirupangi=ci c<um>a-cancu ia,/
+FIL if finish=PART Ca<AF>-transplant.rice.seedlings TOP
+FIL 若 完成=語助詞 Ca重疊<主焦>-插秧 主題
+
+#n matirupang, matirupangU, 和 matirupangi皆為 free variation。
+#a 33.59, None, 39.13
+#n matirupang, matirupangU, 和 matirupangi皆為 free variation。
+
+14.
+...(0.9) te=cu u’umʉ-ʉn,\
+IRR=PART weed-PF
+非實現=語助詞 除草-受焦
+
+#n u’umUn專指插秧完後，為了讓秧苗長得更好而進行的鬆土、除雜草的動作。
+#n 一般mo’uma（主焦形式）專指做農事，umo’umUn為其受焦形式，專指完成插秧後的除雜草、鬆土過程。目前不確定u’umUn是否為umo’umUn之縮減形式，以及mo’uma和umo’umUn兩者語意關聯是否有規則性。
+#n 和mo’uma及u’umUn相關之詞彙：umo’uma田地；umo’umoo除草（祈使受焦形式）。
+#a 39.13, None, 41.35
+#n u’umUn專指插秧完後，為了讓秧苗長得更好而進行的鬆土、除雜草的動作。
+#n 一般mo’uma（主焦形式）專指做農事，umo’umUn為其受焦形式，專指完成插秧後的除雜草、鬆土過程。目前不確定u’umUn是否為umo’umUn之縮減形式，以及mo’uma和umo’umUn兩者語意關聯是否有規則性。
+#n 和mo’uma及u’umUn相關之詞彙：umo’uma田地；umo’umoo除草（祈使受焦形式）。
+
+15.
+... ngai-- ^makasua kangvang avʉ-ʉn manu mo-’uma,/
+FS like.that all carry.on.the.back-PF child AF-field
+FS 那樣 全部 背-受焦 小孩 主焦-田地
+
+#n kangvang 在此解釋為”也”的語意。
+#n 不同情境中kangvang可能有的語意：都、都是、全部、也
+#a 41.35, None, 44.91
+#n kangvang 在此解釋為”也”的語意。
+#n 不同情境中kangvang可能有的語意：都、都是、全部、也
+
+16.
+... canaa,\
+field
+稻田
+
+#n 此處canna亦為稻田之意，應為由閩南語借詞而來，但根據發音人說法，canaa已成為Kanakanavu之詞彙。
+#a 44.91, None, 46.27
+#n 此處canna亦為稻田之意，應為由閩南語借詞而來，但根據發音人說法，canaa已成為Kanakanavu之詞彙。
+
+17.
+... sii ’una cʉn.\
+CONJ EXIST weed
+連接詞 存在 草
+
+#e When the whole transplanting process was finished, it would be time for the weeding process, which was also done like that, with the child being carried during the work in the field, because there would be weeds (which are harmful to the rice).
+#c 完成插秧之後，就要除草了，也是那樣要背著小孩做稻田的工作，因為會有（對稻米有害的）雜草。
+#a 46.27, None, 48.43
+
+18.
+...(2.2) nuu,_
+if
+若
+
+#a 48.43, None, 51.45
+
+19.
+...(2.2) tatia=ci ha==,_
+big=PART NOM
+大=語助詞 主格
+#n tatiaa 一般為tatia，但此處因為音檔中的說者有Kanakanavu族女性說話的特質，而紀錄下其向上拉長的語調。
+#a 51.45, None, 55.26
+#n tatiaa 一般為tatia，但此處因為音檔中的說者有Kanakanavu族女性說話的特質，而紀錄下其向上拉長的語調。
+
+20.
+.. uh,_
+FIL
+FIL
+
+#a 55.26, None, 56.04
+
+21.
+.. c<in>ancu-a pusiam ia,/
+<Prf>transplant.rice.seedlings-REL rice TOP
+<完成>插秧-關係詞 稻米 主題
+
+#a 56.04, None, 58.21
+
+22.
+...(0.9) te=ci=kia mecara nuu,_
+IRR=PART=1SG.NOM take.care.of if
+非實現=語助詞=1SG.主格 照顧 如果
+
+#n mecara的語意有：陪伴、照顧、保護、看顧。
+#a 58.21, None, 60.92
+#n mecara的語意有：陪伴、照顧、保護、看顧。
+
+23.
+.. ’una=ci macu’u ia,/
+EXIST=PART fruit TOP
+存在=語助詞 果實 主題
+
+#n macu’u泛指植物的果子
+#a 60.92, None, 62.87
+#n macu’u泛指植物的果子
+
+24.
+... tia kʉn-ʉn,_
+IRR eat-PF
+非實現 吃-受焦
+
+#a 62.87, None, 64.47
+
+25.
+...(1.1) uh tapinange.\
+FIL bird
+FIL 鳥
+
+#e When the rice that had been transplanted had already grown up, I would take care of it. If there were already some fruits, the birds would eat them. 
+#c 當所插秧的稻米已經長大，我就要去照顧。如果已經有了果實，會被小鳥吃掉。
+#a 64.47, None, 66.8
+
+26.
+.. ah,_
+FIL
+FIL
+
+#a 66.8, None, 67.56
+
+27.
+...(0.7) nuu,_
+if
+若
+
+#a 67.56, None, 69.13
+
+28.
+...(2.1) nuu==,_
+if
+若
+
+#a 69.13, None, 71.28
+
+29.
+...(1.0) totasiarʉ ia,/
+morning TOP
+早晨 主題
+
+#a 71.28, None, 73.66
+
+30.
+...(0.8) ^makacaang=kia aramia’ʉ mucʉmcʉm=kia moha ‘inia,_
+quickly=1SG.NOM wake.up.AF rush.in.the.morning=1SG.NOM go there
+迅速=1SG.主格 起床.主焦 趕早=1SG.主格 去 那裡
+
+#n mucʉmcʉm 專指在早晨的時候趕著去某地。
+#n mucUmcUm=kia (*’inia); mucUmcUm=kia *(mokusa) ‘inia。
+#a 73.66, None, 78.33
+#n mucʉmcʉm 專指在早晨的時候趕著去某地。
+#n mucUmcUm=kia (*’inia); mucUmcUm=kia *(mokusa) ‘inia。
+
+31.
+... meecara sii tia kUn-Un tapinange hau pusiam.\
+take.care.of CONJ IRR eat-PF bird NOM rice
+照顧 連接詞 非實現 吃-受焦 鳥 主格 稻米
+
+#e In the morning, I would get up quickly and hurry to go there (the rice field) to take care of it because the rice would be eaten by the birds. 
+#c 當早晨的時候，我會很迅速的起床，趕著去那裡照顧，因為稻米會被小鳥吃掉。
+#a 78.33, None, 82.16
+
+32.
+...(2.3) ah nuu,\
+FIL if
+FIL 若
+
+#a 82.16, None, 85.28
+
+33.
+...(1.6) makasua=cu,_
+like.that=PART
+那樣=語助詞
+
+#a 85.28, None, 88.58
+
+34.
+... ap-atarava nuu,_
+CAU-arrive if
+使役-到達 若
+
+#n mataarava為”到”之主焦形式。makacUkUna 為”抵達”。兩者之語意細微區分仍需確認。
+#n aranai nesi mataarava nesa 從這裡到那邊。
+#a 88.58, None, 90.49
+#n mataarava為”到”之主焦形式。makacUkUna 為”抵達”。兩者之語意細微區分仍需確認。
+#n aranai nesi mataarava nesa 從這裡到那邊。
+
+35.
+... tanavikarʉ=ci ha pusiam ia,/
+yellow=PART NOM rice TOP
+黃色=語助詞 主格 稻米 主題
+
+#n 此處apatarava為表”使”稻米的成長”達到”某階段（亦即呈黃色已熟的階段）。
+#n mataarava=cu tanavikarU sua pusiam 字面上意思為”已經到了稻米變黃”，亦可解釋為”稻米已經到了變黃的階段”
+#a 90.49, None, 93.32
+#n 此處apatarava為表”使”稻米的成長”達到”某階段（亦即呈黃色已熟的階段）。
+#n mataarava=cu tanavikarU sua pusiam 字面上意思為”已經到了稻米變黃”，亦可解釋為”稻米已經到了變黃的階段”
+
+36.
+... te=ci=kia mari-pusiam.\
+IRR=PART=1SG.NOM reap-rice
+非實現=語助詞=1SG.主格 收割-稻米
+
+#e If the rice had become like that (had already grown some fruit), and had become yellow, I would then reap the rice. 
+#c 如果稻米已經那樣了（結了果實），已經到了變黃的階段，我就要收割稻米。
+#a 93.32, None, 95.65
+
+37.
+...(3.2) kee-- uh== marivici=kia cau== nuu m-aripusiam=kia sii,/
+FS FIL bring=1SG.NOM person if AF-reap.rice=1SG.NOM CONJ
+FS FIL 帶=1SG.主格 人 若 主焦-收割稻米=1SG.主格 連接詞
+
+#n 此處cau有”他人、別人”的語意。
+#a 95.65, None, 103.14
+#n 此處cau有”他人、別人”的語意。
+
+38.
+... tassa mamia./
+two only
+二 只有
+
+#e I would bring some other people when I reap the rice because there would only be two of us (working in the field).
+#c 當割稻的時候，我會帶別人來，因為只有(我們夫婦)兩位在(田地)工作。
+#n 此處發音人是指只有其”夫妻倆”兩位在做農。
+#a 103.14, None, 105.01
+
+39.
+...(0.9) ‘an tia mara’an putukikio nuu,_
+NEG IRR fast work if
+否定 非實現 快 工作 若
+
+#a 105.01, None, 108.5
+
+40.
+.. tassa mamia=kia,_
+two only=1SG.NOM
+二 只有=1SG.主格
+
+#n 發音老師表示此音檔敘述者的習慣為常用=kia指其夫妻倆。因此此IU之=kia宜解釋為”我們夫妻倆”。
+#a 108.5, None, 109.91
+#n 發音老師表示此音檔敘述者的習慣為常用=kia指其夫妻倆。因此此IU之=kia宜解釋為”我們夫妻倆”。
+
+41.
+.. putukikio.\
+work
+工作
+
+#e (We) could not work fast if there is only two of us working.
+#c 只有(夫妻倆)兩位工作的話，我們兩個工作就不會很快。
+#a 109.91, None, 110.97
+
+42.
+...(2.7) uh nuu,_
+FIL if
+FIL 若
+
+#a 110.97, None, 114.82
+
+43.
+...(0.8) matirupangʉ=ci m-aripusiam ia,/
+finish=PART AF-reap.rice TOP
+完成=語助詞 主焦-收割.稻米 主題
+
+#a 114.82, None, 117.79
+
+44.
+.. ^pari-in=cu pusia==m==._
+dry.in.the.sun-PF=PART rice
+曬乾-受焦=語助詞 稻米
+
+#e If the reaping process had been finished, it would be time for the rice to be dried in the sun.
+#c 若收割已經結束了的話，就要曬稻米了。
+#a 117.79, None, 119.96
+
+45.
+... m-on=kia pipining==,_
+AF-stay=1SG.NOM flat.ground
+主焦-處於=1SG.主格 廣場
+
+#n pipining專指房屋外平坦廣闊的地區。
+#a 119.96, None, 122.21
+#n pipining專指房屋外平坦廣闊的地區。
+
+46.
+...(0.8) ʉ==,_
+FIL
+FIL
+
+#a 122.21, None, 123.69
+
+47.
+...(1.8) a^p-ari ha pusiam==./
+CAU-dry.in.the.sun NOM rice
+使役-曬乾 主格 稻米
+
+#e I would be outside on the flat ground, drying the rice. 
+#c 我就在房屋外的廣場，曬乾稻米。
+#a 123.69, None, 127.47
+
+48.
+...(1.4) apaco’e nuu macici=in taniarʉ ia ’ehi=kia pipiniing,\
+although if hot=if sun TOP PROG=1SG.NOM flat.ground
+雖然 若 熱=若 太陽 主題 進行=1SG.主格 廣場
+
+#n 此句可有兩種詮釋：(1) 不論太陽多熱，我還是在外面；(2) 雖然太陽很熱，我還是在外面。
+#a 127.47, None, 132.57
+#n 此句可有兩種詮釋：(1) 不論太陽多熱，我還是在外面；(2) 雖然太陽很熱，我還是在外面。
+
+49.
+... kamanʉng pusiam mari--,_
+make rice FS
+製作 稻米 FS
+
+#n 此處kamanUng宜譯為”處理”。
+#a 132.57, None, 134.93
+#n 此處kamanUng宜譯為”處理”。
+
+50.
+...(1.1) ʉ,\
+FIL
+FIL
+
+#a 134.93, None, 136.57
+
+51.
+.. mari-vu-vuarʉ ha pusiam sii tia pari-in.\
+MARI-RED-stir NOM rice CONJ IRR dry.in.the.sun-PF
+MARI-重覆-翻攪 主格 稻米 連接詞 非實現 曬乾-受焦
+
+#e No matter how hot the weather was, I would still be outside dealing with the rice, and keep stirring it because it was going to be dried.
+#c 不論太陽多熱，我還是在外面處理稻米，不斷地翻攪，因為要曬乾。
+#n 目前不確定marivuvuarU中的mari-如何標記。相關詞彙：marivuarU ‘翻攪’；marivuvuarU ‘不斷翻攪’；vuarUn ‘被翻攪’。
+#a 136.57, None, 140.17
+
+52.
+...(1.5) ah nuu,_
+FIL if
+FIL 若
+
+#a 140.17, None, 142.6
+
+53.
+...(1.8) maringuna=ci ha pusiam ia,/
+be.dry.AF=COS NOM rice TOP
+乾燥.主焦=改變狀態 主格 稻米 主題
+
+#a 142.6, None, 146.42
+
+54.
+.. te=cu ʉsʉ’ʉ-n na,_
+IRR=PART store-PF OBL
+非實現=語助詞 收藏-受焦 斜格
+
+#a 146.42, None, 148.13
+
+55.
+... poti tia a’un-ʉn mu-sʉ tanasa./
+sack IRR carry.on.the.forehead-PF AF-store house
+布袋 非實現 用額頭背-受焦 主焦-收藏 家屋
+
+#e If the rice has already been dried, I would put it into a sack, which would be carried and put in the house. 
+#c 若稻米已經曬乾了，我就要放置到布袋中，是我要背回去收藏在家屋裡的。
+#n 雖兩者都可譯為”背”，a’unUn 和mava不同，前者專指將布袋的提帶掛在額頭上的背法（通常是物件），後者專指雙手放背後，向上使力的背法（通常是小孩）。
+#a 148.13, None, 152.14
+
+56.
+...(1.0) ’una=kia ta-sʉ’-a== na tanasa,_
+EXIST=1SG.NOM location-store-REL OBL house
+存在=1SG.主格 處所-收藏-關係詞 斜格 家屋
+
+#a 152.14, None, 155.95
+
+57.
+...(0.8) ni-kamanʉng-a tia ta-sʉ’-a pusiam.\
+Prf-make-REL IRR location-store-REL rice
+完成-製作-關係詞 非實現 處所-收藏-關係詞 稻米
+
+#e I have a place for storage in the house, which was made to be a storage place for rice. 
+#c 我在家屋裡有一個收藏的地方，是做來收藏稻米的地方。
+#n nikamanʉnga tia tasʉ’a pusiam發音老師直譯為：所製作的收藏稻米的地方。
+#a 155.95, None, 159.45
+
+58.
+...(4.2) ʉng==,_
+FIL
+FIL
+
+#a 159.45, None, 164.35
+
+59.
+.. makasua=cu,_
+like.that=PART
+
+#a 164.35, None, 165.8
+
+60.
+.. tasange=ci=kia./
+rest=PART=1SG.NOM
+休息=語助詞=1SG.主格
+
+#e That’ll be it. I would then take a rest.
+#c 就那樣子，我就休息了。
+#n tasange為tarasangai縮減的結果。
+#a 165.8, None, 167.18
+
+61.
+...(5.1) ʉng==,_
+FIL
+FIL
+
+#a 167.18, None, 173.03
+
+62.
+... kong-- makasua=cu mamia.\
+FS like.that=PART only
+FS 那樣=語助詞 只有
+
+#e That’s all.
+#c 就只有那樣了。
+#a 173.03, None, 175.05

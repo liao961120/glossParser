@@ -1,0 +1,414 @@
+topic: Pear story
+type: Narrative
+language: 噶瑪蘭語, Kavalan, Xinshe (新社)
+speaker: 潘烏吉, Ipay, male, 1931-06-01
+collected: 00:01:23
+revised: 2013-1-17
+video: KavNr-pear_ipay.mp3
+
+1.
+sikawma=pa=iku       tu    zana,\
+speak=FUT=1SG.NOM  OBL  3SG.POSS
+講=未來=1SG.主格    斜格   3SG.所有格
+
+#a 14.05, None, None
+
+2.
+... qi-byabas=ay,\
+pick-guava=REL
+摘-芭樂=關係詞
+
+#e I’m going to tell a story about a person who plucked guavas.
+#c 我要講一個摘芭樂的人的故事。
+#a None, None, 17.15
+
+3.
+...(1.0) mipit  tu   byabas,\
+AF.pluck    OBL  guava
+主焦.摘     斜格  芭樂
+
+#e (He) plucked guavas.
+#c 摘芭樂。
+#n pipit-an-ku byabas: 我摘芭樂
+#a 17.15, None, 19.61
+
+4.
+...(1.2) ya==,\
+FIL
+FIL
+
+#a 19.61, None, 21.5
+
+5.
+.. k<m>yala  nani,\
+<AF>pick.up  DM
+<主焦>撿     DM
+
+#a 21.5, None, 22.39
+
+6.
+...(1.1) pizi-an-na  ta==,\
+put-LF-3SG.GEN  LOC
+放-處焦-3SG.屬格 處格
+
+#a 22.39, None, 25.19
+
+7.
+... ta-tawlaq-an-na
+LOC-apron-LOC-3SG.GEN
+處格-圍裙-處格-3SG.屬格
+
+#a 25.19, None, 27.05
+
+8.
+.. t<m>abu    nani.\
+<AF>wrap  DM
+<主焦>包   DM
+
+#e He put guavas in his apron and wrapped them in it.
+#c 他(把芭樂)放在圍裙包起來。
+#a 27.05, None, 27.87
+
+9.
+... s<m>aRuR=ti,\
+<AF>descend=PFV
+<主焦>下來=完成
+
+#a 27.87, None, 29.37
+
+10.
+... buwaq-an-na        ta-qanas-an,\
+topple-LF-3SG.GEN  LOC-basket-LOC
+傾倒-處焦-3SG.屬格  處格-籃子-處格
+
+#e He went down and toppled the basket.
+#c 他下來弄倒了籃子。
+#n qanas: 有手提的籃子
+#n qeRawas: 沒有手提的籃子
+#a 29.37, None, 31.6
+
+11.
+... ta-qeRawas-an     nani.\
+LOC-basket-LOC  DM
+處格-籃子-處格   DM
+
+#a 31.6, None, 33.19
+
+12.
+... puniR=ti,\
+full=PFV
+滿=完成
+
+#a 33.19, None, 34.03
+
+13.
+.. wiya=ti    uman  nani,\
+leave=PFV  again  DM
+離開=完成  再   DM
+
+#a 34.03, None, 34.74
+
+14.
+.. wiya=ti    sbabaw,\
+leave=PFV  ascend
+離開=完成  往上
+
+#e (The basket) was full. (He) climbed up again.
+#c (籃子)滿了,(他)又爬上去。
+#a 34.74, None, 35.58
+
+15.
+... ta==ngi  yau=ti,\
+now     EXIST=PFV
+現在    存在=完成
+
+#a 35.58, None, 36.76
+
+16.
+.. ‘nay  ya==,\
+that   NOM
+那個  主格
+
+#a 36.76, None, 37.33
+
+17.
+.. sunis,\
+child
+小孩
+
+#e Now, there was a child.
+#c 現在, 有小孩。
+#a 37.33, None, 37.88
+
+18.
+... yau  a==,\
+EXIST  NOM
+存在   主格
+
+#a 37.88, None, 38.95
+
+19.
+.. sunis,\
+child
+小孩
+
+#a 38.95, None, 39.38
+
+20.
+.. qiRuziq-an-na=ti,\
+steal-LF-3SG.GEN=PFV
+偷-處焦-3SG.屬格=完成
+
+#e The child stole (the guavas).
+#c 小孩偷了(芭樂)。
+#a 39.38, None, 40.6
+
+21.
+... wiya=ti  m,\
+leave=PFV FS
+離開=完成 FS
+
+#a 40.6, None, 41.87
+
+22.
+.. m-RaRiw=pa=iku==,\
+AF-run=FUT=1SG.NOM
+主焦-跑=未來=1SG.主格
+
+#a 41.87, None, 43.29
+
+23.
+.. zin-na,\
+think-3SG.GEN
+想-3SG.屬格
+
+#a 43.29, None, 43.67
+
+24.
+.. m-qa-zitinsya  nani.\
+AF-take-bike    DM
+主焦-搭-腳踏車 DM
+
+#e ‘I’m going to run away, riding the bike,’ he thought.
+#c 他想說,我要騎腳踏車逃走。
+#a 43.67, None, 44.54
+
+25.
+... t<m>ibuq,\
+<AF>fall
+<主焦>跌倒
+
+#a 44.54, None, 45.48
+
+26.
+.. qem,\
+FS
+FS
+
+#a 45.48, None, 46.08
+
+27.
+.. qulin=ti   nani,\
+fall=PFV  DM
+倒下=完成 DM
+
+#e (He) fell down.
+#c 他跌倒,倒下去。
+#a 46.08, None, 46.94
+
+28.
+... ^bibiaq=ti  ya    byabas  a     yau,\
+drop=PFV   NOM  guava  LNK  that
+掉下去=完成 主格  芭樂   連詞  那個
+
+#e The guavas dropped.
+#c 芭樂掉下去了。
+#a 46.94, None, 48.7
+
+29.
+...(0.7) akaw,\
+INT
+感嘆
+
+#a 48.7, None, 49.79
+
+30.
+.. nian=ti  byabas  taqa,\
+where=PFV   guava  NEG
+哪裡=完成   芭樂   否定
+
+#a 49.79, None, 51.32
+
+31.
+.. zin-na     unay na==,\
+say-3SG.GEN that  GEN
+說-3SG.屬格 那個 屬格
+
+#a 51.32, None, 52.3
+
+32.
+.. k<m>iyala=ay.\
+<AF>pick=REL
+<主焦>撿=關係詞
+
+#e ‘Alas, where are the guavas?’ said the person who plucked guavas.
+#c 那個摘芭樂的人說,唉呦,芭樂到哪去了?
+#a 52.3, None, 53.23
+
+33.
+.. t<m>ayta  ta-qeRawas-an     a      yau,\
+<AF>see   LOC-basket-LOC  LNK   that
+<主焦>看  處格-籃子-處格   連詞   那個
+
+#e (He) looked at the basket.
+#c (他)看著籃子。
+#a 53.23, None, 54.88
+
+34.
+...(0.7) mai=ti  byabas  a    yau,\
+NEG=PFV    guava   LNK  that
+否定=完成    芭樂   連詞  那個
+
+#e There were no guavas.
+#c 沒有芭樂。
+#a 54.88, None, 56.96
+
+35.
+... m-RaRiw=ti.\
+AF-run=PFV
+主焦-跑=完成
+
+#e (The child) had run away.
+#c (小孩)已經跑走了。
+#a 56.96, None, 58.16
+
+36.
+...(0.8) wiya=ti  uman,\
+leave=PFV  again
+離開=完成   再
+
+#a 58.16, None, 59.63
+
+37.
+.. k<m>yala  uman,\
+<AF>pick    again
+<主焦>撿    再
+
+#e (He) plucked guavas again.
+#c (他)再摘芭樂。
+#a 59.63, None, 60.72
+
+38.
+... k<m>yala=ti  uman,\
+<AF>pick=PFV  again
+<主焦>撿=完成  再
+
+#a 60.72, None, 61.87
+
+39.
+.. pasani-an-na=ti  s,\
+toward.where-LF-3SG.GEN=PFV  FS
+往那裡-處焦-3SG.屬格=完成   FS
+
+#a 61.87, None, 62.95
+
+40.
+...(0.7) sepez-an-an=ti   ta-qeRawas-an     nani.\
+put-LF-3SG.GEN=PFV  LOC-basket-LOC  DM
+放-處焦-3SG.屬格=完成 處格-籃子-處格  DM
+
+#e He plucked (guavas) and put them into the basket.
+#c 他摘芭樂,放在籃子裡。
+#a 62.95, None, 65.0
+
+41.
+...(1.4) wiya=ti  tungaw-an-na   qa-zitinsya,\
+leave=PFV   send-LF-3SG.GEN  take-bike
+離開=完成   送-處焦-3SG.屬格  搭-腳踏車
+
+#a 65.0, None, 68.06
+
+42.
+.. t<m>ungaw  pasani,/
+<AF>send   toward.where
+<主焦>送   往哪裡
+
+#a 68.06, None, 69.21
+
+43.
+.. pasa==,\
+toward
+往
+
+#a 69.21, None, 69.99
+
+44.
+.. lepaw  u,\
+house  or
+家     或
+
+#a 69.99, None, 70.53
+
+45.
+.. tanian  smani    Rayngu-an    @@@
+where  not.know  not.know-LF  @@@
+哪裡   不知道   不知道-處焦  @@@
+
+#e He rode the bike and sent (guavas) to his house or somewhere. I’m not sure. I don’t know.
+#c 他騎著單車,要送(芭樂)到哪裡,我不清楚,我不知道。
+#a 70.53, None, 72.09
+
+46.
+...(0.9) nayau  ni?/
+that.way     Q
+那樣       疑問
+
+#e Is that all?
+#c 就那樣嗎?
+#a 72.09, None, 73.85
+
+47.
+... Rayngu-an-ku       yu.\
+not.know-LF-1SG.GEN  PART
+不知道-處焦-1SG.屬格  語助詞
+
+#e I don’t know.
+#c 我不知道。
+#a 73.85, None, 75.16
+
+48.
+... niana=ti  mai,\
+what=PFV   NEG
+什麼=完成   否定
+
+#a 75.16, None, 76.68
+
+49.
+... mai=iku      t<m>ayta   tu==,\
+NEG=1SG.NOM  <AF>see  OBL
+否定=1SG.主格  <主焦>看  斜格
+
+#a 76.68, None, 78.61
+
+50.
+.. ma==ynep,\
+AF.sleep
+主焦.睡
+
+#a 78.61, None, 79.33
+
+51.
+.. m-Rayngu,\
+AF-not.know
+主焦-不知道
+
+#a 79.33, None, 80.27
+
+52.
+.. sikawma.\
+speak
+講
+
+#e I didn’t watch (the latter part). (Maybe I) fell asleep. (I) don’t know what to say.
+#c 我沒有看到(後面),(我可能)睡著了,(我)不會講。
+#a 80.27, None, 81.19

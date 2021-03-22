@@ -1,0 +1,1392 @@
+topic: Frog story
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 孔金治, Uva Kapanena, male, 1951-11
+collected: None
+revised: 2016-5-24
+video: kkvNr_frog_Uva.mp3
+
+1.
+...(2.5) eh==,_
+FIL
+FIL
+
+#a 2.53, None, 3.56
+
+2.
+.. sua taa,_
+NOM IRR
+主格 非實現
+
+#n taa就是tia，個人發音的習慣
+#a 3.56, None, 4.81
+#n taa就是tia，個人發音的習慣
+
+3.
+.. po-mo-muara mahin ia,\
+say-AF-pleasure now TOP
+說-主焦-玩樂 現在 主題
+
+#n mahin就是masin，也可以唸masini，是發音人的習慣
+#n po-mo-muarU要聊的，有閒聊的意思（muarU玩具）
+#a 4.81, None, 6.63
+#n mahin就是masin，也可以唸masini，是發音人的習慣
+#n po-mo-muarU要聊的，有閒聊的意思（muarU玩具）
+
+4.
+.. ’una manu,\
+EXIST child
+存在 小孩
+
+#a 6.63, None, 7.67
+
+5.
+.. t<in>puru ia,/
+<PFV>sit TOP	
+<完成>坐 主題
+
+#n t<in>puru，本來是t<in>ipuru（正式），但現在都說t<in>puru了。坐下來，坐著的
+#n 這裡的ia是提示接下來要說有什麼東西了
+#a 7.67, None, 8.9
+#n t&lt;in&gt;puru，本來是t&lt;in&gt;ipuru（正式），但現在都說t&lt;in&gt;puru了。坐下來，坐著的
+#n 這裡的ia是提示接下來要說有什麼東西了
+
+6.
+.. mataa tamtitu=in,/
+and puppy=3SG.GEN
+以及 小狗-3SG.屬格
+
+#a 8.9, None, 10.28
+
+7.
+... ’e=nia pungana,/
+EXIST=there urn
+存在=那裡 甕
+
+#n ’e=nia是’esi ‘inia的簡化，「在那裡存在有」的意思，口語上有「也有」、「列舉」的意思
+#a 10.28, None, 12.12
+#n ’e=nia是’esi ‘inia的簡化，「在那裡存在有」的意思，口語上有「也有」、「列舉」的意思
+
+8.
+.. ’e=nia takarura.\
+EXIST=there frog
+存在=那裡 青蛙
+
+#c 現在要聊的是一個小孩和他的狗坐著，還有一個水缸和青蛙。
+#e Now we are going to talk about a child sitting with his dog. There is an urn and a frog.
+#a 12.12, None, 13.64
+
+9.
+... ’e=na,_
+EXIST=LOC
+存在=處格
+
+#n ‘e=na為’esi na的簡化
+#a 13.64, None, 14.59
+#n ‘e=na為’esi na的簡化
+
+10.
+.. pungana,_
+urn
+甕
+
+#a 14.59, None, 15.68
+
+11.
+.. takarura./
+frog
+青蛙
+
+#c 青蛙在水缸裡面。
+#e The frog is in the urn.
+#a 15.68, None, 16.41
+
+12.
+...(0.9) uh==,_
+FIL
+FIL
+
+#a 16.41, None, 17.58
+
+13.
+.. tanahe=en isi 'una vuan,_
+house=3SG.GEN this EXIST moon
+家=3SG.屬格 這個 存在 月亮
+
+#n tanahe=n 為 tanasa=in的音變
+#n vuan 為 vuanʉ的簡化
+#a 17.58, None, 19.75
+#n tanahe=n 為 tanasa=in的音變
+#n vuan 為 vuanʉ的簡化
+
+14.
+... i sua ihi ia ʉncoo sinang=in.\
+X NOM this TOP FIL light=3SG.GEN
+X 主格 這個 焦點 FIL 光=3SG.屬格
+
+#n ʉncoo 思考中的聲音
+#n sinang 也可以是sigangU，光或是照明；sinang=in 也可以唸 sinangʉ=in
+#n ihi 為 isi的發音音變（孔老師說他們族人，女生常會把s的音發成h）
+#a 19.75, None, 22.87
+#n ʉncoo 思考中的聲音
+#n sinang 也可以是sigangU，光或是照明；sinang=in 也可以唸 sinangʉ=in
+#n ihi 為 isi的發音音變（孔老師說他們族人，女生常會把s的音發成h）
+
+15.
+...(0.8) sinang=in misee==._
+light=3SG.GEN say.AF
+光=3SG.屬格 說.主焦
+
+#c 這是他的家，月亮是他的照明。我想應該是照明吧。
+#e This is his home. There exists the moon which is his lighting. I think it must be the lighting.
+#n misee的本意是說的意思。但這裡表示說話人在想，「我覺得，我想應該是」的意思
+#a 22.87, None, 25.45
+
+16.
+...(0.9) eh== muha=cu ne--,_
+FIL go=COS X
+FIL 去=COS X
+
+#n muha 為 musa，是mokusa的簡化
+#a 25.45, None, 28.04
+#n muha 為 musa，是mokusa的簡化
+
+17.
+... cu muha=cu nesi ia,_
+COS go=COS here TOP
+COS 去=COS 這裡 主題
+
+#n nesi 是這裡，sian 是「我這裡」（靠近說話的人）
+#a 28.04, None, 29.95
+#n nesi 是這裡，sian 是「我這裡」（靠近說話的人）
+
+18.
+.. se’ecʉpʉ manu iha,_
+sleep.AF child that
+睡覺.主焦 小孩 那個
+
+#n se’ecʉpʉ 本來應該是 si’icʉpʉ
+#a 29.95, None, 31.52
+#n se’ecʉpʉ 本來應該是 si’icʉpʉ
+
+19.
+.. ta-tarʉ.\
+RED-shelf
+重疊-架子
+
+#c 在這裡，那個小孩在床舖睡覺。
+#e Here the child slept in the bed.
+#n tarʉ 是放東西的架子；ta-tarʉ 是給人睡的床
+#a 31.52, None, 32.36
+
+20.
+...(0.7) se’ecʉpʉ,/
+sleep.AF
+睡覺.主焦
+
+#n 音調上揚，有「睡覺之中」、「睡覺之後」的意思
+#a 32.36, None, 34.14
+#n 音調上揚，有「睡覺之中」、「睡覺之後」的意思
+
+21.
+...(1.0) ’e tikirimi ʉh== aramia’ʉ== cumu’ʉra ʉh,_
+LOC look.for FIL wake.up stare.at FIL
+處所 尋找 FIL 醒 看 FIL
+
+#n ’e 為 ’esi，存在的意思
+#a 34.14, None, 38.13
+#n ’e 為 ’esi，存在的意思
+
+22.
+.. takarura ni-mon,_
+frog PFV-stay
+青蛙 完成-待在
+
+#n mon（待在） 和 ’esi（存在）意思有點不一樣
+#a 38.13, None, 39.59
+#n mon（待在） 和 ’esi（存在）意思有點不一樣
+
+23.
+.. ni-musikarʉ na,_
+PFV-AF.enter LOC
+完成-主焦.進入 處格
+
+#a 39.59, None, 40.86
+
+24.
+.. pungana.\
+urn
+甕
+
+#c 睡醒之後，（男孩）在尋找曾經掉到那個水缸裡面的青蛙。
+#e After sleeping, (the boy) was seeking the frog which had dropped into the urn.
+#n 沒有na的話會誤解是不是水缸掉下去。
+#a 40.86, None, 41.68
+
+25.
+... ni-musika,_
+FS
+FS
+
+#a 41.68, None, 42.87
+
+26.
+.. ni-musikarʉ na pungana,_
+PFV-AF.enter LOC urn
+完成-主焦.進入 處格 甕
+
+#a 42.87, None, 44.18
+
+27.
+.. tia ara-pa-pining.\
+IRR become-RED-outside.AF
+非實現 變成-重疊-外面.主事焦點
+
+#c 曾經掉入水缸的（青蛙），要出去。
+#e (The frog) which had been dropped into the urn went out.
+#n arapapining 就是 arapipining
+#n piningi：平坦的地方；pipiningi：外頭的廣場；arapipiningi：出來、出去
+#n sikaru 裡面
+#n pupunga 更小的容器
+#a 44.18, None, 45.26
+
+28.
+... aramia’ʉ manu isa tikirim._
+AF.wake.up child that look.for
+醒 小孩 那個 尋找
+
+#c 那位小孩醒來後四處找。
+#e That child woke up and looked around.
+#n 這裡的isa應該是isua，「那位」的意思
+#a 45.26, None, 47.54
+
+29.
+.. makasi,_
+X
+X
+
+#a 47.54, None, 48.27
+
+30.
+.. makahua=cu==,_
+AF.that.way=COS
+主焦.那樣=COS
+
+#n makahua 就是 makasua，那樣了之後
+#a 48.27, None, 49.4
+#n makahua 就是 makasua，那樣了之後
+
+31.
+... uh== aramia’ʉ manu iat,_	
+FIL wake.up child FIL
+FIL 醒 小孩 FIL
+
+#n iat 來自布農語的語氣詞，表示後面還有話要講
+#n iat還有isua的隱含意，「之後那個人呢」的意思
+#a 49.4, None, 51.42
+#n iat 來自布農語的語氣詞，表示後面還有話要講
+#n iat還有isua的隱含意，「之後那個人呢」的意思
+
+32.
+.. risu sua tamtitu=in ia,/
+X NOM puppy=3SG.GEN TOP
+X 主格 小狗=3SG.屬格 主題
+
+#a 51.42, None, 52.88
+
+33.
+.. ’esi na kukuce=en.\
+EXIST LOC back=3SG.GEN
+存在 處格 後面=3SG.屬格
+
+#c 之後（那個）小孩醒來，他的小狗在他的後面。
+#e Then the child woke up, and his dog was behind him.
+#n kukuce=en 就是 kukuca-in的音變；kukuca 後面
+#a 52.88, None, 54.21
+
+34.
+...(0.7) aʉncee,/
+here.it.is
+就在這裡
+
+#n aʉncee 「就在這裡啊」，表示一種意外的發現，「找很久終於找到了」。老一輩會用。
+#a 54.21, None, 55.48
+#n aʉncee 「就在這裡啊」，表示一種意外的發現，「找很久終於找到了」。老一輩會用。
+
+35.
+.. pungana ni’ona tamtitu ni-pu-’ara’ang,\
+urn place.where.someone.stayed puppy PFV-CAU-inner.space
+甕 待過的地方 完成-使役-內部空間？？？
+
+#n ni’ona 就是 nito’ona 來的、曾經待的地方；to’ona 位置、場所
+#n ni-pu-’ara’ang 可能是 ni-pu-’aravang 曾經放進的一個空間、地方
+#a 55.48, None, 58.05
+#n ni’ona 就是 nito’ona 來的、曾經待的地方；to’ona 位置、場所
+#n ni-pu-’ara’ang 可能是 ni-pu-’aravang 曾經放進的一個空間、地方
+
+36.
+.. ra arapapining Uncue ta’an-in kangvang./
+X AF.go.out X chair=3SG.GEN all
+X AF.到外面 X 椅子=3SG.屬格 全部
+
+#c 水缸在這裡啊，本來待在這裡跑出去的小狗也在這裡啊，椅子全在這裡啊
+#e Here is the urn! The dog that had been outstayed.
+#n 椅子 ta’anʉ
+#a 58.05, None, 60.44
+
+37.
+... ʉncaa==,_
+over.there
+在那邊
+
+#a 60.44, None, 61.49
+
+38.
+.. nguain tamna,_
+3SG.NOM POSS
+3SG.主格 所有
+
+#a 61.49, None, 62.43
+
+39.
+.. <L2JkucuL2J>,\
+shoe
+鞋子
+
+#n kucu，日語的借字
+#a 62.43, None, 63.22
+#n kucu，日語的借字
+
+40.
+... manu tamna <L2JkucuL2J>.\
+child POSS shoe
+孩子 所有 鞋子
+
+#c 那邊有他的鞋子，那個小孩的鞋子。
+#e There are his shoes, the kid’s shoes.
+#a 63.22, None, 65.19
+
+41.
+... eh== makasua=cu,_
+FIL AF.that.way=COS
+FIL 主焦.那樣=COS
+
+#a 65.19, None, 67.0
+
+42.
+.. sua tamtitu iha,_
+NOM puppy that
+主格 小狗 那個
+
+#n iha 是 isa的發音變化。
+#a 67.0, None, 68.21
+#n iha 是 isa的發音變化。
+
+43.
+... ni-musikarʉ na pungana,_
+PFV-AF.enter LOC urn
+完成-主焦.進入 處格 甕
+
+#a 68.21, None, 70.03
+
+44.
+.. ’an tavarʉ’ʉ ara-pa-pining.\
+NEG be.able.to become-RED-outside.AF
+否定 能夠 變-重疊-外面.主焦
+
+#c 那之後，在甕裡面的那隻小狗無法出來。
+#e After that, the dog inside the urn couldn’t get out of it.
+#n sikarʉ：裡面，內部
+#n ‘an 是 ka’an的簡化。
+#n tavarʉ’ʉ，本來是知道，這邊有點語法化，表示能力的助動詞。
+#a 70.03, None, 71.71
+
+45
+... ’a’enee tam._
+X X
+X X
+
+#a 71.71, None, 73.29
+
+46.
+.. eh==,_
+FIL
+FIL
+
+#a 73.29, None, 74.24
+
+47.
+.. manu isi,_
+child this
+孩子 這個
+
+#a 74.24, None, 75.71
+
+48.
+... cʉrʉ-ʉn kee carapung=in te,_
+look.at-PF 3SG.GEN hat=3SG.GEN X
+看-受焦 3SG.屬格 帽子=3SG.屬格 X
+
+#c 這個小孩，他看著他的帽子。
+#e This kid, he looked at his hat.
+#n cʉ’ʉrʉnʉ 看，簡化為cʉrʉʉn。
+#a 75.71, None, 77.63
+
+49.
+.. ’an tara’ʉ makacarapung,_
+NEG be.able.to AF.wear.a.hat
+否定 能夠 主焦.戴帽子
+
+#a 77.63, None, 79.18
+
+50.
+.. si ni-musikarʉ na pungana.\
+because PFV-AF.enter LOC urn
+因為 完成-主焦.進入 處格 甕
+
+#c 他不能戴帽子，因為（帽子）掉到水缸裡。
+#e He couldn’t wear the hat because it had dropped into the urn.
+#n tara’ʉ是tavarʉ’ʉ的意思，唸比較快，v掉了
+#a 79.18, None, 80.66
+
+51.
+.. ’e=nia kan ta’an=in,_
+EXIST=there KAN chair=3SG.GEN
+存在.那裡 知識詞 椅子=3SG.屬格
+
+#c 他的椅子在那邊。
+#e It said that his chair was there.
+#n ’e=nia 是 ’esi ’inia 的簡化
+#n kani簡化成kan，「據說」「聽說」的意思
+#a 80.66, None, 82.64
+
+52.
+... makahua=cu m-osa==-,_
+AF.that.way=COS AF-go
+主焦.那樣=COS 主焦-去
+
+#n makahua=cu 本來是 makasua=cu
+#a 82.64, None, 84.85
+#n makahua=cu 本來是 makasua=cu
+
+53.
+.. manu iha na si’inʉva.\
+child that LOC door
+孩子 那個 處格 門
+
+#c 在那之後，那個小孩到門口。
+#e After that, that kid went to the door.
+#n mosa 本來應該是 mokusa
+#a 84.85, None, 86.62
+
+54.
+... po-kari==,_
+say-word.AF 
+說-話.主焦
+
+#a 86.62, None, 88.07
+
+55.
+... ’akia kan nguain tamna takarura._
+NEG.EXIST EVI 3SG.NOM POSS frog
+否定.存在 知識詞 3SG.主格 所有 青蛙
+
+#c （男孩）大叫說他的青蛙不見了。
+#e (The kid) shouted that his frog had disappeared.
+#a 88.07, None, 90.32
+
+56.
+.. mara-co-cocua mataa tamtitu=in.\
+RED-two.people.walk.together and puppy=3SG.GEN
+重疊-兩個人一起走 和 小狗=3SG.屬格
+
+#c 一直和他的狗一起走。
+#e He kept walking with his doggy.
+#n 1. maracocua 兩個人一起走。2. takacocua 兩個人一起工作。3. kipapa 跟著走。4. marivivini 隨後到
+#a 90.32, None, 92.69
+
+57.
+... ʉh tamtitu ia ni-musikarʉ ’inia,_
+FIL puppy TOP PFV-enter there
+FIL 小狗 主題 完成-進入 那裡
+
+#a 92.69, None, 94.95
+
+58.
+.. pungana,_
+urn
+甕
+
+#a 94.95, None, 95.81
+
+59.
+... ’an tarʉ’ʉ po-kari-kari.\
+NEG be.able.to say-RED-話語.AF
+否定 能夠 說-重疊-話語.主焦
+
+#c 小狗掉入水缸那裡，不能叫。
+#e The dog dropped into the urn and could not call out.
+#n pokari 說話，重疊後變成pokarikari
+#n porun 狗叫，umoni 鳥叫
+#a 95.81, None, 97.79
+
+60.
+...(1.0) ʉh ’e=cu metetarʉ==,_
+FIL PROG=COS AF.keep.waiting    
+FIL 進行=COS 主焦.持續等待
+
+#n ’e=cu 就是 ’esi=cu
+#n itarU 等待
+#n te=ku maritarU kasua 我要等你
+#a 97.79, None, 100.51
+#n ’e=cu 就是 ’esi=cu
+#n itarU 等待
+#n te=ku maritarU kasua 我要等你
+
+61.
+.. tikirimi=kee nguain ʉh==,_
+look.for=3SG.GEN 3SG.NOM FIL
+尋找=3SG.屬格 3SG.主格 FIL
+
+#a 100.51, None, 102.58
+
+62.
+... takarura ’akia.\
+frog NEG.EXIST
+青蛙 否定.存在
+
+#c （男孩）已經一直等了，尋找他的不見的青蛙。
+#e (The kid) kept waiting, and looked for his lost frog.
+#a 102.58, None, 104.12
+
+63.
+...(0.7) mo-no-nang=cu na si’inʉve=en.\
+RED-stay.still LOC door=3SG.GEN
+重疊-靜止不動 處格 門=3SG.屬格
+
+#c （男孩）一直安靜地待在他的門口。
+#e (The kid) stayed still at the door.
+#n monangU 靜止，待著別動
+#n si’inʉve=en 就是 si’inʉva-in
+#a 104.12, None, 107.41
+
+64.
+... ’esi,_
+EXIST
+存在
+
+#a 107.41, None, 108.8
+
+65.
+.. meranasʉ tamtitu i==,_
+worry puppy this
+苦惱 小狗 這
+
+#n meranasʉ 應該是 miari’inasʉ
+#a 108.8, None, 110.93
+#n meranasʉ 應該是 miari’inasʉ
+
+66.
+.. ni-musikarʉ na pungana ’an tara arapapining.\
+PFV-AF.enter LOC urn NEG be.able.to AF.go.out
+完成-主焦.進入 處焦 甕 否定 能夠 主焦.出去
+
+#c 這隻小狗很苦惱，他進入到水缸裡面沒有辦法出來了。
+#e This distressed dog worried that it could not go out from the urn it had entered.
+#n tara 應該是 tavarʉ’ʉ 知道、可以（老師認為最初的唸法應該是tavara’ʉ，三四十年前的音檔是這麼唸的）
+#n ’an 應該是ka’an
+#a 110.93, None, 113.62
+
+67.
+... ʉh arapa,_
+FIL X
+FIL X
+
+#a 113.62, None, 114.97
+
+68.
+.. mecocua=cu._
+two.people.stay.together=COS
+兩個人在一起=COS
+
+#n mecocua 兩個人在一起（做什麼不知道）
+#a 114.97, None, 116.16
+#n mecocua 兩個人在一起（做什麼不知道）
+
+69.
+.. nesi,_
+here
+這裡
+
+#a 116.16, None, 117.03
+
+70.
+.. ara,_
+X
+X
+
+#a 117.03, None, 117.38
+
+71.
+.. ni-arapapining=cu tamtitu.\
+PFV-AF.go.out=COS puppy
+完成-主焦.出去=COS 小狗
+
+#a 117.38, None, 119.88
+
+72.
+...(0.8) aio macangcangarʉ manu ia ca,_
+FIL AF.happy child this X
+FIL 主焦.高興 小孩 這個 X
+
+#n aio 嘆詞，有點被布農影響了
+#n ia 應該是isa，唸比較快
+#a 119.88, None, 122.73
+#n aio 嘆詞，有點被布農影響了
+#n ia 應該是isa，唸比較快
+
+73.
+.. ke-rivi-in kee makasi.\
+X-hold-PF 3SG.GEN AF.that.way
+X-抱-受焦 3SG.屬格 主焦.那樣
+
+#c 兩個已經一起在這裡，小狗已經出來了，小孩非常高興把小狗這樣抱起來。
+#e Those two has been together. The dog has been out of the urn. The kid was very happy and held the dog.
+#n makasi 說，但這裡比較像是 makasia 如此
+#n marivi 抱入懷裡 (詞根rivi)
+#n uma’atʉpʉ 擁抱
+#a 122.73, None, 125.12
+
+74.
+.. sii niara a,/    
+because X FIL
+因為 X FIL
+
+#a 125.12, None, 126.69
+
+75.
+.. ni-musikarʉ na ‘a satu’u a’ ʉ’ʉ satu’u,\
+PFV-enter LOC FIL box FIL yes box
+完成-進入 處格 FIL 箱子 FIL 是的 箱子
+
+#n 這裡的填充詞 ’a 有疑問的意思在
+#a 126.69, None, 129.96
+#n 這裡的填充詞 ’a 有疑問的意思在
+
+76.
+...(1.3) ’a nen=cu maracocua mataa tamtitu mataa manu ihi./
+FIL Q=COS two.people.walk.together and puppy and child this
+FIL 疑問=COS 兩個人走在一起 和 小狗 和 小孩 這個
+
+#c 因為曾經掉到箱子，嗯，對，箱子裡面。怎樣了？小狗和小孩走在一起
+#e Because (it) had dropped into the box... yeah, the box. How is it? The dog and the kid walked together.
+#n maracocua 是兩個人走在一起
+#n neni how who what 都可以
+#a 129.96, None, 135.14
+
+77.
+... ’i=na=karu==,_
+EXIST=LOC=tree
+存在=處格=樹
+
+#n ’esi na karu 的連音
+#a 135.14, None, 136.89
+#n ’esi na karu 的連音
+
+78.
+.. ʉh== na,_
+FIL LOC
+FIL 處格
+
+#a 136.89, None, 138.21
+
+79.
+.. ramisi ’ʉnʉ’ʉnai.\
+root the.earth
+根 地面
+
+#n ’ʉnai 土地
+#a 138.21, None, 139.94
+#n ’ʉnai 土地
+
+80.
+...(0.7) maracocua mo=nia,_
+two.people.stay.together stay=there
+兩個人在一起 待在=那裡
+
+#n maracocua 應該就是 maracocua，發音有點改變而已
+#n mon ’inia 的意思
+#a 139.94, None, 142.36
+#n maracocua 應該就是 maracocua，發音有點改變而已
+#n mon ’inia 的意思
+
+81.
+.. po-kari,\
+say-word.AF
+說-話語.主焦
+
+#a 142.36, None, 143.17
+
+82.
+.. to takarura== ’e=kasu nan takarura ara-pa-pining-a.\
+X frog EXIST=2SG.NOM where frog become-RED-outside-IMP.AF
+X 青蛙 存在=2SG.主格 哪裡 青蛙 變成-重疊-外頭-祈使.主焦	
+
+#c 在樹上，呃，在樹根那裡的地面上，兩個一起在那裡呼叫，青蛙，你在哪裡，青蛙，出來啊！
+#e The stay in the tree, uh... at the tree, calling “Frog~~ where are you, frog, come on out.”
+#n po-kari 呼叫，malisusuna 呼喊（沒目的，就純發聲）
+#n 孔老師覺得最完整的說法，應該是 arapipiningi-a 出來！
+#a 143.17, None, 147.18
+
+83.
+... ’a cʉ’ʉr=e=nia  karu ihi,_
+FIL look.at=3SG.GEN=there tree this
+FIL 看著=3SG=那裡 樹 這個
+
+#n cʉ’ʉre 他看 cʉ’ʉrʉnʉ kee 的連音； =nia 就是 ‘inia
+#a 147.18, None, 149.2
+#n cʉ’ʉre 他看 cʉ’ʉrʉnʉ kee 的連音； =nia 就是 ‘inia
+
+84.
+.. taru’u ’una==,_
+X EXIST
+X 存在
+
+#a 149.2, None, 150.76
+
+85.
+... uh== tarako.\
+FIL hole
+FIL 洞
+
+#c 他看著這顆樹，啊，有個洞。
+#e He looked at this tree. There is a hole.
+#a 150.76, None, 152.88
+
+86.
+... ’una tarako,/
+EXIST hole
+存在 洞
+
+#a 152.88, None, 154.42
+
+87.
+.. a’ eio== ’una=ava nesi anu ni-mu-tatin na karu.\
+FIL FIL EXIST=AVA here beehive PFV-AF-suspend LOC tree 
+FIL FIL 存在=AVA 這裡 蜂窩 完成-主焦-懸吊 處格 樹
+
+#c 有個洞，啊呀！原來有個蜂窩掛在樹這裡！
+#e There is a hole. Oh! So there is a beehive suspended here in the tree!
+#n anu 可以是蜜蜂或蜂蜜，也可以是蜂窩
+#n te=ku tumatatini tikuru 我要掛衣服；詞根 tini
+#a 154.42, None, 157.96
+
+88.
+... mon=inia tasa ihi._
+stay=there two.people this
+待在=那裡 兩個人 這個
+
+#c 這兩個人待在那裡。
+#e These two stayed there.
+#n mon=inia 是 mon 'inia 的連音
+#a 157.96, None, 160.34
+
+89.
+...(1.0) mara na anu ia ni-matapari’i tamtitu na canum.\
+hold LOC beehive that PFV-drop puppy LOC water
+拿 處格 蜂窩 那個 完成-掉落 小狗 處格 水
+
+#c 拿那個蜂窩，小狗掉到池塘裡面。
+#e Holding that beehive, the dog dropped into the pool.
+#n ia應該是 isa
+#a 160.34, None, 164.51
+
+90.
+...(1.1) ni-matapari na tamti,_
+PFV-drop LOC X
+完成-掉落 處格 X
+
+#n ni-matapari掉落，但是後面的i掉了
+#a 164.51, None, 167.2
+#n ni-matapari掉落，但是後面的i掉了
+
+91.
+.. tamtitu ia ni-matapari na canum.\
+puppy that PFV-drop LOC water
+小狗 那個 完成-掉落 處格 水
+
+#c 那個狗掉到池塘裡面。
+#e That dog dropped into the pool
+#a 167.2, None, 169.48
+
+92.
+... ’ee=pa=nia ʉh== meranasʉ tamtitu ia,_
+EXIST=still=there FIL struggle puppy that
+存在=仍然=那裡 FIL 掙扎 小狗 那個
+
+#n ’esi pa ’inia 那裡還有
+#n ia 是 isa
+#a 169.48, None, 173.03
+#n ’esi pa ’inia 那裡還有
+#n ia 是 isa
+
+93.
+.. tia asa matisa’ʉ ʉh== anu ia.\
+IRR want grasp FIL beehive that
+非實現 想要 抓 FIL 蜂窩 那個
+
+#c 那隻小狗還在那邊掙扎，想要抓那個蜂窩。
+#e That dog was still struggling and wanted to grasp the beehive.
+#n asa 是布農語
+#a 173.03, None, 175.84
+
+96.
+.. ma’icʉpʉ ’una anu misee.\
+AF.feel.fear EXIST bee say.AF
+主焦.懼怕 存在 蜜蜂 說.主焦
+
+#c 小孩在地上睡覺，小孩可能怕蜜蜂吧。
+#e The kid slept on the floor. It appeared that he felt fear about bees.
+#n misee 的本意是說，但是這邊是表示「以為」的意思，內心的想法
+#n nivatu pani misee 我以為Pani來了
+#a 181.55, None, 184.31
+
+97.
+... makasua=cu tia asa mopara ’inia ni-vatu ai,/ 
+AF.that.way=COS IRR want climb there PFV-come FIL
+主焦.那樣=COS 非實現 想要 爬 那裡 完成-來 FIL
+
+#n asa是布農語，想要的意思
+#n makasi 某人說，makasia這樣， makasua那樣
+#n Kanakanavu 沒有「想要」這個字，孔老師表示他說不出來
+#a 184.31, None, 187.61
+#n asa是布農語，想要的意思
+#n makasi 某人說，makasia這樣， makasua那樣
+#n Kanakanavu 沒有「想要」這個字，孔老師表示他說不出來
+
+98.
+... mo=nia manu ia pokari mataa tacau ’a is._
+stay.there child that AF.call and dog X X
+待在.那裡 小孩 那個 主焦.呼叫 和 狗 X X
+
+#c 之後他想爬上去和小狗待在那裡呼喊。
+#e Then the child wanted to come climbing up and stayed there, and then called with the dog.
+#n mo=nia 是 mon ’inia 的簡略
+#n 這裡的ia比較像iha，是個人習慣的isa的發音
+#a 187.61, None, 191.23
+
+99.
+...(0.8) ’ei ni-arapapining na canumu takarura isa.\
+FIL PFV-AF.go.out LOC water frog that
+FIL 完成-主焦.出去 處格 水 青蛙 那個
+
+#c 那個青蛙出現在水上。
+#e That frog emerged from the water.
+#a 191.23, None, 195.63
+
+100.
+... arakicacʉ manu ia 'ʉkʉr-ʉn kee ivici-n makasi na urumin.\
+be.surprised child that hold-PV 3SG.GEN mouth-3SG.GEN say LOC X
+驚嚇 小孩 那個 抓住-PV 3SG.屬格 嘴巴-3SG.屬格 說 處格 X
+
+#c 那個小孩嚇了一跳，他摀著他的嘴巴。
+#e The kid was surprised, and he put his hands to his mouse.
+#n ivici 嘴巴
+#a 195.63, None, 200.3
+
+101.
+.. capai urumu kee.\
+figure X 3SG.GEN
+樣子  X 3SG.屬格
+
+#n urume孔老師不知道是什麼，上一句也是。
+#a 200.3, None, 202.06
+#n urume孔老師不知道是什麼，上一句也是。
+
+102.
+... arakicacʉ tu aio ‘una=ava anu nesi.\
+be.surprised TU FIL EXIST=AVA bee here
+驚嚇 TU FIL 存在=AVA 蜜蜂 這裡
+
+#c He was surprised that so there are bees here!
+#e 他嚇了一跳，原來這裡有蜜蜂啊！
+#n tu 是布農語
+#n AVA 表示一種意料之外的語氣 sa’o’o-ava 原來這麼好吃啊
+#n 類似的還有ANA，表示「非常」 sa’o’o-ana 真好吃
+#a 202.06, None, 205.28
+
+103.
+.. ’an ma’icʉpʉ tamtitu-in,/
+NEG AF.feel.fear puppy-3SG.GEN
+否定 主焦.懼怕 小狗-3SG.屬格
+
+#a 205.28, None, 207.33
+
+104.
+... mon ’inia,_
+AF.stay there
+主焦.待在 那裡
+
+#a 207.33, None, 208.79
+
+105.
+...(0.7) mon=a=cu=nia.\
+AF.stay=LOC=COS=there
+主焦.待在=處格=COS=那裡
+
+#n 孔老師的感覺這句話應該是想說，mon=cu na ’inia，待在那裡
+#a 208.79, None, 210.58
+#n 孔老師的感覺這句話應該是想說，mon=cu na ’inia，待在那裡
+
+106.
+... po-kari a ’una=ava tungingi ’una tungingi isi,\
+say-word.AF FIL EXIST=AVA mouse EXIST mouse this
+說-話.主焦 FIL 存在=AVA 老鼠 存在 老鼠 這個
+
+#a 210.58, None, 214.34
+
+107.
+...(1.0) ’a cʉnra na tacau i.\
+FIL PFV.see LOC dog this 
+FIL 完成.看 處格 狗 這個
+
+#c 他的小狗不怕，待在那裡，就待在那裡了，（他）大叫這裡原來有老鼠，這個狗看到了。
+#e His dog did not feel affraid and stayed there. Just stayed there. He shouted out that there was a mouse so! The dog saw it.
+#n cumacʉ’ʉra 看，cini’ʉra 看到了，變成cʉnra
+#a 214.34, None, 217.01
+
+108.
+.. makai=cu ne moca manu ia mosa na karu maringuna._
+be.like=COS here AF.go child that AF.go LOC tree AF.dry
+像=COS  這裡 主焦.走 小孩 那個 主焦.去 處格 樹 AF.乾
+
+#c 好像是那個小孩往這裡走，又走去枯樹那裡。
+#e It appealed that the child came here and went over the withered tree.
+#n mosa 就是 mo-kusa
+#n ne 是 nesi
+#n maringuna 是乾的意思，用在樹的話是枯的意思
+#a 217.01, None, 221.04
+
+109.
+... c<ʉm>ʉ’ʉra na tarako isa ’esi=kara nia nguain tamna takarura.\
+<AF>see LOC hole that PROG=Q there 3SG.NOM POSS frog
+<主焦>看 處所 洞穴 那個 進行=Q 那裏 3SG.主格 屬於 青蛙
+
+#e  He went to see that hole whether his frog was inside there or not. 
+#c  去看那個樹洞他養的那隻青蛙有沒有在裡面。
+#a 221.04, None, 226.02
+
+110.
+... ’akia.\
+EXIST.NEG
+存在.否定
+
+#e There was not.
+#c 沒有。
+#a 226.02, None, 227.46
+
+111.
+... ’akia takarura m-on=cu nesi manu isi po-kari takarura ’esi=kasu nanu mihee.\
+EXIST.NEG frog AF-stay=COS here kid this say-word.AF frog PROG=2SG.NOM where say
+存在.否定 青蛙 主事焦點-待=改變狀態 這裏 小孩 這個 說-話.主事焦點 青蛙 進行=2SG.主格 哪裡 說
+
+#e The frog was not there. The kid kept saying ‘where did my frog go?’
+#c 青蛙不在，小孩一直在那個地方一直叫他養的青蛙到底去哪裡?
+#a 227.46, None, 233.81
+
+112.
+...(1.5) ei! ara-kicacʉ manu isi ararakau puka.\
+INT become-shocked kid this show owl
+INT 變成-驚嚇 孩子 這個 出現 貓頭鷹
+
+#e The kid was shocked by the coming out of the owl.
+#c 那個貓頭鷹出來了，小朋友嚇了一跳。
+#a 233.81, None, 238.29
+
+113.
+... ararakau sua puka isi na tarako ni-aranai na tarako ara-pa-pining.\
+show NOM owl this LOC hole PFV-come.from LOC hole become-RED-outdoor
+出現 主格 貓頭鷹 這個 處所 洞穴 完成-出現 處所 洞穴 變-重複-戶外
+
+#e The owl came out from the hole. It came from the hole to the outside.
+#c 那個貓頭鷹出來，那個小朋友嚇了一跳就跌下來，狗也驚怕到就跑走了。
+#a 238.29, None, 242.65
+
+114.
+... matapari’i  sua manu isi  na ’ʉnʉ’ʉnai care==en=cu.\
+fall NOM kid this LOC earth pity=COS
+跌 主格 小孩 這個 處所 地上 可憐=改變狀態
+
+#e The child fell down to the earth. It is pitiful of him.
+#c 那小孩從那個樹跌下來 很可憐。
+#a 242.65, None, 245.77
+
+115.
+... m-anguru nguain tamna tamtitu.\
+AF-escape 3SG.NOM POSS doggy
+主事焦點-逃跑 3SG.主格 屬於 小狗
+
+#e His doggy ran away.
+#c 他的小狗逃走了。
+#a 245.77, None, 248.3
+
+116.
+... m-anguru nguain tamna tamtitu ʉngcaa anu kecan-can-can pariku na tamtitu isi.\
+AF-escape 3SG.NOM POSS doggy there bee <RED>swarm chase LOC doggy this
+主焦-逃走 3SG.主格 屬於 小狗 那裡 蜜蜂  <重疊>一群 追 處所 小狗 這個
+
+#e The doggy ran away because it was being chased by a swarm of bees.
+#c 後來，狗在跑的時候，原來一群蜜蜂就跟著他在追他。
+#a 248.3, None, 255.68
+
+117.
+...(2.0) po-kari ʉ ara-pa-pining ’una puka.\
+say-word.AF FIL become-RED-outdoor EXIST owl
+說-話語.主事焦點 FIL 變成-重疊-戶外 存在 貓頭鷹
+
+#e He kept calling that dog, and that owl came out.
+#c 他後來一直叫（但那隻狗沒有回應），然後貓頭鷹就出來。
+#a 255.68, None, 261.49
+
+118.
+...(0.7) makahua=cu manu isi m-opara na karu a-ngʉco na vatu.\
+do.like.that=COS kid this AF-climb LOC tree FIL LOC stone   
+就那樣=改變狀態 孩子 這個 主焦-爬 處所 樹 FIL 處所 石頭 
+
+#e Then the kid climbed a tree… oh a stone.
+#c 後來小朋友就爬到樹上…阿不是拉，是石頭上。
+#a 261.49, None, 266.75
+
+120.
+... ka’an-ʉva ka vutun.\
+NEG-originally be deer
+不是-原來 是 鹿
+
+
+#e But, it’s not a tree. It’s a deer.
+#c 原來不是，是鹿。
+#n ka 幫助這句話表達更明確
+#a 272.72, None, 274.79
+
+121.
+...(0.9) ’an tavarʉ’ʉ  makahi nen nin-para na vatu ’esi  vutun nehi.\
+NEG can do.like.this what AF-climb LOC stone LOC deer here
+否定 可以 就這樣 什麼 主焦-爬 處所 石頭 處所 鹿 這裡
+
+#e He doesn’t know that the deer was still there.
+#c 他不知道那個鹿還在那裡。
+#n 小男孩自以為說那棵很多樹枝的是樹。
+#a 274.79, None, 281.73
+
+122.
+... cʉpʉng=in ia, karu nimacacaa m-on na ’inia.\
+heart=3SG.GEN TOP tree bushy AF-stay LOC there
+心=3SG.屬格 主題 樹 很多樹枝 主焦-待 處所 那裏
+
+#e He thought that was a tree, and he stood above the stone.
+#c 他認為說旁邊那顆是樹，他在石頭上。
+#a 281.73, None, 284.81
+
+123.
+.. makahua=cu tamtinu  ia, ’esi na ’ʉnʉ’ʉnai m-on na ’inia ’esi ma-’icʉpʉ.\
+do.like.that=COS doggy TOP LOC LOC RED-earth AF-stay LOC there PROG AF-scared
+就那樣=改變狀態 小狗 主題 處所 處所 RED-土地 主事焦點-待在 處所 那裏 進行 主焦-害怕
+
+#e Therefore, the dog was on the ground, scared very much.
+#c 就這樣 小狗在地上，一直在怕。
+#a 284.81, None, 288.97
+
+124
+...(0.8) ’e itarʉ-n  kee sua nguain tamna tacau.\
+PROG wait-PF=3SG.GEN NOM 3SG.NOM POSS dog
+進行 等待-受焦=3SG.屬格 主格 3SG.主焦 屬於 狗
+
+#e He was waiting his dog.
+#c 他在等他的小狗。
+#n ’esi = e
+#a 288.97, None, 294.75
+
+125.
+... makahi nesi ’esi=pa nin-para na vatu manu isi, ka’an tavarʉ’ʉ vutunu-ava  mihee.\
+do.like.this here PROG=still PFV-climb LOC stone kid this NEG can deer-originally say
+這樣做 這裡 進行=還 完成-爬 處所 石頭 小孩 這個 否定 可以 鹿-原來 說
+
+#e When it came to this moment, the boy was still standing above the stone, he didn’t know that was a deer.
+#c 事情來到這個時候  他還在爬到石頭上 他不知道原來是鹿。
+#a 294.75, None, 301.08
+
+126.
+...(1.5) makahua=cu makasi=cu sian po-kari na tacau isi._
+do.like.that=COS this.way=COS here say-word LOC dog this
+就那樣=改變狀態 這樣=改變狀態 這裡 說-話語 處所 狗 這個
+
+#e Then, the kid kept calling his dog.
+#c 就這樣，到這裡。他一直叫他的狗。
+#a 301.08, None, 307.1
+
+127.
+...(0.8) ’e po-kari-in=kee manu isa nin-para na vutun.\
+PROG say-word-PF=3SG.GEN kid that PFV-climb LOC  deer
+進行 說-話語-受焦=3SG.屬格 小孩 那個 完成-爬 處所 鹿
+
+#e The dog was barking at that dog for his mounting the deer.
+#c 狗在叫那小孩子爬到鹿的上面。
+#n 小狗在叫他的主人爬到鹿的上面。
+#a 307.1, None, 311.07
+
+128.
+... matapari’i na ’ʉnʉ’ʉnai  sua canumu isi tin-tinivisa, ararakau vutun.\
+AF-fall LOC RED-earth NOM water this RED-edge come.out.AF deer
+主焦-跌倒 處所 重疊-土地 主格 水 這個 重疊-邊緣 出來.主焦 鹿
+
+#e It fell on the ground, where was the edge of water. The deer came out.
+#c 跌在地上 原來是水的邊緣，然後鹿就來。
+#a 311.07, None, 317.03
+
+129.
+... makahua=cu== sua vutun ihi ia,\
+do.like.that=COS NOM deer this TOP
+就這樣=改變狀態 主格 鹿 這個 主題
+
+#a 317.03, None, 321.81
+
+130.
+... m-oha na tin-tinivisa manasU tia manguru mihee ai-yo.\
+AF-go LOC RED-edge perhaps IRR escape say INT
+主事焦點-去 處所 重疊-邊緣 或許 非實現 逃跑 說  驚嚇音
+
+#e Then, the deer ran to the edge of the water. It seemed like that the deer wanted to ran away.
+#c 就這樣，這個鹿跑到邊緣，他以為鹿像是要跑掉。
+#a 321.81, None, 325.69
+
+131.
+...(0.8) tavarʉ’ʉ=cu manu isa tu, isi-eva ia, vutun.\
+know=COS kid that  <L2BtuL2B> this-originally TOP deer
+知道=改變狀態 孩子 那個 <L2BtuL2B> 這個-原來 主題 鹿
+
+#e The kid understood this was a deer!
+#c 小孩知道了 這個原來是鹿。
+#a 325.69, None, 330.63
+
+132
+...(0.7) ka’anʉ-va karu nimacaca’a m-atapri’i ha manu mata tamtitu=in ni-aranai na vanvaniri m-atapari’i ’ʉnʉ’ʉnai.\
+NEG-originally tree bushy AF-fall FIL kid and doggy=3SG.GEN fall earth PFV-from LOC slope AF-fall RED-earth
+否定-原來 樹 樹枝很多 主事焦點-跌倒 FIL 小孩 和 小狗=3SG.屬格 主焦-跌 土地 完成-來自 處所 斜坡 主焦-跌倒 重疊-土地
+
+#e As he found that wasn’t a bushy tree, he and his doggy was stunned and fell on the ground from the antlers and the slope. 
+#c 在他發覺不是樹的時候，小朋友和他的小狗就唉唷，從鹿角和斜坡跌到地上。
+#a 330.63, None, 340.54
+
+133.
+... makasua=cu ma-’icʉpʉ sua manu isi mata tamtitu, po-kari-in=kee.\
+do.like.that=COS AF-scared NOM kid this and doggy say-word-PF=3SG.GEN
+就那樣=改變狀態 主焦-害怕 主格 小孩 這個 和 小狗 說-話語-受焦=3SG.屬格
+
+#e Then, both of the kid and the doggy were really afraid. They were crying .
+#c 這個時候，狗跟那個小朋友一直在害怕,然後他們就一直叫。
+#a 340.54, None, 346.08
+
+134.
+... matapari’i nesi na canum.\
+AF-fall here LOC water
+主焦-跌 這裏 處所 水 阿姨  
+
+
+#e They fell on a pool of water.
+#c 他們掉在這個水上。
+#a 346.08, None, 348.48
+
+135.
+... ni-m-atapari’i na canumu  makasi=cu canum.\
+PFV-AF-fall LOC water do.this.way=COS water
+完成-主焦-跌 處所 水 這樣做=改變狀態 水
+
+#e (They) therefore fell into the water.
+#c 掉到水中，就這樣子在水中。
+#a 348.48, None, 351.48
+
+136.
+... sua tamtitu ia, mo-para na manu tamna navungu ma-’icʉpʉ.\
+NOM doggy TOP AF-climb LOC kid POSS head AF-scared
+主格 小狗 主題 主焦-爬 處所 小孩 屬於 頭 主焦-害怕
+
+#e The dog climbed to the boy and very scared.
+#c 後來小狗因為怕，爬到小朋友頭上。
+#a 351.48, None, 356.44
+
+137.
+...(0.7) ma-i’icʉpʉ si ni-musikarʉ na canum.\
+AF-scared because PFV-enter LOC water 
+主事焦點-害怕 因為 完成-進去 處所 水
+
+#e The dog was scared due to falling into the water.
+#c 狗因為掉進水裡面，所以就怕。
+#a 356.44, None, 360.3
+
+138.
+... makasua=cu sua manu isi m-oon na nesi po-kari, ‘takarura ’esi=kasu nanu.’\
+do.like.that=COS NOM kid this AF-stay LOC here say-word frog LOC=2SG.NOM where
+這樣做=改變狀態 主格 小孩 這個 主焦-待 處所 這裡 說-話 青蛙 處所=2SG.主格 哪裡
+
+#e At the time, the boy kept calling the frog, saying ‘frog, where are you?’
+#c 這個時候，小主人就一直叫：「我的青蛙我的青蛙你在哪裡？」
+#a 360.3, None, 365.63
+
+139.
+.. ’una karu maringuna isi ’una tarako tesikar=en.\
+EXIST tree dry this EXIST hole inside=3SG.GEN
+存在 樹 乾 這個 存在 洞 裡面=3SG.屬格
+#e There was a dried tree, inside which there was a hole.
+#c 有一個乾的樹，樹裡有一個洞。
+#a 365.63, None, 369.77
+
+140.
+... a sua tamtitu=in ’esi na canumu m-akananguru tekirim nguain tamna takarura.\
+FIL NOM doggy=3SG.GEN PROG LOC water swim search 3SG.NOM POSS frog
+FIL 主格 小狗=3SG.屬格 進行 處所 水 主焦-游泳 尋找 3SG.主格 屬於 青蛙
+
+#e His dog was swimming in the water searching his frog.
+#c 他的小狗在水裡游泳，尋找他的青蛙。
+#a 369.77, None, 376.97
+
+141.
+...(1.1) m-on nesi tamtitu=in mosikarʉ na vatu ʉ karu tarako isi mata manu ihi tu.\
+AF-stay here dog=3SG.GEN enter LOC FS FIL tree hole this and kid this <L2BtuL2B>
+主焦-待 這裡 小狗=3SG.屬格 進入 處所 FS FIL 樹 洞 這個 和 小孩 這個 <L2BtuL2B>
+
+#e He and his dog entered the tree hole.
+#c 他自己跟他的小狗在這裡，叫小狗進到樹洞裡。
+#a 376.97, None, 385.6
+
+142.
+... takarura takarura  ’esi=kasu nan ‘mehen ’akia’.\
+frog frog PROG=2SG.NOM where why EXIST.NEG
+青蛙 青蛙 進行=2SG.主格 哪裡 為什麼 存在.否定                                 
+
+#e Both they said, ‘Frog, frog where are you?’
+#c 兩個一直同時說：「青蛙青蛙你在哪裡?」
+#a 385.6, None, 389.29
+
+143.
+... makasi=cu te-kiri-kirim-in=kee kipa<pa>pa na  karu maringuna ihi.\
+do.like.this=COS find<RED>-PF=3SG.GEN along<RED> LOC tree dry this
+這樣做=改變狀態 尋找<重疊>-受焦=3SG.屬格 順著<重疊> 處所 樹木  乾
+
+#e They were keeping searching the frog around the tree.
+#c 他們沿著樹的周邊一直在找。
+#a 389.29, None, 396.27
+
+144.
+... nin-para tamtitu mata manu isi na karu po-kari tu ’esi=kasu nanu takarura ara-papining-a=cu.\
+PFV-climb doggy and kid this LOC tree say-word <L2BtuL2B> PROG=2SG.NOM where frog become-out-IMP.AF=COS
+完成-爬 小狗 和 小孩 這個 處所 樹木 說-話語 <L2BtuL2B> 進行=2SG.主格 哪裡 青蛙 變成-外面=改變狀態
+
+#e The doggy and the boy climbed the dried tree saying, ‘where are you frog? Come out, please!’
+#c 後來狗跟小孩爬到乾樹上說：「青蛙青蛙你在哪？請你出來。」
+#a 396.27, None, 404.73
+
+145.
+... ’an=pa ara-pa-pining, ara-pa-pining ara-kicacʉ.\
+NEG=still become-RED-outside become-RED-outside become-shocked
+否定=仍然 變成-重疊-外面 變成-重疊-外面 變成-驚嚇
+
+#e The frog didn’t come out for some time. They were shocked when the frog suddenly appeared.
+#c 這青蛙一直沒有出來。牠一出來的時候他們嚇了一跳。
+#a 404.73, None, 408.01
+
+146.
+... manu isa mata tamtitu-ava ’esi takarura mecocua.\
+kid that and doggy-originally PROG frog walk.side.by.side
+小孩 那個 和 小狗-原來 進行青蛙 兩者同行
+
+#e The kid and the doggy found that the frog had been walking with another frog!
+#c 小孩和小狗看見青蛙原來兩隻在一起。
+#n Manu isi mata tamtitu tarakusa na  takarura is-eva mecocua sua takarura.
+#a 408.01, None, 412.62
+
+147.
+... isi-ava nimta takarura ihi tekirim karʉ=en.\
+this-originally lost frog this find lover=3SG.GEN 
+這個-原來 失蹤 青蛙 這個 尋找 愛人=3SG.屬格
+
+#e It was because that his lost frog had found his frog lover. 
+#c 原來他失蹤了這個青蛙找到他的愛人。
+#n ni-mʉtʉa karʉen 失蹤的愛人
+#a
+
+148.
+.. ai-yo itumuru karʉ=en cʉrʉ-ʉn itumuru ma-cang-cangarʉ manu isi ('es)i na vatu mata tamtitu.\
+INT a.lot lover=3SG.GEN see-PF a.lot AF-RED-happy kid this PROG LOC rock and doggy
+INT 多 愛人=3SG.GEN 看-受焦 多 主焦-重疊-開心 孩子 這個 進行 處所 石頭 和 小狗
+
+#e Oops, so many lovers were seen by the boy and his doggy who were happy standing on the rock.
+#c 真的，原來這個青蛙在離開我們的時候，認識了很多他的朋友，兩位很高興地站在石頭上。
+#a 412.62, None, 420.31
+
+149.
+... cʉ’ʉrʉ-ʉn=kee takarur=en  cucur-ova takarura=mita ia, t<en>ikirim karʉ=en.\
+see-PF=3SG.GEN frog=3SG.GEN RED-true-originally frog=3PL.GEN TOP <PFV>find lover=3SG.GEN
+看-受焦=3SG.屬格 青蛙=3SG.屬格 重疊-真的=原來 青蛙=3PL.屬格 主題 <完成>-找到 愛人=3SG.屬格
+
+#e He saw his frog. Our frog had found its lover!
+#c 他看到他們青蛙，原來我們的青蛙找到了他的愛人!
+#a 420.31, None, 427.17
+
+150.
+...(0.7) tekirim karʉ=en takarura kangvang._
+find lover=3SG.GEN frog also
+找到 愛人=3SG.屬格 青蛙 也
+
+#e The lover it found was also a frog. 
+#c 他找的愛人也是青蛙。
+#a 427.17, None, 433.0
+
+151.
+.. kecancancan. ’an=cu ʉtʉ-ʉn=kee  nguain tamna tamtitu mata tacau,\
+walk.together-RED NEG=COS  find-PF=3SG.GEN 3SG.NOM POSS doggy and dog
+一起走 否定=改變狀態 找-受焦=3SG.屬格 3SG.主格 屬於 小狗 和狗
+
+#a 433.0, None, 436.2
+
+152.
+.. ?? si isi-ava nimʉtʉa karʉ=en apa-ka-rʉ-rʉ’ʉ nesi na ka-karʉ=en._
+?? because this-originally PFV-AF-find lover=3SG.GEM CAU-be-RED-love here LOC RED-love=3SG.GEN
+?? 因為 這個-原來 完成-主焦-找 愛人=3SG.屬格 使役-成為-重疊-愛 這裡 處所 重疊-愛=3SG.屬格
+
+#e The frog was getting along with other frogs well. It seemed not to see its master and the dog, because it had found many other good friends.                      
+#c 青蛙們一起在走。他似乎不認識了他的小主人和狗，因為他找到了很多的朋友彼此都很友好。
+#a 436.2, None, 442.22
+
+153.
+.. ’an=cu tia m-oha na tanasa makahia manu mata tamtitu.\
+NEG=COS IRR AF-go LOC house do.like.this kid and doggy
+否定=改變狀態 非實現 主焦-去 處所 家屋 這樣做 小孩 和 小狗
+
+#e  ‘The frog would not like to go home,’ the kid and the doggy thought.
+#c 小主人跟小狗這樣想：「這個青蛙不想回家。」
+#a 442.22, None, 449.75
+
+154. 
+...(0.9) takarura moca=cu=kita tanasa,_
+frog AF-walk=COS=1PL.NOM.EXCL house 
+青蛙 主焦-走=改變狀態=1PL.主格.排除 家屋
+
+#a 449.75, None, 454.17
+
+155.
+... sua karʉan=su makinanu m-on sian.\
+NOM lover=2SG.GEN no.problem AF-stay here
+主格 愛人=2SG.屬格 沒關係 主焦-待 這裡
+
+#e Let’s go, frog. It’s ok that your lover stay here.
+#c 青蛙，我們回家。你的朋友待在這裡沒關係的。
+#a 457.32, None, 460.35
+
+156.
+... makahua ci sosomanpe sosomanpe karʉ-a takarura sosomanpe.\
+do.like.that=COS thank thank love-REL frog thank
+就這樣=改變狀態 謝謝 謝謝 愛-關係詞 青蛙 謝謝
+
+#e Then, they just thanked his frog’s lover.
+#c 就這樣，他們就說謝謝。
+#a 460.35, None, 468.98

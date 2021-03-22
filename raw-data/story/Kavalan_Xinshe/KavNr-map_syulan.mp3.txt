@@ -1,0 +1,338 @@
+topic: Map
+type: Narrative
+language: 噶瑪蘭語, Kavalan, Xinshe(新社)
+speaker: 謝潘秀蘭, Syulan, female, 1957-01-01
+collected: 2003-06-01
+revised: None
+video: KavNr-map_syulan.mp3
+
+1.
+e==,\
+FIL
+FIL
+
+#a 4.14, None, 4.68
+
+2.
+.. ta-lepaw-an ni buya,\
+LOC-house-LOC GEN PN
+處格-家-處格 屬格 人名
+
+#a 4.68, None, 5.84
+
+3.
+.. syangatu s<m>aqay.\
+begin <AF>walk
+開始 <主焦>走
+
+#e Starting from Buya’s house,
+#c 從Buya的家開始走。
+#a 5.84, None, 7.29
+
+4.
+...(0.7) m-laziw tu==,\
+AF-cross OBL
+主焦-穿過 斜格
+
+#a 7.29, None, 9.25
+
+5.
+.. iRuR.\
+river
+河
+
+#e (He) walked across the river.
+#c (他)穿過河。
+#a 9.25, None, 10.0
+
+6.
+...(0.8) nani,_
+DM
+DM
+
+#a 10.0, None, 11.52
+
+7.
+... matiw sa naung.\
+AF.go LOC mountain
+主焦.去 處格 山
+
+#e (He) went to a mountain.
+#c 然後去山上。
+#a 11.52, None, 12.96
+
+8.
+... ta-naung-an,\
+LOC-mountain-LOC
+處格-山-處格
+
+#e In the mountain,
+#c 在山上，
+#a 12.96, None, 14.06
+
+9.
+.. m==,\
+FIL
+FIL
+
+#a 14.06, None, 14.96
+
+10.
+.. t<m>ita,\
+<AF>see
+<主焦>看
+
+#a 14.96, None, 15.74
+
+11.
+... tayta-an-na==,_
+see-LF-3SG.GEN
+看-處焦-3SG.屬格
+
+#a 15.74, None, 17.28
+
+12.
+... babuy na naung.\
+pig GEN mountain
+豬 屬格 山
+
+#e He saw a boar.
+#c 他看到山豬。
+#a 17.28, None, 18.88
+
+13.
+... s<um>niz ta pawa,\
+<AF>come.down FS FS
+<主焦>下來 FS FS
+
+#a 18.88, None, 20.63
+
+14.
+.. pa ta-naung-an nani.\
+FS LOC-mountain-LOC DM
+FS 處格-山-處格 DM
+
+#e (He) came down (from) the mountain.
+#c 從山上下來。
+#a 20.63, None, 22.12
+
+15.
+... matiw ta-lepaw-an  ni==,\
+AF.go LOC-house-LOC GEN
+主焦.去 處格-家-處格 屬格
+
+#a 22.12, None, 24.22
+
+16.
+.. utay.\
+PN
+人名
+
+#e (He) went to Utay’s house.
+#c 去UTAY的家裡。
+#a 24.22, None, 24.98
+
+17.
+...(0.8) eh u-zusa==,\
+FIL CLF.NHUM-two
+FIL 非人量詞-二
+
+#a 24.98, None, 26.41
+
+18.
+.. duki-an ta==-,\
+hour-AN LOC-
+小時-AN 處格-
+
+#a 26.41, None, 27.16
+
+19.
+.. lepaw-an ni utay.\
+house-LOC GEN PN
+家-處格 屬格 人名
+
+#e (He spent) two hours at Utay’s house.
+#c 在Utay家裡待了兩個小時。
+#a 27.16, None, 28.25
+
+20.
+... nani.\
+DM 
+DM
+
+#a 28.25, None, 28.88
+
+21.
+... eh,_
+FIL
+FIL
+
+#a 28.88, None, 29.7
+
+22.
+... s<um>niz=ti.\
+<AF>come.down=PFV
+<主焦>下來=完成
+
+#e (He) came down (from Utay’s house).
+#c 然後(從Utay家裡)下來(/出來)，
+#a 29.7, None, 31.05
+
+23.
+...(1.1) matiw==,\
+AF.go
+主焦.去
+
+#a 31.05, None, 33.12
+
+24.
+.. pasa kawanan.\
+toward right
+往 右邊
+
+#e (He) went towards the right.
+#c 往右邊，
+#a 33.12, None, 34.47
+
+25.
+... s<m>aqay,_
+<AF>walk
+<主焦>走
+
+#e (He) walked.
+#c 走。
+#a 34.47, None, 35.72
+
+26.
+... yau ta-kinil-an na kawanan,\
+EXIST LOC-beside-LOC GEN right
+存在 處格-旁邊-處格 屬格 右邊
+
+#a 35.72, None, 37.77
+
+26.
+... yau ta-kinil-an na kawanan,\
+EXIST LOC-beside-LOC GEN right
+存在 處格-旁邊-處格 屬格 右邊
+
+#a 35.72, None, 37.77
+
+28.
+... iki.\
+pond
+池塘
+
+#e There was a pond on the right.
+#c 在右邊的旁邊有個池塘。
+#a 38.41, None, 39.23
+
+29.
+... s<m>aqay nani,\
+<AF>walk DM
+<主焦>走 DM
+
+#a 39.23, None, 40.64
+
+30.
+.. m-laziw tu==,\
+AF-cross OBL
+主焦-穿過 斜格
+
+#a 40.64, None, 41.53
+
+31.
+.. iRuR,_
+river
+河
+
+#e (He) walked across a river.
+#c 他走過河。
+#a 41.53, None, 42.21
+
+32.
+... nani.\
+DM 
+DM
+
+#a 42.21, None, 43.33
+
+33.
+...(0.8) m-uman pasa ngayaw,\
+AF-again toward front
+主焦-再 往 前面
+
+#a 43.33, None, 44.95
+
+34.
+.. s<m>aqay nani,\
+<AF>walk DM
+<主焦>走 DM
+
+#e (He) continued walking ahead.
+#c 繼續往前走。
+#n m-uman s<m>aqay有兩種意思:「重新走」或「繼續走」。
+#a 44.95, None, 45.98
+
+35.
+.. m,\
+FIL
+FIL
+
+#a 45.98, None, 46.42
+
+36.
+.. m-laziw tu==,\
+AF-cross OBL
+主焦-穿過 斜格
+
+#a 46.42, None, 47.75
+
+37.
+... zena.\
+paddy.field
+水田
+
+#e (He) crossed a paddy field.
+#c (他)經過(穿過)水田。
+#a 47.75, None, 48.63
+
+38.
+...(0.8) m-laziw tu zena,\
+AF-cross OBL paddy.field
+主焦-穿過 斜格 水田
+
+#a 48.63, None, 50.27
+
+39.
+.. pasa ngayaw s<m>aqay nani==,_
+toward front <AF>walk DM
+往 前面 <主焦>走 DM
+
+#e He crossed a paddy field and walked ahead,
+#c (他)經過水田往前走，
+#a 50.27, None, 52.01
+
+40.
+... m-laziw tu mwaza.\
+AF-cross OBL many.NHUM
+主焦-經過 斜格 多.非人
+
+#a 52.01, None, 53.97
+
+41.
+...(0.9) paRin,_
+tree
+樹
+
+#e (He) crossed a lot of trees.
+#c 經過很多樹。
+#a 53.97, None, 55.38
+
+42.
+... maseq=ti tu lepaw.\
+AF.arrive=PFV OBL house
+主焦.到達=完成 斜格 家
+
+#e (He) arrived at home.
+#c 到家了。
+#a 55.38, None, 56.94

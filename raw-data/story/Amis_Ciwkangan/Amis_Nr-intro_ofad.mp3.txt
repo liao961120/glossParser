@@ -1,0 +1,1018 @@
+topic: Introduction
+type: Narrative
+language: 阿美語, Amis, Ciwkangan(台東縣長光社區)
+speaker: 陳金龍, Ofad, male, None
+collected: 2005-07-08
+revised: 2014-1-16
+video: Amis_Nr-intro_ofad.mp3
+
+1.
+nga’ay=ho,\
+good=IMPFV
+好=未完成
+
+#e Hello.
+#c 大家好。
+#a 0.9, None, 1.52
+
+2.
+...(0.7) ci==,\
+NCM.SG
+NCM.SG
+
+#a 1.52, None, 2.85
+
+3.
+.. Ofad   Kacaw   ku==,\
+PN    PN      NOM
+人名   人名    主格
+
+#a 2.85, None, 4.0
+
+4.
+.. ngangan   aku.\
+name     1SG.GEN
+名字      1SG.屬格
+
+#e My name is Ofad Kacaw.
+#c 我的名字是Ofad Kacaw。
+#a 4.0, None, 4.77
+
+5.
+...(0.8) u niyaro’ aku,\
+CN hometown 1SG.GEN
+CN 故鄉 1SG.屬格
+
+#a 4.77, None, 6.47
+
+6.
+.. itira    i        pusun,\
+there   LOC     PN
+那裡   處格     地名
+
+#a 6.47, None, 7.55
+
+7.
+.. i     kakacawan	,\
+LOC  PN
+處格  地名
+
+#a 7.55, None, 8.66
+
+8.
+.. ku     ciwkangan.\
+NOM   PN
+主格   地名
+
+#e My hometown is in Ciwkangan, in Taitung, in Kakacawan.
+#c 我的故鄉在台東長濱長光。
+#a 8.66, None, 9.88
+
+9.
+...(0.7) na  nu    emang  ku  XXX,\
+PAST    GEN  young  NOM  XXX
+過去   屬格   年輕   主格   XXX
+
+#a 9.88, None, 12.41
+
+10.
+.. itira    i,_
+there	 LOC
+那裡 處格
+
+#a 12.41, None, 13.11
+
+11.
+.. ciwkangan  a    ma-tuas.\
+PN    LNK      AF-grow.up
+地名    連詞   主焦-長大
+
+#a 13.11, None, 14.2
+
+12.
+... tahira  i   tulu,\
+until   LOC  three
+到    處格  三
+
+#a 14.2, None, 16.3
+
+13.
+.. ku    safaw   nu    miheca-an.\
+NOM  ten   GEN   year-AN
+主格  十   屬格   年-AN
+
+#e I grew up in Ciwkangan until I was thirteen.
+#c 我從小就在長光部落長大，一直到十三歲。
+#a 16.3, None, 17.54
+
+14.
+... mi-liad   tu    luma’,\
+AF-leave    OBL  home
+主焦-離開   斜格   家
+
+#a 17.54, None, 19.02
+
+15.
+.. tayra    i,\
+go   LOC
+去   處格
+
+#a 19.02, None, 19.67
+
+16.
+.. heto   a     mi-tilid.\
+PN    LNK   AF-study
+地名   連詞  主焦-讀書
+
+#a 19.67, None, 20.87
+
+17.
+... tahira=tu   i    kokiw,\
+until=PFV   LOC    high.school
+到=完成   處格   高中
+
+#a 20.87, None, 23.22
+
+18.
+.. ma-herek,\
+AF-finish
+主焦-結束
+
+#a 23.22, None, 23.78
+
+19.
+... mi-sawad=tu     itira,\
+AF-graduate=PFV    there
+主焦-畢業=完成    那裡
+
+#e (I) left home and went to Pingtung to study until I graduated from high school.
+#c （我）離開家到屏東讀書，一直到高中畢業以後。
+#a 23.78, None, 25.37
+
+20.
+...(1.5) mi==-,\
+AF-
+主焦-
+
+#a 25.37, None, 27.56
+
+21.
+.. harakat=tu   tu==,\
+start=PFV   OBL
+開始=完成  斜格
+
+#a 27.56, None, 28.56
+
+22.
+.. saka-la-hitai.\
+SAKA-LA-army
+SAKA-LA-軍隊
+
+#e I was about to serve in the army.
+#c 我準備當兵。
+#a 28.56, None, 29.34
+
+23.
+.. ma-herak=tu   a    mala-hitai,\
+AF-finish=PFV  LNK    become-army
+主焦-結束=完成  連詞  成為-軍隊
+
+#a 29.34, None, 30.67
+
+24.
+... u    sa-suwal    nu   matuasay,\
+CN   SA-talk     GEN    elder.person
+CN    SA-說話   屬格   老人
+
+#a 30.67, None, 33.19
+
+25.
+.. ma-edeng=tu    kisu,\
+AF-suitable=PFV   2SG.NOM
+主焦-適合=完成    2SG.主格
+
+#a 33.19, None, 34.13
+
+26.
+.. u   fahinayan=tu   kisu.\
+CN    male=PFV   2SG.NOM
+CN    男性=完成   2SG.主格
+
+#e After finishing the military service, the elderly said,‘You have become a grown-up man.’
+#c 退伍以後，老人家說，「你可以了。你已經是成年男子了。」
+#a 34.13, None, 35.41
+
+27.
+... ma-edeng=tu    kisu     ci-fafahi’,\
+AF-suitable=PFV   2SG.NOM    get-wife
+主焦-適合=完成   2SG.主格     有-老婆
+
+#a 35.41, None, 37.08
+
+28.
+.. sa’an   saka.\
+so     so
+如此   因此
+
+#e ‘You can marry now.’
+#c 「你可以結婚了。」
+#a 37.08, None, 37.7
+
+29.
+... itiya,\
+then
+那時
+
+#a 37.7, None, 38.51
+
+30.
+... u    roma    miheca,\
+CN   next   year
+CN   下一個   年
+
+#a 38.51, None, 39.84
+
+31.
+... ci-fafahi’=tu   kaku.\
+get-wife=PFV   1SG.NOM
+有-妻子=完成   1SG.主格
+
+#e Then, I got married the following year.
+#c 因此，隔年，我就結婚了。
+#a 39.84, None, 41.25
+
+32.
+...(0.9) ma-herek  ci-fafahi’   kaku,\
+AF-finish   get-wife     1SG.NOM
+主焦-結束   有-妻子     1SG.主格
+
+#a 41.25, None, 43.56
+
+33.
+.. tangsul    sa    tayni    i==,\
+immediately   SA  come    LOC
+立刻      SA    來     處格
+
+#a 43.56, None, 45.28
+
+34.
+... taypak.\
+Taipei
+台北
+
+#e After I got married, I came to Taipei immediately.
+#c 我結婚之後沒多久就到台北。
+#a 45.28, None, 46.57
+
+35.
+... itini   i   taypak    i==,_
+here   LOC  Taipei   DM
+這裡   處格 台北   DM
+
+#a 46.57, None, 48.13
+
+36.
+.. anu    saosi-en   ku	    miheca-an,\
+COND   count-PF    NOM   year-AN
+條件詞   算-受焦  主格   年-AN
+
+#a 48.13, None, 49.19
+
+37.
+.. itira    i==,_
+there    LOC
+那裡   處格
+
+#a 49.19, None, 49.7
+
+38.
+.. enem   polo’,\
+six   ten
+六   十
+
+#a 49.7, None, 50.51
+
+39.
+... ira    ku==,\
+EXIST   NOM
+存在   主格
+
+#a 50.51, None, 51.79
+
+40.
+.. saka==-,\
+ordinal-
+序數-
+
+#a 51.79, None, 52.51
+
+41.
+.. tulu.\
+three
+三
+
+#e It was around 1974 (when I came) to Taipei.
+#c 在台北算算年份，是在民國六十三年。
+#a 52.51, None, 53.0
+
+42.
+... ma-lumed,\
+AF-lucky
+主焦-幸運
+
+#a 53.0, None, 54.29
+
+43.
+.. aca   ku==,\
+PART  NOM
+語助詞   主格
+
+#a 54.29, None, 55.22
+
+44.
+.. ka-tayni  aku    i    taypak.\
+KA-come  1SG.GEN    LOC   Taipei
+KA-來    1SG.屬格   處格  台北
+
+#e I felt lucky to have come to Taipei.
+#c 我到台北來運氣非常好。
+#a 55.22, None, 56.42
+
+45.
+... roma   miheca,\
+next    year
+下一   年
+
+#a 56.42, None, 57.65
+
+46.
+.. tangsul    kaku    mi==-,\
+immediately  1SG.NOM   AF-
+立刻    1SG.主格     主焦-
+
+#a 57.65, None, 59.08
+
+47.
+... mi-sikin   tu    nu   pakayni    i,_
+AF-test    OBL  GEN  from.here   LOC
+主焦-考試   斜格  屬格  從這裡    處格
+
+#a 59.08, None, 61.37
+
+48.
+.. hikociw   a==,\
+airport  LNK
+航空站   連詞
+
+#a 61.37, None, 62.35
+
+49.
+.. sikin  saka.\
+test     so
+考試   因此
+
+#a 62.35, None, 63.28
+
+50.
+... itira   kaku    i==,\
+there  1SG.NOM   LOC
+那裡   1SG.主格  處格
+
+#a 63.28, None, 64.63
+
+51.
+.. ma-tayal    tah,\
+AF-work    FS
+主焦-工作   FS
+
+#a 64.63, None, 65.41
+
+52.
+... tahira   anini,\
+till      now
+到      現在
+
+#e The following year I immediately took an examination for a job at an airport; I am still working there now.
+#c 我隔年馬上參加航空站考試，在那邊服務一直到現在。
+#a 65.41, None, 66.46
+
+53.
+... tulu=tu     polo’  ku==,\
+three=PFV  ten     NOM
+三=完成    十     主格
+
+#a 66.46, None, 68.21
+
+54.
+.. miheca-an  ku,\
+year-AN  NOM
+年-AN  主格
+
+#a 68.21, None, 68.92
+
+55.
+.. tayal   aku      itira.\
+work  1SG.GEN  there
+工作  1SG.屬格   那裡
+
+#e I have worked there for thirty years.
+#c 我在那邊工作已經三十年了。
+#a 68.92, None, 69.84
+
+56.
+...(0.7) tunini-an   a,\
+this.OBL-AN    LNK
+這個.斜格-AN    連詞
+
+#a 69.84, None, 71.3
+
+57.
+.. tayal    nu    maku,\
+work   GEN   1SG.POSS
+工作   屬格  1SG.所有格
+
+#a 71.3, None, 72.23
+
+58.
+... pakayni-ay   tu    nu     pancah,\
+from.here-AY   TU     GEN     Amis
+從這裡-AY    TU     屬格   阿美語
+
+#a 72.23, None, 74.01
+
+59.
+.. itira  i     saka-,\
+there	   LOC  ordinal-
+那裡   處格  序數-
+
+#a 74.01, None, 74.95
+
+60.
+.. pitu,\
+seven
+七
+
+#a 74.95, None, 75.38
+
+61.
+.. polo’  miheca-an  sa,\
+ten    year-AN   SA
+十    年-AN     SA
+
+#a 75.38, None, 76.4
+
+62.
+.. ira  ku    lima.\
+EXIST  NOM   five
+存在   主格   五
+
+#e It is in 1986 that I engaged in the work on Amis.
+#c 我從事阿美族語的工作，是在七十五年。
+#a 76.4, None, 77.18
+
+63.
+... ma-lumed   kaku     itiya,\
+AF-lucky    1SG.NOM   then
+主焦-幸運   1SG.主格  那時
+
+#a 77.18, None, 78.85
+
+64.
+... ira    ci    Afan    a  singsi,\
+EXIST  NCM.SG.NOM   PN  LNK teacher
+存在   NCM.SG.主格   人名  連詞 老師
+
+#e I was lucky to meet Professor Afan.
+#c 那一年我很幸運，認識了Afan（方敏英）老師。
+#a 78.85, None, 80.7
+
+65.
+... mi-sanga’   kaku     tu,\
+AF-make    1SG.NOM   OBL
+主焦-作   1SG.主格    斜格
+
+#a 80.7, None, 82.12
+
+66.
+.. citen       nu    pancah,\
+dictionary  GEN   Amis
+字典      屬格   阿美語
+
+#a 82.12, None, 83.42
+
+67.
+.. sa’an   ku   suwal    nira        saka.\
+so      NOM   talk    3SG.GEN  so
+如此   主格    說話    3SG.屬格  因此
+
+#e ‘I am going to compile an Amis dictionary,’ he said.
+#c 他說：「我要製作阿美語的字典。」
+#a 83.42, None, 84.51
+
+68.
+.. mi-kilim-ay    tu,\
+AF-search-FAC   OBL
+主焦-尋找-FAC   斜格
+
+#a 84.51, None, 85.67
+
+69.
+.. mami,\
+MAMI
+MAMI
+
+#a 85.67, None, 86.22
+
+70.
+.. falic     tu,\
+translate  OBL
+翻譯    斜格
+
+#a 86.22, None, 87.23
+
+71.
+.. tilid   nu    pancah  malu-,\
+word  GEN   Amis   become-
+文字  屬格   阿美語   變成-
+
+#a 87.23, None, 88.48
+
+72.
+.. mi-falic   sa     nu==,\
+AF-translate  SA   GEN
+主焦-翻譯   SA    屬格
+
+#a 88.48, None, 90.05
+
+73.
+.. holam.\
+Chinese
+漢語
+
+#e He is looking for someone to translate Amis into Chinese.
+#c 他在找一位把翻譯阿美語的書翻成漢語的人。
+#a 90.05, None, 90.54
+
+74.
+... saka,\
+so
+因此
+
+#a 90.54, None, 91.45
+
+75.
+.. mi-tayal-ay   kaku     itiya,\
+AF-work-FAC  1SG.NOM    then
+主焦-工作-FAC   1SG.主格   那時
+
+#e Therefore I accepted the job then.
+#c 所以我在那個時候工作。
+#a 91.45, None, 92.61
+
+76.
+... sa-rakat  aku     mi-camul    a     mi-tayal,\
+SA-walk   1SG.GEN  AF-participate   LNK   AF-work
+SA-走路    1SG.屬格   主焦-參與   連詞   主焦-工作
+
+#a 92.61, None, 95.3
+
+77.
+.. tu   tilid     nu    pancah  itiya.\
+OBL   word   GEN    Amis   then
+斜格  文字    屬格   阿美語   那時
+
+#e It was the first time that I participated in the work on the Amis language.
+#c 在那個時候我首次參與阿美語文的工作。
+#a 95.3, None, 96.75
+
+78.
+.. ta,\
+then
+才
+
+#a 96.75, None, 97.18
+
+79.
+.. ma-fana’   kaku=tu       ka,\
+AF-know   1SG.NOM=PFV   FS
+主焦-知道   1SG.主格=完成   FS
+
+#a 97.18, None, 98.76
+
+80.
+... tada,\
+very
+非常
+
+#a 98.76, None, 100.28
+
+81.
+.. ka-fangcal  ku,\
+KA-good  NOM
+KA-好     主格
+
+#a 100.28, None, 101.65
+
+82.
+... tilid   nu     pancah,\
+word   GEN    Amis
+文字   屬格    阿美語
+
+#e From then on, I realized that the Amis language is beautiful.
+#c 從那時我才知道阿美語文非常的優美。
+#a 101.65, None, 103.06
+
+83.
+.. u    caciaw  nu   pancah,\
+CN  speech  GEN   Amis
+CN 話語   屬格    阿美語
+
+#a 103.06, None, 104.32
+
+84.
+.. u      facu	    nu     pancah,\
+CN   structure  GEN   Amis
+CN  結構     屬格   阿美語
+
+#a 104.32, None, 105.67
+
+85.
+.. ma-e’min   a     fangcal,\
+AF-all     LNK    good
+主焦-全部   連詞   好
+
+#e The speech and the structure of the Amis language are all beautiful.
+#c 阿美語和它的結構，全部都優美。
+#a 105.67, None, 106.65
+
+86.
+... saka  itiya   sa=tu   kaku,\
+so   then  SA=PFV    1SG.NOM
+因此  那時  SA=完成  1SG.主格
+
+#a 106.65, None, 108.36
+
+87.
+... mi-nengneng,\
+AF-look
+主焦-看
+
+#a 108.36, None, 109.57
+
+88.
+.. ma-nga’ay  kini,\
+AF-good   DM
+主焦-好    DM
+
+#a 109.57, None, 111.15
+
+89.
+.. pa-rayray-en    ku,\
+CAU-continue-PF  NOM
+使役-繼續-受焦    主格
+
+#a 111.15, None, 112.32
+
+90.
+.. tilid    nu     pancah,\
+word   GEN    Amis
+文字   屬格    阿美語
+
+#e Therefore, I realized that it was good to preserve the Amis language.
+#c 所以從那個時候，我發覺可以將阿美語的文字傳承下去。
+#a 112.32, None, 113.15
+
+91.
+.. sa’an  ku      falucu’   aku     itiya.\
+so     NOM   heart    1SG.GEN  then
+如此  主格   心    1SG.屬格    那時
+
+#e That was what I thought then.
+#c 當時我是如此想的。
+#a 113.15, None, 114.75
+
+92.
+... roma  miheca,\
+next   year
+下一   年
+
+#a 114.75, None, 116.13
+
+93.
+... tayra=tu   kaku      i==,\
+go=PFV    1SG.NOM  LOC
+去=完成   1SG.主格  處格
+
+#a 116.13, None, 117.66
+
+94.
+.. <L2MyanjiuyuanL2M>    a==,\
+Academia.Sinica  LNK
+研究院         連詞
+
+#a 117.66, None, 118.88
+
+95.
+... ma-tayal=tu,\
+AF-work=PFV
+主焦-工作=完成
+
+#a 118.88, None, 120.29
+
+96.
+.. mi-ala-ay     tu     ngiha’  nu==,\
+AF-collect-FAC   OBL  sound   GEN
+主焦-採集-FAC   斜格   音   屬格
+
+#a 120.29, None, 122.3
+
+97.
+.. matuasay=ho,\
+elder.person=IMPFV
+老人家=未完成
+
+#e The following year, I went to Academia Sinica to work and collect elders’ speech.
+#c 隔年我到了研究院工作，去採集老人家的口述。
+#a 122.3, None, 123.35
+
+98.
+... nawhani,\
+because
+因為
+
+#a 123.35, None, 124.74
+
+99.
+.. u    orip    nu    pancah,\
+CN   culture   GEN   Amis
+CN   文化   屬格     阿美族
+
+#a 124.74, None, 126.28
+
+100.
+... awa’ay    ku      tilid,\
+EXIST.NEG   NOM   word
+存在.否定    主格   文字
+
+#e Because there was no written language in Amis culture.
+#c 因為阿美族文化裡，沒有文字。
+#a 126.28, None, 127.64
+
+101.
+.. awa’ay      ku   suwal  saka  i<tini>tini  aca     i    kimad,\
+EXIST.NEG  NOM  talk    so    <RED>this  PART  LOC  narrative
+存在.否定   主格   話    因此   <重疊>這個 語助詞 處格  敘事
+
+#a 127.64, None, 130.57
+
+102.
+.. nu    pancah   a     mi-ala,\
+GEN   Amis   LNK  AF-collect
+屬格  阿美   連詞   主焦-收集
+
+#a 130.57, None, 131.73
+
+103.
+.. ta    ma-,\
+then  AF-
+才   主焦-
+
+#a 131.73, None, 132.49
+
+104.
+.. fana’   tu,\
+know   OBL
+知道    斜格
+
+#a 132.49, None, 133.5
+
+105.
+.. orip   nu    pancah   itiya=ho,\
+culture  GEN    Amis	   then=IMPFV
+文化    屬格  阿美族   那時=未完成
+
+#a 133.5, None, 135.2
+
+106.
+... tahira  sa  anini,\
+till    SA   now
+到  SA    現在
+
+#e Only by collecting Amis narratives could we learn about the Amis culture in the past and present.
+#c 僅僅能透過口述採集，才知道阿美族的文化，從古至今。
+#a 135.2, None, 136.73
+
+107.
+.. tahira   i,_
+till    LOC
+到    處格
+
+#a 136.73, None, 137.59
+
+108.
+.. falu   polo’    miheca-an  i,_
+eight   ten    year-AN  DM
+八    十    年-AN    DM
+
+#a 137.59, None, 139.12
+
+109.
+... mi-,\
+AF-
+主焦-
+
+#a 139.12, None, 140.29
+
+110.
+.. harakat=tu   ku,\
+start=PFV   NOM
+開始=完成   主格
+
+#a 140.29, None, 141.38
+
+111.
+.. sefu     nu   mita     tu,\
+government  GEN  1IPL.POSS   OBL
+政府    屬格     1IPL.所有格   斜格
+
+#a 141.38, None, 142.43
+
+112.
+.. pakayni-ay   i  doumi,\
+from.here-AY  LOC    FS
+從事-AY   處格       FS
+
+#a 142.43, None, 143.63
+
+113.
+.. <L2MduoyuanwenhuajiaoyuL2M>  hananay  saka.\
+multi-cultural.education   this.way    so
+多元文化教育      這樣    如此
+
+#e In the 90s, the government started multi-cultural education.
+#c 到了八十年，我們政府開始實施多元文化教育。
+#a 143.63, None, 145.79
+
+114.
+.. mala-singsi=tu     kaku,\
+become-teacher=PFV   1SG.NOM
+成為-老師=完成     1SG.主格
+
+#a 145.79, None, 147.19
+
+115.
+.. tu   nu   pancah.\
+TU   GEN   Amis
+TU   屬格   阿美語
+
+#e Therefore I became an Amis teacher.
+#c 所以那時候我當了阿美語老師。
+#a 147.19, None, 148.02
+
+116.
+... mi-kinkiw  mi-kadkad=tu     kaku,\
+AF-research    AF-research=PFV  1SG.NOM
+主焦-研究   主焦-調查=完成    1SG.主格
+
+#a 148.02, None, 150.12
+
+117.
+.. tu    tilid,\
+OBL   word
+斜格   文字
+
+#a 150.12, None, 150.66
+
+118.
+... tahira   i,_
+till    LOC
+到    處格
+
+#a 150.66, None, 151.87
+
+119.
+.. falu   polo’,\
+eight  ten
+八   十
+
+#a 151.87, None, 152.8
+
+120.
+.. enem   ku,\
+six   NOM
+六    主格
+
+#a 152.8, None, 153.77
+
+121.
+.. miheca-an.\
+year-AN
+年-AN
+
+#e I did research on the (Amis) language until 1997.
+#c 我研究探討文字直到八十六年。
+#a 153.77, None, 154.42
+
+122.
+...(0.8) haenhan  ku    pa-si-fana’     tu    wawa,\
+so      NOM  CAU-SI-know   OBL  child
+如此    主格   使役-SI-知道   斜格  小孩
+
+#a 154.42, None, 156.92
+
+123.
+.. ca’ay   ka==-,\
+NEG   KA-
+否定   KA-
+
+#a 156.92, None, 157.57
+
+124.
+.. reko    saka.\
+complete   so
+完全     因此
+
+#e This way of teaching children is not good enough.
+#c 如此教育小孩，不充實。
+#a 157.57, None, 158.49
+
+125.
+.. tuya    miheca,\
+that.OBL.INVIS    year
+那個.斜格.不可見   年
+
+#a 158.49, None, 159.75
+
+126.
+... mi-sanga   kaku      tu     cudad,\
+AF-make   1SG.NOM  OBL   book
+主焦-作    1SG.主格   斜格  書
+
+#a 159.75, None, 161.48
+
+127.
+... malu-,\
+become-
+成為-
+
+#a 161.48, None, 162.7
+
+128.
+... cudad   nu==,\
+book  GEN
+書   屬格
+
+#a 162.7, None, 164.16
+
+129.
+.. pa-si-fana’    tu==,\
+CAU-SI-know   OBL
+使役-SI-知道   斜格
+
+#a 164.16, None, 165.45
+
+130.
+.. wawa.\
+child
+小孩
+
+#e Thus I published a book that year, as teaching materials for children.
+#c 所以那一年我出版了一本書，作為教小孩用的書。
+#a 165.45, None, 165.95
+
+131.
+.. saka,\
+so
+因此
+
+#a 165.95, None, 166.74
+
+132.
+.. tahanini,\
+up.till.now
+至今
+
+#a 166.74, None, 167.39
+
+133.
+.. sa   ku==,\
+SA   NOM
+SA   主格
+
+#a 167.39, None, 167.98
+
+134.
+.. tayal   nu    maku    tu   pakayni-ay,\
+work  GEN  1SG.POSS   OBL    from.here-AY
+工作  屬格   1SG.所有格  斜格   從這裡-AY
+
+#a 167.98, None, 169.4
+
+135.
+.. tu    nu   pancah.\
+TU  GEN   Amis
+TU  屬格    阿美語
+
+#e Thus I worked on the Amis language up till now.
+#c 所以我從事阿美語文工作一直到現在。
+#a 169.4, None, 170.18

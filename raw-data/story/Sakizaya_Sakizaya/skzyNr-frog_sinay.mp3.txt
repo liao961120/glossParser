@@ -1,0 +1,878 @@
+topic: frog_sinay
+type: Narrative
+language: 撒奇萊雅語, Sakizaya, Sakizaya
+speaker: 林來億, Sinay, male, None
+collected: 2009-10-31
+revised: 2014-2-19
+video: skzyNr-frog_sinay.mp3
+
+1.
+...(2.7) hang,\
+yes
+是的
+
+#a 2.73, None, 3.58
+
+2.
+...(1.0) mi-sa-kamu kaku,\
+AF-do-speech 1SG.NOM
+主焦-做-話 1SG.主格
+
+#a 3.58, None, 6.06
+
+3.
+...(1.2) mu-liyaw aca a ma-hiza.\
+AF-repeat too LNK AF-that.way
+主焦-重複 也 連繫詞 主焦-那樣
+ 
+#e I would repeat what I said.
+#c 我要重複剛剛說的。
+#n IU1 中的 hang 常用在發語時，意思近似於是
+#a 6.06, None, 9.12
+
+4.
+... cay pi-melaw tu== cudad i ma-hini.\
+NEG PI-see OBL book PREP AF-this.way
+否定詞 PI-看 斜格 書 介系詞 主焦-這樣
+
+#e I would not read a book.
+#c 我不看書。
+#n i ma-hini 在此表示這時候；與 i ma-tiza那時候為相對，但i tawya 那時候較為常用
+#a 9.12, None, 12.17
+
+5.
+... E==,_
+FIL
+FIL
+
+#a 12.17, None, 13.39
+
+6.
+...(0.9) ina wawa tuyni u==,\
+that child OBL.that CN
+那個 小孩 斜格.那個 CN
+
+#a 13.39, None, 16.06
+
+7.
+...(1.0) melaw-en nu maku sa tatenga’,\
+see-PF GEN 1SG.POSS DM really
+看-受焦 屬格 1SG.所有格 DM 真的
+
+#a 16.06, None, 19.4
+
+8.
+...(0.5) tada,\
+very
+非常
+
+#a 19.4, None, 20.63
+
+9.
+...(0.6) u ma-pa-mul-ay nuyni u ina,\
+CN AF-CAU-leave-NMZ GEN.that CN mother
+CN 主焦-使動-離開-名物化 屬格.那個 CN 母親
+
+#a 20.63, None, 23.08
+
+10.
+.. a tu ama,_
+LNK OBL father
+連繫詞 斜格 父親
+
+#a 23.08, None, 24.28
+
+11.
+... sa kaku mi-melaw.\
+say 1SG.NOM AF-see
+說 1SG.主格 主焦-看
+
+#e In my opinion, that child was really abandoned by his/her parents. 
+#c 依我來看，那小孩真的被父母親遺棄趕走。
+#n IU5中 Sakizaya語中無[e]音，所以在發語詞中，以E表示語音[e]。
+#a 24.28, None, 25.93
+
+12.
+... u wawa hananay,\
+CN child so.called
+CN 小孩 所謂的
+
+#a 25.93, None, 27.69
+
+12.
+... u wawa hananay,\
+CN child so.called
+CN 小孩 所謂的
+
+#a 25.93, None, 27.69
+
+14.
+... sa-tapang,\
+do-trunk
+做-根本
+
+#a 29.46, None, 30.92
+
+15.
+...(1.9) a balaki,\
+LNK old
+連繫詞 老
+
+#a 30.92, None, 33.74
+
+16.
+... i tini i hiya,\
+PREP here PREP that
+介系詞 這裡 介系詞 那個
+
+#a 33.74, None, 35.51
+
+17.
+... ita u tamdaw.\
+1PL.GEN CN people
+1PL.屬格 CN 人
+
+#e We grew up here.
+#c 我們在這長大。
+#n IU 14 sa-tapang 意思為開始，而mi-sa-tapang 要開始了(為阿美語)。
+#n IU 14 中tapang 樹根以上樹幹以下，在此為根本，可衍伸為領袖級的人。
+#a 35.51, None, 37.04
+
+18.
+...(0.7) na=maka-ini,\
+PAST=from-here
+過去貌=從-這裡
+
+#a 37.04, None, 39.3
+
+19.
+...(1.1) ni-lecu' nuyni u==,_ 
+NI-be.born GEN.that CN
+NI-生 屬格.那個 CN
+
+#a 39.3, None, 42.18
+
+20.
+.. nu ina kya==.\
+GEN mother DM
+屬格 媽媽 DM
+
+#e (We) were born by (our) mother.
+#c (我們)是媽媽生的啊。
+#a 42.18, None, 43.6
+
+21.
+... i==,\
+PREP 
+介系詞
+
+#a 43.6, None, 44.67
+
+22.
+... tatenga’,\
+really
+真的
+
+#a 44.67, None, 45.63
+
+23.
+.. adiwawa hiza adiwawa,\
+child that child
+小孩 那個 小孩
+
+#a 45.63, None, 48.36
+
+24.
+... hang anu ca’ay ka-tineng tu ina a tu ama.\
+yes COND NEG KA-know OBL mother LNK OBL father
+是的 條件詞 否定詞 KA-知道 斜格 母親 連繫詞 斜格 父親
+
+#e Children did not take care of parents.
+#c 小孩子不照顧父母親。
+#n ca’ay ka-tineng 原意為不知道，在此延伸為不理會
+#a 48.36, None, 52.54
+
+25.
+... mi-sikul,\
+AF-take.care.of
+主焦-照顧
+
+#a 52.54, None, 53.77
+
+26.
+...(0.7) pa-habay tuyni u== wawa kya==.\
+CAU-millet OBL.that CN child DM
+使動-小米 斜格.那個 CN 小孩 DM
+
+#e (We) fed children.
+#c (我們)養小孩。
+#n pa-habay 原意應為使給小米，在此延伸為養育。
+#a 53.77, None, 56.88
+
+27.
+... ca’ay ka-kapah ku uzip nu wawa sa kaku.\
+NEG KA-good NOM body GEN child say 1SG.NOM
+否定詞 KA-好 主格 身體 屬格 小孩 說 1SG.主格
+
+#e I thought the child was weak.
+#c 我認為小孩身體不好。
+#a 56.88, None, 60.54
+
+28.
+... uyni han=tu u balaut.\
+this HAN=PFV CN frog
+這個 HAN=完成貌 CN 青蛙
+
+#e How about this frog?
+#c 這隻青蛙呢?
+#a 60.54, None, 62.61
+
+29.
+...(1.1) u maku a ka-tineng-an==,\ 
+CN 1SG.POSS LNK KA-know-PF
+CN 1SG.所有格 連繫詞 KA-知道-受焦
+
+#a 62.61, None, 65.63
+
+30.
+... i==,_
+PREP
+介系詞
+
+#a 65.63, None, 66.75
+
+31.
+...(1.5) u kapah-ay a malu-sapaiyo nuyni u==,\
+CN good-NMZ LNK become-medicine GEN.this CN
+CN 好-名物化 連繫詞 變成-藥 屬格.這個 CN
+
+#a 66.75, None, 71.35
+
+32.
+... ma-ngeli-ay nu kuku’ nuyni u== lima’,\
+AF-break-NMZ GEN foot GEN.this CN hand
+主焦-斷-名物化 屬格 腳 屬格.這個 CN 手
+
+#a 71.35, None, 74.46
+
+33.
+...(0.7) kuyni u balaut.\ 
+NOM.this CN frog
+主格.這個 CN 青蛙
+
+#e In my opinion, frog was a good medicine for broken legs and hands.
+#c 據我所知手腳斷掉時，青蛙是很好的藥。
+#a 74.46, None, 76.11
+
+34.
+...(0.8) anu ma-suni’,\ 
+COND AF-sound
+條件詞 主焦-聲音
+
+#a 76.11, None, 77.9
+
+35.
+.. kuyni u balaut kya a i taw-tawya,\
+NOM.this CN frog NOM.that LNK PREP RED-then
+主格.這個 CN 青蛙 主格.那個 連繫詞 介系詞 重疊-那時
+
+#a 77.9, None, 80.02
+
+36.
+.. ka-udad-an kuyni u,\ 
+KA-rain-LF NOM.this CN
+KA-雨-處焦 主格.這個 CN
+
+#a 80.02, None, 81.89
+
+37.
+...(1.0) ka-suni’ nu balaut sa.\
+KA-sound GEN frog DM
+KA-聲音 屬格 青蛙 DM
+
+#e The moment frogs croaked, it would rain.
+#c 青蛙叫的那時候，當場就會下雨了。
+#n taw-tawya 中的tawya原意為那時候，但有重疊時，意思則為當下。
+#a 81.89, None, 84.55
+
+38.
+... i tawya-ay a tamdaw,\
+PREP then-NMZ LNK people
+介系詞 那時-名物化 連繫詞 人
+
+#a 84.55, None, 86.34
+
+39.
+... tahkal,\
+go.out
+去外面
+
+#a 86.34, None, 87.24
+
+40.
+... mi-kilim tuyni u balaut.\ 
+AF-search OBL.this CN frog
+主焦-找 斜格.這個 CN 青蛙 
+#e At that time, people would go out to look for frogs. 
+#c 那時候，人會出來找青蛙。
+#a 87.24, None, 89.32
+
+41.
+... asu’ sa-lami’-en.\
+delicious do-dish-PF
+好吃 做-菜-受焦
+
+#e The food was delicious.
+#c 菜好吃。
+#a 89.32, None, 91.15
+
+42.
+...(1.1) asu’ ku kabi.\
+delicious NOM soup
+好吃 主格 湯
+
+#e The soup was good.
+#c 湯好喝。
+#a 91.15, None, 93.25
+
+43.
+...(0.9) anu tuktuk-en kuyza u hiya==,\
+COND beat-PF NOM.that CN that
+條件詞 敲-受焦 主格.那個 CN 那個
+
+#a 93.25, None, 96.05
+
+44.
+... simanta’ han,\
+raw HAN
+生 HAN
+
+#a 96.05, None, 97.41
+
+45.
+...(0.9) mu-pekpek kya==.\
+AF-pound DM
+主焦-捶 DM
+
+#e (We) beat it and then pounded the raw meet.
+#c 把那個敲一敲，生的再捶一捶。
+#n 在此應該是指料理青蛙的動作。
+#n 其他的料理動詞，如mi-cikcik 切菜、切塊、切肉；mi-litek用刀砍；mi-peci’ 弄破；mi-pela’ 分半；mi-ngeli’ 折斷；mi-ketun是阿美語的「折斷」。其他動詞，如sekung揍；tukud踢；patepi’ 掌摑。
+#a 97.41, None, 99.62
+
+46.
+...(0.7) tatenga’ pazepit han=tu i tini==,\
+really paste HAN=PFV PREP here
+真的 貼 HAN=完成貌 介系詞 這裡
+
+#a 99.62, None, 102.62
+
+47.
+...(1.2) ma-ngeli-ay a kuku’,\
+AF-break-NMZ LNK foot
+主焦-斷-名物化 連詞 腳
+
+#a 102.62, None, 105.32
+
+48.
+...(0.7) ya u lima’ aca.\
+YA CN hand too
+YA CN 手 也
+
+#e (We) pasted on the broken parts, such as legs and hands.
+#c 貼在腳斷手斷的地方。
+#a 105.32, None, 107.32
+
+49.
+... kalamkam ma-ngaay.\
+soon AF-recover
+快 主焦-復原
+ 
+#e It recovered soon.
+#c 很快就會好了。
+#c ngaay 指生病之後復原的好，而一般的好(good)為kapah。
+#a 107.32, None, 108.95
+
+50.
+...(0.7) ya han nu maku ku kamu.\
+that HAN GEN 1SG.POSS NOM speech
+那個 HAN 屬格 1SG.所有格 主格 話
+
+#e This is what I would say.
+#c 我說的就這樣。
+#a 108.95, None, 111.32
+
+51.
+...(0.9) sa uyni han=tu u==,\
+DM this HAN=PFV CN
+DM 這個 HAN=完成貌 CN
+
+#a 111.32, None, 114.0
+
+52.
+... wawa==,_
+child
+小孩
+
+#a 114.0, None, 115.41
+
+53.
+... anu==,_
+COND
+條件詞
+
+#a 115.41, None, 117.0
+
+54.
+.. ta-cuwa-cuwa kuyni u babalaki,\
+go-RED-where NOM.this CN elder.people
+去-重疊-哪裡 主格.這個 CN 老人
+
+#a 117.0, None, 119.36
+
+55.
+... a ca’ay ku,_
+LNK NEG NOM
+連繫詞 否定詞 主格
+
+#a 119.36, None, 120.63
+
+56.
+... pa-pa-mul-en nu mita.\
+Ca-CAU-leave-PF GEN 1PL.POSS
+Ca重疊-使動-離開-受焦 屬格 1PL.所有格
+
+#e Wherever senior citizens went, we could not let them go. 
+#c 老人不管到哪裡，我們都不可以放走。
+#a 120.63, None, 122.44
+
+57.
+...(0.8) a=ca’ay ka-pawan kita,\
+FUT=NEG KA-forget 1PL.NOM.INCL
+未來貌=否定詞 KA-忘記 1PL.主格.包含
+
+#a 122.44, None, 125.01
+
+58.
+... tuyni u wawa.\
+OBL.this CN child
+斜格.這個 CN 小孩
+
+#e We could not forget children.
+#c 我們不能忘記孩子。
+#a 125.01, None, 126.81
+
+59.
+... anu,_ 
+COND
+條件詞
+
+#a 126.81, None, 127.72
+
+60.
+... ma-pawan kita kya,\
+AF-forget 1PL.NOM.INCL DM
+主焦-忘記 1PL.主格.包含 DM
+
+#a 127.72, None, 129.62
+
+61.
+...(1.2) tatenga’,\
+really
+真的
+
+#a 129.62, None, 131.62
+
+62.
+... ma-lahedaw,\
+AF-vanish
+主焦-消失
+
+#a 131.62, None, 132.92
+
+63.
+... ma-ala nuyni nu taw,\
+AF-take GEN.this GEN people
+主焦-拿 屬格.這個 屬格 人
+
+#a 132.92, None, 134.63
+
+64.
+... kuyni u wawa.\
+NOM.this CN child
+主格.這個 CN 小孩
+
+#e If we forgot it, children would be taken away.
+#c 如果我們忘記，小孩子真的會被別人帶走。
+#n IU 63中nu taw 意思為別人，格位可為主格(ku)，如kanimuci ku taw 別人有錢。(kanimuci 為日文中的有錢人，寫成 “金持ち”)
+#n sa-kapah-en ku taw 要對別人好 (祈使句)。格位亦可為斜格如 kapah tu taw ci Kacaw (Kacaw對別人好)。
+#a 134.63, None, 135.82
+
+65.
+... anu ma-tepad-tepad sa,\
+COND ?? DM
+條件詞 ?? DM
+
+#n 需跟錄音者 (Sinay) 確認matepadpad的意思
+#n ma-tebad-tebad 跌倒 (轉注發音者懷疑應為此字)
+#a 135.82, None, 137.99
+#n 需跟錄音者 (Sinay) 確認matepadpad的意思
+#n ma-tebad-tebad 跌倒 (轉注發音者懷疑應為此字)
+
+66.
+.. pa-ta-cuwa-en=tu kuni pa-habay-an nu maku.\
+CAU-go-where-PF=PFV NOM.this CAU-millet-PF GEN 1SG.POSS
+使動-去-哪裡-受焦=完成貌 主格.這個 使動-小米-受焦 屬格 1SG.所有格
+
+#e The children whom I raised disappeared. 
+#c 我辛苦養育的就沒有了。
+#n habay 為小米，而pa-habay延伸為養育。
+#a 137.99, None, 140.8
+
+67.
+.. a=sa=tu aca ku taw.\ 
+FUT=say=PFV too NOM people 
+未來貌=說=完成貌 也 主格 人
+
+#e Other people would say so.
+#c 別人也會這樣說。
+#a 140.8, None, 142.65
+
+68.
+... u ka-ka-libut-an ku ma-hini=ay a demak.\
+CN Ca-KA-annoy-LF NOM AF-this.way=FAC LNK thing
+CN Ca重疊-KA-煩-處焦 主格 主焦-這樣=事實貌 連繫詞 事情
+
+#e This thing was annoying.
+#c 這種事很煩。
+#c 「煩」原為ma-libut；demak「事情」為阿美語，撒奇萊雅語則為kawaw。
+#a 142.65, None, 145.5
+
+69.
+... ma-lahedaw kuyni u wawa.\
+AF-vanish NOM.this CN child
+主焦-消失 主格.這個 CN 小孩
+
+#e The child disappeared.
+#c 小孩子不見了。
+#a 145.5, None, 147.66
+
+70.
+... han nu maku ma-melaw ita kuyni u,\
+be.said GEN 1SG.POSS PF-see 1PL.GEN.INCL NOM.this CN
+被說 屬格 1SG.所有格 受焦-看 1PL.屬格.包含 主格.這個 CN
+
+#a 147.66, None, 150.5
+
+71.
+... ngabul i tini i,\
+deer PREP here PREP
+鹿 介系詞 這裡 介系詞
+
+#a 150.5, None, 152.9
+
+72.
+...(0.8) i==,\
+PREP
+介系詞
+
+#a 152.9, None, 154.8
+
+73.
+.. cudad.\
+book
+書
+
+#e I would say this and we saw deer in a book.
+#c 我這樣講。我們在書中看到了鹿。
+#n IU 71 中ngabul 為鹿的總稱(主要在馬立雲部落)；而在花蓮市，鹿的總稱是kalalayan。                        
+#n 近似詞為kakalayan「天上的天」，u ama niyam i kakalayan 則為「天父」 。
+#a 154.8, None, 155.7
+
+74.
+...(0.7) u ngabul sa==,\
+CN deer DM
+CN 鹿 DM
+
+#a 155.7, None, 157.68
+
+75.
+... u==,_
+CN
+CN
+
+#a 157.68, None, 159.02
+
+76.
+... u angic-en nu babalaki yu ma-hiza henay.\
+CN cry-PF GEN elder.people YU AF-this.way still
+CN 哭-受焦 屬格 老人 YU 主焦-這樣 仍然
+
+#e Deer was the animal that the senior citizens were longing for.
+#c 以前鹿是老人家最渴望的。
+#a 159.02, None, 163.13
+
+77.
+... u sa^paiyo kuyni u ngawa’ nuyni u ngabul.\
+CN medicine NOM.this CN horn GEN.this CN deer
+CN 藥 主格.這個 CN 角 屬格.這個 CN 鹿
+
+#e Antler was a type of medicine.
+#c 鹿角是藥。
+#a 163.13, None, 166.93
+
+78.
+... han nu maku,\
+be.said GEN 1SG.POSS
+被說 屬格 1SG.所有格
+
+#a 166.93, None, 168.02
+
+79.
+... sa==.\
+say
+說
+
+#e This was what I said.
+#c 我是這樣說的。
+#a 168.02, None, 168.88
+
+80.
+... u ita=tu nu mita,\ 
+CN 1PL.GEN.INCL=PFV GEN 1PL.POSS
+CN 1PL.屬格.包含=完成貌 屬格 1PL.所有格
+
+#a 168.88, None, 170.66
+
+81.
+... i ma-hini sa==,\
+PREP AF-this.way DM
+介系詞 主焦-這樣 DM
+
+#a 170.66, None, 172.19
+
+82.
+... si-kamu=tu kuyni u==,\
+have-speech=PFV NOM.this CN
+有-話=完成貌 主格.這個 CN
+
+#a 172.19, None, 174.2
+
+83.
+...(0.7) pabaw,\ 
+upper.part
+上面
+
+#a 174.2, None, 175.69
+
+84.
+...(0.7) tuyni u==,\
+OBL.this CN
+斜格.這個 CN
+
+#a 175.69, None, 177.28
+
+85.
+... a=adup-en,\
+FUT=hunt-PF
+未來貌=打獵-受焦
+
+#a 177.28, None, 178.73
+
+86.
+... ca’ay=tu ku ma-..adup i ma-hini.\
+NEG=PFV NOM AF-hunt PREP AF-this.way
+否定詞=完成貌 主格 主焦-打獵 介系詞 主焦-這樣
+
+#e Some one said that our government prohibited hunting.
+#c 有人說政府現在不准打獵。
+#n IU 81及 86中的 i ma-hini 在此表示這時候；與 i ma-tiza那時候為相對，但 i tawya 那時候較為常用
+#a 178.73, None, 181.28
+
+87.
+...(1.7) amana=tu,\
+NEG=PFV
+否定詞=完成貌
+
+#a 181.28, None, 183.86
+
+88.
+.. pi-adup sa,\
+PI-hunt DM
+PI-打獵 DM
+
+#a 183.86, None, 185.25
+
+89.
+... yu ma-hiza henay i tawya,\
+YU AF-that.way still PREP then
+YU 主焦-那樣 仍然 介系詞 那時
+
+#a 185.25, None, 187.05
+
+90.
+.. henay a babalaki kya,\
+still LNK elder.people DM
+仍然 連繫詞 老人 DM
+
+#a 187.05, None, 188.51
+
+91.
+...(0.8) mi-adup mana,\
+AF-hunt ??
+主焦-打獵 ??
+
+#a 188.51, None, 190.47
+
+92.
+.. uh ta-buyu-buyu’.\
+FIL go-RED-mountain
+FIL 去-重疊-山
+
+#e Hunting was forbidden at that time, but at that time, senior citizens would go hunting in mountains. 
+#c 那時候不能打獵，老人家都到深山去打獵。
+#n IU87中的否定amana有禁止能力或是不能的語意，而在Sakizaya中，否定kai則表示一般否定，如：kai kaku mi-adup「我不打獵」。
+#n IU89 中的ma-hiza henay 依據發音人轉述，意思是「那時」。
+#n IU92 中的buyu-buyu’在此指「深山」，而非「群山」。
+#a 190.47, None, 192.12
+
+93.
+... anu ma-hamin=tu kuyni u kawaw ta-buyu-buyu’=tu mi-adup,\
+COND AF-finish=PFV NOM.this CN thing go-RED-mountain=PFV AF-hunt 
+條件詞 主焦-結束=完成貌 主格.這個 CN 事情 去-重疊-山=完成貌 主焦-打獵
+
+#a 192.12, None, 195.83
+
+94.
+...(1.3) mi==-bihkac,\
+AF-bow
+主焦-弓
+
+#e After they finished, they went hunting in mountains and shot.
+#c 事情完成之後，去深山打獵，用箭射。
+#a 195.83, None, 198.21
+
+95.
+.. ma-hiza=ay ku i tawya-ay a ni-ka-uzip.\
+AF-that.way=FAC NOM PREP then-NMZ LNK NI-KA-body
+主焦-那樣=FAC 主格 介系詞 那時-名物化 連繫詞 NI-KA-身體
+
+#e It was the life at that time. 
+#c 那時候的生活就是這樣。
+#n IU95中 uzip 原意是身體或是自己；ka-uzip 則是指生活。
+#a 198.21, None, 200.31
+
+96.
+... ayza-ay a wawa sa==,\
+now-NMZ LNK child DM
+現在-名物化 連繫詞 小孩 DM
+
+#a 200.31, None, 202.54
+
+97.
+...(0.7) i== tini=tu ma-min i hkal,\
+PREP here=PFV AF-finish PREP outside
+介系詞 這裡=完成貌 主焦-結束 介系詞 外面
+
+#a 202.54, None, 205.76
+
+98.
+... mi-<L2MkuliL2M>.\
+AF-hard.work
+主焦-苦力
+
+#e Now child went out to work.
+#c 現在的小孩都出去工作了。
+#n mi-kuli 為中文借詞，漢字寫成苦力，在撒奇萊雅語中，苦力無負面意義，單指工作。
+#a 205.76, None, 207.11
+
+99.
+...(2.6) anu yadah kuyni u== paysu a kya,\
+COND many NOM.this CN money LNK DM
+條件詞 許多 主格.這個 CN 錢 連詞 DM
+
+#a 207.11, None, 212.29
+
+100.
+... u sa-pa-pi-cudad,\
+CN IF-CAU-PI-book
+CN 工具焦-使動-PI-書
+
+#a 212.29, None, 213.74
+
+101.
+.. tuyni u wawa.\
+OBL.this CN child
+斜格.這個 CN 小孩
+
+#e If there was a lot of money, it was for children to study.
+#c 如果有很多錢的話，就給小孩子讀書。
+#n IU 100 中，前綴 sa-pa- 表示用在或花費在。
+#a 213.74, None, 215.26
+
+102.
+.. tayni i tabaki-ay a ca-cudad-an i sa kuyu balucu’ ma-hini=ay a ni-ka-uzip,\
+come.here PREP big-NMZ LNK Ca-book-LF DM say NOM.this heart AF-this.way=NMZ LNK NI-KA-body
+來這裡 介系詞 大-名物化 連繫詞 Ca重疊-書-處焦 DM 說 主格.這 心 主焦-這樣=事實貌 連繫詞 NI-KA-身體
+
+#a 215.26, None, 219.09
+
+103.
+... sa.\
+DM
+DM
+
+#e If they intended to send children to university, they would live a life like that.
+#c 有心要送去大學唸書，會過像這樣的生活。
+#n 本句是指父母親若要送小孩去讀大學，就會辛苦工作。
+#n tabaki-ay a ca-cudad-an 原意是指大的學校，在此專指大學(university)。
+#n IU 102 中依據發音人(蔡宜庭)轉述，isa 較不好，用sa較好。
+#a 219.09, None, 219.95
+
+104.
+... cay=tu ka-tayni i hkal,\
+NEG=PFV KA-come.here PREP outside
+否定詞=完成貌 KA-來這裡 介系詞 外面
+
+#a 219.95, None, 221.69
+
+105.
+... mi-sa-kudu-kuduh.\
+AF-do-RED-cooking.utensil
+主焦-做-重疊-炊具
+
+#e People who did not leave did handcraft. 
+#c 不出去的就做手工藝。
+#n 依據發音人(蔡宜庭)轉述，本句的意義需再確認。
+#n kudu 專門用來煮糯米飯的炊具，在此延伸為木器製作或手工藝。
+#a 221.69, None, 223.57
+
+106.
+... han nu maku kuyni u kamu,\
+be.said GEN 1SG.POSS NOM.this CN speech
+被說 屬格 1SG.所有格 主格.這個 CN 話
+
+#a 223.57, None, 225.54
+
+107.
+... sa==.\
+say
+說
+
+#e This was what I would say.
+#c 我就這樣說。
+#a 225.54, None, 226.4
+
+108.
+... a u canan saw kuyni u kamu ha-ti==za kuyni u kamu nu maku.\
+LNK CN what Q NOM.this CN speech HA-there NOM.this CN speech GEN 1SG.POSS 
+連詞 CN 什麼 疑問 主格.這個 CN 話 HA-這裡 主格.這個 CN 話 屬格 1SG.所有格
+
+#e What else can I say? That’s it.
+#c 我還要說什麼呢  我只說這些。 
+#c IU 108 中，ha-加上方向指示詞tini (這裡)及 tiza (那裡)，則變成限定用法，
+#n ha-tini 只有這樣；ha-tiza 只有那樣。
+#n kya ha-tini saw 為何只有這些。 
+#n kya ha-tini tu saw 怎麼只有這麼少了。
+#n 其他相似形有ma-hini與ma-hiza。
+#a 226.4, None, 230.53

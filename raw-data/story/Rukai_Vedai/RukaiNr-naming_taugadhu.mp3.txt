@@ -1,0 +1,2656 @@
+topic: naming
+type: Narrative
+language: 魯凱語, Rukai, Budai
+speaker: 杜傳, Taugadhu, male, 1943-10-12
+collected: 2010-01-14
+revised: None
+video: RukaiNr-naming_taugadhu.mp3
+
+1.
+a sabau makanaelre.\
+FIL hello everyone
+FIL 哈囉 大家
+
+#e Hello everyone.
+#c 大家好。
+#a 3.28, None, 4.65
+
+2.
+kai a-pelaela-ne-li,\
+this NMZ-say-NMZ-1SG.GEN
+這個 名物化-說-名物化-1SG.屬格
+
+#a 4.65, None, 8.01
+
+3.
+amani kikai,\
+DM this
+DM 這個
+
+#a 8.01, None, 9.97
+
+4.
+nagane-ta ka ngudradrekai,\
+name-1IPL.GEN NOM PN
+名字-1IPL.屬格 主格 專名
+
+#e What I’m saying is about our names in Rukai.
+#c 我要講的是有關我們魯凱族的名字。
+#n ngudradrekai是魯凱族。
+#a 9.97, None, 11.72
+
+5.
+eh tasu-naga-nagane-ta,\
+FIL create-RED-name-1IPL.GEN
+FIL 創造-重疊-名字-1IPL.屬格
+
+#a 11.72, None, 14.63
+
+5.
+eh tasu-naga-nagane-ta,\
+FIL create-RED-name-1IPL.GEN
+FIL 創造-重疊-名字-1IPL.屬格
+
+#a 11.72, None, 14.63
+
+7.
+kikai la-nagane-ta,_
+this PL-name-1IPL.GEN
+這個 PL-名字-1IPL.屬格
+
+#a 15.56, None, 17.19
+
+8.
+kai nagane yaie,\
+this name DM
+這個 名字 DM
+
+#a 17.19, None, 19.54
+
+9.
+kai umaumase,_
+this human
+這個 人
+
+#a 19.54, None, 22.04
+
+10.
+yakai ku nagane-ini,\
+EXIST NOM name-3SG.GEN
+存在 主格 名字-3SG.屬格
+
+#a 22.04, None, 23.6
+
+11.
+kai dane yaie,_
+this house DM
+這個 房子 DM
+
+#a 23.6, None, 25.3
+
+12.
+la ikai ku nagane-ini,\
+DM EXIST NOM name-3SG.GEN
+DM 存在 主格 名字-3SG.屬格
+
+#a 25.3, None, 27.05
+
+13.
+sanaka manemane ka wa-udryudripi,\ 
+every what NOM REAL-live
+任何 什麼 主格 實現-活
+
+#a 27.05, None, 30.86
+
+14.
+kai ubulu la ikai ku nagane-ini.\
+this grass DM EXIST NOM name-3SG.GEN
+這個 草 DM 存在 主格 名字-3SG.屬格
+
+#e The names we create include the name of humans, the name of home, and the name of any living things. Even grass has its name.
+#c 我們創造的名字包含了人的名字，家的名字，還有任何生命體的名字，連草也有名字。
+#a 30.86, None, 33.0
+
+15.
+kai a-pelaela-ne-li yaie,\
+this NMZ-say-NMZ-1SG.GEN DM
+這個 名物化-說-名物化-1SG.屬格 DM
+
+#a 33.0, None, 35.53
+
+16.
+i-pelaela ku kai nagane ki umaumase.\
+I-say NOM this name GEN human
+I-說 主格 這個 名字 屬格 人
+
+#e What I’m going to say is about the name of humans.
+#c 我要講的是關於人名的故事。
+#a 35.53, None, 38.7
+
+17.
+kai nagane-ta ka umaumase lu,_
+this name-1IPL NOM human IRR
+這個 名字-1IPL 主格 人 非實現
+
+#a 38.7, None, 42.88
+
+17.
+kai nagane-ta ka umaumase lu,_
+this name-1IPL NOM human IRR
+這個 名字-1IPL 主格 人 非實現
+
+#a 38.7, None, 42.88
+
+19.
+a-pavala yaie,\
+become-separate DM
+變成-分開 DM
+
+#a 45.07, None, 46.28
+
+19.
+a-pavala yaie,\
+become-separate DM
+變成-分開 DM
+
+#a 45.07, None, 46.28
+
+21.
+ku nagane ki talialalai si._
+NOM name GEN chieftain CONJ
+主格 名字 屬格 頭目 連接詞
+
+#a 47.47, None, 51.23
+
+22.
+nagane ki la-kau-kaulu.\
+name GEN PL-RED-commoner
+名字 屬格 PL-重疊-平民
+
+#e The names could be divided into two groups : the names of the chieftain and the names of commoners.
+#c 我們人的名字可以分成兩類：頭目和平民的名字。
+#a 51.23, None, 53.57
+
+23.
+kikai nagane,\
+this name
+這個 名字
+
+#a 53.57, None, 57.37
+
+24.
+ku maku-cia-cingalre-nga yaie,\
+NOM extent-more-important-PFV DM
+主格 程度-更-重要-完成 DM
+
+#a 57.37, None, 60.1
+
+25.
+kikai nagane yiae,\
+this name DM
+這個 名字 DM
+
+#a 60.1, None, 62.88
+
+26.
+tai-ngea-ne ka sangu-lrialringav-ane kuini,_
+NMZ-one-NMZ NOM let-recall-NMZ this
+名物化-一個-名物化 主格 使-回憶-名物化 這個
+
+#a 62.88, None, 66.04
+
+27.
+ta-ngi-lribata-ne kuini ki umaumase.\
+NMZ-manner-experience-NMZ this OBL human
+名物化-方式-經歷-名物化 這個 斜格 人
+
+#a 66.04, None, 68.61
+
+28.
+kudra ta-ka-saniange-ne-ini,_
+that NMZ-state-deed-NMZ-3SG.GEN
+那個 名物化-狀態-功績-名物化-3SG.屬格
+
+#a 68.61, None, 71.92
+
+29.
+ta-pia-ne-ini yaie,\
+NMZ-do-NMZ-3SG.GEN DM
+名物化-做-名物化-3SG.屬格 DM
+
+#a 71.92, None, 74.01
+
+30.
+sua nagane madu,_
+call name want
+取 名 要
+
+#a 74.01, None, 75.98
+
+32.
+maru-amani-nga kikai,_
+MARU-like-PFV this
+MARU-像-完成 這個
+
+#a 76.6, None, 79.82
+
+34.
+a-lu-iya-ne,\
+NMZ-IRR-say-NMZ
+名物化-非實現-說-名物化
+
+#a 81.84, None, 83.79
+
+35.
+yakai kudra la==,\
+EXIST that DM
+存在 那個 DM
+
+#a 83.79, None, 86.69
+
+36.
+saka vaivai si,.
+when day CONJ
+當 天 連接詞
+
+#a 86.69, None, 88.83
+
+37.
+la ikai kudra badha,\
+DM EXIST that enemy
+DM 存在 那個 敵人
+
+#a 88.83, None, 92.29
+
+38.
+kudra wa-urikai ki cekele.\
+that REAL-attack OBL tribe
+那個 實現-攻擊 斜格 部落
+
+#a 92.29, None, 95.03
+
+38.
+kudra wa-urikai ki cekele.\
+that REAL-attack OBL tribe
+那個 實現-攻擊 斜格 部落
+
+#a 92.29, None, 95.03
+
+38.
+kudra wa-urikai ki cekele.\
+that REAL-attack OBL tribe
+那個 實現-攻擊 斜格 部落
+
+#a 92.29, None, 95.03
+
+41.
+ki-tunulu kuini eh,_
+PASS-defence this FIL
+被動-防禦 這個 FIL
+
+#a 99.83, None, 101.34
+
+42.
+tinu-a-cekel-ane yaie,\
+TINU-A-tribe-NMZ DM
+TINU-A-部落-名物化 DM
+
+#a 101.34, None, 102.6
+
+43.
+la ka-kadrua kudra,\ 
+DM KA-EXIST.NEG that
+DM KA-存在.否定 那個
+
+#a 102.6, None, 104.79
+
+44.
+ma-rakace kudra eh,_
+MA-strong that FIL
+MA-強壯 那個 FIL
+
+#a 104.79, None, 106.98
+
+45.
+wa-dulru si eh,\
+REAL-capable CONJ FIL
+實現-有能力 連接詞 FIL
+
+#a 106.98, None, 109.91
+
+46.
+ki-ka-ruburu-buru ki badha.\
+KI-state-fight-RED OBL enemy
+KI-狀態-戰鬥-重疊 斜格 敵人
+
+#e One day, when the enemy attacked the tribe, there is no people strong enough to fight and help the tribe in defense.
+#c 有一天，當敵人攻集部落時，沒有夠強壯的人可以在部落防衛時戰鬥並抵擋敵人。
+#a 109.91, None, 112.22
+
+47.
+ai
+but
+但是
+
+#a 112.22, None, 113.73
+
+48.
+la ikai kudra lasu kudra tai-ngeane,\
+DM EXIST that man that TAI-one          
+DM 存在 那個 男人 那個 TAI-一個
+
+#a 113.73, None, 115.59
+
+49.
+la ka-kadrua kuini ki cekele.\
+DM KA-EXIST.NEG this OBL tribe
+DM KA-存在.否定 這個 斜格 部落
+
+#a 115.59, None, 118.49
+
+50.
+kuini saka vaivai.\
+this when day
+這個 當 天
+
+#a 118.49, None, 119.62
+
+51.
+kuini kinau-cekel-ane,_
+this KINAU-tribe-NMZ
+這個 KINAU-部落-名物化
+
+#a 119.62, None, 121.83
+
+52.
+lau ki-lavalava si u-ka-lavalava i-kela lu-igane i-kela lu-igane.\
+DM PASS-wait CONJ go-state-wait I-come IRR-when I-come IRR-when
+DM 被動-等待 連接詞 去-狀態-等待 I-來 非實現-何時 I-來 非實現-何時
+
+#e The tribe was waiting for the man to come, but he didn’t show up.
+#c 部落在等那位男人出來，但他一直沒出現。
+#a 121.83, None, 127.13
+
+53.
+ala lri-paudripi mitane la iya kudra kinau-cekel-ane,\
+DM IRR-rescue 1IPL.OBL DM say that KINAU-tribe-NMZ
+DM 非實現-救 1IPL.斜格 DM 說 那個 KINAU-部落-名物化
+
+#a 127.13, None, 131.34
+
+54.
+ala kela kuini ^lasu.\
+DM come this man
+DM 來 這個 男人
+
+#e IRR this man comes, he might save the tribe.
+#c 這男人如果來的話，搞不好會拯救把我們部落。
+#a 131.34, None, 133.45
+
+55.
+sa-ki-lavalav-ane kuini kinau-cekel-ane,\
+when-PASS-wait-NMZ this KINAU-tribe-NMZ
+當-被動-等待-名物化 這個 KINAU-部落-名物化
+
+#a 133.45, None, 135.92
+
+56.
+sa-kela kuini lasu lalra==/
+when-come this man take
+當-來 這個 男人 拿
+
+#a 135.92, None, 138.65
+
+56.
+sa-kela kuini lasu lalra==/
+when-come this man take
+當-來 這個 男人 拿
+
+#a 135.92, None, 138.65
+
+56.
+sa-kela kuini lasu lalra==/
+when-come this man take
+當-來 這個 男人 拿
+
+#a 135.92, None, 138.65
+
+59.
+pa-ka-tuase kuini ki badha si,\
+CAU-state-leave this OBL enemy CONJ
+使役-狀態-離開 這個 斜格 敵人 連接詞
+
+#a 143.81, None, 145.65
+
+60.
+ala kirimu,\
+DM right.away
+DM 馬上
+
+#a 145.65, None, 148.84
+
+61.
+talubalre ki eh.\
+wade OBL FIL
+涉水 斜格 FIL
+
+#e When the tribe was waiting, he came and killed the enemy, forcing them to wade and escape.
+#c 他們在等的時候，他來了，殺死敵人，使敵人涉水逃跑。
+#a 148.84, None, 149.91
+
+62.
+sa-pa-pacai kuini ki tani-cekel-ane,\
+when-CAU-die this OBL TANI-tribe-NMZ
+當-使役-死 這個 斜格 TANI-部落-名物化
+
+#a 149.91, None, 152.24
+
+63.
+kuini cekel-ane la drenge-drengere si kia-seasene.\
+this tribe-NMZ DM RED-praise CONJ PASS-thank
+這個 部落-名物化 DM 重疊-讚美 連接詞 被動-感謝
+
+#e When he killed the enemy for the tribe, the people praised and thanked him.
+#c 當他替這個部落殺了這個敵人，這個部落的人讚美且感謝他。
+#a 152.24, None, 155.81
+
+64.
+la tumane-ta si la ngu-lri-a-lringau-ta kai ki lasu,\
+DM how-1IPL.NOM CONJ DM NGU-IRR-A-recall-1IPL.NOM this OBL man
+DM 如何-1IPL.主格 連接詞 DM NGU-非實現-A-回憶-1IPL.主格 這個 斜格 男人
+
+#a 155.81, None, 159.64
+
+65.
+ata,\ 
+1IPL.NOM
+1IPL.主格
+
+#a 159.64, None, 161.08
+
+66.
+ta-sunaka-ne kuini sia kalava.\
+NMZ-recognize-NMZ this call PN
+名物化-辨認-名物化 這個 叫 人名
+
+#e How would we memorize him? We would name him Klava.
+#c 我們要如何紀念他取名他？我們叫他Kalava。
+#a 161.08, None, 162.98
+
+67.
+la iya,\
+DM say
+DM 說
+
+#a 162.98, None, 163.4
+
+68.
+kuini mu-a-ka-lava kuini kinau-cekel-ane,\
+this go-REAL-state-wait this KINAU-tribe-NMZ
+這個 去-實現-狀態-等待 這個 KINAU-部落-名物化
+
+#a 163.4, None, 165.48
+
+69.
+kuini lasu kuini i-kela,\
+this man this I-come
+這個 男人 這個 I-來
+
+#a 165.48, None, 166.81
+
+70.
+kuini lri-palribulu mitane kuini lasu ala kela.\
+this IRR-help 1IPL.OBL this man DM come
+這個 非實現-幫助 1IPL.斜格 男人 DM 來 
+
+#e We wait for him to come help us at tribe. Oh! he come! 
+#c 我們在部落等他來，來幫助我們。喔 ! 來了。
+#a 166.81, None, 169.67
+
+71.
+la palribulu liniane.\
+DM help 3PL.OBL
+DM 幫助 3SG.斜格
+
+#e To help them.
+#c 來幫助他們。
+#n The narrator’s perspective.
+#a 169.67, None, 171.03
+
+72.
+la ngi-lribate ki sa-pa-pacai.\
+DM manner-escape OBL when-CAU-die
+方式-逃 斜格 當-使役-死
+
+#e They survived the death.
+#c 所以(他們)逃過了死亡。
+#a 171.03, None, 173.05
+
+73.
+la si- patu- la si-,_
+DM call- FS- DM call-
+DM 叫- FS- DM 叫-
+
+#a 173.05, None, 175.2
+
+73.
+la si- patu- la si-,_
+DM call- FS- DM call-
+DM 叫- FS- DM 叫-
+
+#a 173.05, None, 175.2
+
+75.
+kuini lasu,\
+this man
+這個 男人
+
+#a 175.85, None, 176.99
+
+76.
+kuini kalava,/
+this PN
+這個 人名
+
+#a 176.99, None, 178.48
+
+77.
+laka taingeane,\
+DM this one
+DM 這個 一個
+
+#a 178.48, None, 180.08
+
+78.
+rakaca-ne kuini ki lasu,\
+capable-NMZ this GEN man
+有能力-名物化 這個 屬格 男人
+
+#a 180.08, None, 181.34
+
+80.
+eh.\
+FIL
+FIL
+
+#a 182.01, None, 183.62
+
+81.
+kikai nagane-ta laka m-iya-iya kuini yakai kudra,_
+this name-1IPL.GEN DM M-RED-say this EXIST that
+這個 名字-1IPL.屬格 DM M-重疊-說 這個 存在 那個
+
+#a 183.62, None, 187.34
+
+82.
+pathuarakai ki rakaca-ne.\
+about OBL capable-NMZ
+關於 斜個 有能力-名物化
+
+#a 187.34, None, 189.84
+
+82.
+pathuarakai ki rakaca-ne.\
+about OBL capable-NMZ
+關於 斜個 有能力-名物化
+
+#a 187.34, None, 189.84
+
+82.
+pathuarakai ki rakaca-ne.\
+about OBL capable-NMZ
+關於 斜個 有能力-名物化
+
+#a 187.34, None, 189.84
+
+82.
+pathuarakai ki rakaca-ne.\
+about OBL capable-NMZ
+關於 斜個 有能力-名物化
+
+#a 187.34, None, 189.84
+
+86.
+kuini m-iya-iya kuini,\
+this say-RED-say this
+這個 說-重疊-說 這個
+
+#a 194.25, None, 196.28
+
+87.
+la kikai yaie._
+DM this DM
+DM 這個 DM
+
+#e These names are created OBLording to the wisdom, capabilitity and perfectness.
+#c 所以取這些名字都是根據他的智慧，能力或是其完美之處來取名，諸如此類。
+#a 196.28, None, 198.4
+
+88.
+amiya kudra lupau-drusa-ne yakai ku nagane ki,_ 
+DM that separate-two-NMZ EXIST NOM name OBL
+DM 那個 分開-二-名物化 存在 主格 名字 斜格
+
+#a 198.4, None, 201.94
+
+88.
+amiya kudra lupau-drusa-ne yakai ku nagane ki,_ 
+DM that separate-two-NMZ EXIST NOM name OBL
+DM 那個 分開-二-名物化 存在 主格 名字 斜格
+
+#a 198.4, None, 201.94
+
+90.
+ai kai,/
+DM this
+DM 這個
+
+#a 202.72, None, 203.7
+
+91.
+nagane ki talialalai nala.\
+name GEN chieftain DM
+名字 屬格 頭目 DM
+
+#a 203.7, None, 205.59
+
+92.
+yakai kudra,_
+EXIST that
+存在 那個
+
+#a 205.59, None, 207.29
+
+92.
+yakai kudra,_
+EXIST that
+存在 那個
+
+#a 205.59, None, 207.29
+
+94.
+nagane-nai ka tai-ane^ane,/
+name-1EPL.GEN NOM TAI-who
+名字-1EPL.屬格 主格 TAI-誰
+
+#a 207.87, None, 209.75
+
+95.
+nagane-nai ka tai-aneane amiya,\
+name-1EPL.GEN NOM TAI-who DM
+名字-1EPL.屬格 主格 TAI-誰 DM
+
+#a 209.75, None, 212.0
+
+96.
+unu talialalai.\
+yes chieftain
+是 頭目
+
+#e There are two kinds of chieftains, whose names may belong to ours or to others’.
+#c 頭目有分兩部分, 頭目有是有我們這家的名字, 或是誰家的名字。
+#a 212.0, None, 213.55
+
+97.
+kai arakai sanaka mane-manemane.\
+NEG use every RED-what
+否定 用 任何 重疊-什麼
+
+#a 213.55, None, 215.83
+
+98.
+la kikai su-naga-nagane,_
+DM this call-RED-name      
+DM 這個 叫-RED-名字
+
+#a 215.83, None, 218.69
+
+99.
+sua tavanane.\
+belong leader
+屬於 當家
+
+#e Even a chieftain cannot possess all the names, only the leader can.
+#c 雖然是頭目不是全部的名字都可以擁有，只有當家才能擁有名字。
+#a 218.69, None, 220.92
+
+100.
+eh
+FIL
+FIL
+
+#a 220.92, None, 222.55
+
+100.
+eh
+FIL
+FIL
+
+#a 220.92, None, 222.55
+
+102.
+la kikai sauvalai,\
+DM this man
+DM 這個 男人
+
+#a 223.62, None, 226.21
+
+103.
+ku sia drangalru,_
+REL call PN
+REL 叫 人名
+
+#a 226.21, None, 228.03
+
+104.
+sia laucu,\
+call PN
+叫 人名
+
+#a 228.03, None, 230.43
+
+105.
+sia lavurase,\
+call PN
+叫 人名
+
+#a 230.43, None, 232.97
+
+106.
+sia kui,\
+call PN
+叫 人名
+
+#a 232.97, None, 235.63
+
+107.
+sia mulaucu,\
+call PN
+叫 人名
+
+#a 235.63, None, 238.23
+
+108.
+sia vulruku,\
+call PN
+叫 人名
+
+#a 238.23, None, 240.51
+
+109.
+sia takanau,\
+call PN
+叫 人名
+
+#a 240.51, None, 243.54
+
+110.
+sia rumalidi.\
+call PN
+叫 人名
+
+#e There are many male names like Drangalru, Laucu, Lavurase, Kui, Mulaucu, Vulruku, Takanau, and Rumalidi.
+#c 男生名字有很多，例如Drangalru, Laucu, Lavurase, Kui, Mulaucu, Vulruku, Takanau, 和Rumalidi。
+#a 243.54, None, 246.03
+
+111.
+la laisi su-nagane kuini la m-iya-iya kuini,\
+DM DM call-name this DM say-RED-say this
+DM DM 叫-名字 這個 DM 說-重疊-說 這個
+
+#a 246.03, None, 250.16
+
+112.
+sua tavanane amiya ki kuini.\
+belong leader DM OBL this
+屬於 當家 DM 斜格 這個
+
+#e Thus if one is called one of these names, he is a leader.
+#c 所以如果取以上這些名字的話，這些都是當家的名字。
+#a 250.16, None, 253.21
+
+113.
+la kikai yaie,\
+DM this DM
+DM 這個 DM
+
+#a 253.21, None, 256.02
+
+114.
+lu-si culuculu,\
+IRR-call PN
+非實現-叫 人名
+
+#a 256.02, None, 257.58
+
+115.
+lu-si muni,\
+IRR-call PN
+非實現-叫 人名
+
+#a 257.58, None, 259.35
+
+116.
+lu-si elrenge,\
+IRR-call PN
+非實現-叫 人名
+
+#a 259.35, None, 261.21
+
+116.
+lu-si elrenge,\
+IRR-call PN
+非實現-叫 人名
+
+#a 259.35, None, 261.21
+
+116.
+lu-si elrenge,\
+IRR-call PN
+非實現-叫 人名
+
+#a 259.35, None, 261.21
+
+116.
+lu-si elrenge,\
+IRR-call PN
+非實現-叫 人名
+
+#a 259.35, None, 261.21
+
+116.
+lu-si elrenge,\
+IRR-call PN
+非實現-叫 人名
+
+#a 259.35, None, 261.21
+
+121.
+eh kila ki kuini nala yaie,\
+FIL like OBL this 這些 DM DM
+FIL 像 斜格 這個 DM DM
+
+#a 269.23, None, 271.03
+
+122.
+ai kai ka tha-tha-ne kuini,\
+but NEG NOM RED-很多-NMZ this
+但是 否定 主格 重疊-很多-名物化 這個
+
+#a 271.03, None, 273.12
+
+123.
+maiya makalra-na yaie,\
+DM many-yet DM
+DM 很多-還 DM
+
+#a 273.12, None, 274.5
+
+124.
+amani kuini kudra nagane kai ki eh,_
+DM this that name this OBL FIL
+DM 這個 那個 名字 這個 斜格 FIL
+
+#a 274.5, None, 276.84
+
+125.
+sua tavanane.\
+belong leader
+屬於 當家
+
+#e If one is called Culuculu, Muni, Elrenge, Cemedase, Dresedrese and Alayumu, or other names like these, she is a leader.
+#c 如果叫Culuculu, Muni, Elrenge, Cemedase, Dresedrese, Alayumu, 但不只這些，還有很多，這些也是屬於當家的名字。
+#n 這些名字都是女生用的。
+#a 276.84, None, 278.47
+
+126.
+lak-,
+FS
+FS
+
+#a 278.47, None, 280.46
+
+127.
+la kikai nagane ki eh la-kau-kaulu yaie,\
+DM this name GEN FIL PL-RED-commoner DM
+DM 這個 名字 屬格 FIL PL-重疊-平民 DM
+
+#a 280.46, None, 283.05
+
+128.
+laka takalra turamuru.\
+DM many very
+DM 很多 非常
+
+#e What about commoners’ names? There are many.
+#c 那平民的名字呢?有很多種。
+#a 283.05, None, 284.77
+
+129.
+ai kai la-sauvalai,_
+but these PL-man
+但是 這些 PL-男人
+
+#a 284.77, None, 287.15
+
+130.
+laikai kudra sia ma-rakace,\
+DM that call state-capable
+DM 那個 叫 狀態-有能力
+就 叫那個 有能力的
+
+#a 287.15, None, 290.08
+
+131.
+kudra sa-puku-ane,_
+that SA-power-NMZ
+那個 SA-力量-名物化
+
+#a 290.08, None, 292.02
+
+131.
+kudra sa-puku-ane,_
+that SA-power-NMZ
+那個 SA-力量-名物化
+
+#a 290.08, None, 292.02
+
+133.
+la kikai sia,_
+DM this call
+DM 這個 叫
+
+#a 294.0, None, 296.31
+
+133.
+la kikai sia,_
+DM this call
+DM 這個 叫
+
+#a 294.0, None, 296.31
+
+135.
+sia cibuku,_
+call PN
+叫 人名
+
+#a 297.26, None, 299.47
+
+136.
+sia valrialane,_
+call PN
+叫 人名
+
+#a 299.47, None, 302.25
+
+137.
+sia paerece._
+call PN
+叫 人名
+
+#e But these men are called Palange, Cibuku, Valrialane and Paerece for their power, wisdom, and hunting skills.
+#c 但是這些男生呢，就叫有力量的，有智慧的，很會打獵的，例如叫Palange, Cibuku, Valrialane, Paerece。
+#a 302.25, None, 304.58
+
+138.
+eh kuini la m-iya-iya yaie.\
+FIL this M-RED-say DM
+FIL 這個 M-重疊-說 DM
+
+#e It’s like this.
+#c 就像這些。
+#a 304.58, None, 307.43
+
+139.
+kai nagane ki sauvalai yaie,\
+this name GEN man DM
+這些 名字 屬格 男人 DM
+
+#a 307.43, None, 309.06
+
+139.
+kai nagane ki sauvalai yaie,\
+this name GEN man DM
+這些 名字 屬格 男人 DM
+
+#a 307.43, None, 309.06
+
+139.
+kai nagane ki sauvalai yaie,\
+this name GEN man DM
+這些 名字 屬格 男人 DM
+
+#a 307.43, None, 309.06
+
+143.
+kai su-a-naga-nagane ku ta-turamur-ane,_
+NEG call-REAL-RED-name OBL NMZ-weak-NMZ
+否定 叫-實現-重疊-名字 斜格 名物化-弱的-名物化
+
+#a 313.51, None, 317.26
+
+144.
+ku ta-ngi-lisi-ane.\
+OBL NMZ-manner-bad-NMZ
+斜格 名物化-方式-壞的-名物化
+
+#e We don’t have names that sound weak or bad.
+#c 不會取一些比較弱的名字，不取會讓人不好的名字。
+#a 317.26, None, 318.96
+
+145.
+kikai,_
+this
+這個
+
+#a 318.96, None, 320.19
+
+146.
+nagane ki sauvalai.\
+name GEN man
+名字 屬格 男人
+
+#e These are all male names.
+#c (以上)這些是男生的名字。
+#a 320.19, None, 321.43
+
+147.
+la kikai,\
+DM this
+DM 這個
+
+#a 321.43, None, 323.76
+
+147.
+la kikai,\
+DM this
+DM 這個
+
+#a 321.43, None, 323.76
+
+149.
+la kai sia lrailrai,_
+DM this call PN
+DM 這個 叫 人名
+
+#a 324.65, None, 327.02
+
+150.
+sia deresai,_
+call PN
+叫 人名
+
+#a 327.02, None, 328.3
+
+151.
+sia lebetai,_
+call PN
+叫 人名
+
+#a 328.3, None, 329.75
+
+152.
+sia kaniyu,_
+call PN
+叫 人名
+
+#a 329.75, None, 331.72
+
+153.
+sia sulriape,_
+call PN
+叫 人名
+
+#a 331.72, None, 333.21
+
+154.
+maela kikai,_
+different this
+不同 這個
+
+#a 333.21, None, 334.77
+
+155.
+kuini nala yaie,\
+this DM DM
+這個 DM DM
+
+#a 334.77, None, 335.75
+
+156.
+eh la-kau-kaulu.\
+FIL PL-RED-commoner
+FIL PL-重疊-平民
+
+#e For female names, there are Deresai, Lebetai,Kaniyu, and Sulriape.
+#c 像女人的名字呢，有Deresai, Lebetai,Kaniyu,Sulriape等等，這些不同的名字的屬於平民。
+#a 335.75, None, 337.08
+
+157.
+ai la ikai ku tai-ngeane-nga,\
+but DM EXIST NOM NMZ-one-PFV
+但是 DM 存在 主格 名物化-一個-完成
+
+#a 337.08, None, 339.03
+
+158.
+kikai kabecelrekane ki sua,_ 
+this middle OBL call
+這個 中間 斜格 叫
+
+#a 339.03, None, 341.82
+
+159.
+tavanane si la-kau-kaulu yakai kudra si nagane ki tagiagi a-m-iya.\
+leader CONJ PL-RED-commoner EXIST that CONJ name GEN sibling A-M-say
+頭目 連接詞 PL-重疊-平民 存在 那個 連接詞 名字 屬格 兄弟姊妹 A-M-說
+
+#e Besides, for chieftains and commoners there are names for brothers and sisters.
+#c 另外呢，像是頭目跟平民中還有分等級像次男次女的名字。
+#n 排行次男次女以下的叫tagiagi。
+#a 341.82, None, 346.44
+
+160.
+ala kikai la-nagane ki tagiagi,_
+DM this PL-name GEN sibling
+DM 這個 PL-名字 屬格 兄弟姊妹
+
+#a 346.44, None, 349.48
+
+161.
+laikai kudra sia legeane,_
+DM that call PN
+DM 那個 叫 人名
+
+#a 349.48, None, 351.49
+
+162.
+sia venenge,_
+call PN
+叫 人名
+
+#a 351.49, None, 353.18
+
+163.
+kudra la m-iya-iya kuini yaie,\
+that DM say-RED-say this DM
+那個 DM 說-重疊-說 這個 DM
+
+#a 353.18, None, 355.21
+
+165.
+eh kikai sia ngedrelre,_
+FIL this call PN
+FIL 這個 叫 人名
+
+#a 355.93, None, 358.5
+
+166.
+sia repunu,_
+call PN
+叫 人名
+
+#a 358.5, None, 360.16
+
+167.
+kudra la m-iya-iya kuini yaie,\
+that DM say-RED-say this DM
+那個 DM 說-重疊-說 這個 DM
+
+#a 360.16, None, 361.59
+
+168.
+tagiagi ka sauvalai.\
+sibling NOM man
+兄弟姊妹 主格 男人
+
+#e Names like Ngedrelre and Repunu are for siblings also.
+#c 那叫Ngedrelre和Repunu等這些，都是兄弟姊妹的名字。
+#n 這些都是次男的名字。
+#a 361.59, None, 363.21
+
+169.
+eh kikai lu,_
+FIL this IRR
+FIL 這個 非實現
+
+#a 363.21, None, 365.81
+
+170.
+alra-ne rubu patelre kai nagane-ta ka,\
+take-NMZ together all this name-1IPL.GEN NOM
+拿-名物化 一起 全部 這個 名字-1IPL.屬格 主格
+
+#a 365.81, None, 369.1
+
+171.
+sauvalai si abaibai yaie.\
+man CONJ woman DM
+男人 連接詞 女人 DM
+
+#a 369.1, None, 372.06
+
+172.
+kai nagane ki sauvalai,_
+this name GEN man
+這個 名字 屬格 男人
+
+#a 372.06, None, 373.69
+
+173.
+pa-de-de-dethe ki yaie,\
+CAU-RED-RED-close OBL DM
+使役-重疊-重疊-近 斜格 DM
+
+#a 373.69, None, 376.16
+
+174.
+ta-supate ka idai.\
+TA-four LNK hundred
+TA-四 連詞 百
+
+#a 376.16, None, 379.07
+
+175.
+ku nagane,\
+NOM name
+主格 名字
+
+#a 379.07, None, 379.91
+
+176.
+kai la-abaibai,\
+this PL-woman
+這個 PL-女人
+
+#a 379.91, None, 381.59
+
+177.
+ikai ku ta-tulru ka idai kikai,\
+EXIST NOM TA-three LNK hundred this
+存在 主格 TA-三 連詞 百 這個
+
+#a 381.59, None, 384.69
+
+178.
+ku nagane ki eh,_
+NOM name GEN FIL
+主格 名字 屬格 FIL
+
+#a 384.69, None, 386.06
+
+180.
+kai,_
+this
+這個
+
+#a 387.42, None, 390.75
+
+181.
+laka tai-ngeane-nga,\
+DM NMZ-one-PFV
+DM 名物化-一個-完成
+
+#a 390.75, None, 392.1
+
+182.
+kudra lu-su-nagane-ta.\
+that IRR-call-name-1IPL.GEN
+那個 非實現-叫-名字-1IPL.屬格
+
+#e There is another way to name a person.
+#c 還有另外一種取名字的方式。
+#a 392.1, None, 393.45
+
+183.
+a la iya si,\
+FIL DM say DM
+FIL DM 說 DM
+
+#a 393.45, None, 395.39
+
+184.
+lu- luka eh,_
+FS- DM FIL
+FS- DM FIL
+
+#a 395.39, None, 398.42
+
+185.
+karudrange-su ka la-drusa.\
+marry-2SG.NOM REL PL-two
+結婚-2SG.主格 關係詞 PL-二
+
+#a 398.42, None, 400.54
+
+186.
+la tu-lalake-su,\
+DM bear-child-2SG.NOM
+DM 生-小孩-2SG.主格
+
+#a 400.54, None, 402.08
+
+187.
+si kai ubangalre,_
+CONJ NEG incapable
+連接詞 否定 無能
+
+#a 402.08, None, 403.71
+
+187.
+si kai ubangalre,_
+CONJ NEG incapable
+連接詞 否定 無能
+
+#a 402.08, None, 403.71
+
+189.
+lu tu-lalake-su,_
+IRR bear-child-2SG.NOM
+非實現 生-小孩-2SG.主格
+
+#a 404.95, None, 407.02
+
+190.
+la pacai.\
+DM die
+DM 死
+
+#a 407.02, None, 407.83
+
+191.
+lu tu-lalake-su,_
+IRR bear-child-2SG.NOM
+非實現 生-小孩-2SG.主格
+
+#a 407.83, None, 409.44
+
+192.
+la pacai.\
+DM die
+DM 死
+
+#a 409.44, None, 410.56
+
+193.
+sua nagane madu kudra sa-tele-teleng-ane kaiki,_
+call name want that NMA-RED-fence-NMZ this
+叫 名字 要 那個 名物化-重疊-擋-名物化 這個
+
+#a 410.56, None, 414.56
+
+195.
+amiya.\
+DM
+DM
+
+#a 415.93, None, 416.94
+
+196.
+kuini sa-tele-teleng-ane kaiki mua-cugu,_
+this NMZ-RED-fence-NMZ this go-incident
+這個 名物化-重疊-擋-名物化 這個 去-事故
+
+#a 416.94, None, 419.54
+
+197.
+lu su-nagane-su,_
+IRR call-name-2SG.NOM
+非實現 叫-名字-2SG.主格
+
+#a 419.54, None, 420.94
+
+198.
+kuini m-iya-iya kuini,_
+this say-RED-say this
+這個 說-重疊-說 這個
+
+#a 420.94, None, 422.77
+
+199.
+lri-alikai kudra ta-ucug-ane-su,_
+IRR-meet that NMZ-incident-NMZ-2SG.GEN
+非實現-遇到 那個 名物化-事故-名物化-2SG.屬格
+
+#a 422.77, None, 425.43
+
+199.
+lri-alikai kudra ta-ucug-ane-su,_
+IRR-meet that NMZ-incident-NMZ-2SG.GEN
+非實現-遇到 那個 名物化-事故-名物化-2SG.屬格
+
+#a 422.77, None, 425.43
+
+199.
+lri-alikai kudra ta-ucug-ane-su,_
+IRR-meet that NMZ-incident-NMZ-2SG.GEN
+非實現-遇到 那個 名物化-事故-名物化-2SG.屬格
+
+#a 422.77, None, 425.43
+
+202.
+ta-mati-kuru-ane amiya.\
+NMZ-extent-miserable-NMZ DM
+名物化-程度-不幸-名物化 DM
+
+#e When you have these names to prevent incidents, some incidents still happens and you become lost and miserable.
+#c 當你取這些名字預防不幸的時候，有些事故還是會發生，你就會變的迷失與可憐。
+#a 427.92, None, 429.53
+
+203.
+kai sauvalai la si-nagane ku sia,+
+this man DM call-name REL call
+這個 男人 DM 叫-名字 關係詞 叫
+
+#a 429.53, None, 432.44
+
+203.
+kai sauvalai la si-nagane ku sia,+
+this man DM call-name REL call
+這個 男人 DM 叫-名字 關係詞 叫
+
+#a 429.53, None, 432.44
+
+205.
+sia rugusu,_
+call rattan
+叫 藤蔓
+
+#a 433.21, None, 434.96
+
+206.
+sia ubulu.\
+call grass
+叫 草
+
+#e Men are named sugar cane, rattan or grass.
+#c 男人們，有的人取叫甘蔗，藤蔓，草。
+#a 434.96, None, 436.75
+
+207.
+uh.\
+
+#a 436.75, None, 437.69
+
+208.
+kai ababai yaie,\
+this woman DM
+這個 女人 DM
+
+#a 437.69, None, 439.35
+
+209.
+la si- la si-nagane ku sia,_
+DM call- DM call-name REL call
+DM 叫- DM 叫-名字 關係詞 叫
+
+#a 439.35, None, 442.21
+
+209.
+la si- la si-nagane ku sia,_
+DM call- DM call-name REL call
+DM 叫- DM 叫-名字 關係詞 叫
+
+#a 439.35, None, 442.21
+
+209.
+la si- la si-nagane ku sia,_
+DM call- DM call-name REL call
+DM 叫- DM 叫-名字 關係詞 叫
+
+#a 439.35, None, 442.21
+
+213.
+la ki-ki kuini yaie,\
+DM RED-OBL this DM
+DM 重疊-斜格 這個 DM
+
+#a 446.59, None, 448.7
+
+214.
+su-nagan-a kuini nagane kuini si,\
+call-name-IMP this name this CONJ
+取-名字-IMP 這個 名字 這個 連接詞
+
+#a 448.7, None, 451.33
+
+215.
+lani-alikai kuini e,\
+then-meet this FIL
+然後-遇到 這個 FIL
+
+#a 451.33, None, 453.43
+
+216.
+ucugu-su amiya.\
+incident-2SG.GEN DM
+事故-2SG.屬格 DM
+
+#a 453.43, None, 455.04
+
+217.
+lu-su-nagane kuini na yaie,\
+IRR-call-name this DM DM
+非實現-叫- 名字 這個 DM DM
+
+#a 455.04, None, 458.46
+
+218.
+la kai e,_
+DM NEG FIL
+DM 否定 FIL
+
+#a 458.46, None, 460.39
+
+219.
+mu-cu-cugu-nga kudra cu-cungul-ane madu.\
+go-RED-incident-PFV that RED-connect-NMZ want            
+去-重疊-事故-完成 那個 重疊-連接-名物化 要
+
+#e So we have these names to prevent the incidents from happening to the next generation.
+#c 所以呢，就取這些名字，然後下一代就不會碰到類似的不幸。
+#n 下一代跟上一代連接在一起，所以用連接表示下一代。
+#a 460.39, None, 463.4
+
+220.
+amani kudra man-thariri tulamuru kikai lu,\
+it.is.exactly that extent-good very this IRR
+就這樣 那個 程度-好 非常 這個 非實現
+
+#a 463.4, None, 466.42
+
+221.
+e su-nagan-ane.\
+FIL call-name-NMZ
+FIL 叫-名字-名物化
+
+#e This is the advantages of having these names.
+#c 這就是取名的一些好處。
+#a 466.42, None, 468.38
+
+222.
+kikai nagane-ta ka umaumase,_
+this name-1IPL.GEN REL people
+這個 名字-1IPL.屬格 關係詞 人
+
+#a 468.38, None, 470.54
+
+223.
+yakai ku satu-lrisi-lrisi-ane.\
+EXIST NOM SATU-RED-superstitious-NMZ
+存在 主格 SATU-重疊-迷信-名物化
+
+#e We have these names because of superstition.
+#c 我們取這些名字是因為迷信。
+#a 470.54, None, 472.43
+
+224.
+lu-su-nagan-ane la musai madu,\
+IRR-call-name-NMZ DM ?? want
+非實現-叫-名字-名物化 DM ?? 要
+
+#a 472.43, None, 475.06
+
+225.
+si ka-retege kuini mu-lisi madu.\
+DM KA-block this go-bad want
+DM KA-阻斷 這個 去-不好 要
+
+#e Having these names can prevent disasters.
+#c 如果取好名字會阻斷不幸發生。
+#a 475.06, None, 477.41
+
+226.
+kai dane-ta ka ngudradrekai,_
+this house-1IPL.GEN REL PN
+這個 房子-1IPL.屬格 關係詞 專名            
+
+#n ngudradrekai為魯凱族
+#a 477.41, None, 479.78
+#n ngudradrekai為魯凱族
+
+227.
+ku vaeva ku dane la ikai sanaka dane,_ 
+REL one REL house DM EXIST every house
+關係詞 一個 關係詞 房子 DM 存在 每一個 房子
+
+#a 479.78, None, 482.59
+
+228.
+yakai kuini nagane-ini kuini dane.\
+EXIST this name-3SG.GEN this house
+存在 這個 名字-3SG.屬格 這個 房子
+
+#e We Rakui people have names for each family.
+#c 我們魯凱族的家，每一個都有家名。
+#a 482.59, None, 484.7
+
+229.
+laka yakai kuini sia tai-,_
+DM EXIST this call NMZ-
+DM 存在 這個 叫 名物化-
+
+#a 484.7, None, 487.51
+
+229.
+laka yakai kuini sia tai-,_
+DM EXIST this call NMZ-
+DM 存在 這個 叫 名物化-
+
+#a 484.7, None, 487.51
+
+231.
+e dalapaiane avalrengane,_
+FIL PN PN
+FIL 專名 專名
+
+#a 489.05, None, 492.03
+
+231.
+e dalapaiane avalrengane,_
+FIL PN PN
+FIL 專名 專名
+
+#a 489.05, None, 492.03
+
+231.
+e dalapaiane avalrengane,_
+FIL PN PN
+FIL 專名 專名
+
+#a 489.05, None, 492.03
+
+231.
+e dalapaiane avalrengane,_
+FIL PN PN
+FIL 專名 專名
+
+#a 489.05, None, 492.03
+
+235.
+la ngi-m-iya-iya kuini,\
+DM manner-say-RED-say this
+DM 方式-說-重疊-說 這個
+
+#a 495.68, None, 497.79
+
+236.
+e dane kaiki nagane.\
+FIL house this name
+FIL 房子 這個 名字
+
+#e These names are Dumalralrase, Dalapaiane Avalrengane, Taitaukadu, Tavelengane, and Taiaruladenge, all for families.
+#c 這些家名例如Dumalralrase, Dalapaiane Avalrengane, Taitaukadu, Tavelengane, Taiaruladenge, 像這些名字都是家名。
+#a 497.79, None, 500.32
+
+237.
+la kikai dane kai ki,_
+DM this house this GEN
+DM 這個 房子 這個 屬格
+
+#a 500.32, None, 503.08
+
+238.
+nagane si,_
+name CONJ
+名字 連接詞
+
+#a 503.08, None, 504.48
+
+239.
+nagane ki,_
+name GEN
+名字 屬格
+
+#a 504.48, None, 506.6
+
+239.
+nagane ki,_
+name GEN
+名字 屬格
+
+#a 504.48, None, 506.6
+
+241.
+ma-kaela kuini lu-su-nagane kai lautia yaie,\
+state-change this IRR-call-name this the.Hans DM
+狀態-變 這個 非實現-叫-名字 這個 漢人 DM
+
+#a 507.7, None, 511.56
+
+242.
+yakai kudra,\
+EXIST that
+存在 那個
+
+#a 511.56, None, 513.54
+
+243.
+sanaka la-ma-taka-taka ka ma-bita-bitake ka wa-manemane yaie,\
+every PL-state-RED-brother NOM state-RED-sister NOM REAL-who DM
+每一個 PL-狀態-重疊-兄弟 主格 狀態-重疊-姊妹 實現-誰 DM
+
+#a 513.54, None, 517.45
+
+244.
+mara-maramau kudra sa-pa-thagili,\
+RED-same that when-CAU-initial
+重疊-一樣 那個 當-使役-初始
+
+#e The names for families and the names for people are different from those for the Hans. For the Hans the ways to create names for siblings are the same in the beginning.
+#c 這些人跟這些房子的名字跟漢人的名字是不一樣的。漢人取名的方式只要是兄弟姊妹一開始都是一樣的 。
+#a 517.45, None, 519.89
+
+245.
+maru-amani-nga kudra,\
+MARU-it.is.exactly-PFV that
+MARU-就這樣-完成 那個
+
+#a 519.89, None, 521.81
+
+246.
+<L2MsingL2M> <L2MchenL2M>./
+surname PN
+姓 專名
+
+#a 521.81, None, 524.02
+
+247.
+lu-iya-ne,\ 
+IRR-say-NMZ
+非實現-說-名物化
+
+#a 524.02, None, 525.19
+
+248.
+kudra ma-re-te-tese kai parang <L2MdoushiL2M>,\ 
+that state-connect-RED-connect this the.Hans all.is
+那個 狀態-連結-重疊-連結 這個 漢人 都是
+
+#a 525.19, None, 527.52
+
+249.
+<L2MchenL2M>./ 
+PN
+專名
+
+#a 527.52, None, 528.31
+
+250.
+<L2MchenL2M> <L2MxianshengL2M>,_
+PN mister
+專名 先生
+
+#a 528.31, None, 529.64
+
+251.
+<L2MchenL2M> nushi amiya patele.\
+PN miss DM 
+專名 女士 DM
+
+#e For the Hans, the relatives to the Chens are all named Chen, like Mr. Chen and Ms. Chen.
+#c 就像漢人取名，姓陳的家族只要是親戚都姓陳，例如陳先生，陳女士。
+#a 529.64, None, 531.32
+
+252.
+ai kai ngudradrekai yaie,\
+but this PN DM
+但是 這個 專名 DM
+
+#a 531.32, None, 533.06
+
+253.
+kuini la mata- kikai nagane-ta ka umaumase yaie.\
+this DM FS- this name-1IPL.GEN REL people DM 
+這個 DM FS- 這個 名字-1IPL.屬格 關係詞 人 DM
+
+#a 533.06, None, 536.69
+
+254.
+kadrua kudra <L2MxingL2M>,\
+EXIST.NEG that surname
+存在.否定 那個 姓
+
+#a 536.69, None, 538.23
+
+255.
+kadrua kudra sa-pa-thagili.\
+EXIST.NEG that when-CAU-initial
+存在.否定 那個 當-使役-初始
+
+#a 538.23, None, 539.72
+
+256.
+nagane la kasane,\
+name DM this.way
+名字 DM 這樣
+
+#a 539.72, None, 541.43
+
+257.
+laka mani kudra nagane-ta ka umaumase,_
+DM it.is.exactly that name-1IPL.GEN REL people
+DM 就這樣 那個 名字-1IPL.屬格 關係詞 人
+
+#a 541.43, None, 543.88
+
+258.
+si kai nagane ki dane,_
+CONJ this name GEN house
+連接詞 這個 名字 屬格 房子
+
+#a 543.88, None, 545.98
+
+259.
+nagane kai ki laubu- la-ububulu yaie.\
+name this GEN FS- PL-object DM
+名字 這個 屬格 FS- PL-物體 DM
+
+#e But we Rukai people do not have surnames, only names.
+#c 但是我們魯凱族取人的名字呢，沒有姓沒有開頭，就人的名字而已，就跟房子的名字，物體的名字一樣。
+#a 545.98, None, 548.17
+
+260.
+la kadrua ku e,_
+DM EXIST.NEG NOM FIL
+DM 存在.否定 主格
+
+#a 548.17, None, 549.81
+
+261.
+ta-ma-mua-mua-ne miya kai ki mu-su-nagane kai,_
+NMZ-state-RED-go-NMZ DM this OBL go-call-name this
+名物化-狀態-重疊-去-名物化 DM 這個 斜格 去-叫-名字 這個
+
+#a 549.81, None, 552.67
+
+262.
+eh parang.\
+FIL the.Hans
+
+#e The Hans do not create names this way.
+#c 漢人則不會這樣取名字。
+#a 552.67, None, 553.47
+
+263.
+la ngi-m-iya-iya kikai nagane-ta,_
+DM manner-say-RED-say this name-1IPL.GEN
+DM 方式-說-重疊-說 這個 名字-1IPL.屬格
+
+#a 553.47, None, 556.15
+
+264.
+eh nagane-ta.\
+FIL name-1IPL.GEN
+FIL名字-1IPL.屬格
+
+#e This is the origin of our names.
+#c 我們名字就這樣來。
+#a 556.15, None, 557.59
+
+265.
+kikai nagane madu la kaidu su-naga-naga-ne ca-capange.\
+this name want DM NEG.want call-RED-name-NMZ RED-hasty
+這個 名字 要 DM 否定.要 叫-重疊-名字-名物化 重疊-草率
+
+#e We cannot have names in haste.
+#c 我們的名字是不可以隨便取的。
+#a 557.59, None, 561.61
+
+266.
+yakai ku nagane madu ka tai-aneane,\
+EXIST NOM name want REL NMZ-who
+存在 主格 名字 要 關係詞 名物化-誰
+
+#a 561.61, None, 564.1
+
+267.
+kikai nagane ki wa-taugatuane,\
+this name GEN REAL-PN
+這個 名字 屬格 實現-專名
+
+#a 564.1, None, 566.74
+
+268.
+yakai ku wa-taugatuan-ane ku nagane.\
+EXIST NOM REAL-PN-NMZ REL name
+存在 主格 實現-專名-名物化 關係詞 名字         
+
+#e There is a name for family, just like the Taugatuane family has its own name.
+#c 無論哪一家都要有自己的名字，像Taugatuane家也有他們自己的名字。
+#a 566.74, None, 568.79
+
+269.
+kikai tai-urareteng,_
+this NMZ-PN
+這個 名物化-專名
+
+#a 568.79, None, 570.5
+
+270.
+yakai kudra,_
+EXIST that
+存在 那個
+
+#a 570.5, None, 571.66
+
+271.
+kuini nagane kuini ki tai-urareteng,\
+this name this GEN NMZ-PN
+這個 名字 這個 屬格 名物化-專名
+
+#a 571.66, None, 573.59
+
+272.
+luka cu-cungul-ane madu,_
+DM RED-connect-NMZ want
+DM 重疊-連接-名物化 要
+
+#a 573.59, None, 575.45
+
+273.
+sua nagane madu.\
+call name want
+叫 名字 要
+
+#e The name Urareteng belongs to the Urareteng family, one can has it only when he is a member of the family.
+#c Urareteng就是屬於那個家的家名，除非是傳承於他們家才能取名。
+#a 575.45, None, 577.22
+
+274.
+kaidu wa-malra-malra ku palra-palra-ne,\
+NEG.want REAL-RED-take OBL RED-others-NMZ
+否定.要 實現-重疊-拿 斜格 重疊-別人-名物化
+
+#a 577.22, None, 579.2
+
+275.
+laikai-su mu-retesane,\
+may-2SG.NOM disconnect-relative
+可能-你.主格 斷絕-親戚
+
+#a 579.2, None, 581.18
+
+276.
+laisukai- laikai kamudu ku erai-numi,\
+FS- may stop NOM blood-2PL.GEN
+FS- 可能 停止 主格 血-2PL.屬格
+
+#a 581.18, None, 583.58
+
+277.
+amiya si la kathariri turamuru.\
+DM CONJ DM great very
+DM 連接詞 DM 很好 非常
+
+#e If you take others’ name you will lose your relatives and have no children, so (the tradition) is very good.
+#c 如果說你亂取他人的名字，你就會變成沒有親戚，也會絕子絕孫，所以(如此的傳統)非常好。
+#a 583.58, None, 585.33
+
+278.
+kikai a-sa-sane-nga,\
+this become-RED-modern-PFV
+這個 變成-重疊-現代-完成
+
+#a 585.33, None, 587.2
+
+279.
+lu su-nagane-ta ka,_
+IRR call-name-1IPL.GEN REL
+非實現 叫-名字-1IPL.屬格 關係詞
+
+#a 587.2, None, 589.17
+
+279.
+lu su-nagane-ta ka,_
+IRR call-name-1IPL.GEN REL
+非實現 叫-名字-1IPL.屬格 關係詞
+
+#a 587.2, None, 589.17
+
+279.
+lu su-nagane-ta ka,_
+IRR call-name-1IPL.GEN REL
+非實現 叫-名字-1IPL.屬格 關係詞
+
+#a 587.2, None, 589.17
+
+282.
+kai-ta wa-thingale-nga dungu-dungu kaiki erai-ta,_
+NEG-1IPL.NOM REAL-know-PFV RED-connect this blood-1IPL.GEN
+否定-1IPL.主格 非實現-知道-完成 重疊-連接 這個 血-1IPL.屬格
+
+#a 591.59, None, 594.04
+
+283.
+kudra ki cu-cungul-ane-ta,\
+that GEN RED-connect-NMZ-1IPL.GEN
+那個 屬格 重疊-連接-名物化-1IPL.屬格
+
+#a 594.04, None, 596.08
+
+284.
+la ma-ib-ibibu-ta ka,_
+DM REC-RED-mix-1IPL.GEN NOM
+DM 交互-重疊-混合-1IPL.屬格 主格
+
+#a 596.08, None, 598.06
+
+285.
+sua nagane kai talialalad-ane,_
+call name this chieftain-NMZ
+叫 名字 這個 頭目-名物化
+
+#a 598.06, None, 600.29
+
+286.
+sua nagane kai la-kau-kaul-ane,\
+call name this PL-RED-commoner-NMZ
+叫 名字 這個 PL-重疊-平民-名物化
+
+#a 600.29, None, 602.16
+
+287.
+la kai ngi-mia-mia-nga kai ta-su-naga-nagane-ta,\
+DM NEG self-RED-like-PFV this NMZ-call-RED-name-1IPL.GEN
+DM 否定 自己-重疊-像-完成 這個 名物化-叫-重疊-名字-1IPL.屬格
+
+#a 602.16, None, 605.27
+
+288.
+la kalrisa==vulu-nga si,\
+DM mess-PFV CONJ
+DM 混亂-完成 連接詞
+
+#a 605.27, None, 607.13
+
+289.
+la takalra-nga kikai,\
+DM many-PFV this
+DM 很多-PFV 這個
+
+#a 607.13, None, 608.63
+
+290.
+kai pu-a-lringa-lringau ku nagane-lini.\
+NEG CAU-REAL-RED-clear NOM name-3PL.GEN
+NEG 使-實現-重疊-清楚 主格 名字-3PL.屬格
+
+#e The kids in modern time have their names without considering their family connections, even commoners have their names after those of the chieftains’, thus making people feel confused. 
+#c 我們現在的小孩子，都隨便亂取名字，有時取一些跟自己沒有血緣關係的名字，有些平民不是頭目也隨便亂取頭目的名字，所以現在的取名方式就讓人家困擾。
+#a 608.63, None, 611.52
+
+291.
+ku- amiya-nga-ku,\
+FS- say-PFV-1SG.GEN
+FS- 說-完成-1SG.屬格
+
+#a 611.52, None, 612.78
+
+292.
+kikai nagane-ta ka tai-aneane si tai-ane,_
+this name-1IPL.GEN NOM NMZ-who CONJ NMZ-NMZ
+這個 名字-1IPL.屬格 主格 名物化-誰 連接詞 名物化-名物化
+
+#a 612.78, None, 615.31
+
+293.
+tai-ngeane ka sangu-lria-lrialingav-ane-ta kudra ki,\
+NMZ-one REL SANGU-RED-recall-NMZ-1IPL.GEN that OBL
+名物化-一 關係詞 SANGU-重疊-回想-名物化-1PL.屬格 那個 斜格
+
+#a 615.31, None, 617.81
+
+294.
+ta-karakac-ane-ta kuini ki cu-cungul-ane-ta,_
+NMZ-brave-NMZ-1IPL.GEN this GEN RED-connect-NMZ-1IPL.GEN
+名物化-勇敢-名物化-1IPL.屬格 這個 屬格 重疊-連接-名物化-1IPL.屬格
+
+#a 617.81, None, 620.54
+
+295.
+taulrigi- ta-ka-lrigil-ane kuini ki,_
+FS- NMZ-state-wisedom-NMZ this GEN
+FS- 名物化-狀態-智慧-名物化 這個 屬格
+
+#a 620.54, None, 622.96
+
+296.
+cucungulu- cucungulu- cu-cunugul-ane-su yaie,\
+FS- FS- RED-connect-NMZ-2SG.GEN DM                           
+FS- FS- 重疊-連接-名物化-2SG.屬格 DM
+
+#a 622.96, None, 625.74
+
+297.
+ngi-m-iya-iya kuini kikai yaie,\
+manner-say-RED-say this this DM
+方式-說-重疊-說 這個 這個 DM
+
+#a 625.74, None, 627.86
+
+297.
+ngi-m-iya-iya kuini kikai yaie,\
+manner-say-RED-say this this DM
+方式-說-重疊-說 這個 這個 DM
+
+#a 625.74, None, 627.86
+
+299.
+nagane- nagane-ta ka umaumause.\
+FS- name-1IPL.GEN REL people
+FS- 名字-1IPL.屬格 關係詞 人
+
+#e Thus, I say, each family has its own name. These names are in memory of the wisdom and braveness of our ancestors.
+#c 所以我說呢，每一家每一個人都有自己的名字，這些名字讓我們可以紀念我們的祖宗的智慧與勇敢，我們人的名字就是這樣子來的。
+#a 629.55, None, 631.61
+
+300.
+e
+FIL
+FIL
+
+#a 631.61, None, 633.29
+
+301.
+kuini lu,_
+this IRR
+這個 非實現
+
+#a 633.29, None, 634.18
+
+302.
+pelaela kai taru-drau-drange,\
+tell this elder-RED-elder
+告訴 這個 耆老-RED-耆老
+
+#a 634.18, None, 635.52
+
+303.
+lu su-naganane capange ta-u-lrisi-ane mua-cugu madu amia.\
+IRR call-name hasty NMZ-go-bad-NMZ go-incident want DM
+非實現 叫-名字 草率的 名物化-去-不好-名物化 去-事故 要 DM
+
+#e The elders say having names hastily will result in incidents.
+#c 老人家說，如果隨便取名字，會遇到不好的事。
+#a 635.52, None, 639.81
+
+304.
+la kaidu,\
+DM NEG.want
+DM 否定.要
+
+#a 639.81, None, 641.21
+
+305.
+e su-nagane capange.\
+FIL call-name hasty
+FIL 叫-名字 草率的
+
+#e Thus, do not have a name in haste.
+#c 所以呢，不要隨便取名字。
+#a 641.21, None, 642.85
+
+306.
+e
+FIL
+FIL
+
+#a 642.85, None, 644.03
+
+307.
+la kikai,_
+DM this
+DM 這個
+
+#a 644.03, None, 646.01
+
+308.
+nagane-ta ka,_
+name-1IPL.GEN 
+名字-1IPL.屬格
+
+#a 646.01, None, 648.8
+
+308.
+nagane-ta ka,_
+name-1IPL.GEN 
+名字-1IPL.屬格
+
+#a 646.01, None, 648.8
+
+310.
+yakai kudra,\
+EXIST that
+存在 那個
+
+#a 649.57, None, 650.91
+
+311.
+ma-ma-mua ki ta-u-lri-si-si-ane.\
+RED-state-concern OBL NMZ-go-bad-RED-bad-NMZ
+RED-狀態-關於 OBL 名物化-去-不好-重疊-名物化
+
+#e Regarding the people’s names, they are related to taboos.
+#c 那我們人的名字呢，有時候是跟禁忌有關係的。
+#a 650.91, None, 654.23
+
+312.
+kikai nagane-ta ka umaumase yaie,\
+this name-1IPL.GEN REL people DM
+這個 名字-1IPL.屬格 關係詞 人 DM
+
+#a 654.23, None, 657.25
+
+313.
+alayasi ikai-ta tai-dri-dring-ane,\
+if EXIST-1IPL.NOM NMZ-RED-deep-NMZ
+如果 存在-1IPL.主格 名物化-重疊-深的-名物化
+
+#n 深的地方就是陰間。
+#a 657.25, None, 659.75
+#n 深的地方就是陰間。
+
+313.
+alayasi ikai-ta tai-dri-dring-ane,\
+if EXIST-1IPL.NOM NMZ-RED-deep-NMZ
+如果 存在-1IPL.主格 名物化-重疊-深的-名物化
+
+#n 深的地方就是陰間。
+#a 657.25, None, 659.75
+#n 深的地方就是陰間。
+
+313.
+alayasi ikai-ta tai-dri-dring-ane,\
+if EXIST-1IPL.NOM NMZ-RED-deep-NMZ
+如果 存在-1IPL.主格 名物化-重疊-深的-名物化
+
+#n 深的地方就是陰間。
+#a 657.25, None, 659.75
+#n 深的地方就是陰間。
+
+316.
+lu arakai-ta kai nagane-ta ka umaumase yaie,\
+IRR use-1IPL.NOM this name-1IPL.GEN REL people DM
+非實現 用-1IPL.主格 這個 名字-1IPL.屬格 人 DM
+
+#a 663.38, None, 665.84
+
+317.
+alayasi ka-dalame kudra,\
+if state-like that
+如果 state-喜歡 那個
+
+#a 665.84, None, 668.01
+
+318.
+ai dri-dring-ane,\
+but RED-deep-NMZ
+但是 重疊-深的-名物化
+
+#n 深處的東西就是鬼。
+#a 668.01, None, 669.54
+#n 深處的東西就是鬼。
+
+319.
+wa-malra kikai abake-ta ka umaumase.\
+REAL-take this soul-1IPL.GEN REL people
+實現-拿 這個 靈魂-1IPL.屬格 關係詞 人
+
+#e If we are in the hell and our names interest the ghosts, they will take away our souls.
+#c 如果我們是在陰間，而我們取的名字陰間的鬼喜歡，他們就會拿走我們的靈魂而附身我們。
+#a 669.54, None, 672.17
+
+320.
+lu ikai-ta kuini ki tai-dri-dring-ane,\
+IRR EXIST-1IPL.NOM this NMZ-RED-deep-NMZ
+非實現 存在-1IPL.主格 這個 名物化-重疊-深的-名物化
+
+#a 672.17, None, 674.39
+
+321.
+<L2MyinjianL2M> <L2MdeL2M> <L2MdifangL2M>.\
+hell REL place
+陰間 關係詞 地方
+
+#a 674.39, None, 676.39
+
+322.
+kaidu arakai kai kudra ma-thariri kudra nagane.\
+NEG.want use this that state-good that name
+否定.要 用 這個 那個 狀態-好 那個 名字
+
+#a 676.39, None, 679.93
+
+323.
+arakai madu kudra ngi-a-lisi-ane,\
+use want that manner-A-bad-NMZ
+用 要 那個 方式-A-不好-名物化
+
+#a 679.93, None, 682.22
+
+324.
+yakai kuini sia,_ 
+EXIST this call
+存在 這個 叫
+
+#a 682.22, None, 684.0
+
+324.
+yakai kuini sia,_ 
+EXIST this call
+存在 這個 叫
+
+#a 682.22, None, 684.0
+
+326.
+kudra la ngi-mia kuini ngi-a-lisi-ane,\
+that DM manner-like this manner-A-bad-NMZ
+那個 DM 方式-像 這個 方式-A-不好-名物化
+
+#a 685.22, None, 688.17
+
+327.
+ani kalrase kai ai dri-dring-ane la kai malra kai abake-ini si.\
+hope hate this but RED-deep-NMZ DM NEG take soul-3PL.GEN CONJ
+希望 討厭 這個 但是 重疊-深的-名物化 DM 否定 拿 靈魂-3PL.屬格 連接詞                
+
+#e If we are in the hell, we cannot use good names, but bad names, like Apilici, and hope the ghosts will not take the souls away.
+#c 如果我們在陰間的地方，不能用很好的名字，要用不好的名字，就像Apilici，希望鬼會討厭而不要帶走靈魂。
+#a 688.17, None, 691.64
+
+328.
+laka mani ku nai-drua-druma,_
+DM it.is.exactly NOM already-RED-ago
+DM 就這樣 主格 已經-重疊-以前
+
+#a 691.64, None, 693.17
+
+329.
+lu lri-mua-ne kudra ki tai-dri-dring-ane,\
+IRR IRR-go-NMZ that OBL NMZ-RED-deep-NMZ
+非實現 非實現-去-名物化 那個 斜格 名物化-重疊-深的-名物化
+
+#a 693.17, None, 695.54
+
+330.
+la pealaela-nga kai la tina madu la tama madu,\
+DM say-PFV this DM mother want DM father want
+DM 說-完成 這個 DM 母親 要 DM 父親 要
+
+#a 695.54, None, 697.73
+
+331.
+lu ikai madu kavai yaie,\
+IRR EXIST want this DM
+非實現 存在 要 這個 DM
+
+#a 697.73, None, 699.41
+
+333.
+kai-su lrimaka iya kai nagane-su lu ikai-su kaiki cakeakena amia si.\
+NEG-2SG.NOM may say this name-2SG.GEN IRR EXIST-2SG.NOM this earth DM DM
+否定-2SG.主格 可能 說 這個 名字-2SG.屬格 非實現 存在-2SG.主格 這個 人間 DM DM
+
+#a 700.66, None, 704.64
+
+334.
+laka m-iya-iya kuini si,\
+DM say-RED-say this DM
+DM 說-重疊-說 這個 DM
+
+#a 704.64, None, 706.61
+
+335.
+nagane-ta ka sua-vudai yaie ma-kucingalre turamuru lu kai,\
+name-1IPL.GEN NOM call-PN DM state-important very IRR NEG
+名字-1IPL.屬格 主格 叫-專名 DM 狀態-重要 非常 非實現 否定
+
+#a 706.61, None, 710.5
+
+336.
+e lu kaidu thingale lu tualadh-ane kaiki nagane-ta,_
+FIL IRR NEG.want know IRR from-NMZ this name-1IPL.GEN
+FIL 非實現 否定.要 知道 非實現 從-名物化 這個 名字-1IPL.屬格
+
+#a 710.5, None, 713.46
+
+337.
+wa-thingale madu ku tai-aneane madu,\
+REAL-know want OBL NMZ-who want
+實現-知道 要 斜格 名物化-誰 要
+
+#a 713.46, None, 715.7
+
+338.
+ku takane- ta-ka-maneman-ane madu ka,\
+OBL FS- NMZ-state-what-NMZ want NOM
+斜格 FS- 名物化-狀態-什麼-名物化 要 主格
+
+#a 715.7, None, 717.73
+
+340.
+laka mani,_ 
+DM it.is.exactly
+DM 就這樣
+
+#a 718.96, None, 720.35
+
+341.
+lu ta-u-ma-dre-drel-ane kaiki palra-palra,_ 
+IRR NMZ-go-REC-RED-see-NMZ this RED-fellow
+非實現 名物化-去-交互-重疊-看-名物化 這個 重疊-夥伴
+
+#a 720.35, None, 722.57
+
+342.
+e inilringa lu pa-palang-ane ka sauvalai,\
+FIL esppecially IRR RED-court-NMZ REL man
+FIL 尤其 非實現 重疊-追求-名物化 關係詞 男人
+
+#a 722.57, None, 725.27
+
+343.
+tara-kia-vaga kudra tia-tina kudra ki ali-su,\
+must-PASS-ask that TIA-mother that GEN female.friend-2SG.GEN
+一定-被動-問 那個 TIA-母親 那個 屬格 女朋友-2SG.屬格
+
+#a 725.27, None, 728.85
+
+344.
+ali-su amia,\
+female.friend-2SG.GEN DM
+女朋友-2SG.屬格 DM
+
+#a 728.85, None, 730.07
+
+345.
+sia aneane-su.\
+call who-2SG.NOM
+叫 誰-2SG.主格
+
+#e Thus, when people meet each other, especially when a man courts a woman, her mother will definitely ask what the man’s name is.
+#c 所以呢，雙方見面的時候，尤其是男生去追求女生時，女方的媽媽一定會問你叫什麼名字。
+#a 730.07, None, 731.31
+
+346.
+amia si,\
+DM DM
+DM DM
+
+#a 731.31, None, 732.08
+
+346.
+amia si,\
+DM DM
+DM DM
+
+#a 731.31, None, 732.08
+
+348.
+alayasi nagan-ane ku sia Lavurase ^wa,\
+if name name-NMZ REL call PN INT
+如果 名字-名物化 關係詞 叫 專名 感嘆
+
+#a 733.57, None, 736.81
+
+349.
+talialalai kai la-su,\
+chieftain this male.friend-2SG.GEN
+頭目 這個 男朋友-2SG.屬格
+
+#a 736.81, None, 738.09
+
+350.
+la iya la pa-sudaulru muduane kudra,\
+DM say DM CAU-treated 2SG.OBL that
+DM 說 DM 使役-受禮遇 2SG.斜格 那個
+
+#a 738.09, None, 740.71
+
+351.
+wa-kela kai a-belenge kai talialalai amia si.\
+REAL-come this NMZ-above REL chieftain DM DM
+實現-來 這個 NMZ-上面 關係詞 頭目 DM DM
+
+#e If the man’s name is for chieftains, then wow ! Your boyfriend is a chieftain ! Then the man will be well treated.
+#c 如果你取的名字是Lavurase，哇 !你男朋友用的是頭目的名字耶 !
+所以就會很接待你。
+#a 740.71, None, 743.58
+
+352.
+ala su-nagan-ane ku lupiliane amia yaie,\
+DM call-name-NMZ OBL PN DM DM
+DM 叫-名字-名物化 斜格 專名 DM DM
+
+#a 743.58, None, 747.31
+
+353.
+alaka talialalai kudra ngu-pa-pa-palange-su nala yaie,\
+if chieftain that go-RED-RED-court-2SG.NOM DM DM
+如果 頭目 那個 去-重疊-重疊-追求-2SG.主格 DMDM
+
+#n ngu- 原本是 mu
+#a 747.31, None, 749.83
+#n ngu- 原本是 mu
+
+354.
+kia-kaelaelathe madu.\
+PASS-scold want
+被動-罵 要
+
+#e If your name is Lupilriane and the woman you are courting is a chieftain, you’ll be scolded.
+#c 如果你的名字叫Lupilriane，你在追的女生是頭目的話，會被罵。
+#a 749.83, None, 751.27
+
+355.
+manemane kai kela-kela-numi?\
+what this RED-come-2SG.NOM
+什麼 這個 重疊-來-2SG.主格
+
+#e What are you coming for ?
+#c 你們來幹嘛 ?
+#a 751.27, None, 754.06
+
+356.
+talialalai-nai.\
+chieftain-1EPL.NOM
+頭目-1EPL.主格
+
+#e We are chieftains !
+#c 我們是頭目 !
+#a 754.06, None, 755.09
+
+357.
+tu-a-sinalreme-ne-,_
+do-REAL-scorn-FS-
+做-實現-藐視-FS-
+
+#a 755.09, None, 756.18
+
+358.
+-numi naiane amia si.\
+-2PL.NOM 1EPL.OBL DM DM
+-2PL.主格 1EPL.斜格 DM DM
+
+#e You are scorning us ?
+#c 你們藐視我們 ?
+#a 756.18, None, 757.28
+
+359.
+la ki-vagana madu pa-suala,\
+DM PASS-ask want CAU-in.advance
+DM 被動-問 要 使役-事先
+
+#a 757.28, None, 759.65
+
+360.
+sia aneane ku a-u-pa-palang-ane-nai.\
+call who REL NMZ-go-RED-court-NMZ-1EPL.GEN
+叫 誰 關係詞 名物化-去-重疊-追求-名物化-1EPL.屬格
+
+#e So (we) ask (our parents) in advance who we are courting.
+#c 所以要先問(父母)我們要去追求的是誰。
+#a 759.65, None, 762.87
+
+361.
+luka la-kau-kaulu-su yaie,\
+DM PL-RED-commoner-2SG.NOM
+DM PL-重疊-平民-2SG.主格
+
+#a 762.87, None, 764.45
+
+362.
+sa-matininu u-pa-palange kudra ki talialalai kia-kaelaela madu,\
+when-shame go-RED-court that GEN chieftain PASS-scold want
+當-羞愧 去-重疊-追求 那個 屬格 頭目 被動-罵 要
+
+#a 764.45, None, 768.2
+
+363.
+kia-pu-lria-lrivale madu.\
+PASS-redicule-RED-redicule
+被動-嘲笑-重疊-嘲笑       
+
+#e If you are a commoner, it is a shame that you court (a woman) from a chieftain’s family. You’ll be scolded and ridiculed。
+#c 如果你是平民，追求頭目家是很羞愧的事，會被罵，被嘲笑。
+#a 768.2, None, 769.55
+
+364.
+laka tai-ngeane ka ta-bulru-bulru-ane madu ka,_
+DM NMZ-one REL NMZ-RED-teach-NMZ want REL
+DM 名物化-一個 關係詞 名物化-重疊-名物化 要 關係詞
+
+#a 769.55, None, 771.94
+
+365.
+m- m- maduane ka umaumase kikai nagane ta-ka-maneman-ane madu,\
+FS- FS- 2SG.OBL REL people this name NMZ-state-what-NMZ want
+FS- FS- 2SG.斜格 關係詞 人 這個 名字 名物化-狀態-什麼-名物化 要
+
+#a 771.94, None, 775.64
+
+366.
+ta-ma-u-sake-saken-ane madu.\
+NMZ-REC-go-RED-respcet-NMZ want
+名物化-交互-去-重疊-尊重-名物化 要
+
+#e When it comes to what name you have, one thing is that we teach and respect each other.
+#c 所以呢，你這人取的是什麼樣的名字，也是我們要互相教導的，互相尊重的一件事。
+#a 775.64, None, 777.57
+
+367.
+tua-lrepeng-aku,\
+do-REAL-all-1SG.NOM
+做-實現-全部-1SG.主格
+
+#a 777.57, None, 778.77
+
+368.
+kikai pa-thuarakai kaiki na^gane.\
+this CAU-about- this name
+這個 使-關於 這個 名字  
+
+#e I finished the story about names.
+#c 我現在講完了關於名字的事。
+#a 778.77, None, 780.93

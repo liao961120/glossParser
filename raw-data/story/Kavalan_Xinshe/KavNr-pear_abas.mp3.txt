@@ -1,0 +1,848 @@
+topic: Pear story
+type: Narrative
+language: 噶瑪蘭語, Kavalan, Xinshe (新社)
+speaker: 潘天利, Abas, male, 1933-03-22
+collected: 2003-04-19
+revised: None
+video: KavNr-pear_abas.mp3
+
+1.
+pakunku=pa=iku        tu==,\
+tell.story=FUT=1SG.NOM  OBL
+說故事=未來=1SG.主格  斜格
+
+#a 18.56, None, None
+
+2.
+.. zana==,\
+3SG.POSS
+3SG.所有格
+
+#a None, None, 20.94
+
+3.
+.. m-qi==-,\
+AF-pick-
+主焦-採-
+
+#a 20.94, None, 22.66
+
+4.
+.. byabas  ya==,\
+guava  NOM
+芭樂  主格
+
+#a 22.66, None, 23.95
+
+5.
+.. lazat  a  yau,\
+person LNK that
+人  連詞   那個
+
+#e I’m going to tell a story about a person picking guavas.
+#c 我要說關於採芭樂的故事。
+#a 23.95, None, 25.02
+
+6.
+... wi==,\
+leave
+離開
+
+#a 25.02, None, 26.16
+
+7.
+.. m-zaqis  a,\
+AF-climb  NOM
+主焦-爬   主格
+
+#a 26.16, None, 27.01
+
+8.
+.. lazat  a  yau,\
+person LNK that
+人  連詞  那個
+
+#a 27.01, None, 27.85
+
+9.
+.. m-qi-byabas   nani,\
+AF-pick-guava   DM
+主焦-採-芭樂    DM
+
+#e The person climbed up to pick guavas.
+#c 人往上爬採芭樂，然後，
+#a 27.85, None, 29.2
+
+10.
+…(0.7) u-zusa=ti,\
+CLF.NHUM-two=PFV
+非人量詞-二=完成
+
+#a 29.2, None, 30.83
+
+11.
+.. qanas   ni-,\
+basket  PFV-
+簍   完成-
+
+#a 30.83, None, 31.82
+
+12.
+.. kyala-an  na==,\
+pick-NMZ   GEN 
+採-名物化   屬格
+
+#a 31.82, None, 32.78
+
+13
+.. lazat      a  yau  m-zaqis,\
+person  LNK  that  AF-climb
+人    連詞  那個 主焦-爬
+
+#a 32.78, None, 34.05
+
+14.
+.. tu==,\
+OBL
+斜格
+
+#a 34.05, None, 34.54
+
+15.
+.. byabas   nani,\
+guava   DM
+芭樂     DM
+
+#e The person who climbed up had picked two baskets of guavas.
+#c 爬的那個人已經摘了兩籃芭樂。
+#a 34.54, None, 35.45
+
+16.
+... mangu==,\
+turn.out
+結果
+
+#a 35.45, None, 36.68
+
+17.
+.. yau    m-laziw=ay,\
+EXIST   AF-pass=REL
+存在   主焦-經過=關係詞
+
+#a 36.68, None, 38.1
+
+18.
+.. ya==,\
+NOM
+主格
+
+#a 38.1, None, 38.9
+
+19.
+... m-qa-qaytun,\
+AF-ride-vehicle
+主焦-騎-車
+
+#a 38.9, None, 40.47
+
+20.
+...(0.7) nani,\
+DM
+DM
+
+#e There was a person passing by. He rode a bike.
+#c 有一個人經過,騎車子。
+#a 40.47, None, 41.78
+
+21.
+...(0.9) wiya=ti,\
+leave=PFV
+離開=完成
+
+#a 41.78, None, 43.22
+
+22.
+.. isis-an-na          ya     usiq,\
+lift-LF-3SG.GEN     NOM   one
+提-處焦-3SG.屬格   主格    一
+
+#a 43.22, None, 44.48
+
+23.
+.. qanas,\
+basket
+簍
+
+#e (He) took one basket.
+#c 提走了一簍。
+#a 44.48, None, 45.08
+
+24.
+... pizi-an-na=ti         ta-,\
+put-LF-3SG.GEN=PFV    LOC-
+放-處焦-3SG.屬格=完成  處格-
+
+#a 45.08, None, 46.25
+
+25.
+.. qaytun-an-na,\
+vehicle-LOC-3SG.GEN
+車子-處格-3SG.屬格
+
+#e He put it on the bike.
+#c 他放在車上。
+#a 46.25, None, 47.16
+
+26.
+.. wi==ya=ti        m==-,\
+leave=PFV    AF-
+離開=完成  主焦-
+
+#a 47.16, None, 48.78
+
+27.
+.. RaRiw    ya,\
+run      NOM
+跑走   主格
+
+#a 48.78, None, 49.66
+
+28.
+.. ‘nay    qa-Ruziq=ay,\
+that    QA-steal=REL
+那個    QA-偷=關係詞
+
+#e The thief ran away.
+#c 那個小偷跑走了。
+#a 49.66, None, 50.92
+
+29.
+... Rayngu==-an  na   lazat    a   yau   na==,\
+not.know-LF    GEN  person LNK that   DM
+不知道-處焦    屬格  人   連詞  那個  DM
+
+#a 50.92, None, 53.39
+
+30.
+.. wi  m-zaqis,\
+leave  AF-climb
+離開   主焦-爬
+
+#a 53.39, None, 54.28
+
+31.
+... k<m>yala  tu==,\
+<AF>pick   OBL
+<主焦>撿   斜格
+
+#a 54.28, None, 55.46
+
+32.
+.. byabas   a   yau,\
+guava  LNK   that
+芭樂  連詞   那個
+
+#a 55.46, None, 56.52
+
+33.
+... nani,\
+DM
+DM
+
+#e The person that climbed up to pick guavas didn’t know (this).
+#c 那個爬上去採芭樂的人不知道。
+#a 56.52, None, 57.55
+
+34.
+...(0.9) mangu==,\
+turn.out
+結果
+
+#a 57.55, None, 59.38
+
+35.
+.. sim-qatabun,\
+REC-collide
+交互-撞
+
+#a 59.38, None, 60.49
+
+36.
+.. kin-awsa  saiza  ya==,\
+CLF.HUM-two   maybe  PART
+人量詞-二    可能   語助詞
+
+#e Finally, the two collided with each other.
+#c 結果兩個人相撞。
+#a 60.49, None, 62.05
+
+37.
+.. m-qa-qaytun,\
+AF-ride-vehicle
+主焦-騎-車子
+
+#e (He) rode a bike.
+#c (他)騎車。
+#a 62.05, None, 63.38
+
+38.
+... m==-,\
+AF-
+主焦-
+
+#a 63.38, None, 64.38
+
+39.
+.. suRaw=ti    ya    yau    a,\
+fall=PFV     NOM  EXIST  NOM
+跌倒=完成  主格  存在   主格
+
+#e (He) fell.
+#c (他)跌倒了。
+#a 64.38, None, 65.85
+
+40.
+... mqi  Ruziq=ay,\
+FS    steal=ay
+FS    偷=REL
+
+#a 65.85, None, 67.24
+
+41.
+.. tu==,\
+OBL
+斜格
+
+#a 67.24, None, 67.96
+
+42.
+.. byabas   a  yau,\
+guava    LNK  that
+芭樂    連詞  那個
+
+#a 67.96, None, 69.06
+
+43.
+... tu   usiq    qanas    nani,\
+OBL    one    basket    DM
+斜格   一      簍     DM
+
+#e The one who stole guavas ... a basket.
+#c 偷芭樂 ... 一簍的
+#a 69.06, None, 70.7
+
+44.
+... m-Rusal=ti,\
+AF-scatter=PFV
+主焦-散落=完成
+
+#a 70.7, None, 72.32
+
+45.
+.. ya==,\
+NOM
+主格
+
+#a 72.32, None, 73.16
+
+46.
+... byabus  a  yau,\
+guava  LNK that
+芭樂   連詞  那個
+
+#a 73.16, None, 74.43
+
+47.
+.. qaniyau  Ruziq-an-na   na==,\
+3PL.NOM  steal-LF-3SG.GEN  GEN
+3PL.主格  偷-處焦-3SG.屬格     屬格
+
+#a 74.43, None, 75.86
+
+48.
+... lazat    a   yau.\
+person   LNK   that
+人      連詞   那個
+
+#e The guavas stolen by that person were scattered.
+#c 那個人偷的芭樂散落了。
+#a 75.86, None, 77.28
+
+49.
+... sapun-an-na=ti,\
+pick.up-LF-3SG.GEN=PFV
+撿-處焦-3SG.屬格=完成
+
+#e He picked them up.
+#c 他撿起了那些東西。
+#a 77.28, None, 79.1
+
+50.
+... tu,\
+DM
+DM
+
+#a 79.1, None, 79.95
+
+51.
+.. naquni  smani    nani,\
+how    I.wonder  DM
+怎樣   不知為何  DM
+
+#e Then, I’m not sure why ...
+#c 然後不知為何。
+#a 79.95, None, 81.27
+
+52.
+.. iwaliw=ti,\
+turn.out=PFV
+結果=完成
+
+#a 81.27, None, 81.97
+
+53.
+.. mai   tu==,\
+NEG  OBL
+否定  斜格
+
+#a 81.97, None, 83.25
+
+54.
+.. e==,\
+FIL
+FIL
+
+#a 83.25, None, 83.92
+
+55.
+.. qaytun,\
+vehicle
+車
+
+#e It turned out that there was no bike.
+#c 結果沒有車子。
+#a 83.92, None, 84.53
+
+56.
+.. mai=ti    ya==,\
+NEG=PFV  NOM
+否定=完成 主格
+
+#a 84.53, None, 85.27
+
+57.
+.. ni==-,\
+PFV-
+完成-
+
+#a 85.27, None, 86.07
+
+58.
+... ala-an-na   tu==,\
+take-NMZ-3SG.GEN  OBL
+拿-名物化-3SG.屬格  斜格
+
+#a 86.07, None, 87.71
+
+59.
+.. qanas  a  yau    tu==,\
+basket  LNK that  OBL
+簍    連詞 那個   斜格
+
+#a 87.71, None, 89.31
+
+60.
+.. byabus  a  yau  nani.\
+guava  LNK  that  DM
+芭樂  連詞  那個   DM
+
+#e There was no basket ... guavas.
+#c 沒有簍 ... 芭樂
+#a 89.31, None, 90.44
+
+61.
+... pameng=ti,\
+suddenly=PFV
+突然=完成
+
+#a 90.44, None, 91.8
+
+62.
+.. pasasani    smani    nani,\
+toward.where  I.wonder  DM
+往哪裡    不知道      DM
+
+#e Suddenly, (he) got lost.
+#c 突然失去了方向。
+#a 91.8, None, 93.72
+
+63.
+... tuRuz-na     nani,\
+back-3SG.GEN  DM
+後面-3SG.屬格  DM
+
+#a 93.72, None, 95.39
+
+64.
+.. yau  a   izau,\
+EXIST  NOM this
+存在  主格  這個
+
+#a 95.39, None, 96.67
+
+65.
+.. ya   lazat   a  yau,\
+NOM  person LNK  that
+主格  人 連詞  那個
+
+#a 96.67, None, 97.77
+
+66.
+.. s<m>aRuR=ti,\
+<AF>descend=PFV
+<主焦>下=完成
+
+#e The person went down.
+#c 後來那個人下來了。
+#a 97.77, None, 98.79
+
+67.
+.. ya,\
+FIL
+FIL
+
+#a 98.79, None, 99.24
+
+68.
+.. matiw,\
+AF.go
+主焦.去
+
+#a 99.24, None, 99.82
+
+69.
+.. m-qi-byabas,\
+AF-pick-guava
+主焦-摘-芭樂
+
+#a 99.82, None, 100.61
+
+70.
+.. nizi   ta-babaw   na==,\
+from  LOC-up    GEN
+從   處格-上面   屬格
+
+#a 100.61, None, 102.13
+
+71.
+... na==,\
+GEN
+屬格
+
+#a 102.13, None, 103.43
+
+72.
+.. paRin   nani,\
+tree    DM
+樹     DM
+
+#e He went down from the tree.
+#c 從樹上面下來。
+#a 103.43, None, 104.3
+
+73.
+... yau=ti  t<m>ayta   tu,\
+EXIST=PFV  <AF>watch  OBL
+存在=完成   <主焦>看  斜格
+
+#a 104.3, None, 106.4
+
+74.
+.. qanas-na  na,\
+basket-3SG.GEN  DM
+簍-3SG.屬格  DM
+
+#a 106.4, None, 107.18
+
+75.
+.. mai=ti      tu    simpez   a  usiq,\
+NEG=PFV    OBL  content  LNK  one
+否定=完成   斜格   內容物    連詞  一
+
+#e He looked at the basket. There was nothing.
+#c 看簍,沒有東西。
+#a 107.18, None, 108.85
+
+76.
+... e?/
+INT
+感嘆
+
+#a 108.85, None, 109.6
+
+77.
+.. mana    mai=ti     tu    simpez   a    usiq   ka,\
+why     NEG=PFV  OBL   content  LNK  one   PART
+為什麼   否定=完成  斜格  內容物  連詞   一   語助詞
+
+#e How come there was nothing.
+#c 為什麼一個都沒有?
+#a 109.6, None, 111.72
+
+78.
+.. zin-na   saiza     na==,\
+say-3SG.GEN  maybe  GEN
+說-3SG.屬格   可能  屬格
+
+#a 111.72, None, 113.13
+
+79.
+... lazat  a  yau,\
+person  LNK  that
+人   連詞  那個
+
+#a 113.13, None, 114.14
+
+80.
+nawiz  babaw,\
+from   up
+從   上面
+
+#a 114.14, None, 115.07
+
+81.
+.. m-qi-byabas  nani,\
+AF-pick-guava  DM
+主焦-採-芭樂  DM
+
+#e The person picking guavas up the tree was thinking.
+#c 從上面採芭樂的那個人想。
+#a 115.07, None, 116.3
+
+82.
+... nayau   a     lanas   na,\
+that.way  NOM  matter   DM
+那樣     主格   事情   DM
+
+#e That thing.
+#c 那様的事情。
+#a 116.3, None, 118.15
+
+83.
+... tu==,\
+DM
+DM
+
+#a 118.15, None, 119.02
+
+84.
+... ma,\
+FS
+FS
+
+#a 119.02, None, 120.08
+
+85.
+.. m-diyas  nani,\
+AF-hide   DM
+主焦-躲  DM
+
+#a 120.08, None, 121.13
+
+86.
+.. unay==,\
+that
+那個
+
+#a 121.13, None, 122.17
+
+87.
+... sanpipiRas=ti  ya,\
+limp=PFV   NOM
+跛=完成    主格
+
+#a 122.17, None, 123.64
+
+88.
+.. lazat  a  yau  a,\
+person   LNK that  PART
+人    連詞    那個 語助詞
+
+#a 123.64, None, 124.64
+
+89.
+.. maw  m-suRaw,\
+FS  AF-fall
+FS  主焦-跌倒
+
+#e The lame person fell.
+#c 那個人跛腳,跌倒。
+#a 124.64, None, 125.79
+
+90.
+... e==,\
+FIL
+FIL
+
+#a 125.79, None, 127.29
+
+91.
+.. m==-,\
+AF-
+主焦-
+
+#a 127.29, None, 127.69
+
+92.
+.. qa-qaytun,\
+ride-vehicle
+騎-車子
+
+#a 127.69, None, 128.62
+
+93.
+... m-ala   ta   byabas  a  yau   nani,\
+AF-take   LOC   guava  LNK that   DM
+主焦-拿  處格  芭樂  連詞  那個   DM
+
+#e (He) rode the bike and took the guavas.
+#c (他)騎車子,拿芭樂。
+#a 128.62, None, 130.63
+
+94.
+... oh,\
+INT
+感嘆
+
+#a 130.63, None, 131.37
+
+95.
+.. aisu  haw,\
+2SG.NOM  PART
+2SG.主格  語助詞
+
+#a 131.37, None, 132.18
+
+96.
+.. ya==,\
+FIL
+FIL
+
+#a 132.18, None, 132.9
+
+97.
+.. m-ala   tu,\
+AF-take  OBL
+主焦-拿    斜格
+
+#a 132.9, None, 134.09
+
+98.
+... qena-ala-ku   tu   byabas,\
+QENA-take-1SG.GEN   OBL   guava
+QENA-拿-1SG.屬格  斜格   芭樂
+
+#e Oh .. you took my guavas.
+#c 喔,你拿了我的芭樂。
+#a 134.09, None, 135.97
+
+99.
+... zin-na      na,\
+say-3SG.GEN  GEN
+說-3SG.屬格  屬格
+
+#a 135.97, None, 136.94
+
+100.
+.. lazat  a  yau     nani.\
+person  LNK  that    DM
+人   連詞  那個     DM
+
+#e The person said.
+#c 那個人說，
+#a 136.94, None, 138.08
+
+101.
+... naRin,\
+NEG
+否定
+
+#a 138.08, None, 139.1
+
+102.
+.. mai=ti     m-tayta    ya==,\
+NEG=PFV    AF-see  NOM
+否定=完成  主焦-看   主格
+
+#a 139.1, None, 140.47
+
+103.
+... qena-ala-an-na   tu==,\
+QENA-take-NMZ-3SG.GEN  OBL
+QENA-拿-名物化-3SG.屬格  斜格
+
+#a 140.47, None, 141.9
+
+104.
+.. ni-qiRuziq-na  tu    byabas   a    yau.\
+PFV-steal-3SG.GEN OBL  guava  LNK  that
+完成-偷-3SG.屬格 斜格  芭樂 連詞  那個
+
+#e (He) didn’t see him steal the guavas.
+#c 沒有看到他在偷芭樂。
+#a 141.9, None, 143.92
+
+105.
+... mai=ti    m-tayta     ya==,\
+NEG=PFV    AF-see   NOM
+否定=完成  主焦-看    主格
+
+#a 143.92, None, 145.63
+
+106.
+... ya==,\
+FIL
+FIL
+
+#a 145.63, None, 147.52
+
+107.
+.. qanas  a  yau,\
+basket  LNK  that
+簍  連詞   那個
+
+#e (He) didn’t see the basket.
+#c 沒有看到那簍
+#a 147.52, None, 148.72
+
+108.
+...(0.7) ya==,\
+FIL
+FIL
+
+#a 148.72, None, 149.89
+
+109.
+.. ni-qiRuziq-na,\
+PFV-steal-3SG.GEN
+完成-偷-3SG.屬格
+
+#e (It) was stolen.
+#c 被偷了。
+#a 149.89, None, 151.05
+
+110.
+... nayau  a==,\
+that.way  NOM
+那樣     主格
+
+#a 151.05, None, 152.45
+
+111.
+...(0.7) ya  pakunku-an  nayau.\
+NOM   tell.story-NMZ   that.way
+主格  講故事-名物化  那樣
+
+#e My story is like this.
+#c 我講的故事就是這樣。
+#a 152.45, None, 154.84

@@ -1,0 +1,1438 @@
+topic: Pear Story
+type: Narrative
+language: 阿美語, Amis, Ciwkangan(台東縣長光社區)
+speaker: 嚴敏珠, Minzhu, female, None
+collected: 2003-06-01
+revised: None
+video: Amis_Nr-pear_minzhu.mp3
+
+1.
+ira  kuya  ccay  a==,\
+EXIST  that.INVIS.NOM  one  LNK
+存在  那個.不可見.主格   一   連詞
+
+#a 1.0, None, 2.42
+
+2.
+.. rumi’ad,\
+day
+日子
+
+#a 2.42, None, 3.15
+
+3.
+...(1.2) ma-suni=tu  ku  ngiha,\
+PF-sound=PFV   NOM  sound
+受焦-發聲=完成   主格  聲音
+
+#a 3.15, None, 6.09
+
+4.
+.. nu  ‘ayam,\
+GEN  rooster
+屬格  公雞
+
+#a 6.09, None, 7.15
+
+5.
+.. XXX  i,\
+XXX  DM
+XXX   DM
+
+#a 7.15, None, 8.27
+
+6.
+... ira   ku==,\
+EXIST  NOM
+存在   主格
+
+#a 8.27, None, 9.49
+
+7.
+.. ma-lingad-ay,\
+AF-till-AY
+主焦-耕作-AY
+
+#a 9.49, None, 10.38
+
+8.
+.. tayra=tu  i  umah  ma-lingad,\
+AF.go=PFV  LOC  farmland  AF-till
+主焦.去=完成  處格  田  主焦-耕作
+
+#e The rooster crowed. One day, there was a farmer who went to the farmland to work.
+#c 雞啼。有一天，有一個農夫到田裡工作。
+#n mi-’aw’aw ku wacu: 狗叫
+#n ma-lingad-ay 農夫
+#n ma-tayal-ay 工人
+#n ma-tayal 工作
+#n mi-tayal-an 做過的事情
+#n ‘adihay=tu ku mi-tayal-an nira 他做的很多
+#n marurayen=tu kaku 我覺得很累
+#n maruray kaku 我很累
+#a 10.38, None, 11.82
+
+9.
+...(0.7) nika,\
+DM
+DM
+
+#a 11.82, None, 13.09
+
+10.
+...(1.1) u==,\
+CN
+CN
+
+#a 13.09, None, 14.79
+
+11.
+... tayal nira i,\
+work  3SG.GEN  DM
+工作  3SG.屬格   DM
+
+#a 14.79, None, 16.25
+
+12.
+... u  mi-pitpit-ay  tu   heci nu==,\
+CN  AF-pick-AY  OBL  fruit  GEN
+CN  主焦-摘-AY  斜格  果實 屬格
+
+#a 16.25, None, 18.52
+
+13.
+... kilang.\
+tree
+樹
+
+#e His work was pick fruits.
+#c 他的工作是摘水果的。
+#n mi-pitpit-an a heci 用手摘的水果
+#n mi-tukung-an a heci 用竹竿採的水果
+#a 18.52, None, 19.68
+
+14.
+... ‘adihay ku heci nu==,\
+many  NOM fruit GEN
+多    主格 果實 屬格
+
+#a 19.68, None, 22.03
+
+15.
+.. kilang  nira,\
+tree  3SG.GEN
+樹  3SG.屬格
+
+#e His fruits were plenty.
+#c 他的果實纍纍。
+#a 22.03, None, 23.19
+
+16.
+...(0.9) mi-patala cira tu tulu a,\
+AF-prepare  3SG.NOM OBL three LNK
+主焦-準備  3SG.主格 斜格  三  連詞
+
+#a 23.19, None, 26.13
+
+17.
+.. fakar,\
+basket
+簍筐
+
+#a 26.13, None, 26.89
+
+18.
+.. sa-pi-patala,\
+SA-PI-prepare
+SA-PI-準備
+
+#a 26.89, None, 27.97
+
+19.
+.. nira tu heci,\
+3SG.GEN OBL fruit
+3SG.屬格  斜格 果實
+
+#a 27.97, None, 29.28
+
+20.
+.. nu kilang.\
+GEN tree
+屬格 樹
+
+#a 29.28, None, 30.09
+
+21.
+... saka,\
+so
+所以
+
+#a 30.09, None, 31.09
+
+22.
+... tayra cira i umah,\
+AF.go  3SG.NOM LOC  farmland
+主焦.去  3SG.主格 處格  田
+
+#a 31.09, None, 32.74
+
+23.
+.. nira a mi-pitpit.\
+3SG.GEN LNK AF-pick
+3SG.屬格 連詞 主焦-摘
+
+#e He prepared three baskets for holding the fruits, so he went to the farmland to pick (fruits).
+#c 他準備三個簍筐，準備用來要裝果實的，所以他去田裡摘。
+#n sa- 表示工具
+#n sa-pi-patala 準備要...的東西
+#n mi-patala cira tu ccay falud a nanum, sa-patala nira tu lafang 他準備一打水，準備要給客人喝。
+#a 32.74, None, 33.96
+
+24.
+...(0.9) pitpi==t sa cira tu kilang a mi-kalic,\
+pick SA 3SG.NOM OBL tree LNK AF-climb
+摘 SA  3SG.主格 斜格 樹 連詞 主焦-爬
+
+#a 33.96, None, 37.09
+
+25.
+.. tu kawal tayra i kilang i,\
+OBL ladder AF.go LOC tree DM
+斜格 樓梯 主焦.去 處格 樹 DM
+
+#e He climbed up the ladder to pick fruits.
+#c 他爬樓梯去摘果樹。
+#a 37.09, None, 38.66
+
+26.
+.. teli  nira  itini i==,\
+put  3SG.GEN  here LOC
+放置   3SG.屬格  這裡 處格
+
+#a 38.66, None, 40.52
+
+27.
+... ka’ayaw nu,\
+front GEN
+前面 屬格
+
+#a 40.52, None, 42.08
+
+28.
+.. patala-an nira tu,_
+prepare-NMZ 3SG.GEN OBL
+準備-名物化 3SG.屬格 斜格
+
+#a 42.08, None, 43.43
+
+29.
+...(0.8) pi-teli-an tu heci nu kilang,\
+PI-put-NMZ OBL fruit GEN tree
+PI-放置-名物化 斜格 果實 屬格 樹
+
+#e He put (the fruits) in (the bag) that he had prepared to hold the fruits.
+#c 他放置在他前面準備裝水果的(袋子)。
+#a 43.43, None, 46.24
+
+30.
+...(0.9) u  ruray nira,\
+CN   toilsome 3SG.GEN
+CN  辛苦    3SG.屬格
+
+#a 46.24, None, 48.0
+
+31.
+.. mi-pitpit ma-harateng aku ku,_
+AF-pick PF-remember 1SG.GEN NOM
+主焦-採 受焦-想起來  1SG.屬格 主格
+
+#a 48.0, None, 49.68
+
+32.
+...(1.6) u ruray,\
+CN toilsome
+CN 辛苦
+
+#a 49.68, None, 51.94
+
+33.
+.. nu ma-lingad-ay nu mita,\
+GEN AF-till-AY GEN 1IPL.POSS
+屬格 主焦-耕作-AY 屬格 1IPL.所有格
+
+#a 51.94, None, 53.5
+
+34.
+.. matiya u ma-lingad-ay itini i==,\
+like  CN AF-till-AY here LOC
+很像  CN 主焦-耕作-AY  這裡 處格
+
+#a 53.5, None, 55.85
+
+35.
+.. niyaro’ nu mita.\
+village GEN 1IPL.POSS
+部落  屬格  1IPL.所有格
+
+#e His toil of picking fruits is reminiscent of our toil as farmers, like the farmers in our village.
+#c 他摘水果的辛苦，使我想起我們農夫的辛苦，很像在我們部落的農夫一樣。
+#a 55.85, None, 57.13
+
+36.
+...(1.3) huni  ma-herek=tu cingra  mi-pitpit  i==,\
+shortly  AF-finish=PFV 3SG.NOM  AF-pick  DM
+沒多久  主焦-完畢=完成 3SG.主格 主焦-摘  DM
+
+#a 57.13, None, 60.46
+
+37.
+.. pa-tayra-en=tu  nira  i   fakar,\
+CAU-go-PF=PFV  3SG.GEN  LOC basket
+使役-去-受焦=完成  3SG.屬格  處格 簍筐
+
+#a 60.46, None, 61.94
+
+38.
+.. nira.\
+3SG.GEN
+3SG.屬格
+
+#e Before long, (after) he finished picking the fruits, he put them in his basket.
+#c 沒多久，他摘完之後，裝到他的簍筐去。
+#n pa-tayra-en=tu ni ina ku wawa i pitilidan 媽媽把小孩送到學校去。
+#a 61.94, None, 62.72
+
+39.
+... paru==-han  nira  i,\
+put-HAN.PF  3SG.GEN  DM
+裝-HAN.受焦  3SG.屬格   DM
+
+#a 62.72, None, 64.63
+
+40.
+...(0.7) nengneng-han ca’ay  ka-tumes ku tulu a fakar.\
+see-HAN  NEG  KA-full  NOM  three LNK basket
+看-HAN   否定  KA-滿   主格  三  連詞  簍筐
+
+#a 64.63, None, 68.09
+
+41.
+.. tu==sa ku matumel,\
+two  NOM FS
+二   主格 FS
+
+#a 68.09, None, 69.92
+
+42.
+.. ma-tumes-ay,\
+AF-full-AY
+主焦-滿-AY
+
+#e He put them (in the baskets), but the three baskets didn’t seem to be full. (Only) two were full.
+#c 他裝起來，看起來三個簍筐都沒有滿，只有裝滿兩個。
+#a 69.92, None, 70.9
+
+43.
+.. saka,\
+so
+所以
+
+#a 70.9, None, 71.61
+
+44.
+.. mi-liyaw ho cingra mi-kalic i,_
+AF-resume still 3SG.NOM AF-climb DM
+主焦-重新  還  3SG.主格  主焦-爬  DM
+
+#a 71.61, None, 73.2
+
+45.
+.. tayra  i   kilang,\
+AF.go  LOC  tree
+主焦.去  處格 樹
+
+#a 73.2, None, 73.95
+
+46.
+.. nira mi-pitpit tu heci,\
+3SG.GEN AF-pick OBL fruit
+3SG.屬格  主焦-摘 斜格 果實
+
+#a 73.95, None, 75.51
+
+47.
+.. nu kilang.\
+GEN tree
+屬格  樹
+
+#e So he climbed up the tree again to pick fruits.
+#c 所以重新爬到樹上去，繼續摘果實。
+#a 75.51, None, 76.19
+
+48.
+... ya mi-pitpi==t,\
+INT AF-pick
+感嘆 主焦-摘
+
+#a 76.19, None, 77.56
+
+49.
+.. cingra   tura,\
+3SG.NOM  that.VIS.OBL
+3SG.主格   那個.可見.斜格
+
+#a 77.56, None, 78.18
+
+50.
+.. heci nu kilang i,\
+fruit GEN tree DM
+果實 屬格 樹 DM
+
+#e He was picking fruits.
+#c 他正在摘果實。
+#a 78.18, None, 79.52
+
+51.
+... ira  ku  ccay mi-kiting-ay,\
+EXIST  NOM  one AF-pull.along-AY
+存在  主格  一   主焦-牽-AY
+
+#a 79.52, None, 81.78
+
+52.
+.. tu siri a,\
+OBL goat LNK
+斜格  羊  連詞
+
+#a 81.78, None, 82.92
+
+53.
+... fa’inayan,\
+man
+男人
+
+#a 82.92, None, 84.38
+
+54.
+... mi-ta’elif  itini i==,\
+AF-pass   here LOC
+主焦-經過  這裡 處格
+
+#a 84.38, None, 86.3
+
+55.
+.. la’enu nu pi-pitpit-an nira tu kilang,\
+under  GEN  PI-pick-NMZ  3SG.GEN OBL tree
+下面  屬格  PI-摘-名物化 3SG.屬格  斜格  樹
+
+#e There was a man pulling a goat along; (he) passed the tree where he picked fruits.
+#c 有個男人牽一隻羊，經過他摘果實的樹下。
+#a 86.3, None, 88.83
+
+56.
+.. mi-pitpit  cingra  tu  kilang  i,\
+AF-pick   3SG.NOM OBL  tree DM
+主焦-摘  3SG.主格  斜格  樹  DM
+
+#a 88.83, None, 90.83
+
+57.
+... sa-nengneng-nengneng,\
+SA-RED-see
+SA-重疊-看
+
+#a 90.83, None, 92.33
+
+58.
+.. sa’an  kiya siri tura,\
+so  that.NOM goat  that.VIS.OBL
+如此  那個.主格 羊  那個.可見.斜格
+
+#a 92.33, None, 93.7
+
+59.
+.. heci nu kilang,\
+fruit GEN tree
+果實 屬格 樹
+
+#a 93.7, None, 94.58
+
+60.
+.. sa-ka-k<um>a’en-an,\
+SA-KA-<PF>eat-AN
+SA-KA-<受焦>吃-AN
+
+#e When he was picking fruits, the goat looked around and wanted to eat the fruits.
+#c 當他摘果實的時候，羊東張西望，想吃水果。
+#n sa-ka-k<um>a’en-an 想吃
+#n losay水果樹(總稱) heci nu losay 水果
+#a 94.58, None, 95.6
+
+61.
+.. nika  tengteng-,\
+DM   RED-
+DM  重疊-
+
+#a 95.6, None, 96.77
+
+62.
+.. tengteng-han nira tayra i,_
+pull-HAN.PF  3SG.GEN  go  DM
+拉-HAN.受焦    3SG.屬格  走  DM
+
+#a 96.77, None, 98.06
+
+63.
+.. mi-ta’elif=tu,\
+AF-pass=PFV
+主焦-經過=完成
+
+#a 98.06, None, 98.93
+
+64.
+... mi-ta’elif  tura==,\
+AF-pass  that.VIS.OBL
+主焦-經過 那個.可見.斜格
+
+#a 98.93, None, 100.76
+
+65.
+.. pi-pitpit-an  tura  kilang,\
+PI-pick-NMZ  that.VIS.OBL tree
+PI-摘-名物化  那個.可見.斜格  樹
+
+#a 100.76, None, 102.11
+
+66.
+.. tuya  heci  itira,\
+that.INVIS.OBL fruit   there.INVIS
+那個.不可見.斜格  果實  那裡.不可見
+
+#e The goat passed the tree where (he) picked fruits.
+#c 羊經過了摘果實的樹。
+#a 102.11, None, 103.53
+
+67.
+... ta,\
+then
+然後
+
+#a 103.53, None, 104.52
+
+68.
+...(0.9) afa miha,\
+FS FS
+FS FS
+
+#a 104.52, None, 106.11
+
+69.
+.. halafin=tu  i==,\
+??=PFV  DM
+??=完成  DM
+
+#a 106.11, None, 107.3
+
+70.
+.. ira  ku   ccay,\
+EXIST  NOM  one
+存在  主格  一
+
+#a 107.3, None, 108.2
+
+71.
+.. a  ka’emang-ay  wawa,\
+LNK young-AY   child
+連詞  年輕-AY     小孩
+
+#a 108.2, None, 109.63
+
+72.
+.. mi-kulisiw,\
+AF-ride.bike
+主焦-騎腳踏車
+
+#a 109.63, None, 110.83
+
+73.
+... mi-ta’elif  tura==,\
+AF-pass  that.VIS.OBL
+主焦-經過 那個.可見.斜格
+
+#a 110.83, None, 112.62
+
+74.
+.. pi-pitpit-an  nira  tura  kilang,\
+PI-pick-NMZ 3SG.GEN  that.VIS.OBL tree
+PI-摘-名物化 3SG.屬格 那個.可見.斜格 樹
+
+#a 112.62, None, 114.1
+
+75.
+.. a  heci  i,\
+LNK fruit DM
+連詞 果實 DM
+
+#e There was a child riding a bike; (the child) passed the tree where he picked fruits.
+#c 又有一位年輕的小孩騎腳踏車，經過他摘果實的樹。
+#a 114.1, None, 114.92
+
+76.
+... ma-araw  nuya  wawa,\
+PF-see  that.INVIS.GEN child
+受焦-看 那個.不可見.屬格 小孩
+
+#a 114.92, None, 116.42
+
+77.
+.. kuya  heci  i,_
+that.INVIS.NOM fruit  DM
+那個.不可見.主格 果實  DM
+
+#a 116.42, None, 117.29
+
+78.
+... sa-pi-ala-an,\
+SA-PI-take-AN
+SA-PI-拿-AN
+
+#e The child saw the fruits and wanted to take them.
+#c 小孩看見那個水果，想拿。
+#n mi-ala kaku tu ccay a cudad 我拿了一本書
+#a 117.29, None, 118.64
+
+79.
+.. ta  teli-han nira  ku==,\
+then  put-HAN.PF  3SG.GEN  NOM
+然後  放-HAN.受焦  3SG.屬格  主格
+
+#a 118.64, None, 120.17
+
+80.
+.. kulisiw nira i tatihi,\
+bike  3SG.GEN  LOC side
+腳踏車  3SG.屬格  處格  旁邊
+
+#e He put his bike by the side.
+#c 他把腳踏車停放在他旁邊。
+#a 120.17, None, 121.77
+
+81.
+... nengneng-han nira kuya    ma-lingad-ay i,\
+see-HAN.PF  3SG.GEN  that.INVIS.NOM AF-till-AY DM
+看-HAN.受焦  3SG.屬格  那個.不可見.主格 主焦-耕作-AY DM
+
+#a 121.77, None, 124.04
+
+82.
+... ca’ay  pi-nengneng  cingranan,\
+NEG  PI-see  3SG.OBL
+否定  PI-看   3SG.斜格
+
+#e He looked at the farmer, (but the farmer) didn’t see him.
+#c 他望著那個農夫，(但農夫)沒有看他。
+#a 124.04, None, 125.59
+
+83.
+sa-pi-takaw-an  tu  ccay.\
+SA-PI-steal-AN  OBL  one
+SA-PI-偷-AN   斜格   一
+
+#a 125.59, None, 127.23
+
+84.
+.. nika  sa-nengneng-nengneng-han nira XXX i,\
+DM  SA-RED-see-HAN.PF  3SG.GEN  XXX  DM
+DM  SA-重疊-看-HAN.受焦 3SG.屬格  XXX   DM
+
+#e (He) wanted to steal one (basket) and looked around.
+#c (他)想偷一(簍)，東張西望。
+#n mi-takaw kaku tu paysu nira 我偷了他的錢。
+#a 127.23, None, 129.66
+
+85.
+.. ca’ay  pi-nengneng  kiya  ma-linagd-ay,\
+NEG  PI-see  that.NOM  AF-till-AY
+否定  PI-看  那個.主格  主焦-耕作-AY
+
+#e The farmer didn’t see him.
+#c 那個農夫沒有看他。
+#a 129.66, None, 131.81
+
+86.
+... saka,\
+so
+所以
+
+#a 131.81, None, 132.51
+
+87.
+.. harateng sa  cingra  i,\
+think SA  3SG.NOM  DM
+想 SA  3SG.主格  DM
+
+#a 132.51, None, 133.89
+
+88.
+... kakoy-han  aku  ku  ccay,\
+lift-HAN.PF  1SG.GEN  NOM  one
+抬-HAN.受焦   1SG.屬格  主格   一
+
+#a 133.89, None, 135.59
+
+89.
+.. fakar  latek  ca’ay,\
+basket  maybe  NEG
+簍筐  說不定  否定
+
+#a 135.59, None, 136.67
+
+90.
+.. paka-araw  saka,_
+PAKA-see  so
+PAKA-看   所以
+
+#e So he thought, 'If I take one basket, maybe he won’t see it.'
+#c 所以他想，「我抬一筐的水果，說不定他不會看到。」
+#a 136.67, None, 137.71
+
+91.
+... ala-han  nira   ku  ccay   fakar,\
+take-HAN.PF  3SG.GEN  NOM  one  basket
+拿-HAN.受焦   3SG.屬格  主格  一   簍筐
+
+#a 137.71, None, 140.0
+
+92.
+... pakafi==t-han  nira  itini  i==,\
+hang-HAN.PF  3SG.GEN  here  LOC
+掛-HAN.受焦  3SG.屬格  這裡   處格
+
+#a 140.0, None, 141.85
+
+93.
+...(1.1) kulisiw  nira.\
+bike  3SG.GEN
+腳踏車  3SG.屬格
+
+#a 141.85, None, 144.08
+
+94.
+... ta,_
+then
+然後
+
+#a 144.08, None, 144.79
+
+95.
+... sa-harakat sa=tu  mi-ta’elif,\
+SA-fast  SA=PFV  AF-pass
+SA-快速 SA=完成  主焦-經過
+
+#a 144.79, None, 146.98
+
+96.
+.. mi-laliw.\
+AF-leave
+主焦-離開
+
+#e He took one basket and hung it on his bike, leaving quickly.
+#c 他拿了一簍筐，掛在他的腳踏車上，很快(從樹下)經過，跑掉。
+#n pakafit：掛,黏,貼 附在上面
+#n pateli：放置
+#a 146.98, None, 147.84
+
+97.
+...(0.7) sa-lipaha==k sa  cingra,\
+SA-happy SA  3SG.NOM
+SA-高興 SA  3SG.主格
+
+#a 147.84, None, 150.17
+
+98.
+.. a  mu-laliw  i,_
+LNK  AF-leave  DM
+連詞  主焦-離開  DM
+
+#e He left delightedly.
+#c 他暗中自喜地離開。
+#n lipahak kaku ira kisu tayni milisu’ i takuwanan 我很高興你來看我。
+#a 150.17, None, 151.11
+
+99.
+... ‘a==yaw ma-araw nira ku ccay,\
+front AF-see  3SG.GEN NOM  one
+前面 主焦-看見  3SG.屬格 主格  一
+
+#a 151.11, None, 153.49
+
+100.
+.. a  ka’emang-ay  a  wawa,\
+LNK  young-AY LNK child
+連詞  年輕-AY 連詞 小孩
+
+#a 153.49, None, 154.66
+
+101.
+.. u fafahian,\
+CN woman
+CN 女人
+
+#a 154.66, None, 155.59
+
+102.
+.. makapah,\
+beautiful
+漂亮
+
+#a 155.59, None, 156.51
+
+103.
+.. sa’an  cingra  a  mi-nengneng  i,\
+so  3SG.NOM  LNK AF-see  DM
+如是  3SG.主格  連詞   主焦-看  DM
+
+#e He saw a young girl ahead. He saw (her and thought she was) beautiful.
+#c 前面看見一個年輕的小女孩，他看了非常漂亮。
+#a 156.51, None, 157.65
+
+104.
+... sa-nengneng-nengneng-han  nira,\
+SA-RED-see-HAN.PF   3SG.GEN
+SA-重疊-看-HAN.受焦  3SG.屬格
+
+#a 157.65, None, 159.29
+
+105.
+.. sa-ikor  sa-ikor  sa  u  fongoh  nira,\
+SA-turn.round  SA-turn.round SA  CN  head 3SG.GEN
+SA-回頭  SA-回頭 SA  CN  頭   3SG.屬格
+
+#a 159.29, None, 160.89
+
+106.
+.. mi-nengneng  i,\
+AF-see  DM
+主焦-看  DM
+
+#a 160.89, None, 161.78
+
+107.
+... puli==ng sa  kulisiw,\
+fall  SA  bike
+跌倒  SA  腳踏車
+
+#a 161.78, None, 163.86
+
+108.
+.. nira  itini i,\
+3SG.GEN  here  LOC
+3SG.屬格 這裡  處格
+
+#a 163.86, None, 164.63
+
+109.
+.. fatad nu lalan,\
+halfway  GEN road
+半途  屬格  路
+
+#e He looked around and turned round to see, falling from his bike halfway.
+#c 看來看去，回頭望一望，在路途中騎腳踏車跌倒。
+#a 164.63, None, 165.67
+
+110.
+... ma-puling  cingra  i,\
+AF-fall  3SG.NOM  DM
+主焦-跌倒  3SG.主格  DM
+
+#a 165.67, None, 167.06
+
+111.
+.. ma-taktak,\
+PF-pour
+受焦-傾倒
+
+#a 167.06, None, 167.84
+
+112.
+.. ma-’emin kiya heci nu kilang,\
+PF-all  that  fruit GEN tree
+受焦-全部  那個  果實 屬格  樹
+
+#e After he fell down, all the fruits fell off.
+#c 跌倒之後，果實全部傾倒出來了。
+#n ma-’emin tayni ku pulong a tamdaw：全部的人都來了。
+#n ma-’emin aku ma-nanum ku nanum：我把水全喝光了。
+#n ma-’emin awa-ay=tu ku kulisiw：全部的腳踏車都不見了。
+#a 167.84, None, 169.8
+
+113.
+... s  nengneng-han  nira  ku==,\
+FS  see-HAN.PF  3SG.GEN  NOM
+FS 看-HAN.受焦   3SG.屬格  主格
+
+#a 169.8, None, 171.72
+
+114.
+.. wa’ay nira  i==,\
+foot 3SG.GEN  DM
+腳  3SG.屬格  DM
+
+#a 171.72, None, 172.65
+
+115.
+.. ma-lemes  sakira,\
+AF-bleed  DM
+主焦-流血  DM
+
+#e He looked at his foot, which was bleeding.
+#c 他看他的腳，流血。
+#a 172.65, None, 173.78
+
+116.
+...(0.7) harateng sa maan,\
+think SA  what
+想 SA    什麼
+
+#a 173.78, None, 175.59
+
+117.
+.. sa=tu  kaku sa’an.\
+SA=PFV  1SG.NOM  so
+SA-完成  1SG.主格   如此
+
+#e He thought, ‘What should I do?’
+#c 他想，我怎麼辦？
+#n maan sa=tu 怎麼辦
+#n sa’an 心裡如此想
+#a 175.59, None, 176.69
+
+118.
+...(0.9) ca’a-han  nira  ku  fongoh  nira  i,\
+look.up-HAN.PF  3SG.GEN  NOM  head  3SG.GEN  DM
+抬頭望-HAN.受焦  3SG.屬格  主格  頭   3SG.屬格  DM
+
+#a 176.69, None, 178.83
+
+119.
+ira  ku  ta-tulu-ay  a  ka’emang-ay  wawa,\
+EXIST  NOM CA-three-AY  LNK young-AY  child
+存在  主格  Ca重疊-三-AY  連詞  年輕-AY  小孩
+
+#a 178.83, None, 180.68
+
+120.
+... padang-han  nira,\
+help-HAN.PF  3SG.GEN
+幫助-HAN.受焦   3SG.屬格
+
+#a 180.68, None, 182.21
+
+121.
+.. tura    mi-pudpud   tiya  kilang,\
+that.VIS.OBL  AF-pick  that.INVIS.OBL  tree
+那個.可見.斜格  主焦-撿  那個.不可見.斜格  樹
+
+#e He looked up. There were three children helping him pick up the fruits.
+#c 他抬頭望，有三個年輕的小孩幫他撿拾水果。
+#a 182.21, None, 184.09
+
+122.
+... sa-lihaday,\
+SA-lighthearted
+SA-輕鬆
+
+#a 184.09, None, 185.33
+
+123.
+.. sa  kiya  falucuh  niya  wawa.\
+SA  that.INVIS.NOM  heart  that.INVIS.GEN child
+SA    那個.不可見.主格  心   那個.不可見.屬格 小孩
+
+#e The child (who stole the fruits) felt lighthearted.
+#c 那個小孩(偷東西的那個)感到很輕鬆。
+#a 185.33, None, 186.64
+
+124.
+.. sa-nengneng-han  nira  kuya  ta-tulu-ay,\
+SA-see-HAN.PF  3SG.GEN  that.INVIS.NOM CA-three-AY
+SA-看-HAN.受焦  3SG.屬格  那個.不可見.主格 Ca重疊-三-AY
+
+#a 186.64, None, 188.44
+
+125.
+.. aciyah,\
+INT
+感嘆
+
+#a 188.44, None, 189.14
+
+126.
+.. kuna ta-tulu-ay wawa,\
+that.NOM CA-three-AY child
+那個.主格 Ca重疊-三-AY 小孩
+
+#a 189.14, None, 190.13
+
+127.
+.. mi-padang takuwanan,\
+AF-help 1SG.OBL
+主焦-協助 1SG.斜格
+
+#a 190.13, None, 191.13
+
+128.
+.. sa’an cingra i.\
+so 3SG.NOM DM
+如是 3SG.主格 DM
+
+#e ‘Ah, the three children helped me,’ he thought.
+#c 啊，那三個小孩幫助我，他這麼想。
+#a 191.13, None, 191.91
+
+129.
+... ma-herek  cingra  i==,\
+AF-finish  3SG.NOM  DM
+主焦-完成  3SG.主格  DM
+
+#a 191.91, None, 193.48
+
+130.
+.. ma-padang  nira  kiya  ta-tulu-ay  wawa  kiya,_
+PF-help  3SG.GEN  that.INVIS.NOM CA-three-AY  child  that.INVIS.NOM
+受焦-幫忙 3SG.屬格 那個.不可見.主格 Ca重疊-三-AY 小孩  那個.不可見.主格
+
+#a 193.48, None, 195.37
+
+131.
+.. fakar  tara  i  kafekang,\
+basket  that  LOC above
+籃子 那個 處格  上面
+
+#a 195.37, None, 196.71
+
+132.
+.. atu  ya  heci  nu  kilang,\
+and  that  fruit GEN  tree
+和 那個  果實  屬格  樹
+
+#e After he was done, he helped the three children put the basket on (the bike).
+#c 完了以後，他幫忙三個小孩把籃子裝在(腳踏車)上面。
+#a 196.71, None, 198.01
+
+133.
+.. ta,\
+then
+然後
+
+#a 198.01, None, 198.51
+
+134.
+.. ma  mi-liyas=tu  cingra,\
+FS  AF-leave=PFV  3SG.NOM
+FS 主焦-離開=完成  3SG.主格
+
+#e The he left.
+#c 然後他離開了。
+#a 198.51, None, 199.81
+
+135.
+.. mi-ta’elif  kuya  ta-tulu-ay  wawa  i,\
+AF-pass  that.INVIS.NOM CA-three-AY  child  DM
+主焦-經過  那個.不可見.主格 Ca重疊-三-AY 小孩  DM
+
+#a 199.81, None, 201.61
+
+136.
+.. ma==-araw   nira  kiya,_
+PF-see   3SG.GEN  that.INVIS.NOM
+受焦-看  3SG.屬格  那個.不可見.主格
+
+#e He saw the three children go by.
+#c 他看見那三個小孩經過。
+#a 201.61, None, 202.99
+
+137.
+...(0.7) kafong  ma-tefad  ila’enok  i,\
+hat  AF-fall  ground  DM
+帽子  主焦-掉落  地上  DM
+
+#a 202.99, None, 205.22
+
+138.
+.. pudpud-en  nuya  ccay,\
+pick-PF  that.INVIS.GEN one
+撿拾-受焦  那個.不可見.屬格 一
+
+#a 205.22, None, 206.07
+
+139.
+.. ka’emang-ay  wawa,\
+young-AY child
+年輕-AY  小孩
+
+#e The hat fell onto the ground, and one of the children picked it up.
+#c 帽子掉到地上，一個小孩把它撿起來。
+#a 206.07, None, 206.89
+
+140.
+... iyof-han  nira,\
+blow-HAN.PF  3SG.GEN
+吹-HAN.受焦  3SG.屬格
+
+#a 206.89, None, 208.02
+
+141.
+.. ku==,\
+NOM
+主格
+
+#a 208.02, None, 208.63
+
+142.
+...(0.9) ngoyos  mi-iyof,\
+mouth  AF-blow
+嘴巴  主焦-吹
+
+#a 208.63, None, 210.4
+
+143.
+.. tu==ya  wawa  i.\
+that.INVIS.OBL child  DM
+那個.不可見.斜格 小孩  DM
+
+#a 210.4, None, 211.8
+
+144.
+.. sa-ikor  a  mi-nengneng,\
+SA-turn.around  LNK  AF-see
+SA-回頭   連詞  主焦-看
+
+#a 211.8, None, 213.36
+
+145.
+.. patiko-en  kiya  kafong,\
+return-PF  that.INVIS.NOM  hat
+還-受焦 那個.不可見.主格   帽子
+
+#a 213.36, None, 215.02
+
+146.
+.. ka’emang-ay wawa kuya mi-kulisiw-ay,\
+young-AY child that.INVIS.NOM. AF-ride.bike-AY
+年輕-AY 小孩 那個.不可見.主格 主焦-騎腳踏車-AY
+
+#e He blew and turned around to see, returning the hat to the rider.
+#c 他吹，回頭看，把帽子還給騎腳踏車的。
+#n mi-caliw 借
+#a 215.02, None, 217.06
+
+147.
+... harateng,\
+think
+想
+
+#a 217.06, None, 218.54
+
+148.
+.. sa  mi-takaw-ay  tu==,\
+SA  AF-steal-AY  OBL
+SA   主焦-偷-AY  斜格
+
+#a 218.54, None, 219.83
+
+149.
+.. heci nu kilang  a  wawa  i.\
+fruit GEN tree  LNK child  DM
+果實 屬格 樹 連詞 小孩 DM
+
+#a 219.83, None, 221.23
+
+150.
+... aya  ka-fangcal  kuna wawa,\
+INT  KA-good  that.NOM  child
+感嘆  KA-好   那個.主格  小孩
+
+#e The child who stole the fruits thought, ‘Ah, the children were so kind.’
+#c 那個偷水果的小孩想：「唉呀，這三個小孩那麼好。」
+#a 221.23, None, 222.77
+
+151.
+.. pafeli-han  nira  tu heci,\
+give-HAN.PF  3SG.GEN OBL fruit
+給-HAN.受焦  3SG.屬格  斜格 果實
+
+#a 222.77, None, 223.92
+
+152.
+.. nu kilang kuya XX  ta-tulu-ay,\
+GEN tree that.INVIS.NOM XX CA-three-AY
+屬格 樹 那個.不可見.主格 XX Ca重疊-三-AY
+
+#a 223.92, None, 225.63
+
+153.
+ala-ccay  cangra  tuya  heci  nu  kilang,\
+ALA-one  3PL.NOM  that.INVIS.OBL fruit GEN tree
+ALA-一  3PL.主格  那個.不可見.斜格 果實 屬格 樹
+
+#e He gave some fruits to the three children, and each had one fruit.
+#c 他給三個小孩水果，每個人各一個水果
+#n ala-ccay 一個人一個
+#a 225.63, None, 227.91
+
+154.
+... ta,\
+then
+然後
+
+#a 227.91, None, 228.41
+
+155.
+.. mi-liyas=tu  kuya  wawa,\
+AF-leave=PFV  that.INVIS.NOM child
+主焦-離開=完成  那個.不可見.主格 小孩
+
+#e Then, the children left.
+#c 之後小孩就離開了。
+#a 228.41, None, 229.83
+
+156.
+...(0.7) huni  i,\
+afterwards  DM
+後來   DM
+
+#a 229.83, None, 231.07
+
+157.
+.. ya  matu’as-ay,\
+that  grow.up-AY
+那個  長大-AY
+
+#a 231.07, None, 232.06
+
+158.
+.. mi  ma-lingad-ay  i.\
+FS  AF-till-AY  DM
+FS  主焦-耕作-AY  DM
+
+#a 232.06, None, 233.35
+
+159.
+.. harateng sa  ma-tumes=tu   ku,\
+think SA  AF-full=PFV  NOM
+想 SA    主焦-滿=完成   主格
+
+#a 233.35, None, 235.26
+
+160.
+... kuna==  piala aku,\
+that.NOM  pick 1SG.GEN
+那個.主格  摘  1SG.屬格
+
+#a 235.26, None, 236.74
+
+161.
+.. mangangay=tu ma-epud=tu kaku==,\
+able=PFV  AF-descend=PFV 1SG.NOM
+可以=完成  主焦-下來=完成 1SG.主格
+
+#a 236.74, None, 238.23
+
+162.
+.. sa’an cingra i.\
+say.so  3SG.NOM DM
+如此說  3SG.主格  DM
+
+#e Then, the old person, the farmer thought, ‘(the baskets) are full.I could come down,’ he thought.
+#c 後來，那個老人，那個農夫認為，「那個(籃子)摘水果的滿了，我可以下來了。」他這樣想。
+#a 238.23, None, 239.19
+
+163.
+... nengneng-han  nira  kiya  fakar  nira  i.\
+see-HAN.PF  3SG.GEN  that.NOM  basket  3SG.GEN  DM
+看-HAN.受焦  3SG.屬格  那個.主格  籃子  3SG.屬格  DM
+
+#a 239.19, None, 241.68
+
+164.
+... tu==sa=tu,\
+two=PFV
+二=完成
+
+#e He looked at his baskets, only two left.
+#c 他看他的籃子，只剩兩(籃)。
+#a 241.68, None, 242.94
+
+165.
+.. oya ma-tumes-ay  i  c==cay=tu  kuya,\
+that  AF-full-AY  DM  one=PFV  that.INVIS.NOM
+那個  主焦-滿-AY DM  一=完成  那個.不可見.主格
+
+#a 242.94, None, 245.47
+
+166.
+.. ‘osaw,\
+left
+剩餘
+
+#e Only one was full.
+#c 那個裝滿的，只剩一個。
+#a 245.47, None, 246.08
+
+167.
+... ma  tacuwa=tu  kuna,\
+FS  where=PFV  that.NOM
+FS  哪裡=完成  那個.主格
+
+#a 246.08, None, 247.85
+
+168.
+... mi  mi-ala-an  aku  a heci nu kilang  haw,\
+FS  PF-pick-PF  1SG.GEN LNK fruit GEN tree PART
+FS  受焦-摘-受焦 1SG.屬格 連詞 果實 屬格 樹  語助詞
+
+#a 247.85, None, 250.3
+
+169.
+.. sa’an  cingra,\
+say.so   3SG.NOM
+如此說   3SG.主格
+
+#e 'Where were the fruits that I picked?'
+#c 「我摘的水果到哪裡去了呢？」
+#a 250.3, None, 250.78
+
+170.
+.. sa-nengneng-nengneng sa,\
+SA-RED-see SA
+SA-重疊-看 SA
+
+#a 250.78, None, 251.8
+
+171.
+.. mi-ta’elif  kiya  ta-tulu-ay,\
+AF-pass  that.NOM CA-three-AY
+主焦-經過 那個.主格 Ca重疊-三-AY
+
+#a 251.8, None, 253.42
+
+172.
+.. a  widang  ya ihoni-ay,\
+LNK friend  that just.now-AY
+連詞  朋友 那個  剛才-AY
+
+#a 253.42, None, 254.38
+
+173.
+.. ta-tulu-ay a wawa,\
+CA-three-AY LNK child
+Ca重疊-三-AY 連詞 小孩
+
+#a 254.38, None, 255.27
+
+174.
+... mi-ta’elif  itira  ta==,\
+AF-pass  there.INVIS  TA
+主焦-經過  那裡.不可見  TA
+
+#a 255.27, None, 256.92
+
+175.
+.. la’enu  niya  kilang  i,\
+below  that.GEN  tree  DM
+底下 那個.屬格  樹   DM
+
+#a 256.92, None, 258.33
+
+176.
+... sa-tongih-tongih,\
+SA-RED-bite
+SA-重疊-咬
+
+#a 258.33, None, 259.97
+
+177.
+.. sa  tu  heci  nu  kilang.\
+SA  OBL fruit GEN tree
+SA   斜格 果實 屬格 樹
+
+#e He looked around, (seeing) the three friends/children went by  eating fruits.
+#c (他)望來望去，(看到)剛才的三個朋友/小孩經過果樹底下，在吃水果。
+#a 259.97, None, 261.42
+
+178.
+... nika,\
+DM
+DM
+
+#a 261.42, None, 262.16
+
+179.
+... sa-nengneng-han nira  nuya matu’as-ay,\
+SA-see-HAN.PF  3SG.GEN  that.INVIS.GEN  grow.up-AY
+SA-看-HAN.受焦  3SG.屬格  那個.不可見.屬格 長大-AY
+
+#a 262.16, None, 264.2
+
+180.
+.. kiya  ta-tulu-ay  wawa  i,\
+that.NOM  CA-three-AY child DM
+那個.主格  Ca重疊-三-AY 小孩 DM
+
+#a 264.2, None, 265.32
+
+181.
+...(0.7) na ta-tulu-ay haw,\
+NA CA-three-AY  PART
+NA Ca重疊-三-AY  語助詞
+
+#a 265.32, None, 267.22
+
+182.
+.. sa-harateng-harateng,\
+SA-RED-think
+SA-重疊-想
+
+#a 267.22, None, 268.59
+
+183.
+.. sa  cingra,\
+SA  3SG.NOM
+SA  3SG.主格
+
+#e The old man was looking at the three children, thinking, ‘Is it these three people (that stole my fruits)?’
+#c 那老人家看那三個小孩，想來想去，「這三個人嗎？」
+#a 268.59, None, 268.89
+
+184.
+.. ta’eli==f sa  kuya  ta-tulu-ay  a  wawa,\
+pass SA  that.INVIS.NOM CA-three-AY  LNK  child
+經過 SA  那個.不可見.主格 Ca重疊-三-AY  連詞  小孩
+
+#e The three children went by.
+#c 那三個小孩路過。
+#a 268.89, None, 270.35
+
+185.
+... awa=tu kuna,\
+NEG=PFV this.NOM
+否定=完成  這個.主格
+
+#a 270.35, None, 271.57
+
+186.
+.. hetini aca ku,\
+only  ACA  NOM
+僅僅 ACA  主格
+
+#a 271.57, None, 272.38
+
+187.
+.. pakongku aku @@@.\
+story  1SG.GEN  @@@
+故事  1SG.屬格  @@@
+
+#e I’m done with my story.
+#c 沒有了，我的故事只有這樣。
+#a 272.38, None, 273.81

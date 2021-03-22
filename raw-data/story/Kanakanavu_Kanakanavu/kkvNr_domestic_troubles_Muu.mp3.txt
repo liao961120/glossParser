@@ -1,0 +1,2490 @@
+topic: domestic_troubles
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 翁坤, Mu'u, male, 1932-12-14
+collected: 2012-05-30
+revised: 2017-6-6
+video: kkvNr_domestic_troubles_Muu.mp3
+
+1.
+...(4.1) sua (COUGH),_
+NOM (COUGH)
+主格 (COUGH)
+
+#a 4.1, None, 5.19
+
+2.
+...(0.7) sua iku masin ia,_
+NOM 1SG.NOM now TOP
+主格 1SG.主格 現在 主題
+
+#a 5.19, None, 7.53
+
+3.
+... sua nganaraku ia Mu'u kisʉ-ʉn Kanakanavu.\
+NOM my.name TOP Mu'u call-PF Kanakanavu
+主格 我的名字 主題 Mu'u 叫-受焦 Kanakanavu
+
+#e Now I, my name is called Mu'u in Kanakanavu.
+#c 現在我，我的名字在kanakanavu裡說成Mu'u。
+#n nganaraku為老人家的說法，現代人說成nganai=maku(name=1SG.GEN)。
+#n kisʉ-ʉn有「說成」、「所謂」的意思。
+#a 7.53, None, 11.26
+
+4.
+...(1.3) sua te=ku po-isua sua,_
+FIL IRR=1SG.NOM say-that FIL
+FIL 非實現=1SG.主格 說-那個 FIL
+
+#n po-isua即為「講關於（某某主題）」的意思。
+#a 11.26, None, 14.27
+#n po-isua即為「講關於（某某主題）」的意思。
+
+5.
+... makai,\
+be.like.AF
+像.主焦
+
+#a 14.27, None, 15.26
+
+6.
+... tanasa=mia,\
+house=1PL.GEN
+家屋=1PL.屬格
+
+#n 此處發音人應為講錯；他要講的是tanasa=maku。見IU7。
+#a 15.26, None, 17.02
+#n 此處發音人應為講錯；他要講的是tanasa=maku。見IU7。
+
+7.
+.. tanasa=maku sii,_
+home=1SG.GEN because
+家=1SG.屬格 因為
+
+#a 17.02, None, 18.37
+
+8.
+...(0.9) marang=ci=kia.\
+age.AF=CI=1SG.NOM
+年老.主焦=CI=1SG.主格
+
+#e I will talk about...like my home, because I become old.
+#c 我要說那個......像是我的家，因為我老了。
+#a 18.37, None, 20.39
+
+9.
+...(1.0) cu-curu,\
+RED-really
+重疊-真的
+
+#a 20.39, None, 22.19
+
+10.
+... kan 'una=kia manu nakai,\
+should EXIST=1PL.NOM child but
+應該 存在=1PL.主格 孩子 但是
+
+#n nakai為「但是」。
+#n 孔老師不確定此處的kan的翻譯。
+#a 22.19, None, 24.74
+#n nakai為「但是」。
+#n 孔老師不確定此處的kan的翻譯。
+
+11.
+... 'esi nama-namarʉ.\
+LOC RED-flatland
+處所 重疊-平地
+
+#e To be frank, I have children, but they are in the flatland.
+#c 說實在的，我是有小孩，但是在平地。
+#n namanamarʉ實為「平地」，但是是指平地人住的地方，非平坦的地方，相對於山區原住民所居住的地方。
+#a 24.74, None, 26.33
+
+12.
+...(1.0) 'esi nama-namarʉ nakai sua nguan= _
+LOC RED-flatland but NOM 3PL.NOM
+處所 重疊-平地 但是 主格 3PL.主格
+
+#a 26.33, None, 29.66
+
+13.
+.. sua ma-manu=maku ia,_
+NOM RED-child=1SG.GEN TOP
+主格 重疊-孩子=1SG.屬格 主題
+
+#n nguan可等同於nguain(3SG.NOM)或nguani(3PL.NOM)。
+#a 29.66, None, 31.1
+#n nguan可等同於nguain(3SG.NOM)或nguani(3PL.NOM)。
+
+14.
+... 'esi takacicin,\
+PROG oneself
+進行 自己
+
+#n takacicin有「獨自做」、「自己做」、「分別做」等意思。
+#a 31.1, None, 32.76
+#n takacicin有「獨自做」、「自己做」、「分別做」等意思。
+
+15.
+.. ka-va-vantuku._
+make-RED-money
+製作-重疊-錢
+
+#e (They are) in the flatland, but they, my children, are making money by themselves.
+#c 在平地，但是他們，我的小孩們，在自己賺錢。
+#n ka-va-vaantuku一定得重疊，沒有重疊的形式ka-vaantuku近似於銀行印鈔票的意思。
+#a 32.76, None, 34.09
+
+16.
+...(0.7) ka'an,\
+NEG
+否定
+
+#a 34.09, None, 35.43
+
+17.
+.. er ka'an tavarʉ'ʉ mo-vua,\
+FIL NEG know AF-give
+FIL 否定 知道 主焦-給
+
+#n 此處的ka'an tavarʉ'ʉ為「沒辦法」的意思。
+#a 35.43, None, 37.3
+#n 此處的ka'an tavarʉ'ʉ為「沒辦法」的意思。
+
+18.
+.. ma-marang pira-ti'ing sii,\
+RED-age distribute-a.little therefore
+重疊-年老 分配-小 因此
+
+#n pira-ti'ing為「分一點」的意思。如pira-ti'ing vantuku「分一點錢」、pira-ti'ing cunuku「分一點麻糬」、pira-ti'ing canumu「分一點水」等。
+#n 其中，pira-為表示「分」的前綴，如pira-suru「給超過」(pira-suru=cu=kui=kasu「你可能給超過了」（=kui查看IU28的註））；pira-vangvang「給光光」（te=maku pira-vangvang cau/te=ku pira-vangvang cau「東西都給人了」（前者只是一種宣稱，未必會給，而後者則為講話的當下要開始給））。
+#a 37.3, None, 38.95
+#n pira-ti'ing為「分一點」的意思。如pira-ti'ing vantuku「分一點錢」、pira-ti'ing cunuku「分一點麻糬」、pira-ti'ing canumu「分一點水」等。
+#n 其中，pira-為表示「分」的前綴，如pira-suru「給超過」(pira-suru=cu=kui=kasu「你可能給超過了」（=kui查看IU28的註））；pira-vangvang「給光光」（te=maku pira-vangvang cau/te=ku pira-vangvang cau「東西都給人了」（前者只是一種宣稱，未必會給，而後者則為講話的當下要開始給））。
+
+19.
+... 'una kavangvang ta-ting.\
+EXIST all RED-a.little
+存在 全部 重疊-小
+
+#e (They) cannot give the elderly a little money, because (they) all have children.
+#c 沒辦法給長輩一點錢，因為都有小孩子了。
+#n ta-ting等同於ta-ti'ing，意為「小孩」。
+#a 38.95, None, 41.1
+
+20.
+...(1.3) 'una neci'ire isua ikim masin mata,_
+FS you.see that 1PL.EXCL.NOM now CONJ
+FS 你看 那個 1PL.排除.主格 現在 連接詞
+
+#n neci'ire並非真的叫對方看某個東西，而是「你來體會......」的意思。
+#a 41.1, None, 44.99
+#n neci'ire並非真的叫對方看某個東西，而是「你來體會......」的意思。
+
+21.
+... er,_
+FIL
+FIL
+
+#a 44.99, None, 46.01
+
+22.
+... miciku ia,_
+miciku TOP
+miciku 主題
+
+#n Miciku為發音人Mu'u的妻子Paicʉ之日文名字。
+#a 46.01, None, 47.23
+#n Miciku為發音人Mu'u的妻子Paicʉ之日文名字。
+
+23.
+.. marang=ci=kim.\
+age.AF=CI=1PL.EXCL.NOM
+年老.主焦=CI=1PL.排除.主格
+
+#e See, now I and Miciku get old.
+#c 你看，我現在跟Miciku，我們老了。
+#a 47.23, None, 48.46
+
+24.
+...(1.0) tassa marang=ci=kimi,_
+two.HUM age.AF=CI=1PL.EXCL.NOM
+二.HUM 年老.主焦=CI=1PL.排除.主格
+
+#n =kiimi等同於=kim。
+#a 48.46, None, 51.06
+#n =kiimi等同於=kim。
+
+25.
+...(1.2) cu-curu 'ecikia mamia,\
+RED-really I.just only
+重疊-真的 我就 僅
+
+#n mamia有「可惜」（mamia curu「太可惜了！」）或是「僅」（isi mamia ne-vici=maku「我只帶這些」）的意思。
+#a 51.06, None, 53.85
+#n mamia有「可惜」（mamia curu「太可惜了！」）或是「僅」（isi mamia ne-vici=maku「我只帶這些」）的意思。
+
+26.
+...(1.0) kan a==ka,/
+KAN NEG
+KAN 否定
+
+#n kan為敘述夢境實用的詞。
+#a 53.85, None, 56.15
+#n kan為敘述夢境實用的詞。
+
+27.
+.. paira maa cʉpʉng-a=ku si,\
+often only heart-REL=1SG.NOM therefore
+經常 僅 心-關係詞=1SG.主格 因此
+
+#n maa等同於mamia。原為「僅」的意思，但可以延伸為長時間只處於某種狀態，而有「一直」之意。例如：makasua maa「一直那樣」、makasua mamia ka'aan putukikio「一直那樣不工作」。
+#n imamia也等同於mamia，不同點是imamia放在它所修飾的詞語的前方，而mamia放在它所修飾的詞語的後方。兩詞都可以用來修飾名詞或動詞。例如imamia k<um>a-kʉʉn, ka'aan putukikio「只吃不工作」；imamia Pani paracaan「只有Pani在唱歌」；imamia paracaan pani, ka'aan kara-pa'ici「Pani只唱歌不喝酒」。
+#n 比較：cʉpʉng「心理」、「思維」、「情緒」；cʉpʉng=maku「我的想法」；cʉpʉng-a=ku「我所想的」。
+#a 56.15, None, 57.96
+#n maa等同於mamia。原為「僅」的意思，但可以延伸為長時間只處於某種狀態，而有「一直」之意。例如：makasua maa「一直那樣」、makasua mamia ka'aan putukikio「一直那樣不工作」。
+#n imamia也等同於mamia，不同點是imamia放在它所修飾的詞語的前方，而mamia放在它所修飾的詞語的後方。兩詞都可以用來修飾名詞或動詞。例如imamia k&lt;um&gt;a-kʉʉn, ka'aan putukikio「只吃不工作」；imamia Pani paracaan「只有Pani在唱歌」；imamia paracaan pani, ka'aan kara-pa'ici「Pani只唱歌不喝酒」。
+#n 比較：cʉpʉng「心理」、「思維」、「情緒」；cʉpʉng=maku「我的想法」；cʉpʉng-a=ku「我所想的」。
+
+28.
+... te=ci=kia-e kusa makenanu?_
+IRR=CI=1PL-Q PART how
+非實現=CI=1PL-疑問詞 語助詞 如何
+
+#e Both of us get old, and I keep being upset often. So what should I do (with that)?
+#c 我們兩個都老了，我經常一直很難過。我究竟該怎麼辦呢？
+#n -e表示疑問、懷疑、推測等等。
+#n kusa原為kusae，用以表示懷疑、不知怎麼辦的語氣。kusa為語助詞，近似於kui、cukui。例如iisi cukui「是這樣吧！（推測）」。
+#n makenanu為老人家的說法，現代人用makanan。
+#a 57.96, None, 60.49
+
+29.
+...(0.7) te=ci=kia tʉvʉ-tʉvʉ-tʉvʉsʉ ma-mamane.\
+IRR=CI=1PL RED-RED-?? RED-human.world
+非實現=CI=1PL 重疊-重疊-?? 重疊-人間
+
+
+#e ??
+#c ??
+#n 孔岳中老師聽不懂tʉvʉsʉ，而提供了另外一個類似的字tutusʉ「沒有很久」(但不適用於此)。
+#n mamane為「人生」、「人間（相對於靈界）」、「宇宙」、「大地」、「（活物的）世界」。相對於「人」則有「（萬物之）靈」apunanang或者ucu。
+#a 60.49, None, 63.45
+
+30.
+... ne-ci-re kusa tia,_
+who-CI-RE PART IRR
+誰-CI-RE 語助詞 非實現
+
+#n ne-ci-re相當於neen-ci-re，但孔老師不知道-re為何。neen也可以解為「什麼」，如neen kis-a=musu「你說了什麼？」。
+#a 63.45, None, 65.2
+#n ne-ci-re相當於neen-ci-re，但孔老師不知道-re為何。neen也可以解為「什麼」，如neen kis-a=musu「你說了什麼？」。
+
+31.
+... c<um>a-cʉ'ʉra,\
+C<AF>A-see
+C<主焦>A-看
+
+#a 65.2, None, 66.49
+
+32.
+.. ma-manu m-isa-a=ku mamia pa-cʉpʉ-cʉpʉng.\
+RED-child AF-say-REL=1SG.NOM only PA-RED-heart
+重疊-孩子 主焦-說-關係詞=1SG.主格 僅 PA-重疊-心
+
+#e I keep thinking about who on earth is going to take care of my child.
+#c 我一直在想，究竟誰要看顧我的小孩。
+#a 66.49, None, 68.79
+
+33.
+...(0.8) apaco'e nuu,\
+although if
+雖然 如果
+
+#a 68.79, None, 70.54
+
+34.
+.. mona=ku=in na 'umo'uma ia,\
+stay=1SG.NOM=if LOC field TOP
+處於=1SG.主格=如果 處所 田 主題
+
+#a 70.54, None, 72.02
+
+35.
+.. makasua cʉpʉng-a=ku.\
+in.thay.way heart-REL=1SG.NOM
+那樣 心-關係詞=1SG.主格
+
+#e Although I am in the field, what I think about is that way.
+#c 縱然我是在田裡，我所想的就是那個樣子。
+#n 此句話的意思是「雖然我在田裡忙著工作，我心裡仍然一直擔心著我的孩子」。
+#a 72.02, None, 73.41
+
+36.
+... caren=kia=kʉcʉ sii,_
+poor=1SG.NOM=PART because
+可憐=1SG.主格=語助詞 因為
+
+#n kʉcʉ表達的是無奈但還是要勉為其難地做的語氣。
+#a 73.41, None, 75.48
+#n kʉcʉ表達的是無奈但還是要勉為其難地做的語氣。
+
+37.
+... makasia 'akia=cu ma-marang.\
+in.this.way NEG=CU RED-age
+這樣 否定=CU 重疊-年老
+
+#e I am poor and therefore (I should bear it), because my parents are already not (alive).
+#c 我很可憐，(因此我得忍耐)，因為我父母不在了。
+#a 75.48, None, 78.07
+
+38.
+... koo=ci=kia c<ʉm>ʉra cumaku,\
+NEG=CI=1SG.NOM see<AF>see my.father
+否定=CI=1SG.主格 看<主焦>看 我爸爸
+
+#n c<ʉm>ʉra的完整形式為c<um>a-cʉ'ʉra(C<AF>A-see)。
+#a 78.07, None, 80.41
+#n c&lt;ʉm&gt;ʉra的完整形式為c&lt;um&gt;a-cʉ'ʉra(C&lt;AF&gt;A-see)。
+
+39.
+.. koo=ci=kia c<ʉm>ʉra cinaa=maku,\
+NEG=CI=1SG.NOM see<AF>see mother=1SG.GEN
+否定=CI=1SG.主格 看<主焦>看 媽媽=1SG.屬格
+
+#a 80.41, None, 82.13
+
+40.
+... 'ecikia mamia parʉrʉ'ʉ a.\
+I.just only miss INT
+我就 僅 懷念 感嘆
+
+#e I don't see my father, I don't see my mother, I can just only miss (them).
+#c 我沒有看到爸爸，我沒有看到媽媽，我只有懷念的份。
+#a 82.13, None, 84.94
+
+41.
+... nimike=kia=kʉcʉ nanu,\
+how=1SG.NOM=PART how
+如何=1SG.主格=語助詞 如何
+
+#n nimike=kia（或說成nimikia）表示「（這個事件）我是怎樣度過的」。
+#n nanu相當於nan。
+#a 84.94, None, 87.17
+#n nimike=kia（或說成nimikia）表示「（這個事件）我是怎樣度過的」。
+#n nanu相當於nan。
+
+42.
+... mia a'ai=pi=kia misa=kia pa-cʉpʉ-cʉpʉng.\
+when baby=also=1SG.NOM in.this.way=1SG.NOM PA-RED-heart
+當 嬰兒=還=1SG.主格 這樣=1SG.主格 PA-重疊-心
+
+#e I keep think in this way, how (I have spent my life) since babyhood. 
+#c 我一直那樣想，我從嬰兒開始，是如何（走過這一生的）。
+#a 87.17, None, 91.55
+
+43.
+...(1.0) imo,\
+therefore
+因此
+
+#n 比較：imo為「因此」，imoo（重音在oo）為「喝（受焦祈使）」。
+#a 91.55, None, 93.22
+#n 比較：imo為「因此」，imoo（重音在oo）為「喝（受焦祈使）」。
+
+44.
+...(0.8) makasin ia,_
+now TOP
+現在 主題
+
+#n makasin相當於masin。
+#a 93.22, None, 94.88
+#n makasin相當於masin。
+
+45.
+...(1.0) ka'an=ci=kia tavarʉ'ʉ ka-va-vantuku marang=ci=kia.\
+NEG=CI=1SG.NOM know make-RED-money age=CI=1SG.NOM
+否定=CI=1SG.主格 知道 製作-重疊-錢 年老=CI=1SG.主格
+
+#e Therefore now I can't make money; I am old.
+#c 所以我現在不能賺錢，我老了。
+#a 94.88, None, 98.9
+
+46.
+...(0.9) ka'an=ci=kia tavarʉ'ʉ ka-nupa-nupasʉ marang=ci=kia.\
+NEG=CI=1SG.NOM know make-RED-money age=CI=1SG.NOM
+否定=CI=1SG.主格 知道 製作-重疊-錢 年老=CI=1SG.主格
+
+#e I can't make money; I am old.
+#c 我不能賺錢；我老了。
+#a 98.9, None, 102.74
+
+47.
+...(1.3) neci'ire,\
+you.see
+你看
+
+#a 102.74, None, 104.67
+
+48.
+... er sua,_
+FIL NOM
+FIL 主格
+
+#a 104.67, None, 105.69
+
+49.
+... Kanakanavu makasi masin ia,_
+Kanakanavu FS now TOP
+Kanakanavu FS 現在 主題
+
+#a 105.69, None, 108.16
+
+50.
+...(0.7) er,_
+FIL
+FIL
+
+#a 108.16, None, 109.35
+
+51.
+.. ma icu=ku mamia marang,\
+FIL turn=1SG.NOM only age
+FIL 換=1SG.主格 僅 年老
+
+#n 孔老師對於icu=ku另外的解釋：「換我了」、「該我了」。
+#a 109.35, None, 111.72
+#n 孔老師對於icu=ku另外的解釋：「換我了」、「該我了」。
+
+52.
+.. ta marang kisʉ-ʉn.\
+FS age call-PF
+FS 年老 叫-受焦
+
+#e You see,in Kanakanavu now only I am the so-called the eldest.
+#c 你看，Kanakanavu現在只有我是所謂的最年長的。
+#a 111.72, None, 113.12
+
+53.
+...(1.0) 'esi 'una=ken tia,_
+PROG EXIST=if.we IRR
+進行 存在=如果我們 非實現
+
+#n 'una=keen原為'una=kiain。
+#a 113.12, None, 115.6
+#n 'una=keen原為'una=kiain。
+
+54.
+.. si-kamanʉng Kanakanavu,\
+IF-do Kanakanavu
+工具焦點-做 Kanakanavu
+
+#a 115.6, None, 117.08
+
+55.
+.. kaisisi avara'e,\
+ceremony any
+祭典 任何
+
+#n IU54與IU55的Kanakanavu kaisisi為「Kanakanavu的祭典」，不知道為何這裡修飾語Kanakanavu放在被修飾語kaisisi的前面（本來應該在後面）。類似的說法有：Kanakanavu tamna kaisisi「Kanakanavu族的祭典」、Kanakanavu tamna si-kaisisi「屬於k的祭典（其中某個動作或某個儀式有Kanakanavu的特色）」。
+#a 117.08, None, 118.65
+#n IU54與IU55的Kanakanavu kaisisi為「Kanakanavu的祭典」，不知道為何這裡修飾語Kanakanavu放在被修飾語kaisisi的前面（本來應該在後面）。類似的說法有：Kanakanavu tamna kaisisi「Kanakanavu族的祭典」、Kanakanavu tamna si-kaisisi「屬於k的祭典（其中某個動作或某個儀式有Kanakanavu的特色）」。
+
+56.
+... mamia ia,\
+only TOP
+僅 主題
+
+#a 118.65, None, 119.68
+
+57.
+... manasʉ,\
+perhaps
+或許
+
+#n 孔岳中老師在翻譯裡將此詞翻成「一定」。
+#a 119.68, None, 120.9
+#n 孔岳中老師在翻譯裡將此詞翻成「一定」。
+
+58.
+.. po-kari=pa 'ikua.\
+speak-word.AF=still 1SG.OBL
+說-話.主焦=還 1SG.斜格
+
+#e As long as there are any Kanakanavu ceremonies, (they) are sure to invite me.  
+#c 只要是任何關於Kanakanavu的祭典，一定還要邀請我。
+#a 120.9, None, 122.09
+
+59.
+... er 'inanu ikasu,\
+FIL be.where 2SG.NOM
+FIL 在哪裡 2SG.主格
+
+#n 'inanu原為'esi nanu。
+#a 122.09, None, 124.19
+#n 'inanu原為'esi nanu。
+
+60.
+... cuma Mu'u?\
+father Mu'u
+父親 Mu'u
+
+#e Uncle Mu'u, where are you?  
+#c Mu'u叔叔，你在哪裡？
+#n cuma也可以指與父親平輩的長輩。
+#a 124.19, None, 125.39
+
+61.
+... er ivat-a sian ikasu tia,_
+FIL come-AF.IMP here 2SG.NOM IRR
+FIL 來-主焦.祈使 這裡 2SG.主格 非實現
+
+#a 125.39, None, 128.16
+
+62.
+... tapaipecaa kari sii.\
+through.AF word because
+透過.主焦 話 因此
+
+#e You come here because (we) want talk through you (with the clansmen or ancestors).
+#c 你來這裡，因為要透過你說話（和族人或是祖先）。
+#n 和tapaipecaa相關的字：tapaica「用來通過的」、「通道（通過的地方）」、「透過」；maica「經過」。
+#a 128.16, None, 130.21
+
+63.
+... nakai isi ia,_
+CONJ this TOP
+連接詞 這個 主題
+
+#a 130.21, None, 131.8
+
+64.
+.. ma-manʉng sii,\
+RED-good.AF because
+重疊-好.主焦 因為
+
+#a 131.8, None, 132.65
+
+65.
+... iku nuu,\
+1SG.NOM if
+1SG.主格 如果
+
+#a 132.65, None, 133.99
+
+66.
+.. 'apa-tanganai=ku,\
+CAU-name=1SG.NOM
+使役-命名=1SG.主格
+
+#a 133.99, None, 135.39
+
+67.
+... tamu ka-kangca,\
+ancestor RED-sky
+祖先 重疊-天
+
+#n kangca有「上天」、「上蒼」、「在天上的祖先」等意思。ka-kangca比kangca慎重，有敬天的意味。
+#a 135.39, None, 136.98
+#n kangca有「上天」、「上蒼」、「在天上的祖先」等意思。ka-kangca比kangca慎重，有敬天的意味。
+
+68.
+...(0.8) tamvina'ʉ misee ia,\
+the.God.of.millet so.called TOP
+小米神 所謂的 主題
+
+#n tamvina'ʉ原為tamu vina'ʉ，意為「小米的祖先」。
+#n misee本義為「所說的」，引申為「所謂的」。
+#a 136.98, None, 138.73
+#n tamvina'ʉ原為tamu vina'ʉ，意為「小米的祖先」。
+#n misee本義為「所說的」，引申為「所謂的」。
+
+69.
+... ma-cang-cangarʉ cʉpʉng-a=ku sii,_
+AF-RED-happy heart-REL=1SG.NOM because
+主焦-重疊-高興 心-關係詞=1SG.主格 因為
+
+#a 138.73, None, 140.77
+
+70.
+... necʉ'ʉre.\
+you.see
+你看
+
+#e But this is good, because if (our people) talk with the god and the god of millet through me, I will be happy in my mind.
+#c 但是這是很好的，因為如果透過我來跟上蒼和小米神說話，我的心裡很高興。
+#a 140.77, None, 142.02
+
+71.
+...(1.2) makai kisa-a ma-marang miana,\
+like.AF say-REL RED-age past
+像.主焦 說-關係詞 重疊-年老 過去
+
+#a 142.02, None, 145.16
+
+72.
+... m-ate'e kitana manu,\
+AF-pass.down 1IPL.OBL FS
+主焦-留下 1PL.包含.斜格 FS
+
+#a 145.16, None, 147.21
+
+73.
+.. ma-manu.\
+RED-child
+重疊-孩子
+
+#e Like what the old people said in the past, (the tribal traditions) were passed down to us children.
+#c 就像以前老人家所說的，（部落的傳統）留給我們這些後代。
+#a 147.21, None, 147.86
+
+74.
+...(0.8) ikam  ma-man  ia,\
+2PL.NOM RED-child TOP
+2PL.主格 重疊-小孩 主題
+
+#n ikam=ikamu
+#a 147.86, None, 150.04
+#n ikam=ikamu
+
+75.
+.. 'akun aka  cʉpʉng.\
+NEG not.good heart
+否定 不好 心
+
+#e You offspring, do not worry.
+#c 你們後代阿，心裡不要難過。
+#n aka cʉpʉng表示心裡難過或是擔心。
+#a 150.04, None, 151.83
+
+76.
+...(0.7) caniara noo,\
+CANIARA if
+CANIARA 如果
+
+#n caniana不確定為何，但ucaniava是指「假定，若」。(聽起來的確有點像caniava)
+#a 151.83, None, 153.44
+#n caniana不確定為何，但ucaniava是指「假定，若」。(聽起來的確有點像caniava)
+
+77.
+...(1.3) k<um>aree=kam  vina'ʉ.\
+<AV>plant=2PL.NOM millet
+主焦.種植=2PL.主格 小米
+
+#e If you plant the millet...
+#c 如果你們種植小米...
+#n kumakurai 犁田 (kurai蟲)
+#n momʉkʉ 種植(種植下去)
+#n rumarapʉ (rapʉ種子)
+#n parekava 犁田
+#n rapʉ viaru 玉米
+#a 153.44, None, 155.97
+
+78.
+... ni-merivina'ʉ=cu=kamu  ia,_
+PFV-harvet.millet-COS=2PL.NOM TOP
+完成-收割小米=COS-2PL.主格 主題
+
+#n marivina'ʉ此處發音人念為merivina'ʉ，a>e的情況較少見。
+#a 155.97, None, 158.22
+#n marivina'ʉ此處發音人念為merivina'ʉ，a&gt;e的情況較少見。
+
+79.
+...(0.8) sua  vina'ʉ ia,_
+NOM millet TOP
+主格 小米 主題
+
+#a 158.22, None, 160.15
+
+80.
+... umʉkʉ-ʉn=cu=kamu vian'ʉ ia._
+plant-PV-CU=2PL.NOM millet TOP
+種植-受焦-CU=2PL.主格 小米 主題
+
+#e You harvested millet, the millet… you planted the millet …
+#c 你們收割小米了呢，小米呢，你們把小米種植了...
+
+#n umʉkʉ & ʉmʉkʉ (同化?)
+#n ʉmʉk-a 所種植的
+#a 160.15, None, 162.19
+
+81.
+... mak ... ma-cʉpʉ-cʉpʉng=cu mamia,\
+FS . MA-RED-heart=COS only
+FS . MA-重疊-心=COS 只
+
+#n 應該為pacʉpʉcʉpʉng，可能是口誤，為提醒，要專心的含意。(聽起來似乎還是像pacʉpʉcʉpʉng)
+#a 162.19, None, 164.49
+#n 應該為pacʉpʉcʉpʉng，可能是口誤，為提醒，要專心的含意。(聽起來似乎還是像pacʉpʉcʉpʉng)
+
+82.
+... manasʉ  te=cu=kam,_
+maybe IRR=CU=2PL.NOM
+或許 非實現=CU=2PL.主格
+
+#n manasʉ: Pani老師認為此處沒有「一定」的意思。
+#a 164.49, None, 166.29
+#n manasʉ: Pani老師認為此處沒有「一定」的意思。
+
+83.
+... mon  na  cakʉrʉ  kaisisi.\
+AV.be.located OBL chamber worship
+主焦.處在 斜格 聚會所 祭祀
+
+#e Only remember…You may be about to worship ancestors in the chamber.
+#c 就只要去想(了)...你們或許就要在聚會所祭祀了。
+#a 166.29, None, 168.76
+
+84.
+... mikoo,\
+MIKOO
+MIKOO
+
+#n 應該為mikoon小米祭(指那個祭祀)。(聽起來字尾的確有鼻音)
+#n mikoon時，要把新的米掛(呈現)在家中的梁柱上。由最年長的男人去掛，每個人去搭對方的肩，嘴巴說著祭詞，其他人覆誦他的祭祠，或是各自念著自己的願望。
+#a 168.76, None, 169.78
+#n 應該為mikoon小米祭(指那個祭祀)。(聽起來字尾的確有鼻音)
+#n mikoon時，要把新的米掛(呈現)在家中的梁柱上。由最年長的男人去掛，每個人去搭對方的肩，嘴巴說著祭詞，其他人覆誦他的祭祠，或是各自念著自己的願望。
+
+85.
+.. kisa-a ma-marang,_
+say-REL RED-old
+說-關係詞 重疊-老
+
+#a 169.78, None, 170.85
+
+86.
+.. sii,_
+because
+因為
+
+#a 170.85, None, 171.37
+
+87.
+... 'e=cu tia mari-vina'ʉ.\
+PROG=COS IRR take-millet
+進行=COS 非實現 拿-小米
+
+#e What the elder call ‘MIKOON’, because we are already going to harvest the millet.
+#c 老人家所說的米貢，因為已經要收割小米了。
+#n ’e=’esi
+#a 171.37, None, 172.86
+
+88.
+...(0.9) ʉʉ...
+FS
+FS
+
+#a 172.86, None, 174.1
+
+89.
+.. ka'an=pa  aka  cʉpʉng  sua  isua.\
+NEG=PTC not.good heart NOM that
+否定=助詞 不好 心 主格 那個                             
+
+#e That, will not be sad yet.
+#c 那個心裡還不會難過。
+#n isa 那個 (此句聽起來很像ka’an=ku aka cʉpʉng sua ihua)
+#n isua 離雙方概念最近的那個概念東西(離聽話者很近的)。
+#n   suan 
+#n sinatʉ isua  那本書(隱含有很多書) 
+#n isua isua 喔喔，就是那本! 
+#n 此句也可能為ka’an paka cʉpʉng 「那個不會讓心裡難過」。
+#a 174.1, None, 175.59
+
+90.
+...(0.8) imoo,_
+so
+所以
+
+#a 175.59, None, 177.02
+
+91.
+.. misa-a=ku mamia,\
+say-REL=1SG.NOM only
+說-關係詞=1SG.主格 只
+
+#n misa-a比較少用
+#n misee
+#n  kisaa
+#n  nen kisa-a=musu mison 你剛說了什麼?
+#n  misa-a 只能用在”我”, tia (kan) iovutu (kan) misee Wesley 他說會來
+#n  kan如果直接放在tia後會變成te(但老一輩還是會用tia)。
+#a 177.02, None, 177.84
+#n misa-a比較少用
+#n misee
+#n  kisaa
+#n  nen kisa-a=musu mison 你剛說了什麼?
+#n  misa-a 只能用在”我”, tia (kan) iovutu (kan) misee Wesley 他說會來
+#n  kan如果直接放在tia後會變成te(但老一輩還是會用tia)。
+
+92.
+...(0.9) sua ikita kanakanavu ia,_
+NOM 1IPL.NOM Kanakanavu TOP
+主格 1IPL.主格 卡那卡那富 主題
+
+#a 177.84, None, 180.31
+
+93.
+...(0.7) sua ka-ta-tamu misee ia,\
+NOM do-RED-grandfather say TOP
+主格 做-重疊-祖父 說 主題
+
+#a 180.31, None, 182.53
+
+94.
+... ’akun sua masi-’upupang.\
+NEG TOP say-casually
+否定 主題  說-隨便
+
+#e So I just say, we Kanakanavu people, the so-called libation, (one) cannot say (prayers) casually.
+#c 所以我只有說，我們卡那卡那富人呢，所謂的祭酒呢，不可以亂說(祭詞)。
+#n te=ku masi-kanakanavu 我要說卡那卡那富語。
+#n ka-’upupang 隨便做
+#n mo-’upupang 隨便走走
+#a 182.53, None, 184.54
+
+95.
+... sua  ka’an tavarʉ’ʉ po-kari-kari ia,_
+NOM NEG  know  speak-RED-word TOP
+主格 否定 知道 說-重疊-話 主題
+
+#a 184.54, None, 187.55
+
+96.
+... ’akun mamia po-kari-kari.\
+NEG only speak-RED-word
+否定 只 說-重疊-話
+
+#e Those who don’t know how to say, don’t speak then.
+#c 不會說(祭詞)(的人)，就不要說話。
+#a 187.55, None, 189.65
+
+97.
+... ʉ
+FS
+FS
+
+#a 189.65, None, 190.43
+
+98.
+.. tia kari,\
+IRR word
+非實現 話
+
+#a 190.43, None, 191.12
+
+99.
+...(0.9) ucanen maamia sua,_
+only.one only NOM
+只.一 只 主格
+
+#n ucani 一
+#n   ucanen mamia 只要一個
+#n   urucinen mamia 只要兩個 (urucin)
+#n   uturen mamia 只要三個 (uturu)
+#n   ucani-in若一個
+#n   urucinin 若兩個
+#n   tacinen 只要一位 (tacin)
+#n   只要兩位 (tassa兩位)
+#n   taturu-en mamia 只要三位(taturu)
+#n   -en -EN
+#a 191.12, None, 193.33
+#n ucani 一
+#n   ucanen mamia 只要一個
+#n   urucinen mamia 只要兩個 (urucin)
+#n   uturen mamia 只要三個 (uturu)
+#n   ucani-in若一個
+#n   urucinin 若兩個
+#n   tacinen 只要一位 (tacin)
+#n   只要兩位 (tassa兩位)
+#n   taturu-en mamia 只要三位(taturu)
+#n   -en -EN
+
+100.
+.. kari=musu.\
+word=2SG.GEN
+話=2SG.屬格
+
+#e What you will say is only one sentence.
+#c 你要說的(祭詞)只有一句。
+#a 193.33, None, 194.06
+
+101.
+... tamoo,\
+grandfather
+祖父
+
+#a 194.06, None, 195.16
+
+102.
+... aman=cu=kasu  ma-marang  misee mamia,\
+AMAN=COS=2SG.NOM RED-elderly say  only
+ AMAN=COS=2SG.主格 重疊-長者  說  只
+
+#a 195.16, None, 197.66
+
+103.
+... ’akun sua ’una kari,\
+NEG NOM EXIST word
+否定 主格 存在  話
+
+#a 197.66, None, 199.63
+
+104.
+...(1.0) noo,_
+if
+若
+
+#a 199.63, None, 201.18
+
+105.
+.. katatamu=kita noo ’una=kiten,\
+libate=1IPL.NOM if EXIST=1PL.NOM
+祭酒=1IPL.主格 若 有=1PL.主格
+
+#n kiten為kita=in變音之結果。
+#a 201.18, None, 203.18
+#n kiten為kita=in變音之結果。
+
+106.
+.. kari aka ia,\
+word not.good TOP
+話 不好 主題
+
+#a 203.18, None, 204.21
+
+107.
+... sii sua tavara’-a mamia.\
+because NOM know-IMP.AF only
+因為 主格 知道-祈使.主焦 只
+
+#e Our ancestors! When we libate, if we have bad prayers.
+#c 祖先阿，我們祭酒的時候，我們若有不好的話，因為(大家)要謹記。
+#a 204.21, None, 206.32
+
+108.
+... necʉre.\
+look.IMP
+看.命令
+
+#e Look!
+#c 你看!
+#a 206.32, None, 207.36
+
+114.
+...(1.0) noo te=ci=kita kaisisi ia,\
+if  IRR=COS=1IPL.NOM worship TOP
+若 非實現=COS=1IPL.主格 祭祀 主題
+	
+#n 這裡的noo為 «當»的意思。
+#a 213.68, None, 216.04
+#n 這裡的noo為 «當»的意思。
+
+115.
+... kan ‘esi-cu t<in>-puru-puru nia cakʉrʉ,\
+KAN PROG=COS sit<PFV>-RED there chamber
+KAN 進行=COS 坐<完成>-重疊 那裏 聚會所
+
+#n tupuru 坐
+#n tinpurupuru=tinipurupuru 很多人坐下來(都坐著了)
+#n nia=’inia 那裏
+#n kan此處表示描述一件事情
+#a 216.04, None, 218.56
+#n tupuru 坐
+#n tinpurupuru=tinipurupuru 很多人坐下來(都坐著了)
+#n nia=’inia 那裏
+#n kan此處表示描述一件事情
+
+116.
+...(0.7) via ʉ... aririan  kitana.\
+FS FS  listen 1EPL.ACC
+FS FS 聆聽 1EPL.受格
+
+#e When we are going to worship, (all the people) are sitting there in the chamber.
+#c 當我們要祭祀了，(所有人)都已經坐在聚會所那裏，注意聽我們(的話)。
+#n aririan 為傾聽/專心聽的意思
+#n te=ku aririan kari=musu soni 我今天要仔細聽你說
+#n aririanoo kari=in 去探聽他的話!
+#a 218.56, None, 221.03
+
+117.
+... AH AH,\
+AH AH
+AH AH
+
+#a 221.03, None, 221.63
+
+118.
+... makanan tia s,\
+how IRR FS
+如何 非實現 FS
+
+#a 221.63, None, 223.04
+
+119.
+.. te=kita cumacʉ’ʉra ma-man=mita,\
+IRR=1IPL.NOM <AV>see RED-child=1EPL.GEN
+非實現=1IPL.主格 <AV>看 重疊-小孩=1EPL.屬格
+
+#a 223.04, None, 225.07
+
+120.
+... si-kaisisi ma-man=mita,\
+IV-worship RED-child=1EPL.GEN
+工焦-祭祀 重疊-小孩=1EPL.屬格
+
+#a 225.07, None, 227.24
+
+121.
+... makan,_
+FS
+FS
+
+#a 227.24, None, 228.08
+
+122.
+.. matʉa karee maka==,_
+same Q FS
+相同 嗎 FS
+
+#n kara 嗎
+#n karee 究竟(表示說話者急迫想知道/探究)
+#a 228.08, None, 229.44
+#n kara 嗎
+#n karee 究竟(表示說話者急迫想知道/探究)
+
+123.
+.. mataa==,_
+and
+和
+
+#a 229.44, None, 230.17
+
+124.
+... si-kaisisi=ta ma-marang.\
+IV-worship=1EPL.GEN RED-old
+工焦-祭祀=1EPL.屬格 RED-老
+
+#e How to worship ancestors ? We will see if the way our offspring worship is the same as the way the elderly did.
+#c 要怎樣(祭祀)呢，我們要看我們後代祭祀的方式和老一輩的人究竟是否一樣。
+#n =ta為 =mita的簡略形式。
+#a 230.17, None, 232.21
+
+125.
+.. misee AH,\
+say FS
+說 FS
+
+#a 232.21, None, 233.15
+
+126.
+... ma-marang=mita.\
+RED-old=1EPL.GEN
+重疊-老=1EPL.屬格
+
+#e Our ancestors will say that, is it the same as the way our ancestors worshiped?
+#c 我們祖先會說，和我們祖先祭祀的方式(包括祭詞/動作)相同嗎?
+#a 233.15, None, 234.39
+
+127.
+... imoo=ku misee,\
+so=1SG.NOM say
+所以=1SG.主格 說
+
+#a 234.39, None, 235.85
+
+128.
+... sua,_
+NOM
+主格
+
+#a 235.85, None, 236.88
+
+129.
+.. mokusa=kita cakʉrʉ ia,_
+AV.go=1IPL.NOM chamber TOP
+主焦.去=1IPL.主格 聚會所 主題
+
+#a 236.88, None, 238.49
+
+130.
+... ’akun masi-pupang.\
+NEG  speak-casually
+否定 說-隨便
+
+#e So I say, when we go to the chamber, (we) do not speak casually.
+#c 所以我說，我們去聚會所呢，不要亂說話。
+#a 238.49, None, 240.09
+
+131.
+...(0.8) sua ka’an tavarʉ’ʉ po-kari-kari ia,\
+NOM NEG know speak-RED-word TOP
+主格 否定 知道 說-重疊-話 主題
+
+#a 240.09, None, 242.65
+
+132.
+...(1.2) tamoo,\
+ancestor
+祖先
+
+#n tamoo這裡指「祖先」或「眾靈」。
+#a 242.65, None, 244.38
+#n tamoo這裡指「祖先」或「眾靈」。
+
+133.
+.. kisa-a mamia._
+say-REL only
+說-關係詞 只
+
+#e Those who don’t know how to say just say ‘tamoo’.
+#c 不會說(祭詞)的(人)，只要說「tamoo」。
+#a 244.38, None, 245.1
+
+134.
+.. nguaci  sua kari hua.\
+only  NOM word that
+僅只 NOM 話 那
+
+#e Only that word.
+#c 只有那句(講完就結束的意思)。
+
+#n 完整應為nguaci sua kari iisua
+#n 不能換成inmamia和mamia(可惜)
+#n nguaci kari=maku 我的話結束了
+#n nguaci iisi neevici=maku 我帶的只有一些
+#n nguaci na pangka 只有桌上這些(其他地方沒有，只有剩下桌上的)
+#n mamia na pangka 桌上的可惜啊
+#n inmamia na pangka 只有在桌上(只能吃桌上的)
+#a 245.1, None, 246.64
+
+135.
+... necʉre kan ’una=kita ’e na,_
+look.IMP KAN EXIST=1IPL.NOM EXIST LOC
+看.命令 KAN 存在=1IPL.主格 存在 地點
+
+#n ’e=’esi
+#a 246.64, None, 249.17
+#n ’e=’esi
+
+136.
+... Kanakanavu (IHI),_
+Kanakanavu (IHI)
+卡那卡那富 (IHI)
+
+#a 249.17, None, 249.99
+
+137.
+.. pʉ’ʉpʉ kanakanavu i,\
+remaining Kanakanavu this
+遺留 卡那卡那富 這
+
+#n pʉ’ʉpʉ  是個謙卑的用語，殘留/剩下來的(例如吃飯掉下來的飯粒/菜)，少數的
+#n tingasʉ 吃剩的 una-kara tingasʉ=musu 你有吃剩的嗎?
+#n isi=ihi=i 很少聽到
+#n ’esi nanu pʉ’ʉpʉ tammi 吃剩的地瓜在那裡
+#n te=ku mokusa ’umo’uma  maram  tammi 我要去田地撿拾剩餘的地瓜(maram撿/挑選)
+#a 249.99, None, 251.08
+#n pʉ’ʉpʉ  是個謙卑的用語，殘留/剩下來的(例如吃飯掉下來的飯粒/菜)，少數的
+#n tingasʉ 吃剩的 una-kara tingasʉ=musu 你有吃剩的嗎?
+#n isi=ihi=i 很少聽到
+#n ’esi nanu pʉ’ʉpʉ tammi 吃剩的地瓜在那裡
+#n te=ku mokusa ’umo’uma  maram  tammi 我要去田地撿拾剩餘的地瓜(maram撿/挑選)
+
+138.
+... masi-upupang noo,\
+say-casually when
+說-隨便 當
+
+#a 251.08, None, 252.85
+
+139.
+.. katatamu=kita cakʉrʉ.\
+libate=1IPL.NOM chamber
+祭酒=1IPL.主格 聚會所
+
+#e You see, we have in… we the remaining Kanakanavu people, when we libate in the chamber, (we) say the prayers casually…
+#c 你看，我們有在…我們這些遺留下來的knv(人) ，當我們在為聚會所祭酒的時候，隨便說話…
+#a 252.85, None, 254.39
+
+140.
+... necʉ’ʉre  ’una=kita,\
+look.IMP EXIST=1IPL.NOM
+看.命令 存在=1IPL.主格
+
+#a 254.39, None, 255.79
+
+141.
+... ara-aka._
+become-bad
+變-壞
+
+#e You see, we have some people who passed away.
+#c 你看，我們有(人)去世。
+#n 隱喻人去世，動物以及和KKV無親緣的人就使用mamacai/miapacai。
+#a 255.79, None, 257.11
+
+142.
+... m... aʉ...
+FS FS
+FS FS
+
+#a 257.11, None, 257.83
+
+143.
+... ’aka sua tina’an-in._
+not.good NOM body-3SG.GEN
+不好 主格 身體-3SG.屬格
+
+#e Some are in bad physical condition.
+#c (有人)他的身體不好。
+#a 257.83, None, 260.0
+
+144.
+.. ka’an ma-manʉng,\
+NEG RED-good
+否定 重疊-好
+
+#a 260.0, None, 261.19
+
+145.
+... si’icʉp=in.\
+sleep=3SG.GEN
+睡=3SG.屬格
+
+#e He does not sleep well. (MET. He has bad luck)
+#c 他睡不好(隱喻為他運氣不好)。
+#n si’icʉpʉ 睡覺
+#n ka’an mamanʉng si’icʉpʉ
+#n ’itumuru  sikurapʉ! Ka’an mamanʉng si’icʉpʉ
+#n ʉcʉpʉ 夢 aka ʉcʉpʉ=maku 我做了惡夢
+#n ’incu 運氣 mamanʉng  ’incu=maku 我運氣很好(打到山豬etc.)
+#n ka’an mamanʉng nguain tamna ’incu 他的運氣不好
+#a 261.19, None, 262.51
+
+146.
+.. sipʉcʉcʉp=in  sua,\
+dream=3SG.GEN NOM
+夢=3SG.屬格 主格
+
+#n ʉcʉpʉ 夢
+#n pusu’ʉcʉpʉ 作夢/運氣(好)
+#n ni=pusuaka 我做了壞夢(運氣不好)
+#n sipʉcʉcʉpin 所做的夢(運)
+#a 262.51, None, 264.01
+#n ʉcʉpʉ 夢
+#n pusu’ʉcʉpʉ 作夢/運氣(好)
+#n ni=pusuaka 我做了壞夢(運氣不好)
+#n sipʉcʉcʉpin 所做的夢(運)
+
+147.
+... makasua sua.\
+like.that NOM
+像那樣 主格
+
+#e His (bad) luck is like that.
+#c 他的運氣就像那樣啊。
+#a 264.01, None, 265.42
+
+148.
+... oh
+OH
+OH
+
+#a 265.42, None, 266.39
+
+149.
+.. ka’an masi-manʉngʉn,\
+NEG say-good.AF
+否定 說-好.主焦
+
+#a 266.39, None, 267.66
+
+150.
+... mon na cakʉrʉ.\
+be.located LOC chamber
+處在 處所 聚會所
+
+#e The prayers are not said in the right way in the chamber.
+#c 在聚會所沒有好好(正確地)地說(祭詞)。
+#a 267.66, None, 268.87
+
+151.
+... imoo,\
+so
+所以
+
+#a 268.87, None, 269.7
+
+152.
+.. paira=ku  makasua noo ‘una=ku=in.\
+often=1SG.NOM like.that if EXIST=1SG.NOM-if
+經常=1SG.主格  那樣  若  存在=1SG.主格=若
+
+#e So I’m often like that, if I have time.
+#c 所以我常像那樣，若我有(時間/有空)。
+#a 269.7, None, 271.29
+
+153.
+... noo kaisisi=kita ia,_
+when worship=1IPL.NOM TOP
+當 祭祀=1IPL.主格 主題
+
+#a 271.29, None, 272.94
+
+154.
+... matacuvucuvung=kita  ia,\
+gather=1IPL.NOM TOP
+集合=1IPL.主格 主題
+
+#a 272.94, None, 274.8
+
+155.
+... manasʉ=ku,\
+must=1SG.NOM
+一定=1SG.主格
+
+#a 274.8, None, 276.17
+
+156.
+.. paira,\
+often
+經常
+
+#a 276.17, None, 276.68
+
+157.
+... pu’una  kari  kamua.\
+say.first word 2SG.ACC
+說.先   話  2SG.受格
+
+#e When we worship, we gather together and I often will something to tell you first.
+#c 當我們祭祀的時候(之前)，我們召集族人聚在一起，我常一定有話先跟你們說。
+#n mo’uru’uru 領頭/優先
+#n ’uru’uru 領先的
+#n pu’una 祭祀前說在前面的話 (pokarikari)
+#n neen tia pi’uru soni 今天誰要領唱?
+#a 276.68, None, 278.35
+
+158.
+... aah ma-manu,\
+AAH RED-child
+哎呀 重疊-小孩
+
+#a 278.35, None, 279.96
+
+159.
+.. ’akunen masi-pupang,\
+NEG say-causually
+否定 說-隨便
+
+#n 用’akun 語氣較一般，’akunen (’akun=in)有加強提醒的意味。
+#n ’akun roimi 不要忘記!
+#n ’akunen roimi千萬不要忘記!
+#a 279.96, None, 280.84
+#n 用’akun 語氣較一般，’akunen (’akun=in)有加強提醒的意味。
+#n ’akun roimi 不要忘記!
+#n ’akunen roimi千萬不要忘記!
+
+160.
+.. katatamu=kamu.\
+libate=2PL.NOM
+祭酒=2PL.主格
+
+#e Ah, children! Don’t say the prayers casually when you libate.
+#c 哎呀，孩子們，你們祭酒不要隨便(亂)說(祭詞)。
+#a 280.84, None, 282.11
+
+161.
+... masi-manʉng-a, sua ka’an tavarʉ’ʉ po-kari-kari ia,_
+say good-IMP.AF NOM NEG know speak-RED-word TOP
+說-好-祈使.主焦 主格 否定 知道 說-重疊-話 主題
+
+#n 斷句需再確認。
+#a 282.11, None, 285.33
+#n 斷句需再確認。
+
+162.
+... ’akun maa po-kari-kari misa-a=ku.\
+NEG  only speak-RED-word say-REL=1SG.NOM
+否定 只 說-重疊-話 說-關係詞=1SG.主格
+#n 要好好地說，不會說(祭詞)的
+
+#e Those who don’t know how to say don’t speak then, I say.
+#c 我(就常)說，不會說(祭詞)的就不要說話。
+#n maa=mamia
+#a 285.33, None, 287.55
+#n 要好好地說，不會說(祭詞)的
+
+163.
+...(0.7) mataa,_
+and
+和
+
+#a 287.55, None, 288.95
+
+164.
+... ucani  ia,\
+one TOP
+一 主題
+
+#e There’s another thing.
+#c (另外有)一件。
+#a 288.95, None, 290.19
+
+165.
+... caniava noo,_
+if if
+如果 若
+
+#n ucaniava=caniava
+#a 290.19, None, 291.55
+#n ucaniava=caniava
+
+166.
+... makai,\
+like
+像
+
+#a 291.55, None, 292.71
+
+167.
+.. mikong,\
+Mikoong
+米貢
+
+#a 292.71, None, 293.38
+
+168.
+.. =kita kaisisi ia,\
+=1IPL.NOM worship TOP
+=1IPL.主格 祭祀 主題
+
+#n kaisisi=kita Mikong ia也可以。
+#a 293.38, None, 294.58
+#n kaisisi=kita Mikong ia也可以。
+
+169.
+...(0.8) cu-curu makai uh…
+RED-really like UH
+重疊-真的 像 UH
+
+#a 294.58, None, 296.35
+
+170.
+... ak sua ikita mamisa  ia,_
+FS NOM 1IPL.NOM recently TOP
+FS 主格 1IPL.主格 最近 主題
+
+#a 296.35, None, 297.68
+
+171.
+... ’esi=ci=kita mamia,\
+PROG=COS=1IPL.NOM only
+進行=COS=1IPL.主格 只
+
+#a 297.68, None, 299.22
+
+172.
+um-ara  mamia,\
+AF-take only
+主焦-拿 只
+
+#n mara karu marivura’ʉ 拿木頭打
+#n umara karu marivura’ʉ 催促
+#n moran 幫助
+#n umoran 幫助(兩個不確定是否相同)
+#a 299.22, None, 300.72
+#n mara karu marivura’ʉ 拿木頭打
+#n umara karu marivura’ʉ 催促
+#n moran 幫助
+#n umoran 幫助(兩個不確定是否相同)
+
+173.
+.. nganee,\
+name
+名字
+
+#n nganee=nganai
+#a 300.72, None, 301.21
+#n nganee=nganai
+
+174.
+... <L2JseehuL2J>,\
+government
+政府
+
+#a 301.21, None, 302.16
+
+175.
+.. <L2JseehuL2J>,\
+government
+政府
+
+#a 302.16, None, 302.75
+
+176.
+... misee=kita mamia.\
+say=1IPL.NOM only
+說=1IPL.主格 只
+
+#e Like Mikong, when we have the Mikong Festival, we only say that recently we celebrate it merely for the sake of the government.
+#c 若是像米貢祭，我們(舉行)米貢祭(的時候)，我們只是說，我們最近(近年來)只是在拿政府的名稱(名義)(來辦祭典)而已。
+#a 302.75, None, 304.4
+
+177.
+...(0.7) cu-curu sua ma-marang,_
+RED-really NOM RED-old
+重疊-真的 主格  重疊-老
+
+#a 304.4, None, 306.38
+
+178.
+.. =mita miana ia,\
+=1IPL.GEN before TOP
+=1IPL.GEN 以前 主題
+
+#a 306.38, None, 307.05
+
+179.
+... ka’a==n,/
+NEG
+否定
+
+#n ka’an 拉長表示強調。
+#a 307.05, None, 308.42
+#n ka’an 拉長表示強調。
+
+180.
+.. tavarʉ’ʉ  ’apa-cʉ’ʉra,\
+know CAUS-see
+知道  使役-看
+
+#a 308.42, None, 309.59
+
+181.
+... pakisia noo kaisisi.\
+Chinese when worship
+平地人 當 祭祀
+
+#e Our ancestors indeed would not let Taiwanese-speaking people see (Mikong) when worshiping.
+#c 我們的老人家祭祀的時候真的不可以讓講閩南話的人看(米貢祭)。
+#n pakisia 是指講閩南話的人，但後來又有講國語的人，第一批到部落的的外省人布農稱他們為tauru，卡那卡那富稱他們為tairiku(JP)，意為大陸來的。後來，naksaiana，其典故不確定，可只中國字和中國人。
+#a 309.59, None, 311.13
+
+182.
+... ka’an tavarʉ’ʉ ’ap-ivatu,\
+NEG know  CAU-come
+否定 知道 使役-來
+
+#a 311.13, None, 312.75
+
+183.
+... na,\
+LOC
+處所
+
+#a 312.75, None, 313.35
+
+184.
+.. tapininga  cakʉrʉ.\
+outside  chamber
+廣場     聚會所
+
+#e ??
+#c 絕對不讓來到聚會所的廣場。
+#n pininga 廣場 pi-pininga 室外, ta-pininga 專門…的廣場
+#n ‘esi (na) pipining Pani Pani在外頭
+#n ‘esi na pipining-a Pani  在外頭的廣場 加了a有場所的意思
+#a 313.35, None, 314.6
+
+185.
+...(1.0) uh,\
+UH
+UH
+
+#a 314.6, None, 315.97
+
+186.
+...(1.5) matarava  mamia  noo,\
+until  only  when
+到    only    當
+
+#a 315.97, None, 318.6
+
+187.
+... ni-kaisisi=ci=kita  makai,\
+PFV-worship=COS=1IPL.NOM like
+完成-祭祀=COS=1IPL.主格 像
+
+#a 318.6, None, 320.55
+
+188.
+... vina’ʉ.\
+millet
+小米
+
+#e Only when we finish worshiping, like millet.
+#c 只有到我們已經祭祀過了的時候，像小米的祭祀。
+#a 320.55, None, 321.64
+
+189.
+... uh,_
+UH
+UH
+
+#a 321.64, None, 322.66
+
+190.
+.. tumin,\
+hang
+掛 
+
+#n tumatini ‘掛’ 簡化變成tumin
+#n tumatin
+#n tinin 被掛
+#n tumatinaa 請掛上去
+#n tino 掛上去!
+#a 322.66, None, 323.19
+#n tumatini ‘掛’ 簡化變成tumin
+#n tumatin
+#n tinin 被掛
+#n tumatinaa 請掛上去
+#n tino 掛上去!
+
+191.
+.. coca’ania  ia,_
+lunch  TOP
+午餐 主題
+
+#a 323.19, None, 324.05
+
+192.
+... tavarʉ’ʉ=ci=kita  pakisia  makari  ah,\
+know=COS=1IPL.NOM  Chinese tell AH
+知道=COS=1IPL.NOM  閩南人 說 AH
+
+#n te=ku makari Pani 我要跟Pani說
+#a 324.05, None, 326.1
+#n te=ku makari Pani 我要跟Pani說
+
+193.
+...(0.7) te=kamu   iovutu   patara-’aningo   ia,_
+IRR=2PL.NOM come  shoot   TOP
+非實現=2PL.主格   來  照 主題
+
+#n patara 照(鏡子/相)的動作(照相/攝影/照鏡子)
+#n ’aningo 影子
+#n patara’aningo 影像通稱為aningo
+#a 326.1, None, 328.49
+#n patara 照(鏡子/相)的動作(照相/攝影/照鏡子)
+#n ’aningo 影子
+#n patara’aningo 影像通稱為aningo
+
+194.
+.. ivataa=cu.\
+come=COS
+來=COS
+
+#e If we finish hanging up the lunch, we can tell the Chinese people: ‘If you want to come, now you can.’
+#c 若完成了進行懸掛午餐的(儀式)，可以跟閩南人說:你們(若)要來(的話)，(可以)來了。
+#a 328.49, None, 329.51
+
+195.
+... tavarʉ-’ʉn,\
+know-PV
+知道-受焦
+
+#a 329.51, None, 330.33
+
+196.
+.. makasua  pakisia.\
+like.that  Chinese
+那樣 閩南人
+
+#e We can treat the Chinese-speaking people that way.
+#c 我們可以這樣對待閩南人。
+#n tavarʉ’ʉ=mita makasua na pakisia 我們可以這樣對待閩南人
+#a 330.33, None, 331.28
+
+197.
+...(0.7) imo  ikita Kanakanavu  kan,\
+so 1IPL.NOM Kanakanavu KAN
+所以 1IPL.主格 卡那卡那富 KAN
+
+#n 這裡的kan代表以下的內容不是說話者的主觀原意。
+#a 331.28, None, 333.28
+#n 這裡的kan代表以下的內容不是說話者的主觀原意。
+
+198.
+.. si-kaisisi=mita  ia,_
+IV-worship=1EPL.GEN TOP
+公教-祭祀=1EPL.屬格 主題
+
+#n sikaisisi 指‘方法，儀式，習慣’。
+#a 333.28, None, 334.47
+#n sikaisisi 指‘方法，儀式，習慣’。
+
+199.
+... aka,\
+not.good
+不好
+
+#a 334.47, None, 335.47
+
+200.
+.. makaa,\
+worse
+較不好
+
+#a 335.47, None, 336.29
+
+201.
+.. maraa  aka  sii,_
+relatively not.good because
+比較   不好  因為
+
+#e So the way we worship is not good, is worse, because…
+#c 所以我們卡那卡那富祭祀的方式比較不好，因為…
+#n makaa等於 maraa，以前很少聽到makaa，這個字可能是受到布農語。
+#n makaa mamanʉng 比較好
+#a 336.29, None, 337.24
+
+202.
+...(0.8) iavutu=cu  ma  kitana,\
+come=COS directly 1IPL.GEN
+來=了  直接  我們
+
+#n 現代用iovutu
+#n kitana 我們這邊
+#n ’esi=kara kasua Pani Pani有在你那裏嗎?
+#n ’esi=kara su-an Pani? Pani有在你那裏(你那個方向，你那個區域/範圍可能比較大)嗎? su你, -an地方
+#n neesa 那邊 (你我看的到或是兩個人都知道的那個東西)
+#n saana那邊 (聽話者看不到，只有說話者知道)
+#a 337.24, None, 339.24
+#n 現代用iovutu
+#n kitana 我們這邊
+#n ’esi=kara kasua Pani Pani有在你那裏嗎?
+#n ’esi=kara su-an Pani? Pani有在你那裏(你那個方向，你那個區域/範圍可能比較大)嗎? su你, -an地方
+#n neesa 那邊 (你我看的到或是兩個人都知道的那個東西)
+#n saana那邊 (聽話者看不到，只有說話者知道)
+
+203.
+.. pakisia  uh... aratʉm  aratʉm aratʉm mamia.\
+Chinese UH spring.up spring.up spring.up only
+閩南人 UH 冒出來 冒出來 冒出來 僅
+
+#e The Chinese people came straight to our place, and they just showed up.
+#c 平地人直接到我們這裡(祭祀的場所)，只是突然間冒出來冒出來。
+#n aratʉmʉ 土裡冒出新芽/人突然冒出來
+#n mativo’orua 樹幹冒出新芽
+#a 339.24, None, 342.06
+
+204.
+...(0.7) ka’an=ci=kita  tavarʉ’ʉ,\
+NEG=COS=1IPL.NOM  know
+否定=COS=1IPL.主格 知道
+
+#a 342.06, None, 343.53
+
+205.
+.. kaisisi.\
+worship
+祭祀
+
+#e We couldn’t proceed our worshiping.
+#c 我們就無法進行儀式了。
+#a 343.53, None, 344.12
+
+206.
+...(0.7) isua sua,_
+that NOM
+那 主格
+
+#a 344.12, None, 345.57
+
+207.
+.. kan <L2BhayabL2B>,_
+KAN know
+KAN 知道
+
+#n hayab 來自布農語。
+#a 345.57, None, 346.36
+#n hayab 來自布農語。
+
+208.
+.. m
+FS
+FS
+
+#a 346.36, None, 346.86
+
+209.
+.. maka <L2BhayabL2B>,_
+relatively know
+比較 知道
+
+#e That is…more…
+#c 那就是…比較會…
+#n 可能沒什麼意思，接著又講別的事。
+#a 346.86, None, 347.53
+
+210.
+.. makanan kusai,\
+how exactly
+如何 究竟
+
+#n kusai 是表示不確定/疑惑
+#n nen nimima canumu=maku? 誰喝了我的水?
+#n neni kusai nimima canumu=maku? 究竟誰喝了我的水?
+#a 347.53, None, 348.49
+#n kusai 是表示不確定/疑惑
+#n nen nimima canumu=maku? 誰喝了我的水?
+#n neni kusai nimima canumu=maku? 究竟誰喝了我的水?
+
+211.
+... se-cu’ura=kitana.\
+IV-see=1IPL.GEN
+工焦-看=1IPL.屬格
+
+#n makanan se-cuura=musu? 你的看法如何?
+#n sia為古時用的形式
+#n se-cu’ura 不能換為cumacuura(perceptual)
+#a 348.49, None, 349.88
+#n makanan se-cuura=musu? 你的看法如何?
+#n sia為古時用的形式
+#n se-cu’ura 不能換為cumacuura(perceptual)
+
+212.
+.. tamu kakangca tam-vina’ʉ.\
+grandfather sky grandfather-millet
+祖父 天 祖父-小米
+
+#e How exactly would our ancestors and the god of millet see us?
+#c 究竟我們在天上的祖先還有小米的祖先會怎樣看待我們。
+#n secura kitana sua tamu kakangca 天上祖先看待我們
+#n secura kitana tamu kakangca 看待天上的祖先
+#a 349.88, None, 351.38
+
+213.
+... sii makasua=kita,\
+because like.that=1IPL.NOM
+因為 那樣=1IPL.主格
+
+#n 這裡makasua不確定是否正確(也可能是makasmuaf 布農語的‘過分’)
+#a 351.38, None, 352.93
+#n 這裡makasua不確定是否正確(也可能是makasmuaf 布農語的‘過分’)
+
+214.
+... ’esi=pi=kita  mamia tia  matacuvucuvung,/
+PROG=still=1IPL.NOM only IRR gather
+進行=還=1IPL.主格 只 非實現 聚集
+
+#a 352.93, None, 355.49
+
+215.
+... makarikari._
+discuss
+討論
+
+#e Because we are like that, we’re still gathering together, discussing.
+#c 因為我們像那樣，我們還只是在一起討論當中。
+#a 355.49, None, 356.64
+
+216.
+... ’esi=ci  nia  pakisia  kuratumuru  mamia.\
+PROG=COS there Chinese full only
+進行=COS 那裡 閩南人  滿 僅
+
+#e The Chinese people were just everywhere.
+#c 平地人就已經在那裏佔得滿滿的。
+#n nia等於’inia
+#n miri’i 水滿滿的
+#n kuratumuru tammi na tapi 背簍上滿滿的地瓜
+#n sinatʉ ia kuratumuru na tanasa
+#a 356.64, None, 358.86
+
+217.
+... te=kita  manan,_
+IRR=1IPL.NOM how
+非實現=1IPL.主格 如何
+
+#n manan=makanan=makananu 如何
+#a 358.86, None, 359.95
+#n manan=makanan=makananu 如何
+
+218.
+.. mangari-gari.\
+shake-RED
+搖動-重疊
+
+#e How do we proceed?
+#c 我們要怎樣活動?
+#n 這裡是指如何活動。
+#a 359.95, None, 360.63
+
+219.
+...(0.7) sii,_
+because
+因為
+
+#a 360.63, None, 361.94
+
+220.
+... sua  taniara soni ia,\
+NOM day today TOP
+主格 日子 今天 主題
+
+#a 361.94, None, 363.93
+
+221.
+... ’esi=ku sian.\
+EXIST=1SG.NOM here
+存在=1SG.主格  這裡
+
+#e Because today… I’m here.
+#c 因為今天是…我在這裡。
+#n neesi 這裡 sian 這裡 (Mu’u念得很像siʉn)
+#n 如果問Pani你在哪裡?
+#n 回答’esi=ku neesi 是指我在這個範圍裡
+#n 回答’esi=ku sian 我在這裡啦(較精準)
+#a 363.93, None, 365.23
+
+222.
+... ’esi=ku pokarikari.\
+PROG=1SG.NOM speak
+進行=1SG.主格 說話
+
+#e I’m speaking.
+#c 我在說話。
+#a 365.23, None, 366.76
+
+223.
+... po-’ʉ-’ʉna,\
+speak-RED-story
+說-重疊-故事
+
+#a 366.76, None, 368.12
+
+224.
+... UH
+UH
+UH
+
+#a 368.12, None, 369.11
+
+225.
+...(1.4) po-’isua  sua,_
+speak-that NOM
+說-那個 主格
+
+#a 369.11, None, 371.46
+
+226.
+... uh
+UH
+UH
+
+#a 371.46, None, 372.44
+
+227.
+...(0.9) tanasa=maku sii,_
+house=1SG.GEN because
+家=1SG.屬格 因為
+
+#e Tell stories about the… my home, because…
+#c 說故事…說那個…我的家，因為…
+#a 372.44, None, 374.52
+
+228.
+... aaka  sua,\
+not.good NOM
+不好 主格
+
+#n 又把話題轉到自己。
+#a 374.52, None, 375.58
+#n 又把話題轉到自己。
+
+229.
+... aaka=ci  cʉpʉng=aku  sii,_
+not.good=COS heart=1SG.GEN because
+不好=COS 心=1SG.屬格 因為
+
+#n cʉpʉnga 測量的結果
+#n cʉpʉng=maku 我的心
+#n tukuun 心臟
+#n cʉpʉng=aku 
+#n makanaan cupung=musu? 你想法/感覺怎麼樣?
+#n cupunga=maku 我所想的(結果) aaka 我覺得不好
+#a 375.58, None, 377.32
+#n cʉpʉnga 測量的結果
+#n cʉpʉng=maku 我的心
+#n tukuun 心臟
+#n cʉpʉng=aku 
+#n makanaan cupung=musu? 你想法/感覺怎麼樣?
+#n cupunga=maku 我所想的(結果) aaka 我覺得不好
+
+230.
+.. marang=ci=kia._
+?? 
+??
+
+#e I already feel sad because…I become old.
+#c 我已經很難過，因為…我年紀大了。
+#a 377.32, None, 378.35
+
+231.
+... kan=ci=kia tavarʉ’ʉ,_
+NEG=COS=1SG.NOM know
+否定=COS=1SG.主格 知道
+
+#n ka’aan聽起來沒有喉塞音。
+#a 378.35, None, 380.03
+#n ka’aan聽起來沒有喉塞音。
+
+232.
+...(0.7) ka-nupa-nupasʉ.\
+KA-RED-money
+KA-重疊-錢
+
+#e I’m already unable to earn money.
+#c 我已經不能賺錢。
+#n kanupanupasʉ 指創造財富，可能拿農作物去變賣現金。
+#n kavavantuku 賺錢(真的錢)
+#n ka > kamanʉng 做
+#n kinpara’a零錢銅板
+#a 380.03, None, 381.97
+
+233.
+... akia=cu kʉna kamʉcʉ._
+NEG=COS food let.alone
+否定=COS 食物  但願
+
+#e Let alone food.
+#c 連食物都沒有。
+#n kamʉcʉ也有期待的意思。
+#n kamʉcʉ akia kʉna kamʉcʉ 但願沒有食物
+#n 表示“連…”的時候會放在名詞/形容詞的後面
+#n kamʉcʉ=ku akia kʉna 但願我沒有食物
+#n akia kamʉcʉ tavaraen 他什麼都不知道 (比較常用)
+#n una=cu kʉna kamʉcʉ 有一點食物了(可能謙虛的用法)
+#n una=cu kʉna ti’iing 有一點食物了
+#a 381.97, None, 384.19
+
+234.
+... vʉra._
+rice
+米
+
+#e (No) rice.
+#c 連米也沒有。
+#a 384.19, None, 385.39
+
+235.
+... kani  ’e=ci=kia  mamia,\
+KANI  PROG=COS=1SG.NOM only
+KANI 進行=COS=1SG.主格 僅
+
+#a 385.39, None, 386.97
+
+236.
+... purusʉsʉ’ʉ==  mamia  taniara.\
+sigh  only  day
+嘆氣 僅 日子
+
+#e I simply sigh every day.
+#c 我每天只有唉聲嘆氣。
+#a 386.97, None, 390.23
+
+237.
+.. paira,\
+often
+經常
+
+#a 390.23, None, 390.86
+
+238.
+... aaka cʉpʉng=aku sii,_
+not.good heart=1SG.GEN because
+不好 心=1SG.屬格 因為
+
+#a 390.86, None, 392.59
+
+239.
+...(0.7) iki  mata  miciku  ia  marang=ci=kimi.\
+1SG.NOM  and  PN  TOP old=COS=1EPL.NOM
+1SG.主格 和 人名 主題 老=COS=1EPL.主格
+
+#e I often feel sad because I and Miciku have become old.
+#c 我常常很難過因為我和Miciku都老了。
+#n iki等同於iku。
+#a 392.59, None, 395.69
+
+240.
+.. ka’an=ci=kia  tavarʉ putukikio.\
+NEG=COS=1IPL.NOM know work
+否定=COS=1IPL.主格 知道 工作
+
+#e We’re already unable to work.
+#c 我們已經不能工作了。
+#a 395.69, None, 397.64
+
+241.
+... ’una=kim  manu  misaa=kam,_
+have=1EPL.NOM child say=2PL.NOM
+有=1EPL.主格 小孩   說=2PL.主格
+
+#n misaa現代會說misee
+#a 397.64, None, 399.77
+#n misaa現代會說misee
+
+242.
+.. cau,  nakai,_
+man  but
+人  但
+
+#e You say that I’m one who has a child, but…
+#c 你們說我們是有小孩子的人，但是…
+#a 399.77, None, 400.58
+
+243.
+... sua  manu=maku ia,_
+NOM child=1SG.GEN TOP
+主格 小孩=1SG.屬格 主題
+
+#a 400.58, None, 402.16
+
+244.
+.. uh… takacicin  kangvang,_
+UH  by.oneself  all
+UH  自己/主動做 都
+
+#n takacicin nguain iovutu 他自己主動來
+#n te=ku takacicin putukikio 我要獨自/自己工作
+#a 402.16, None, 403.9
+#n takacicin nguain iovutu 他自己主動來
+#n te=ku takacicin putukikio 我要獨自/自己工作
+
+245.
+... ’esi  nama-namarʉ,\
+EXIST  RED-flatland
+存在  重疊-平地
+
+#n namanamarʉ 平地 (相對於高山)
+#n taninginga 平坦之地
+#a 403.9, None, 405.67
+#n namanamarʉ 平地 (相對於高山)
+#n taninginga 平坦之地
+
+246.
+... putikikio  nama-namarʉ.\
+work RED-flatland
+工作 重疊-平地
+
+#e But my children are all working in the city.
+#c 但是我的小孩都在平地，在平地工作。
+#n 可加na
+#a 405.67, None, 407.43
+
+247.
+...(0.9) te=kam,_
+IRR=2PL.NOM
+非實現=2PL.主格
+
+#a 407.43, None, 408.76
+
+248.
+.. makasua sua  sia  si-tuturu-a=maku   kamua.\
+like.that NOM FS  IV-tell-REL=1SG.GEN 2PL.OBL
+那樣 主格 FS 工焦-告訴-關係詞=1SG.屬格 2PL.斜格
+
+#e I use that to tell you.
+#c 我用以告訴你們的是那樣。
+#a 408.76, None, 411.14
+
+249.
+...(0.7) UM… noo,\
+UM  if
+UM  如果
+
+#a 411.14, None, 412.45
+
+250.
+.. t<um>ana=kamu  kari  iisi  ia,_
+<AV>listen=2PL.NOM word this TOP
+<主焦>聽=2PL.主格 話 這  主題
+
+#a 412.45, None, 414.07
+
+251.
+... sua,_
+NOM
+主格
+
+#a 414.07, None, 414.89
+
+252.
+.. kanang  ia,_
+those.who.understand TOP
+聽得懂 主題
+
+#n sua kanang= sua akanang = sua akanangʉ
+#a 414.89, None, 415.63
+#n sua kanang= sua akanang = sua akanangʉ
+
+253.
+... kan  mana   tia  paiee.\
+KAN maybe IRR regret
+KAN 或許 非實現 後悔
+
+#e If you hear these words, those who understand will probably regret.
+#c 如果你們聽到這些話，聽得懂的人或許會後悔。
+#n mana這裡是指manasʉ 
+#n pai’e’e 後悔
+#a 415.63, None, 417.26
+
+254.
+.. ah,\
+AH
+AH
+
+#a 417.26, None, 417.52
+
+255.
+... cucuru-a-na  Cuma Mu’u ia,_
+really-A-NA father PN TOP
+的確-A-NA 父親 PN 主題
+
+#n Pani到底會不會做 ? cucurua-va 原來真的是會做
+#n 用cucurua-na 驚嘆真的會做
+#n cucuru sa’oo camai iisi 這個菜真好吃 sa’o-u-ana 真好吃(加上-ana似乎表示強化)
+#a 417.52, None, 419.79
+#n Pani到底會不會做 ? cucurua-va 原來真的是會做
+#n 用cucurua-na 驚嘆真的會做
+#n cucuru sa’oo camai iisi 這個菜真好吃 sa’o-u-ana 真好吃(加上-ana似乎表示強化)
+
+256.
+.. kari Cuma Mu’u ia,_
+word father PN TOP
+話 父親 PN 主題
+
+#a 419.79, None, 421.04
+
+257.
+... ’esi  pomanʉngʉ.\
+PROG  tell.clearly
+進行 說清楚
+
+#e Uncle Mu’u’s words are really clear.
+#c Mu’u叔叔說的話真的是...說得很明白。
+#n pomanʉngʉ 說得好/說得很清楚
+#a 421.04, None, 422.78
+
+258.
+.. caren  curu,_
+poor really
+可憐   的確
+
+#n caren=careeni
+#a 422.78, None, 423.61
+#n caren=careeni
+
+259.
+.. sii  marang=cu.\
+because old=COS
+因為 老=COS
+
+#e It’s really pathetic, because I’m old.
+#c 真的很可憐，因為年長了。
+#a 423.61, None, 424.74
+
+260.
+... kan=ci=kia tavarʉu  kanupanupasʉ.\
+NEG=COS=1SG.NOM know make.money
+否定=COS=1SG.主格 知道 賺錢
+
+#e I’m already unable to make money.
+#c 我已經沒辦法賺錢了。
+#n kaan=ka’aan
+#a 424.74, None, 427.36
+
+261.
+... kan=ci=kia  tavarʉ’ʉ  kipapa  cau  kanupanupasʉ.\
+NEG=COS=1SG.NOM know follow man make.money
+否定=COS=1SG.主格 知道  跟隨   人 賺錢
+
+#e I’m already unable to follow people and make money.
+#c 我已經不能跟著別人去賺錢。
+#n kipapa=ku kasua 跟著一起去
+#n te=ku mariviviin pinarupu 我跟在你後面
+#n marivini (通常都是鼻音節位的才會脫落)
+#n miacicin 單獨一個人
+#n takacicin 各自/自己
+#n maracocoa 兩個
+#a 427.36, None, 430.42
+
+262.
+... ’esi=ci=kia mamia,\
+PROG=COS=1PL.NOM only
+進行=COS=1PL.主格 僅
+
+#a 430.42, None, 431.72
+
+263.
+.. t<in>puru  mamia,_
+<PFV>sit only
+<完成>坐 僅
+
+#n tupuru 坐著
+#a 431.72, None, 432.61
+#n tupuru 坐著
+
+264.
+.. parʉrʉ’ʉ==  mamia.\
+remember only
+懷念 僅
+
+#e We just sit here, and recollect (the past).
+#c 我們只能坐著，只能懷念。
+#n parʉrʉ’ʉ 懷念/思念
+#a 432.61, None, 434.47
+
+265.
+... te=ci=kiei,\
+IRR=COS=1SG.NOM
+非實現=COS=1SG.主格
+
+#n =kiei 我(有點不知所措的語氣)
+#a 434.47, None, 435.56
+#n =kiei 我(有點不知所措的語氣)
+
+266.
+.. mosa   makananu.\
+AV.go  where
+主焦.去 哪裡
+
+#e Where do I go…
+#c 我要去哪裡…
+#n mosa= mokusa
+#a 435.56, None, 436.94
+
+267.
+... ka’an=ci=kia  sipisipi  taniara  ia,_
+NEG=COS=1SG.NOM  SIPISIPI day TOP
+否定=COS=1SG.主格 SIPISIPI 日子 主題
+
+#a 436.94, None, 439.68
+
+268.
+... te=ci=kiei mosa makananu  manman=maku.\
+IRR=COS=疑惑 AV.go how children=1SG.GEN
+非實現=COS=疑惑 主焦.去 如何 小孩=1SG.屬格
+
+#e My days are not SIPISIPI, then what exactly should our children do?
+#c 我的日子不會SIPISIPI，究竟我的孩子怎麼辦?
+#a 439.68, None, 442.37
+
+269.
+... pacʉpʉngcʉpʉng  misaa=ku  mamia pacʉpʉngcʉpʉng,\
+think say=1SG.NOM only think
+想 說=1SG.主格 僅 想
+
+#a 442.37, None, 445.25
+
+270.
+...(0.7) sua,_
+NOM
+主格
+
+#a 445.25, None, 446.36
+
+271.
+.. kari=maku  t<um>a-turu  kamua ia,_
+word=1SG.GEN <AV>RED-tell 2PL.OBL TOP
+話=1SG.屬格 <主格>重疊-告訴 2PL.斜格 主題
+
+#a 446.36, None, 448.18
+
+272.
+... manasʉ,\
+maybe
+或許
+
+#a 448.18, None, 449.15
+
+273.
+.. matarava  mamia  nesi.\
+till  only  this
+到  僅  此
+
+#e I think, what I want to tell you ends here.
+#c 我心裡就想說，我所告訴你們的話或許就到此結束。
+#a 449.15, None, 450.46
+
+274.
+... pacʉpʉngcʉpʉng-o  makas(ua),_
+think-IMP.PV  like.that
+想-命令.受焦  像那樣
+
+#a 450.46, None, 452.36
+
+275.
+.. =sua na va  sua,\
+=SUA NA VA NOM
+=SUA NA VA 主格
+
+#a 452.36, None, 452.95
+
+276.
+... kari=in.\
+word=3SG.GEN
+話=3SG.屬格
+
+#e Remember that, his words are like that.
+#c 要去想，他的話原來是那樣。
+#a 452.95, None, 453.59
+
+277.
+... Cuma Mu’u,\
+father PN
+父親 PN
+
+#a 453.59, None, 454.75
+
+278.
+.. misaa manasi,\
+say  then
+說  才
+
+#a 454.75, None, 455.68
+
+279.
+... tavarʉ’ʉ,\
+know
+知道
+
+#a 455.68, None, 456.57
+
+280.
+.. =kamu,\
+2PL.NOM
+2PL.主格
+
+#a 456.57, None, 457.0
+
+281.
+... pacʉpʉngcʉpʉng,_
+think
+想
+
+#a 457.0, None, 458.25
+
+282.
+.. nuari.\
+future
+未來
+
+#e Then you can understand the words Uncle Mu’u said in the future.
+#c Mu’u叔叔說的事，未來你們才可以記住。
+#n 是指未來才能正確了解。
+#a 458.25, None, 458.85

@@ -1,0 +1,689 @@
+topic: Pear Story
+type: Narrative
+language: 噶瑪蘭語, Kavalan, Pear Story
+speaker: 潘金妹, Imuy, female, 1952-10-25
+collected: 2003-05-30
+revised: None
+video: KavNr-pear_imuy.mp3
+
+1.
+tangi,\ 
+today 
+今天
+
+#a 22.14, None, 22.64
+
+2.
+.. tita-an-ku,\
+see-LF-1SG.GEN
+看-處焦-1SG.屬格
+
+#a 22.64, None, 23.43
+
+3.
+.. ‘nay  wani==.\
+that   DM
+那個   DM  4. ... qi-byabas=ay,\ pick-guava=REL 摘-芭樂=關係詞
+
+4. 
+... qi-byabas=ay,\ 
+pick-guava=REL 
+摘-芭樂=關係詞
+
+#a 23.43, None, 24.34
+
+5.
+.. lazat   a   yau    ta-,\
+person  LNK  that  LOC-
+人   連詞  那個    處格-
+
+#a 25.86, None, 27.07
+
+6.
+.. ta-iza-an    u.\ 
+LOC-somewhere-LOC   PART 
+處格-某處-處格   語助詞
+
+#e I just saw a person who was picking guavas somewhere. 
+#c 我剛剛看到採芭樂的人在那邊。
+#n qi-pais 採貝類 to pick shells 
+#n qi-paRin 撿木材, 砍樹 to pick small pieces of wood, cut trees #n qi-qabing 撿/採海菜 to pick seaweeds #n qi-tiRu 撿雞蛋 to pick eggs #n qi-byabas aiku 我採芭樂 I am going to pick guavas.
+#a 27.07, None, 28.28
+
+7.
+... ta==-,\ 
+LOC- 處格-
+
+#a 28.28, None, 29.65
+
+8.
+.. pa,\
+FS
+FS  9. ... ta-bunguR-an-na    na==,\ LOC-trunk-LOC-3SG.GEN  GEN. 處格-樹幹-處格-3SG.屬格   屬格
+
+#a 29.65, None, 30.15
+
+9.
+... ta-bunguR-an-na    na==,\ 
+LOC-trunk-LOC-3SG.GEN  GEN. 
+處格-樹幹-處格-3SG.屬格   屬格
+
+#a 30.15, None, 31.45
+
+10.
+.. byabas  a  yau,\
+guava  LNK that
+芭樂  連詞   那個
+
+#a 31.45, None, 32.38
+
+11.
+.. qi,\
+FS
+FS
+
+#a 32.38, None, 32.77
+
+12.
+.. qi-byabas,\
+pick-guava
+摘-芭樂
+
+#a 32.77, None, 33.62
+
+13.
+.. ‘nay==,_
+that
+那個  
+
+#e At a guava tree. 
+#c 在芭樂樹那邊。
+#a 33.62, None, 34.34
+
+14.
+... lazat  ‘nay,\ 
+person  that 
+人   那個
+
+#a 34.34, None, 35.46
+
+15.
+.. nani.\
+DM
+DM  
+
+16. 
+... kyala-an-na=ti,\ 
+pick-LF-3SG.GEN=PFV 
+撿-處焦-3SG.屬格=完成
+
+#a 35.46, None, 36.05
+
+17.
+... ‘nay,\
+that
+那個
+
+#a 37.44, None, 37.91
+
+18.
+.. byabas  a  yau,\
+guava  LNK  that
+芭樂  連詞   那個
+
+#e That person picked guavas. 
+#c 那個人採芭樂。
+#a 37.91, None, 38.95
+
+19.
+... pizi-an-na     ta-,\ 
+put-LF-3SG.GEN LOC- 
+放-處焦-3SG.屬格 處格-
+
+#a 38.95, None, 40.17
+
+20.
+.. qibi-an,\
+basket-LOC
+籃子-處格
+
+#a 40.17, None, 41.24
+
+21.
+.. nani.\
+DM
+DM
+
+#e He put (them) in a big basket. 
+#c 他(把芭樂)放在大籃子裡。 
+#n datepuz 甜 sweet #n datepuz byabas a yau 那個芭樂很甜 That guava is very sweet. 
+#n nengi qan-an ni-qan-an-na byabas ‘nay 他吃的那個芭樂很甜 The guava he ate is very sweet. 
+#n nengi qan-an byabas ‘nay (重音) 那個芭樂很好吃 (輕音) 那個芭樂可以吃 That guava is very sweet. That guava is edible.  
+#n nengi qan-an-na byabas ‘nay = nengi q<m>an tu byabas ‘nay 他可以吃那個芭樂 He can eat that guava.
+#a 41.24, None, 41.9
+
+22.
+... ala-an-na,\ 
+take-LF-3SG.GEN 
+拿-處焦-3SG.屬格
+
+#a 41.9, None, 43.25
+
+23.
+.. pun  k<m>yala  na,\ 
+finish  <AF>pick.up  FS 
+完成   <主焦>撿    FS
+
+#a 43.25, None, 44.11
+
+24.
+.. ala-an-na=ti    na.\
+take-LF-3SG.GEN=PFV  GEN
+拿-處焦-3SG.屬格=完成  屬格  
+
+#e He finished picking (the guavas). 
+#c 撿完了芭樂。 
+#n pun=ti kyala 撿完了
+#n ni-kyala-an na lazat a yau byabas 那個人撿的芭樂 the guavas picked by that man
+#a 44.11, None, 45.05
+
+25.
+... sunis  a   yau.\
+child   LNK  that 
+孩子 連詞  那個
+
+#a 45.05, None, 46.02
+
+26.
+... m-zaqis   pa==-,\ 
+AF-take    CAU-
+主焦-乘坐   使役-
+
+#a 46.02, None, 47.25
+
+27.
+.. zaqis    ta==-,\
+take     LOC-
+乘坐   處格-
+
+#a 47.25, None, 48.04
+
+28.
+.. zitinsya-an.\
+bicycle-LOC
+腳踏車-處格 
+
+29. 
+... ‘nay  ni-kyala-an     na,\ 
+that     PFV-pick-NMZ   GEN 
+那個   完成-撿-名物化   屬格
+
+#a 48.04, None, 48.92
+
+30.
+.. tama-na,\
+father-3SG.GEN
+父親-3SG.屬格
+
+#a 50.21, None, 50.81
+
+31.
+.. tu   byabas,\
+OBL   guava
+斜格    芭樂
+
+#a 50.81, None, 51.55
+
+32.
+.. ta-bunguR-an    na    paRin.\
+LOC-trunk-LOC GEN  tree
+處格-樹幹-處格 屬格   樹  
+
+#e He put onto the bicycle the guavas picked by his father around the trunk. 
+#c 把那些他爸爸在樹幹那邊撿的芭樂放在腳踏車上。
+#a 51.55, None, 52.8
+
+33.
+... ‘nay,\
+that 
+那個
+
+#a 52.8, None, 53.9
+
+34.
+.. ala-an-na    pa-tanan    nani.\
+take-LF-3SG.GEN   CAU-return DM
+拿-處焦-3SG.屬格    使役-回來   DM
+
+#a 53.9, None, 55.51
+
+35.
+... tangi  nani,\
+today  DM
+今天  DM
+
+#a 55.51, None, 56.68
+
+36.
+... suRaw=ti,\ 
+fall=PFV 
+跌倒=完成
+
+#a 56.68, None, 57.44
+
+37.
+.. ta-pataz-an na lazan,\
+LOC-halfway-LOC  GEN road
+處格-半路-處格  屬格 路
+
+#a 57.44, None, 58.85
+
+38.
+.. ‘nay  sunis  a   yau.\
+that  child    LNK that
+那個   小孩  連詞 那個 
+
+#e The child fell halfway.
+#c 小孩在半路跌倒了。
+#a 58.85, None, 60.17
+
+39.
+... m-luzit=ti,\ 
+AF-hurt=PFV 
+主焦-受傷=完成
+
+#a 60.17, None, 61.4
+
+40.
+.. zapan  na,\
+foot   GEN
+腳     屬格
+
+#a 61.4, None, 62.31
+
+41.
+.. sunis   a     yau   nani.\
+child   LNK  that   DM
+小孩   連詞  那個   DM 
+
+#e The child’s feet were hurt.
+#c 小孩的腳受傷了。
+#a 62.31, None, 63.39
+
+42.
+... yau=ti    ya==,\
+EXIST=PFV   NOM
+存在=完成    主格
+
+#a 63.39, None, 64.38
+
+43.
+.. kaput-na.\
+friend-3SG.GEN
+朋友-3SG.屬格
+
+#a 64.38, None, 65.39
+
+44.
+... mangmu,\
+AF.help
+主焦.幫助
+
+#a 65.39, None, 66.61
+
+45.
+.. timaizipna,_
+3SG.OBL
+3SG.斜格
+
+#a 66.61, None, 67.76
+
+46.
+.. ni==-,\
+PFV-
+完成-
+
+#a 67.76, None, 68.72
+
+47.
+.. k<m>yala   tu==.\
+<AF>pick   OBL
+<主焦>撿   斜格
+
+#a 68.72, None, 69.85
+
+48.
+... ni-qa-tabuq-an-na na,\ 
+PFV-QA-spill-NMZ-3SG.GEN   GEN
+完成-QA-散落-名物化-3SG.屬格   屬格
+
+#a 69.85, None, 71.31
+
+49.
+.. byabas  a  yau,\
+guava  LNK  that
+芭樂   連詞   那個
+
+#a 71.31, None, 72.02
+
+50.
+.. ta-lazan-an.\
+LOC-road-LOC
+處格-路-處格 
+
+#e His friends came to help him pick up the guavas that were scattered all over the road.
+#c 他的朋友來幫他撿起散落一地的芭樂。
+#a 72.02, None, 72.96
+
+51.
+... qalisinpu-an-na=ti    ta==-,\
+gather-LF-3PL.GEN=PFV    LOC-
+集中-處焦-3PL.屬格=完成   處格-
+
+#a 72.96, None, 74.78
+
+52.
+.. qibi-an,\
+basket-LOC
+籃子-處格
+
+#a 74.78, None, 75.37
+
+53.
+.. ‘nay   ‘nay==,\
+that  that
+那個  那個
+
+#a 75.37, None, 76.11
+
+54.
+.. ta  ‘nay  byabas  a   yau  nani.\
+FS  that   guava  LNK  that  DM
+FS  那個  芭樂  連詞  那個  DM
+
+#e They put the guavas into the basket.
+#c 他們把芭樂集中放在籃子裡。
+#a 76.11, None, 77.65
+
+55.
+...(0.8) pa-zaqis-an-na     uman,\
+CAU-take-LF-3PL.GEN    again
+使役-乘坐-處焦-3PL.屬格    再
+
+#e They put (the guavas onto the bicycle) again.
+#c 他們再把芭樂放在腳踏車上。
+#a 77.65, None, 79.71
+
+56.
+.. t<m>anan,\
+<AF>return
+<主焦>回來
+
+#e (He) returned.
+#c (他)回來。
+#a 79.71, None, 80.37
+
+57.
+.. kalingun-an-na=ti     ya==,_
+forget-LF-3SG.GEN=PFV    NOM
+忘記-處焦-3SG.屬格=完成    主格
+
+#a 80.37, None, 81.66
+
+58.
+... ‘nay   qubu-na,\
+that    hat-3SG.GEN
+那個   帽子-3SG.屬格
+
+#a 81.66, None, 82.91
+
+59.
+.. na sunis   a   yau,\
+GEN child LNK   that
+屬格 小孩 連詞 那個
+
+#e The child forgot his hat.
+#c 小孩忘了他的帽子。
+#a 82.91, None, 83.82
+
+60.
+.. ala-an    na    kaput-na,\ 
+take-LF    GEN    friend-3SG.GEN
+拿-處焦   屬格     朋友-3SG.屬格
+
+#a 83.82, None, 84.99
+
+61.
+.. bula.\
+give
+給
+
+#a 84.99, None, 85.49
+
+62.
+... tu==,\
+OBL
+斜格
+
+#a 85.49, None, 86.43
+
+63.
+.. qubu,\
+hat
+帽子
+
+#a 86.43, None, 86.96
+
+64.
+.. ‘nay    kaput-na,\
+that     friend-3SG.GEN
+那個   朋友-3SG.屬格
+
+#a 86.96, None, 88.17
+
+65.
+.. ‘nay  m-suRaw=ay    sunis   a    yau,\
+that    AF-fall=REL      child   LNK   that
+那個   主焦-跌倒=關係詞  小孩  連詞  那個
+
+#a 88.17, None, 89.86
+
+66.
+.. nani.\
+DM
+DM 
+
+#e His friends gave the hat to the child who fell.
+#c 他的朋友把帽子拿給那個跌倒的小孩。
+#a 89.86, None, 90.42
+
+67.
+... wiya=ti,\
+leave=PFV
+離開=完成
+
+#a 90.42, None, 91.93
+
+68.
+.. t<m>anan,\
+<AF>return
+<主焦>回
+
+#a 91.93, None, 92.54
+
+69.
+.. sunis   a   yau,\
+child  LNK  that
+小孩  連詞  那個
+
+#e The child went back.
+#c 小孩回去。
+#a 92.54, None, 93.41
+
+70.
+.. yau=ti  ‘nay      kin-tulu=ay,\
+EXIST=PFV  that   CLF.HUM-three=REL
+存在=完成    那個   人量詞-三=關係詞
+
+#a 93.41, None, 94.97
+
+71.
+... yau=ti    q<m>an,\
+EXIST=PFV   <AF>eat
+存在=完成   <主焦>吃
+
+#a 94.97, None, 96.07
+
+72.
+.. tu   byabas   a     yau,\
+OBL   guava   LNK    that
+斜格   芭樂    連詞    那個 
+
+#e There were three people who were eating guavas.
+#c 有三個人在吃芭樂。
+#a 96.07, None, 97.17
+
+73.
+... wiya=ti  pasazi   ta-.\
+leave=PFV   toward.here  LOC-
+離開=完成   過來    處格-
+
+#a 97.17, None, 98.77
+
+74.
+...(0.9) ta-tibuR,\
+LOC-south
+處格-南
+
+#a 98.77, None, 100.27
+
+75.
+.. sayza   s<m>aqay,\
+maybe   <AF>walk
+可能     <主焦>走
+
+#a 100.27, None, 101.36
+
+76.
+.. ‘nay   kin-tulu=ay,\
+that    CLF.HUM-three=REL
+那個   人量詞-三=關係詞
+
+#a 101.36, None, 102.31
+
+77.
+.. sunis  a   yau.\
+child  LNK  that
+小孩   連詞   那個
+
+#a 102.31, None, 103.29
+
+78.
+... nani.\ 
+DM
+DM 
+
+#e The three children went towards the south.
+#c 那三個小孩往南走。
+#a 103.29, None, 104.42
+
+79.
+... t<m>anan=ti,\
+<AF>return=PFV 
+<主焦>回=完成
+
+#a 104.42, None, 106.02
+
+80.
+... ‘nay==,\
+that
+那個
+
+#a 106.02, None, 106.96
+
+81.
+.. sunis ‘nay  m-niz.\
+child  that     AF-all
+小孩 那個   主焦-全部 
+
+#e All the children went back.
+#c 所有的小孩都回去了。
+#a 106.96, None, 108.37
+
+82.
+... tu==,\
+DM
+DM
+
+#a 108.37, None, 109.4
+
+83.
+.. maseq=ti,\
+AF.arrive=PFV
+主焦.到達=完成
+
+#a 109.4, None, 110.35
+
+84.
+.. ta==-,\
+LOC-
+處格-
+
+#a 110.35, None, 110.91
+
+85.
+.. iza-an,\
+somewhere-LOC
+某處-處格
+
+#e To somewhere.
+#c 到某處。
+#a 110.91, None, 111.44
+
+86.
+.. ta-lepaw-an-na.\
+LOC-house-LOC-3PL.GEN
+處格-家-處格-3PL.屬格
+
+#a 111.44, None, 112.51
+
+87.
+... sayza,\ 
+maybe
+可能
+
+#a 112.51, None, 113.4
+
+88.
+.. ‘nay sunis ‘nay  Rayngu-an-ku=ti,\
+that child that     not.know-LF-1SG.GEN=PFV
+那個 小孩 那個   不知道-處焦-1SG.屬格=完成
+
+#e Perhaps to their home. I don’t know.
+#c 或許到家裡. 我不知道。
+#a 113.4, None, 115.0
+
+89.
+.. mai=ti   nayau   ma,\
+NEG=PFV   that.way  only
+否定=完成   那樣   只
+
+#a 115.0, None, 115.94
+
+90.
+.. sikawma-an,\
+speak-NMZ
+講-名物化
+
+#e That’s all.
+#c 沒了，就這樣。
+#a 115.94, None, 116.63
+
+91.
+.. <L2MmeiyouL2M>  <L2MlaL2M>.\
+NEG   PART
+否定   語助詞  
+
+#e That’s all.
+#c 沒有啦。
+#a 116.63, None, 117.53

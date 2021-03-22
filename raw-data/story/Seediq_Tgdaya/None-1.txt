@@ -1,0 +1,911 @@
+topic: taboo
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 
+collected: None
+revised: None
+video: None
+
+1.
+a==,_
+FIL
+FIL
+
+#a
+
+2.
+.. kes-un=daha,_
+say-PF=3PL.GEN
+說-受焦=3PL.屬格
+
+#a
+
+3.
+... (THROAT)
+
+#a
+
+4.
+...(2.4) a==,_
+FIL
+FIL
+
+#a
+
+5.
+.. mu-- m-- msa-ane,\
+FS FS REC-brother.in.law
+FS FS 交互-連襟
+
+#n ane用以稱呼妹夫、姊夫、小舅子。
+#a 
+#n ane用以稱呼妹夫、姊夫、小舅子。
+
+6.
+...(1.1) ka oda nii.\
+NOM experience this
+主格 經歷 這個
+
+#e Here is the story of their so-called brother-in-law relation.
+#c 他們所謂的連襟是這樣的。
+#n 給他人介紹自己姊妹的先生用msane，若是自己要呼叫自己姊妹的先生用ane。
+#n oda可以指「做過的事」；egu riyung oda很多事要做。
+#a
+
+7.
+.. (THROAT)
+
+#a
+
+8.
+...(1.0) kes-un=na msa-ane nii we,_
+say-PF=3SG.GEN REC-brother.in.law this PART
+說-受焦=3SG.屬格 交互-連襟 這個 語助詞
+
+#a
+
+9.
+... a,_
+FIL
+FIL
+
+#a
+
+10.
+...(1.1) netun m-angan mqedil,\
+COND AF-take woman
+條件詞 主焦-拿 女人
+
+#n m-angal為老一輩發音。
+#a 
+#n m-angal為老一輩發音。
+
+11.
+... netun m-angan mqedil ka== rseno.\
+COND AF-take woman NOM man
+條件詞 主焦-拿 女人 主格 男人
+
+#a
+
+12.
+...(1.0) ma==,_
+then
+然後
+
+#a
+
+13.
+.. niq-an swai ma niq-an qbsuran ka==,_
+EXIST-LF younger.sibling CONJ EXIST-LF elder.sibling NOM
+存在-處焦 弟 連接詞 存在-處焦 兄 主格
+
+#n swai「弟弟或妹妹」；qbsuran「哥哥或姐姐」。
+#a 
+#n swai「弟弟或妹妹」；qbsuran「哥哥或姐姐」。
+
+14.
+...(0.9) ka qedil=na.\
+NOM wife=3SG.GEN
+主格 太太=3SG.屬格
+
+#e The so-called brother-in-law relation means that if a man marries a woman, she has an elder or younger brother.
+#c 所謂的連襟關係是指，如果男人娶太太的時候，她有兄弟。
+#a
+
+15.
+.. kiya,_
+that
+那個
+
+#a
+
+16.
+.. naqah riyung so,\
+AF.bad very like
+主焦.壞 非常 像
+
+#a
+
+17.
+.. naqah ka==,_
+AF.bad NOM
+主焦.壞 主格
+
+#a
+
+18.
+... so p-qta-an n-da-an so a==,_
+like CAU-see-LF PFV-experience-LF like FIL
+像 使役-看-處焦 完成-經歷-處焦 像 FIL
+
+#a
+
+19.
+... so,_
+like
+像
+
+#a
+
+20.
+.. a==,_
+FIL
+FIL
+
+#a
+
+21.
+...(1.7) kndesan,_
+life
+生活
+
+#a
+
+22.
+.. kndesan so a==,\
+life like FIL
+生活 像 FIL
+
+#a
+
+23.
+... so a==,\
+like FIL
+像 FIL
+
+#a
+
+24.
+.. m-suupu ka==,_
+AF-together NOM
+主焦-一起 主格
+
+#n m-suupu「聚在一起」為「性行為」的委婉說法。
+#a 
+#n m-suupu「聚在一起」為「性行為」的委婉說法。
+
+25.
+... a== dheya,\
+FIL 3PL.NOM
+FIL 3PL.主格
+
+#a
+
+26.
+...(1.2) ka ane di.\
+NOM brother.in.law ASP
+主格 連襟 動貌
+
+#e It is very bad to let the brother-in-law see things done in life, such as they being together.
+#c 讓舅子看到生活中做的事很不好，像是他們聚在一起的事。
+#a
+
+27.
+...(0.7) m-netun,_
+AF-meet
+主焦-碰到
+
+#a
+
+28.
+.. (THROAT)
+
+#a
+
+29.
+.. qta-an=daha duwe,\
+see-LF=3PL.GEN PART
+看-處焦=3PL.屬格 語助詞
+
+#a
+
+30.
+... e== s<n>gaya mesa.\
+FIL IF<PFV>law AF.say
+FIL 工具焦<完成>族律 主焦.說
+
+#e If it happens that they see it, this is said to have broken the law.
+#c 如果碰到他們看到了，這就說是犯了族律的。
+#n gaya指族律或社會規範；s-gaya違反族律。
+#a
+
+31.
+...(1.0) ma==,_
+then
+然後
+
+#a
+
+32.
+... kiya ka,_
+that NOM
+那個 主格
+
+#a
+
+33.
+.. a p-gya-un=daha.\
+FIL P-law-PF=3PL.GEN
+FIL P-族律-受焦=3PL.屬格
+
+#e Therefore they feel it is a taboo.
+#c 所以他們認為這犯了忌諱。
+#a
+
+34.
+...(0.7) ma niq-an,_
+then EXIST-LF
+然後 存在-處焦
+
+#a
+
+35.
+.. niq-an duri,_
+EXIST-LF also
+存在-處焦 也
+
+#a
+
+36.
+... m-netun so s<m>malu so== sapah.\
+AF-meet like make<AF>make like house
+主焦-碰到 像 製作<主焦>製作 像 房子
+
+#e In addition, there are also situations like when building a house.
+#c 另外，還有像碰到像在蓋房子的情況。
+#n 通常「蓋房子」會用p-heyu 「使站立」這個字。
+#a
+
+37.
+... ma m-usa baro ka==,_
+then AF-go up NOM
+然後 主焦-去 上 主格
+
+#a
+
+38.
+.. ane=na ma==,_
+brother.in.law=3SG.GEN then
+連襟=3SG.屬格 然後
+
+#e His brother-in-law went up there.
+#c 他的連襟到上面去。
+#n 這裡ane應指姊夫。
+#a
+
+39.
+... m-eniq truma ka==,_
+AF-stay inside NOM
+主焦-在 裡面 主格
+
+#n eniq有些人念enaq，意為「居住」或是「停留」。
+#a 
+#n eniq有些人念enaq，意為「居住」或是「停留」。
+
+40.
+... so a,_
+like FIL
+像 FIL
+
+#a
+
+41.
+... a==,_
+FIL
+FIL
+
+#a
+
+42.
+...(0.8) so==,_
+like
+像
+
+#a
+
+43.
+.. ka swai rseno=na qedil=na.\
+NOM younger.sibling man=3SG.GEN wife=3SG.GEN
+主格 弟妹 男人=3SG.屬格 太太=3SG.屬格
+
+#e The younger sibling of the man’s wife was inside (the house).
+#c 這男人的太太的弟弟在（房子）裡面。
+#a
+
+44.
+.. q<m>ita so a,_
+see<AF>see like FIL
+看<主焦>看 像 FIL
+
+#a
+
+45.
+...(1.5) q<m>ita so eyu a,_
+see<AF>see like penis FIL
+看<主焦>看 像 陰莖 FIL
+
+#a
+
+46.
+.. baro de qta-an=na kana so begax duwe.\
+up PART see-LF=3SG.GEN all like testicles PART
+上 語助詞 看-處焦=3SG.屬格 全部 像 睪丸 語助詞
+
+#e If he sees his penis up there and even testicles.
+#c 如果他看到他的陰莖甚至睪丸。
+#a
+
+47.
+.. (THROAT)
+
+#a
+
+48.
+... kiya ka,\
+that NOM
+那個 主格
+
+#a
+
+49.
+... a==,_
+FIL
+FIL
+
+#a
+
+50.
+...(0.7) a mesa ma m-chaya ka ane du ma kika.\
+FIL AF.say why AF-do.so NOM brother.in.law PART then thus
+FIL 主焦.說 為什麼 主焦-這麼做 主格 連襟 語助詞 然後 所以
+
+#n ma為什麼，完整說法為malux。
+#a 
+#n ma為什麼，完整說法為malux。
+
+51.
+... ini rengo hayan.\
+NEG AF.say first
+否定 主焦.說 先
+
+#e He would say, “Why did brother-in-law do this?” but he did not say at that time.
+#c 他會想：「姊夫怎麼這樣做？」但他在當時先不說出來。
+#n mesa這裡應為「想」的意思。
+#n hayan意為「暫且；先」，不確定怎麼標比較適當。
+#a
+
+52.
+... bobo=na mesa,_
+afterwards=3.SG.GEN AF.say
+之後=3.SG.屬格 主焦.說
+
+#n bobo原意為「上面」。
+#a 
+#n bobo原意為「上面」。
+
+53.
+.. bobo=na de==,_
+afterwards=3.SG.GEN PART
+之後=3.SG.屬格 語助詞
+
+#a
+
+54.
+.. a==,_
+FIL
+FIL
+
+#a
+
+55.
+.. m-hedu,_
+AF-finish
+主焦-完成
+
+#a
+
+56.
+.. m-hedu a==,_
+AF-finish FIL
+主焦-完成 FIL
+
+#a
+
+57.
+...(1.2) a==,_
+FIL
+FIL
+
+#a
+
+58.
+.. ga m-usa baro ma m-eyah--
+PROG AF-go up then AF-come
+進行 主焦-去 上 然後 主焦-來
+
+#e Later, he finished the work up there and he went down.
+#c 之後，當他完成上面的工作，又下來。
+#a
+
+59.
+.. m-eyah ciida de kiya ka,_
+AF-come then PART therefore
+主焦-來 當時 語助詞 所以
+
+#a
+
+60.
+.. a== ma m-chaya ane di mesa ka,_
+FIL why AF-do.so brother.in.law PART AF.say NOM
+FIL 為什麼 主焦-這麼做 連襟 語助詞 主焦.說 主格
+
+#n m-chaya不確定詞根的意思。在句中的意思為「這麼做」、「亂來」。IU50也有這個字。
+#a 
+#n m-chaya不確定詞根的意思。在句中的意思為「這麼做」、「亂來」。IU50也有這個字。
+
+61.
+... a==,_
+FIL
+FIL
+
+#a
+
+62.
+.. swai a,_
+younger.sibling FIL
+弟妹 FIL
+
+#a
+
+63.
+.. rseno mqedil=na di.\
+man woman=3SG.GEN ASP
+男人 女人-3SG.屬格 語助詞
+
+#n mqedil太太；女人；qedil 太太。
+
+#e The moment he came down, the younger sibling of his wife would say, “Why did he do that?”
+#c 他下來的時候，太太的弟弟便說：「他怎麼這樣子？」
+#a 
+#n mqedil太太；女人；qedil 太太。
+
+64.
+... ma anaq qbsuran=na mqedil=na.\
+then even older.sibling=3SG.GEN woman=3SG.GEN
+然後 即使 兄姊=3SG.屬格 女人=3SG.屬格
+
+#e Even his wife’s older sibilng. 
+#c 即使是他太太的兄姊也一樣。
+#n anaq即使是，為ani naq的縮稱。
+#n 這裡的意思是：即使是太太的兄姊也不能看到。
+#a
+
+65.
+.. ma kiya ka==,_
+then that NOM
+然後 那個 主格
+
+#a
+
+66.
+.. a==,_
+FIL
+FIL
+
+#a
+
+67.
+.. kes-un=na s<m>gaya kiya di.\
+say-PF=3SG.GEN <AF>break.taboo that ASP
+說-受焦=3SG.屬格 <主焦>犯禁忌 那個 語助詞
+
+#e That is something that would break the taboo.
+#c 那個就是會違犯族律的事。
+#a
+
+68.
+... ma==,_
+then
+然後
+
+#a
+
+68.
+... ma==,_
+then
+然後
+
+#a
+
+70.
+.. s<m>gaya duwe,_
+<AF>break.taboo PART
+<主焦>犯禁忌 語助詞
+
+#a
+
+71.
+... en==,_
+FIL
+FIL
+
+#a
+
+72.
+... maanu di asi ka,_
+what ASP must NOM
+什麼 動貌 必須 主格
+
+#a
+
+73.
+... asi ka==,_
+must NOM
+必須 主格
+
+#a
+
+74.
+.. a==,_
+FIL
+FIL
+
+#a
+
+75.
+...(2.4) d<m>ahur ka==,_
+<AF>atone NOM
+<主焦>補償 主格
+
+#a
+
+76.
+... ane=na kiya di._
+brother.in.law=3SG.GEN that ASP
+連襟=3SG.屬格 那個 動貌
+
+#e If the brother-in-law broke the taboo, he must make atonement to his brother-in-law.
+#c 假如連襟犯了禁忌，他就必須補償他的連襟。
+#a
+
+77.
+...(0.8) ma menaq d<m>ahur,_
+then about <AF>atone
+然後 有關 <主焦>補償
+
+#a
+
+78.
+.. kiya duwe,_
+that PART
+那個 語助詞
+
+#a
+
+79.
+.. e so s-angal=daha rodux a m-usa,_
+FIL like RF-take=3PL.GEN chicken FIL AF-go
+FIL 像 參焦-拿=3PL.屬格 雞 FIL主焦-去
+
+#a
+
+80.
+.. hunged-an=daha p-mah-an=daha sino.\
+cook-LF=3PL.GEN CAU-drink-PF=3PL.GEN wine
+煮-處焦=3PL.屬格 使役-喝-受焦3PL.屬格 酒
+
+#e The atonement for it can be such that they take and cook chickens, and give other people wine to drink. 
+#c 違反（這項）族律的賠補方式就像是拿雞煮雞、請其他人喝酒。
+#a
+
+81.
+...(1.5) ma==,_
+then
+然後
+
+#a
+
+82.
+.. (THROAT)
+
+#a
+
+83.
+.. niq-an uri so==,_
+EXIST-LF also like
+存在-處焦 也 像是
+
+#n uri和duri都是「也」的意思。
+#a 
+#n uri和duri都是「也」的意思。
+
+84.
+...(1.8) o==,_
+FIL
+FIL
+
+#a
+
+85.
+... so m-ddidil so anu ka ane,_
+like AF-adultery like FIL brother.in.law
+像 主焦-私通 像 FIL連襟
+
+#n m-ddidil是指和未結婚的人外遇。
+#a 
+#n m-ddidil是指和未結婚的人外遇。
+
+86.
+... m-ddidil ka ane duwe,_
+AF-adultery NOM brother.in.law PART
+主焦-私通 主格 連襟 語助詞
+
+#a
+
+87.
+... a== naqah daha riyung kiya duri.\
+FIL AF.bad two very that also
+FIL 主焦.壞 兩個 非常 那樣 也
+
+#e Like if the brother-in-law commits adultery, that is very bad as well.
+#c 像是如果連襟有外遇，那樣非常不好。
+#a
+
+88.
+...(1.3) ma,_
+then
+然後
+
+#a
+
+89.
+.. so kiya,_
+like that
+像 那個
+
+#a
+
+90.
+.. so m-ddidil duwe,_
+like AF-adultery PART
+像 主焦-不倫 語助詞
+
+#e If adultery happens.
+#c 如果發生婚外情。
+#a
+
+91.
+... en==,_
+FIL
+FIL
+
+#a
+
+92.
+... kiya anu ka==,_
+that FIL NOM
+那個 FIL 主格
+
+#a
+
+93.
+.. ngal-an=daha,\
+take-LF=3PL.GEN
+拿-處焦=3PL.屬格
+
+#a
+
+94.
+...(1.3) a ngal-an=daha babuy denu,\
+FIL take-LF=3PL.GEN pig PART
+FIL 拿-處焦=3PL.屬格 豬 語助詞
+
+#n denu表結果。
+#a 
+#n denu表結果。
+
+95.
+... ma,_
+then
+然後
+
+#a
+
+96.
+.. sug-un=daha ma ka^na,_
+give.out-PF=3PL.GEN CONJ all
+分送-受焦=3PL.屬格 連接詞 全部
+
+#a
+
+97.
+.. so alang kika puq-un=daha,_
+like village thus eat-PF=3PL.GEN
+像 部落 所以 吃-受焦=3PL.屬格
+
+#e They would take pigs and give the pork out to the whole tribe.
+#c 他們會拿豬隻，並分送豬肉給全部落的人吃。
+#n 這裡的他們指部落的人。
+#a
+
+98.
+...(1.1) ma==,_
+then
+然後
+
+#a
+
+99.
+.. (THROAT)
+
+#a
+
+100.
+...(1.5) ma ani kari uri.\
+then even word also
+然後 即使 話 也
+
+#a
+
+101.
+...(1.0) m-rengo kari duri duwe,_
+AF-say word also PART
+主焦-說 話 也 語助詞
+
+#a
+
+102.
+.. m-rengo so a==,_
+AF-say like FIL
+主焦-說 像 FIL
+
+#a
+
+103.
+... so a==,_
+like FIL
+像 FIL
+
+#a
+
+104.
+... (THROAT)
+
+#a
+
+105.
+... m-rengo naqah kari,_
+AF-say AF.bad word
+主焦-說 主焦.壞 話
+
+#e Even when talking, when saying bad words.
+#c 即使講話的時候，說不好的話。
+#a
+
+106.
+...(0.8) an._
+FIL
+FIL
+
+#a
+
+107.
+.. m-rengo naqah kari duwe,_
+AF-say AF.bad language PART
+主焦-說 主焦.壞 言語 語助詞
+
+#e Say bad words.
+#c 說不好的話。
+#a
+
+108.
+... s-qbahang=daha bale ma naqah,\
+RF-hear=3PL.GEN real then AF.bad
+參焦-聽-3PL.屬格 真的 然後 主焦.壞
+
+#a
+
+109.
+.. kari=na kes-un ma kika.\
+speech=3SG.GEN say-PF thus
+言語-3SG.屬格 說-受焦 所以
+
+#e They hear that his words are bad.
+#c 他們聽，他的話真的不好。
+#a
+
+110.
+.. ado=ku m-netun so kiya,_
+because=1SG.NOM AF-meet like that
+因為=1SG.主格 主焦-碰到 像 那個
+
+#a
+
+111.
+... m-rengo kari naqah duwe,_
+AF-say word AF.bad PART
+主焦-說 話 主焦.壞 語助詞
+
+#a
+
+112.
+... kiya==,_
+that
+那個
+
+#a
+
+113.
+.. a==,_
+FIL
+FIL
+
+#a
+
+114.
+.. suta-- anu--,_
+FS FS
+FS FS
+
+#a
+
+115.
+... a==,_
+FIL
+FIL
+
+#a
+
+116.
+... s-rengo=daha ma kika,_
+RF-speak=3PL.GEN then thus
+參焦-說=3PL.屬格 然後 所以
+
+#e Because I said something bad, the villagers will gossip about it.
+#c 由於我說不好的話，部落的人會說三道四。
+#a
+
+117.
+.. d<m>ahul ka ane denu.\
+<AF>atone NOM brother.in.law PART
+<主焦>補償 主格 連襟 語助詞
+
+#e The brother-in-law will make atonement for it.
+#c 連襟會補償。
+#a
+
+118.
+...(0.9) a== so kiya ka,_
+FIL like that NOM
+FIL 像 那個 主格
+
+#a
+
+119.
+... a== ndaan=daha cbeyo.\
+FIL experience=3PL.GEN before
+FIL 經歷=3PL.屬格 從前
+
+#e That is what is done in the past.
+#c 那就是以前的做法。
+#a

@@ -1,0 +1,3263 @@
+topic: frog
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 曾瑞琳, Temi Nawi, female, 1939-07-21
+collected: None
+revised: 2014-1-22
+video: sdqNr-frog_temi.mp3
+
+1.
+um.\
+FIL
+FIL
+
+#a 2.54, None, 2.89
+
+2.
+...(2.3) kingan laqi rseno,_
+one child man
+一 小孩 男人
+
+#a 2.89, None, 7.03
+
+3.
+...(1.4) daha.ka,_
+CONJ
+連接詞
+
+#a 7.03, None, 9.82
+
+4.
+...(0.7) huling.\
+dog
+狗
+
+#a 9.82, None, 10.55
+
+5.
+...(0.7) ma==,_
+then
+然後
+
+#a 10.55, None, 12.02
+
+6.
+...(2.3) qpatun,\
+ frog
+ 青蛙
+
+#a 12.02, None, 14.99
+
+7.
+...(1.1) gaga sapah.\
+EXIST house
+存在 房子
+
+#a 14.99, None, 17.2
+
+8.
+... laqi rseno nii tqiy-an=na.\
+child man this sleep-LF=3SG.GEN
+小孩 男人 這個 睡覺-處焦=3SG.屬格
+
+#e A boy, a dog, and a frog are in the house. They are in the boy's room
+#c 一個男孩、一隻狗和一隻青蛙在房子裡。他們在這男孩的房間裡。
+#n tqiyan 原指"睡覺之處"，此處引申為房間。
+#a 17.2, None, 19.64
+
+9.
+...(1.7) qta-an=mu,_
+see-LF=1SG.GEN
+看-處焦=1SG.屬格
+
+#a 19.64, None, 22.27
+
+10.
+...(2.5) kingan idas <L2Mke.yi.maML2>?_
+one moon is.this.OK
+一 月亮 可以嗎
+
+#e I saw a moon. Is this Ok?
+#c 我看到一個月亮。可以嗎？
+#a 22.27, None, 26.46
+
+11.
+...(8.7) um.\
+ FIL
+ FIL
+
+#a 26.46, None, 35.71
+
+12.
+...(3.2) gaga,_
+ EXIST
+ 存在
+
+#a 35.71, None, 39.73
+
+13.
+... m-suupu m-ita laqi rseno m-suupu m-ita,_
+AF-together AF-see child man AF-together AF-see
+主焦-一起 主焦-看 小孩 男人 主焦-一起 主焦-看
+
+#a 39.73, None, 43.58
+
+14.
+...(0.8) qpatun gaga rusuq ka huling.\
+frog EXIST bottle NOM dog
+青蛙 存在 罐子 主格 狗
+
+#e The boy and the dog were looking at the frog in the bottle together.
+#c 男孩和狗一起看在瓶子裡的青蛙。
+#a 43.58, None, 46.96
+
+15.
+...(8.1) saya m-prengo=ku kingan a==,_
+now AF.FUT-say=1SG.NOM one FIL
+現在 主焦.未來-說=1SG.主格 一 FIL
+
+#a 46.96, None, 57.42
+
+16.
+...(1.6) oda,_
+pass
+經過
+
+#n oda 為"經過"之詞根，可根據情境譯為 "事情"、"經歷"、"故事"等語意。
+#a 57.42, None, 59.83
+#n oda 為"經過"之詞根，可根據情境譯為 "事情"、"經歷"、"故事"等語意。
+
+17.
+.. nda-an na,_
+pass-LF GEN
+經過-處焦 屬格
+
+#a 59.83, None, 61.19
+
+18.
+...(2.4) kari,_
+speech
+話語
+
+#a 61.19, None, 64.48
+
+19.
+... kingan laqi rseno daha.ka huling.\
+one child man CONJ dog
+一 小孩 男人 連接詞 狗
+
+#e Now, I'm going to tell a story about a boy and a dog.
+#c 現在呢，我要來說一個關於一個男孩和狗的故事。
+#a 64.48, None, 67.28
+
+20.
+...(1.4) huling daha.ka laqi rseno nii ga mi-- 
+dog CONJ child man this EXIST FS
+狗 連接詞 小孩 男人 這個 存在 FS
+
+#n 此處mi應是尚未講完的mita "看"。
+#a 67.28, None, 71.3
+#n 此處mi應是尚未講完的mita "看"。
+
+21.
+... gaga rusug truma hii ka qpatun.\
+EXIST bottle inside there NOM frog
+存在 罐子 裡面 那邊 主格 青蛙
+
+#e The dog and the dog are looking at the frog in the bottle.
+#c 狗和這個小男孩在看在罐子裡的青蛙。
+#a 71.3, None, 74.24
+
+22.
+...(0.7) kiya huling nii,_
+that dog this
+那個 狗 這個
+
+#a 74.24, None, 76.29
+
+23.
+...(1.5) wa m-pqerac heya.\
+PROG AF.FUT-catch 3SG.NOM
+進行 主焦.未來-抓 3SG.主格
+
+#e And this dog, it is trying to catch (the frog).
+#c 那麼這隻狗呢，他就想去抓(青蛙)。
+#a 76.29, None, 79.49
+
+24.
+... ma riso laqi mu-- rseno nii,_
+then youngster child FS man this
+然後 青年 小孩 FS 男人 這個
+
+#a 79.49, None, 82.32
+
+25.
+... mqaras riyung m-ita m-hulis uri.\
+AF.happy very AF-see AF-laugh also
+主焦.高興 非常 主焦-看 主焦-笑 也
+
+#e And the boy was very happy, seeing this. He was laughing too.
+#c 這個小男孩看了很高興，也笑了。
+#a 82.32, None, 85.69
+
+26.
+...(0.7) tloong ga kac=na,\
+AF.sit EXIST chair=3SG.GEN
+主焦.坐 存在 椅子=3SG.屬格
+
+#a 85.69, None, 88.08
+
+27.
+... ga q<m>ita qpatun.\
+PROG <AF>see frog
+進行 <主焦>看 青蛙
+
+#e Sitting on his chair, he was looking at the frog.
+#c 他坐在他的椅子椅子上，看著青蛙。
+#a 88.08, None, 89.88
+
+28.
+...(6.6) keeman de,\
+night PART
+晚上 語助詞
+
+#a 89.88, None, 97.48
+
+29.
+.. ta-an=ta== sapah=na niq-an a== ^idas a==,_
+see-LF=1PL.NOM house=3SG.GEN be.at-LF FIL moon FIL
+看-處焦=1PL.主格 房子=3SG.屬格 在-處焦 FIL 月亮 FIL
+
+#e It was night now, and we could see the moon from the house.
+#c 到了晚上，我們從房子看到月亮。
+#a 97.48, None, 101.37
+
+30.
+... bobo,\
+on
+上
+
+#n bobo 原意為"在...之上"。在言談中其功能為表"之後"。
+#a 101.37, None, 102.8
+#n bobo 原意為"在...之上"。在言談中其功能為表"之後"。
+
+31.
+...(1.6) a qta-an kndalax bais=na ka,_
+FIL see-LF from window=3SG.GEN NOM
+FIL 看-處焦 從 窗戶=3SG.屬格 主格
+
+#a 102.8, None, 107.11
+
+32.
+... idas.\
+moon
+月亮
+
+#a 107.11, None, 108.25
+
+33.
+...(1.2) sapah truma nii sapah=na,_
+house inside this house=3SG.GEN
+房子 裡面 這個 房子=3SG.屬格
+
+#a 108.25, None, 111.76
+
+34.
+... laqi nii we sapah tqiy-an=na.\
+child this PART house sleep-LF=3SG.GEN
+小孩 這個 語助詞 房子 睡覺-處焦=3SG.屬格
+
+#e Afterwards, the kid saw the moon from the window of his house, from his room.
+#c 之後，這個小孩在房子裡，從房間的窗戶看到的月亮。
+#a 111.76, None, 114.23
+
+35.
+...(1.0) heya gaga taqi sapah a,_
+3SG.NOM PROG sleep house FIL
+3SG.主格 進行 睡覺 房子 FIL
+
+#a 114.23, None, 117.19
+
+36.
+.. ga taqi qlapo.\
+EXIST sleep bed
+在 睡覺 床
+
+#e The boy was sleeping on the bed, in his house.
+#c 這小孩在房裡的床上睡覺。
+#a 117.19, None, 118.84
+
+37.
+...(0.7) kignan huling=na,\
+one dog=3SG.GEN
+一 狗=3SG.屬格
+
+#a 118.84, None, 120.93
+
+38.
+.. ga suupu m-taqi heya,\
+PROG together AF-sleep 3SG.NOM
+進行 一起 主焦-睡覺 3SG.主格
+
+#a 120.93, None, 122.73
+
+39.
+... ga m-taqi bobo,_
+PROG AF-sleep above
+進行 主焦-睡覺 上
+
+#a 122.73, None, 124.74
+
+40.
+...(1.9) pala=na uri,\
+cloth=3SG.GEN also
+布匹=3SG.屬格 也
+
+#n pala 原指原住民所編織的布匹，此處引申為"被褥"之意。
+#a 124.74, None, 127.67
+#n pala 原指原住民所編織的布匹，此處引申為"被褥"之意。
+
+41.
+... laqi nii.\
+child this
+孩子 這個
+
+#e His dog was sleeping with him. He (the dog) was sleeping on the boy's quilt.
+#c 他的狗也跟他一起睡。他(狗)睡在小男孩的被子上。
+#a 127.67, None, 128.77
+
+42.
+...(0.9) qpatun nii de,_
+frog this PART
+青蛙 這個 語助詞
+
+#a 128.77, None, 130.86
+
+43.
+... anu ga m-taqi dheya huling daha.ka riso nii.\
+then PROG AF-sleep 3PL.NOM dog CONJ youngster this
+然後 進行 主焦-睡覺 3PL.主格 狗 連接詞 青年 這個
+
+#a 130.86, None, 134.46
+
+44.				
+...(0.7) qpatun do,\
+frog PART
+青蛙 語助詞
+
+#a 134.46, None, 136.24
+
+45.
+...(1.5) m-kala,\
+AF-climb
+主焦-爬
+
+#a 136.24, None, 138.64
+
+46.
+... kndalax rusuq,\
+from bottle
+從 瓶子
+
+#a 138.64, None, 140.31
+
+47.
+... m-eyah nganguc ka qpatun.\
+AF-come outside NOM frog
+主焦-來 外面 主格 青蛙
+
+#e Since they, the dog and the boy, were sleeping, the frog climbed out of the bottle, and came outside.
+#c 因為狗狗和小男孩在睡覺，這隻青蛙就從瓶子裡爬出來，而來到了外面。
+#a 140.31, None, 143.06
+
+48.
+...(4.3) tutuy ka huling daha.ka,_
+AF.get.up NOM dog CONJ
+主焦.起來 主格 狗 連接詞
+
+#a 143.06, None, 149.36
+
+49.
+... laqi rseno nii.\
+child man this
+小孩 男人 這個
+
+#a 149.36, None, 151.01
+
+50.
+...(0.8) qta-an=daha rusuq,\
+see-LF=3PL.GEN bottle
+看-處焦=3PL.屬格 瓶子
+
+#a 151.01, None, 153.05
+
+51.
+... uka hii ka,_
+NEG.EXIST there NOM
+否定.存在 那邊 主格
+
+#a 153.05, None, 154.49
+
+52.
+.. qpatun di.\
+frog PFV.PART
+青蛙 完成.語助詞
+
+#a 154.49, None, 155.48
+
+53.
+...(0.7) wada qduriq di._
+AUX.PST AF.escape PFV.PART
+助動詞.過去 主焦.逃走 完成.語助詞
+
+#e The dog and the boy woke up. They looked at the bottle, and the frog wasn't there. He had escaped!
+#c 狗狗和小男孩醒來後，他們便又看著瓶子。但是青蛙卻不在那裏。他已經逃走了。
+#a 155.48, None, 157.36
+
+54.
+...(4.4) sklui m-ita,\
+AF.be.afraid AF-see
+主焦.驚嚇 主焦-看
+
+#n sklui 可指 "驚嚇" 或 "驚訝"。此處為後者之語意。
+#a 157.36, None, 163.33
+#n sklui 可指 "驚嚇" 或 "驚訝"。此處為後者之語意。
+
+55.
+.. huling daha.ka,_
+dog CONJ
+狗 連接詞
+
+#a 163.33, None, 164.83
+
+56.
+... laqi rseno nii wada,_
+child man this AUX.PST
+小孩 男人 這個 語助詞.過去
+
+#a 164.83, None, 167.44
+
+57.
+... qduriq ka qpatun.\
+AF.escape NOM frog
+主焦.逃走 主格 青蛙
+
+#e The dog and the boy were surprised to find that the frog had escaped.
+#c 這個男孩和狗看到青蛙逃走了很驚訝。
+#a 167.44, None, 169.38
+
+58.
+...(5.0) laqi rseno nii wa== mesa ka,_
+child man this INT AF.say NOM
+小孩 男人 這個 感嘆 主焦.說 主格
+
+#a 169.38, None, 177.49
+
+59.
+... sklui skdiy-un daha.ka qpatun nii.\
+AF.be.afraid search-PF CONJ frog this
+主焦.驚嚇 找-受焦 連接詞 青蛙 這個
+
+#e The boy then cried out, "wa ...". He was surprised, and he stared to look for the frog.
+#c 男孩於是「哇」的叫著。驚嚇之餘，他開始尋找青蛙。
+#a 177.49, None, 180.67
+
+60.
+...(0.7) kla-un gaga,_
+know-PF PROG
+知道-受焦 進行
+
+#n klaun 主焦形式為 mkela "知道"。受焦形式於句首表 "可能" 之意。
+#a 180.67, None, 182.63
+#n klaun 主焦形式為 mkela "知道"。受焦形式於句首表 "可能" 之意。
+
+61.
+...(1.2) s-- so,\
+FS be.like
+FS 像
+
+#n so 表達說者於言談中之不確定性，一般譯為 "像"。
+#a 182.63, None, 185.16
+#n so 表達說者於言談中之不確定性，一般譯為 "像"。
+
+62.
+... sapi n-- s--
+shoes FS FS
+鞋子 FS FS
+
+#a 185.16, None, 186.76
+
+63.
+.. wada tgleeng sapi sapi=na.\
+AUX.PST AF.hide shoes shoes=3SG.GEN
+助動詞.過去 主焦.躲 鞋子 鞋子=3SG.屬格
+
+#e Perhaps it (the frog) had gone hiding in his shoes! 
+#c 青蛙可能躲在他的鞋子裡。
+#a 186.76, None, 189.21
+
+64.
+...(1.5) laqi rseno nii ma,\
+child man this then
+小孩 男人 這個 然後
+
+#a 189.21, None, 192.24
+
+65.
+...(0.7) dooy-un=na baro ka sapi=na,\
+grab-PF=3SG.GEN up NOM shoes=3SG.GEN
+握-受焦=3SG.屬格 上面 主格 鞋子=3SG.屬格
+
+#a 192.24, None, 195.68
+
+66.
+...(0.7) qta-an=na.\
+see-LF=3SG.GEN
+看-處焦=3SG.屬格
+
+#a 195.68, None, 197.15
+
+67.
+... kika,_
+thus
+所以
+
+#a 197.15, None, 198.39
+
+68.
+... uxe gaga truma sapi=na ka qpatun.\
+NEG EXIST inside shoes-3SG.GEN NOM frog
+否定 存在 裡面 鞋子-3SG.屬格 主格 青蛙
+
+#e So the boy grabbed the top of his shoes and looked into them, but the frog is not in his shoes.
+#c 這個男孩於是拿起了他的鞋子並往裡看，但青蛙並不在裡面。
+#a 198.39, None, 201.6
+
+69.
+...(1.0) huling=na nii do,_
+dog=3SG.GEN this PART
+狗=3SG.屬格 這個 語助詞
+
+#a 201.6, None, 203.93
+
+70.
+...(1.3) skadi psa-an=na,_
+AF.search put-LF=3SG.GEN
+主焦.找 放置-處焦=3SG.屬格
+
+#a 203.93, None, 206.92
+
+71.
+... nduyung=na truma ka,\
+neck=3SG.GEN inside NOM
+脖子=3SG.屬格 裡面 主格
+
+#a 206.92, None, 209.46
+
+72.
+...(0.7) rusuq ka tunux=na m-usa skadi qpatun uri,\
+bottle NOM head=3SG.GEN AF-go search frog also
+瓶子 主格 頭=3SG.屬格 主焦-去 找 青蛙 也
+
+#a 209.46, None, 213.69
+
+73.
+...(0.7) ka huling nii.\
+NOM dog this
+主格 狗 這個
+
+#e And the boy's dog, he also put his neck and head into the bottle to look for the frog.
+#c 而他的狗呢，也伸著脖子和頭到罐子裡去找青蛙。
+#a 213.69, None, 215.31
+
+74.
+...(2.7) huling nii de,_
+dog this PART
+狗 這個 PART
+
+#a 215.31, None, 219.11
+
+75.
+...(1.7) ga tqecun a==,_
+PROG AF.be.stuck FIL
+進行 主焦.卡住 FIL
+
+#a 219.11, None, 222.26
+
+76.
+...(1.1) rusuq ka tunux=na.\
+bottle NOM head=3SG.GEN
+罐子 主格 頭=3SG.屬格
+
+#a 222.26, None, 225.56
+
+77.
+...(0.8) uka=na bale ng-ngal-an ka so rusuq,\
+NEG.EXIST=3SG.GEN real RED-take-LF NOM be.like bottle
+否定.存在=3SG.屬格 真的 重疊-拿-處焦 主格 像 罐子
+
+#a 225.56, None, 229.26
+
+78.
+... gaga,_
+PROG
+進行
+
+#a 229.26, None, 230.54
+
+79.
+...(0.9) pceq-un,_
+AF.stuck-PF
+主焦.卡住-受焦
+
+#a 230.54, None, 232.23
+
+80.
+... nduyung=na.\
+neck=3SG.GEN
+脖子=3SG.屬格
+
+#e The dog's head was stuck in the bottle, and he just couldn't get his head out of it, since his neck was stuck.
+#c 狗的頭被卡在罐子裡，而且實在是拔不出來，因為他的脖子被卡住了。
+#a 232.23, None, 233.73
+
+81.
+...(0.9) laqi rseno de,_
+child man PART
+小孩 男人 PART
+
+#a 233.73, None, 236.08
+
+82.
+... rwah-un=daha bais.\
+open-PF=3PL.GEN window
+打開-受焦=3PL.屬格 窗戶
+
+#a 236.08, None, 238.15
+
+83.
+...(1.1) rwah-un=na bais.\
+open-PF=3SG.GEN window
+打開-受焦=3SG.屬格 窗戶
+
+#a 238.15, None, 240.69
+
+84.
+... m-lama m-lawa==,_
+AF-call AF-call
+主焦-呼喊 主焦-呼喊
+
+#a 240.69, None, 243.16
+
+85.
+...(0.8) qpatun.\
+frog
+青蛙
+
+#e The boy opened the window and kept calling for the frog.
+#c 小男孩打開窗戶不斷地呼喊著青蛙。
+#a 243.16, None, 244.71
+
+86.
+...(1.3) m-lawa heya,\
+AF-call 3SG.NOM
+主焦-呼喊 3SG.主格
+
+#a 244.71, None, 247.03
+
+87.
+.. wada=su inu di,_
+go.PST=2SG.NOM where PFV.PART
+去.過去=2SG.主格 哪裡 完成.語助詞
+
+#a 247.03, None, 248.3
+
+88.
+.. ye mesa peni.\
+Q AF.say PART
+疑問 主焦.說 PART
+
+#e He was calling. "Where did you go?" he probably said this
+#c 小男孩呼喊著青蛙「你去哪裡了？」他是這麼說的吧。
+#a 248.3, None, 249.35
+
+89.
+...(5.0) laqi rseno nii,_
+child man this
+小孩 男人 這個
+
+#a 249.35, None, 255.74
+
+90.
+...(1.8) so sklui m-ita ka,_
+like AF.be.afraid AF-see NOM
+像 主焦.驚嚇 主焦-看 主格
+
+#a 255.74, None, 259.83
+
+91.
+...(0.7) doriq=na.\
+eye=3SG.GEN
+眼睛=3SG.屬格
+
+#e The boy's look seems to show that he was panicing.
+#c 小男孩的眼神好像是驚慌到了。
+#n 此處sklui應指"驚慌"。
+#a 259.83, None, 261.4
+
+92.
+...(1.2) malux sklui,_
+why AF.be.afraid
+為什麼 主焦.驚嚇
+
+#a 261.4, None, 263.69
+
+93.
+...(0.7) wada tuting,\
+AUX.PST AF.fall
+助動詞.過去 主焦.掉落
+
+#a 263.69, None, 265.52
+
+94.
+...(2.3) ba-- uh bobo bais ka,_
+FS FIL above window NOM
+FS FIL 上 窗戶 主格
+
+#a 265.52, None, 270.1
+
+95.
+... huling=na daha.ka rusuq.\
+dog=3SG.GEN CONJ bottle
+狗=3SG.屬格-3SG 連接詞 罐子
+
+#a 270.1, None, 272.46
+
+96.
+... wada suupu,_
+AUX.PAST AF.together
+助動詞.過去 主焦.一起
+
+#a 272.46, None, 273.91
+
+97.
+... m-takun,_
+AF-stumble
+主焦-跌倒
+
+#a 273.91, None, 275.19
+
+98.
+...(2.0) bubu-- bobo bais.\
+FS above window
+FS 上 窗戶
+
+#e Why did he panic? Because both his dog and the bottle fell onto the window.
+#c 為什麼驚嚇呢? 因為他的狗和瓶子一起掉落到了窗戶上。
+#a 275.19, None, 278.98
+
+99.
+... kiya sklui laqi nii ayu bale mesa.\
+that AF.be.afraid child this INT real AF.say
+那個 主焦.驚嚇 小孩 這個 感嘆 真的 主焦.說
+
+#e So the boy was shocked. "Ayu!" he cried.
+#c 所以小男孩驚嚇到了。「唉呀！」他叫出聲來。
+#a 278.98, None, 282.09
+
+100.
+...(2.5) kiya ka,_
+that KA
+那個 KA
+
+#a 282.09, None, 285.37
+
+101.
+... m-eyah nganguc ka riso nii duri.\
+AF-come outside NOM youngster this also
+主焦-來 外面 主格 青年 這個 也
+
+#a 285.37, None, 288.15
+
+102.
+...(0.9) laqi rseno nii,\
+child man this
+小孩 男人 這個
+
+#a 288.15, None, 290.28
+
+103.
+...(0.7) k-<n>kucu sapi=na.\
+<PFV>RED-shoe shoe=3SG.GEN
+<完成>重疊-鞋 鞋=3SG.屬格
+
+#n kucu 為日語借詞，重疊後 k<m>kucu成為動詞"穿鞋"。
+#n sapi為族語之"鞋子"原指出外打仗時，綁在腳趾上由鹿皮所製作之鞋套。
+#a 290.28, None, 292.76
+#n kucu 為日語借詞，重疊後 k&lt;m&gt;kucu成為動詞"穿鞋"。
+#n sapi為族語之"鞋子"原指出外打仗時，綁在腳趾上由鹿皮所製作之鞋套。
+
+104.
+... kiya ka m-eyah,_
+that KA AF-come
+那個 KA 主焦-來
+
+#a 292.76, None, 294.48
+
+105.
+...(0.8) nganguc,\
+outside
+外面
+
+#a 294.48, None, 296.06
+
+106.
+...(1.1) qrap-un dooy-un=na ka,_
+catch-PF grab-PF=3SG.GEN NOM
+抓-受焦 握-受焦=3SG.屬格 主格
+
+#a 296.06, None, 299.26
+
+107.
+... huling=na.\
+dog=3SG.GEN
+狗=3SG.屬格
+
+#a 299.26, None, 300.57
+
+108.
+...(1.4) daha dheya mq-malu riyung.\
+two 3PL.NOM REC-AF.good very
+二 3PL.主格 交互-主焦.好 非常
+
+#e So the boy put on his shoes and came outside. He hugged the dog and comforted him. They are very close to each other.
+#c 所以，小孩就穿鞋到外面去。他抱起狗並且安撫他。他們非常要好。
+#a 300.57, None, 304.02
+
+109.
+... huling nii,_
+dog this
+狗 這個
+
+#a 304.02, None, 305.51
+
+110.
+...(1.2) m-huwe=su bale me-- eh mesa ka lnlung-an=na.\
+AF-thank=2SG.GEN real FS FIL AF.say NOM think-LF=3SG.GEN
+主焦-感謝-2SG.屬格 真的 FS FIL 主焦.說 主格 想-處焦=3SG.屬格
+
+#a 305.51, None, 309.84
+
+111.
+... chep-an=na hema ka dqera na laqi nii.\
+lick-LF=3SG.GEN tongue NOM cheek GEN child this
+舔-處焦=3SG.屬格 舌頭 主格 臉頰 屬格 小孩 這個
+
+#e The dog thought: "Thank you very much!" licking the boy's cheek with his teeth.
+#c 這隻狗想著：「真感謝你。」於是他便用舌頭舔這個小孩。
+#a 309.84, None, 313.33
+
+112.
+...(5.7) kiya de,_
+that PART
+那個 語助詞
+
+#a 313.33, None, 319.76
+
+113.
+...(1.3) dheya,\
+3PL.NOM
+3PL.主格
+
+#a 319.76, None, 321.78
+
+114.
+... ga m-usa nganguc,\
+PROG AF-go outside
+進行 主焦-去 外面
+
+#a 321.78, None, 323.62
+
+115.
+...(0.7) m-usa ngerac,\
+AF-go outside
+主焦-去 外面
+
+#n nganguc 通常指住家外圍，而ngerac則指部落之外。前者距離較短，後者較長。
+#a 323.62, None, 325.47
+#n nganguc 通常指住家外圍，而ngerac則指部落之外。前者距離較短，後者較長。
+
+116.
+...(1.3) ga m-lawa so qpatun kii peni.\
+PROG AF-call be.like frog that PART
+進行 <主焦>叫喊 像 青蛙 那個 語助詞
+
+#e Then they go outside to call for the frog.
+#c 接著他們到外面去呼喊青蛙。
+#a 325.47, None, 329.66
+
+117.
+...(0.7) niq-an qhuni paru,\
+be.at-LF tree AF.big
+在-處焦 樹 主焦.大
+
+#a 329.66, None, 332.0
+
+118.
+...(1.3) siyo sapah=na.\
+side house=3SG.GEN
+旁邊 房子=3SG.屬格
+
+#e There is a big tree next to his house.
+#c 他的房子旁邊有棵大樹。
+#a 332.0, None, 334.42
+
+119.
+...(0.9) heya do m-lawa paru,_
+3SG.NOM PART AF-call AF.big
+3SG.主格 語助詞 主焦-叫喊 主焦.大
+
+#a 334.42, None, 337.62
+
+120.
+... m-lawa== so qpatun ka,_
+AF-call SO frog NOM
+主焦-叫喊 SO 青蛙 主格
+
+#a 337.62, None, 340.48
+
+121.
+... huling=na uri.\
+dog-3SG.GEN also
+狗-3SG.屬格 也
+
+#a 340.48, None, 342.05
+
+122.
+...(0.8) heya uri,\
+3SG.NOM also
+3SG.主格 也
+
+#a 342.05, None, 343.75
+
+123.
+... laqi biciq nii.\
+child AF.small this
+小孩 主焦.小 這個
+
+#e The boy calls for the frog loudly, and so does the dog.
+#c 男孩大聲地叫喊青蛙，而狗也是。
+#a 343.75, None, 345.16
+
+124.
+...(0.9) kiya,_
+that
+那個
+
+#a 345.16, None, 346.49
+
+125.
+... theya hari nda-an=daha mkesa,\
+far a.little pass-LF=3SG.GEN AF.walk
+遠 一些 經過-處焦=3SG.屬格 主焦.走走
+
+#a 346.49, None, 349.11
+
+126.
+...(1.0) m-eyah kingan pusu qhuni.\
+AF-come one root tree
+主焦-來 一 根部 樹
+
+#e Then they walked a little farther, and arrived at the bottom of a tree.
+#c 接著他們走遠一點，來到了樹下。
+#n pusu qhuni 字面上指"樹根"，此處為"樹下"之意。
+#a 349.11, None, 351.78
+
+127.
+...(1.2) qta-an=daha kingan a cudu.\
+see-LF=3PL.GEN one FIL nest
+看-處焦=3PL.屬格 一 FIL 窩
+
+#n 此處cudu應為口誤。cudu指"毒藤"，而rudu方指"窩"。
+#a 351.78, None, 355.01
+#n 此處cudu應為口誤。cudu指"毒藤"，而rudu方指"窩"。
+
+128.
+...(1.0) a== walu.\
+FIL bee
+FIL 蜜蜂
+
+#a 355.01, None, 357.01
+
+129.
+...(2.0) cudu walu a==,_
+nest bee FIL
+窩 蜜蜂 FIL
+
+#a 357.01, None, 360.56
+
+130.
+...(1.4) niq-an a walu truma hiya.\
+be.at-LF FIL bee inside there
+在-處焦 FIL 蜜蜂 裡面 那裡
+
+#e They saw a bee hive, and there were bees inside.
+#c 他們看見一個蜂窩，裡面有蜜蜂。
+#a 360.56, None, 364.08
+
+131.
+...(0.7) ma niq-an kingan beling uri.\
+then be.at-LF one hole also
+然後 在-處焦 一 洞 也
+
+#a 364.08, None, 366.54
+
+132.
+...(0.8) kingan pusu qhuni,_
+one root tree
+一 根部 樹
+
+#a 366.54, None, 368.58
+
+133.
+... niq-an beling uri,\
+be.at-LF hole also
+在-處焦 洞 也
+
+#a 368.58, None, 370.31
+
+134.
+... qhuni paru.\
+tree AF.big
+樹 主焦.大
+
+#e There was also a hole in the root of the big tree.
+#c 大樹的根部也有一個洞。
+#a 370.31, None, 371.5
+
+135.
+...(7.5) kiya ka,_
+that KA
+那個 KA
+
+#a 371.5, None, 379.74
+
+136.
+...(1.0) m-eyah dehuk a toma ga niq-an cudu.\
+AF-come arrive FIL below EXIST be.at-LF nest
+主焦-來 到達 FIL 下 存在 在-處焦 窩
+
+#a 379.74, None, 384.31
+
+137.
+...(1.9) walu,_
+bee
+蜜蜂
+
+#a 384.31, None, 386.86
+
+138.
+...(1.2) dheya daha nii.\
+3PL.NOM two this
+3PL.主格 二 這個
+
+#e Then they both arrived at the root of the tree where there was a bee hive.
+#c 然後他們來到了那棵有蜂窩的樹下面。
+#a 386.86, None, 389.25
+
+139.
+... huling=na do,_
+dog=3SG.GEN PART
+狗=3SG.屬格 語助詞
+
+#a 389.25, None, 390.88
+
+140.
+...(0.8) m-leus m-leus a==,_
+AF-bark.furiously AF-bark.furiously FIL
+主焦-吠 主焦-吠 FIL
+
+#a 390.88, None, 393.65
+
+141.
+...(1.0) a so a==,_
+FIL be.like FIL
+FIL 像 FIL
+
+#a 393.65, None, 395.97
+
+142.
+...(1.5) e so mk-m-angan so a==,_
+Q be.like want-AF-take be.like FIL
+疑問 像 想-主焦-拿 像 FIL
+
+#a 395.97, None, 399.5
+
+143.
+...(1.2) cudu walu peni.\
+nest bee PART
+窩 蜜蜂 語助詞
+
+#e The dog barked furiously. He probably wanted to take the bee hive.
+#c 這隻狗瘋狂地吠著，他可能是想要把蜂窩拿起來吧。
+#a 399.5, None, 402.03
+
+144.
+...(2.2) laqi rseno nii ge,_
+child man this PART
+小孩 男人 這個 語助詞
+
+#a 402.03, None, 405.75
+
+145.
+...(1.4) m-ita kingan a==,_
+AF-see one FIL
+主焦-看 一 FIL
+
+#a 405.75, None, 408.63
+
+146.
+...(1.5) tgakac,\
+kneel
+跪著
+
+#a 408.63, None, 411.04
+
+147.
+...(1.0) m-ita kingan a beling,_
+AF-see one FIL hole
+主焦-看 一 FIL 洞
+
+#a 411.04, None, 413.63
+
+148.
+...(1.5) dheran.\
+ground
+地
+
+#e The boy knelt down and looked into the hole on the ground.
+#c 這個男孩蹲下來往地洞裡看。
+#a 413.63, None, 415.89
+
+149.
+...(1.5) heya m-ita kingan beling dheran,_
+3SG.NOM AF-see one hole ground
+3SG.主格 主焦-看 一 洞 地
+
+#a 415.89, None, 419.82
+
+150.
+... sklui,_
+AF.be.shocked
+主焦.驚嚇
+
+#a 419.82, None, 421.14
+
+151.
+... asi tkriyak kndalax beling dheran hiya ka kingan qolic.\
+immediately appear from hole ground here NOM one rat
+立即 出現 從 洞 地 這裡 主格 一 老鼠
+
+#a 421.14, None, 425.48
+
+152.
+...(0.9) qolic yqeyaq.\
+rat rice.paddy
+老鼠 稻田
+
+#e Looking into the hole, he was shocked, because a vole suddenly appeared from the hole.
+#c 小男孩往洞裡看時嚇了一跳因為從洞裡突然出現了一隻田鼠。
+#a 425.48, None, 427.7
+
+153.
+...(1.3) ma==,\
+then
+然後
+
+#a 427.7, None, 429.64
+
+154.
+... ni-- huling=na ge,\
+FS dog=3SG.GEN PART
+FS 狗=3SG.屬格 語助詞
+
+#a 429.64, None, 431.47
+
+155.
+... m-beyax bale p-sgeluy.\
+AF-exert.strength real CAU-shake
+主焦-用力 真的 使役-搖
+
+#a 431.47, None, 434.05
+
+156.
+...(1.6) p-sgeluy qhuni.\
+CAU-shake tree
+使役-搖 樹
+
+#a 434.05, None, 437.22
+
+157.
+... p-tuting a so==,\
+CAU-fall FIL be.like
+使役-掉落 FIL 像
+
+#a 437.22, None, 439.21
+
+158.
+... cudu walu ma e so mk-m-ekan uri peni.\
+nest bee then Q be.like want-AF-eat also PART
+窩 蜜蜂 然後 疑問 像 想-主焦-吃 也 語助詞
+
+#e Then the dog tried hard to shake the tree and make the bee hive fall. It seems that he wanted to eat it.
+#c 然後狗用力地搖樹讓蜂窩掉下來。他可能是想吃那個蜂窩。
+#a 439.21, None, 443.05
+
+159.
+...(1.0) so kiya,_
+be.like that
+像 那個
+
+#a 443.05, None, 444.75
+
+160.
+...(2.6) a slualu=na ka qhuni.\
+FIL AF.shake=3SG.GEN NOM tree
+FIL 主焦.搖=3SG.屬格 主格 樹
+
+#n 此處slualu可能為口誤。說者應想說slugelu "搖晃"。
+#a 444.75, None, 450.27
+#n 此處slualu可能為口誤。說者應想說slugelu "搖晃"。
+
+161.
+...(1.0) kiya ka m-eyah nganguc ka kana walu,\
+that KA AF-come outside NOM all bee
+那個 KA 主焦-來 外面 主格 所有 蜜蜂
+
+#a 450.27, None, 453.47
+
+162.
+...(0.7) m-<n>eniq truma=na hiya,\
+<PFV>AF-be.at inside=3SG.GEN here
+<主焦>主焦-在 裡面=3SG.屬格 這裡
+
+#a 453.47, None, 455.78
+
+163.
+... truma cudu.\
+inside nest
+裡面 窩
+
+#e Because the dog shaked the tree, all the bees which were inside the hive came out.
+#c 因為狗搖了那棵樹，所有原本在蜂窩裡面的蜜蜂都跑到外面了。
+#a 455.78, None, 457.43
+
+164.
+...(3.4) kiya ka,_
+that KA
+那個 KA
+
+#a 457.43, None, 461.54
+
+165.
+...(0.8) ado na su-- uh==,_
+because GEN FS FIL
+因為 屬格 FS FIL
+
+#a 461.54, None, 464.02
+
+166.
+.. slugelu ka qhuni huling nii.\
+AF.shake NOM tree dog this
+主焦.搖 主格 樹 狗 這
+
+#a 464.02, None, 466.69
+
+167.
+... kiya ka wada tuting ka,_
+that KA AUX.PST AF.fall NOM
+那個 KA 助動詞.過去 主焦.掉落 主格
+
+#a 466.69, None, 468.98
+
+168.
+... cudu walu di tuting dheran.\
+nest bee PFV.PART AF.fall ground
+窩 蜜蜂 完成.語助詞 主焦.掉落 地
+
+#a 468.98, None, 471.95
+
+169.
+... m-eyah nganguc kana ka,_
+AF-come outside all NOM
+主焦-來 外面 所有 主格
+
+#a 471.95, None, 474.31
+
+170.
+... walu di.\
+bee PFV.PART
+蜜蜂 完成.語助詞
+
+#e So, because the dog shaked the tree, the bee hive fell to the ground, and all the bees came out.
+#c 所以因為狗去搖樹，蜂窩掉到了地上，導致所有蜜蜂都跑了出來。
+#a 474.31, None, 475.48
+
+171.
+...(2.3) ngiyo a maanu di qolic,\
+cat FIL what PFV.PART rat
+貓 FIL 什麼 完成.語助詞 老鼠
+
+#n maanu di 是說錯話時用來更正自己的用語，譯為"什麼啦?/不是啦!"
+#a 475.48, None, 480.03
+#n maanu di 是說錯話時用來更正自己的用語，譯為"什麼啦?/不是啦!"
+
+172.
+... m-eniq beling dheran,\
+AF-be.at hole ground
+主焦-在 洞 地
+
+#a 480.03, None, 481.85
+
+173.
+...(1.0) sklui ba m-ita,\
+AF.be.afraid real AF-see
+主焦.驚嚇 真的 主焦-看
+
+#a 481.85, None, 484.37
+
+174.
+... so walu.\
+be.like bee
+像 蜜蜂
+
+#a 484.37, None, 485.78
+
+175.
+...(0.8) ga m-eyah nganguc,\
+PROG AF-come outside
+進行 主焦-來 外面
+
+#a 485.78, None, 487.8
+
+176.
+... pqiyuc seediq uri.\
+sting people also
+叮 人 也
+
+#e The vole from the hole was also shocked after seeing the bees that came out, because they sting people.
+#c 連在地洞裡的老鼠看到蜜蜂出來也嚇了一跳，他們是會叮人的。
+#a 487.8, None, 489.71
+
+177.
+...(1.5) laqi rseno nii m-dakin a bobo qhuni,\
+child man this AF-climb FIL above tree
+小孩 男人 這個 主焦-爬 FIL 上 樹
+
+#a 489.71, None, 494.69
+
+178.
+... pusu paru ma niq-an beling hiya duri.\
+root AF.big PART be.at-LF hole here also
+根部 主焦.大 語助詞 在-處焦 洞 這裡 也
+
+#e The boy also climbed up the tree with a hole on the root.
+#c 這男孩也爬上這棵根部有大洞的樹。
+#a 494.69, None, 497.87
+
+179.
+...(0.7) ma m-usa,_
+FIL AF-go
+FIL 主焦-去
+
+#a 497.87, None, 499.5
+
+180.
+...(1.8) mii-- maanu di.\
+FIL what PFV.PART
+FIL 什麼 完成.語助詞
+
+#a 499.5, None, 502.71
+
+181.
+... m-usa m-ita heya ka laqi nii m-usa,_
+AF-go AF-see 3SG NOM child this AF-go
+主焦-去 主焦-看 3SG 主格 小孩 這個 主焦-去
+
+#a 502.71, None, 505.75
+
+182.
+... m-dakin qhuni baro,\
+AF-climb tree up
+主焦-爬 樹 上面
+
+#n 是爬到樹上看的
+#a 505.75, None, 507.73
+#n 是爬到樹上看的
+
+183.
+...(0.7) ta-an=na beling kii ye maanu.\
+see-LF=3SG.GEN hole that Q what
+看-處焦=3SG.屬格 洞 那個 疑問 什麼
+
+#e He climbed up the tree to see into the hole, wondering what's in there.
+#c 他爬上樹去，看著那個洞穴，心想洞穴裡面到底是有什麼。
+#a 507.73, None, 510.35
+
+184.
+.. kla-an,_
+know-LF
+知道-處焦
+
+#a 510.35, None, 511.22
+
+185.
+...(0.8) m-usa t--
+AF-go FS
+主焦-去 FS
+
+#a 511.22, None, 512.66
+
+186.
+.. m-usa tgleeng hiya ka qpatun mesa.\
+AF-go AF.hide here NOM frog AF.say
+主焦-去 主焦.躲 這裡 主格 青蛙 主焦.說
+
+#e Probably the frog went hiding there, he thought.
+#c 他猜想著青蛙可能躲到洞裡去了。
+#a 512.66, None, 515.54
+
+187.
+...(7.4) kiya do,\
+that PART
+那個 語助詞
+
+#a 515.54, None, 523.42
+
+188.
+...(1.2) maanu kingan nii we,_
+what one this PART
+什麼 一 這個 語助詞
+
+#a 523.42, None, 526.6
+
+189.
+...(1.8) asi==,\
+immediately
+立即
+
+#a 526.6, None, 529.05
+
+190.
+... eyah baro ka,\
+come up NOM
+來 上面 主格
+
+#a 529.05, None, 530.68
+
+191.
+... ^tekung kndalax beling.\
+owl from hole
+貓頭鷹 從 洞
+
+#e An owl suddenly came out from the hole. 
+#c 有一隻貓頭鷹突然從樹洞裡飛出來。
+#a 530.68, None, 533.07
+
+192.
+... qsa-an=na m-qiri hiya.\
+go-LF=3SG.GEN AF-gaze here
+去-處焦=3SG.屬格 主焦-遠望 這裡
+
+#n 此處qsaan應為口誤，應為saan。
+#a 533.07, None, 535.02
+#n 此處qsaan應為口誤，應為saan。
+
+193.
+...(0.7) ye sklui ka laqi nii.\
+Q AF.be.shocked NOM child this
+疑問 主焦.驚嚇 主格 小孩 這個
+
+#a 535.02, None, 537.52
+
+194.
+...(1.1) ^takun kndalax a==,_
+AF.fall from FIL
+主焦.掉落 從 FIL
+
+#a 537.52, None, 540.36
+
+195.
+...(1.0) bobo,\
+above
+上
+
+#a 540.36, None, 542.02
+
+196.
+... q-- pusu qhuni.\
+FS root tree
+FS 根部 樹
+
+#e The child went to see what's in the hole, and perhaps he was shocked by something, he fell from the tree.
+#c 小男孩跑去看洞裡面有什麼。也許是因為被嚇到了，便從樹上跌下來。
+#a 542.02, None, 544.07
+
+197.
+...(1.7) kan-- ma==,\
+FS FIL
+FS FIL
+
+#a 544.07, None, 547.16
+
+198.
+... ta-an=ta,\
+see-LF=1PL.GEN
+看-處焦=1PL.屬格
+
+#a 547.16, None, 548.3
+
+199.
+... huling nii t<m>alang t<m>alang ado sdrap-un,_
+dog this <AF>run <AF>run because chase-PF
+狗 這個 <主焦>跑 <主焦>跑 因為 追-受焦
+
+#a 548.3, None, 552.13
+
+200.
+...(1.0) a== walu peni.\
+FIL bee PART
+FIL 蜜蜂 語助詞
+
+#e Now we see that the dog kept running and running, because he was chased by the bees.
+#c 我們接著看到，這隻狗因為被蜜蜂追所以一直跑一直跑。
+#a 552.13, None, 554.33
+
+201.
+...(1.0) walu m-eyah nganguc kana m-qiyuc heya.\
+bee AF-come outside all AF-sting 3SG
+蜜蜂 主焦-來 外面 所有 主焦-叮 3SG
+
+#a 554.33, None, 557.92
+
+202.
+... kiya ka s--
+that FS
+那個 FS
+
+#a 557.92, None, 559.59
+
+203.
+... t<m>alang ka huling nii.\
+<AF>run NOM dog this
+<主焦>跑 主格 狗 這個
+
+#e All the bees that came out were stinging him. So the dog was running away.
+#c 所有蜜蜂都出來要叮他，所以狗逃跑。
+#a 559.59, None, 561.75
+
+204.
+...(1.4) takun dheran ka== laqi rseno nii.\
+AF.fall ground NOM child man this
+主焦.掉落 地 主格 小孩 男人 這個
+
+#e The boy fell on the ground.
+#c 這個小男孩跌落在地上。
+#a 561.75, None, 566.08
+
+205.
+...(6.5) kiya ka,_
+that KA
+那個 KA
+
+#a 566.08, None, 573.4
+
+206.
+... niq-an kingan,_
+be.at-LF one
+在-處焦 一
+
+#a 573.4, None, 575.15
+
+207.
+... qhuni btunux paru ka elu hiya.\
+tree stone AF.big NOM road here
+樹 石頭 主焦.大 主格 路 這裡
+
+#e There was a big stone on the road.
+#c 然後，路上有一個大石頭。
+#n qhuni "樹" 應為口誤。
+#a 575.15, None, 579.1
+
+208.
+...(3.0) tekung,_
+owl
+貓頭鷹
+
+#a 579.1, None, 582.76
+
+209.
+...(1.5) skiya ka tekung ye so skadi heya uri.\
+AF.fly NOM owl Q be.like search 3SG.ACC also
+主焦.飛 主格 貓頭鷹 疑問 像 找 3SG.受格 也
+
+#e The owl was flying, probably looking for him (the boy), too.
+#c 貓頭鷹飛了起來，可能也是要找他(小男孩)。
+#a 582.76, None, 587.86
+
+210.
+...(0.7) tekung m-eyah a==,_
+owl AF-come FIL
+貓頭鷹 主格-來 FIL
+
+#a 587.86, None, 589.81
+
+211.
+...(0.8) skadi laqi biciq nii uri skiya baro.\
+search child AF.small this also fly up
+找 小孩 主焦.小 這個 也 飛 上面
+
+#a 589.81, None, 593.59
+
+212.
+...(1.5) ini=na kla-i.\
+NEG=3SG.GEN know-PF.IRR
+否定=3SG.屬格 知道-處焦.非實現
+
+#e The owl came looking for the little boy. It was flying high above, but he (the boy) didn't know.
+#c 貓頭鷹來找小男孩。他也在上面飛。但他(小男孩)並不知道。
+#a 593.59, None, 596.35
+
+213.
+... bobo,_
+above
+上
+
+#a 596.35, None, 597.65
+
+214.
+... bo-- bukuy btunux,\
+FS back stone
+FS 後面 石頭
+
+#a 597.65, None, 599.9
+
+215.
+... niq-an so hari cida.\
+be.at-LF be.like a.little tree.branch
+在-處焦 像 一些 樹枝
+
+#a 599.9, None, 601.84
+
+216.
+...(0.9) h<m>ili=na cida qhuni kiya uri.\
+<AF>mistakenly.think=3SG.GEN tree.branch tree that also
+<主焦>誤會=3SG.屬格 樹枝 樹 那個 也
+
+#e Afterwards, there seemed to be some branches behind the stone. 
+
+But actually the boy mistook them for branches.
+#c 之後，石頭後面好像有樹枝。其實是男孩把那誤以為是樹枝。
+#a 601.84, None, 605.33
+
+217.
+...(1.4) kndalax hiya dooy-un=na ka so cida,\
+from here take-PF=3SG.GEN NOM be.like tree.branch
+從 這裡 拿-受焦=3SG.屬格 主格 像 樹枝
+
+#a 605.33, None, 609.35
+
+218.
+...(0.9) kndalax hiya m-lawa,\
+from here AF-call
+從 這裡 主焦-叫喊
+
+#a 609.35, None, 612.2
+
+219.
+...(0.9) m-lawa qpatun ka riso nii uri.\
+AF-call frog NOM youngster this also
+主焦-叫喊 青蛙 主格 青年 這個 也
+
+#e The boy grabbed the branches and calls for the frog.
+#c 小男孩抓著樹枝且在那呼喊青蛙。
+#a 612.2, None, 615.79
+
+220.
+...(0.8) huling kii de e m-iicu so walu s<n>duruk heya.\
+dog that PART Q AF-fear be.like bee <PFV>AF.chase 3SG
+狗 那個 語助詞 疑問 主焦-害怕 像 蜜蜂 <完成>主焦.追 3SG
+
+#n 此處snduruk應為口誤，說者亦於下一IU更正為sndurak。
+#a 615.79, None, 620.38
+#n 此處snduruk應為口誤，說者亦於下一IU更正為sndurak。
+
+221.
+...(0.8) s<n>durak heya.\
+<PFV>AF.chase 3SG
+<完成>完成>追 3SG
+
+#e The dog was afraid because he was chased by the bees.
+#c 狗因為被蜜蜂追而顯得害怕。
+#a 620.38, None, 622.41
+
+222.
+... kiya ka,_
+that KA
+那個 KA
+
+#a 622.41, None, 623.76
+
+223.
+...(0.7) so m-ngungu gaga,_
+be.like AF-afraid PROG
+像 主焦-害怕 進行
+
+#a 623.76, None, 626.57
+
+224.
+...(0.9) gaga a==,_
+PROG FIL
+進行 FIL
+
+#a 626.57, None, 628.45
+
+225.
+...(1.4) bukuy btunux ka huling nii uri.\
+back stone NOM dog this also
+後面 石頭 主格 狗 這個 也
+
+#e Being afraid, the dog hid himself behind the stone.
+#c 那隻狗很害怕，便躲到了石頭後面去。
+#a 628.45, None, 632.1
+
+226.
+...(0.7) ma laqi nii,_
+then child this
+然後 小孩 這個
+
+#a 632.1, None, 634.38
+
+227.
+...(0.8) ga m-heyu,_
+PROG AF-stand
+進行 主焦-站
+
+#a 634.38, None, 636.24
+
+228.
+... bobo btunux,_
+above stone
+上 石頭
+
+#a 636.24, None, 637.84
+
+229.
+... l<m>awa qpatun.\
+<AF>call frog
+<主焦>叫喊 青蛙
+
+#e And the boy, he was standing on the stone, calling for the frog.
+#c 而小男孩則站在石頭上呼喊青蛙。
+#a 637.84, None, 639.71
+
+230.
+...(2.0) gaga m-ita heya ka tekung ga s--
+PROG AF-see 3SG.ACC NOM owl EXIST FS
+進行 主焦-看 3SG.受格 主格 貓頭鷹 存在 FS
+
+#a 639.71, None, 644.33
+
+231.
+... ga==,_
+EXIST
+存在
+
+#a 644.33, None, 645.77
+
+232.
+...(1.0) cida qhuni,\
+tree.branch tree
+樹枝 樹
+
+#a 645.77, None, 647.8
+
+233.
+.. bukuy=na.\
+back=3SG.GEN
+後面=3SG.屬格
+
+#e The owl was looking at the boy, staying on the branches behind him.
+#c 貓頭鷹從男孩後面的樹枝上看著他。
+#a 647.8, None, 648.84
+
+234.
+...(7.0) kiya di,_
+that PFV.PART
+那個 完成.語助詞
+
+#a 648.84, None, 656.9
+
+235.
+... qta-an=ta kingan,\
+see-LF=1PL.GEN one
+看-處焦=1PL.屬格 一
+
+#a 656.9, None, 658.31
+
+236.
+... nii ge,\
+this PART
+這個 語助詞
+
+#a 658.31, None, 659.69
+
+237.
+...(0.9) huling nii m-usa bukuy,\
+dog this AF-go back
+狗 這個 主焦-去 後面
+
+#a 659.69, None, 662.57
+
+238.
+...(0.9) m-usa bukuy btunux.\
+AF-go back stone
+主焦-去 後面 石頭
+
+#a 662.57, None, 665.09
+
+239.
+...(0.8) kiya ka== m-usa,\
+that KA AF-go
+那個 KA 主焦-去
+
+#a 665.09, None, 667.03
+
+240.
+... sklui ka,_
+AF.be.shocked NOM
+主焦.驚嚇 主格
+
+#a 667.03, None, 668.83
+
+241.
+...(1.6) s-- rqenux.\
+FS deer
+FS 鹿
+
+#e Then we see that the dog went to the back of the stone, which made a deer shocked.
+#c 接著我們看到狗跑到石頭後面去，因而嚇到了一隻鹿。
+#a 668.83, None, 671.68
+
+242.
+...(0.9) rqenux ka,_
+deer NOM
+鹿 主格
+
+#a 671.68, None, 673.79
+
+243.
+... kn-paru.\
+very-AF.big
+很-主焦.大
+
+#a 673.79, None, 675.17
+
+244.
+...(0.7) gaga bukuy btunux.\
+EXIST back stone
+存在 後面 石頭
+
+#e It was a very big deer that was behind the stone. 
+#c 原來是那麼大的一隻鹿在石頭後面。
+#a 675.17, None, 677.43
+
+245.
+... riso nii,_
+youngster this
+青年 這個
+
+#a 677.43, None, 679.04
+
+246.
+... ga tdiy-an.\
+PROG entrap-LF
+進行 中陷阱-處焦
+
+#n tdiyan 原指動物被打獵用的陷阱吊到，此處指男孩被鹿角勾起。
+#a 679.04, None, 680.28
+#n tdiyan 原指動物被打獵用的陷阱吊到，此處指男孩被鹿角勾起。
+
+247.
+...(1.2) wa asi tdiy-an a==,_
+AUX.PST immediately entrap-LF FIL
+助動詞.過去 立即 中陷阱-處焦 FIL
+
+#a 680.28, None, 683.56
+
+248.
+... urung a==,_
+horn FIL
+角 FIL
+
+#n urung 可指各種動物的角。urung dapa "牛角"。rurung miric "羊角"。
+#a 683.56, None, 684.87
+#n urung 可指各種動物的角。urung dapa "牛角"。rurung miric "羊角"。
+
+249.
+...(0.7) rqenux.\
+deer
+鹿
+
+#e The boy was suddenly hooked by the antler.
+#c 小男孩突然就被鹿角勾到了。
+#a 684.87, None, 686.32
+
+250.
+...(1.3) huling nii m-<n>usa p-sklui heya.\
+dog this AF-<PFV>go CAU-AF.be.shocked 3SG
+狗 這個 主焦-<完成>去 使役-主焦.驚嚇 3SG
+
+#a 686.32, None, 690.02
+
+251.
+...(0.9) kiya ka tutui ka==,_
+that KA AF.get.up NOM
+那個 KA 主焦.起來 主格
+
+#a 690.02, None, 692.57
+
+252.
+... rqenux nii.\
+deer this
+鹿 這個
+
+#a 692.57, None, 693.8
+
+253.
+...(1.9) tdiy-an,\
+entrap-LF
+中陷阱-處焦
+
+#a 693.8, None, 696.27
+
+254.
+... sklui ka laqi ali-- tdi--
+AF.be.shocked NOM child FS FS
+主焦.驚嚇 主格 小孩 FS FS
+
+#a 696.27, None, 698.6
+
+255.
+.. laqi ga tgdi--
+child PROG FS--
+小孩 進行 FS
+
+#a 698.6, None, 699.95
+
+256.
+.. tdiy-an,_
+entrap-LF
+中陷阱-處焦
+
+#a 699.95, None, 700.83
+
+257.
+... urung=na hiya.\
+antler=3SG.GEN there
+鹿角=3SG.屬格 那裡
+
+#e The dog shocked the deer, so it stood up, and the boy was scared and hooked up by the antler of the deer.
+#c 因為狗去嚇到了鹿，鹿就站了起來。小男孩因此被嚇到，而且還被鹿角給勾了起來。
+#a 700.83, None, 702.21
+
+258.
+...(3.3) kiya ka,_
+that KA
+那個 KA
+
+#a 702.21, None, 706.18
+
+259.
+...(1.3) rqenux nii,\
+deer this
+鹿 這個
+
+#a 706.18, None, 708.48
+
+260.
+...(3.3) psa-an=na urung hii ka laqi rseno nii.\
+put-LF=3SG.GEN antler there NOM child man this
+放-處焦=3SG.屬格 鹿角 那裡 主格 小孩 男人 這個
+
+#e So the deer kept the boy on his antler.
+#c 於是鹿把小男孩放在鹿角上。
+#a 708.48, None, 714.11
+
+261.
+... ye so m-lawa duri e se ngal-i=ku bale,\
+Q be.like AF-call also Q be.like take-PF.IMP=1SG.NOM real
+疑問 像 主焦-叫喊 也 疑問 像 拿-受焦.期使=1SG.主格 真的
+
+#a 714.11, None, 717.61
+
+262.
+...(1.0) dyag-i=ku e mesa m-lawa ka riso nii uri.\
+help-IMP=1SG.NOM FIL AF.say AF-call NOM youngster this also
+幫忙-祈使=1SG.主格 FIL 主焦.說 主焦-叫喊 主格 青年 這個 也
+
+#e He seems to be yelling "Put me down! Help me!"
+#c 小男孩好像就大喊著：「放我下來！來幫我啊！」
+#a 717.61, None, 721.9
+
+263.
+... huling=na,\
+dog=3SG.GEN
+狗=3SG.屬格
+
+#a 721.9, None, 723.25
+
+264.
+...(0.9) t^<m>alang,\
+<AF>run
+<主焦>跑
+
+#a 723.25, None, 725.22
+
+265.
+...(0.8) s-b-bukuy t<m>alang,_
+S-RED-back <AF>run
+S-重疊-後面 <主焦>跑
+
+#n s- 推測為一將介係詞類轉換成主動詞類之詞綴。s-b-bobo tudu tmalang ka laqi "小朋友在田梗上跑著"。
+#a 725.22, None, 728.08
+#n s- 推測為一將介係詞類轉換成主動詞類之詞綴。s-b-bobo tudu tmalang ka laqi "小朋友在田梗上跑著"。
+
+266.
+...(1.6) pus-- a==,_
+FS FIL
+FS FIL
+
+#a 728.08, None, 731.0
+
+267.
+...(0.7) huling=na uri.\
+dog=3SG.GEN also
+狗=3SG.屬格 也
+
+#e His dog is also running behind them.
+#c 小男孩的狗也在後面跑。
+#a 731.0, None, 732.85
+
+268.
+...(2.2) e so==,_
+Q be.like
+疑問 像
+
+#a 732.85, None, 735.97
+
+269.
+...(1.4) ma==,\
+FIL
+FIL
+
+#a 735.97, None, 738.14
+
+270.
+...(0.7) des-un a==,_
+take.away-PF FIL
+帶走-受焦 FIL
+
+#a 738.14, None, 740.05
+
+271.
+... rqenux ka== laqi rseno.\
+deer NOM child man
+鹿 主格 小孩 男人
+
+#a 740.05, None, 742.87
+
+272.
+...(0.7) e so m-d-dayo,\
+Q be.like AF-RED-help
+疑問 像 主焦-重疊-幫忙
+
+#n 此處mddayo應為口誤。下一IU說者更正為mdayo。
+#a 742.87, None, 744.99
+#n 此處mddayo應為口誤。下一IU說者更正為mdayo。
+
+273.
+.. e so m-dayo ka huling.\
+Q be.like AF-help NOM dog
+疑問 像 主焦-幫忙 主格 狗
+
+#e Since the boy was being carried away by the deer, the dog seemed to be trying to help the boy.
+#c 因為眼看著男孩就要被鹿給帶走了，看起來這隻狗是想幫忙的樣子。
+#a 744.99, None, 747.19
+
+274.
+... mda-- paru ka rqenux nii,\
+FS AF.big NOM deer this
+FS 主焦.大 主格 鹿 這個
+
+#a 747.19, None, 750.14
+
+275.
+... so hari m-iicu ka heya uri.\
+be.like a.little AF-fear NOM 3SG.NOM also
+像 一些 主焦-害怕 主格 3SG.主格 也
+
+#e The deer was big, so the dog seemed to be afraid of it as well.
+#c 這隻鹿很大，所以狗看起來也很害怕。
+#a 750.14, None, 752.68
+
+276.
+...(1.7) kiya ka==,_
+that KA
+那個 KA
+
+#a 752.68, None, 755.35
+
+277.
+...(2.1) byaq-- betaq kdere di.\
+FS arrive cliff PFV.PART
+FS 到 懸崖 完成.語助詞
+
+#e They arrived at a cliff.
+#c 他們到達了一處懸崖。
+#a 755.35, None, 759.3
+
+278.
+...(2.0) wada tuting kdere ka,_
+AUX.PST AF.fall cliff NOM
+助動詞.過去 主焦.掉落 懸崖 主格
+
+#a 759.3, None, 763.24
+
+279.
+... ngahu ka kdere ngahu ka huling uri.\
+precipice NOM cliff precipice NOM dog also
+崖邊 主格 懸崖 崖邊 主格 狗 也
+
+#e And the dog also fell off the precipice.
+#c 所以狗也掉落到懸崖邊。
+#a 763.24, None, 766.99
+
+280.
+...(2.2) rqenux nii,\
+deer this
+鹿 這個
+
+#a 766.99, None, 770.18
+
+281.
+... wada=na asi gdaani,\
+AUX.PST=3SG.GEN immediately throw
+助動詞.過去=3SG.屬格 立即 丟
+
+#a 770.18, None, 772.49
+
+282.
+... kdere ngahu ka,_
+cliff precipice NOM
+懸崖 崖邊 主格
+
+#a 772.49, None, 774.58
+
+283.
+... laqi rseno kii duri.\
+child man this also
+小孩 男人 這個 也
+
+#e The deer threw the boy off the cliff.
+#c 這隻鹿把小男孩丟下懸崖。
+#a 774.58, None, 776.48
+
+284.
+... kiya o-- da huling=na ma,_
+that FS PART dog=3SG.GEN then
+那個 FS 語助詞 狗=3SG.屬格 然後
+
+#a 776.48, None, 778.73
+
+285.
+...(1.3) laqi a== rseno nii,\
+child FIL man this
+小孩 FIL 男人 這個
+
+#a 778.73, None, 781.95
+
+286.
+...(0.8) suupu wada tuting,_
+AF.together AUX.PST AF.fall
+主焦.一起 助動詞.過去 主焦.掉落
+
+#a 781.95, None, 784.61
+
+287.
+... lhengo,_
+cave
+岩洞
+
+#a 784.61, None, 786.01
+
+288.
+...(0.8) a kdere.\
+FIL cliff
+FIL 懸崖
+
+#e So the dog and the boy fell into a cave together.
+#c 狗和小男孩便一起掉進一個岩洞裡。
+#a 786.01, None, 787.79
+
+289.
+...(0.7) truma=na do,\
+inside=3SG.GEN PART
+裡面=3SG.屬格 語助詞
+
+#a 787.79, None, 789.59
+
+290.
+... qsiya kiya kesi,_
+water that say
+水 那個 說
+
+#a 789.59, None, 792.0
+
+291.
+... yayung peni.\
+river PART
+河流 語助詞
+
+#a 792.0, None, 793.52
+
+292.
+...(1.1) gcilung kes-un=ta.\
+lake tell-PF=1PL.GEN
+湖泊 告訴-受焦=1PL.主格
+
+#e Inside the cave was water. It was a river, or what we call a lake.
+#c 洞裡有水，就是河流啊，或是我們所謂的湖泊。
+#a 793.52, None, 796.1
+
+293.
+... qsiya gcilung,\
+water lake
+水 湖泊
+
+#a 796.1, None, 798.2
+
+294.
+... kdere,\
+cliff
+懸崖
+
+#a 798.2, None, 799.39
+
+295.
+... niq-an kingan qhuni paru na uri.\
+be.at-LF one tree AF.big still also
+在-處焦 一 樹 主焦.大 還 也
+
+#e There is also a big piece of wood on the water.
+#c 在崖邊的湖水上有一塊大木頭。
+#a 799.39, None, 802.15
+
+296.
+...(1.2) <L2Msuo.yiML2> kiya ka dungus=daha,\
+therefore that KA purpose=3PL.GEN
+所以 那個 KA 目的=3PL.屬格
+
+#a 802.15, None, 805.65
+
+297.
+... daha laqi nii m-eyah skadi a,\
+3PL.GEN child this AF-come AF.search FIL
+3PL.屬格 小孩 這個 主焦-來 主焦.找 FIL
+
+#a 805.65, None, 807.97
+
+298.
+... so qpatun,_
+be.like frog
+像 青蛙
+
+#a 807.97, None, 809.65
+
+299.
+...(1.0) wada qduriq peni.\
+AUX.PST AF.escape PART
+助動詞.過去 主焦.逃走 語助詞
+
+#e So their original purpose was to look for the frog that ran away.
+#c 所以他們原本的目的就是想要來找跑掉的青蛙。
+#a 809.65, None, 811.76
+
+300.
+...(1.6) da,\
+PART
+語助詞
+
+#a 811.76, None, 813.88
+
+301.
+... huling nii ta-an=ta,\
+dog this see-LF=1PL.GEN
+狗 這個 看-處焦=1PL.屬格
+
+#a 813.88, None, 815.78
+
+302.
+... wa m-ita kndalax a==,_
+PROG AF-see from FIL
+進行 主焦-看 從 FIL
+
+#a 815.78, None, 818.37
+
+303.
+...(1.2) baro ka,_
+up NOM
+上面 主格
+
+#a 818.37, None, 820.77
+
+304.
+... rqenux.\
+deer
+鹿
+
+#e Here we see the dog (down here), and the deer was looking at it from the top.
+#c 我們看這狗呢，鹿正從上面看著他。
+#a 820.77, None, 822.02
+
+305.
+...(0.7) m-tuting,\
+AF-fall
+主焦-掉落
+
+#a 822.02, None, 823.55
+
+306.
+...(1.3) tuting.\
+AF.fall
+主焦.掉落
+
+#a 823.55, None, 825.37
+
+307.
+...(0.9) gcilung,_
+lake
+湖泊
+
+#a 825.37, None, 827.02
+
+308.
+... gsiya ka,_
+water NOM
+水 主格
+
+#a 827.02, None, 828.57
+
+309.
+.. huling=na,_
+dog=3SG.GEN
+狗=3SG.屬格
+
+#a 828.57, None, 829.74
+
+310.
+... daha.ka riso nii.\
+CONJ youngster this
+連接詞 青年 這個
+
+#a 829.74, None, 831.5
+
+311.
+... daha.ka laqi rseno nii.\
+CONJ child man this
+連接詞 小孩 男人 這個
+
+#e The dog and the boy fell into the water of the lake.
+#c 狗和小男孩掉進了湖水裡。
+#a 831.5, None, 832.95
+
+312.
+...(1.7) rkci-- tloong ka la-- m-tutui di ma tloong ka riso nii.\
+FS AF.sit NOM FS AF-get.up PFV.PART then AF.sit NOM youngster this
+FS 主焦.坐 主格 FS 主焦-起來 完成.語助詞 然後 主焦.坐 主格 青年 這個
+
+#a 832.95, None, 838.78
+
+313.
+...(0.7) ma,_
+then
+然後
+
+#a 838.78, None, 839.93
+
+314.
+...(0.7) psa-an=na,_
+put-LF=3SG.GEN
+放-處焦=3SG.屬格
+
+#a 839.93, None, 841.51
+
+315.
+.. bobo tunux saapa=na bobo,\
+above head AF.carry.on.back=3SG.GEN above
+上 頭 主焦.背=3SG.屬格 上
+
+#a 841.51, None, 843.74
+
+316.
+...(1.5) tunux=na ka huling=na.\
+head=3SG.GEN NOM dog=3SG.GEN
+頭=3SG.屬格 主格 狗=3SG.屬格
+
+#e After the boy got up, he sat there and put his dog on his head, carrying it.
+#c 小男孩站起來後，便坐著。並且把狗放到頭上背。
+#a 843.74, None, 847.05
+
+317.
+...(1.1) ^m-usa dungan ga skadi a==,_
+AF-go again PROG AF.search FIL
+主焦-去 又 進行 主焦.找 FIL
+
+#a 847.05, None, 850.15
+
+318.
+...(0.9) thngali ho btunux kana so sudu.\
+the.other.side FIL stone all like grass
+另一邊 FIL 石頭 所有 像 草
+
+#a 850.15, None, 854.01
+
+319.
+... wada skadi a==,\
+AUX.PST AF.search FIL
+助動詞.過去 主焦.找 FIL
+
+#a 854.01, None, 855.92
+
+320.
+...(1.0) wada skadi ^qpatun.\
+AUX.PST AF.search frog
+助動詞.過去 主焦.找 青蛙
+
+#e They went to look for it (the frog) again, on the other side of the stones, where there was grass everywhere. They searched for the frog.
+#c 他們又繼續尋找(青蛙)。在石堆的另一邊，那兒到處都是草。他們繼續學找青蛙。
+#a 855.92, None, 859.0
+
+321.
+...(1.1) ma==,_
+then
+然後
+
+#a 859.0, None, 860.65
+
+322.
+...(1.6) m-eyah betaq a==,_
+AF-come arrive FIL
+主焦-來 到 FIL
+
+#a 860.65, None, 863.45
+
+323.
+... l<m>anguy ka huling=na.\
+<AF>swim NOM dog=3SG.GEN
+<主焦>游泳 主格 狗=3SG.屬格
+
+#a 863.45, None, 865.85
+
+324.
+... heya do,_
+3SG PART
+3SG 語助詞
+
+#a 865.85, None, 867.5
+
+325.
+... anu m-ita kiyan a==,_
+then AF-see one FIL
+然後 主焦-看 一 FIL
+
+#n 此處kiyan應為kingan。
+#a 867.5, None, 869.49
+#n 此處kiyan應為kingan。
+
+326.
+... qhuni buro hiya.\
+tree rotten there
+樹 腐爛 那裡
+
+#e The dog swam across, and there the boy found a rotten wood as he arrived.
+#c 狗游了過去，到達時小拿還在那兒發現了一塊腐木。
+#a 869.49, None, 871.07
+
+327.
+...(0.9) ma,\
+then
+然後
+
+#a 871.07, None, 872.47
+
+328.
+... iya squwaq kes-un=na ka huling=na,\
+NEG.IMP talk tell-PF=3SG.GEN NOM dog=3SG.GEN
+否定.祈使 說話 告訴-受焦=3SG.屬格 主格 狗=3SG.屬格
+
+#a 872.47, None, 875.16
+
+329.
+...(1.5) yani kla-an gaga truma hii mesa peni.\
+perhaps know-LF EXIST inside there AF.say PART
+可能 知道-處焦 存在 裡面 那裡 主焦.說 語助詞
+
+#e "Keep quiet!" he told his dog. "It (the frog) might be right in there!" he said.
+#c 他對狗說：「不要講話！」「青蛙可能就在裡面！」他說。
+#a 875.16, None, 879.39
+
+330.
+...(1.2) kiya ka,_
+that KA
+那個 KA
+
+#a 879.39, None, 881.35
+
+331.
+... huling=na m-dakin a buro qhuni nii ma,\
+dog=3SG.GEN AF-climb FIL rotten tree this PART
+狗=3SG.屬格 主焦-爬 FIL 腐爛 樹 這個 語助詞
+
+#a 881.35, None, 885.09
+
+332.
+... heya uri.\
+3SG also
+3SG 也
+
+#e So the dog climbed over this rotten wood, and so did the boy.
+#c 所以狗爬上了這根腐木，而男孩也是。
+#a 885.09, None, 886.26
+
+333.
+... anu qsiya gcilung ka,_
+then water lake NOM
+然後 水 湖泊 主格
+
+#a 886.26, None, 889.09
+
+334.
+... ga=daha niq-an.\
+EXIST=3PL.GEN be.at-LF
+存在=3PL.屬格 在-處焦
+
+#e They are in the lake water.
+#c 他們在湖水裡。
+#a 889.09, None, 890.47
+
+335.
+... kiya ka,\
+that KA
+那個 KA
+
+#a 890.47, None, 891.65
+
+336.
+... m-dakin a,_
+AF-climb FIL
+主焦-爬 FIL
+
+#a 891.65, None, 893.01
+
+337.
+...(0.8) qhuni buro nii ka laqi rseno,\
+tree rotten this NOM child man
+樹 腐爛 這個 主格 小孩 男人
+
+#a 893.01, None, 896.41
+
+338.
+... ma huling=na.\
+CONJ dog=3SG.GEN
+連接詞 狗=3SG.屬格
+
+#e Since where they were at was the lake water, the boy and his dog climbed up this rotten wood.
+#c 因為他們是在湖水之中，小男孩和他的狗便爬上這塊腐木。
+#a 896.41, None, 898.18
+
+339.
+...(4.0) dheya do,_
+3PL PART
+3PL 語助詞
+
+#a 898.18, None, 903.17
+
+340.
+... mntena so==,\
+AF.same be.like
+主焦.相同 像
+
+#a 903.17, None, 904.79
+
+341.
+...(1.3) m-dakin bobo qhuni buro kii,_
+AF-climb above tree rotten that
+主焦-爬 上 樹 腐爛 那個
+
+#a 904.79, None, 908.19
+
+342.
+...(2.5) paru riyung qhuni nii biciq.\
+AF.big very tree this AF.small
+主焦.大 非常 樹 這個 主焦.小
+
+#e In the same way they both climbed up this rotten wood.
+#c 一樣地小男孩和狗都爬上了這個腐木。
+#a 908.19, None, 912.5
+
+343.
+... ma qta-an=daha,\
+then see-LF=3PL.GEN
+然後 看-處焦=3PL.屬格
+
+#a 912.5, None, 914.33
+
+344.
+... toma=na.\
+below=3SG.GEN
+下=3SG.GEN
+
+#a 914.33, None, 915.54
+
+345.
+... niq-an,\
+be.at-LF
+在-處焦
+
+#a 915.54, None, 916.44
+
+346.
+... qu-- q<m>ita maanu dheya,\
+FS <AF>see what 3PL
+FS <主焦>看 什麼 3PL
+
+#e Then, they looked (into the wood). What were they looking at?
+#c 然後呢，他們就(往木頭裡面)看。他們在看什麼呢？
+#a 916.44, None, 918.59
+
+347.
+... ^daha qpatun,\
+two frog
+二 青蛙
+
+#a 918.59, None, 920.69
+
+348.
+... bubu=na daha.ka,_
+mother=3SG.GEN CONJ
+媽媽=3SG.屬格 連接詞
+
+#a 920.69, None, 922.74
+
+349.
+... wawa=na.\
+animal.child=3SG.GEN
+動物小孩=3SG.GEN
+
+#e It was two frogs–the mother frog and her child.
+#c 是兩隻青蛙–青蛙媽媽和他的孩子。
+#n wawa專指動物的小孩。但狗及豬的小孩另有詞彙。前者為uruk，後者為beru。
+#a 922.74, None, 924.06
+
+350.
+... m-suupu ga tloong,\
+AF-together PROG AF.sit
+主焦-一起 進行 主焦.坐
+
+#a 924.06, None, 925.9
+
+351.
+...(2.0) bukuy qhuni buro.\
+back tree rotten
+後面 樹 腐爛
+
+#e They were sitting together behind the rotten wood.
+#c 他們一起坐在腐木的後面。
+#a 925.9, None, 929.98
+
+352.
+...(3.7) ma m-eyah hini dungan,\
+then AF-come here again
+然後 主焦-來 這裡 再
+
+#a 929.98, None, 935.3
+
+353.
+... m-^tara muta-- ta-an=daha._
+AF-wait FS see-LF=3PL.GEN
+主焦-等 FS 看-處焦=3PL.屬格
+
+#a 935.3, None, 937.86
+
+354.
+...(0.9) huling=na tloong baro uri tloong,_
+dog=3SG.GEN sit up also sit
+狗=3SG.屬格 坐 上面 也 坐
+
+#a 937.86, None, 941.32
+
+355.
+... baro,\
+up
+上面
+
+#a 941.32, None, 942.43
+
+356.
+...(3.0) buro qhuni,_
+rotten tree
+腐爛 樹
+
+#a 942.43, None, 946.55
+
+357.
+... tloong ka riso.\
+AF.sit NOM youngster
+主焦.坐 主格 青年
+
+#e Then, they came here again to see, the dog and the boy sitting on the rotten wood.
+#c 然後，他們又來繼續看著。狗和小男孩都坐在腐木上。
+#a 946.55, None, 948.19
+
+358.
+...(0.9) ^qaras riyung m-ita,\
+AF.happy very AF-see
+主焦.快樂 非常 主焦-看
+
+#a 948.19, None, 950.51
+
+359.
+... ^egu qpatun wawa qpatun,\
+AF.many frog animal.child frog
+很多 青蛙 動物小孩 青蛙
+
+#a 950.51, None, 953.55
+
+360.
+... m-eyah m-ita m-eyah a==,_
+AF-come AF-see AF-come FIL
+主焦-來 主焦-看 主焦-來 FIL
+
+#a 953.55, None, 955.82
+
+361.
+...(2.0) m-eyah m-ita bubu daha.ka qpa-- wawa qpatun nii peni.\
+AF-come AF-see mother CONJ FS animal.child frog this PART
+主焦-來 主焦-看 媽媽 連接詞 FS 動物小孩 青蛙 這個 語助詞
+
+#e They were happy to see so many children frogs. They came to see the mother frog and the children frogs.
+#c 他們看到這麼多小青蛙很高興。他們來看著青蛙媽媽和這些小青蛙們。
+#a 955.82, None, 961.78
+
+362.
+...(0.9) e so,_
+Q be.like
+疑問 像
+
+#a 961.78, None, 963.48
+
+363.
+...(1.2) wawa=na ga bukuy=na uri wawa=na paru.\
+animal.child=3SG.GEN EXIST back=3SG.GEN also animal.child=3SG.GEN AF.big
+動物小孩=3SG.屬格 存在 後面=3SG.屬格 也 動物小孩=3SG.屬格 主焦.大
+
+#e There were also children frogs behind the mother. They were bigger ones. 
+#c 青蛙媽媽的後面也有小青蛙。他們是比較大的小青蛙。
+#a 963.48, None, 967.31
+
+364.
+... nii do tniyo wawa=na hani yani m-<n>tuting hari.\
+this PART all animal.child=3SG.GEN just.now perhaps <PFV>AF-fall a.little
+這個 語助詞 都 動物小孩=3SG.屬格 剛剛 也許 <完成>主焦-掉落 一些
+
+#e All these frogs seem to be newly born babies.
+#c 這些小青蛙看起來都是剛出生的。
+#n tniyo 應為 tnugiyo "全部"。
+#n hari 此處譯為 "好像"、"似乎"。
+#a 967.31, None, 971.89
+
+365.
+...(0.8) m-qaras riyung bubu qpatun nii,\
+AF-happy very mother frog this
+主焦-快樂 非常 媽媽 青蛙 這個
+
+#a 971.89, None, 974.9
+
+366.
+... m-ita so wawa=daha.\
+AF-see be.like animal.child=3PL.GEN
+主焦-看 像 動物小孩=3PL.屬格
+
+#a 974.9, None, 976.87
+
+367.
+... m-qaras ka riso duri.\
+AF-happy NOM youngster also
+主焦-快樂 主格 青年 也
+
+#e The mother frog was very happy looking at her children, and the boy was happy too.
+#c 青蛙媽媽看著她的孩子感到非常快樂。小男孩也是。
+#a 976.87, None, 979.25
+
+368.
+... m-qaras ka so sklui m-ita kana,\
+AF-happy NOM be.like AF.be.shocked AF-see all
+主焦-快樂 主格 像 主焦.驚嚇 主焦-看 所有
+
+#a 979.25, None, 982.35
+
+369.
+... huling=na ma,_
+dog=3SG.GEN then
+狗=3SG.屬格 然後
+
+#a 982.35, None, 983.77
+
+370.
+... heya so ga m-hulis paru mesa.\
+3SG be.like PROG AF-laugh AF.big AF.say
+3SG 像 進行 主焦-笑 主焦.大 主焦.說
+
+#e The dog and the boy were happy and surprised to see all the frogs, so they laughed loudly.
+#c 狗和小男孩看到那麼多隻青蛙又驚又喜，他們於是大聲地笑出來。
+#a 983.77, None, 987.08
+
+371.
+... nii=ta slay-un qpatun,_
+this=1PL.GEN find-PF frog
+這個=1PL.屬格 找-受焦 青蛙
+
+#a 987.08, None, 989.51
+
+372.
+...(0.7) wada,_
+AUX.PST
+助動詞.過去
+
+#a 989.51, None, 990.86
+
+373.
+... gedang di mesa.\
+AF.be.lost PFV.PART AF.say
+主焦.遺失 完成.語助詞 主焦.說
+
+#a 990.86, None, 992.42
+
+374.
+...(1.2) ye so kiya ka kari laqi rseno nii.\
+Q be.like that NOM speech child man this
+疑問 像 那 主格 話語 小孩 男人 這個
+
+#e "Here, we have found the forg that had been lost!" That's probably what the boy said.
+#c 「我們找到遺失的青蛙了！」小男孩應該是那麼說的。
+#a 992.42, None, 996.48
+
+375.
+...(1.5) kiya do,_
+that PART
+那個 語助詞
+
+#a 996.48, None, 998.7
+
+376.
+...(2.4) laqi riso nii,\
+child youngster this
+小孩 青年 這個
+
+#a 998.7, None, 1002.22
+
+377.
+...(1.0) ngal-un=na kingan ka,_
+grab-PF=3SG.GEN one NOM
+抓-受焦=3SG.屬格 一 主格
+
+#a 1002.22, None, 1004.98
+
+378.
+... qpatun so hari wada wada has--
+frog be.like a.little AUX.PST AUX.PST FS
+青蛙 像 一些 助動詞.過去 助動詞.過去 FS
+
+#a 1004.98, None, 1008.11
+
+379.
+... srap-un m-<n>eniq sapah=na.\
+chase-PF <PFV>AF-be.at house=3SG.GEN
+追-受焦 <完成>主焦-在 房子=3SG.屬格
+
+#e The boy then grabbed one frog that looked like the one that was originally living in his house.
+#c 小男孩於是抓了一隻像本來在家裡的那隻青蛙。
+#n srapun應為sdrapun。
+#a 1008.11, None, 1010.5
+
+380.
+... huling nii de m-qaras riyung.\
+dog this PART AF-happy very
+狗 這個 語助詞 主焦-快樂 非常
+
+#e The dog was very happy.
+#c 這隻狗非常快樂。
+#a 1010.5, None, 1013.07
+
+381.
+... ga d<m>oi a==,_
+PROG <AF>grab FIL
+進行 <主焦>抓 FIL
+
+#a 1013.07, None, 1014.73
+
+382.
+... kingan qpatun ka baba-- baga=na di,\
+one frog NOM FS hand=3SG.GEN PFV.PART
+一 青蛙 主格 FS 手=3SG.屬格 完成.語助詞
+
+#a 1014.73, None, 1017.93
+
+383.
+.. laqi rseno nii ma.\
+child man this then
+小孩 男人 這個 然後
+
+#a 1017.93, None, 1019.48
+
+384.
+...(1.3) ^t<m>alang m-m-aha sapah de sa-an=daha,_
+<AF>run RED-AF-go house PART go-LF=3PL.NOM
+<主焦>跑 重疊-主焦-去 房子 語助詞 去-處焦=3PL.主格
+
+#a 1019.48, None, 1023.77
+
+385.
+... sa-an pusa sapah=na dungan.\
+go-LF AF.put house=3SG.GEN again
+去-處焦 主焦.放 房子=3SG.屬格 再
+
+#e The boy grabbed one frog, and ran back to his house, to put it in the house.
+#c 小男孩用手抓一隻青蛙，跑回家，又把它放在家裡。
+#a 1023.77, None, 1025.92
+
+386.
+...(1.2) kiya ka,\
+that KA
+那個 KA
+
+#a 1025.92, None, 1027.75
+
+387.
+... hngali nii we,_
+the.other.side this PART
+另一邊 這個 語助詞
+
+#a 1027.75, None, 1029.55
+
+388.
+.. bubu=na,\
+mother=3SG.GEN
+媽媽=3SG.屬格
+
+#a 1029.55, None, 1030.57
+
+389.
+...(1.1) ye tama=na ini kla-i ha tama=na ka bubu=na.\
+Q father=3SG.GEN NEG know-PF.IRR FIL father=3SG.GEN NOM mother=3SG.GEN
+疑問 爸爸=3SG.屬格 否定 知道-受焦.非實現 FIL 爸爸=3SG.屬格 主格 媽媽=3SG.屬格
+
+#e The frog on the other side ... it's not known whether the mother frog was actually the father frog.
+#c 在另一邊的青蛙，不知道這隻青蛙媽媽是不是其實是青蛙爸爸？
+#a 1030.57, None, 1035.27
+
+390.
+... bobo.na hiya,_
+afterwards there
+之後 那裏
+
+#a 1035.27, None, 1037.05
+
+391.
+...(2.5) mpitu,\
+seven
+七
+
+#a 1037.05, None, 1040.4
+
+392.
+...(1.3) mpitu ka wawa,_
+seven NOM animal.child
+七 主格 動物小孩
+
+#a 1040.4, None, 1043.15
+
+393.
+... ga tloong bukuy,\
+PROG sit back
+進行 坐 後面
+
+#a 1043.15, None, 1044.82
+
+394.
+... qpatun nii.\
+frog this
+青蛙 這個
+
+#e Seven kid frogs sit behind this parent frog.
+#c 有七隻小青蛙坐在後面。
+#a 1044.82, None, 1046.11
+
+395.
+... ^m-ita m-ita dheya,\
+AF-see AF-see 3PL
+主焦-看 主焦-看 3PL
+
+#a 1046.11, None, 1048.65
+
+396.
+... m-ita wawa=na wada des-un riso kii.\
+AF-see animal.child=3SG.GEN AUX.PST take.away-PF youngster that
+主焦-看 動物小孩=3SG.屬格 助動詞.過去 帶走-受焦 青年 那個
+
+#e They watched the kid frog being taken away by the boy.
+#c 青蛙們看著被小男孩帶走的那隻小青蛙。
+#a 1048.65, None, 1051.93
+
+397.
+... e so,_
+Q be.like
+疑問 像
+
+#a 1051.93, None, 1053.3
+
+398.
+... sm--
+FS
+FS
+
+#a 1053.3, None, 1054.49
+
+399.
+... maa-- e==,_
+FS FIL
+FS FIL
+
+#a 1054.49, None, 1056.47
+
+400.
+...(1.1) g<m>aalu so wa== nii wada des-un seediq di mesa piya.\
+<AF>.find.pitiful be.like INT this AUX.PST take.away-PF people PFV.PART AF.say there
+<主焦>疼惜 像 感嘆 這個 助動詞.過去 帶走-受焦 人 完成.語助詞 主焦.說 那裡
+
+#e The parent frog seems to find it pitiful, crying out "wa ..." "It (my child) has been taken away my a human" he said.
+#c 青蛙爸/媽好像心疼，他說：「小青蛙被人帶走啦！」。
+#a 1056.47, None, 1061.1
+
+401.
+...(0.9) kiya m-ita bale m-qaras duri m-hulis kana=daha.\
+that AF-see real AF-happy also AF-laugh all=3PL.GEN
+那 主焦-看 真的 主焦-快樂 也 主焦-笑 所有 =3PL.屬格
+
+#e But they all looked really happy, and laughed.
+#c 但他們看起來都很高興，也笑了。
+#a 1061.1, None, 1065.62
+
+402.
+...(0.8) kla-an=daha seediq nii,\
+know-LF=3PL.NOM people this
+知道-處焦=3PL.主格 人 這個
+
+#a 1065.62, None, 1068.01
+
+403.
+... ini sipaq seediq,\
+NEG kill people
+否定 殺 人
+
+#a 1068.01, None, 1070.17
+
+404.
+...(0.9) ini p-nhuqin dheya.\
+NEG.IMP CAU-die 3PL
+否定.祈使 使役-死 3PL
+
+#e They guessed that this person wouldn't kill people, so he would not kill frogs either.
+#c 他們猜想這人不會殺人，所以也不會把青蛙弄死。
+#a 1070.17, None, 1072.65
+
+405.
+... kiya,_
+that
+那
+
+#a 1072.65, None, 1073.76
+
+406.
+... mntena m-heyu hiya ka daha qpatun,_
+same AF-stand here NOM two frog
+相同 主焦-站 這裡 主格 二 青蛙
+
+#a 1073.76, None, 1077.01
+
+407.
+... mpitu wawa=na,\
+seven animal.child=3SG.GEN
+七 動物小孩=3SG.屬格
+
+#a 1077.01, None, 1078.68
+
+408.
+... ga mesa swaye=ta.\
+PROG AF.say separate.IRR=1PL.NOM
+進行 主焦.說 分離.非實現=1PL.主格
+
+#e So the two (parent) frogs, along with the seven kid frogs, stood there and said "goodbye, then."
+#c 那兩隻青蛙和七隻小青蛙便站在那兒，說：「再見了！」。
+#a 1078.68, None, 1080.75
+
+409.
+... so kiya ka,_
+be.like that KA
+像 那個 KA
+
+#a 1080.75, None, 1082.24
+
+410.
+... m-qaras p--
+AF-happy FS
+主焦-快樂 FS
+
+#a 1082.24, None, 1083.87
+
+411.
+...(0.7) lnlung-an na,\
+think-LF 3SG.GEN
+想-處焦 3SG.屬格
+
+#a 1083.87, None, 1085.59
+
+412.
+... tama bubu qpatun.\
+father mother frog
+爸爸 媽媽 青蛙
+
+#e The father frog and mother frog felt happy.
+#c 青蛙爸爸和青蛙媽媽感到很高興。
+#a 1085.59, None, 1087.62
+
+413.
+...(3.9) so betaq hini kari,_
+be.like AF.arrive here speech
+像 主焦.到達 這裡 話語
+
+#a 1087.62, None, 1092.97
+
+414.
+... so nda-an nii we.\
+be.like pass-LF this PART
+像 經過-處焦 這個 語助詞
+
+#e So the story would probably end here.
+#c 這個故事應該就到這裡。
+#a 1092.97, None, 1094.73
+
+415.
+...(2.8) wada mq-- so,_
+AUX.PST FS be.like
+助動詞.過去 FS 像
+
+#a 1094.73, None, 1099.35
+
+416.
+... ini kseyang bubu tama bubu=na uri.\
+NEG angry.AF.IRR mother father mother=3SG.GEN also
+否定 生氣.主焦.非實現 媽媽 爸爸 媽媽=3SG.屬格 也
+
+#e The father frog and mother frog were not worried.
+#c 青蛙爸爸和青蛙媽媽也不會擔心。
+#a 1099.35, None, 1102.4
+
+417.
+... kiya mesa kla-an dngaun daha,_
+that AF.say know-LF again 3PL.GEN
+那 主焦.說 知道-處焦 再 3PL.屬格
+
+#a 1102.4, None, 1105.33
+
+418.
+... seediq gaga,_
+people there
+人 那裡
+
+#a 1105.33, None, 1106.81
+
+419.
+... malu lnlung-an=na riso kiya.\
+AF.good think-LF=3SG.GEN youngster that
+主焦.好 想-處焦=3SG.屬格 青年 那
+
+#e They guessed that the boy was kind-hearted.
+#c 他們猜想這小男孩心腸很好。
+#a 1106.81, None, 1109.24
+
+420.
+... m-^qaras paru ka huling paru quwaq hulis=na.\
+AF-happy AF.big NOM dog AF.big mouth laugh=3SG.GEN
+主焦-快樂 主焦.大 主格 狗 主焦.大 嘴巴 笑=3SG.屬格
+
+#e The dog was very happy. He laughed, with his mouth widely open.
+#c 狗很高興，張著嘴大笑。
+#a 1109.24, None, 1113.05
+
+421.
+...(0.9) kari nii betaq hini,_
+speech this AF.arrive here
+話語 這個 主焦.到 這裡
+
+#a 1113.05, None, 1115.61
+
+422.
+... so nda-an,_
+be.like pass-LF
+像 經過-處焦
+
+#a 1115.61, None, 1117.0
+
+423.
+...(0.8) qpatun,_
+frog
+青蛙
+
+#a 1117.0, None, 1118.66
+
+424.
+... daha.ka,_
+CONJ
+連接詞
+
+#a 1118.66, None, 1120.01
+
+425.
+...(0.9) riso ma huling.\
+youngster CONJ dog
+青年 連接詞 狗
+
+#e So the story about the frog, the boy, and the dog ends here.
+#c 青蛙、男孩和狗的故事就到這裡。
+#a 1120.01, None, 1122.63
+
+426.
+... betaq hini kari=mu.\
+AF.arrive here speech=1SG.GEN
+主焦.到達 這裡 話語=1SG.屬格
+
+#e My story ends here.
+#c 我就講到這邊。
+#a 1122.63, None, 1124.15

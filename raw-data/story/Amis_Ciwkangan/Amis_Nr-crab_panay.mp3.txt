@@ -1,0 +1,652 @@
+topic: Crab
+type: Narrative
+language: 阿美語, Amis, Ciwkangan (長光)
+speaker: 李金妹, Panay, female, 1949-12-28
+collected: 2004-04-04
+revised: None
+video: Amis_Nr-crab_panay.mp3
+
+1.
+ira      ku==,\
+EXIST  NOM
+存在    主格
+
+#a 8.72, None, 9.77
+
+2.
+.. ccay   a==,\
+one  LNK
+一   連詞
+
+#a 9.77, None, 10.73
+
+3.
+.. ma-tu’as-ay.\
+AF-old-AY
+主焦-老-AY
+
+#a 10.73, None, 11.74
+
+4.
+... tayra   i==,\
+AF.go  LOC
+主焦.去  處格
+
+#a 11.74, None, 13.58
+
+5.
+.. alo’   mi==-,\
+river  AF-
+河   主焦-
+
+#a 13.58, None, 15.09
+
+6.
+... ala  tu==nini   u==,\
+take  this.OBL    CN
+拿   這個.斜格    CN
+
+#a 15.09, None, 17.15
+
+7.
+.. ka-ka’en-en,\
+Ca-eat-PF
+Ca重疊-吃-受焦
+
+#a 17.15, None, 18.01
+
+8.
+... tu    ta-tangtang-en  a==,\
+OBL  Ca-cook-PF   LNK
+斜格  Ca重疊-煮-受焦   連詞
+
+#a 18.01, None, 19.68
+
+9.
+.. ka-ka’en-en.\
+Ca-eat-PF
+Ca重疊-吃-受焦
+
+#e There was an old man going to the river to look for something to cook and eat.
+#c 有一個老人家去溪邊找吃的，打算煮來吃。
+#a 19.68, None, 20.46
+
+10.
+...(2.5) yo   tahira  cingra     i==,\
+DM   arrive   3SG.NOM  LOC
+DM   到   3SG.主格    處格
+
+#a 20.46, None, 24.4
+
+11.
+.. alo’,\
+river
+河
+
+#e He got to the river.
+#c 他到了河邊。
+#a 24.4, None, 24.95
+
+12.
+.. mi==-fuhad,\
+AF-flip.open
+主焦-翻開
+
+#a 24.95, None, 25.91
+
+13.
+.. cingra    tu==,\
+3SG.NOM  OBL
+3SG.主格  斜格
+
+#a 25.91, None, 27.03
+
+14.
+.. fekeloh,\
+stone
+石頭
+
+#e He flipped over a stone.
+#c 他翻開石頭。
+#a 27.03, None, 27.68
+
+15.
+...(0.9) ma-tama  nira      kunini    u==,\
+PF-find   3SG.GEN   this.NOM   CN
+受焦-找到  3SG.屬格   這個.主格   CN
+
+#a 27.68, None, 30.8
+
+16.
+... ccay  a==,\
+one  LNK
+一   連詞
+
+#a 30.8, None, 32.14
+
+17.
+.. fawu.\
+insect
+蟲
+
+#e He found an insect.
+#c 他發現這個一隻蟲（指螃蟹）。
+#a 32.14, None, 32.67
+
+18.
+... ca’ay  ka-fana’,\
+NEG  KA-know
+否定   KA-知道
+
+#a 32.67, None, 33.6
+
+19.
+.. cingra   tu    nika,\
+3SG.NOM  OBL  NIKA
+3SG.主格   斜格  NIKA
+
+#a 33.6, None, 34.35
+
+20.
+.. u  ma’an  ku  ngangan,\
+CN  what  NOM  name
+CN  什麼  主格  名字
+
+#a 34.35, None, 35.57
+
+21.
+.. nunini   a==,\
+this.GEN   LNK
+這個.屬格   連詞
+
+#a 35.57, None, 36.62
+
+22.
+... fawu,\
+insect
+蟲
+
+#e He didn’t know the name of the insect.
+#c 他不知道這隻蟲的名字是什麼。
+#a 36.62, None, 37.59
+
+23.
+...(1.0) unini sa   a     suwal    aku,\
+this   SA  LNK  speech  1SG.GEN
+這個  SA  連詞  話    1SG.屬格
+
+#e This is my story.
+#c 這是我的故事。
+#a 37.59, None, 40.05
+
+24.
+.. u==,\
+CN
+CN
+
+#a 40.05, None, 40.62
+
+25.
+.. pakayni-ay    i     saka==,\
+from.this-AY  LOC   so
+從事-AY      處格  因此
+
+#a 40.62, None, 42.12
+
+26.
+... u==,\
+CN
+CN
+
+#a 42.12, None, 43.13
+
+27.
+.. u    kalang,\
+CN  crab
+CN  螃蟹
+
+#a 43.13, None, 43.75
+
+28.
+.. han       ku    kalang,\
+say.so.PF   NOM  crab
+如此說.受焦  主格   螃蟹
+
+#a 43.75, None, 44.7
+
+29. 
+... nu    u   kalang,\
+GEN  CN    crab
+屬格   CN    螃蟹
+
+#a 44.7, None, 45.75
+
+30.
+.. han       ku==,\
+say.so.PF   NOM
+如此說.受焦  主格
+
+#a 45.75, None, 46.85
+
+31.
+.. ngangan  nura.\
+name  that.GEN
+名字  那個.屬格
+
+#e I want to talk about why crabs are called ‘Kalang.’
+#c 我要說有關於螃蟹為什麼叫做「Kalang」。
+#a 46.85, None, 47.59
+
+32.
+.. sanay    kunini     a   sa-suwal-en   aku,\
+so.called  this.NOM  LNK  Ca-speak-PF  1SG.GEN
+所謂    這個.主格  連詞   Ca重疊-說-受焦  1SG.屬格
+
+#e This is what I want to talk about.
+#c 這就是我要說的。
+#a 47.59, None, 49.46
+
+33.
+... saka,\
+so
+因此
+
+#a 49.46, None, 50.25
+
+34.
+... yo==   tala-alo’,\
+DM  to-river
+DM  到-河
+
+#a 50.25, None, 52.21
+
+35.
+.. kiya      ccay  a   ma-tu’as-ay,\
+this.NOM  one  LNK  AF-old-AY
+這個.主格  一  連詞  主焦-老-AY
+
+#e An old man went to the river.
+#c 一個老人到河邊。
+#a 52.21, None, 53.7
+
+36.
+...(0.9) mi-fuhad  cingra     tu==,\
+AF-flip.open   3SG.NOM  OBL
+主焦-翻開     3SG.主格  斜格
+
+#a 53.7, None, 56.05
+
+37.
+.. fekeloh,\
+stone
+石頭
+
+#e He flipped over a stone.
+#c 他翻開石頭。
+#a 56.05, None, 56.65
+
+38.
+.. ma-tama  nira      ku    ccay   a==,\
+PF-find    3SG.GEN  NOM   one   LNK
+受焦-找到  3SG.屬格  主格  一  連詞
+
+#a 56.65, None, 58.87
+
+39.
+... fawn,\
+insect
+蟲
+
+#e He found an insect.
+#c 他找到一隻蟲。
+#a 58.87, None, 59.86
+
+40.
+.. anu u ma’an,\
+COND CN what
+條件詞 CN 什麼
+
+#a 59.86, None, 60.58
+
+41.
+.. kurira      ca’ay  ka-fana’,\
+this.NOM   NEG  KA-know
+這個.主格  否定  KA-知道
+
+#a 60.58, None, 61.5
+
+42.
+.. cingra.\
+3SG.NOM
+3SG.主格
+
+#e He didn’t know what it was.
+#c 那是什麼他不知道。
+#a 61.5, None, 62.12
+
+43.
+...(0.7) mi-fuhad cingra tuya==,\
+AF-flip.open 3SG.NOM that.OBL
+主焦-翻開 3SG.主格 那個.斜格
+
+#a 62.12, None, 64.57
+
+44.
+.. fekeloh,\
+stone
+石頭
+
+#e He flipped over a stone.
+#c 他翻開石頭。
+#a 64.57, None, 65.09
+
+45.
+.. ira    ma-tama  nira    ku    ccay,\
+EXIST  PF-find  3SG.GEN   NOM  one
+存在   受焦-找到  3SG.屬格  主格   一
+
+#a 65.09, None, 66.55
+
+46.
+.. a   fawu.\
+LNK  insect
+連詞  蟲
+
+#e He found an insect.
+#c 他發現一隻蟲。
+#a 66.55, None, 67.28
+
+47.
+...(1.6) mi-ka,\
+AF-FS
+主焦-FS
+
+#a 67.28, None, 69.51
+
+48.
+.. mi-kalat  tu  kamay  nira,\
+AF-bite  OBL  hand  3SG.GGEN
+主焦-咬  斜格   手    3SG.屬格
+
+#e (It) bit his hand.
+#c 它咬了他的手。
+#a 69.51, None, 71.08
+
+49.
+.. ira     ku    mi-tafesiw-ay,\
+EXIST  NOM  AF-pass-AY
+存在   主格   主焦-經過-AY
+
+#a 71.08, None, 72.39
+
+50.
+.. a   ccay  a  tamdaw   u,\
+LNK  one  LNK  people  CN
+連詞  一  連詞   人    CN
+
+#a 72.39, None, 73.78
+
+51.
+.. taywan.\
+Taiwanese
+台灣人
+
+#e A Taiwanese passed by.
+#c 一個台灣人經過。
+#a 73.78, None, 74.52
+
+52.
+...(1.1) ma-nengneng  niya  taywan  kuya==,\
+PF-see      that.GEN  Taiwanese  that.NOM
+受焦-看    那個.屬格   台灣人  那個.主格
+
+#a 74.52, None, 77.7
+
+53.
+.. ma-tu’as-ay,\
+AF-old-AY
+主焦-老-AY
+
+#a 77.7, None, 78.55
+
+54.
+.. tiya     mi-ala-an     nira,\
+that.OBL  PF-take-PF   3SG.GEN
+那個.斜格  受焦-拿-受焦  3SG.屬格
+
+#a 78.55, None, 79.94
+
+55.
+...(0.7) ma-kalat  ku  kamay  nira.\
+PF-bite  NOM  hand   3SG.GEN
+受焦-咬  主格  手   3SG.屬格
+
+#e The Taiwanese saw the old man. His hand was bitten.
+#c 那個閩南人看到那個老人他的手被咬了。
+#a 79.94, None, 82.32
+
+56.
+... e,\
+FS
+FS
+
+#a 82.32, None, 83.28
+
+57.
+.. mi-k,\
+主焦-FS
+AF-FS
+
+#a 83.28, None, 83.67
+
+58.
+.. mi==-<L2TkalangL2T>,\
+AF-bite
+主焦-咬
+
+#a 83.67, None, 84.65
+
+59.
+.. sa’an   kuya   taywan,\
+said.so    that.NOM  Taiwanese
+如此說   那個.主格  台灣人
+
+#a 84.65, None, 85.67
+
+60.
+.. tuya==,\
+that.OBL
+那個.斜格
+
+#a 85.67, None, 86.43
+
+61.
+.. suwal  tuya==,\
+speech  that.OBL
+話    那個.斜格
+
+#a 86.43, None, 87.84
+
+62.
+.. fawu.\
+insect
+蟲
+
+#e The Taiwanese said of the insect, “(it) bites.”
+#c 那個閩南人針對那隻蟲說：「會咬人！（閩南語）」。
+#a 87.84, None, 88.55
+
+63.
+... ma-tengil  niya   ma-tu’as-ay,\
+PF-hear  this.GEN   AF-old-AY
+受焦-聽  這個.屬格  主焦-老-AY
+
+#e It was heard by the old man.
+#c 被那個老人聽到了。
+#a 88.55, None, 90.47
+
+64.
+... a     u   kalang,\
+LNK  CN  crab
+連詞  CN  螃蟹
+
+#a 90.47, None, 91.61
+
+65.
+.. ku==,\
+NOM
+主格
+
+#a 91.61, None, 92.1
+
+66.
+.. ngangan  nuninian,\
+name   this.GEN
+名字  這個.屬格
+
+#a 92.1, None, 92.94
+
+67.
+.. sa   sa  u  kalang
+SA  SA  CN  crab
+SA  SA  CN   螃蟹
+
+#e Its name is Kalang.
+#c 原來叫Kalang。
+#a 92.94, None, 93.9
+
+68.
+.. han=tu nira kura==,\
+say.so.PF=PFV 2SG.GEN that.NOM
+如此說.受焦=完成 3SG.屬格 那個.主格
+
+#a 93.9, None, 95.08
+
+69.
+.. pa-ngangan  turira,\
+CAU-name  that.OBL
+使役-名字  那個.斜格
+
+#a 95.08, None, 96.27
+
+70.
+.. tu  tu  kalang.\
+OBL OBL  crab
+斜格 斜格  螃蟹
+
+#e (So) he named crabs Kalang.
+#c 他給螃蟹取名叫Kalang。
+#a 96.27, None, 97.31
+
+71.
+... mi    mi-kalat,\
+FS   AF-bite
+FS  主焦-咬
+
+#a 97.31, None, 98.86
+
+72.
+.. sanay  ku  taywan,\
+so.called  NOM  Taiwanese
+所謂    主格   台灣話
+
+#a 98.86, None, 99.84
+
+73.
+.. kura,\
+that.NOM
+那個.主格
+
+#a 99.84, None, 100.31
+
+74.
+.. kalang  sa  ku  taywan,\
+crab  SA  NOM  Taiwanese
+螃蟹 SA  主格   台灣話
+
+#e ‘Kalang’ in Taiwanese means ‘to bite.’
+#c 閩南話的Kalang指「咬人」。
+#a 100.31, None, 101.75
+
+75.
+... sa  haw    u   kalang,\
+SA  INT  CN  crab
+SA  感嘆  CN  螃蟹
+
+#a 101.75, None, 103.12
+
+76.
+.. han=tu   nu   mita   u   amis.\
+say.so.PF=PFV  GEN  1IPL.POSS  CN   Amis
+如此說.受焦=完成  屬格  1IPL.所有格  CN  阿美族
+
+#e So we Amis call it Kalang.
+#c 所以我們阿美族稱它作Kalang。
+#a 103.12, None, 104.78
+
+77.
+... ku==nini   a==,\
+this.NOM  LNK
+這個.主格  連詞
+
+#a 104.78, None, 106.78
+
+78.
+.. pa-ngangan,\
+CAU-name
+使役-名字
+
+#a 106.78, None, 107.53
+
+79.
+.. tunini   a   kalang,\
+this.OBL  LNK  crab
+這個.斜格  連詞  螃蟹
+
+#a 107.53, None, 108.7
+
+80.
+... hatira-ay tunini u==,\
+that.way-AY this.OBL CN
+那樣-AY 這個.斜格 CN
+
+#e This is why we call crabs Kalang.
+#c 這就是為什麼我們叫螃蟹Kalang。
+#a 108.7, None, 110.74
+
+81.
+.. sa-ka-ira nu==,\
+IF-KA-EXIST GEN
+工焦-KA-存在 屬格
+
+#a 110.74, None, 112.31
+
+82.
+.. kalang,\
+crab
+螃蟹
+
+#a 112.31, None, 112.85
+
+83.
+.. sanay   a==,\
+so-called  LNK
+所謂   連詞
+
+#a 112.85, None, 113.94
+
+84.
+...(0.8) ka-ka’en-en  ita  u==,\
+Ca-eat-PF     1IPL.GEN  CN
+Ca重疊-吃-受焦   1IPL.屬格  CN
+
+#a 113.94, None, 116.08
+
+85.
+.. mi-sa-Amis-ay.\
+AF-make- Amis-AY
+主焦-做-阿美-AY
+
+#e We use the name ‘Kalang’ for the (food) that we Amis eat.
+#c 我們有Kalang這個名稱，是我們阿美族吃的那個。
+#a 116.08, None, 117.18

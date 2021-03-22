@@ -1,0 +1,2137 @@
+topic: Marriage Ceremony
+type: Narrative
+language: 魯凱語, Rukai, Vedai
+speaker: 杜傳, Taugadhu, male, 1943-10-12
+collected: None
+revised: None
+video: RukaiNr-marriage ceremony_taugadha.mp3
+
+1.
+sabau maka^naelre.\
+greeting everyone
+你好 大家
+
+#e Greetings, everyone
+#c 大家好。
+#a 16.73, None, 18.29
+
+2.
+... maelane-nga kikai==,\
+thank-PFV this
+感謝-完成 這個
+
+#a 18.29, None, 20.15
+
+3.
+... lrimatikai=aku kai ma-ku^cingale ikai ta-karudrarudrang-ane=ta ka Ngudradrekai.\
+thank-this=1SG.NOM this MA-important EXIST NMZ-marry-NMZ=2PL.GEN TOP Rukai
+感謝-這=1SG.NOM 這 MA-重要 存在 名物化-結婚-名物化=2PL.GEN 主題 魯凱族
+
+#e Thanks to this opportunity, I need to say that our wedding ceremony, (in) Rukai, is very important.
+#c 感謝這次機會，我要說魯凱族的婚禮是很重要的。
+#a 20.15, None, 24.83
+
+4.
+...(1.7) kai lu-ceke-cekel-ane yaie ma-kucingalre tara tuamadu kaiki==,\
+this IRR RED-CEKEL-NMZ DM MA-important need obey this
+這個 非實現-ceke-cekel-名物化 DM MA-重要 要 順從 這
+
+#a 24.83, None, 30.26
+
+5.
+.. marudrange.\
+old.man
+老人
+
+#e It is important to obey the elders for having a family.
+#c 要建立家庭，聽從老人是很重要的。
+#a 30.26, None, 31.0
+
+6.
+...(1.0) kai lu-lri-karudrange kai==,_
+this IRR-IRR-marry this
+這個 非實現-非實現-結婚 這個
+
+#a 31.0, None, 33.7
+
+7.
+.. ngudradrekai.\
+Rukai
+魯凱族
+
+#e Rukai people would like to get married.
+#c 如果魯凱族人想結婚。
+#a 33.7, None, 34.46
+
+13.
+... laisi,\
+if
+如果
+
+#a 50.07, None, 51.05
+
+14.
+... la ma-palrailraingi,_
+then REC-accept
+然後 交互-答應
+
+#a 51.05, None, 52.92
+
+15.
+...(0.9) la ma-latubalrebalre,\
+then REC-negotiate
+然後 互相-談
+
+#a 52.92, None, 55.17
+
+16.
+...(1.6) la== tualai kuini tu-a-siasi^lang-ane,\
+then from that make-NMZ-engage-NMZ
+然後 從 那 做-名物化-訂婚-名物化
+
+#a 55.17, None, 59.14
+
+17.
+...(2.3) kikai lu ma-upapulang-ane kikai kai ka-matuaduai.\
+this IRR REC-be.in.love-NMZ this NEG KA-easy
+這 非實現 互相-戀愛-名物化 這個 否定 KA-簡單   
+
+#e If (male and female family) talked to each other and (they) accepted the engagement, the loving ceremony would not be easy since the engagement was made.
+#c 如果(男女雙方)互談並答應，自訂下婚約時起，戀愛儀式就不簡單。
+#a 59.14, None, 64.0
+
+18.
+...(0.7) ma-upapalang-ane madu si la ma-cea-cebe madu==,_
+REC-be.in.love-NMZ need CONJ then REC-RED-give.gift must
+交互-戀愛-名物化 要 連接詞 然後 交互-RED-送禮 要
+
+#a 64.0, None, 68.63
+
+19.
+.. si kuauaubu,_
+CONJ give.dinner
+連接詞 送餐
+
+#a 68.63, None, 70.22
+
+20.
+... ma-paka-^pakane,\
+REC-RED-dine.together
+互相-重疊-聚餐
+
+#a 70.22, None, 72.01
+
+21.
+... lu maka-kela-kela-nga ku kidremedreme madu. _
+IRR REC-RED-approach-PFV NOM heart must
+非實現 互相-重疊-接近-完成 主格 心 要
+
+#e If (two families need a ceremony, (they) should give gifts and (they) dine together; (their) heart will be close
+#c 如果(雙方)要完成儀式，(他們)就要互相送禮然後他們聚餐。他們的心要貼近。
+#a 72.01, None, 74.88
+
+22.
+... ala pa-mu-a madu kuini ki taliababadhane.\
+then CAU-go-REAL need this OBL NMZ-IRR-female-NMZ
+然後 使役-去-實現 要 這 斜格 名物化-非實現-女生-名物化
+
+#e Then, (the male family) should be asked to the female mamily.
+#c 然後，(男方) 就要被請到女方家。
+#a 74.88, None, 78.35
+
+23.
+...(0.8) lu tubulre ku== labaibai,\
+IRR response NOM female.family
+非實現 回應 主格 女方
+
+#a 78.35, None, 81.11
+
+24.
+...(0.8) p<ela>ela madu kai== taka rudra-rudrang-ane kai rarukudrane.\
+<RED>say need this do RED-marry this dowry
+<重疊>說 要 這 做 重疊-結婚 這 聘禮
+
+#e If the female family responded, (they) would discuss about the dowry in the wedding ceremony.
+#c 若女方回應，就可以開始談結婚要準備的聘禮。
+#a 81.11, None, 85.93
+
+25.
+...(1.1) kikai==,\
+this 
+這
+
+#a 85.93, None, 88.2
+
+26.
+... lu ma-dau-darunr-ane-nga,_
+IRR REC-RED-achieve-NMZ-PFV 
+非實現 互相-重疊-達成-名物化-完成
+
+#a 88.2, None, 89.92
+
+27.
+.. tualai madu kuini tu-a-siasi^lang-ane.\
+from need this TU-NMZ-engage-NMZ
+從 要 這 TU-名物化-訂婚-名物化
+
+#e This way, if (they) mutually achieved, from the time (they) need to prepare the dowry…
+#c 這樣，如果(他們)互相做到了，從(他們)要準備聘禮。
+#a 89.92, None, 92.55
+
+28.
+...(1.0) kuini tu-a-siasilang-ane amia,_
+this TU-NMZ-engage-NMZ it.is.exactly
+這 TU-名物化-訂婚-名物化 就是
+
+#a 92.55, None, 95.62
+
+29.
+... kuini tautiasilangane <L2MdinghunL2M> a^mia.\
+this taiwanese <L2MdinghunL2M> it.is.exactly
+這個 台灣人 <L2M訂婚L2M> 就是
+
+#e Dowry is the “dinghun” in Taiwanese.
+#c 這tuasiasilangane就是台灣人的訂婚。
+#a 95.62, None, 99.21
+
+30.
+...(0.9) kikai lu tu-a-siasilang-ane kai==,_
+this IRR TU-NMZ-engage-NMZ this
+這 非實現 TU-名物化-訂婚-名物化 這個
+
+#a 99.21, None, 102.52
+
+31.
+... sauvalai==,_
+male
+男生
+
+#a 102.52, None, 103.99
+
+32.
+...(0.9) e==,\
+FIL
+FIL
+
+#a 103.99, None, 105.59
+
+33.
+... ma-kucingale ku==,_
+MA-important NOM
+MA-重要 主格
+
+#a 105.59, None, 107.59
+
+34.
+... raruku^drane.\
+dowry
+聘禮
+
+#e If the male makes the engagement, the dowry will be very important
+#c 如果男方要準備聘禮，那是相當重要的。
+#a 107.59, None, 108.73
+
+35.
+...(0.7) kudra lu tu-a-siasilang-ane,_
+that IRR make-NMZ-engage-NMZ
+那 非實現 做-名物化-訂婚-名物化
+
+#a 108.73, None, 111.07
+
+36.
+... la ma-p<ela>ela== kai marudraudrane==,_
+then REC-<RED>say this 老人家
+然後 互相-<重疊>說 這個 elders
+
+#a 111.07, None, 114.2
+
+37.
+.. abadhane ku== rarukudrane==,_
+item OBL dowry
+物品 斜格 聘禮
+
+#a 114.2, None, 116.89
+
+38.
+.. ku lau^bubulu._
+OBL necessity
+斜格 必備品
+
+#e While (they) preparing the dowry, elders discussed about the necessity items of the dowry mutually.
+#c 當(他們)準備聘禮時，老人家互相談論必備的聘禮物品。
+#a 116.89, None, 118.22
+
+39.
+.. ma-p<ela>ela ki ^kuini.\
+REC-<RED>say OBL this
+互相-<重疊>說 主格 這
+
+#e (elders) discussed this.
+#c (老人)互相討論這個。
+#a 118.22, None, 119.83
+
+40.
+...(1.2) ku-naduadruma yaie==,\
+past-time DM
+過去-時候 DM
+
+#a 119.83, None, 122.55
+
+41.
+... tu-a-siasilang-ane madu si,_
+TU-NMZ-engage-NMZ need SI
+TU-名物化-訂婚-名物化 要 SI
+
+#a 122.55, None, 125.47
+
+42.
+... la mu-a-tail-ane ku ^vai,\
+IRR go-REAL-long-NMZ OBL time
+非現實 去-REAL-長-名物化 時間
+
+#a 125.47, None, 127.71
+
+43.
+... ala e==,\
+then FIL
+然後 FIL
+
+#a 127.71, None, 129.36
+
+44.
+... ma-p<ela>ela kuini ala rudrangane,\
+REC-<RED>say this then marriage
+互相-<重疊>說 然後 結婚
+
+#e In the ancient time, engagement would take a very long time; they discussed and then got married.
+#c 在以前，訂婚要花很長的時間;(他們)討論然後結婚。
+#a 129.36, None, 131.39
+
+46.
+...(1.1) ma-ra^cacacangeta si,\
+MA-hurry CONJ
+MA-急促 連接詞
+
+#a 133.31, None, 135.75
+
+47.
+... sana ^lrika-kakadrua kudra kerece yaie sana ma-dau-daruru yaie.\
+if will.be-no that spirit DM if REC-RED-connect DM
+如果 將會-沒有 那 靈魂 DM 互相-重疊-連接 DM 
+
+#e Then, if (a marriage) is (arranged) in a hurry, then the spirit of (the two families) will have no connection.
+#c 然後，若(婚禮)草率(決定)，(雙方)靈魂將會沒有連結。
+#a 135.75, None, 139.93
+
+48.
+... ma-p^<ela>ela si,\
+REC-<RED>say CONJ
+互相-<重疊>說 連接詞
+
+#a 139.93, None, 141.35
+
+49.
+... la maukaiyane kuini== e,_
+then afterwards this FIL
+然後 之後 這 FIL
+
+#a 141.35, None, 143.84
+
+50.
+...(0.9) tu-a-siasil-ane si== e==,\
+TU-NMZ-engage-NMZ CONJ FIL
+TU-名物化-訂婚-名物化 連接詞 FIL
+
+#a 143.84, None, 146.4
+
+51.
+... tu-a-lrevege si karudrange.\
+TU-REAL-millet CONJ marriage
+TU-REAL-小米 連接詞 結婚
+
+#e After they discussed, (the two families) can make engagement, and (they) milled millet, and (they) have wedding ceremony.
+#c (雙方)討論後，就能訂婚，椿小米，然後進行婚禮。
+#a 146.4, None, 148.64
+
+52.
+...(1.2) kikai lu==,_
+this IRR
+這個 非實現
+
+#a 148.64, None, 151.08
+
+53.
+.. tu-a-siasilang-ane,_
+TU-NMZ-engage-NMZ
+TU-NMZ-訂婚-名物化
+
+#a 151.08, None, 152.5
+
+54.
+... lu karudrange== yaie,\
+IRR marriage DM
+非實現 結婚 DM
+
+#a 152.5, None, 154.34
+
+55.
+...(0.9) pasualala madu==,\
+at.first need
+首先 要
+
+#a 154.34, None, 157.07
+
+56.
+... ma-p<ela>ela ku rarukudrane.\
+REC-<RED>say OBL dowry
+互相-重疊-說 斜格 聘禮
+
+#e If (two families) (want) to engage and get married, (they) will first discuss about the dowry.
+#c 若(雙方)想訂婚與結婚，(他們)首先要互相討論聘禮。
+#a 157.07, None, 159.2
+
+57.
+... kikai rarukudrane==,\
+this dowry
+這個 聘禮
+
+#a 159.2, None, 161.22
+
+58.
+... yaie sa^badhane,\
+DM items
+DM 項目
+
+#a 161.22, None, 163.02
+
+59.
+.. lamakaela ku talialalai si==,_
+different NOM noble CONJ
+不同 主格 貴族 連接詞
+
+#a 163.02, None, 165.21
+
+60.
+... lakau^kaulu,\
+civilian
+平民
+
+#a 165.21, None, 166.29
+
+61.
+... lakaukaulu== si ta^giagi.\
+civilian CONJ non.eldest.son
+平民 連接詞 非長子
+
+#e The dowry is different for nobles, civilians, and non-eldest sons.
+#c 貴族、平民、非長子的聘禮不同。
+#a 166.29, None, 168.74
+
+62.
+... la kamani kai raruku^drane,\
+DM so this dowry
+DM 所以 這 聘禮
+
+#a 168.74, None, 171.08
+
+63.
+...(1.2) laubu==bulu,\
+necessity
+必需品
+
+#a 171.08, None, 173.64
+
+64.
+... yakai ku==,\
+EXIST NOM
+存在 主格
+
+#a 173.64, None, 175.29
+
+65.
+... talialaladh-ane==,_
+noble-NMZ
+貴族-名物化
+
+#a 175.29, None, 177.1
+
+66.
+... yakai ku tagiagi-^ane,_
+EXIST NOM non.eldest.son-NMZ
+存在 主格 非長子-名物化
+
+#a 177.1, None, 178.89
+
+67.
+... yakai ku lakaukaul-ane.\
+EXIST NOM civilian-NMZ
+存在 主格 平民-名物化
+
+#e So for necessity, the dowry, there are nobles’, non-eldest sons’, and civilians’.
+#c 所以聘禮必需品有貴族用，非長子用，及平民用。
+#a 178.89, None, 180.67
+
+68.
+...(1.2) kikai raruku^drane,\
+this dowry
+這個 聘禮
+
+#a 180.67, None, 183.19
+
+69.
+... amani kuini ^sarakayane madu kuini lu==,\
+it.is.exactly this use need this IRR,
+就是 這個 用 要 這個 非實現
+
+#a 183.19, None, 185.73
+
+70.
+... lu karudrangane.\
+IRR marriage
+非實現 結婚
+
+#e The dowry will be used for the wedding.
+#c 這聘禮就是用於結婚。
+#a 185.73, None, 187.94
+
+71.
+.. kudra asasane-nga kudra== rarukudrane yaie,\
+that now-PFV that dowry DM
+那 現代-完成 那 聘禮 DM
+
+#a 187.94, None, 191.07
+
+72.
+...(0.7) la kamani kai yaie==,\
+then it.is.exactly this DM
+然後 就是 這個 DM
+
+#a 191.07, None, 193.46
+
+73.
+...(1.0) a^ngatu.\
+wood
+木材
+
+#e The recent dowry is wood.
+#c 現在的聘禮就是木材。
+#a 193.46, None, 196.02
+
+74.
+.. tara-pasuala madu ka talisauvalayane kia-a^ngatu,\
+must-at.fitst need KA NMZ-IRR-male-NMZ KIA-wood 
+一定-首先 要 KA 名物化-非實現-男生-名物化 KIA-木材
+
+#e The male must at first lumber the wood.
+#c 男生要先砍樹。
+#a 196.02, None, 199.47
+
+75.
+...(1.2) e==,\
+FIL
+FIL
+
+#a 199.47, None, 201.48
+
+76.
+...(1.1) la tara ikai kudra sa-kane-^kane,\
+then must EXIST that SA-RED-eat
+然後 一定 存在 那個 SA-重疊-吃
+
+#e There must be food.
+#c 要有吃的東西。
+#a 201.48, None, 204.5
+
+77.
+.. kikai sa-kane-kane==,\
+this SA-RED-eat
+這 SA-重疊-吃
+
+#a 204.5, None, 206.23
+
+78.
+... la kamani kai bu^dulu.\
+DM it.is.exactly this pork
+DM 就是 這 豬肉
+
+#e The food contains pork.
+#c 吃的東西有豬肉。
+#a 206.23, None, 208.22
+
+79.
+... budulu lu iya-ane,_
+pork IRR DM say-NMZ
+豬肉 非實現 說-名物化
+
+#a 208.22, None, 210.28
+
+80.
+... amani kai va^gisi,_
+it.is.exactly this rump
+就是 這個 腿肉
+
+#a 210.28, None, 212.0
+
+81.
+... amani kai ^cai.\
+it.is.exactly this sirloin
+就是 這個 腰肉
+
+#e The pork must be rump and sirloin.
+#c 豬肉必須是腿肉或五花肉。
+#a 212.0, None, 213.67
+
+82.
+...(1.4) la ikai ku abai,_
+then EXIST NOM rice.cake
+然後 存在 主格 米糕
+
+#e There must be rice cake.
+#c 要有米糕。
+#a 213.67, None, 216.29
+
+83.
+...(0.8) la ikai kikai ^bava,\
+then EXIST this millet.liquor
+然後 存在 這個 小米酒
+
+#e There must be millet liquor.
+#c 要有小米酒。
+#a 216.29, None, 218.77
+
+84.
+...(1.1) amani kuini ma-kuciaci^ngale.\
+it.is.exactly this MA-important
+就是 這 狀態-重要
+
+#e These are very important
+#c 這些很重要。
+#a 218.77, None, 221.51
+
+85.
+...(1.6) lapatupapalraw madu ku==,_
+follow need OBL
+跟著 要 斜格
+
+#a 221.51, None, 225.38
+
+86.
+... sabiki==,_
+betel.nut
+檳榔
+
+#a 225.38, None, 226.75
+
+87.
+...(0.9) ku bava==,_
+OBL millet.liquor
+斜格 小米酒
+
+#a 226.75, None, 228.64
+
+88.
+... ku a-kane-kane ku dru^ma==ne.\
+OBL A-RED-eat OBL other
+斜格 A-重疊-吃 斜格 其他
+
+#e The following needs the betel nut, millet liquor, and other food.
+#c 還會有檳榔、小米酒等其他吃的東西。
+#a 228.64, None, 230.59
+
+89.
+.. amani kuini ^si-a==,\
+it.is.exactly this call-REAL
+就是 這 叫-實現
+
+#a 230.59, None, 232.31
+
+90.
+...(0.7) raruku^drane.\
+dowry
+聘禮
+
+#e These are called dowry.
+#c 這些就叫聘禮。
+#a 232.31, None, 234.8
+
+91.
+...(0.7) tara-pasuala madu ku rarukudrane pu-lebe.\
+must-at.first need OBL dowry put-down
+一定-先 要 斜格 聘禮 放-下來
+
+#e The dowry must be put down first.
+#c 聘禮一定要先拿下來。
+#a 234.8, None, 238.1
+
+92.
+...(1.4) lu==e==,\
+IRR FIL
+IRR FIL
+
+#a 238.1, None, 240.44
+
+93. 
+.. maku pu-lebe-ane kuini MA-belana rarukudrane.\
+need put-down-NMZ this MA-new dowry
+要 放-下-名物化 這 MA-新 聘禮
+
+#e Dowry must be new if (it) is put down.
+#c 聘禮要是新的如果(它)被放下。
+#a 240.44, None, 243.9
+
+94.
+... ku rarukudrane lri tara ikai ku angatu._
+TOP dowry IRR must EXIST NOM wood
+主題 聘禮 非實現 一定 存在 主格 木頭
+
+#e The dowry, there will must be wood.
+#c 聘禮，一定會要有木頭。
+#a 243.9, None, 246.98
+
+95.
+.. la ikai ku==,\
+then EXIST NOM
+然後 存在 主格
+
+#a 246.98, None, 248.43
+
+96.
+.. e==,\
+FIL
+FIL
+
+#a 248.43, None, 249.98
+
+97.
+.. butulu butulu lu-iy-ane amani kai vagisi amani kai ^cau amani kai ^lre\.
+pork pork IRR-say-NMZ it.is.exactly this rump this it.is.exactly sirloin it.is.exactly this neck
+豬肉 豬肉 非實現-說-名物化 就是 這 腿肉 就是 這 五花肉 就是 這 頸肉
+
+#e There is also pork; they are exactly rump, sirloin, (and) neck.
+#c 也要有豬肉，他們就是腿肉、五花肉、(和) 頸肉。
+#a 249.98, None, 254.39
+
+98.
+... la lri ikai ku a^bai,\
+then IRR NOM rice.cake
+然後 非實現 主格 米糕
+
+#a 254.39, None, 256.3
+
+99.
+... la lri ikai ku ^bava,\
+then IRR NOM millet.liquor
+然後 非實現 主格 小米酒
+
+#a 256.3, None, 258.27
+
+100.
+... la lri ikai ku sa^biki,\
+then IRR NOM betel.nut
+然後 非實現 主格 檳榔
+
+#a 258.27, None, 260.18
+
+101.
+... ikai ku supu^ane.\
+EXIST NOM lime
+存在 主格 石灰
+
+#e Then there are rice cake; then there are millet; then there are liquor; then there are betel nut; (and) there are lime.
+#c 然後要有米糕；有小米酒；有檳榔；有石灰。
+#a 260.18, None, 261.96
+
+102.
+...(1.7) lai lu ma-kadulru=su,\
+then IRR MA-capable=2SG.NOM
+然後 非實現 MA-有能力=2SG.NOM
+
+#a 261.96, None, 266.59
+
+103.
+... pa-su-dau-dau-dalru-ane ikai==,\
+CAU-NMZ-RED-RED-treat-NMZ EXIST
+使役-名物化-重疊-重疊-招待-名物化 存在
+
+#a 266.59, None, 269.33
+
+104.
+... lu pu-lebe-nga kuini kikai y^aie==,\
+IRR put-down-PFV this this DM
+非實現 放-下-完成 這個 這個 DM
+
+#a 269.33, None, 271.49
+
+105.
+...(0.7) ala pu-lebe kuini laubu^bulu.\
+then put-down this necessity
+然後 放-下 這個 必需品
+
+#e You will be capable of all the treatment; then put down this…put down these necessities.
+#c 你要能盡所有款待之物，然後放下這些...這些必需品。
+#a 271.49, None, 275.22
+
+106.
+.. lu ka lautiatiane <L2Mjiushi ^pinliL2M>.\
+IRR TOP taiwanese  exactly.is dowry
+非實現 主題 台灣人 就是 聘禮
+
+#e This is the “dowry” in Taiwanese.
+#c 這就是台灣人所謂的「聘禮」。
+#a 275.22, None, 277.74
+
+107.
+... <L2M^pinliL2M>,\
+dowry
+聘禮
+
+#a 277.74, None, 279.12
+
+108.
+... amani kudra ma-ku-cia-cingalre-nga,\
+it.is.exactly that MA-RED-important-PFV
+就是 那個 MA-重疊-重要-完成
+
+#a 279.12, None, 281.44
+
+109.
+... kai laubu^bulu,\
+this necessity
+這個 必需品
+
+#a 281.44, None, 283.6
+
+110.
+.. la makaela ka talialalai si==,_
+then different NOM noble CONJ
+就是 不同 主格 貴族 連接詞
+
+#a 283.6, None, 285.6
+
+111.
+...(0.7) lakau^kaulu,\
+civilian
+平民
+
+#e It has been very important: that the noble’s dowry the civilian’s dowry are different.
+#c 很重要的是：貴族和平民聘禮不同。
+#a 285.6, None, 287.64
+
+112.
+...(0.7) pasuala-nga madu pu-lebe kuini==,\
+at.first-PFV need put-down this
+首先-完成 要 放-下 這
+
+#a 287.64, None, 290.67
+
+113.
+... laububulu yaie la ka ^lrabu,\
+necessity DM then Topic machete
+必需品 DM 然後 主題 山刀
+
+#a 290.67, None, 293.72
+
+114.
+...(0.8) lrabu si palungu,\
+machete CONJ iron.pot
+山刀 連接詞 鐵鍋
+
+#e First, if (you) want to put down the necessity, and (there must be) machete and iron pot .
+#c 首先，若要放下聘禮，(要有)山刀跟鐵鍋。
+#a 293.72, None, 295.92
+
+115.
+...(0.7) <L2Mguozi gen daoL2M>,_
+pot CONJ knife
+鍋子 連接詞 刀
+
+#e machete CONJ iron pot.
+#c 鍋子跟刀。
+#a 295.92, None, 298.95
+
+116.
+... pasualala-nga kuini,\
+at.first-PFV this
+首先-完成 這個
+
+#a 298.95, None, 300.89
+
+117.
+... la ka talialalai,_
+then TOP noble
+然後 主題 貴族
+
+#a 300.89, None, 303.0
+
+118.
+... la kamani ^kavai kadilrungane,\
+then it.is.exactly that clay.pot
+然後 就是 然後 陶壺
+
+#a 303.0, None, 305.61
+
+119.
+...(1.2) lu ka talialalai arakai madu kai tai-dus-ane,\
+IRR NOM noble so need this TAI-two-NMZ
+非實現 主格 貴族 因此 要 這 TAI-兩個-名物化
+
+#a 305.61, None, 310.01
+
+120.
+... kai nivalrivalringuvane si,_
+this PN CONJ
+這 專名 連接詞
+
+#a 310.01, None, 312.84
+
+121. 
+... tinu singisi^ngane,\ 
+make PN
+做 專名
+
+#a 312.84, None, 316.64
+
+122.
+...(1.0) su-a-tavan-ane ^kuini.\
+belong.to-NMZ-home-NMZ this
+屬於-名物化-家-名物化 這
+
+#e First, Clay pots for nobles, Noble must have the clay pot which contains two things: singisingane and nivalrivalringuvane.
+#c 首先，貴族有陶壺，貴族要有兩個東西，singisingane 跟 nivalrivalringuvane。
+#a 316.64, None, 319.0
+
+123.
+...(0.7) la ka lakaukaulu lu pudrilrungu=su,\
+then KA civilian IRR be.civilian=2SG.NOM
+然後 KA 平民 非實現 是平民==2SG.NOM
+
+#a 319.0, None, 323.19
+
+124.
+.. la kai amani kai belenge bikai.\
+then this it.is.exactly this above this
+然後 這個 就是 這 上面 這
+
+#e If you are a civilian, (you have) this in the upper part.
+#c 如果你是平民，你就會有上面的這個。
+#a 323.19, None, 324.93
+
+125.
+... <L2Mzhe shi guizu taohu zhe shi pingmin taohuL2M>.\
+This is noble claypot this is civilian claypot
+這 是 貴族 陶壺 這 是 平民陶壺
+
+#e This is noble’s clay pot; this is civilian clay pot.
+#c 這是貴族陶壺這是平民陶壺。
+#a 324.93, None, 329.79
+
+126.
+.. tara yakai ^kuini,\
+must EXIST this
+一定 存在 這個
+
+#a 329.79, None, 331.3
+
+127.
+...(1.0) la ikai ka ^silu.\
+DM EXIST NOM necklace
+DM 存在 主格 項鍊
+
+#e There must be this; there must be a necklace.
+#c 一定要有這個；一定要有項鍊。
+#a 331.3, None, 334.17
+
+128.
+... kai ^silu,\
+this necklace
+這 項鍊
+
+#a 334.17, None, 336.29
+
+129.
+.. lu badh-ane ki talialalai amani kai,\
+IRR give-NMZ OBL noble it.is.exactly this
+非實現 給予-名物化 斜格 貴族 就是 這
+
+#a 336.29, None, 339.37
+
+130.
+... kikai saki rere^thane.\
+this make PN
+這 做 專名
+
+#e The necklace which given to the nobles is made of rerethane.
+#c 給貴族的項鍊用rerethane做成。
+#a 339.37, None, 341.59
+
+131.
+...(1.4) hon,\
+FIL
+FIL
+
+#a 341.59, None, 344.13
+
+132.
+.. kikai lakaukaulu wa-bai madu pakavaeva kai la mia kai.\
+this civilian REAL-give need one this then say this
+這個 平名 實現-給 要 一 這個 然後 說 這
+
+#e Civilians need to give one of this.
+#c 平民要給這個。
+#n 此時發音人手指一物
+#a 344.13, None, 347.58
+
+133.
+.. kikai lakau^kaulu,\
+this civilian
+這 平民
+
+#a 347.58, None, 349.81
+
+134.
+... un,\
+FIL
+FIL
+
+#a 349.81, None, 350.48
+
+135.
+...(1.0) ala iya si kikai ki ^kuini,\
+then say CONJ this OBL this
+然後 說 連接 this OBL this
+
+#a 350.48, None, 353.95
+
+136.
+... ala ikai-nga kikai==,\
+then EXIST-PFV this
+然後 存在-完成 這
+
+#a 353.95, None, 356.49
+
+137.
+.. tal^aedre.\
+shoulder.belt
+肩帶
+
+#e The civilians, this…There are shoulder belts for the civilian.
+#c 這平民呢，這個…這裡有平民用的肩帶。
+#n 發音人手指向櫃子裡的肩帶。
+#a 356.49, None, 357.7
+
+138.
+...(0.7) la ka arakai madu kai talaedre,/
+then KA use need this shoulder.belt
+然後 KA 用 要 這 肩帶
+
+#e (Civilians) use this shoulder belt.
+#c (平民)用這肩帶。
+#n 發音人手指向櫃子裡的肩帶。
+#a 357.7, None, 360.22
+
+139.
+...(0.7) la alakai madu kai paga^mucu,\
+then use need this head.bend
+然後 用 要 這 頭飾
+
+#e (Civilians) use this head bend.
+#c (平民)用這頭飾。
+#n 發音人手指向櫃子裡的頭飾。
+#a 360.22, None, 363.23
+
+140.
+... hon,\
+FIL
+FIL
+
+#a 363.23, None, 364.12
+
+141.
+...(0.7) en,\
+FIL
+FIL
+
+#a 364.12, None, 365.98
+
+142.
+... la kikai yakai kudra ma-ku^cingalre kudra.\
+then this EXIST that MA-important that
+然後 this 存在 那 MA-重要 那
+
+#a 365.98, None, 369.17
+
+143.
+... sapasimayane,\
+wedding.dress
+結婚禮服
+
+#a 369.17, None, 371.57
+
+144.
+.. amani kikai laimai,\
+it.is.exactly this cloth
+就是 這 衣服
+
+#a 371.57, None, 372.82
+
+145.
+...(0.7) kuini sapasimayane yaie,\
+this wedding.dress DM
+這 結婚禮服 DM
+
+#a 372.82, None, 374.87
+
+146.
+.. ka^drua-nga ku laimai ku a-badh-ane lumiane ngiamamulainadh=aku si bai lumiane.\
+do.not.have-PFV NOM cloth KU NMZ-give-NMZ 2PL.OBL put.off=1SG.NOM CONJ give 2PL.OBL
+沒有-完成 主格 衣服 KU 名物化-給-名物化 斜格 2PL.OBL 脫下=1SG.NOM 連接詞 給 2PL.OBL
+
+#e This wedding dress is not to give you; I put it off and give (it) to you.
+#c 這結婚禮服不是要送你們的，是我脫下(它)給你們的。
+#n 此句暗喻結婚禮服之珍貴
+#a 374.87, None, 379.77
+
+147.
+.. la kaidu mu-a-lralra kuini,\
+then KAIDU go-REAL-put.off this
+then KAIDU 去-實現-脫下 這
+
+#a 379.77, None, 381.5
+
+148.
+... en,\
+FIL
+FIL
+
+#a 381.5, None, 382.55
+
+149.
+... sasi^mayane,\
+wedding.dress
+結婚禮服
+
+#e Then (I) put off this wedding dress.
+#c 然後(我)脫下這件結婚禮服。
+#n KAIDU 語義不定，在巴冷公主故事中是「不要」的意思，需再確認。
+#a 382.55, None, 384.27
+
+150.
+... yakai lu paelre-ane ku ka^daengane,\
+EXIST IRR together-NMZ NOM land
+存在 非實現 一起-名物化 主格 土地
+
+#a 384.27, None, 387.06
+
+151.
+.. lu ka ma-esa-esaesya=su yaie,\
+if KA MA-RED-rich=2SG.NOM DM
+如果 MA-重疊-富有=2SG.NOM DM
+
+#a 387.06, None, 388.74
+
+152.
+.. paelre madu ku,_
+together need OBL
+一起 要 斜格
+
+#a 388.74, None, 390.08
+
+153.
+... kadaengane.\
+land
+土地
+
+#e There is also land (in the dowry), if you were rich; you (put) land together.
+#c 如果你很富有，(聘禮)也可以一併有土地。
+#a 390.08, None, 391.96
+
+154.
+... kai talialalai yaie==,\
+this noble DM
+這 貴族 DM
+
+#a 391.96, None, 394.53
+
+155.
+.. maelane kudra,\
+different that
+不同 那
+
+#a 394.53, None, 396.25
+
+156.
+.. nyakele=ini,_
+spirit=3SG.GEN
+靈魂=3SG.GEN
+
+#a 396.25, None, 397.59
+
+157.
+... pukulu=ini,_
+power=3SG.GEN
+力量=3SG.GEN
+
+#e The nobles, their spirit and their power are different.
+#c 這貴族，他們的靈魂與他們的力量不同。
+#a 397.59, None, 399.0
+
+158.
+... yakai kudra==,\
+EXIST that
+存在 那個
+
+#a 399.0, None, 400.9
+
+159.
+... en,\
+FIL
+FIL
+
+#a 400.9, None, 402.32
+
+160.
+...(0.7) ba-bai=ini kuini drake^rale,\
+RED-give=3SG.GEN this river
+重疊-給==3SG.GEN 這個 河川
+
+#a 402.32, None, 405.3
+
+161.
+.. <L2MhechuanL2M>,\
+river
+河川
+
+#a 405.3, None, 406.03
+
+162.
+... talu^pane.\
+hunting.field
+獵場
+
+#e There are giving (including) this rivers and hunting fields.
+#c 有給河川跟獵場的。
+#a 406.03, None, 407.67
+
+163.
+.. un,\
+FIL
+FIL
+
+#a 407.67, None, 408.21
+
+164.
+... yakai kuini ni-paelre-ane ki kuini ai luka su-a-tavan-ane==,\
+EXIST this NI-together-NMZ this but if belong.to-NMZ-home-NMZ
+存在 這 NI-一起-名物化 這個 但 如果 屬於-名物化-家-名物化
+
+#a 408.21, None, 411.9
+
+165.
+... wa-bai kuini drakerale <L2MhechuanL2M>,_
+REAL-give this river river
+實現-給 這 河川 河川
+
+#a 411.9, None, 414.37
+
+166.
+.. <L2M^liechangL2M>.\
+hunting.field
+獵場
+
+#e If (you are) the eldest son of nobles, (you) can give the river and hunting field together.
+#c 只有(你是)當家的頭目，(你)能給河川與獵場。
+#a 414.37, None, 415.37
+
+167.
+... yakai kuini talialalai,\
+EXIST this noble
+存在 這 貴族
+
+#e There are this kind of nobles.
+#c 有這種貴族。
+#a 415.37, None, 417.11
+
+168.
+.. Aie,\
+DM
+DM
+
+#a 417.11, None, 418.14
+
+169.
+.. lu ka= lakaukaulu yaie,\
+if KA civilians DM
+如果 KA 平民 DM
+
+#a 418.14, None, 420.23
+
+170.
+... kai paiya ki ^kuini.\
+NEG use OBL this
+
+#e if (you are) a civilian, (you) can’t do this.
+#c 如果(你是)平民，(你)不能這樣做。
+#a 420.23, None, 422.32
+
+171.
+... la kamani kudra thingale madu yaie==.\
+DM it.is.exactly that know need DM
+DM 就是 那 知道 要 DM
+
+#e That is needed to be known.
+#c 那是要知道的。
+#a 422.32, None, 424.87
+
+172.
+... laka kudra lu ka ma-ka-cia-^ciangalre-nga yaie==,
+then that IRR KA MA-state-RED-important-PFV DM
+然後 那 非實現 KA MA-狀態-重要-完成 DM
+
+#a 424.87, None, 427.6
+
+173.
+.. lu ka tatulrevagane yaie tara pasuala madu pu-lebe kikai,\
+IRR KA dowry DM must at.first need put-down this
+非實現 KA 聘禮 DM 必須 首先 要 放-下 這個
+
+#a 427.6, None, 431.14
+
+174.
+...(0.7) kikai bengelrai ki kuini ma-rudra-^rudrange.\
+this corona OBL this REC-RED-marriage
+這 花冠 斜格 這 互相-重疊-結婚
+
+#e The most important thing is that the first thing being put down from the dowry is the corona in wedding.
+#c 婚禮中最重要的事就是聘禮中第一件要被放下之物是花冠。
+#a 431.14, None, 435.32
+
+175.
+.. <L2Myiding shi zheyang de honL2M >,\
+must be this DE FIL
+一定 是 這樣 的 FIL
+
+#a 435.32, None, 436.8
+
+176.
+...(1.2) <L2Mdangtian xinlangL2M >,\
+that.day groom
+當天 新郎
+
+#a 436.8, None, 439.83
+
+177.	
+... <L2Mbu shi xinniang zuigao de toushiL2M >,\
+NEG be bribe highest DE head.band
+NEG是 新娘 最高 的 頭飾
+
+#e it must be that the highest head band of the bribe, not the groom in that day.
+#c 一定是這樣當天新郎，不是新娘最高的頭飾。
+#a 439.83, None, 444.14
+
+178.
+...(1.1) la kikai miakai laikai lu tu-drus-ane laikai lu ta-tulru-ane.\
+then this also sometimes NMZ-two-NMZ sometimes NMZ-three-NMZ
+然後 這個 也 有時 兩個 有時 三個
+
+#e (There are) sometimes two, sometimes three.
+#c 有時(有)兩個，有時三個。
+#a 444.14, None, 449.26
+
+179.
+...(1.0) ki kuini== lu ka ababai yaie,\
+KI this IRR NOM female DM
+KI 這 非實現 主格 女方 DM
+
+#a 449.26, None, 453.65
+
+180.
+...(1.0) ki kuini ma-rudra-rudrange tara wa-bai madu la pu-a civare madu.\
+OBL this REC-RED-marriage TARA REAL-give need then put-REAL head.band need
+斜格 這 互相-重疊-結婚 TARA 實現-給 要 然後 放-實現 頭飾 要
+
+#e The woman in the wedding need to give and put (things) in the head bend.
+#c 結婚的女生要給並放(東西)在頭飾裡。
+#a 453.65, None, 458.54
+
+181.
+.. la pu-a madu kavai adrisi.\
+DM put-REAL need that fur
+DM 放-實現 要 那 羽毛
+
+#e (She) put the fur.
+#c (她)放羽毛。
+#a 458.54, None, 460.26
+
+182.
+.. kikai adrisi pa-sia civare madu ku adrisi ki a^babai.\
+this fur CAU-put head.band need OBL fur OBL female
+這 羽毛 使役-放 頭飾 要 斜格 羽毛 斜格 女生
+
+#e The female need to put the fur in the head bend
+#c 女生要放羽毛在頭飾裡
+#n這句需再確認，沒有使役者。
+#a 460.26, None, 464.17
+
+183.
+... <L2Mtou muL2M> tara pa-^sia.\
+<L2MleaderL2M> must CAU-put
+<L2M頭目L2M> 一定 使役-放
+
+#e The leader must put (the fur) (into the head bend)
+#c 頭目一定要放(羽毛)(在頭飾裡)。
+#a 464.17, None, 466.55
+
+184.
+...(0.7) wa-bai madu si la pa-sia bengelrai madu kai adrisi,_
+REAL-give need CONJ then CAU-put head.band this fur
+實現-給 要 連接詞 然後 使役-放 頭飾 這 羽毛
+
+#a 466.55, None, 470.6
+
+185.
+.. kudra kakudhane yaie,\
+that tradition DM
+那 傳統 DM
+
+#a 470.6, None, 471.81
+
+186.
+.. kikai ababai kaikai.\
+this female this
+這 女人 這
+
+#e Traditionally, the woman must give and put the fur in the head bend.
+#c 傳統上，女生要給並插羽毛在頭飾上。
+#a 471.81, None, 473.74
+
+187.
+.. <L2Mta shi yige matemele jiu yige ^shengjiede nurenL2M>.\
+she is a virgin exactly a pure woman
+她 是 一個 處女 就 一個 聖潔的 女人
+
+#e She is a virgin, a pure woman.
+#c 她是一個處女就一個聖潔的女人。
+#n matemele要確認
+#a 473.74, None, 477.49
+
+188.
+... <L2Mchunjie de nuren de ^xiangzhengL2M>,\
+pure DE woman DE symbol
+純潔 的 女人 的 象徵
+
+#a 477.49, None, 480.38
+
+189.
+... <L2Myiding shi ^baihehua zuo deL2M>.\
+must is lily made DE
+一定 是 百合花 做 的
+
+#e The symbol of a virgin must be made by lily.
+#c 純潔的女人的象徵一定是百合花做的。
+#a 480.38, None, 482.87
+
+190.	
+... <L2Mranhou xiongying yumao yibaL2M>,\
+then male.eagle fur a.grasp
+然後 雄鷹 羽毛 一把
+
+#a 482.87, None, 485.18
+
+191.
+... <L2MhaoL2M> la kudra lu ikai ku talialailai la pia madu sa^<cea>cebe.\
+OK then that IRR EXIST NOM noble DM put need <RED>old.man
+好 然後 那 非實現 存在 主格 貴族 DM 放 要 <重疊>老人
+
+#e Then a grasp of male eagle fur is for the noble or elders.
+#c 然後雄鷹羽毛一把給貴族或老人。
+#a 485.18, None, 490.42
+
+192.
+... <L2M^shi geiL2M>,\
+is for
+是 給
+
+#a 490.42, None, 492.19
+
+193.
+... <L2M buluo toumu de li huoshi bijiao lao de laorenjia yeyao zuo zhege honL2M>.\
+tribe leader DE gift or more old DE old.man also make this DM
+部落 頭目 DE 禮 或是 比較 老 DE 老人家 也要 做這個 DM
+
+#e (Then a grasp of male eagle fur) is for the noble or elders.
+#c (然後雄鷹羽毛一把)給貴族或老人。
+#a 492.19, None, 498.87
+
+195.
+...(1.1) kikai ngudradrekai yaie,\
+this rukai DM
+這 魯凱族 DM
+
+#a 501.37, None, 504.66
+
+196.
+... luka ma-^bula,\
+if state-pure
+如果 狀態-純潔
+
+#a 504.66, None, 506.7
+
+197.
+... paiya madu kiki ^kuini.\
+make need this this
+
+#e If the Rukai person is pure, (s/he) will do this.
+#c 如果是純潔的魯凱族人，(他/她)能做這個。
+#a 506.7, None, 508.35
+
+198.	
+...(0.8) <L2M^shengjie de nurenL2M>,\
+pure DE woman
+聖潔 的 女人
+
+#a 508.35, None, 510.73
+
+199.
+... <L2Mgongkai jiaowang de nannuL2M>,\
+public engage DE male.female
+公開 交往 的 男女
+
+#a 510.73, None, 513.11
+
+200.
+.. <L2Mcai you shensheng de hunliL2M>.\
+only have holy DE wedding.ceremony
+才 有 神聖 的 婚禮
+
+#e Only virgin and those engaged in public can have holy wedding ceremony.
+#c 只有處女跟公開交往的男女能有聖潔的婚禮。
+#a 513.11, None, 515.56
+
+201.
+...(1.1) ala yasi== kia-kau<rira>^rira,\
+then say PASS-<RED>talk
+然後 說 被動-<重疊>談論
+
+#a 515.56, None, 519.15
+
+202.
+.. kuini kia-kau<rira>rira lu iy-ane,\
+this PASS-<RED>talk IRR say-NMZ
+這 被動-<重疊>談論 非實現 說-名物化
+
+#a 519.15, None, 521.11
+
+203.
+... kai kia-vaga ki la-tina-ini kai kia-vaga ki la-tamini,\
+NEG PASS-language OBL PL-mother-3PL.GEN NEG KIA-language OBL PL-father-3PL.GEN
+否定 PASS-話 斜格 PL-母親-3PL.屬格 否定 KIA-話 斜格 DM 複數-父親-3PL.屬格
+
+#e (You) are being privately criticized or not agree by parents
+#c (你)被人私下談論或父母親不答應。
+#a 521.11, None, 525.18
+
+204.
+... <L2M^xunqingL2M>,\
+commit.suicide.for.frustrated.love
+殉情
+
+#a 525.18, None, 527.08
+
+205.
+... <L2Mah sibenL2M>,\
+FIL elope
+啊 私奔
+
+#a 527.08, None, 528.77
+
+206.
+... <L2Mah meiyou zheyang de yige hunliL2M>.\
+FIL EXIST.NEG this.kind DE one wedding.ceremony
+啊 沒有 這樣 的 一個 婚禮
+
+#e (Those) who commit suicide for frustrated love or elope will have no such a wedding ceremony.
+#c 殉情或是私奔(的人)沒有這樣的一個婚禮。
+#a 528.77, None, 531.22
+
+207.
+... laka kadrua ku sabathane la ka kadrua ku rarukudrane,\
+then EXIST.NEG NOM items then KA EXIST.NEG NOM dowry
+然後 存在.否定 主格 物品 然後 KA存在.否定 主格 聘禮
+
+#a 531.22, None, 534.8
+
+208.
+... ngi-miya kikikuini.\
+self-say this
+自己-說 這樣
+
+#e it will be like this: there will be no dowry and there will be no other items.
+#c 這樣就會沒有聘禮或沒有其他東西。
+#a 534.8, None, 536.61
+
+209.
+... ala ma-palralraingi-nga kiki kuini,\
+then REC-accept-PFV this this
+然後 互相-同意-完成 這 這
+
+#a 536.61, None, 539.56
+
+210.
+...(0.8) la e,_
+then FIL
+然後 FIL
+
+#a 539.56, None, 541.72
+
+211.
+... dralrai madu,\
+dance need 
+跳舞 要
+
+#e When (they) mutually accept this, (they) should dance.
+#c 若(他們)互相同意這個後，(他們)就要跳舞。
+#a 541.72, None, 543.8
+
+212.
+.. <L2Mjiushi zuida yaodao qinghe de na yitianL2M>,\
+it.is.exactly biggest approach celebration DE that one.day
+就是 最大 要到 慶賀 的 那 一天
+
+#a 543.8, None, 546.49
+
+213.
+.. <L2Mbuluo dadaxiaoxiao de ren nannulaoshaoL2M>,\
+tribe every DE people everyone
+部落 大大小小 的 人 男女老少
+
+#a 546.49, None, 550.18
+
+214.
+.. <L2Mdou yao chuanzhe chuantong de fushiL2M>,\
+all need wear traditional DE costume
+都 要 穿著 傳統 的 服飾
+
+#a 550.18, None, 552.92
+
+215.
+... lai karudrange si kipaelre,\
+then marry CONJ attend,\
+然後 結婚 連接詞 參加
+
+#a 552.92, None, 554.9
+
+216.
+... dralrai kikikuini.\
+dance this
+跳舞 這樣
+
+#e It is that when the ceremony takes place, everyone in the tribe should wear traditional costume; (they) join the wedding and dance.
+#c 就是到了慶典那天，部落裡的男女老幼都要穿傳統服飾參加典禮並跳舞。
+#a 554.9, None, 556.5
+
+217.
+... (1.9)lu maka-dralrai,_
+IRR REC-dance
+非實現 互相-跳舞
+
+#a 556.5, None, 559.15
+
+218.
+... (0.8)ala utavanane madu si,\
+then return need CONJ
+然後 回家 要 和
+
+#a 559.15, None, 561.72
+
+219.
+... lai sateatedre madu kuini ki ababai.\
+then escort need this OBL female
+然後 護送 要 這樣 女生
+
+#e (They) dance, (and) they (need) to escort the female and return.
+#c (他們)跳舞，要護送女生並回家。
+#n 這裡的跳”完”，須再確認。
+#a 561.72, None, 564.45
+
+220.
+...(2.2) kai ngudradrekai yaie,\
+this Rukai DM
+這 魯凱族人 DM
+
+#a 564.45, None, 568.01
+
+221.
+... makucingalre kuini wa-sateatedre.\
+important this REAL-escort
+重要 這 實現-護送
+
+#e To Rukai people, the escorting is very important.
+#c 對魯凱人來說，護送是很重要的。
+#a 568.01, None, 571.24
+
+222.
+...(0.8) <L2MRukaizu jiehun congqian you yige jiaozuoL2M>,\
+Rukai wedding before EXIST one call
+魯凱族 結婚 從前 有 一個 叫作
+
+#a 571.24, None, 575.56
+
+223.
+.. <L2MqianghunL2M>,\
+grab.marriage
+搶婚
+
+#a 575.56, None, 577.04
+
+224.
+...(0.9) <L2MqianghunL2M> aikatuanga.\
+grab.marriage grab.marriage
+搶婚 搶婚
+
+#e There is an old Rukai custom called “grab marriage.”
+#c 魯凱族從前有一個叫做搶婚的習俗。
+#a 577.04, None, 580.54
+
+225.
+...(1.0) kikai,\
+this
+這個
+
+#a 580.54, None, 582.7
+
+226.
+...(0.8) Un Ngudradrekai yaie,\
+FIL Rukai DM
+FIL 魯凱族人 DM
+
+#a 582.7, None, 585.18
+
+227.
+...(0.9) tu-a-kucingalre kikikai demelane kikikai ki ababai,\
+TU-REAL-important this charity this OBL female
+TU-實現-重要 這個 貞潔 這個 斜格 女生
+
+#e Rukai people stress on the chastity of woman.
+#c 魯凱族人很重視女人的貞潔。
+#a 585.18, None, 589.47
+
+228.
+...(1.4) <L2M Rukai de ren feichang zhongshi L2M>,\
+Rukai DE people very stress
+魯凱 的 人 非常 重視
+
+#a 589.47, None, 593.27
+
+229.
+.. <L2Mnuren de zhencaoL2M>,\
+woman DE chastity
+女人 的 貞操
+
+#a 593.27, None, 595.57
+
+230.
+.. <L2Mshouzhen de wenhuaL2M>.\
+celibate DE culture
+守貞 的 文化
+
+#e Rukai people stress on the chastity of woman and celibate.
+#c 魯凱族人很重視女人的貞潔和守貞的文化。
+#a 595.57, None, 597.79
+
+231.
+...(1.6) lu ka-tuase=nai yaie lu ki malra kuini ababai,\
+IRR KA-walk.away=1EPL.NOM DM IRR carry this female
+非實現 KA-走開=1EPL.主格 DM 非實現 拿 這 女生
+
+#e When we leave, (we) should carry the female.
+#c 當我們離開時，(我們)要帶女生走。
+#a 597.79, None, 602.72
+
+232.
+...(1.3) lai,_
+then
+然後
+
+#a 602.72, None, 604.81
+
+233.
+... ki pasilaimai,\
+Topic wrap.cloth
+主題 裹身布
+
+#a 604.81, None, 606.43
+
+234.
+...(0.9) <L2MAh nuren yao kaishiL2M>,\
+FIL woman want start
+啊 女人 要 開始
+
+#a 606.43, None, 608.8
+
+235.
+...(2.6) <L2MAh dao nanfang de jia quanshen yaoL2M>,\
+FIL get male DE home whole.body
+啊 到 男方 的 家 全身 要
+
+#a 608.8, None, 613.76
+
+236.
+... <L2Mba zhege bijiao zhongyao de buweiL2M>,\
+BA this comparably important DE body.part
+把 這個 比較 重要 的部位
+
+#a 613.76, None, 615.93
+
+237.
+... <L2M tebie baohu gei ta chuanzhe L2M>.\
+special protaction give 3SG.ACC wear
+特別 保護 給 她 穿著
+
+#e Wrap cloth is used when the female is sent to the male’s house; it is worn to protect the private part of body.
+#c 裹身布用在女生被送到男方家裡時，穿著它把重點部位保護住。
+#a 615.93, None, 618.18
+
+238.
+... kuini kyapasimai amiya.\
+this cloth.wrapping it.is.exactly
+這 裹身 就是
+
+#e This is cloth-wrapping.
+#c 這就是裹身。
+#a 618.18, None, 621.1
+
+239.
+...(1.1) ala lu kela kuini ki sauvalai lu yaie,\
+then IRR come this OBL male IRR DM
+然後 非實現 來 這 斜格 男方 非實現 DM
+
+#e If (she) come to the male’s place
+#c 如果來(到)男方這邊。
+#a 621.1, None, 623.77
+
+240.
+.. <L2Mwomen jiang de qianghun honL2M>,\
+1PL.NOM say DE grab.marriage FIL
+我們 講 的 搶婚 FIL
+
+#a 623.77, None, 625.85
+
+241. 
+...(1.2) <L2Mbushi xiang women xianzai deL2M>,\
+NEG like 1PL.NOM present DE
+不是 像 我們 現在 的
+
+#a 625.85, None, 628.55
+
+242.
+...(0.8) Un,_
+FIL
+FIL
+
+#a 628.55, None, 629.6
+
+243.
+.. <L2Mjianghao le L2M>,\
+discussed PART
+講好 了
+
+#a 629.6, None, 630.63
+
+244.
+.. <L2MnageL2M>,\
+that
+那個
+
+#a 630.63, None, 631.55
+
+245.
+.. <L2MNannu jiu keyi jindao fangzi li shui shuijue L2M>.\
+men.and.women then can enter house inside sleep sleep
+男女 就 可以 進到 房子 裡 睡 睡覺
+
+#e The grab marriage is not what people are talking about now: man and woman mutually accept, and enter the house to get laid.
+#c 搶婚不是像現在人所說的男女談好了就能進房睡覺。
+#a 631.55, None, 635.72
+
+246.
+.. hun @
+FIL
+FIL
+
+#a 635.72, None, 636.68
+
+247.
+... <L2Mhaiyou nage nude hon yinwei ta you chuan baohu nage sandian de hon L2M>,\
+CONJ that woman FIL because 3SG.NOM have wear protect that private.parts DE FIL
+還有 那個 女的 FIL 因為 她 有 穿 保護 那個 三點 的FIL
+
+#a 636.68, None, 642.1
+
+248.
+... suoyi hon,\
+therefore FIL
+所以 FIL
+
+#a 642.1, None, 643.74
+
+249.
+.. <L2MyaobaL2M>,\
+want BA
+要 把
+
+#a 643.74, None, 644.87
+
+250.
+.. <L2Myi nan yi nuL2M>,/
+one man one woman
+一 男 一 女
+
+#a 644.87, None, 646.04
+
+251.
+.. <L2Msongdao nage honL2M>,\
+sent that FIL
+送到 那個 FIL
+
+#a 646.04, None, 647.58
+
+252.
+... <L2Mfangjian limian hon L2M>,\
+room inside FIL
+房間 裏面 FIL
+
+#a 647.58, None, 649.21
+
+253.
+... <L2Mzhege nanhaizi weile yao de L2M>,_
+this boy for want get
+這個 男孩子 為了 要 得
+
+#a 649.21, None, 651.58
+
+254.
+.. <L2Mzhege nuren de zhencaoL2M>,\
+this woman DE virginity
+這個 女人 的 貞操
+
+#a 651.58, None, 653.13
+
+255.
+.. <L2Myiding yao yong kongshou qu ba zhexie dongxiL2M>,\
+must need use bare.hand go BA these thing
+一定 要 用 空手 去 把 這些 東西
+
+#a 653.13, None, 656.21
+
+256.
+.. <L2MjiekaiL2M>,\
+untie
+解開
+
+#a 656.21, None, 657.06
+
+257.
+...(0.9) <L2M Ah jiekai ah L2M>.\
+FIL untie FIL
+FIL 解開 FIL
+
+#e Because the woman is wearing the wrap cloth for private-part protection, when the coupe is sent into the room, the man must unwrap those things with bare hands. 
+#c 因為女生身上穿有保護三點的裹身布，所以將一男一女送入房間後，男生一定要用空手把這些東西解開。
+#a 657.06, None, 658.9
+
+258.
+... <L2Myoude ren yinwei zhegeL2M>,_
+some people because this
+有的 人 因為 這個
+
+#a 658.9, None, 660.93
+
+259.
+... pakialringau si-laimai ma-kucingalre,\
+serious wear-cloth MA-important
+嚴謹 穿-衣 MA-重視
+
+#a 660.93, None, 664.41
+
+260.
+.. si la e,_
+CONJ then FIL
+和 然後 FIL
+(休息一下吧)
+
+#a 664.41, None, 665.63
+
+261.
+... yakai lu maka-tulrulu lu maka-supatele,\
+EXIST IRR MAKA-three IRR MAKA-four 
+有時 IRR MAKA-三 IRR到 MAKA-四
+
+#a 665.63, None, 668.55
+
+262.
+.. lu mu-alra patelre kuini lai tadrusa apece.\
+IRR go-untie all this this DM two sleep 
+IRR 去-解開 全部 這個 IRR 二 睡覺
+
+#e Because the wrapping is too solid, sometimes it takes three to four days for the couple to get laid.
+#c 因為裹身很緊密，有時會要到三四天小倆口才能同寢。
+#a 668.55, None, 671.99
+
+263.
+...(0.8) lai tadrusa apece.\
+DM two sleep
+DM 二 睡覺
+
+#e The couples sleep.
+#c 兩人同寢。
+#a 671.99, None, 674.1
+
+264.
+...(0.8) ala iya si,_
+then say SI
+然後 說 SI
+
+#a 674.1, None, 675.81
+
+265.
+...(1.0) lu kai mu-alra kuini ta-silaimy-ane ki ababai yaie,\
+IRR NEG go-untie this NMZ-wrap-NMZ OBL female DM
+IRR 否定 去-解開 這個 名物化-裹身-名物化 斜格 女孩 DM
+
+#a 675.81, None, 679.18
+
+266.
+...(1.7) lu ka,\
+IRR KA
+IRR KA
+
+#a 679.18, None, 682.02
+
+267.
+... ngidrakale-nga,\
+get.up-PFV
+起床-完成
+
+#a 682.02, None, 683.69
+
+268.
+... mara mu-a<lra>lra kuini kalathesu amiya kuini tarudraudrange.\
+NEG go-<RED>untie this PN say this old.people 
+不要 去<重疊>解開 那個 專名 說 這個 老人家
+
+#e Elders say that if (the male) does not remove the wrap cloth, (the woman) should not remove the kalathesu when (they) wake up.
+#c 老人家囑咐若男生沒有解開裹身布，則(他們)起床時女生不要把kalathesu拿下來。
+#n kalathesu為一種手環。
+#a 683.69, None, 687.48
+
+269.
+...(0.8) <L2Mzhege honL2M>,\
+this FIL
+這個 FIL
+
+#a 687.48, None, 688.84
+
+270.
+... sana thingale kuini la-tina=ini ya e ya,\
+when know this PL-female.elders=3PL.GEN DM FIL DM
+當 知道 這個 複數-媽媽=3PL.屬格 DM FIL DM
+
+#a 688.84, None, 692.16
+
+271.
+.. kai tadrusa kai maungu,\
+NEG two this night
+沒有 兩人 這 晚上
+
+#a 692.16, None, 694.14
+
+272.
+...(0.8) lu ka maungu lai pelana mu-laimai,\
+IRR KA night then do.it.again go-cloth
+如果 KA 晚上 然後 重來 去-衣服
+
+#a 694.14, None, 697.57
+
+273.
+.. pakela kuini,\
+直到 那個
+until this
+
+#a 697.57, None, 698.65
+
+274.
+.. ta-mu-laimadh-ane kuini ki lasu.\
+NMZ-put.off-cloth-NMZ this OBL male
+名物化-解開-衣服-名物化 這個 斜格 男生
+
+#e When the female elders know that the couple didn’t make it last night, (the couple) has to try to remove the cloth again at night until the male unwrap the cloth.
+#c 當女性長者知道小倆口沒有完事，則(兩人)晚上時就必須重來解開衣服直到裹身布解開為止。
+#n 女性長者在婚禮結束後會在新人房外待命，檢查男方是否解開布料。
+#a 698.65, None, 700.55
+
+275.
+...(0.7) e=,\
+FIL
+FIL
+
+#a 700.55, None, 701.92
+
+276.
+... lu pianga kuini tadrusa wa-ceke-cekele-nga,\
+IRR finish this two REAL-RED-home-PFV
+IRR 完成 這個 二 實現-重疊-家-完成
+
+#a 701.92, None, 705.49
+
+277.
+.. la iya madu,\
+then say need
+然後 說 就要
+
+#a 705.49, None, 706.2
+
+278.
+... lu kaka-ya.\
+IRR next-day
+非實現 下一-天
+
+#a 706.2, None, 707.54
+
+279.
+... lama kiluluku madu.\
+mutual have.banquet need
+互相 宴請 就要
+
+#e When the couples finished, (they) formed a family (and) then (they) should hold a banquet the next day.
+#c 當小倆口完成以後(他們)就組成了家庭，(他們)第二天要宴請賓客。
+#a 707.54, None, 709.22
+
+280.
+...(0.8) paiya kuini kudra,\
+it.is.that this that
+就是 這 那
+
+#a 709.22, None, 711.39
+
+281.
+... ta-karudrarudrang-ane ki,\
+NMZ-marriage-NMZ OBL
+名物化-結婚-名物化 斜格
+
+#a 711.39, None, 713.75
+
+282.
+... e Ngudradrekai,\
+FIL Rukai.people
+FIL 魯凱族
+
+#a 713.75, None, 715.47
+
+283.
+...(0.8) tu-a-lrepeng=aku.\
+TU-REAL-stop.saying=1SG.NOM
+TU-實現-停止.說=1SG.主格
+
+#e This is the wedding ceremony of Rukai; I stopped saying here.
+#c 這就是魯凱的結婚典禮，我說到這裡。
+#a 715.47, None, 717.27

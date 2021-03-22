@@ -1,0 +1,770 @@
+topic: Love Story 2
+type: Narrative
+language: 鄒語, Tsou, TapangU
+speaker: 鄭振宗, None, male, None
+collected: None
+revised: 2013-11-18
+video: TsouNr-lovestory-zheng.mp3
+
+1.
+... 'a pan to XX n'a e==,\
+EVI EXIST OBL XX PROG FS
+知識詞 存在 斜格 XX 進行貌 FS
+
+#a 1.4, None, 2.74
+
+2.
+.. eng== ehohomo.\
+FIL tell.a.story.AF
+FIL 說故事.主焦
+
+
+#e There is (a story I will) tell.
+#c 有一個(我要)講的故事。
+#a 2.74, None, 3.68
+
+3.
+... (1.4) ne noana'o.\
+OBL long.time
+斜格 長時間
+
+#a 3.68, None, 5.9
+
+4.
+...(1.1) pan to,\
+EXIST OBL
+存在 斜格
+
+#a 5.9, None, 7.56
+
+5.
+.. cihi ci 'oko no,\
+one REL child OBL
+一 關係詞 小孩 斜格
+
+#a 7.56, None, 8.85
+
+6.
+.. hahocngʉ.\
+male
+男
+
+#e Long time ago, there was a boy.
+#c 很久以前有一個男孩子。
+#a 8.85, None, 9.5
+
+7.
+...(9.2) ahoi ne moso n'a oko,\
+begin.AF OBL AUX.AF PROG child
+開始.主焦 斜格 助動詞.主焦 進行貌 小孩
+
+#a 9.5, None, 20.42
+
+8.
+.. la,\
+AUX.HAB
+助動詞.習慣
+
+#a 20.42, None, 21.06
+
+9.
+...(1.1) pan to la-si,\
+EXIST OBL AUX.HAB-3SG.GEN
+存在 斜格 助動詞.習慣-3SG.屬格
+
+#a 21.06, None, 23.03
+
+10.
+... noepohi ci,\
+get.together.BF REL
+在一起.予焦 關係詞
+
+#n 此處應為noepohneni "在一起"。
+#a 23.03, None, 24.78
+#n 此處應為noepohneni "在一起"。
+
+11.
+... maezo,_
+also.AF
+也.主焦
+
+#a 24.78, None, 25.9
+
+12.
+... oko no,\
+child OBL
+小孩 斜格
+
+#a 25.9, None, 26.79
+
+13.
+...(1.3) mamespingi ta mo== cono hosa.\
+female OBL AUX.AF one village
+女 斜格 助動詞.主焦 一 村子
+
+#e Since his childhood, there has been a girl whom he gets together with in the village.
+#c 從他小時候，有一個女孩子在村子裡一直跟他一起。
+#a 26.79, None, 29.72
+
+14.
+...(2.6) 'e==,_
+NOM
+主格
+
+#a 29.72, None, 32.85
+
+15.
+...(1.6) mamespingi.\
+female
+女
+
+#a 32.85, None, 35.4
+
+16.
+...(0.9) la,\
+AUX.HAB
+助動詞.習慣
+
+#a 35.4, None, 36.63
+
+17.
+.. kaebʉ ho la,\
+happy.AF CONJ HAB
+高興.主焦 連接詞 習慣
+
+#a 36.63, None, 37.64
+
+18.
+... ah== mʉm'ʉ to==,\
+FIL grow.AF OBL
+FIL 種.主焦 斜格
+
+#a 37.64, None, 39.65
+
+19.
+... hana.\
+flower
+花
+
+#e The girl, when she grows flowers, she feels happy.
+#c 那女孩，當她種花時，他覺得快樂。
+#a 39.65, None, 40.57
+
+20.
+...(2.0) ko'ko la-si,_
+therefore HAB-3SG.GEN
+因此 習慣-3SG.屬格
+
+#a 40.57, None, 43.47
+
+21.
+...(0.8) akoeva no ucia,_
+intend.PF OBL want.PF
+傾向.受焦 斜格 想要
+
+#a 43.47, None, 45.46
+
+22.
+... ah,\
+FIL
+FIL
+
+#a 45.46, None, 46.4
+
+23.
+...(0.9) paemʉhi to,\
+grow.everywhere.LF OBL
+到處種.處焦 斜格
+
+#a 46.4, None, 48.55
+
+24.
+...(1.1) peongʉcngʉci to ucia 'e== i-si,\
+grow.all.over.LF OBL want.PF NOM AUX.NAF-3SG.GEN
+到處種.處焦 斜格 想要.受焦 主格 助動詞.非主焦-3SG.屬格
+
+#a 48.55, None, 51.55
+
+25.
+... 'e mo== 'e,\
+NOM AUX.AF NOM
+主格 助動詞.主焦 主格
+
+#a 51.55, None, 52.68
+
+26.
+... cono hosa.\
+one village
+一 村子
+
+#e Therefore, she intends to grow (flowers) everywhere all over the whole village.
+#c 因此，她想在村子裡到處種滿花。
+#a 52.68, None, 53.68
+
+27.
+...(1.7) moh=cu la maica,\
+AUX.AF=PFV HAB likethis.AF
+助動詞.主焦=完成貌 習慣 像這樣.主焦
+
+#a 53.68, None, 56.79
+
+28.
+...(0.6) ah,\
+FIL
+FIL
+
+#a 56.79, None, 57.86
+
+29.
+...(1.1) sasngoyʉskʉ 'o==,\
+grow.up.AF NOM
+長大.主焦 主格
+
+#a 57.86, None, 60.53
+
+30.
+...(2.6) oko no hahocngʉ ho==,\
+child OBL male CONJ
+小孩 斜格 男 連接詞
+
+#a 60.53, None, 64.47
+
+31.
+... mamespingi.\
+female
+女
+
+#e (Then,) just like this, the boy and the girl grew up.
+#c (後來)就這樣，男孩和女孩長大了。
+#a 64.47, None, 65.26
+
+32.
+...(1.2) 'iama te-si== ʉmnʉ-a ta,\
+EVI AUX.FUT-3SG.GEN like-PF OBL
+知識詞 助動詞.未來-3SG.屬格 喜歡-受焦 斜格
+
+#a 65.26, None, 68.6
+
+33.
+...(0.9) hahocngʉ 'e==,\
+male NOM
+男 主格
+
+#a 68.6, None, 70.53
+
+34.
+... oko no mamespingi.\
+child OBL female
+小孩 斜格 女
+
+#e Unexpectedly, the boy loved the girl.
+#c 竟然男孩喜歡上了女孩。
+#a 70.53, None, 71.7
+
+35.
+...(2.2) moso i'nʉskʉ yuyuso uh to,_
+AUX.AF once.AF do.by.two.togetherAF go.AF OBL
+助動詞.主焦 一次.主焦 兩個一起做事.主焦 去.主焦 斜格
+
+#a 71.7, None, 76.02
+
+36.
+...(1.2) hcue'u.\
+hill
+山丘
+
+#a 76.02, None, 77.68
+
+37.
+...(0.8) ho==,_
+CONJ
+連接詞
+
+#a 77.68, None, 78.86
+
+38.
+...(1.8) ho eoyaso.\
+CONJ play.AF
+連接詞 玩.主焦
+
+#e One time, they two walked together to the hill and played.
+#c 有一次他們兩個一起去山上玩。
+#a 78.86, None, 81.68
+
+39.
+...(1.2) 'e 'oko no hahocngʉ la pah-pasunaeno ho,\
+NOM child OBL male HAB RED-sing.AF CONJ
+主格 小孩 斜格 男 習慣 重疊-唱.主焦 連接詞
+
+#a 81.68, None, 85.58
+
+40.
+...(1.5) mi=cu,_
+AUX.AF=PFV
+助動詞.主焦=完成貌
+
+#a 85.58, None, 87.69
+
+41.
+...(0.5) maica,\
+like.this.AF
+像這樣.主焦
+
+#a 87.69, None, 89.05
+
+42.
+...(1.8) tibkocʉ to,\
+pick.AF OBL
+摘.主焦 斜格
+
+#a 89.05, None, 91.86
+
+43.
+...(0.9) con ci hana.\
+one REL flower
+一 關係詞 花
+
+#a 91.86, None, 93.55
+
+44.
+.. to la-si ʉmnʉa to mamespingi ci== hana.\
+OBL AUX.HAB-3SG.GEN like.PF OBL female REL flower
+斜格 助動詞.習慣-3SG.屬格 喜歡.受焦 斜格 女 關係詞 花
+
+#e The boy sang and picked one flower, the flower that the girl liked.
+#c 男孩唱歌，並且摘了一朵花，一朵那女孩喜歡的花。
+#a 93.55, None, 95.83
+
+45.
+...(1.4) 'ia,\
+EVI
+知識詞
+
+#a 95.83, None, 97.62
+
+46.
+.. mo pah-pasunaeno to i-si==,\
+AUX.AF RED-sing.AF OBL AUX.NAF-3SG.GEN
+助動詞.主焦 重疊-唱.主焦 斜格 助動詞.非主焦-3SG.屬格
+
+#a 97.62, None, 99.58
+
+47.
+.. ʉmnʉa to mamespingi ci,\
+like.PF OBL female REL
+喜歡.受焦 斜格 女 關係詞
+
+#a 99.58, None, 101.35
+
+48.
+...(0.6) na 'ici==,\
+FIL REL
+FIL 關係詞
+
+#a 101.35, None, 102.78
+
+49.
+... pasunaenva.\
+song
+歌
+
+#a 102.78, None, 104.0
+
+50.
+...(0.8) ho,\
+CONJ
+連接詞
+
+#a 104.0, None, 105.22
+
+51.
+...(0.6) tipkocʉ to la-si ʉmnʉa ta mamespingi ci hana.\
+pick.AF OBL AUX.HAB-3SG.GEN like.PF OBL female REL flower
+摘.主焦 斜格 助動詞.習慣-3SG.屬格 喜歡.受焦 斜格 女 關係詞 花
+
+#e (He) sang a song which was loved by the girl, and picked a flower which was loved by the girl.
+#c 他唱了一首女孩喜歡的歌，摘了一朵女孩喜歡的花。
+#a 105.22, None, 108.73
+
+52.
+...(0.8) te-si akoeva no,\
+AUX.FUT-3SG.GEN intend.PF OBL
+助動詞.未來-3SG.屬格 想要.受焦 斜格
+
+#a 108.73, None, 110.74
+
+53.
+...(1.0) faeni ta mamespingi ho,\
+give.BF OBL female CONJ
+給.與焦 斜格 女 連接詞
+
+#a 110.74, None, 113.31
+
+54.
+... nte ako--,_
+HYP FS
+假設 FS
+
+#a 113.31, None, 114.2
+
+55.
+.. akoyu no,\
+intend.AF OBL
+想要.主焦 斜格
+
+#a 114.2, None, 115.08
+
+56.
+... m'ea ʉmnʉ-a ta mamespingi.\
+ask.for.PF like-PF OBL female
+要求.主焦 喜歡-受焦 斜格 女
+
+#e He would intend to give (it) to the girl, and would intend to ask for the girl's love.
+#c 他想要把（花）給女孩，希望女孩喜歡他。
+#a 115.08, None, 117.42
+
+57.
+...(3.4)iama nemio,\
+EVI at.that.time
+知識詞 那時候
+
+#a 117.42, None, 121.86
+
+58.
+... pan to i-si==,_
+EXIST OBL AUX.NAF-3SG.GEN
+存在 斜格 助動詞.非主焦-3SG.屬格
+
+#a 121.86, None, 123.25
+
+59.
+.. aiti ^ci,\
+see.LF REL
+看.處焦 關係詞
+
+#a 123.25, None, 124.46
+
+60.
+...(0.8) mo cihi ^ci ^'oko no mamespingi mo eon to==,\
+AUX.AF one.AF REL child OBL female AUX.AF be.at.AF OBL
+助動詞.主焦 一.主焦 關係詞 小孩 斜格 女 助動詞.主焦 在.主焦 斜格
+
+#a 124.46, None, 128.44
+
+61.
+.. aaskiti to c'oeha ho==,\
+side OBL river CONJ
+邊 斜格 河 連接詞
+
+#a 128.44, None, 130.37
+
+62.
+... seolʉa no mong==si.\
+happen.to OBL cry.AF
+剛好 斜格 哭.主焦
+
+#e Unexpectedly, at that time, a girl was seen crying beside the river.
+#c 突然，這時候看到一個女孩在河邊哭。
+#a 130.37, None, 132.33
+
+63.
+...(2.4) i-si cu usa ta==,\
+AUX.NAF-3SG.GEN PFV go.PF OBL
+助動詞.非主焦-3SG.屬格 完成貌 去.受焦 斜格
+
+#a 132.33, None, 136.06
+
+64.
+...(0.7) hahocngʉ.\
+male
+男
+
+#e The boy goes to (her).
+#c 這男孩走過去（她那裡）。
+#a 136.06, None, 137.24
+
+65.
+...(2.7) 'iama moso== ^tufku 'e==,\
+EVI AUX.AF wash.clothes NOM
+知識詞 助動詞.主焦 洗衣服.主焦 主格
+
+#a 137.24, None, 142.11
+
+66.
+... mo mongsi ci mamespingi.\
+AUX.AF cry.AF REL female
+助動詞.主焦 哭.主焦 關係詞 女
+
+#e (he found out that) The girl who cried was (originally) washing clothes.
+#c 原來那女孩本來在洗衣服。
+#a 142.11, None, 144.23
+
+67.
+... mo ngohcu 'o==,\
+AUX.AF drift.away.AF NOM
+助動詞.主焦 漂走.主焦 主格
+
+#a 144.23, None, 145.77
+
+68.
+... coni to i-si= tufkua ci==,\
+one.AF OBL AUX.NAF-3SG.GEN wash.clothes.AF REL
+一.主焦 斜格 助動詞.非主焦-3SG.屬格 洗衣服.主焦 關係詞
+
+#a 145.77, None, 148.0
+
+69.
+...(1.1) i'ihosa.\
+clothes
+衣服
+
+#e One of the clothes which are washed drifted away.
+#c 一件衣服漂走了。
+#a 148.0, None, 149.77
+
+70.
+...(1.1) 'e mo ngohcu ci,\
+NOM AUX.AF drift.away.AF REL
+主格 助動詞.主焦 漂走.主焦 關係詞
+
+#a 149.77, None, 152.24
+
+71.
+...(1.1) yʉsʉ.\
+clothes
+衣服
+
+#a 152.24, None, 153.96
+
+72.
+.. te-si akoeva no,\
+AUX.FUT-3SG.GEN intend.PF OBL
+助動詞.未來-3SG.屬格 想要.受焦 斜格
+
+#a 153.96, None, 155.2
+
+73.
+.. ah--,_
+FIL
+FIL
+
+#a 155.2, None, 155.69
+
+74.
+... ah,\
+FIL
+FIL
+
+#a 155.69, None, 156.65
+
+75.
+...(1.4) ea akoeva no yʉsʉ ^ho==,\
+FIL intend.PF OBL wear.AF CONJ
+FIL 想要.受焦 斜格 穿.主焦 連接詞
+
+#a 156.65, None, 159.81
+
+76.
+... te meesi ho,_
+AUX.FUT hold.ceremony.AF CONJ
+助動詞.未來 舉行祭典.主焦
+
+#a 159.81, None, 161.74
+
+77.
+... hucma.\
+tomorrow
+明天
+
+#e I would like to wear the dress which drifted away when we hold the ceremony tomorrow.
+#c 我想要在明天的祭典穿那件漂走的衣服。
+#a 161.74, None, 162.52
+
+78.
+...(1.6) ^'e hahocngʉ i-si cu==,\
+NOM boy AUX.NAF-3SG.GEN	 PFV
+主格 男孩 助動詞.非主焦-3SG.屬格 完成貌
+
+#a 162.52, None, 165.49
+
+79.
+... to'usni ho,\
+help.LF CONJ
+幫助.處焦 連接詞
+
+#a 165.49, None, 166.76
+
+80.
+... eaa 'e mo ngohcu ci== yʉsʉ ho,\
+get.PF NOM AUX.AF drift.away.AF REL clothes CONJ
+拿.受焦 主格 助動詞.主焦 漂走.主焦 關係詞 衣服 連接詞
+
+#a 166.76, None, 169.42
+
+81.
+... eovei-neni ta oko no mamespingi.\
+give.back-BF NOM child OBL female
+還回-予焦 主格 小孩 斜格 女
+
+#e The boy helped (the girl) and got the clothes drifting away, and gave (it) back to the girl.
+#c 那男孩幫助（那女孩）拿回漂走的衣服，並且還給了那女孩。
+#a 169.42, None, 171.78
+
+82.
+...(2.2) 'e mamespingi,_
+NOM female
+主格 女
+
+#a 171.78, None, 175.26
+
+83.
+...(1.5) i-si aiti ho i-si to,\
+AUX.NAF-3SG.GEN see.LF CONJ AUX.NAF-3SG.GEN OBL
+助動詞.非主焦-3SG.屬格 看.處焦 連接詞 助動詞.非主焦-3SG.屬格 斜格
+
+#a 175.26, None, 177.91
+
+84.
+... 'e mo to'unu ci hahocngʉ to'unu maeo ta yʉsʉ-si.\
+NOM AUX.AF help.AF REL male help.AF get.AF OBL clothes-3SG.GEN
+主格 助動詞.主焦 幫助.主焦 關係詞 男 幫助.主焦 拿.主焦 斜格 衣服-3SG.屬格
+
+#e It's seen ... The boy who helped got her clothes.
+#c 就看到...來幫助的男孩幫忙拿她的衣服。
+#a 177.91, None, 180.57
+
+85.
+... iama te-si na'no ʉmnʉ-a ta,\
+EVI AUX.FUT-3SG.GEN very.AF like-PF OBL
+知識詞 助動詞.未來-3SG.屬格 非常.主焦 喜歡-受焦 斜格
+
+#a 180.57, None, 183.03
+
+86.
+...(0.7) mamespingi tan'e 'e 'oko no hahocngʉ.\
+female here NOM child OBL boy
+女 這裡 主格 小孩 斜格 男
+
+#e Unexpectedly, the girl liked this boy very much.
+#c 出其不意的那女孩非常喜歡這個男孩。
+#a 183.03, None, 186.06
+
+87.
+...(2.8) at'inghi,\
+but
+但是
+
+#a 186.06, None, 189.78
+
+88.
+... 'e==,\
+NOM
+主格
+
+#a 189.78, None, 190.96
+
+89.
+... hahocngʉ,\ 
+male
+男
+
+#a 190.96, None, 191.94
+
+90.
+... o'a s'^a,\
+NEG PART
+否定 語助詞
+
+#a 191.94, None, 193.17
+
+91.
+...(0.7) 'e mo==,_
+NOM AUX.AF
+主格 助動詞.主焦
+
+#a 193.17, None, 194.55
+
+92.
+...(1.5) uhm== tufku 'o i-si,\
+FIL wash.clothes.AF NOM AUX.NAF-3SG.GEN
+FIL 洗衣服.主焦 主格 助動詞.非主焦-3SG.屬格
+
+#a 194.55, None, 197.84
+
+93.
+... ʉmnʉa ci,\
+like-PF REL
+喜歡-受焦 關係詞
+
+#a 197.84, None, 199.31
+
+94.
+... ah mamespingi.\
+FIL female
+FIl 女
+
+#e But, as for the boy, the one who washes clothes is not the girl whom is loved by him.
+#c 但是對那個男孩而言，洗衣服的那個女孩不是他喜歡的。
+#a 199.31, None, 200.63
+
+95.
+... 'a i'o ^mo,\
+EVI NOM AUX.AF
+知識詞 主格 助動詞.主焦
+
+#a 200.63, None, 201.77
+
+96.
+... mʉm'ʉ to hana 'o i-si a'ʉmta ʉmnʉa,_
+grow.AF OBL flower NOM AUX.NAF-3SG.GEN really.NAF like-PF
+種.主焦 斜格 花 主格 助動詞.非主焦-3SG.屬格 真的.非主焦 喜歡-受焦
+
+#e The one whom the boy liked was the one who growed flowers.
+#c 男孩喜歡的那個是種花的。
+#a 201.77, None, 204.41
+
+97.
+... ko'ko,\
+therefore
+因此
+
+#a 204.41, None, 205.47
+
+98.
+... o'a i-si,\
+NEG AUX.NAF-3SG.GEN
+否定 助動詞.非主焦-3SG.屬格
+
+#a 205.47, None, 206.59
+
+99.
+... tiova na 'e to'tohngʉ,_
+accept.PF FIL NOM think.AF
+接受.受焦 FIL 主格 想.主焦
+
+#a 206.59, None, 208.8
+
+100.
+... ta mo== so tufku ci,\
+GEN AUX.AF PART wash.clothes.AF REL
+屬格 助動詞.主焦 語助詞 洗衣服.主焦 關係詞
+
+#a 208.8, None, 210.74
+
+101.
+... m'ea ʉmnʉa ci 'oko no mamespingi 'o to'tohngʉ-si.\
+ask.for.AF like.PF REL child OBL female NOM think-3SG.GEN
+要求.主焦 喜歡.受焦 關係詞 小孩 斜格 女 主格 想法-3S.屬格
+
+#e Therefore, he didn't accept the thought of the girl who washed clothes and who asked for love.
+#c 因此他沒有接受那個洗衣服，並且希望他喜歡的那個女孩的想法。
+#a 210.74, None, 214.05
+
+102.
+... te-'o cu c'o ec'ʉha tan'e.\
+AUX.FUT-1SG.GEN PFV just say.till.an.extent-PF here
+助動詞.未來-1SG.屬格 完成 就 說到某處.受焦 這裡
+
+#e I just stop here.
+#c 我就說到這裡。
+#a 214.05, None, 216.01

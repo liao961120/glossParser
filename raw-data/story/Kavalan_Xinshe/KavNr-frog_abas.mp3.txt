@@ -1,0 +1,1174 @@
+topic: Frog story
+type: Narrative
+language: 噶瑪蘭語, Kavalan, Xinshe (新社)
+speaker: 潘天利, Abas, male, 1933-03-22
+collected: 2005-01-01
+revised: 2014-2-19
+video: KavNr-frog_abas.mp3
+
+1.
+sikawma=pa=iku  haw   pa-kunku  tu== zana  q<m>udu   tu   biat.\
+speak=FUT=1SG.NOM  INT  CAU-story  OBL 3SG.POSS  <AF>nurture  OBL  frog
+說=未來=1SG.主格    感嘆  使役-故事  斜格 3SG.所有格 <主焦>養     斜格    青蛙
+
+#e I’m going to tell a story, starting from keeping a frog.
+#c 我要講一個關於養青蛙的故事。
+#a 8.6, None, 13.38
+
+2.
+…(1.0) yau    sunis  a     zau  q<m>udu      tu    biyat,\
+ EXIST  child  LNK  this  <AF>nurture  OBL  frog
+ 存在   小孩   連詞  這個 <主焦>養   斜格  青蛙
+
+#a 13.38, None, 17.07
+
+3.
+…(0.8) q<m>udu     tu   wasu  ..   nani.\
+ <AF>nurture  OBL    dog     DM
+ <主焦>養     斜格  狗      DM
+
+#e There is a child who keeps a frog and a dog.
+#c 有一個小孩養了一隻青蛙和一隻狗。
+#a 17.07, None, 20.62
+
+4.
+..  tayta-an na     sunis  a    zau  biat-na      ta-peRasku-an   atu==  wasu  unay  nani.\
+see-LF  GEN  child  LNK  this  frog-3SG.GEN  LOC-bottle-LOC  and  dog    that   DM
+看-處焦 屬格  小孩  連詞  這個  青蛙-3SG.屬格  處格-瓶子-處格  和      狗  那個 DM
+
+#e This child looks at his frog in the bottle and that dog.
+#c 這個小孩看著他在瓶子裡的青蛙，還有狗。
+#a 20.62, None, 28.57
+
+5.
+…(1.0) m-li==zaq  t<m>ayta tu   wasu  biat-na      sRi wasu a     yau  tu._
+ AF-happy  <AF>see OBL  dog  frog-3SG.GEN  and  dog  LNK  that  DM
+ 主焦-高興  <主焦>看  斜格  狗  青蛙-3SG.屬格  和  狗   連詞  那個  DM
+
+#e Looking at his frog and that dog, he feels happy, and... 
+#c 看著他的青蛙和狗，很高興，然後…
+
+(FLIPPING THE PAGE)
+#a 28.57, None, 35.81
+
+6.
+…(7.0) tu  tuRabi=ti    nani  maynep=ti	    ya    sunis  a  zau.\
+ DM  evening=PFV  DM  AF.sleep=FFV    NOM  child  LNK  this
+ DM  晚上=完成   DM  主焦.睡覺=完成 主格   小孩  連詞  這個
+
+#e And when the night falls, this child also falls asleep.
+#c 到了晚上，這個小孩睡著了。
+#a 35.81, None, 48.96
+
+7.
+…(1.2) mangu==  m-RaRiw  a    biat-na      sayza  ya   maynep  a     sunis  a   zau   qaRatuRabi.\
+ turn.out  AF-run  NOM  frog-3SG.GEN  perhaps  INT  AF.sleep NOM  child  LNK  this  late.evening
+ 結果   主焦-跑  主格  青蛙-3SG.屬格  或許  感嘆  主焦.睡覺   主格  小孩  連詞  這個  晚上
+
+#e And it turns out that his frog runs away, perhaps (because) this child has fallen asleep in the late evening.
+#c 結果他的青蛙跑走了，可能(因為)小孩晚上在睡覺。
+#n qaRabi = tuRabi ‘evening’晚上 vs. qaRatuRabi ‘late evening’深夜
+#n Rabi=ti ka ‘It’s dark.’天黑了
+#n tuRabi=ti qena-Rabi-an ‘It’s quite late in the evening.’已經很晚了。
+#a 48.96, None, 56.21
+
+8.
+…(0.9) tu   tabRabi    masuat      nani,_
+ DM  morning  AF.wake.up  DM
+ DM  早上    主焦.醒來    DM
+
+#a 56.21, None, 59.51
+
+9.
+tayta-an-na       ta-puduq-an    a==   biyat  a    yau  nani  mai=ti.\
+see-LF-3SG.GEN   LOC-urn-LOC  NOM  frog  LNK  that  DM  NEG=PFV
+看-處焦-3SG.屬格  處格-甕-處格  主格  青蛙  連詞  那個  DM  否定=完成
+
+#e And after waking up in the morning, he looks into the bottle for that frog, but it is gone?!
+#c 早上醒來後，他看瓶子裡的青蛙，結果不見了。
+#a 59.51, None, 64.47
+
+10.
+.. ou  nian=ti    biat-ku      zin-na       sunis  a      zau.\
+INT  where=PFV  frog-1SG.GEN  say-3SG.GEN  child  LNK  this
+感嘆  哪裡=完成  青蛙-1SG.屬格  說-3SG.屬格  小孩  連詞  這個
+
+#e ‘Oh, where is my frog?,’ said this child.
+#c 這個小孩說，oh，我的青蛙在哪裡?
+#a 64.47, None, 68.44
+
+11.
+…(2.1) tu    wiya=ti      k<m>ilim,\
+ DM   leave=PFV   <AF>search
+ DM   離開=完成   <主焦>尋找
+
+#a 68.44, None, 72.28
+
+12.
+…(3.4) k<m>ilim=ti ..   sunis  a    zau  tu   biat-na      nani.\
+ <AF>search=PFV  child   LNK  this  OBL  frog-3SG.GEN   DM
+ <主焦>尋找=完成  小孩  連詞  這個  斜格  青蛙-3SG.屬格  DM
+
+#e So this child goes searching, searching for his frog.
+#c 這個小孩去找，去找他的青蛙。
+#a 72.28, None, 80.75
+
+13.
+…(1.0) ou  pasi    yau       ta-RasuR-an-na	    na   zpu,_
+ INT  probably  EXIST  LOC-inside-LOC-3SG.GEN  GEN  shoes
+ 感嘆  可能    存在    處格-裡面-處格-3SG.屬格  屬格  拖鞋
+
+#a 80.75, None, 85.39
+
+14.
+.. na    kucu,_
+GEN  shoes
+屬格  鞋子
+
+#a 85.39, None, 86.84
+
+15.
+…(0.7) zin-na        sayza   na   sunis  a    zau  nani._
+ think-3SG.GEN  perhaps  GEN  child  LNK  this  DM
+ 想-3SG.屬格  或許    屬格  小孩  連詞   這個  DM
+
+#e This child thinks, ‘Ooh, it’s probably inside the shoes.’
+#c 這個小孩可能想說，可能在我的拖鞋，鞋子裡面。
+#n zpu = kucu 日語借詞 (a Japanese load word)
+#a 86.84, None, 89.86
+
+16.
+…(0.7) wa==  wiya=ti    biqulu-an-na=ti      ya..    zpu-na amagucu-na  sayza  ‘u	  k<m>ilim  tu  biat  nani._
+ INT  leave=PFV  turn.over-LF-3SG.GEN=PFV  NOM  shoes-3SG.GEN  rain.boots-3SG.GEN  perhaps  INT  <AF>search  OBL  frog   DM
+ 感嘆  離開=完成  翻轉-處焦-3SG.屬格=完成  主格  鞋子-3SG.屬格        雨鞋-3SG.屬格  可能   感嘆  <主焦>尋找  斜格  青蛙 DM
+
+#e He goes turning over his shoes, or his rain boots perhaps, to search for the frog.
+#c 他翻他的鞋子，或可能是他的雨鞋，要找青蛙。
+#n amagucu ‘rain boots’雨鞋，日語借詞 (Japanese loan word)
+#a 89.86, None, 99.15
+
+17.
+.. sRi  wasu  a    yau,_
+and   dog  LNK  that 
+和    狗   連詞  那個
+
+#a 99.15, None, 100.93
+
+18.
+.. pasi      yau      ta-puduq-an     ya,_
+probably  EXIST  LOC-urn-LOC  NOM
+可能    存在    處格-甕-處格   主格
+
+#a 100.93, None, 104.05
+
+19.
+…(0.9) ya    biat   a   zau  zin-na        sayza   na   wasu  a  zau  nani.\
+ NOM  frog  LNK  this  think-3SG.GEN  perhaps  GEN  dog  LNK  this  DM
+ 主格  青蛙  連詞  這個  想-3SG.屬格  或許  屬格  青蛙  連詞   這個  DM
+
+#e As for the dog, it thinks that (the frog) is probably in the bottle.
+#c 那個狗想說可能在瓶子裡。
+#a 104.05, None, 108.05
+
+20.
+…(0.7) susuR-an-na=ti         na    uRu-na        ya    peRasku  a   yau  q<n>izuan-an  na  biyat.\
+ enter-LF-3SG.GEN=PFV  GEN  head-3SG.GEN NOM  bottle  LNK that  <PFV>reside-NMZ  GEN  frog
+ 進入-處焦-3SG.屬格=完成  屬格  頭-3SG.屬格  主格  瓶子   連詞  那個  <完成>住-名物化  屬格  青蛙
+
+#e So it squeezes his head into the bottle, where the frog once resided.
+#c 狗把頭鑽進瓶子裡，青蛙曾住過的地方。
+#a 108.05, None, 113.7
+
+21.
+…(1.6) tu   Rayngu=ti.  ala-an    Rayngu=ti     ‘etus-an  ya    uRu   na   wasu  a     zau.\
+ DM  cannot=PFV  take-LF  cannot=PFV  pull-LF  NOM  head GEN  dog  LNK  this
+ DM  不能=完成   拿-處焦   不能=完成  拔-處焦  主格  頭    屬格  狗   連詞   這個
+
+#e And the dog can’t take, can’t pull out its head.
+#c 狗不能拿..不能把頭拔出來。
+#a 113.7, None, 121.65
+
+22.
+…(1.3) tu   wiya=ti    k<m>ilim   tu    biat   a   yau  ya  sunis    a    yau,\
+ DM  leave=PFV  <AF>search  OBL  frog  LNK  that  NOM  child  LNK  that
+ DM   離開=完成  <主焦>尋找  斜格  青蛙  連詞  那個  主格  小孩  連詞  那個
+
+#a 121.65, None, 128.67
+
+23.
+… masulun    tu     wasu   a     yau  nani.\
+ AF.together  OBL   dog   LNK  that   DM
+ 主焦.一起   斜格   狗   連詞   那個  DM
+
+#e And then that child goes searching for the frog, accompanied by his dog. 
+#c 小孩去找青蛙，跟狗一起。
+#a 128.67, None, 131.5
+
+24.
+…(0.9)mangu==  yau    si-kubu-an-na  na  wasu  a    yau  a  peRasku  a  q<n>izuan-an   na  biat  a  yau.\
+ turn.out   EXIST  SI-hat-LF-3SG.GEN  GEN  dog  LNK  that  NOM bottle  LNK <PFT>reside-NMZ  GEN  frog  LNK  that
+ 結果   存在   SI-帽子-處焦-3SG.屬格  屬格  狗  連詞  那個  主格 瓶子  連詞  <完成>住-名物化  屬格  青蛙 連詞  那個
+
+#e It turns out that the dog is wears the bottle on its head, where the frog once resided.
+#c 結果狗把瓶子戴在頭上，青蛙曾經住過的地方。
+#n si-kubu: 把~套/戴在頭上 to wear on the head
+
+(FLIPPING PAGE)
+#a 131.5, None, 139.53
+
+25.
+…(7.0) syazi==  tazian  nani,\
+ come.to  here    DM
+ 來到    這裡    DM
+
+#a 139.53, None, 146.8
+
+26.
+…(1.3) ya==u  q<um>Ras  sunis  a    yau  tu    biat  a    yau   nani.\
+ EXIST  <AF>yell   child  LNK  that  OBL  frog  LNK that  DM
+ 存在    <主焦>叫   小孩  連詞  那個  斜格  青蛙  連詞  那個  DM
+
+#e At this point (when it (i.e. the story) comes here), the child is yelling out for the frog.
+#c 到了這裡，小孩在叫青蛙。
+#a 146.8, None, 151.25
+
+27.
+…(1.0) yau    qaya  wasu  a    yau  m-Ray<tung>tunguz  k<m>ilim  qaya  tu  biat  a  yau  nani.\
+ EXIST  also  dog  LNK that  AF-<RED>bark   <AF>search  also  OBL  frog  LNK  that  DM
+ 存在   也  狗   連詞  那個  主焦-<重疊>吠叫  <主焦>找  也  斜格   青蛙  連詞  那個  DM
+
+#e The dog also keeps barking and barking and search for the frog.
+#c 狗也在叫，也在找青蛙。
+#a 151.25, None, 158.75
+
+28.
+…(1.0) mangu==  t<m>ibuq=ti  ...(HICCUPING) nizi  ta-dengat-an-na  ya  wasu  a yau.\
+ turn.out  <AF>fall=PFV ... from  LOC-window-LOC-3SG.GEN NOM  dog  LNK  that
+ 結果  <主焦>掉=完成 ... 從  處格-窗戶-處格-33SG.屬格  主格  狗  連詞  那個
+
+#e And it turns out that the dog falls down off the window.
+#c 結果狗從窗戶掉下去。
+#a 158.75, None, 166.64
+
+29.
+.. masulun    tu    lazat    a      yau  q<um>Ras  ta  biyat  a  yau  nani,\
+AF.together  OBL  person  LNK  that  <AF>yell   LOC frog  LNK  that  DM
+主焦.一起   斜格  人    連詞   那個  <主焦>叫  處格 青蛙  連詞  那個 DM
+
+#a 166.64, None, 170.11
+
+30.
+.. t<m>ibuq=ti   wasu  a    yau   tu.._
+<AF>fall=PFV  dog  LNK  that  DM
+<主焦>掉=完成  狗   連詞  那個  DM
+
+#e When following the man to yell out for the frog, the dog falls down, and..
+#c 那個狗跟著那個人，叫青蛙，然後掉下去了。
+#a 170.11, None, 172.23
+
+31.
+…(1.1) ma-bedung=ti   ya    peRasku a    yau  s<n>i-kubu   na  wasu  a  yau  nani._
+ AF-break=PFV  NOM bottle  LNK  that  <PFV>SI-hat  GEN  dog  LNK  that  DM
+ 主焦-破=完成   主格  瓶子  連詞  那個  <完成>SI-帽子  屬格  狗  連詞  那個  DM
+
+#e The bottle that the dog wears on its head breaks (into pieces).
+#c 狗戴在頭上的瓶子破了。
+#a 172.23, None, 179.07
+
+32.
+…(0.7) syazi=ti     tazian  mai=ti     peRasku  a    yau.\
+ come.to=PFV  here    NEG=PFV   bottle   LNK  that
+ 來到=完成   這裡   否定=完成  瓶子   連詞  那個
+
+#e At this point (when it comes here), the bottle is gone (off the dog’s head).
+#c 到了這邊，瓶子沒有了。
+#a 179.07, None, 182.21
+
+33.
+…(0.8) tayta-an-na=ti        na   sunis   a    zau   nani,\
+ see-LF-3SG.GEN=PFV GEN  child  LNK  this  DM
+ 看-處焦-3SG.屬格=完成 屬格  小孩 連詞  這個  DM
+
+#a 182.21, None, 184.77
+
+34.
+.. mai=ti    ya   s<n>i-kubu   na   wasu  kutu  peRasku  a  yau    zin-na tu,\
+NEG=PFV  NOM  <PFV>SI-hat  GEN  dog  ??   bottle   LNK  that  think-3SG.GEN  DM
+否定=完成  主格  <完成>SI-帽子  屬格  狗  ??  瓶子  連詞  那個    想-3SG.屬格  DM
+
+#a 184.77, None, 191.49
+
+35.
+.. ala-an-na=ti    na   sunis a   zau    bawa’  ya   wasu  zau.\
+take-LF-3SG.GEN=PFV  GEN  child LNK  this  bear  NOM  dog  this
+拿-處焦-3SG.屬格=完成  屬格  小孩  連詞  這個  抱  主格  狗  這個
+
+#e When seeing the bottle that the dog wears gone (off the dog’s head), this child holds up the dog.
+#c 看到小狗戴在頭上的瓶子不見了，這個小孩抱起了狗。
+#a 191.49, None, 197.04
+
+36.
+…(9.2) syazi   tazian  nani,\
+ come.to  here   DM
+ 來到    這裡  DM
+
+#a 197.04, None, 207.68
+
+37.
+…(0.7) ya==u=ti    q<um>Ras .. sunis  a   yau  ta  biat  a  yau  nani._
+ EXIST=PFV  <AF>yell  .. child  LNK  that  LOC  frog  LNK  that  DM
+ 存在=完成   <主焦>叫 .. 小孩  連詞  那個  處格  青蛙  連詞   那個  DM
+
+#e At this point (when it comes here), the child is yelling out for the frog.
+#c 到了這邊，小孩在叫青蛙。
+#a 207.68, None, 212.47
+
+38.
+.. wasu  a    zau  na    yau   Ray<tung>tunguz,\
+dog   LNK  this  FIL  EXIST  <RED>bark
+狗    連詞  這個  FIL  存在   <重疊>吠叫
+
+#a 212.47, None, 215.76
+
+39.
+…(0.9) q<um>Ras  tu   biat   a  yau    sayza    nani.\
+ <AF>yell  OBL  frog  LNK  that  perhaps  DM
+ <主焦>叫  斜格  青蛙  連詞  那個  或許   DM
+
+#e As for the dog, it keeps barking and barking, yelling out for the frog perhaps.
+#c 青蛙一直叫，可能在叫青蛙。
+#a 215.76, None, 219.56
+
+40.
+tayta-an-na=ti      na ..  tuliq  a    yau  sayza,\
+see-LF-3SG.GEN=PFV  GEN .. wasp LNK  that  perhaps
+看-處焦-3SG.屬格=完成  屬格 .. 蜂  連詞  那個  或許
+
+#a 219.56, None, 223.02
+
+41.
+.. ya==  lazat  a    zau  atu  wasu  a   zau   nani,\
+NOM  man  LNK  this  and  dog  LNK  this  DM
+主格  人   連詞  這個  和  狗  連詞 這個  DM
+
+#a 223.02, None, 226.81
+
+42.
+m-za-zukat=ti    tuliq     a    yau,\
+AF-RED-exit=PFV  wasp  LNK  that
+主焦-重疊-出=完成  蜂   連詞  那個
+
+#a 226.81, None, 229.11
+
+43.
+…(0.7) ngil  qaRat  tu  lazat   a    zau   atu  sunis  a    zau   nani.\
+ want  bite  OBL  person  LNK  this  and  child  LNK  this  DM
+ 要   咬   斜格  人   連詞  這個  和  小孩  連詞  這個  DM
+
+#e Perhaps because those wasps see this person and this dog, they keep coming out (of their nest), wanting to sting this person and this child.
+#c 這些蜜蜂看到小孩和狗，就一直跑出來，想要咬這個人和這個小孩。
+#n 講錯，應該是wasu（狗）。
+Note: The “sunis (child)” here should have been “wasu (dog)” but the narrator made a mistake.
+#a 229.11, None, 233.38
+
+44.
+.. maytis=ti      sunis   a    zau.\
+AF.afraid=PFV  child  LNK  this
+主焦.害怕=完成  小孩  連詞  這個
+
+#e This child is afraid (of the wasps).
+#c 這個小孩很害怕。
+#a 233.38, None, 236.27
+
+45.
+…(10.3) tu   syazi   tazian  nani,\
+ DM  come.to  here  DM
+ DM  來到    這裡  DM
+
+#a 236.27, None, 248.33
+
+46.
+…(0.7) maken=ti    t<m>ayta  tu   tuliq  a  yau   nani.\
+ really=PFV  <AF>see  OBL wasp  LNK  that  DM
+ 真的=完成  <主焦>看  斜格 蜂  連詞  那個  DM
+
+#e At this point (when it comes here), (he) really sees those wasps.
+#c 到了這邊，真的看到蜜蜂了。
+#a 248.33, None, 251.71
+
+47.
+wi==  ta   babaw  tuliq  a    yau.\
+leave  LOC  top   wasp  LNK  that
+離開   處格  上面 蜂   連詞  那個
+
+#e Those wasps are high above.
+#c 那些蜜蜂在上面。
+#a 251.71, None, 253.55
+
+48.
+…(2.1) q<m>ubet=ti    ya    sunis   a    zau  q<n>aytis-an      tu  tuliq  a  yau   nani._
+ <AF>crouch=PFV  NOM  child  LNK  this <PFV>afraid-NMZ  OBL  wasp  LNK  that  DM
+ <主焦>蹲=完成  主格  小孩  連詞  這個  <完成>害怕-名物化  斜格  蜂  連詞  那個  DM
+
+#e Afraid of those wasps, this child crouches down.
+#c 小孩蹲下來，(因為)怕蜜蜂。
+#a 253.55, None, 259.8
+
+49.
+ya==u  wasu  a   yau   m-Raytunguz.\
+EXIST  dog  LNK  that  AF-bark
+存在  狗   連詞  那個  主焦-吠叫
+
+#e That dog is barking.
+#c 那隻狗在叫。
+#a 259.8, None, 261.69
+
+50.
+…(0.7) pasya  babaw  m-Raytunguz  tu   tuliq  a      zau  ya  sunis  a  zau …  nani.\
+ LOC  top    AF-bark      OBL  wasp  LNK  this  NOM  child  LNK  this ... DM
+ 處格  上面  主焦-吠叫     斜格  峰   連詞  這個  主格  小孩  連詞  這個 ... DM
+
+#e This child is barking up at the wasps.
+#c 小孩向上對蜜蜂叫。
+#n The “sunis (child)” here should have been “wasu (dog)” but the narrator made 
+a mistake.
+#a 261.69, None, 268.72
+
+51.
+syazi   tazian   nani,\
+come.to  here   DM
+來到    這裡   DM
+
+#a 268.72, None, 269.99
+
+52.
+…(0.9) maytis=ti    sayza    sunis  a   zau   tu  tuliq  a  zau m-uRing=ti.\
+ AF.afraid=PFV  perhaps  child  LNK this  OBL  wasp  LNK  this  AF-cry=PFV
+ 主焦.害怕=完成  或許   小孩  連詞  這個  斜格  蜂  連詞  這個   主焦-哭=完成
+
+#e At this point (when it comes here), this child has cried up, perhaps because he is afraid of these wasps.
+#c 到了這邊，小孩怕這些蜜蜂，就哭了。
+#a 269.99, None, 275.78
+
+53.
+…(1.0) tayta-an-na       nani,\
+ see-LF-3SG.GEN  DM
+ 看-處焦-3SG.屬格  DM
+
+#a 275.78, None, 277.91
+
+54.
+…(0.7) yau      a     wasu-na …     mutun,\
+ EXIST  NOM  dog-3SG.GEN   ...  mouse
+ 存在     主格  狗-3SG.屬格   ...   老鼠
+
+#a 277.91, None, 282.36
+
+55.
+…(2.6) yau    a       mutun   yau     a    wasu,_
+ EXIST  NOM   mouse   EXIST  NOM   dog
+ 存在    主格    老鼠    存在    主格   狗
+
+#a 282.36, None, 287.29
+
+56.
+…(0.9) m-iza==   m-Raytunguz  tu ..  tuliq    a    yau.\
+ AF-do.sth  AF-bark      OBL .. wasp   LNK	  that
+ 主焦-做某事  主焦-吠叫   斜格 .. 蜂    連詞  那個
+
+#e When he looks (up), (he finds) his dog… the mouse.., the mouse and the dog are doing, uh, barking at those wasps.
+#c 他看到有他的狗…老鼠…有老鼠有狗，在做…對蜜蜂叫。
+#a 287.29, None, 291.96
+
+57.
+…(0.9) tu   m-u==Ring  a    sunis   a     yau.\
+ DM  AF-cry     NOM   child   LNK   that
+ DM  主焦-哭    主格    小孩   連詞   那個
+
+#e And the child is crying.
+#c 小孩在哭。
+#a 291.96, None, 294.58
+
+58.
+…(10.4) syazi  tazian  nani  t<m>ibuq=ti   ya  tuliq  a     yau .. nani.\
+ come.to  here  DM  <AF>fall=PFV  NOM	  wasp  LNK that .. DM
+ 來到    這裡  DM  <主焦>掉=完成  主格  蜂  連詞  那個 .. DM
+
+#e At this point (when it comes here), the (nest of) wasps has fallen down.
+#c 到了這邊，蜂(窩)掉下來了。
+#a 294.58, None, 310.5
+
+59.
+…(0.7) maytis=ti      ya==   wasu  a     yau,\
+ AF.afraid=PFV  NOM  dog	  LNK  that
+ 主焦.害怕=完成  主格  狗   連詞  那個
+
+#a 310.5, None, 313.23
+
+60.
+…(0.7) ngil=ti      zaqis   tu    paRin,\
+ want=PFV  climb   OBL  tree
+ 要=完成    爬     斜格  樹
+
+#a 313.23, None, 315.55
+
+61.
+…(1.1) q<n>aytis-an        tu   tuliq    a    yau    nani.\
+ <PFT>afraid-NMZ   OBL  wasp  LNK  that   DM
+ <完成>害怕-名物化  斜格  蜂    連詞  那個  DM
+
+#e That dog is afraid, (so) it wants to climb up to the tree, being afraid of those wasps.
+#c 那隻狗很害怕，(所以)想爬上樹，(因為)怕蜜蜂。
+#a 315.55, None, 318.6
+
+62.
+yau     a     mutun  a     yau   qaya,\
+EXIST  NOM  mouse  LNK  that   also
+存在    主格   老鼠  連詞  那個   也
+
+#a 318.6, None, 320.28
+
+63.
+…(1.6) t<m>ayta  tu==  wasu   a    yau … nani.\
+ <AF>see  OBL   dog   LNK  that ...  DM
+ <主焦>看  斜格  狗     連詞  那個 ... DM
+
+#e There is also the mouse watching the dog.
+#c 那個老鼠也看著那隻狗。
+#a 320.28, None, 326.68
+
+64.
+syazi    tazian  nani,_
+come.to  here   DM
+來到     這裡  DM
+
+#a 326.68, None, 328.05
+
+65.
+…(1.8) tayta-an-na       na    sunis   a    yau   m-zaqis   tu ..  paRin a  sunis   a   zau   nani.\
+ see-LF-3SG.GEN  GEN  child   LNK  that  AF-climb  OBL .. tree  NOM  child  LNK  this  DM
+ 看-處焦-3SG.屬格  屬格  小孩  連詞  那個  主焦-爬  斜格 .. 樹  主格  小孩  連詞  這個  DM
+
+#e At this point (when it comes here), that child sees.., this child climbs up to the tree.
+#c 來到這邊，小孩看到…這個小孩爬上樹。
+#a 328.05, None, 334.88
+
+66.
+… yau    a       tangan  na    paRin   a    yau.\
+ EXIST  NOM   hole    GEN  tree   LNK	  that
+ 存在   主格    洞     屬格   樹   連詞   那個
+
+#e There is a hole on the tree.
+#c 樹有洞。
+#a 334.88, None, 337.36
+
+67.
+…(1.1) pasi  yau   tazian  ya   biat-ku ..   zin-na        sayza  na  sunis  a  zau,\
+ probably  EXIST here   NOM  frog-1SG.GEN .. think-3SG.GEN  perhaps GEN  child  LNK  this
+ 可能    存在   這裡   主格  青蛙-1SG.屬格 .. 想-3SG.屬格  或許  屬格  小孩  連詞  這個
+
+#a 337.36, None, 343.27
+
+68.
+.. pankel-an-na ya  tangan-na    mai  ..  ya     biat  a  yau.\
+peek-LF-3SG.GEN  NOM  hole-3SG.GEN  NEG .. NOM  frog LNK  that
+窺視-處焦-3SG.屬格  主格  洞-3SG.屬格  否定 .. 主格  青蛙  連詞   那個
+
+#e This child perhaps thinks, “My frog is probably here,” (so) he peeks into the hole, but the frog is not there.
+#c 這個小孩可能想說，我的青蛙可能在這裡，(所以)它往洞裡瞧，(可是)青蛙不在那裡。
+#a 343.27, None, 347.74
+
+69.
+…(1.3) tu,_
+ DM
+ DM
+
+#a 347.74, None, 349.57
+
+70.
+…(1.9) syazi=ti      tazian  nani,_
+ come.to=PFV  here   DM
+ 來到=完成    這裡  DM
+
+#a 349.57, None, 352.93
+
+71.
+…(1.9) au   zaqis=pa=ita      tu     paRin,_
+ INT  climb=FUT=1IPL.NOM  OBL  tree
+ 感嘆  爬=未來=1IPL.主格    斜格   樹
+
+#a 352.93, None, 357.06
+
+72.
+…(0.9) zin-na       sayza    na     sunis  a     yau   nani.\
+ say-3SG.GEN  perhaps  GEN  child  LNK  that   DM
+ 說-3SG.屬格  或許    屬格  小孩  連詞  那個   DM
+
+#e And when it comes here, perhaps the child says, “We’re going to climb up to the tree.”
+#c 到了這邊，小孩可能說，我們要爬樹。
+#a 357.06, None, 359.96
+
+73.
+…(0.7) pameng=ti   m-zukat  ya     ku   a   zau.\
+ suddenly=PFV  AF-exit  NOM  owl  LNK  this
+ 突然=完成    主焦-出  主格  貓頭鷹 連詞  這個
+
+#e Suddenly (out of the hole) comes an owl.
+#c 突然，貓頭鷹出來了。
+#a 359.96, None, 363.06
+
+74.
+…(0.7) tu  maytis=ti       ya ..   sunis   a    zau  tu==,_
+ DM  AF.afraid=PFV  NOM .. child  LNK  this  OBL
+ DM  主焦.害怕=完成 主格 .. 小孩  連詞  這個  斜格
+
+#a 363.06, None, 367.2
+
+75.
+..  ku      a     zau  sayza   tu,_
+owl     LNK  this  perhaps  DM
+貓頭鷹  連詞  這個  或許  DM
+
+#a 367.2, None, 368.57
+
+76.
+..  t<m>ibuq=ti    sunis   a    zau.\
+<AF>fall=PFV  child  LNK  this
+<主焦>掉=完成  小孩  連詞  這個
+
+#e And perhaps because the child is afraid of this owl, he falls down (off the tree).
+#c 小孩可能怕這個貓頭鷹，就掉下去了。
+#a 368.57, None, 371.09
+
+77.
+…(0.8) wasu  a    yau   qaya  nani,_
+ dog   LNK  that  also  DM
+ 狗   連詞  那個  也  DM
+
+#a 371.09, None, 373.5
+
+78.
+..  wiya=ti    m-RaRiw,\
+leave=PFV  AF-run
+離開=完成  主焦-跑
+
+#a 373.5, None, 375.23
+
+79.
+…(0.8) tu  tanuz-an  na    tuliq  ya      wasu  a     zau.\
+ DM  chase-LF  GEN  wasp  NOM  dog   LNK  this
+ DM  追-處焦  屬格  蜂   主格   狗    連詞   這個
+
+#e The dog also runs away, for it’s being chased by the wasps.
+#c 狗也跑走了，(因為)它被蜜蜂追。
+#a 375.23, None, 379.11
+
+80.
+…(8.0) syazi   tazian  qaya  na,_
+ com.to  here   also   FIL
+ 來到   這裡   也    FIL
+
+#a 379.11, None, 388.7
+
+81.
+…(0.9) zaqis=pa=iku   tu==,_   (CLEARING THROAT)
+ climb=FUT=1SG.NOM  OBL
+ 爬=未來=1SG.主格     斜格
+
+#a 388.7, None, 392.3
+
+82.
+..  zaqis=pa=iku     ta-bu-bungaR-an,_
+climb=FUT=1SG.NOM  LOC-RED-rock-LOC
+爬=未來=1SG.主格    處格-重疊-石頭-處格
+
+#a 392.3, None, 394.71
+
+83.
+… zin   na    sunis  a    zau   sayza   nani.\
+ think  GEN  child  LNK  this  perhaps  DM
+ 想    屬格  小孩  連詞  這個  或許   DM
+
+#e At this point (when it comes here) again, perhaps this child thinks, “I’m going to climb eh…, I’m going to climb up to the rock.”
+#c 到了這邊，小孩可能想說，我要爬樹。
+#a 394.71, None, 396.92
+
+84.
+<HIGH.PITCHtayta-an-na   naniHIGH.PITCH> yau    tuliq  ‘a  ku  a  yau  t<m>anuz   tu  sunis  a  yau ..  nani.\
+see-LF-3SG.GEN  DM              EXIST  wasp  INT  owl  LNK  that  <AF>chase  OBL  child  LNK  that .. DM
+看-處焦-3SG.屬格 DM              存在  蜂    感嘆  貓頭鷹  連詞    那個  <主焦>追  斜格  小孩  連詞  那個 .. DM
+
+#e When the child looks (up), (he finds) the wasps, uh, the owl chasing him.
+#c 小孩看到，有蜜蜂…貓頭鷹在追那個小孩。
+#a 396.92, None, 404.41
+
+85.
+wiya=ti     m-RaRiw  sunis  a    zau   nani.\
+leave=PFV  AF-run    child  LNK  this  DM
+離開=完成  主焦-跑   小孩  連詞  這個  DM
+
+#e And this child runs away.
+#c 這個小孩跑走。
+#a 404.41, None, 406.56
+
+86.
+..  syazi==   tazian  ta-usiq-an        na    buRang  nani,\
+come.to    here   LOC--one-LOC  GEN  rock    DM
+來到    這裡    處格-一-處格     屬格  石頭   DM
+
+#a 406.56, None, 409.5
+
+87.
+..  m-zaqis=ti ..    q<n>aytis-an     tu   ku   a    yau.\
+AF-climb=PFV .. <PFV>afraid-NMZ OBL  owl  LNK  that
+主焦-爬=完成 ..  <完成>害怕-名物化  斜格  貓頭鷹  連詞  那個
+
+#e When he comes to a rock, he climbs up to it for fear of the owl.
+#c 到了一個石頭，(小孩)爬上去，(因為)怕貓頭鷹。
+#a 409.5, None, 413.96
+
+88.
+…(1.0) pameng=ti   yau    m-zukat  a      siRmuq  a   zau,\
+ suddenly=PFV  EXIST  AF-exit  NOM  deer     LNK  this
+ 突然=完成  存在   主焦-出   主格  鹿    連詞  這個
+
+#a 413.96, None, 418.04
+
+89.
+…(0.9) tu  ..  azu=ti     uzung-an-na.\
+ DM  ..  like=PFV  shoulder-LF-3SG.GEN
+ DM  ..  像=完成   扛-處焦-3SG.屬格
+
+#e All of a sudden, (out from behind the rock) comes a deer, and it is like, (the deer) carries (the child) on its back.
+#c 突然,鹿出來了，好像扛在背上。
+#a 418.04, None, 422.33
+
+90.
+…(5.0) yau   tayan   ta==  babaw  na   buRang  a==  sunis   a     zau   nani.\
+ EXIST  there  LOC  top   GEN  rock    NOM  child  LNK  this  DM
+ 存在  那裡  處格  上面  屬格  石頭   主格  小孩  連詞      這個  DM
+
+#e The child is there on the top of the rock.
+#c 這個小孩在石頭上面。
+#a 422.33, None, 432.8
+
+91.
+…(0.7) pameng=ti   yau    ta-uRu-an-na    na    siRmuq  ..  m-zaqis  a   sunis   a   zau.\
+ suddenly=PFV  EXIST  LOC-head-LOC-3SG.GEN  GEN  deer .. AF-climb  NOM  child  LNK  this
+ 突然=完成   存在   處格-頭-處格-3SG.屬格   屬格  鹿   ..   主焦-爬  主格  小孩  連詞  那個
+
+#e All of a sudden, onto the head of the deer climbs this child.
+#c 突然，小孩爬到鹿的頭上。
+#a 432.8, None, 438.12
+
+92.
+…(0.8) tu   wiya=ti    m-RaRiw  a ..   siRmuq  a    yau   nani,\
+ DM  leave=PFV AF-run   NOM .. deer    LNK  that   DM
+ DM  離開=完成 主焦-跑  主格 .. 鹿    連詞   那個   DM
+
+#a 438.12, None, 442.89
+
+93.
+..  yau=ti       ta-uRu-an    na    siRmuq  a    sunis  a  zau uzung-an   na   siRmuq.\
+EXIST=PFV  LOC-head-LOC  GEN  deer   NOM  child  LNK  this  shoulder-LF  GEN  deer
+存在=完成  處格-頭-處格   屬格   鹿     主格  小孩  連詞  這個  扛-處焦   屬格   鹿
+
+#e And then the deer runs away, and the child is on the head of the deer, carried by the deer on its back.
+#c 鹿跑走了，小孩在鹿的頭上，被鹿扛在背上。
+#a 442.89, None, 447.95
+
+94.
+…(8.2) syazi   tazian  nani,\
+ come.to  here  DM
+ 來到    這裡  DM
+
+#a 447.95, None, 457.69
+
+95.
+…  mau  nizi  ta-uRu-an   na siRmuq  a ..  sunis  a   zau  nani,_
+ ??    from  LOC-head-LOC  GEN  deer  LNK .. child  LNK  this  DM
+ ??    從    處格-頭-處格   屬格   鹿   連詞 .. 小孩  連詞  這個  DM
+
+#n 我原本住在PakteRungan，後來已經搬到台北了。
+#n mau nizi=iku ta pakteRungan tu matalin=iku pasa taypaq ‘I previously lived in PakteRungan, and then I moved to Taipei.’
+#a 457.69, None, 462.26
+#n 我原本住在PakteRungan，後來已經搬到台北了。
+#n mau nizi=iku ta pakteRungan tu matalin=iku pasa taypaq ‘I previously lived in PakteRungan, and then I moved to Taipei.’
+
+96.
+..  mangu==  t<m>ibuq=ti.\
+turn.out    <AF>fall=PFV
+結果      <主焦>掉=完成
+
+#e At this point (when it comes here), the child previously on the head of the deer turns out to fall down.
+#c 到了這邊，小孩原本在鹿的頭上，結果掉下來了。
+#a 462.26, None, 464.4
+
+97.
+…(1.0) yau    t<m>ibuq=ti    ya    sunis   a     zau,\
+ EXIST  <AF>fall=PFV  NOM  child  LNK  this
+ 存在   <主焦>掉=完成  主格  小孩  連詞  這個
+
+#a 464.4, None, 467.47
+
+98.
+..  zin-na   sayza    na     siRmuq  a    zau   nani.\
+think-3SG.GEN  perhaps  GEN  deer     LNK  this  DM
+想-3SG.屬格   或許     屬格  鹿      連詞  這個  DM
+
+#e Perhaps the deer thinks, “The child is falling down.”
+#c 鹿可能想說，小孩掉下去了。
+#a 467.47, None, 470.0
+
+99.
+..  yau    a    wasu-na     qaya   ‘u,\
+EXIST  NOM   dog-3SG.GEN  also    INT
+存在   主格   狗-3SG.屬格    也    感嘆
+
+#a 470.0, None, 472.43
+
+100.
+…(1.9) yau    a   mutun … <L2Ccye ke suL2C>...\
+ EXIST  NOM  mouse   ...    this  CLS  COP
+ 存在   主格   老鼠     ...   這   量詞  繫詞
+
+#e His dog is also (falling down), as well as the mouse…, what is this?
+#c 他的狗也(掉下去了)，有老鼠…這個是…
+#a 472.43, None, 479.75
+
+101.
+…(5.2) syazi   tazian  nani  nizi       ta-uRu-an  na  siRmuq    a  ..   sunis   a   zau   nani,_
+ come.to  here  DM  move.from  LOC-head-LOC  GEN  deer  NOM .. child  LNK  this  DM
+ 來到   這裡  DM  從        處格-頭-處格   屬格    鹿     主格 ..  小孩  連詞  這個  DM
+
+#a 479.75, None, 490.06
+
+102.
+..  t<m>ibuq=ti   pasazi   ta==-zan-zanum-an.\
+<AF>fall=PFV  hither   LOC-RED-water-LOC
+<主焦>掉=完成  往這裡  處格-重疊-水-處格
+
+#e At this point (when it comes here), the child has fallen off from the head of the deer into the water.
+#c 到了這邊，小孩從鹿的頭上掉到水裡。
+#a 490.06, None, 492.99
+
+103.
+…(0.8) pasya-ba==baw=ti  ya     zapan-na.\
+ LOC-top=PFV     NOM  foot-3SG.GEN
+ 處格-上面=完成   主格   腳-3SG.屬格
+
+#e His feet are up in the air.
+#c 他的腳在上面。
+#a 492.99, None, 496.53
+
+104.
+wiya=ti     ta     teRaq  na    zanum  a     uRu-na.\
+leave=PFV  LOC  inside  GEN  water  NOM  head-3SG.GEN
+離開=完成  處格  裡面  屬格  水     主格  頭-3SG.屬格
+
+#e His head (plunges) into the water.
+#c 他的頭在水裡面。
+#a 496.53, None, 499.19
+
+105.
+masulun    tu    wasu-na     qaya  ..  t<m>ibuq  ..  nani.\
+AF.together  OBL  dog-3SG.GEN  also ..  <AF>fall  .. DM
+主焦.一起   斜格  狗-3SG.屬格   也  ..  <主焦>掉 ..  DM
+
+#e His dog also falls (into the water) together with (him).
+#c 他的狗也一起掉下去。
+#a 499.19, None, 504.2
+
+106.
+.. syazi     tazian  nani,_
+come.to  here   DM
+來到    這裡   DM
+
+#a 504.2, None, 506.12
+
+107.
+…(0.9) m-zukat=ti   nizi   ta-zan-zanum-an  sunis   a     zau   sRi    wasu-na._
+ AF-exit=PFV  move.from  LOC-RED-water-LOC  child   LNK   this  and  dog-3SG.GEN
+ 主焦-出=完成  從       處格-重疊-水-處格     小孩  連詞     這個  和   狗-3SG.屬格
+
+#e At this point (when it comes here), the child as well as his dog has come out of the water.
+#c 到了這邊，小孩和狗從水裡出來了。
+#a 506.12, None, 511.27
+
+108.
+…(0.8) tu   uzung-an-na=ti    na==  ..  sunis   a    zau   ya  ..  wasu-na   m-zukat   nizi   ta-zan-zanum-an.\
+ DM  shoulder-LF-3SG.GEN=PFV  GEN .. child  LNK  this  NOM .. dog-3SG.GEN  AF-exit  move.from  LOC-RED-water-LOC
+ DM  扛-處焦-3SG.屬格=完成  屬格 .. 小孩   連詞  這個  主格 .. 狗-3SG.屬格  主焦-出   從    處格-重疊-水-處格
+
+#e And then the child comes out of the water, carrying his dog on his back.
+#c 這個小孩背著他的狗，從水裡出來。
+#a 511.27, None, 517.85
+
+109.
+…(10.8) syazi    tazian  nani,\
+ come.to  here   DM
+ 來到    這裡   DM
+
+#a 517.85, None, 530.01
+
+110.
+yau=ti  ta  …  yau     m-nanguy  ya     wasu-na.\
+EXIST=PFV  LOC ... EXIST  AF-swim   NOM  dog-3SG.GEN
+存在=完成   處格 ... 存在   主焦-游泳  主格    狗-3SG.屬格
+
+#e At this point (when it comes here), his dog is in…, is swimming.
+#c 到了這邊，他的狗在游泳。
+#a 530.01, None, 535.12
+
+111.
+…(0.9) yau=ti    ta-kinil-an   na   paRin  ..  ya  sunis  a    zau .. nani.\
+ EXIST=PFV  LOC-side-LOC  GEN  tree ..  NOM  child  LNK  this .. DM
+ 存在=完成   處格-旁邊-處格  屬格  樹 ..  主格   小孩  連詞   這個 ..  DM
+
+#e This child is beside a tree.
+#c 這個小孩在樹的旁邊。
+#a 535.12, None, 542.15
+
+112.
+yau   ngil  Ritunguz  sayza ..  ya     wasu  a    zau  nani,_
+EXIST  want  bark     perhaps .. NOM  dog   LNK  this  DM
+存在  要    吠叫     或許  ..  主格   狗   連詞   這個  DM
+
+#a 542.15, None, 545.3
+
+113.
+…(0.8) <LOW.VOLUMEqalimek-ka  naRin  sikawma ..  naRin  s<m>uniLOW.VOLUME>,\
+ quiet-IMP    NEG  talk    ..    NEG  <AF>utter
+ 安靜-祈使   否定   講    ..    否定   <主焦>說
+
+#n suni ‘voice, sound’; s<m>uni ‘make a sound, utter a voice’發聲
+#a 545.3, None, 549.33
+#n suni ‘voice, sound’; s&lt;m&gt;uni ‘make a sound, utter a voice’發聲
+
+114.
+…(0.7) zin-na na  lazat  na  sunis  a  zau  ya wasu-na           tu.\
+ say-3SG.GEN  GEN  person  GEN  child  LNK	 this  NOM  dog-3SG.GEN   DM
+ 說-3SG.屬格   屬格   人    屬格   小孩  連詞  這個  主格    狗-3SG.屬格    DM
+
+#e Perhaps because the dog is about to bark, the man, the child says to his dog, “Be quiet! Don’t talk! Don’t make any sound.”
+#c 可能狗要叫，小孩就對他的狗說，安靜!不要說話，不要出聲。
+#a 549.33, None, 553.09
+
+115.
+..  m-limek=ti     ya     wasu-na.\
+AF-quiet=PFV  NOM  dog-3SG.GEN
+主焦-安靜=完成 主格   狗-3SG.屬格
+
+#e So his dog keeps quiet.
+#c 他的狗安靜了。
+#a 553.09, None, 555.68
+
+116.
+…(0.9) tu    syazi    tazian   nani,_
+ DM  come.to  here     DM
+ DM  來到     這邊   DM
+
+#a 555.68, None, 558.19
+
+117.
+…(0.7) m-zaqis=ti      tu    paRin.\
+ AF-climb=PFV  OBL  tree
+ 主焦-爬=完成   斜格  樹
+
+#e At this point (when it comes here), (they are) climbing the tree.
+#c 到了這邊，(他們)爬樹。
+#a 558.19, None, 560.45
+
+118.
+…(0.9) ta    babaw  na   paRin   ya     sunis   a    zau  sRi  wasu  ‘nay.\
+ LOC  top    GEN  tree    NOM  child   LNK  this and  dog  that
+ 處格  上面   屬格  樹    主格   小孩   連詞  這個 和  狗   那個
+
+#e This child and that dog are on top of the tree.
+#c 這個小孩和那隻狗在樹上。
+#a 560.45, None, 565.43
+
+119.
+…(7.6) mautu=ti  pasazi   nani,\
+ AF.come=PFV  hither  DM
+ 主焦.來=完成  往這裡  DM
+
+#a 565.43, None, 574.58
+
+120.
+…  yau     ta   babaw  na   paRin .. sunis   a   yau   atu  wasu    a   yau   nani,\
+ EXIST  LOC  top    GEN  tree ..  child   LNK  that  and  dog LNK  that  DM
+ 存在   處格  上面  屬格  樹  ..  小孩   連詞  那個  和  狗    連詞   那個  DM
+
+#a 574.58, None, 579.92
+
+121.
+…  tayta-an-na=ti    ya     biyat-na._
+ see-LF-3PL.GEN=PFV  NOM  frog-3PL.GEN
+ 看-處焦-3PL.屬格=完成  主格  青蛙-3PL.屬格
+
+#e At this point (when it comes here), when that child and that dog are on top of the tree, they see their frog.
+#c 到了這邊，小孩和狗在樹上，他們看到他們的青蛙。
+#a 579.92, None, 582.34
+
+122.
+..  ou   yau     a       biat-ta   tazian,_
+INT  EXIST  NOM  frog-1IPL.GEN  here
+感嘆 存在    主格  青蛙-1IPL.屬格  這裡
+
+#a 582.34, None, 585.8
+
+123.
+..  zin-na=ti   sayza    na    sunis   a    zau   atu==  wasu  a   zau   nani._
+think-3PL.GEN=PFV  perhaps  GEN  child  LNK  this  and   dog LNK  this  DM
+想-3PL.屬格=完成    或許    屬格   小孩  連詞  這個  和   狗  連詞  這個  DM
+
+#e “Oh, our frog is here,” the child and the dog perhaps think so.
+#c “喔，我們的青蛙在這裡”，小孩和狗可能這樣想。
+#a 585.8, None, 590.06
+
+124.
+..  m-lizaq=ti.\
+AF-happy=PFV
+主焦-高興=完成
+
+#e (They) feel happy.
+#c (他們)很高興。
+#a 590.06, None, 591.6
+
+125.
+…(1.7) syazi    tazian   ta ..   ta-usiq-an  paRin  nani,\
+ come.to  here    LOC .. LOC-one-LOC  tree   DM
+ 來到    這裡    處格 .. 處格-一-處格    樹     DM
+
+#a 591.6, None, 597.64
+
+126.
+…(0.8) yau=ti       ya     biat   a     yau,\
+ EXIST=PFV  NOM  frog   LNK  that
+ 存在=完成    主格  青蛙   連詞  那個
+
+#a 597.64, None, 599.89
+
+127.
+…(0.8) qena-lizaq    na    sunis   a    yau  sayza    nani._
+ NMZ-happy	  GEN  child  LNK  that  perhaps  DM
+ 名物化-高興  屬格  小孩  連詞  那個  或許  DM
+
+#e At this point (when it comes here) on one tree, the frogs show up, and that’s perhaps (why) that child felt happy.
+#c 到了這邊，在一棵樹上，青蛙出現了，小孩或許覺得很高興。
+#a 599.89, None, 602.77
+
+128.
+..  m-li==zaq=ti  wasu  a  yau  sRi  sunis  a   yau tazian ‘u.\
+AF-happy=PFV  dog  LNK  that	 and  child  LNK that here  INT
+主焦-高興=完成  狗  連詞  那個 和  小孩  連詞 那個 這裡  感嘆
+
+#e The dog and the child is very happy right here.
+#c 小孩和狗在這邊很高興。
+#a 602.77, None, 607.4
+
+129.
+…(10.3) syazi    tazian   nani,_
+ come.to  here    DM
+ 來到    這裡   DM
+
+#a 607.4, None, 619.23
+
+130.
+…(0.8) yau    a       sunis   a     yau,\
+ EXIST  NOM   child   LNK  that
+ 存在   主格    小孩   連詞  那個
+
+#a 619.23, None, 621.92
+
+131.
+…(0.8) maRaw=ti   tu    biat  a     yau  ta==  babaw na  paRin.\
+ AF.look.afar=PFV  OBL  frog  LNK  that  LOC  top   GEN  tree
+ 主焦.望=完成    斜格  青蛙  連詞   那個  處格 上面 屬格  樹
+
+#e At this point (when it comes here), that child is looking afar at those frogs on the tree.
+#c 到了這邊，小孩望著在樹上的青蛙。
+#n maRaw-an-na=iku ni abas: Abas望著我 Abas looked at me.
+#n qaRaw-an-ku ti-abas: 我幫Abas抓癢 I scratched Abas' itch.
+#n q<em>aRaw=iku ti-abas-an: 我幫Abas抓癢 I scratched Abas' itch.
+#a 621.92, None, 626.15
+
+132.
+ya==u   ta     babaw  na    paRin  ya ..  biat  a    yau  nani._
+EXIST  LOC  top     GEN  tree   NOM ..  frog  LNK  that  DM
+存在   處個  上面    屬格  樹    主格 .. 青蛙 連詞  那個  DM
+
+#e There are frogs on the tree.
+#c 樹上有青蛙。
+#a 626.15, None, 630.15
+
+133.
+yau  q<m>uRi==Riz      a     sunis   a    zau   ta-ma-manay-an  ..  sRi    wasu-na.\
+EXIST  <AF>sit.directly.on.the.ground  NOM  child   LNK  this  LOC-RED-earth-LOC .. and  dog-3SG.GEN
+存在   <主焦>坐在地上            主格  小孩   連詞  這個       處格-重疊-地上-處格 ..  和  狗-3SG.屬格
+
+#e This child is sitting directly on the ground, along with his dog.
+#c 這個小孩坐在地上。
+#a 630.15, None, 634.83
+
+134.
+…(0.8) tu   yau=ti==   ‘e==   q<m>uni   zin-ta         snazau  smani.\
+ DM  EXIST=PFV   FIL   <AF>how  say-1IPL.GEN  this.way  I.wonder
+ DM  存在=完成    FIL   <主焦>如何  說-1IPL.屬格  這樣      不知道
+
+#e And then there are…, well, we don’t know how to put this.
+#c 有…ㄜ..我不知道我們怎麼說。
+#n “q<m>uni smani”搭配詞，表示講者對所說的話的真假不是很確定。
+“q<m>uni smani” is a frequent collocation, which roughly expresses the uncertainty a speaker holds towards his or her utterances. 
+#n ninu zin-ku sikawma smani: 我不知道說的是什麼 I don't know what is being said.
+#n ninu zin-su smani zin-ku: 我不知道你說什麼 I don't know what you are saying.
+#a 634.83, None, 641.63
+
+135.
+…(1.5) yau    m-lizaq=ti      sayza    ya     sunis   a    zau  t<m>ayta   tu ..  biat  a  yau  nani.\
+ EXIST  AF-happy=PFV  perhaps  NOM  child  LNK  this <AF>see  OBL .. frog  LNK  that  DM
+ 存在   主焦-高興=完成  或許   主格   小孩   連詞  這個     <主焦>看  斜格 .. 青蛙  連詞  那個  DM
+
+#e Seeing those frogs, this child perhaps feels happy.
+#c 看到這些青蛙，小孩很高興。
+#a 641.63, None, 648.53
+
+136.
+… pasya-ba==baw=ti  lima-na   azu=ti      p<m>iqpiq  tu  lima sayza.\
+ LOC-top=PFV     hand-3SG.GEN  like=PFV  <AF>applaud     OBL hand perhaps
+ 處格-上面=完成   手-3SG.屬格   像=完成    <主焦>鼓掌       斜格  手  或許
+
+#e His hands are up in the air, like (he’s) clapping his hands maybe.
+#c 他的手舉起來，可能好像在拍手。
+#n piqpiq-an-na sunis-na: 用手掌打孩子 slap the child
+#n patepiq: 一巴掌 slap
+#a 648.53, None, 653.72
+
+137.
+.. qena-lizaq-an     tu  p<n>akala-an-na  tu    biyat  a  yau.\
+NMZ-happy-NMZ  COMP  <PFV>find-NMZ-3SG.GEN  OBL  frog  LNK  that
+名物化-高興-名物化  補語詞  <完成>找到-名物化-3SG.屬格  斜格  青蛙  連詞  那個
+
+#e He felt happy that he found out the frog.
+#c 他很高興他找到青蛙了。
+#n pakala-an-ku=ti sudad-ku: 我找到我的書了 I found my book.
+#a 653.72, None, 657.9
+
+138.
+…(1.5) ((VOICEOVER:mai=ti)).\
+ NEG=PFV
+ 否定=完成
+
+#e Is it over?
+#c 沒了嗎?
+#a 657.9, None, 659.84
+
+139.
+mai=ti   haw._
+NEG=PFV   INT
+否定=完成   感嘆
+
+#e It’s over.
+#c 沒了。
+#a 659.84, None, 660.66

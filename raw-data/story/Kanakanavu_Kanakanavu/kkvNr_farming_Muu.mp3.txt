@@ -1,0 +1,1178 @@
+topic: Farming
+type: Narrative
+language: 卡那卡那富語, Kanakanavu, Kanakanavu
+speaker: 翁成, Mu'u Ka'angena, male, 1947-8-9
+collected: 00 :09 :28
+revised: None
+video: kkvNr_farming_Muu.mp3
+
+1.
+...(1.0) sua makasin ia,_
+NOM now TOP
+主格 現在 主題
+
+#a 1.02, None, 3.26
+
+2.
+...(0.8) te=cu=ku una kari po-isua.\
+IRR=COS=1SG.NOM EXIST words speak-that
+非實現=COS=1SG.主格 存在 話 說 那個
+
+#e Now, I have something to say.
+#c 現在,我有話要說。
+#a 3.26, None, 6.67
+
+3.
+...(1.2) ikita,\
+1PL.NOM
+1PL.主格
+
+#a 6.67, None, 8.76
+
+4
+...(0.7) ni-mʉ ni-mʉmʉkʉ=mita miana.\
+FS PFV-plant=1PL.GEN past
+FS 完成-種=1PL.屬格 以前 
+
+#e We planted crops in the past.   
+#c 我們以前種東西。
+#a 8.76, None, 11.48
+
+5.
+...(0.8) mehua ia,_
+At.that.time TOP
+那時候 TOP
+
+#a 11.48, None, 13.05
+
+6.
+...(2.1) m-atirupang=cu.\
+AV-finish=COS 
+主焦-結束=COS
+
+#a 13.05, None, 16.89
+
+7.
+...(1.4) ikita ʉ,\
+1PL.NOM FIL
+1PL.主格 FIL
+
+#a 16.89, None, 20.02
+
+8.
+...(1.8) <L2CtaiuanL2C> isi\
+Taiwan this
+台灣 這個
+
+#a 20.02, None, 22.74
+
+9.
+...(2.6) acei=cu ngʉco lipʉn.\
+go=COS FIL Japan
+走=COS FIL 日本
+
+#e We were in Taiwan. It was finished. Japan had gone.
+#c 我們在台灣,完成了,日本就走了。
+#n matirupang=ci=kita Taiwan isi
+#a 22.74, None, 27.77
+
+10.
+...(1.2) ma-ka-sua cu,\
+AF-do-that
+就這樣
+
+#a 27.77, None, 30.01
+
+11.
+...(2.9) m-osa=ci kia,\
+AF-go there=COS 1SG.NOM
+主焦-去 那邊
+
+#a 30.01, None, 33.7
+
+12.
+...(1.2) na\
+LOC
+處所
+
+#a 33.7, None, 35.51
+
+13.
+...(1.4) rʉmʉra\
+mountain
+山上
+
+#a 35.51, None, 37.33
+
+14
+...(1.0) ma-vici\
+AF-bring 
+主焦-帶
+
+#a 37.33, None, 39.39
+
+15.
+...(1.3) kakamarʉ,\
+sickle
+鐮刀
+
+#a 39.39, None, 41.45
+
+16.
+...(3.9) nʉman,\
+knife
+刀子
+
+#a 41.45, None, 45.83
+
+17.
+...(1.3) pʉrʉcʉng,\
+chop
+斧頭
+
+#a 45.83, None, 47.8
+
+18.
+...(2.1) mata\
+and 
+和
+
+#a 47.8, None, 50.61
+
+19.
+...(4.3) no-no-noman tia avici-n kavang.\ 
+RED-RED-what IRR take-PF all
+重疊-重疊-什麼 非實現 攜帶-PF 都
+
+#e Then, to go to the mountains, we would have to bring sickles, knives, chops etc.
+#c 去山上那邊帶鐮刀帶番刀帶東西,都要帶。
+#a 50.61, None, 57.36
+
+20.
+...(2.7) ma-ka-sua=cu,\
+AF-do-that=COS
+主焦-做-那個=COS
+
+#a 57.36, None, 61.36
+
+21.
+...(1.5) t<um>a-takʉ-takʉ=ci kia\ 
+Cut<AF>-RED=COS 1SG.NOM
+砍<主焦>-重疊=COS 1SG.主格
+
+#a 61.36, None, 64.23
+
+22.
+...(0.7) capuku.\
+miscanthus  
+芒草
+
+#a 64.23, None, 65.58
+
+23.
+...(1.0) tia_
+IRR
+非實現
+
+#a 65.58, None, 66.95
+
+24.
+...(0.8) ka-’umo’uma.\
+do-field 
+製作-田
+
+#e Then, we cut miscanthus to make fields.
+#c 就那樣，我們砍芒草做田。
+#a 66.95, None, 68.7
+
+28.
+...(3.8) nuu ni-namaran=ci ia,_
+If PFV-burn=COS TOP
+如果 完成-燒=COS 主題
+
+#a 77.02, None, 82.58
+
+29
+...(2.3) mosa ci kia\
+AF-go=COS 1SG.NOM
+主焦-去=COS 1SG.主格
+
+#a 82.58, None, 86.0
+
+30
+...(1.2) 'inia\
+there
+那裏
+
+#a 86.0, None, 87.8
+
+31
+...(1.3) ma-vici\
+AF-Bring
+主焦-帶
+
+#a 87.8, None, 89.69
+
+32
+...(1.5) tarimu,\
+hoe
+鋤頭
+
+#a 89.69, None, 92.08
+
+33.
+...(1.2) tuku,\
+Small.hoe
+小鋤頭
+
+#a 92.08, None, 94.14
+
+34.
+... kamarʉ\
+sickle
+鐮刀
+
+#a 94.14, None, 95.49
+
+35.
+...(1.9) mata numan.\
+and knife
+和 番刀
+
+#e After the miscanthus had been burned out, we went there with hoes, sickles, and knives.
+#c 當它們被燒完了以後,我們就去那邊,帶著大小鋤頭、鐮刀和刀子。
+#a 95.49, None, 99.05
+
+36.
+...(5.5) ma-ka-sua=ci ia,_
+AF-do-that=COS TOP
+主焦-做-那樣=COS 主題
+
+#a 99.05, None, 105.61
+
+37.
+...(0.9) sua nguco ra’ʉvʉ=maku ia,_
+NOM FIL wife=1SG.GEN TOP
+主格 FIL 太太=1SG.屬格 主題
+
+#a 105.61, None, 109.79
+
+38.
+...(1.8) mʉmʉkʉ=cu tammi,\
+plant=COS sweet.potato
+種植=COS 地瓜
+
+#a 109.79, None, 113.56
+
+39.
+...(1.2) tanʉkʉ,\
+taro
+芋頭
+
+#a 113.56, None, 115.61
+
+40.
+...(1.7) tʉvʉsʉ,\
+cane
+甘蔗
+
+#a 115.61, None, 118.11
+
+41.
+...(3.7) mata\
+And
+和
+
+#a 118.11, None, 122.48
+
+42.
+...(6.9) tangtang.\
+pumpkin
+南瓜
+
+#e Then, my wife started planting sweet potatoes, taros, sugar canes, and pumpkins.
+#c 就這樣,我的太太呢, 種地瓜、芋頭、甘蔗和南瓜。
+#a 122.48, None, 130.27
+
+43.
+...(3.6) kavang ni-mʉmʉkʉ kavang mehua,\
+all PFV-plant all at.that.time 
+都 完成-種 都 那時
+
+#a 130.27, None, 137.06
+
+44.
+...(2.5) ne-nen vanai=ta ma-ka-sua?\
+RED-what reason=1PL.GEN AF-do-that
+重疊-什麼 理由 1PL.屬格 主焦-做-那個
+
+#a 137.06, None, 142.03
+
+45.
+... mu-mumuku ngʉco sua no-no-noman,\
+RED-plant FIL NOM RED-RED-what
+重疊-種 FIL 主格 重疊-重疊-東西
+
+#a 142.03, None, 145.26
+
+46.
+... manasi ’an kia tia mooravu.\
+therefore NEG 1SG.NOM IRR hungry.AF
+因此 否定 1SG.主格 非實現 餓.主焦
+
+#e Why we planted things this way? It is because we wouldn't get hungry.
+#c 為什麼我們要這樣種東西，因為以後不會餓。
+#a 145.26, None, 148.75
+
+47.
+...(2.2) ma-ka-sua=cu mumuku=cu noo_
+AF-do-that plant=COS if 
+主焦-做-那個=COS 種=COS 如果
+
+#a 148.75, None, 154.31
+
+48.
+...(1.3) acan=ci vuan u-rucin=cu vuan\
+one=COS month two=COS month
+一=COS 月 兩=COS 月
+
+#a 154.31, None, 158.33
+
+49.
+...(0.7) teen=cu kʉnʉ-ʉn.\
+enough=COS eat-PF
+足夠=COS 吃-受焦
+
+
+#e After one to two months, we could eat them.
+#c 種下去過一個月兩個月就可以吃了。
+#n ucan vuan urucin cu vuan 過一個月兩個月
+#a 158.33, None, 160.33
+
+50.
+...(3.6) mesua tammi ia tatia pa ma-ca-casʉ pa.\
+at.that.time sweet.potato TOP big still <RED>-long still
+那時候 地瓜 主題 大 還 重疊-長 還
+
+#e At that time, sweet potatoes will become big and long.
+#c 那時候地瓜會很大很長。
+#a 160.33, None, 167.64
+
+51.
+...(1.4) ma-manʉng pa akia tʉnua.\
+RED-good still NEG.EXIST worm
+好 還 否定.沒有 蟲蟲
+
+#e At that time， sweet potatoes were well-planted. There were no worms.
+#c 那時候地瓜還很好，沒有蟲蟲。
+#a 167.64, None, 171.22
+
+52.
+mesua ia vo’ura pa ’ʉnai.\
+at.that.time TOP new still field 
+那時候 主題 新 還 田
+
+#e At that time, fields were still new.
+#c 那時候田還新的。
+#a 171.22, None, 176.56
+
+53.
+...(3.2) noo akeen ngʉco ʉ_
+If NEG.EXIST FIL FIL
+如果 否定.存在 FIL FIL
+
+#a 176.56, None, 182.89
+
+54.
+...(3.5) sua akeen tia kʉn-a manu ia_
+NOM NEG.EXIST IRR eat-REL children TOP
+主格 否定.存在 非實現 吃-關係詞 小孩 主題
+
+#a 182.89, None, 189.29
+
+55.
+...(1.0) 'una seritung una navatʉ.\
+EXIST papaya EXIST guava 
+存在 木瓜 存在 芭樂
+
+#a 189.29, None, 193.34
+
+56.
+...(1.7) una tʉvʉsʉ\
+EXIST cane
+存在 甘蔗
+
+#e If kids had nothing to eat, thankfully there were papayas, guavas, and sugarcane.
+#c 如果小朋友沒有吃東西的時候，還好有木瓜、芭樂，和甘蔗。
+#a 193.34, None, 195.95
+
+57.
+...(2.6) maa-can-cangarʉ ma-manu noo\
+<RED>-Happy RED-kids if
+重疊-開心 重疊-孩子 若
+
+#a 195.95, None, 201.17
+
+58.
+...(1.1) ivatu=ci ma-ma-ru-rang mua-tanasʉ\
+come=COS <RED>-elders go-house
+來=COS <重疊>-長輩 去-家屋
+
+#a 201.17, None, 204.42
+
+59.
+...(1.6) ni-ma-vici navatʉ, tʉvʉsʉ_
+PFV-AF-bring guava sugarcane
+完成-主焦-攜帶 芭樂 甘蔗
+
+#a 204.42, None, 209.76
+
+60.
+...(3.3) siaritung.\  
+papaya
+木瓜
+
+#e Parents went home with guava, sugarcane, and papayas. That made kids very happy.
+#c 父母回家的時候帶了芭樂，甘蔗，木瓜，小孩子都很開心快樂。
+#n marangʉ / maraang 老人、長輩、父母
+#a 209.76, None, 213.77
+
+61.
+...(2.5) ma-ka-sua=cu.\
+AF-do-that=COS
+主焦-做-那個=COS
+
+#a 213.77, None, 217.49
+
+62.
+...(0.9) po’ocipi-n ngʉco\ 
+cook-PF FIL
+煮-受焦 FIL
+
+#a 217.49, None, 219.76
+
+63.
+...(0.7) rʉ’ʉvʉ=maku_ 
+spouse=1SG.GEN
+配偶=1SG.屬格
+
+#a 219.76, None, 221.38
+
+64.
+...(0.9) tammi\ 
+sweet.potat
+地瓜
+
+#a 221.38, None, 222.88
+
+65.
+...(1.0) mata tanʉkʉ.\
+and taro
+和 芋頭
+
+#e My wife cooked sweet potatoes and taros.
+#c 就那樣，我的太太煮地瓜和芋頭。
+#a 222.88, None, 225.39
+
+66.
+...(3.1) noo ma-curu=ci ia,_
+if AF-cooked=COS TOP
+如果 主焦-煮熟=COS 主題
+
+#n 透過煮過而熟的: macuru, 果實熟成: mavangʉ/mavang
+#a 225.39, None, 230.47
+#n 透過煮過而熟的: macuru, 果實熟成: mavangʉ/mavang
+
+67.
+...(7.4) arica-an=ci=kee na_
+scoop.up-LF=COS=3SG.GEN FS
+撈-處焦=COS=3SG.屬格 FS
+
+#n arican-ʉʉn 由..撈
+#n root: ricanʉ, ma-ricanʉ AF-撈
+#a 230.47, None, 239.54
+#n arican-ʉʉn 由..撈
+#n root: ricanʉ, ma-ricanʉ AF-撈
+
+68.
+...(1.7) na_
+LOC
+LOC
+
+#a 239.54, None, 241.94
+
+69.
+...(4.6) toomarʉ.\
+bamboo.scoop
+畚箕
+
+#a 241.94, None, 246.55
+
+70.
+...(2.0) masii maraa mara ma-taturicang.\
+make more FS AF-cooled
+使 比較 FS 主焦-涼了
+
+#e When they were well-cooked, she scooped up and put them on a scoop to cool them.
+#c 她撈起(地瓜)放在簸箕裡，使比較涼。
+#n makuung; makungu 冷
+#n masii 講; 使役
+#n mara 帶 vs. maraa 比較
+#a 246.55, None, 251.72
+
+71.
+...(1.8) nuu matarang ma-taturicang=ci ia,_
+if FS AF-cooled=COS TOP
+如果 FS 主焦-涼=COS 主題
+
+#a 251.72, None, 255.99
+
+72.
+...(1.0) m-on=ci nia\
+AF-stay=COS there
+主焦-在=COS 那裡
+
+#a 255.99, None, 258.02
+
+73.
+...(1.4) ma-marurang xx
+RED-old xx
+重疊-老 xx
+
+#a 258.02, None, 262.67
+
+74.
+...(1.0) apa-kʉn\
+CAU-eat
+使役-吃
+
+#a 262.67, None, 264.67
+
+75.
+...(1.0) maman mamanu=in.\
+FS RED-kid=3SG.GEN
+FS 重疊-小孩=3SG.屬格
+
+#e After the food were cooled, the parent fed her kids.
+#c 當涼了以後，餵養她的小孩。
+#a 264.67, None, 267.26
+
+76.
+...(3.9) mehua ia,_
+at.that.time TOP
+當時 主題
+
+#n mehua= mesua
+#a 267.26, None, 272.05
+#n mehua= mesua
+
+77.
+...(1.5) cucuru mia-rinasʉ=kia.\
+really AF-hard=1SG.NOM
+真的 主焦-困苦=1SG.主格
+
+#a 272.05, None, 275.45
+
+78.
+...(2.1) akia nupasʉ.\
+NEG.EXIST money
+否定.存在 錢
+
+#a 275.45, None, 279.05
+
+79.
+...(3.9) suai mehua ia,_
+FS at.that.time TOP
+FS 當時 主題
+
+#e At that time, my life was really hard. I didn't have much money.
+#c 那時，我非常困苦，沒有錢財。
+#n rinasʉ 困苦
+#a 279.05, None, 284.47
+
+80.
+
+...(1.3) nakai\
+but
+但是
+
+#a 284.47, None, 286.79
+
+81.
+...(1.3) tamu’iarʉ mamarurang um-ʉʉmʉkʉ\
+diligent RED-elders AF-plant
+勤勞 重疊-老人 主焦-種植
+
+#n mumʉkʉ種植
+#a 286.79, None, 290.55
+#n mumʉkʉ種植
+
+82.
+... sua ngʉco ta\.
+NOM FIL IRR
+主格 FIL 非實現
+
+#a 290.55, None, 292.06
+
+83.	
+...(1.2) kʉn-a ma-manu ia kan ta me-rinasʉ_
+eat-REL RED-kid TOP NEG IRR AF-hard
+吃-關係詞 重疊-小孩 主題 否定 主焦-辛苦
+
+#a 292.06, None, 296.34
+
+84.
+... ma-man=mita.\
+RED-kid=1PL.GEN
+重疊-小孩=1PL.屬格
+
+#e But if parents worked diligently to care their children, children would not have hard lives.
+#c 但是若長輩(父母親)很勤勞地的種植，要給小孩吃的話，我們的小孩就不會困苦了
+#n ta= tia
+#a 296.34, None, 298.93
+
+85.
+...(3.3) ma-ka-sua=cu.\
+AF-do-that=COS
+主焦-做-那樣=COS
+
+#a 298.93, None, 303.44
+
+86.
+...(5.3) una=cu arane na\ 
+EXIST=COS from LOC 
+存在=COS 從 處所
+
+#a 303.44, None, 311.8
+
+87.
+...(2.4) cau karanana\
+people different
+人 不同
+
+#a 311.8, None, 315.2
+
+88.
+...(2.2) ni-m-avici 
+PFV-AF-bring
+完成-主焦-攜帶
+
+#a 315.2, None, 318.43
+
+89.
+...(2.0) pusiam\
+rice
+稻米
+
+#e Then, some people outside world brought rice in.
+#c 就那樣，有了從外地來的人攜帶了稻米。
+#n 不同的人(卡族以外的)
+#a 318.43, None, 321.07
+
+90.
+...(3.2) sua pusiam ihua ia,_
+NOM rice that TOP
+主格 稻米 那個 主題
+
+#a 321.07, None, 325.9
+
+91.
+...(5.2) tavarʉ’-ʉn k<um>akare na\
+can-PF <AF>-plant LOC
+可以-受焦 種植 處所
+
+#a 325.9, None, 332.88
+
+92.
+...(0.7) kari-upupang na ’ʉne.\
+plant-at.will.AF LOC soil
+種-隨便.主焦 處所 土壤
+
+#e Rice could be planted in dry land.
+#c 這個稻米可以種植在旱地
+#n ’ʉne= ’ʉnai 土壤
+#n 隨意種在土壤也可以長 / 旱地
+#n kumakarai 耙梳.種植
+#a 332.88, None, 335.51
+
+93.
+...(0.9) tavarʉ-’ʉn c<um>ancu.\
+can-PF <AF>- transplant.rice.seedlings
+可以-受焦 主焦-插秧
+
+#e Rice seedlings can be transplanted.
+#c (稻子)可以被插秧。
+#n cancu 秧苗
+#a 335.51, None, 337.89
+
+94.
+...(4.0) arane=cu mehua_
+from=COS at.that.time
+從=COS 那時候
+
+#a 337.89, None, 343.09
+
+95.
+...(3.5) ʉ_
+FIL
+FIL
+
+#a 343.09, None, 347.13
+
+96.
+...(1.5) k<um>akare pusiam.\
+<AF>-plant rice
+<主焦>-種植 稻米
+
+#a 347.13, None, 350.17
+
+97.
+...(0.9) nakai，\
+But
+但是
+
+#a 350.17, None, 351.62
+
+98.
+...(0.9) aka miana itumuru tapuroo.\ 
+bad past much sparrow
+不好 以前 很多 麻雀
+ 
+#e Since then, we planted rice on dry lands. However, it was bad that there were a lot of sparrows.
+#c 從那個時候開始，在旱地種稻米，但是以前很麻煩，有很多麻雀。
+#a 351.62, None, 355.61
+
+99.
+...(3.5) nukai iname ia,_
+But drive.away.bird TOP
+但是 驅趕 主題
+
+#a 355.61, None, 360.79
+
+100.
+.. tia ko-vangvang-ʉn ma\
+IRR eat-all-PF only 
+非實現 吃-全部-受焦 只有
+
+#a 360.79, None, 362.2
+
+101.
+.. tapuroo sua ngʉco pusiam.\
+sparrow NOM FIL rice
+麻雀 主格 FIL 稻米
+
+#e If we did not drive them away, all the rice would be eaten out.
+#c 若不驅趕過鳥，稻米就只有被麻雀吃光光。
+#n minana 驅趕鳥; Tarʉtarʉ 趕鳥器; sia-tarʉtarʉ 樂器; kʉvʉ 用線拉會晃動搖動的趕鳥器
+#a 362.2, None, 364.45
+
+102.
+...(3.4) m-on=cu nia.\
+AF-be.at=COS there
+主焦-在=COS 那裡
+
+#a 364.45, None, 369.01
+
+103.
+...(0.9) ma-ma-ru-rang minʉna\
+RED-elders drive.away.bird
+重疊-老人家 驅趕鳥
+
+#a 369.01, None, 372.16
+
+104
+...(1.8) makasi na\
+until LOC
+直到 處所
+
+#a 372.16, None, 375.39
+
+105.
+...(4.2) noo ara-tanavikarʉ=ci a pusiam.\
+If become-yellow=COS FIL rice
+如果 變-黃色=COS FIL 稻米
+
+#e The elders drove birds away there until the color of the fields turned yellow.
+#c 老人家在那邊驅趕鳥，一直到稻田變成黃色的時候。
+#a 375.39, None, 383.09
+
+106.
+...(3.0) noo tani tani tanavikarʉ=ci pusiam ia_
+If FS FS yellow=COS rice TOP
+如果 FS FS 黃色=COS 稻米 主題
+
+#a 383.09, None, 391.31
+
+107.
+...(2.5) ʉ te=cu p-ari-pusiam-ʉn.\
+FIL IRR=COS CAU-take-rice-PF
+FIL 非實現=COS 使役-拿-稻米-受焦
+
+#e When the color of the fields turned yellow, it's time to harvest the rice.
+#c 當稻田變成黃色的時候， 要去使(稻米)被收割。
+#n mari-pusiam 收割稻米; apa-ri-pusaim-ʉn Pani  ‘Pani使人去收割’
+#a 391.31, None, 397.48
+
+108.
+...(1.6) nakai p-ari-pusiam-ʉn,_
+but CAU-take-rice-PF
+但是 使役-拿-稻米-受焦
+
+#a 397.48, None, 403.4
+
+109.
+...(1.2) akia ta ngʉco tia ta-sʉ’-a nia.\
+NEG.EXIST IRR FIL IRR TA-place-A there
+否定.存在 非實現 FIL 非實現 TA-放置-A 那裏
+
+#e However, having harvested them, we did not have the places to store.
+#c 但是，收割稻米之後，卻沒有存放它們的場所。
+#n tia＝ta
+#n musʉ’ ʉ 存放
+#a 403.4, None, 407.54
+
+110.
+...(3.2) tavarʉ’ ʉ pa-cʉpʉ-cʉpʉng ma-ma-ru-rang a te ta pakʉnnanʉn.\
+can CAU-RED-heart <RED>-elders FIL IRR FS how.to.do
+會 使役-重疊-新 重疊-老人家 FIL 非實現 FS 如何做
+
+#a 407.54, None, 414.92
+
+111.
+.. una pusiam akia a ta-sʉ-’a nia ta\
+EXIST rice NEG.EXIST FIL TA-place-A there FS
+存在 稻米 否定.存在 FIL TA-存放-A 那裏 FS
+  
+#e Despite having no place to store the rice, elders would make a way out.
+#c 有稻米，卻沒有存放它們的場所。老人家會去想要怎麼辦。
+#a 414.92, None, 419.17
+
+112.
+...(1.7) tia pakʉnnanʉn ngʉco um-iriki ngʉco pusiam\
+IRR how.to.do FIL AF.hug FIL rice
+非實現 如何 FIL 主焦.擁抱 FIL 稻米
+
+#a 419.17, None, 425.73
+
+113.
+...(2.0) sua ma-ma-ru-rang miana ia tavarʉ’-ʉn.\
+NOM RED-elders past TOP know-PF
+主格 重疊-老人家 過去 主題 知道
+
+#e elders in the past knew how to gather the rice.
+#c 要怎樣把稻米收堆起來，以前的老人家是知道的。
+#n umuriki擁抱; mariki 抱; umarivi 抱嬰兒; uma’atʉpʉ 擁抱
+#a 425.73, None, 430.85
+
+114.
+...(1.7) una ngʉco ni-arʉr-a\
+EXIST FIL PFV-saw-REL
+存在 FIL 完成-鋸
+
+#a 430.85, None, 434.15
+
+115.
+...(1.7) kamanʉng=kee satu’u\
+make=3SG.GEN.AF wooden.box
+做=3SG.屬格.主焦 木箱
+
+#a 434.15, None, 437.41
+
+116.
+...(3.4) kamanʉng=kee satu’u kamanʉng=kee ngʉco tarʉ.\
+make=3SG.GEN.AF wooden.box make=3SG.GEN.AF FIL bed
+製做=3SG.屬格.主焦 木箱 製做=3SG.屬格.主焦 FIL 床
+
+#e There were what have been sawed. They used those (sawed woods) to make wooden boxes and beds.
+#c 那裏有被鋸過的(木材)，他們用以製成木箱，製作成床。
+#n marʉrʉ鋸
+#n tarʉ 的r為顫音
+   ta-tarʉ 床鋪
+#a 437.41, None, 445.25
+
+117. 
+... mo-ca nia marivuraʉ marivuraʉ.\
+AF-go there FS hit
+過去 那裏 FS 打
+
+#a 445.25, None, 448.24
+
+118.
+...(1.5) sua ngʉco\
+NOM FIL
+主格 FIL
+
+#a 448.24, None, 450.64
+
+119.
+...(1.5) pusiam ia_
+rice TOP
+稻米 TOP
+
+#a 450.64, None, 453.06
+
+120.
+mata-pari-pari’i na satu’u
+MATA-RED-fall LOC box
+MATA-重疊-掉落 處所 木箱
+
+#a 453.06, None, 456.33
+
+121.
+...(1.8) ma-ka-sua=cu.\
+AF-do-that=COS
+主焦-做-那個=COS
+
+#a 456.33, None, 459.43
+
+122.
+...(4.9) turupang=ci ngʉco mari-pusiam ia_
+Finish=COS FIL take-rice TOP
+完成=COS FIL 拿-稻米 主題
+
+#a 459.43, None, 466.33
+
+123.
+...(2.4) mo avici-n=cu na_
+FS take-PF=COS LOC  
+FS 帶-受焦=COS 處所
+
+#a 466.33, None, 470.58
+
+124.
+...(1.5) ta-pining-a_ 
+TA-outside-A
+TA-外面-A
+
+#a 470.58, None, 472.84
+
+125.
+...(5.3) pari.\
+expose
+曝曬
+
+#e Then, after reaping the rice, we dried them in the yard.
+#c 就那樣，稻米收割完之後，就帶著(稻米)到廣場曝曬。
+#a 472.84, None, 478.79
+
+126.
+...(2.1) nuu pari-n=ci ia,_
+If expose-PF=COS TOP
+如果 曝曬-受焦=COS 主題
+
+#a 478.79, None, 483.07
+
+127.
+... nuu maringunaa=ci ia,_
+if dry=COS TOP
+如果 乾=COS 主題
+
+#a 483.07, None, 484.86
+
+128.
+...(2.7) m m una ngʉco_
+FIL FIL EXIST FIL
+FIL FIL 存在 FIL
+
+#a 484.86, None, 489.37
+
+129.
+...(0.6) pangi una ngʉco\
+pestle EXIST FIL
+杵 存在 FIL
+
+#a 489.37, None, 491.81
+
+130.
+... tarʉkʉra\
+mortar
+臼
+
+#a 491.81, None, 493.21
+
+131.
+...(0.8) m-on=cu nia,\ 
+AF-be.at=COS there
+主焦-在=COS 那裏
+
+#a 493.21, None, 494.77
+
+132.
+...(0.4) mioru,_
+pound
+舂搗
+
+#a 494.77, None, 495.96
+
+133.
+...(1.8) nukai tassa ia taturu.\
+or two TOP three
+或者 兩個 主題 三個
+ 
+#e After drying them, there were pestle and mortar. Two or three people would pound the rice there.
+#c 在曝曬過之後，那邊有杵和臼，兩位到三位會在那邊舂搗。
+#a 495.96, None, 499.31
+
+134.
+...(1.4) ioru-un=cu=kee,\
+pound-PF=COS=3SG.GEN
+舂搗-受焦=COS=3SG.屬格
+
+#a 499.31, None, 502.32
+
+135.
+...(0.7) makasi na akia\
+until LOC NEG.EXIST
+直到 處所 否定.存在
+
+#a 502.32, None, 504.17
+
+136.
+...(2.5) tʉʉ.\
+rice.husk
+稻殼
+
+
+#e They would pound until husks disappeared.
+#c 他們會舂稻穀直到沒有稻殼。
+#n tʉʉ ＝ tʉ’ʉ
+#a 504.17, None, 507.11
+
+137.
+...(2.6) nuu ma-ka-sua=ci ia,_
+If AF-do-that=COS TOP
+如果 主焦-做-那樣=COS 主題
+
+#a 507.11, None, 510.85
+
+138.
+...(1.7) pa-ta-koru-un=cu vura ihua,\
+CAU-TA-scoop-PF=COS rice that
+使役-TA-撈-受焦=COS 米 那個
+
+#a 510.85, None, 515.29
+
+139.
+...(6.6) umʉsʉ’ʉ na\
+place LOC
+放置 處所
+
+#a 515.29, None, 523.07
+
+140.
+...(1.0) ’uia._
+Iron container
+鐵製容器
+
+#e After that, rice will be scooped out and placed in iron containers.  
+#c 那樣之後，就把那個米撈出來，放在鐵製的容器。
+#n koru 挖
+#a 523.07, None, 524.66
+
+141.
+...(1.1) siminsi-n,\
+wash-PF
+洗-受焦
+
+#a 524.66, None, 526.74
+
+142.
+...(1.6) po’ocipi.\
+cook
+煮
+
+#e the rice will be washed and cooked.
+#c 會被拿去沖洗和蒸煮。
+#n s<um>asinsin 洗
+#a 526.74, None, 528.95
+
+143.
+...(3.8) nuu macuru ci ia,_
+if well-cooked=COS TOP
+當 煮熟=COS 主題
+
+#a 528.95, None, 533.96
+
+144.
+...(3.4) akia camai.\
+NEG.EXIST cuisine
+否定.存在 菜餚
+
+#e The rice was cooked, but there was no dish.
+#c 當煮熟之後，沒有菜餚。
+#n mavang 水果熟成; macuru食物透過炊煮煮熟
+#a 533.96, None, 538.22
+
+145.
+...(0.7) nakai,\
+But
+但是
+
+#a 538.22, None, 539.6
+
+146.
+...(0.8) sua ma-ma-ru-rang miana ia,_
+NOM MA-<RED>-<RED>-elders past TOP 
+主格 MA-<重疊>-<重疊>-老人家 以前 主題
+
+#a 539.6, None, 541.99
+
+147.
+...(1.2) tavarʉ’ʉ\
+know
+知道
+
+#a 541.99, None, 543.76
+
+148.
+...(0.7) una kunamʉ_
+EXIST moss
+存在 川苔
+
+#a 543.76, None, 545.57
+
+149.
+...(0.9) una apasʉ,_
+EXIST crab
+存在 螃蟹
+
+#a 545.57, None, 547.48
+
+150.
+... una arasakai.\
+EXIST shrimp
+存在 蝦子 
+
+#e Elders in the past knew there were moss, crabs and shrimps.
+#c 以前的老人家知道有川苔、螃蟹、蝦子。
+#a 547.48, None, 549.0
+
+151.
+...(2.8) ihua ia _
+that TOP
+那個 主題
+
+#a 549.0, None, 552.5
+
+152.
+...(1.3) camai miana ngʉco ihua ngʉco \
+cuisine past FIL that FIL
+菜餚 以前 FIL 那個 FIL
+
+#a 552.5, None, 557.01
+
+153.
+... sua \
+FS 
+FS
+
+#a 557.01, None, 558.31
+
+154.
+.. tia sia-kʉn ngʉco uru.\
+IRR IF-eat FIL rice
+IRR 工焦-吃 米
+
+#e These moss, crabs, and shrimps would be taken to be garnishes.
+#c 這些川苔螃蟹蝦子就用來配飯。
+#a 558.31, None, 563.03

@@ -1,0 +1,1037 @@
+topic: pear
+type: Narrative
+language: 賽德克語, Seediq, Tgdaya
+speaker: 曾瑞琳, Temi Nawi, female, 1939-07-21
+collected: None
+revised: 2017-9-21
+video: sdqNr-pear_temi.mp3
+
+1.
+ah==   prengo=ku         kari a==, 
+FIL    AF.tell=1SG.NOM   speech FIL
+FIL    主焦.說=1SG.主格    話語 FIL
+
+#a 0.79, None, 2.73
+
+2.
+...(0.9) oda==, 
+pass
+經過
+
+#a 2.73, None, 4.41
+
+3.
+...(0.7) nda-an== kes-un <L2JnasiL2J>.\
+pass-LF say-PF pear
+經過-處焦 說-受焦 梨子
+
+#e I am going to tell a story about pears.
+#c 我要說一個跟梨子有關的故事。
+#a 4.41, None, 7.34
+
+4.
+...(0.8) ah== niq-an kingan rudan,\
+FIL be.at-LF one elderly
+FIL 在-處焦 一 長者
+
+#a 7.34, None, 9.81
+
+5.
+...(0.9) ah== m-eepah a neepah=na m-huma <L2JnasiL2J>.\
+FIL AF-work FIL field=3SG.GEN AF-plant pear
+FIL主焦-工作 FIL 旱田-=3SG.屬格 主焦-種植 梨子
+
+#e There is an old man working in the field, planting pears.
+#c 有一位老人在旱田工作，（就是）種梨子。
+#a 9.81, None, 14.32
+
+6.
+...(1.1) ma== paru== <L2JnasiL2J>=na di,\
+then AF.big pear=3SG.GEN PFV.PART
+然後 主焦.大 梨子=3SG.屬格 完成.語助詞
+
+#a 14.32, None, 17.34
+
+7.
+.. m-usa l<m>amu <L2JnasiL2J> rudan kiya.\
+   AF-go <AF>pick pear elderly that
+   主焦-去 <主焦>採 梨子 長者 那個
+
+#e When pears grow big, that old man goes to pick them up.
+#c 梨子長大時，老人就去摘。
+#n nasi (日文借字；梨子)
+#a 17.34, None, 19.26
+
+8.
+...(0.8) m-usa m-dakin niq-an kingan m-adis hako.\
+AF-go AF-climb.up be.at-LF one AF-carry ladder
+主焦-去 主焦-爬上去 在-處焦 一個 主焦-帶 梯子
+
+#a 19.26, None, 22.3
+
+9.
+.. ma m-dakin ni-- ah== lmiqu.\
+then AF-climb.up FS FIL mountain
+然後 主焦-爬上去 FS FIL山
+
+#a 22.3, None, 24.78
+
+10.
+... ah m-usa ngal-un=na ka,_
+FIL AF-go take-PF=3SG.GEN NOM
+FIL 主焦-去 拿-受焦=3SG.屬格 主格
+
+#a 24.78, None, 26.75
+
+11.
+... ngal-un=na ka <L2JnasiL2J>.\
+take-PF=3SG.GEN NOM pear
+拿-受焦=3SG.GEN 主格 梨子
+
+#a 26.75, None, 28.47
+
+12.
+.. psa-un=na berah=na hiya.\
+put-PF=3SG.GEN front=3SG.GEN there
+放-LF=3SG.屬格 前面=3SG.屬格 那裡
+
+#e He goes to climb... there is a ladder that he brought there. Then, he climbs up the mountain to get pears and put them on the front.
+#c 他去爬... 他有拿梯子，然後他爬山去拿梨子，放在胸前那裡。
+#n what the narrator mentioned should be tree, not mountain. 說話者指的應該是樹不是山。
+#a 28.47, None, 29.72
+
+13.
+...(1.1) ma== ciida rudan kii.\
+then at.that.time elderly that
+然後 當時 長者 那個
+
+#a 29.72, None, 32.74
+
+14.
+.. teru ah== rawa=na.\
+three FIL basket=3SG.GEN
+三 FIL籃子=3SG.屬格
+
+#a 32.74, None, 34.68
+
+15.
+...(0.9) teru rawa n-adis=na psa-un=na==, 
+three basket PF.PFV-carry=3SG.GEN put-PF=3SG.GEN
+三 籃子 受焦.完成-帶=3SG.屬格 放-受焦=3SG.屬格
+
+#a 34.68, None, 38.43
+
+16.
+... <L2JnasiL2J>.\
+pear
+梨子
+
+#e At that time, that old man... three baskets... carries three baskets to hold pears.
+#c 那時候那個老人... 三個籃子... 帶三個籃子放梨子。
+#a 38.43, None, 39.56
+
+17.
+...(1.2) ma== ga l<m>amu baro ka== baki kii.\
+then PROG <AF>pick.up above NOM grandfather that
+然後 進行 <主焦>採 上面 主格 祖父 那個
+
+#e That old man is picking up pears above.
+#c 那個老人正在上面採梨子。
+#n baki 和 rudan 皆為對年長者之尊稱。前者專指男性長輩，祖父輩以上，可無血緣關係。
+#a 39.56, None, 43.62
+
+18.
+...(0.7) ma m-<n>oda hiya kingan seediq m-<n>oda kingan a== riso.\
+then <PFV>AF-pass there one person <PFV>AF-pass one FIL young.man
+然後 <完成>主焦-經過 那裡 一 人 <完成>主焦-經過 一 FIL 年輕男子
+
+#e Then there passed a person, a young boy.
+#c 然後那邊經過一個人。一個年輕男子經過。
+#n riso (年輕男子，高中以上)；weewa (年輕女子，高中以上)；皆可為年紀相對說法。
+#a 43.62, None, 47.82
+
+19.
+... m-adis ah== d<m>udun.\
+AF-carry FIL<AF>lead
+主焦-帶 FIL <主焦>帶領
+
+#a 47.82, None, 50.19
+
+20.
+... ah== miric kes-un.\
+FIL sheep say-PF
+FIL羊 說-受焦
+
+#e he carries... leads a sheep.
+#c 他牽... 帶領叫做羊的。
+#n madis (攜帶)，dmudun (帶領)
+#n miric (有人飼養的羊)
+#a 50.19, None, 52.72
+
+21.
+...(0.7) ma ini=na ta-i rudan gaga m-angan <L2JnasiL2J> ah qhuni baro.\
+then NEG=3SG.GEN see-PF.IRR elderly PROG AF-take pear FIL tree above
+然後 否定=3SG.屬格 看-受焦.非實現 長者 進行 主焦-拿 梨子 FIL 樹 上面
+
+#e He does not see the old man that is picking up pears in the tree.
+#c 然後他沒看到在樹上採梨子的老人。
+#a 52.72, None, 56.73
+
+22.
+...(0.8) wada asi oda hiya ini prengo duri mhm,\
+PST immediately pass there NEG say too FIL
+過去 立刻 經過 那邊 否定 說 也 FIL
+
+#e He goes... he passes there without speaking (to the old man).
+#c 他去... 他經過那裡也沒有說話。
+#n asi 有 "立刻" 、 "直接" 的語意。緊接的動詞主焦以詞根形式出現，非主焦則以非實現貌形式出現。
+#a 56.73, None, 60.26
+
+23.
+...(0.9) bobo.na ini qbsyaq,\
+afterwards NEG long
+之後 否定 久
+
+#a 60.26, None, 62.84
+
+24.
+... m-oda hiya ka kingan laqi rseno.\
+AF-pass there NOM one child man
+主焦-經過 那裡 主格 一 小孩 男性
+
+#e After that, in a short while, a boy passes by.
+#c 後來不久之後，男孩經過。
+#a 62.84, None, 65.48
+
+25.
+...(0.7) ah== taapa rulu rulu biciq.\
+FIL AF.ride car car AF.small
+FIL 主焦.騎 車子 車子 主焦.小
+
+#e (He) rides a bike... a small bike.
+#c 他騎腳踏車... 小的腳踏車。
+#n rulu (四輪車；非腳踏車；但此處意指為腳踏車)。
+#n biciq (體積小；年紀小)。
+#a 65.48, None, 68.39
+
+26.
+...(1.0) ma==, 
+then
+然後
+
+#a 68.39, None, 70.08
+
+27.
+... ini-- ini=na ta-i ka rudan ga== l<m>amu <L2JnasiL2J> duri.\
+FS NEG=3SG.GEN see-PF.IMP NOM elderly PROG <AF>pick pear too
+FS 否定=3SG.屬格 看-受焦.祈使 主格 長者 進行 <主焦>採 梨子 也
+
+#e Then he also does not see the old man who is picking up pears.
+#c 然後他也沒看採梨子的老人。
+#a 70.08, None, 73.81
+
+28.
+... anisi laqi rseno kii,_
+however child man that
+但是 小孩 男生 那個
+
+#a 73.81, None, 76.21
+
+29.
+...(2.0) ma==, 
+then
+然後
+
+#a 76.21, None, 79.13
+
+30.
+... qta-an=na rawa=na egu <L2JnasiL2J> ma,\
+see-LF=3SG.GEN basket=3SG.GEN AF.many pear then
+看-處焦=3SG.屬格 籃子=3SG.屬格 主焦.多 梨子 然後
+
+#a 79.13, None, 82.18
+
+31.
+...(1.1) uh==,_
+FIL
+FIL
+
+#a 82.18, None, 83.99
+
+32.
+... qumi-- ma==,_
+FS then
+FS然後
+
+#a 83.99, None, 85.69
+
+33.
+.. mk-<m>angan <L2JnasiL2J> laqi kii mesa uka seediq q<m>ita icin.\
+<AF>want-take pear child that AF.say NEG.EXIST people <AF>see side
+<主焦>想要-拿 梨子 孩子 那個 主焦.說 否定.存在 人 <主焦>看見 旁邊
+
+#a 85.69, None, 88.99
+
+34.
+.. ma ini=na qta-i rudan ga baro.\
+then NEG=3SG.GEN see-PF.IRR elderly EXIST above
+然後 否定=3SG.屬格 看-受焦.非實現 長者 存在 上面
+
+#e But that child sees his basket full of pears. That child wants to take pears, and observe if there is anyone else here. He still does not see the old man above. 
+#c 但是那個小孩看有許多梨子的籃子，然後想要拿梨子，看旁邊有沒有人，然後他沒有看到老人在上面。
+#n ani si 'however 但是'
+#a 88.99, None, 91.12
+
+35.
+... ma kiya ka, 
+then that KA
+然後 那個 KA
+
+#a 91.12, None, 92.3
+
+36.
+... wada=na asi did-i,\
+AUX.PST=3SG.GEN immediately bring-PF.IRR
+助動詞.過去=3SG.屬格 立刻 提-受焦.非實現
+
+#a 92.3, None, 93.92
+
+37.
+... wada=na asi did-i ka kingan rawa <L2JnasiL2J>,\
+AUX.PST=3SG.GEN immediately bring-PF.IMP NOM one basket pear
+助動詞.過去=3SG.屬格 立刻 提-受焦.祈使 主格 一 籃子 梨子
+
+#a 93.92, None, 96.82
+
+38.
+... ma ps-an=na rulu=na,\
+then put-LF=3SG.GEN car=3SG.GEN
+然後 放-處焦=3SG.屬格 車子=3SG.屬格
+
+#a 96.82, None, 98.57
+
+39.
+.. kiya ka wada ka laqi kii di.\
+that KA go.PST NOM child that PFV.PART
+那個 KA 去.過去 主格 小孩 那個 完成.語助詞
+
+#e Therefore, he takes... takes one pear basket and puts it on his bike. Then that child leaves.
+#c 所以他帶... 帶一個梨子籃,然後放在他的腳踏車，然後那個小孩離開了。
+#a 98.57, None, 100.09
+
+40.
+...(1.4) ma== sterung==, 
+then AF.meet
+然後 主焦.遇見
+
+#a 100.09, None, 103.22
+
+41.
+.. ini qbsyaq ka== n-sa-an=na laqi rseno kii.\
+NEG long NOM PFV-go-LF=3SG.GEN child male that
+否定 久 主格 完成-去-處焦=3SG.屬格 小孩 男生 那個
+
+#a 103.22, None, 106.26
+
+42.
+.. m-oda elu gisu kiya laqi mqedin.\
+AF-pass road AF.come there child female
+主焦-經過 路 主焦.來 那裡 小孩 女性
+
+#e Then in a short while, that boy leaves. A girl comes up.
+#c 然後不久之後，男孩離開了。中途女孩過來那邊。
+#a 106.26, None, 108.76
+
+43.
+...(0.8) laqi mqedin gisu ma,_
+child female AF.come then
+小孩 女性 主焦.來 然後
+
+#a 108.76, None, 110.91
+
+44.
+...(1.3) anu== q<m>ita bukuy ka riso q<m>ita weewa.\
+because <AF>see back NOM young.man <AF>see young.woman
+因為 <主焦>看 背後 主格 年輕男子 看 年輕女子
+
+#e The girl is getting closer, and that boy looks at the girl over his shoulder.
+#c 女孩靠過來，然後那個男孩看背後看女孩。
+#n  anu ka (因為)
+#a 110.91, None, 114.93
+
+45.
+... q<m>ita== weewa ka riso kii ma,_
+<AF>see young.woman NOM young.man that then
+<主焦>看 年輕女子 主格 年輕男子 那個 然後
+
+#a 114.93, None, 117.69
+
+46.
+.. anu wada asi osa laqi mqedin kii ma wada ptatuk.\
+because go.PST immediately go child female that then AUX.PST AF.bump
+因為 去.過去 立刻 去 小孩 女性 那個 然後 助動詞.過去 主焦.碰撞
+
+#e When that boy sees the girl in that way, quickly... When the girl leaves, he bumps into something.
+#c 那個男孩看女孩的時候... 那?樣地很快地... 那個女孩離開的時候,他撞到。
+#n ptatuk should be ptebuk./ ptabuk應該是ptebuk.
+#a 117.69, None, 121.01
+
+47.
+... ah wada spbhur-un ka== so bo-- ah== ah maanu di ah <L2JbosiL2J>=na.\ 
+FIL AUX.PST blow.wind-PF NOM be.like FS FIL FIL what PFV.PART FIL hat=3SG.GEN
+FIL 助動詞.過去 風吹-受焦 主格 像 FS FIL FIL 什麼 完成.語助詞 FIL 帽子=3SG.屬格
+
+#a 121.01, None, 125.88
+
+48.
+... <L2JbosiL2J>=na ma kiya ka wada tuting di.\
+hat=3SG.GEN then that KA AUX.PST AF.fall PFV.PART
+帽子=3SG.屬格 然後 那個 KA 助動詞.過去 主焦.掉落 完成.語助詞
+
+#e The wind blows and... what does it call? His hat, and his hat fallss down on the road.
+#c 然後風吹... 那個叫什?的... 他的帽子... 然後他的帽子掉路上了。
+#a 125.88, None, 128.54
+
+49.
+... qn-- m-ita bukuy na.na ma ini=na kla-i ka== btunux gaga==, 
+FS AF-see back still then NEG=3SG.GEN know-PF.IRR NOM stone EXIST
+FS主焦-看 後面 還 然後 否定=3SG.屬格 知道-受焦.非實現 主格 石頭 存在
+
+#a 128.54, None, 133.15
+
+50.
+.. gaga berah oda=na.\
+EXIST front pass=3SG.GEN
+存在 前面 經過=3SG.屬格
+
+#e While he looks back over his shoulder, he does not know that there is a stone in his front. 
+#c 還在看背後的時候,他不知道前面路上有石頭。
+#n oda 為 "經過" 之詞根。依情境可譯為 "經驗" 、 "道路" 等語意。
+#a 133.15, None, 134.74
+
+51.
+... kiya ka asi osa ptabuk btunux ka== ah rulu=na di.\
+that KA immediately go AF.bump stone NOM FIL car=3SG.GEN PFV.PART
+那個 KA 立刻 去 主焦.碰撞 石頭 主格 FIL 車子=3SG.屬格 完成.語助詞
+
+#e Then his bike bumps into a stone.
+#c 然後他的腳踏車撞到石頭。
+#a 134.74, None, 138.79
+
+52.
+... ma takun rulu=na takun heya duri takun kana so <L2JnasiL2J> n-angan=na.\
+then AF.fall car=3SG.GEN AF.fall 3SG also AF.fall all be.like pear PF.PFV-take=3SG.GEN
+然後 主遭.跌倒 車子=3SG.屬格 主焦.跌倒 3SG 也 主焦.跌倒 全部 像 梨子 受焦.完成-採=3SG.屬格
+
+#e Then his bike falls down and so does he.
+#c 然後他的腳踏車跌倒，他也跌倒。
+#a 138.79, None, 143.52
+
+53.
+.. takun dheran wada s-- 
+AF.fall ground AUX.PST FS
+主焦.跌倒 地上 助動詞.過去 FS
+
+#a 143.52, None, 145.34
+
+54.
+.. ah wada cuwak dheran kana ka <L2JnasiL2J> n-angan=na.\
+FIL AUX.PST AF.scatter ground all NOM pear PF.PFV-take=3SG.GEN
+FIL 助動詞.過去 主焦.翻落 地上 全部 主格 梨子 主焦.完成-採=3SG.GEN
+
+#e All the pears that are taken away fall onto the ground. All the pears taken get scattered on the ground.
+#c 拿過的所有的梨子摔到地上。拿過的所有的梨子翻落在地上。
+#a 145.34, None, 148.32
+
+55.
+...(1.1) ye m-narux papak=na laqi kii nii ini asi tutui.\
+maybe AF-sick foot=3SG.GEN child that this NEG immediately AF.get.up
+可能 主焦-痛 腳=3SG.屬格 小孩 那個 這個 否定 立刻 主焦.起來
+
+#e perhaps that.. this boy hurts his foot, so he does not get up soon.
+#c 也許那個... 這個男孩腳受傷,沒有馬上起來。
+#a 148.32, None, 152.46
+
+56.
+...(0.8) ma ini qbsiyaq,_
+then NEG long
+然後 否定 久
+
+#a 152.46, None, 154.62
+
+57.
+.. gisu teru laqi lmiqu te-- laqi bi-- ah laqi rseno.\
+AF.come three child mountain FS child FS FIL child male
+主焦.來 三 小孩 山上FS 小孩FS FIL 小孩 男性
+
+#a 154.62, None, 158.18
+
+58.
+.. teru ma ta-an=daha.\
+three then see-LF=3PL.GEN
+三 然後 看-處焦=3PL.屬格
+
+#e In a short while, three boys come close, and then they look (at him).
+#c 不久之後三個小孩過來... 山上... 小孩... 三個男孩.然後他們看到（他）。
+#a 158.18, None, 159.88
+
+59.
+.. ma so hari ga== mhm,\
+then be.like a.little that FIL
+然後 像 一點 那個 FIL
+
+#a 159.88, None, 161.56
+
+60.
+.. so== m-narux ka papak laqi kii ma,_
+be.ike AF-painful NOM foot child that then
+像 主焦-痛 主格 腳 小孩 那個 然後
+
+#a 161.56, None, 163.93
+
+61.
+.. m-eyah lnlung-an=daha dyag-o=ta mesa.\
+AF-come think-LF=3PL.GEN help-PF.IRR=1IPL.GEN AF.say
+主焦-來 想-處焦=3PL.屬格 幫忙-受焦.非現實=1IPL.屬格 主焦.說
+
+#e It seems that that child's foot hurts. They approach him and have sympathy with him, thinking "let's help (him)".
+#c 然後那個小孩好像腳痛。他們靠過來想說「我們幫忙吧。」
+#n meyah lnlungan 發善心；起了同情心
+#a 163.93, None, 166.48
+
+62.
+.. kiya ka==, 
+that KA
+那個 KA
+
+#a 166.48, None, 167.47
+
+63.
+... d<m>ayo ka, 
+<AF>help NOM
+<主焦>幫忙 主格
+
+#a 167.47, None, 169.22
+
+64.
+.. laqi eh== ah laqi teru kii peni.\
+child FIL FIL child three that PART
+小孩FIL FIL小孩 三 那個 語助詞
+
+#e So the children help him. 
+#c 所以小孩們幫忙... 三個小孩(幫忙)。
+#a 169.22, None, 171.2
+
+65.
+... kinga-- daha d<m>ayo ma kingan ini dayo ga naq c<m>ebu ah cubu=na kingan ma.\
+FS two <AF>help then one NEG help PROG self <AF>hit FIL ball=3SG.GEN one then
+FS 二 <主焦>幫忙 然後 一 否定 幫忙 進行 自己 <主焦>打 FIL 球=3SG.屬格 一 然後
+
+#e one... two children help him. Then one child does not offer help, and he is just patting his ball alone.
+#c 一個... 兩個小孩幫忙，然後一個沒有幫忙.他自己拍拍他的球。
+#a 171.2, None, 175.81
+
+66.
+... daha du-- dyag-un=daha l<m>amu kana ka <L2JnasiL2J>=na psa-an=na bruru.\
+two FS help-PF=3PL.GEN <AF>pick all NOM pear=3SG.GEN put=3SG.GEN basket
+二 FS 幫忙-受焦=3PL.屬格 <主焦>撿 全部 主格 梨子=3SG.屬格 放=3SG.屬格 籃子
+
+#e The one (does not help him.) Then the other two help him pick up all of his pears and put them in the basket.
+#c 一個（沒幫忙）。然後兩個幫忙檢他所有的梨子然後放在籃子裡。
+#n bruru refers to women's basket. A rope is hung around front and rattan basket is placed in the back. Bruru為女
+
+性用的籃子. 繩子掛在頭額上,藤籃子背後面.
+#a 175.81, None, 180.05
+
+67.
+.. psa-un=daha bruru ma tty-un=daha ka laqi kii di.\
+put-PF=3PL.GEN basket then raise-PF=3PL.GEN NOM child that PFV.PART
+放-受焦=3PL.屬格 籃子 然後 扶起來-受焦=3PL.屬格 主格 小孩 那個 完成.語助詞
+
+#e They put the pears in the basket, and then raise that child up.
+#c 放在籃子裡，然後把那個小孩扶起來。
+#a 180.05, None, 183.35
+
+68.
+.. ma tty-un=daha ka rulu=na duri.\
+then raise-PF=3PL.GEN NOM car=3SG.GEN also
+然後 扶起來-受焦=3PL.屬格 主格 車子=3SG.屬格 也
+
+#e Also they help to raise the bike too.
+#c 他們又幫忙把腳踏車扶起來。
+#a 183.35, None, 185.68
+
+69.
+... ma== d<m>ayo psa-un dyag-un=na laqi kii psa-un=daha kana <L2JnasiL2J>=na psa-un=na bobo rulu.\
+then <AF>help put-PF help-PF=3SG.GEN child that put-PF=3PL.GEN all pear=3SG.GEN put-PF=3SG.GEN above car
+然後 <主格>幫忙 放-PF 幫忙-受焦=3SG.屬格 小孩 那個 放-受焦=3PL.屬格 全部 梨子=3SG.屬格 放-LF=3SG.屬格 上面 車子
+
+#e Then they help that child put all of his pears on the bike.
+#c 然後他們幫那個小孩把他所有的梨子放在腳踏車上。
+#a 185.68, None, 191.16
+
+70.
+... kiya ka wa-- ini kesa== m-hue ka== laqi ah== m<n>takun kii duri.\
+that KA FS NEG AF.say AF-kind NOM child FIL AF<PFV>stumble that also
+那個 KA FS 否定 主焦.說 主焦-親切 主格 小孩 FIL 主焦<完成>跌倒 那個 也
+
+#e Then, that child who just falls does not say "thank you" either.
+#c 然後那個跌倒的小孩也沒有說謝謝。
+#n mhue (謝謝)；mhue su bale (wa) (真的很感謝你；對話時)
+#a 191.16, None, 195.84
+
+71.
+... ma==, 
+then
+然後
+
+#a 195.84, None, 197.09
+
+72.
+.. wada ka== teru laqi kii di.\
+AUX.PST NOM three child that PFV.PART
+助動詞.過去 主格 三 小孩 那個 完成.語助詞
+
+#e The three children leave.
+#c 然後那三個小孩離開了。
+#a 197.09, None, 198.91
+
+73.
+... ma laqi== m<n>takun kii,_
+then child AF<PFV>stumble that
+然後 小孩 主焦<完成>跌到 那個
+
+#a 198.91, None, 201.17
+
+74.
+.. wada naq ah== m-hedu naq posa rulu wada nax-- wada naq di.\
+go.PST self FIL AF-finish self AF.put car AF.leave FS go.PST self PART
+去.過去 自己 FIL 主焦-完成 自己 主焦.放 車子 去.過去 FS 主焦.離去 自己 語助詞
+
+#e Then that child who just falls leaves by himself... placing the bike by himself... and leaving by himself.
+#c 然後跌倒的那個男孩自己離開了... 他自己把腳踏車放好... 自己離開了。
+#a 201.17, None, 204.43
+
+75.
+... ma ini==,_
+then NEG
+然後 否定
+
+#a 204.43, None, 205.89
+
+76.
+.. q-- qnte-- ini ktheya nda-an=daha mkesa laqi ah==,_
+FS FS NEG far pass-LF=3PL.GEN AF.walk child FIL
+FS FS 否定 遠 經過-處焦=3PL.屬格 主焦.走路 小孩 FIL
+
+#a 205.89, None, 209.47
+
+77.
+.. ah teru rseno kii,_
+FIL three male that
+FIL 三 男性 那個
+
+#a 209.47, None, 211.08
+
+78.
+.. ta-an=daha elu cceka hii ka== bunuh=na.\
+see-LF=3PL.GEN road center there NOM hat=3SG.GEN
+看-處焦=3PL.屬格 路 中間 那裡 主格 帽子=3SG.屬格
+
+#e Then not walking too far, the three boys see his hat in the middle of the road. 
+#c 然後他們路走不遠，那三個男孩在路中間看到他的帽子。
+#a 211.08, None, 213.78
+
+79.
+.. bunuh we kes-un <L2JbosiL2J> kari <L2JnihongoL2J>.\
+hat PART say-PF hat speech PN
+帽子 語助詞 說-受焦 帽子 話語 專名
+
+#e "Bunuh" is called "bosi" in Japanese.
+#c 'bunuh'用日語稱為'bosi'.
+#a 213.78, None, 216.56
+
+80.
+.. ta-an=daha ah==, 
+see-LF=3PL.GEN FIL
+看-處焦=3PL.屬格 FIL
+
+#a 216.56, None, 218.06
+
+81.
+.. ceka elu hii ka bunuh=na ma,_
+center road there NOM hat=3SG.GEN then
+中間 路 那裡 主格 帽子=3SG.屬格 然後
+
+#a 218.06, None, 219.76
+
+82.
+.. ngal-un=daha ^we== sa.\
+take-PF=3PL.GEN INT say
+拿-受焦=3PL.屬格 感嘆 說
+
+#e Seeing his hat on the road, they take his hat and say "wee!".
+#c 看到他的帽子在路中間，然後他們撿起來說「wee!」。
+#n we =ge
+#a 219.76, None, 221.46
+
+83.
+.. ah bunuh=su nii kes-un=na tumu-- 
+FIL hat=2SG.GEN this say-PF=3SG.GEN FS
+FIL 帽子=2SG.屬格 這 說-受焦-=3SG.屬格 FS
+
+#e He says "is this your hat?". 
+#c 他說「這是你的帽子嗎?」
+#a 221.46, None, 223.63
+
+84.
+.. tut-- ah== ini 
+FS FIL NEG
+FS FIL 否定
+
+#a 223.63, None, 224.71
+
+85.
+.. m-ita bukuy ka riso ah mhm== taapa== rulu kii ma,_
+AF-see back NOM young.man FIL FIL AF.ride car that then
+主焦-看 後面 主格 年輕男人 FIL FIL主焦.騎 車子 那個 然後
+
+#a 224.71, None, 228.27
+
+86.
+.. ah ma <L2JbosiL2J> mo-- ma tub-- bunuh=mu mesa.\
+FIL then hat FS then FS hat=1SG.GEN AF.say
+FIL 然後 帽子 FS 然後FS帽子=1SG.屬格 主焦.說
+
+#e Then the boy who rides the bike looks back at the hat, and says "my hat".
+#c 然後騎腳踏車的男孩看背後... 然後帽子然後... 說「我的帽子。」
+#a 228.27, None, 231.08
+
+87.
+...(1.2) kiya ka, 
+that KA
+那個 KA
+
+#a 231.08, None, 233.07
+
+88.
+.. had-un=daha heya ka.\
+send.back-PF=3SG.GEN 3SG NOM 
+送回-受焦=3SG.屬格 3SG 主格
+
+#a 233.07, None, 234.56
+
+89.
+.. bunuh=na ma.\
+hat=3SG.GEN then
+帽子=3SG.屬格 然後
+
+#a 234.56, None, 235.62
+
+90.
+.. eh so mesa m-hue bale,\
+FIL be.like AF.say AF-kind real
+FIL 像 主焦.說 主焦-親切 真的
+
+#a 235.62, None, 237.91
+
+91.
+.. m-ege=namu ah bunuh yaku mesa ka riso.\
+AF-give=2PL.NOM FIL hat 1SG AF.say NOM young.man
+主焦-給=2PL.主格 FIL 帽子 1SG 主焦.說 主格 年輕男人
+
+#a 237.91, None, 240.58
+
+92.
+.. ah== laqi rseno kii ma,_
+FIL child male that then
+FIL 小孩 男性 那個 然後
+
+#a 240.58, None, 242.41
+
+93.
+.. kiya ka==,\
+that KA
+那個
+
+#a 242.41, None, 243.1
+
+94.
+.. m-angan teru <L2JnasiL2J>.\
+AF-take three pear
+主焦-拿 三 梨子
+
+#a 243.1, None, 244.81
+
+95.
+.. s-bege=na deheya peni.\
+RF-give=3SG.GEN 3PL PART 
+參焦-給予=3SG.屬格 3PL 語助詞
+
+#e They send the boy his hat. The boy seems to say "thank you very much for returning me the hat.". Then he gives three pears to them.
+#c 然後他們送他的帽子給那個男孩。那個男孩好像說你們心地真好給我帽子。 他是這麼樣的，他拿三個梨子送給他們。
+#a 244.81, None, 246.24
+
+96.
+... ga m-qaras deheya duri kiya ka wada deheya di.\
+PROG AF-happy 3PL also that KA go.PST 3PL.NOM PFV.PART
+進行 主焦-高興 3PL 也 那個 KA 去.過去 3PL.主焦 完成.語助詞
+
+#e They are happy too.
+#c 他們也很高興。
+#a 246.24, None, 249.24
+
+97.
+...(1.1) wada deheya di ini qbsyaq,\
+go.PST 3PL PFV.PART NEG long
+去.過去 3PL 完成.語助詞 否定 久
+
+#a 249.24, None, 252.06
+
+98.
+.. wada ka riso taapa rulu duri ma== teru riso nii,\
+go.PST NOM young.man AF.ride car also then three young.man this
+去.過去 主格 年輕男人 主焦.騎 車子 也 然後 三 年輕男子 這個
+
+#a 252.06, None, 255.17
+
+99.
+.. dehuk pusu qhuni hii qu-- qhuni <L2JnasiL2J>.\
+AF.arrive root tree there FS tree pear
+主焦.到達 根部 樹 那裡 FS 樹 梨子
+
+#e Then they leave. In a short while, and so does the boy who rides the bike. Then these three boys arrive at the tree... pear tree root there.
+#c 然後他們離開了，不久之後騎腳踏車的男孩也離開了。然後這三個男孩到達樹根... 到達梨子樹。
+#n taapa rulu (搭車，不是開車；此處為騎(兩輪)車/馬；開(四輪)車mgeriq)
+#a 255.17, None, 258.03
+
+100.
+... ma==, 
+then
+然後
+
+#a 258.03, None, 259.19
+
+101.
+...(0.9) m-oda== ssiyo baki hii wa naq baro baki nana ma,_
+AF-pass side grandfather that PROG self above grandfather still then
+主焦-經過 旁邊 祖父 那個 進行 自己 上面 祖父 還 然後
+
+#a 259.19, None, 263.18
+
+102.
+.. m-oda hiya ka teru riso so hari ini kqita di wada naq wada ma mkesa hiya ka laq-- teru laqi kii.\
+AF-pass there NOM three young.man be.like a.little NEG see PFV.PART go.PST self go.PST then AF.walk there NOM FS three child that
+主焦-經過 那裡 主格 三 年輕男人 像 一點 否定 看 完成.語助詞 去.過去 自己 去.過去 然後 主焦.走路 那裡 主格 FS 三 小孩 那個
+
+#e Then the three boys pass by the old man who is still up alone. The three children do not look around and they leave... they just walk away.
+#c 然後三個男孩經過那裡（老人所在處），那三個小孩沒四處看，就離開...走開了。
+#a 263.18, None, 269.11
+
+103.
+... ma==, 
+then
+然後
+
+#a 269.11, None, 270.45
+
+104.
+...(1.4) ah== h<m>uwa di,_
+FIL <AF>what PFV.PART
+FIL <主焦>什麼 完成.語助詞
+
+#e Then, what is that?
+#c 然後那是什麼?
+#a 270.45, None, 273.23
+
+105.
+...(0.8) <@wa-- wada@> 
+FS go.PST
+FS 去.過去
+
+#a 273.23, None, 275.02
+
+106.
+.. wada ka teru laqi kii di ma==,\
+go.PST NOM three child that PFV.PART then
+去.過去 主格 三 小孩 那個 完成.語助詞 然後
+
+#a 275.02, None, 277.76
+
+107.
+.. rudan nii m-eyah kiya.\
+elderly this AF-come that
+長者 這個 主焦-來 那個
+
+#e they leave... those three children leave and this old man comes down.
+#c 他們離開了... 那三個小孩離開然後這老人來。
+#a 277.76, None, 279.36
+
+108.
+.. stenge==, 
+AF.full
+主焦.填滿
+
+#a 279.36, None, 280.23
+
+109.
+.. l-l<n>abu=na <L2JnasiL2J> ah== lubuy=na di ma, 
+RED-<PFV>pack=3SG.GEN pear FIL bag=3SG.GEN PFV.PART then
+重疊-<完成>包裏=3SG.屬格 梨子FIL袋子=3SG.屬格 完成.語助詞 然後
+
+#e Yeah, the old man just comes down. He puts the pears into bags, and they are full.
+#c 啊，那個老人來了，把梨子裝在袋子裡，滿滿的。
+#a 280.23, None, 283.33
+
+110.
+.. m-eyah kndalax qhuni baro ka baki kii di ma, 
+AF-come AF.from tree above NOM grandfather that PFV.PART then
+主焦-來 主焦.從 樹 上面 主格 祖父 那個 完成.語助詞 然後
+
+#a 283.33, None, 286.09
+
+111.
+.. baki rudan kes-un=na,_
+grandfather elderly say-PF=3SG.GEN
+祖父 長者 說-受焦=3SG.屬格
+
+#a 286.09, None, 287.88
+
+112.
+.. baki kii m-eyah du ma m-eyah hatang murey-- m-posa== rawa <L2JnasiL2J>=na di ma,_
+grandfather that AF-come PFV.PART then AF-come originally.want FS FUT-AF.put basket pear=3SG.GEN PFV.PART then
+祖父 那個 主格-來 完成.語助詞 然後 主焦-來 原本想 FS 未來-主焦.放 籃子 梨子=3SG.屬格 完成.語助詞 然後
+
+#a 287.88, None, 292.73
+
+113.
+.. so hari mesa i-- wada inu kiyan rawa=mu di mesa, 
+be.like a.little AF.say FS go.PST where one basket=1SG.GEN PFV.PART AF.say
+像 一點 主焦.說 FS 去.過去 哪裡 一 籃子=1SG.屬格 完成.語助詞 主焦.說
+
+#e That old man comes down the tree. He says... that old man comes and comes... he thinks that he has put his pears in the basket. He seems like saying "Where is my basket?".
+#c 那個老人從樹上來.那個老人說... 那個老人來然後來... 他本想把他的梨子放在籃子。他好像是說「我的籃子在哪裡？」
+#n reduplication in llnabu 'packed things (pl.)' means plurality./ Llnabu的重疊指複數. 
+#n kiyan=kingal
+#a 292.73, None, 295.79
+
+114.
+.. so hari s<m>epu baga=na mesa w-- ^teru han ma daha bale di.\
+be.like a.little <AF>count hand=3SG.GEN AF.say FS three first then two real PFV.PART
+像 一點 <主焦>屬 手=3SG.屬格 主焦.說 FS 三 先 然後 二 真的 3PL.屬格 真的 完成.語助詞
+
+#a 295.79, None, 300.03
+
+115.
+... ke-- l<m>ngelung baki kii.\
+FS <AF>think grandfather that
+FS <主焦>想 祖父 那個
+
+#a 300.03, None, 301.74
+
+116.
+.. wada inu kingan a== rawa wa rawa <L2JnasiL2J>=mu di mesa.\
+go.PST where one FIL basket PART basket pear=1SG.GEN PFV.PART AF.say
+去.過去 哪裡 一 FIL 籃子 語助詞 籃子 梨子=1SG.屬格 完成.語助詞 主焦.說
+
+#e He seems to count by hand... there should be three but here are only two of them. He thinks "Where did the other pear basket go?". 
+#c 他好像用手數算... 本來有三個，但只有兩個。他想「一個籃子... 我的一籃梨子去哪裡？」
+#a 301.74, None, 306.61
+
+117.
+.. ma== bale wada=ku==, 
+then real go.PST=1SG.NOM
+然後 真的 去.過去=1SG.主格
+
+#a 306.61, None, 308.78
+
+118.
+qnuuqu m-rengo ma ka teru laqi kii m-oda hii di ma,_
+AF.mistake AF-speak why NOM three child that pass there PFV.PART then
+主焦.錯誤 主格-說 怎麼-主格 三 小孩 那個 經過 那裡 完成.語助詞 然後
+
+#e It is true. I get it wrong. But how come?
+#c 真的，我錯了。怎麼會呢？
+#n ma (shortened) = malux (why)
+#a 308.78, None, 311.67
+
+119.
+.. ^m-ita ba baki kii.\
+AF-see real grandfather that
+主焦-看 真的 祖父 那個
+
+#e Those three children, when passing there, see that old man.
+#c 那三個小孩經過那裡的時候，他們看到那個老人。
+#a 311.67, None, 313.33
+
+120.
+.. m-ita teru laqi kii peni ma== mesa m-ita,\
+AF-see three child that PART then AF.say AF-see
+主焦-看 三 小孩 那個 語助詞 然後 主焦.說 主焦-看
+
+#a 313.33, None, 315.81
+
+121.
+.. ye uxe deheya wada g<m>eeguy di mesa ka baki kii l<m>ngelung na naq.\
+Q NEG 3PL AUX.PST <AF>steal PFV.PART AF.say NOM grandfather that <AF>think still 3SG.NOM self
+疑問 否定 3PL 助動詞.過去 <主焦>偷 完成.語助詞 主焦.說 主格 祖父 那個 <主焦>想 還 自己
+
+#e Seeing those three children, that old man himself thinks "Did they steal my pears?".  
+#c 看到那三個小孩... 說看到... 那個老人還在想說「是不是他們偷了我的梨子？」
+#n peni 不一定與 ma 一起使用，而且peni並沒有固定意義。
+#a 315.81, None, 319.89
+
+122.
+... ma ini qita heya ka teru laqi kii duri ma wada naq kiya,_
+then NEG see 3SG NOM three child that also then go.PST self that
+然後 否定 看 3SG 主格 三 小孩 那個 也 然後 去.過去 自己 那個
+
+#e So those three children do not see him and just go on. 
+#c 所以那三個小孩不看他就離開了。
+#a 319.89, None, 323.51
+
+123.
+.. so mesa wada== ma so hari wada uka== kingan rawa <L2JnasiL2J>=mu mesa ka baki kii,_
+be.like AF.say AUX.PST then be.like a.little AUX.PST NEG.EXIST one basket pear=1SG.GEN AF.say NOM grandfather that
+像 主焦.說 助動詞.過去 然後 像 一點 助動詞.過去 否定.存在 一 籃子 梨子=1SG.屬格 主焦.說 主格 祖父 那個
+
+#a 323.51, None, 328.17
+
+124.
+... so nii na wada naq ka teru laqi de baki,_
+be.like this PART go.PST self NOM three child PART grandfather
+像 這個 語助詞 去.過去 自己 主格 三 小孩 語助詞 祖父
+
+#e Then it seems... then it seems that that old man says "There is one basket missing," when the three child leave.
+#c 然後好像... 然後好像那個老人在想「我一籃梨子不見了」的時候，那三個小孩就離開了。
+#a 328.17, None, 331.51
+
+125.
+...(0.8) wada so kiya nii m-hedu nii kari ah== kes-un=na.\
+AUX.PST be.like that this AF-finish this speech FIL say-PF=3SG.GEN
+助動詞.過去 像 那個 這個 主焦-結束 這個 話語 FIL說-受焦=3SG.屬格
+
+#a 331.51, None, 335.3
+
+126.
+.. ahah== kes-un <L2JnasiL2J>,_
+FIL say-PF pear
+FIL 說-受焦 梨子
+
+#a 335.3, None, 337.3
+
+127.
+.. ka== kndaan <L2JnasiL2J>,\
+NOM content pear
+主格 內容 梨子
+
+#a 337.3, None, 338.89
+
+128.
+.. betaq hini m-hue=su.\
+AF.arrive here kind=2SG.NOM
+主焦.到達 這裡 親切=2SG.主格
+
+#e So it is the end. This pear story is finished. Thank you.
+#c 然後到這裡，故事... 說梨子的故事結束了。謝謝你。
+#a 338.89, None, 340.33

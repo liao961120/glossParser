@@ -1,0 +1,1018 @@
+topic: frog4
+type: Narrative
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 高玉美, lalo a tahaeS, female, 1967-2-22
+collected: 2003-01-01
+revised: None
+video: Sainr-frog4_lalo a tahaeS.mp3
+
+1.
+korkoring ki 'aehoe',\
+child and dog
+小孩 和 狗
+
+#a 4.67, None, 6.38
+
+2.
+... ma' kit-kita' ka takem.\
+FIL RED-see ACC frog
+FIL <主焦>重疊-看 受格 青蛙
+
+#e A child and a dog were looking at a frog.
+#c 一個小孩和狗在看青蛙。
+#a 6.38, None, 8.62
+
+3.
+...(1.2) takem takem 'leb ra==y,\
+frog frog close LOC
+青蛙 青蛙 <完成>關 處格
+
+#a 8.62, None, 12.23
+
+4.
+...(1.3) ray binisitan.\
+LOC bottle
+處格 瓶子
+
+#e (They) kept the frog in a bottle.
+#c 青蛙關在瓶子裡。
+#a 12.23, None, 14.53
+
+5.
+...(1.9) isaa== korkoring ki 'aehoe' m-a'rem ila.\
+there child and dog AF-rest PFV
+那裡 小孩 和 狗 主焦-休息 完成
+
+#e The child and the dog (went to) sleep.
+#c 小孩和狗去睡覺了。
+#a 14.53, None, 18.6
+
+6.
+...(2.2) roehaenaen ... takem nonak ... kas--,\
+evening . frog self . FS
+晚上 . 青蛙 自己 . FS
+
+#a 18.6, None, 23.34
+
+7.
+...(0.9) nonak ma==,\
+self FIL
+自己 FIL
+
+#a 23.34, None, 25.17
+
+8.
+...(1.5) kas'oehaz./
+AF.move.out
+主焦.出來
+
+#e The frog came out (of the bottle) by itself.
+#c 青蛙自己(從瓶子)出來了。
+#a 25.17, None, 27.25
+
+9.
+...(1.3) isaa ririm'aenaen hini korkoring ki 'aehoe' koSa:.\
+there morning this child and dog AF.say
+那裡 早上 這個 小孩 和 狗 主焦.說
+
+#e In the morning, the child and the dog said,
+#c 早上,這個小孩和狗說,
+#a 27.25, None, 31.05
+
+10.
+...(0.8) o== man_
+FIL FIL
+FIL FIL
+
+#a 31.05, None, 32.66
+
+11.
+... ka==,\
+FIL
+FIL
+
+#a 32.66, None, 33.61
+
+12.
+...(1.2) takem hayno' ila hini'./
+frog where PFV this
+青蛙 哪裡 完成 這個
+
+#e Where has the frog gone?
+#c 青蛙到哪去了?
+#a 33.61, None, 35.99
+
+13.
+...(2.8) isaa 'am-'amoeh_
+there RED-quick
+那裡 <主焦>重疊-快
+
+#a 35.99, None, 39.76
+
+14.
+...(0.8) am== hibae: ka kayba:en sa.\
+FIL wear ACC clothes DM
+FIL <主焦>穿 受格 衣服 DM
+
+#e They put on their clothes quickly.
+#c 他們很快地穿上衣服。
+#a 39.76, None, 42.04
+
+15.
+...(1.2) ki:im ray kayba:en./
+look.for LOC clothes
+<主焦>尋找 處格 衣服
+
+#e (They) looked (for the frog) in the clothes.
+#c 在衣服裡找青蛙。
+#a 42.04, None, 44.28
+
+16.
+... ki:im ray kayba:en 'o==ka' hini' 'aehoe' rima'.\
+look.for LOC clothes NEG this dog AF.go
+<主焦>尋找 處格 衣服 否定 這個 狗 主焦.去
+
+#e (The frog) was not (there).
+#c 不在衣服裡。
+#a 44.28, None, 47.07
+
+17.
+sazek_
+smell
+<主焦>聞
+
+#a 47.07, None, 47.48
+
+18.
+ray binisitan./
+LOC bottle
+處格 瓶子
+
+#e The dog smelled the inside of the container.
+#c 狗去聞瓶子的裡面。
+#a 47.48, None, 48.33
+
+19.
+... 'oka' isaa_
+NEG there
+否定 那裡
+
+#e (The frog) was not there.
+#c 不在那裡。
+#a 48.33, None, 49.61
+
+20.
+...(1.0) hini' ka== binisitan,/
+this NOM bottle
+這個 主格 瓶子
+
+#a 49.61, None, 52.16
+
+21.
+...(1.4) si==_
+FS
+FS
+
+#a 52.16, None, 54.29
+
+22.
+...(2.7) a==_
+FIL
+FIL
+
+#a 54.29, None, 57.38
+
+23.
+...(4.1) si==_
+FS
+FS
+
+#a 57.38, None, 62.3
+
+24.
+... si== tomok ila ra==y ta'oeloeh noka 'aehoe'.\
+RF join PFV LOC head GEN dog
+指焦 參加 完成 處格 頭 屬格 狗
+
+#e The dog (inserted) its head in the bottle.
+#c 狗把頭塞到瓶子裡。
+#n 應該說sipatatpo(戴在頭上的)
+Note: tomok should be sipatatpo 'to wear on the head.'
+#a 62.3, None, 66.24
+
+25.
+...(1.0) hini' ka== korkoring Sa,\
+this NOM child say
+這個 主格 小孩 說
+
+#a 66.24, None, 68.65
+
+26.
+... take==m So'o hayno' ila==./
+frog 2SG.NOM where PFV
+青蛙 2SG.主格 哪裡 完成
+
+#e The child (said), 'Frog, where are you?'
+#c 這個小孩(說): 青蛙,你在哪裡?
+#a 68.65, None, 70.91
+
+27.
+...(0.9) kita'-en hini' ka 'aehoe',\
+see-PF this NOM dog
+看-受焦 這個 主格 狗
+
+#a 70.91, None, 72.95
+
+28.
+... sahae'./
+AF.fall
+主焦.掉
+
+#a 72.95, None, 73.96
+
+29.
+... sahae' ray hinoehas_
+AF.fall LOC window
+主焦.掉 處格 窗戶
+
+#a 73.96, None, 75.48
+
+30.
+... sahae' ray ra:i'./
+AF.fall LOC ground
+主焦.掉 處格 地
+
+#e (The child) saw the dog fall on the ground from the window.
+#c 看到這隻狗從窗戶掉到地上。
+#a 75.48, None, 76.53
+
+31.
+...(2.0) isaa ka== binisitan minlakay ila hiza'_
+that NOM bottle AF.break PFV that
+那個 主格 瓶子 主焦.破 完成 那個
+
+#e The bottle broke.
+#c 瓶子破了。
+#a 76.53, None, 80.74
+
+32.
+'aehoe' kayzaeh ila 'oka==y,\
+dog AF.good PFV NEG
+狗 主焦.好 完成 否定
+
+#a 80.74, None, 82.32
+
+33.
+...(1.2) 'oka==y ... tatpo'-i noka== binisitan.\
+NEG . wear-PF GEN bottle
+否定 . 穿-受焦 屬格 瓶子
+
+#e The dog was not 'wearing' the bottle (on its head) anymore.
+#c 狗沒有戴著瓶子了。
+#a 82.32, None, 86.6
+
+34.
+... lasia rima' 'oeS'oeSoe'an ila ki== 'aehoe'_
+3PL.NOM AF.go mountain PFV and dog
+3PL.主格 主焦.去 山 完成 和 狗
+
+#a 86.6, None, 89.34
+
+35.
+.. hini' ka korkoring ki 'aehoe' rima' 'oeS'oeSoe'an Sa,\
+this NOM child and dog AF.go mountain DM
+這個 主格 小孩 和 狗 主焦.去 山 DM
+
+#a 89.34, None, 91.92
+
+36.
+...(1.2) 'oe'oe ila.\
+call PFV
+<主焦>叫 完成
+
+#e They went to the mountain with the dog and called out.
+#c 小孩和狗去山上,叫著:
+#a 91.92, None, 93.77
+
+37.
+... ho==y_
+hoy
+喂
+
+#a 93.77, None, 94.95
+
+38.
+takem hayno' ila So'o_
+frog where PFV 2SG.NOM
+青蛙 哪裡 完成 2SG.主格
+
+#e Hello, Frog, where are you?
+#c 嘿,青蛙,你在哪裡?
+#a 94.95, None, 96.67
+
+39.
+...(1.9) kita'-en==_
+see-PF
+看-受焦
+
+#a 96.67, None, 98.94
+
+40.
+.. hini' 'aehoe' kita' ka boya'./
+this dog see ACC beehive
+這個 狗 <主焦>看 受格 蜂窩
+
+#e The dog saw a beehive.
+#c 狗看到蜂窩。
+#a 98.94, None, 100.83
+
+41.
+... boya' hini' 'ampowa' kin 'akoy ka boya'./
+beehive here why very AF.many NOM bee
+蜂窩 這裡 為什麼 很 主焦.很多 主格 蜜蜂
+
+#e Why are there so many bees here?
+#c 為什麼這裡有很多蜂?
+#a 100.83, None, 103.36
+
+42.
+...(2.6) isaa== hini' korkoring_
+there this child
+那裡 這個 小孩
+
+#a 103.36, None, 107.3
+
+43.
+... ayo== hini' hayza' ka==,\
+[chin] here EXIST NOM
+[chin] 這裡 存在 主格
+
+#a 107.3, None, 109.02
+
+44.
+...(0.8) ka minatang.\
+NOM hole
+主格 洞
+
+#e Oh, there's a hole.
+#c 噢,有個洞。
+#a 109.02, None, 110.55
+
+45.
+... ka== ano'./
+NOM ano'
+主格 ano'
+
+#e Aah ... it's a ...
+#c 啊,是 ...
+#a 110.55, None, 111.42
+
+46.
+... takem mti' ma== hayza' ilahani 'izo',/
+frog [hak] FIL EXIST there inside .
+青蛙 [hak] FIL 存在 那裡 裡面 .
+
+#e The frog may have gone inside there.
+#c 青蛙可能在裡面。
+#a 111.42, None, 114.6
+
+47.
+...(0.8) hiza 'oe'oe ila sa_
+there call PFV DM
+那裡 <主焦>叫 完成 DM
+
+#a 114.6, None, 116.26
+
+48.
+.. take==m So'o hani ray 'izo' ./
+frog 2SG.NOM here.inside LOC inside .
+青蛙 2SG.主格 這裡面 處格 裡面 .
+
+#e There he called out, Frog, are you there inside?
+#c 他在那裡叫:青蛙,你在裡面嗎?
+#a 116.26, None, 117.97
+
+49.
+...(0.9) hini' 'aehoe' kita' ka boya' Sa.\
+this dog see ACC beehive DM
+這個 狗 <主焦>看 受格 蜂窩 DM
+
+#e The dog saw the beehive.
+#c 狗看到蜂窩。
+#a 117.97, None, 120.51
+
+50.
+.. hini' kano' XX ,/
+this what XX .
+這個 什麼 XX .
+
+#a 120.51, None, 121.46
+
+51.
+...(2.6) isaa=_
+there
+那裡
+
+#a 121.46, None, 124.32
+
+52.
+...(1.4) noka korkoring 'oe'oe hini' ka==.\
+GEN child call this ACC
+屬格 小孩 <主焦>叫 這個 受格
+
+#e The child called the ...
+#c 小孩叫這個 ...
+#a 124.32, None, 127.82
+
+53.
+...(1.2) rarapal hini' kas'oehaz,\
+mouse here AF.move.out
+田鼠 這裡 主焦.出來
+
+#a 127.82, None, 130.26
+
+54.
+.. ?? takem.\
+be.not frog
+不是 青蛙
+
+#e A squirrel came out, not a frog.
+#c 田鼠出來,不是青蛙。
+#a 130.26, None, 131.38
+
+55.
+...(1.5) hini' 'aehoe' shi kita' ka boya'./
+this dog [man] see ACC beehive
+這個 狗 [man] <主焦>看 受格 蜂窩
+
+#e The dog saw the beehive.
+#c 狗看著蜂窩。
+#a 131.38, None, 134.89
+
+56.
+... hahli ryo,\
+push FIL
+<主焦>推 FIL
+
+#a 134.89, None, 136.32
+
+57.
+... hahli==_
+push
+<主焦>推
+
+#a 136.32, None, 137.59
+
+58.
+... tee== ka==,\
+FIL ACC
+FIL 受格
+
+#a 137.59, None, 139.07
+
+59.
+...(1.0) ka boya'_
+ACC beehive
+受格 蜂窩
+
+#e (The dog) shook the beehive.
+#c 搖蜂窩。
+#a 139.07, None, 140.82
+
+60.
+...(1.1) (COUGHS)
+
+#a 140.82, None, 142.22
+
+61.
+...(1.4) sahae' ila,\
+AF.fall PFV
+主焦.掉落 完成
+
+#a 142.22, None, 144.4
+
+62.
+...(0.9) ?? ??
+AF.fall PFV .
+主焦.掉落 完成 .
+
+#e (The beehive) fell down.
+#c (蜂窩)掉下來。
+#a 144.4, None, 145.77
+
+63.
+...(2.9) hini==' korkoring_
+this child
+這個 小孩
+
+#a 145.77, None, 150.05
+
+64.
+...(0.7) kita' ka hiza' ka==_
+see ACC that ACC
+<主焦>看 受格 那個 受格
+
+#a 150.05, None, 152.27
+
+65.
+... ray kaehoey,\
+LOC tree
+處格 樹
+
+#a 152.27, None, 153.62
+
+66.
+... minatang.\
+hole
+洞
+
+#e The child saw a hole up the tree.
+#c 小孩看到在樹上的洞。
+#a 153.62, None, 154.87
+
+67.
+...(1.6) koSa:== takem hao ray 'izo'_
+say frog there LOC inside
+<主焦>說 青蛙 那裡 處格 裡面
+
+#a 154.87, None, 158.28
+
+68.
+...(1.1) 'am rima' ki:im.\
+FUT AF.go look.for
+未來 主焦.去 <主焦>尋找
+
+#e He thought the frog was inside there, and went to take a look.
+#c 他想說青蛙在裡面,就去找。
+#a 158.28, None, 160.53
+
+69.
+...(2.5) XX ka== XX XX.\
+XX NOM XX XX
+XX 主格 XX XX
+
+#e An owl came out.
+#c 一隻貓頭鷹出來了。
+#n 老師覺得整句應為:
+#n Note: Informant feels the following should be uttered:
+#n kita'-en ka== kal'oe kas'oehaz
+#n see-pf nom owl af.move.out
+#n 看-受焦 主格 貓頭鷹 主焦.出來
+#a 160.53, None, 165.06
+
+70.
+...(1.2) sia homses sahae' ila ray kah-- ray ra:i',\
+3SG.NOM AF.frightened AF.fall PFV LOC FS LOC ground
+3SG.主格 主焦.嚇到 主焦.掉 完成 處格 FS 處格 地
+
+#a 165.06, None, 167.86
+
+71.
+...(0.7) ray kaehoey babaw ima=,\
+LOC tree above FIL
+處格 樹 上面 FIL
+
+#a 167.86, None, 169.5
+
+72.
+.. ma sahae' ray ra:i'.\
+FIL AF.fall LOC ground
+FIL 主焦.掉落 處格 地
+
+#e He got frightened and fell to the ground from up the tree.
+#c 他嚇到了,從樹上掉到地上。
+#a 169.5, None, 170.98
+
+73.
+...(1.5) hini' 'aehoe' ma'==,\
+this dog too
+這個 狗 也
+
+#a 170.98, None, 173.55
+
+74.
+...(1.6) hahli ka pak-sahae' ka boya',\
+shake ACC CAU-AF.fall ACC beehive
+<主焦>搖 受格 使役-掉 受格 蜂窩
+
+#a 173.55, None, 176.91
+
+75.
+.. sowaw-en ila noka boya'.\
+chase-PF PFV GEN beehive
+追-受焦 完成 屬格 蜂窩
+
+#e The dog was also shaking the beehive (until it) fell (to the ground), and the bees chased (the dog)
+#c 狗也在搖蜂窩,使蜂窩掉下來,蜂就追狗。
+#a 176.91, None, 178.39
+
+76.
+...(2.2) isahini korkoring ma,/
+this child too
+這個 小孩 也
+
+#a 178.39, None, 181.84
+
+77.
+...(2.3) sowaw-en noka== kal'oe./
+chase-PF GEN owl
+追-受焦 屬格 貓頭鷹
+
+#e The owl also chased the child.
+#c 貓頭鷹也追小孩。
+#a 181.84, None, 185.58
+
+78.
+... ka,\
+FIL
+FIL
+
+#a 185.58, None, 186.51
+
+79.
+... kaSna'itol ra==y,\
+AF.move.up LOC
+主焦.上去 處格
+
+#a 186.51, None, 187.86
+
+80.
+... ray bato' babaw 'oe'oe ila ka==,\
+LOC rock above call PFV ACC
+處格 石頭 上面 <主焦>叫 完成 受格
+
+#a 187.86, None, 190.33
+
+81.
+...(1.0) takem.\
+frog
+青蛙
+
+#e (The boy) climbed up the rock and called the frog.
+#c (男孩)爬上石頭,叫那個青蛙。
+#a 190.33, None, 191.8
+
+82.
+...(0.8) hini' 'aehoe' ma' 'ima sazek sa takem hahano ./
+this dog too PROG smell DM frog sticky.substance .
+這個 狗 也 進行 <主焦>聞 DM 青蛙 黏黏的東西 .
+
+#e The dog sniffed for the frog.
+#c 小狗為了找青蛙聞。
+#a 191.8, None, 195.13
+
+83.
+...(0.8) 'oe'oe 'oe'oe==_
+call call
+<主焦>叫 <主焦>叫
+
+#e (The child kept on) calling.
+#c 一直叫。
+#a 195.13, None, 196.73
+
+84.
+.. hini' ka== 'aehoe',/
+this NOM dog
+這個 主格 狗
+
+#a 196.73, None, 198.18
+
+85.
+...(1.0) rima' ray bato' hikor./
+AF.go LOC rock behind
+主焦.去 處格 石頭 後面
+
+#e The dog went behind the rock.
+#c 狗跑去石頭後面。
+#a 198.18, None, 200.29
+
+86.
+...(0.7) kita'-en ka==,\
+see-PF NOM
+看-受焦 主格
+
+#a 200.29, None, 201.96
+
+87.
+... hini==' wae'ae'_
+this deer
+這個 鹿
+
+#a 201.96, None, 203.39
+
+88.
+...(0.8) wae'ae' kas'oehaz homses hini'.\
+deer AF.move.out AF.frightened here
+鹿 主焦.出來 主焦.嚇到 這裡
+
+#e The deer came out.
+#c 鹿跑出來了。
+#a 203.39, None, 205.95
+
+89.
+...(1.0) homses isahini ka==,\
+AF.frightened here NOM
+主焦.嚇到 這裡 主格
+
+#a 205.95, None, 208.3
+
+90.
+...(0.8) korkoring,\
+child
+小孩
+
+#a 208.3, None, 209.89
+
+91.
+...(1.7) totoho== hini'= .. ma==,\
+[hak] this . FIL
+[hak] 這個 . FIL
+
+#a 209.89, None, 213.22
+
+92.
+...(0.7) s-- ... si==...paka:i ra==y,\
+FS . RF-hang LOC
+FS . 指焦-吊 處格
+
+#a 213.22, None, 216.68
+
+93.
+...(1.0) wae'ae' a ta'oeloeh_
+deer POSS head
+鹿 所有格 頭
+
+#e The child got frightened and hang on top of the deer's head.
+#c 小孩嚇到了,吊在鹿的頭上。
+#a 216.68, None, 218.72
+
+94.
+...(1.5) wae'ae' ma' homses 'ae'ae:aew ila 'ae'ae:aew o==_
+deer too AF.frightened AF.run PFV AF.run DM
+鹿 也 主焦.嚇到 主焦.跑 完成 主焦.跑 DM
+
+#e The deer also got frightened and ran away.
+#c 鹿也嚇到了,就跑走了。
+#a 218.72, None, 222.64
+
+95.
+... m-wa:i' ra==y 'a==,\
+AF-come LOC FIL
+主焦-來 處格 FIL
+
+#a 222.64, None, 223.74
+
+96.
+... ra==y,\
+LOC
+處格
+
+#a 223.74, None, 224.95
+
+97.
+...(0.9) 'ataS o:.\
+cliff DM
+懸崖 DM
+
+#e and came to a cliff.
+#c 來到懸崖。
+#a 224.95, None, 226.4
+
+98.
+... hiza ((CLEARS THROAT)),/
+that . .
+那個 . .
+
+#a 226.4, None, 228.0
+
+99.
+...(2.1) wae'ae'=,\
+deer
+鹿
+
+#a 228.0, None, 230.44
+
+100.
+...(1.2) hiza' ka==,\
+that NOM
+那個 主格
+
+#a 230.44, None, 232.58
+
+101.
+... korkoring ki== 'aehoe',\
+child and dog
+小孩 和 狗
+
+#a 232.58, None, 234.59
+
+102.
+... sahae' ila ray ralom,\
+AF.fall PFV LOC water
+主焦.掉落 完成 處格 水
+
+#a 234.59, None, 236.1
+
+103.
+...(2.8) sahae' ray ralom_
+AF.fall LOC water
+主焦.掉落 處格 水
+
+#e The child and dog fell into the water.
+#c 小孩和狗掉到水裡。
+#a 236.1, None, 240.01
+
+104.
+...(2.5) kita'-en_
+see-PF
+看-受焦
+
+#a 240.01, None, 242.97
+
+105.
+...(2.2) yo== kano' ray hani Sa,\
+INT what LOC here DM
+感嘆 什麼 處格 這裡 DM
+
+#a 242.97, None, 246.43
+
+106.
+...(1.0) kano' ray hani Sa 'ima== ma-atol a.\
+what LOC here DM PROG AF-sing DM
+什麼 處格 這裡 DM 進行 主焦-唱 DM
+
+#e What is singing there?
+#c 什麼東西在這裡唱歌?
+#a 246.43, None, 249.65
+
+107.
+...(2.5) ?? ,\ 
+gaksa .
+gaksa .
+
+#a 249.65, None, 252.69
+
+108.
+...(1.0) 'iyahimi' isaa ka 'aehoe' Sa t--_
+AF.quiet that NOM dog DM FS
+主焦.安靜 那個 主格 狗 DM FS
+
+#a 252.69, None, 255.16
+
+109.
+... 'iyahimi'.\
+AF.quiet
+主焦.安靜
+
+#e He told the dog to 'be quiet.'
+#c 他跟小狗說要安靜。
+#a 255.16, None, 256.04
+
+110.
+...(1.1) isaa ra==y kaehoey_
+there LOC tree
+那裡 處格 樹
+
+#a 256.04, None, 258.27
+
+111.
+.. hikor,\
+behind
+後面
+
+#a 258.27, None, 258.91
+
+112.
+...(0.8) ray kaehoey hikor,\
+LOC tree behind
+處格 樹 後面
+
+#a 258.91, None, 260.62
+
+113.
+... kita' ka== takem,\
+see ACC frog
+<主焦>看 受格 青蛙
+
+#a 260.62, None, 262.51
+
+114.
+...(1.0) ma ma-atol.\
+FS AF-sing
+FS 主焦-唱
+
+#e (They) saw the frog singing behind the rock.
+#c 看到青蛙在樹後面唱歌。
+#a 262.51, None, 264.32
+
+115.
+...(1.8) i:wa' ay sia m-wa:i' ki:im ka== taew'an,\
+i:wa' ay 3SG.NOM AF-come look.for ACC house
+i:wa' ay 3SG.主格 主焦-來 <主焦>尋找 受格 房子
+
+#a 264.32, None, 268.81
+
+116.
+... takem m-wa:i' ki:im ka taew'an nisia.\
+frog AF-come look.for ACC home 3SG.GEN
+青蛙 主焦-來 <主焦>尋找 受格 家 3SG.屬格
+
+#e So the frog was looking for its home.
+#c 青蛙來找他的家。
+#a 268.81, None, 271.4
+
+117.
+...(0.9) kita'-en hini' ka==,\
+see-PF this NOM
+看-受焦 這個 主格
+
+#a 271.4, None, 273.43
+
+118.
+... 'ima== 'ol'ola'an ka== takem ma' kas'oehaz ila saboeh./
+PROG small ACC frog too AF.move.out PFV all
+進行 小 受格 青蛙 也 主焦.出來 完成 全部
+
+#e All the small frogs came out too.
+#c 所有的青蛙也都出來了。
+#a 273.43, None, 277.2
+
+119.
+... koSa'-en ila ina--\
+say-PF PFV FS
+說-受焦 完成 FS
+
+#a 277.2, None, 278.43
+
+120.
+inoka hiza' a== takem a ka== ka korkoring.\
+POSS that FIL frog POSS FIL FIL child
+所有格 那個 FIL 青蛙 所有格 FIL FIL 小孩
+
+#e It was the frog's child.
+#c 是那個青蛙的小孩。
+#a 278.43, None, 281.68
+
+121.
+...(5.2) ya:o s-- .. ya:o sa_
+1SG.NOM FS . 1SG.NOM DM
+1SG.主格 FS . 1SG.主格 DM
+
+#a 281.68, None, 287.98
+
+122.
+'am lobih ila o: hini' ka=.\
+FUT AF.return PFV FIL this NOM
+未來 主焦.回 完成 FIL 這個 主格
+
+#e I am going home.
+#c 我要回去了。
+#a 287.98, None, 289.21
+
+123.
+hini takem ma'an ka-alibih-in .\
+this frog 1SG.GEN KA-take.back-PF .
+這個 青蛙 1SG.屬格 KA-帶回-受焦 .
+
+#e This is my frog, which I will take back.
+#c 這是我的青蛙,我要帶回去。
+#a 289.21, None, 291.32
+
+124.
+...(2.7) isaa,\
+there
+那裡
+
+#a 291.32, None, 294.58
+
+125.
+... ma== ... pil'awan ila kila== takem hini',\
+FIL . farewell PFV and frog here
+FIL . 再見 完成 和 青蛙 這裡
+
+#a 294.58, None, 298.09
+
+126.
+...(0.7) isaa pil'awa==n take==m,\
+there farewell frog
+那裡 再見 青蛙
+
+#a 298.09, None, 300.53
+
+127.
+... ma'an hini' a takem ka-alibih-in ila==.\
+1SG.GEN this POSS frog KA-take.back-PF PFV
+1SG.屬格 這個 所有格 青蛙 KA-帶回-受焦 完成
+
+#e I will take my frog back.
+#c 我要把我的青蛙帶回去了。
+#a 300.53, None, 303.04
+
+128.
+...(0.9) pil'awa==n.\
+farewell
+再見
+
+#e Goodbye.
+#c 再見。
+#a 303.04, None, 304.96

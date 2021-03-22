@@ -1,0 +1,2336 @@
+topic: life
+type: Conversation
+language: 賽夏語, Saisiyat, Saisiyat
+speaker: 風玉雲, waon a bo:ong, female, 1943-2-28
+collected: 2002-01-01
+revised: 2014-4-10
+video: SaiNr-life_waon a boong.mp3
+
+1.
+F: rangi' .. niSo isahini kano' ila patawaw-en ./
+. VOC . 2SG.GEN here.now what PFV work-PF .
+. 呼格 . 2SG.屬格 現在 什麼 完成 工作-受焦 .
+
+#e What has been making you busy now?
+#c 你現在忙些什麼啊？
+#n F: 風玉雲 (waun a bo:ong babayi) 女士, M: 日繁雄先生
+#a 1.23, None, 3.74
+
+2.
+M: ... eh siska==' 'oem-'oemaeh ... kaSo baboeyoe'-an .\
+. . FIL do RED-land . make ginger-NMZ .
+. . FIL 做 重疊-地 . 做 薑-名物化 .
+
+#e I'm going to plant ginger in the mountains.
+#c 我在山上種薑。
+#a 3.74, None, 7.82
+
+3.
+F: .. kaSo baboeyoe'-an,\
+. . make ginger-NMZ
+. . 做 薑-名物化
+
+#a 7.82, None, 8.7
+
+4.
+F: So'o sibaeaeh ay ka mae'iyaeh ./
+. 2SG.NOM borrow Q ACC person .
+. 2SG.主格 <主焦>借 疑問 受格 人 .
+
+#e Will you hire workers?
+#c 你要雇用人員嗎？
+#a 8.7, None, 10.24
+
+5.
+M: .. hayza' sibae:aeh roSa' .\
+. . EXIST borrow two .
+. . 存在 <主焦>借 二 .
+
+#e Yes, two.
+#c 對啊。兩個工人。
+#a 10.24, None, 11.9
+
+6.
+F: ... roSa',\
+. . two
+. . 二
+
+#a 11.9, None, 12.7
+
+7.
+F: ... minkoringan na kamamanra:an ./
+. . female or male .
+. . 女性 或 男性 .
+
+#e Two. Are they male or female?
+#c 兩個。男的還是女的？
+#a 12.7, None, 14.52
+
+8.
+M: ... eh minkoringan 'aehae' kamamanra:an 'aehae'.\
+. . FIL female one male one
+. . FIL 女性 一 男性 一
+
+#e One female and one male.
+#c 一個女工跟一個男工。
+#a 14.52, None, 17.86
+
+9.
+F: ...(2.4) tangtang ay ./ .. ((CLEARS THROAT))
+. . dig Q . . . .
+. . <主焦>dig 疑問 . . . .
+
+#e Do you do any digging?
+#c 你有沒有挖土？
+#a 17.86, None, 21.48
+
+10.
+M: .. eh==,/
+. . FIL
+. . FIL
+
+#a 21.48, None, 22.04
+
+11.
+F: ((CLEARS THROAT))
+. . .
+. . .
+
+#a 22.04, None, 22.34
+
+12.
+M: ...(0.9) tangtang noka== .. kama-si'ael ka samiyan.\
+. . dig use . NMZ-AF.eat ACC oil;gas
+. . <主焦>挖土 用 . 名物化-主焦.吃 受格 油
+
+#e I use a machine.
+#c 我用機器。
+#n 賽夏人用samiyan來指任何超自然物體或無法解釋的勢力；因此，也用來指神明。
+Note: In SaiSiyat, `samiyan' is used to refer to any entity of super-natural or unexplainable power; ther
+#a 22.34, None, 26.01
+
+13.
+F: ah,/
+. BC
+. BC
+
+#a 26.01, None, 26.51
+
+14.
+M: .. 'am komalam ila noka mae'iyaeh .\
+. . FUT to.partition PFV use person .
+. . 未來 區隔.畖 完成 用 人 .
+
+#e Manual labor for sectioning the field.
+#c 切割土地用人工。
+#a 26.51, None, 28.21
+
+15.
+F: ah,/
+. BC
+. BC
+
+#a 28.21, None, 28.61
+
+16.
+F: ...(1.5) niSo baboeyoe' koza kin akoy ka-pamowa' ./
+. . 2SG.GEN ginger how.many very AF.many FUT-plant .
+. . 2SG.屬格 薑 多少 很 主焦.多 未來-種 .
+
+#e Ah, how much ginger do you plant?
+#c 啊，你種了多少薑？
+#a 28.61, None, 32.32
+
+17.
+M: ...(1.1) 'aehae' siyan tintin.\
+. . one thousand kilo
+. . 一 千 斤
+
+#e One thousand kilos.
+#c 一千斤。
+#a 32.32, None, 34.47
+
+18.
+F: ... 'aehae' siyan.\
+. . one thousand
+. . 一 千
+
+#a 34.47, None, 35.41
+
+19.
+F: ... 'oem-'oemaeh kin 'akoy.\
+. . RED-land very AF.many
+. . 重疊-地 很 主焦.多
+
+#e One thousand (only) for such a big piece of land?
+#c 那麼大的地只種一千斤？
+#a 35.41, None, 36.74
+
+20.
+F: ...(1.6) niSo' 'aehae' siyan tintin niSo',/
+. . 2SG.GEN one thousand kilo 2SG.GEN
+. . 2SG.屬格 一 千 斤 2SG.屬格
+
+#a 36.74, None, 39.72
+
+21.
+F: so: mayhael pamowa' 'am==,\
+. COND afterwards plant FUT
+. 條件詞 之後 <完成>種 未來
+
+#a 39.72, None, 41.68
+
+22.
+F: ... komowih ila ka ba-ba:iw 'am koza ila,/
+. . harvest PFV ACC RED-sell FUT how.much PFV
+. . 收穫 完成 受格 重疊-賣 未來 多少 完成
+
+#a 41.68, None, 43.52
+
+23.
+F: kin 'akoy tintin./
+. very AF.many weight
+. 很 主焦.多 重量
+
+#e If you're planting a thousand kilos, then after the harvest next year, how much are you going to sell? Must be lots of kilos.
+#c 你若種一千斤，那麼明年收穫要賣多少？應該很多吧。
+#a 43.52, None, 44.35
+
+24.
+M: ... so: kayzaeh ka== kaelaehaeng,/
+. . COND AF.good FIL care
+. . 條件詞 主焦.好 FIL <完成>照顧
+
+#a 44.35, None, 47.31
+
+25.
+F: ... 'ana'oka' ma 'am hayza' 'aehae' babaki' ila .\
+. . at.least too FUT EXIST one ten.thousand.kilos PFV .
+. . 至少 也 未來 存在 一 萬斤 完成 .
+
+#e If managed well, then probably at least ten thousand kilos.
+#c 如果管理得好，大概至少有一萬斤。
+#a 47.31, None, 50.1
+
+26.
+F: ... ai,\
+. . BC
+. . BC
+
+#a 50.1, None, 50.93
+
+27.
+F: .. kin 'akoy kin.\
+. . very AF.many very
+. . 很 主焦.多 很
+
+#e Ah, so much!
+#c 阿，這麼多！
+#a 50.93, None, 52.1
+
+28.
+M: 'ihi',/
+. BC
+. BC
+
+#a 52.1, None, 52.37
+
+29.
+F: 'aehae' babaki' kin-tomal.\
+. one ten.thousand.kilos so-much
+. 一 萬斤 真多
+
+#e Ten thousand kilos! That's many.
+#c 一萬斤，真多!
+#a 52.37, None, 53.42
+
+30.
+M: .. 'ihi',\
+. . BC
+. . BC
+
+#a 53.42, None, 54.0
+
+31.
+F: .. ah== rayhil 'am== koza' ila kin 'akoy ./
+. . FIL money FUT how.much PFV very AF.many .
+. . FIL 錢 未來 多少 完成 很 主焦.多 .
+
+#e That must be much money.
+#c 應該很多錢啊。
+#a 54.0, None, 56.68
+
+32.
+M: ... rayhil kik raam-i ... so==,/
+. . money NEG know-PF . COND
+. . 錢 否定 知道-受焦 . 條件詞
+
+#a 56.68, None, 58.91
+
+33.
+M: .. nak haysa'-an 'aehae' tal'oemaeh,/
+. . like now-NMZ one year
+. . 像 現在-名物化 一 年
+
+#a 58.91, None, 60.44
+
+34.
+M: ... 'oka' nanaw ka-ba:iw-an .\
+. . NEG still KA-buy-NMZ .
+. . 否定 仍然 KA-買-名物化 .
+
+#e I don't know. Like this year, prices are not good.
+#c 我不知道。像今年價格都不好。
+#a 60.44, None, 61.55
+
+35.
+F: .. m==,\
+. . FIL
+. . FIL
+
+#a 61.55, None, 62.33
+
+36.
+F: ...(2.0) hayza ay mamowa' ka 'aroma' ./
+. . EXIST Q AF.plant ACC other .
+. . 存在 疑問 主焦.種 受格 其他 .
+
+#e Do you plant other crops?
+#c 你有種其他農作物嗎？
+#a 62.33, None, 65.75
+
+37.
+M: ...(2.2) mamowa' ka== ... 'aroma',\
+. . AF.plant ACC . other
+. . 主焦.種 受格 . 其他
+
+#a 65.75, None, 69.98
+
+38.
+M: ...(1.7) bo-- 'iniya-boway,\
+. . FS able.bear-fruit
+. . FS 會長-水果
+
+#a 69.98, None, 72.35
+
+39.
+M: ...(1.2) 'i'ini' i pa-mowa' .\
+. . not.yet I CAU-plant .
+. . 尚未 I 使役-種 .
+
+#e Others? Fruits, not yet.
+#c 其他的？會結果的水果類，還沒有種。
+#a 72.35, None, 74.41
+
+40.
+F: ... ah tatimae' hayza ay mamowa' ./
+. . FIL vegetable EXIST Q AF.plant .
+. . FIL 蔬菜 存在 疑問 主焦.種 .
+
+#e Ah, do you plant vegetables?
+#c 那你有種蔬菜嗎？
+#a 74.41, None, 76.11
+
+41.
+M: ...(1.0) a== ka-si'ael-en nonak ... hayza ... titi'an pamowa' .\
+. . FIL KA-eat-PF self . EXIST . a.bit plant .
+. . FIL KA-吃-受焦 自己 . 存在 . 一點 <完成>種 .
+
+#e Yes, I do plant a bit of vegetables for our own consumption.
+#c 是的。我有種一些蔬菜自己吃。
+#a 76.11, None, 80.27
+
+42.
+F: ...(1.7) ma--,/
+. . FS
+. . FS
+
+#a 80.27, None, 82.65
+
+43.
+F: ...(2.2) ao 'i mamowa' ka i nonak kayzaeh ka==,/
+. . FIL I AF.plant ACC I self AF.good FIL
+. . FIL I 主焦.種 受格 I 自己 主焦.好 FIL
+
+#a 82.65, None, 87.04
+
+44.
+F: ka-si'ael-en ra== 'ini nonak .\
+. KA-eat-PF FS DAT self .
+. KA-吃-受焦 FS 予格 自己 .
+
+#e It's better for your own consumption.
+#c 這樣也好，自己吃。
+#a 87.04, None, 88.72
+
+45.
+M: ... 'ihi'',/
+. . BC
+. . BC
+
+#a 88.72, None, 89.14
+
+46.
+F: ... ma-mowa' ka 'oka' noka== i pamowa'-i ka ba-ba:iw.\
+. . AF-plant ACC NEG use I plant-PF ACC RED-sell
+. . 主焦-種 受格 否定 用 I 種-受焦 受格 重疊-買
+
+#e You don't plant anything to sell?
+#c 你沒有種一些你可以賣的？
+#a 89.14, None, 91.71
+
+47.
+M: ... ba-ba:iw== hiya' ay ila ra:am hi== 'ataw .\
+. . RED-sell who Q PFV AF.know NOM PN .
+. . 重疊-賣 誰 疑問 完成 主焦.知道 主格 人名 .
+
+#e For selling? Who knows? (It's up to) Ataw.
+#c 要賣？誰知道？要看Ataw的意思。
+#a 91.71, None, 94.96
+
+48.
+F: ... ai== .. 'am 'ataw mamowa' 'am niSo korkoring mamowa'.\
+. . FIL . FUT PN AF.plant FUT 2SG.GEN child AF.plant
+. . FIL . 未來 人名 主焦.種 未來 2SG.屬格 小孩 主焦.種
+
+#e Ataw is going to plant. Your child is going to plant.
+#c Ataw要種。你小孩會種。
+#a 94.96, None, 97.7
+
+49.
+M: .. 'ihi',/
+. . BC
+. . BC
+
+#a 97.7, None, 98.27
+
+50.
+F: ... sia ray taew'an kano' patawaw-en ni 'ataw ./
+. . 3SG.NOM LOC home what work-PF GEN PN .
+. . 3SG.主格 處格 家 什麼 工作-受焦 屬格 人名 .
+
+#e What does Ataw do at home?
+#c Ataw在家做什麼？
+#a 98.27, None, 100.56
+
+51.
+M: ...(1.2) eh== siska== 'i-'iyok-an,\
+. . FIL do RED-orange-NMZ
+. . FIL 做 重疊-橘子-名物化
+
+#a 100.56, None, 104.5
+
+52.
+M: ...(1.7) ka== tatatimaeh-an ... span ka tata:a'.\
+. . NOM vegetable-NMZ . raise ACC chicken
+. . 主格 蔬菜-名物化 . <主焦>養 受格 雞
+
+#e He tends an orange orchard, plants vegetables, raises chickens.
+#c 他管理一個橘子園，種菜，養雞。
+#a 104.5, None, 109.1
+
+53.
+F: ... 'akoy ay tata:a' span-an ./
+. . AF.many Q chicken raise-NMZ .
+. . 主焦.多 疑問 雞 <完成>養-名物化 .
+
+#e Are there many chickens?
+#c 養很多雞嗎？
+#a 109.1, None, 110.92
+
+54.
+M: ... m== .. haysani== nakhara==,/
+. . FIL . now like
+. . FIL . 現在 像
+
+#a 110.92, None, 113.87
+
+55.
+M: ...(2.4) monaseb .\
+. . fifty .
+. . 五十 .
+
+#a 113.87, None, 116.72
+
+56.
+M: ...(1.5) o: hayza.\
+. . FIL EXIST
+. . FIL 存在
+
+#e Right now, there are like ... fifty.
+#c 目前大約有五十隻。
+#a 116.72, None, 118.78
+
+57.
+F: .. o==baeh kin 'akoy si-ba:iw ay./
+. . INT very AF.many RF-buy Q
+. . 感嘆 很 主焦.多 指焦-買 疑問
+
+#e Wow! So many! Do you sell (them)?
+#c 哇！好多喔！你有賣嗎？
+#a 118.78, None, 120.52
+
+58.
+M: ...(0.8) ma so: hayza ka mae'iyaeh m-wa:i' mari' ma' ... si-ba:iw.\
+. . DM COND EXIST NOM person AF-come AF.take also . RF-buy
+. . DM 條件詞 存在 主格 人 主焦-來 主焦.拿 也 . 指焦-買
+
+#e Yes, if anybody comes (to buy).
+#c 是啊，若有人來買他就賣。
+#a 120.52, None, 124.26
+
+59.
+F: .. m== 'aehae' tintin koza .. so==,/
+. . FIL one kilo how.much . FIL
+. . FIL 一 斤 多少 . FIL
+
+#e How much by kilo?
+#c 一斤多少？
+#a 124.26, None, 126.06
+
+64.
+F: .. ah==,/
+. . FIL
+. . FIL
+
+#a 133.51, None, 134.13
+
+65.
+F: ...(1.4) kayzaeh ay./
+. . AF.good Q
+. . 主焦.好 疑問
+
+#e Ah, is it reasonable?
+#c 啊，滿合理的。
+#a 134.13, None, 136.09
+
+66.
+F: ... alikah ay ka-span-en ./
+. . fast Q KA-raise-PF .
+. . 快速 疑問 KA-養-受焦 .
+
+#e Ah, is it easy to raise them?
+#c 啊，養雞簡單嗎？
+#a 136.09, None, 137.46
+
+67.
+M: ...(1.2) ma'nge==l so:== non--,\
+. . slow COND FS
+. . 慢 條件詞 FS
+
+#a 137.46, None, 140.11
+
+68.
+M: ... 'inonaka ka==,/
+. . self FIL
+. . 自己 FIL
+
+#a 140.11, None, 141.94
+
+69.
+M: ...(0.8) ka-'ina'-an ... pas'oesizo ... soiz-in ... m-wa:i' kasisiyap .. ma'angel atomalan .\
+. . KA-mother-NMZ . sit.on.egg . incubate-PF . AF-come chick . slow very .
+. . KA-母親-名物化 . <完成>孵蛋 . 孵蛋-受焦 . 主焦-來 小雞 . 慢 很 .
+
+#e It takes long for the eggs to hatch if the hen sits on them.
+#c 母雞孵蛋的話，小雞比較慢孵出來。
+#a 141.94, None, 148.19
+
+70.
+F: ... e== isaza koSa'en inkakhayza'an 'am mita' ka ka-span-en tataa' kama-saseez kama-ma'ngel ay ./
+. . FIL that FIL past FUT 1IPL.GEN NOM KA-raise-PF chicken kama-small kama-slow Q .
+. . FIL 那個 FIL 過去 未來 1IPL.屬格 主格 KA-養-受焦 雞 kama-小 kama-慢 疑問 .
+
+#e The chicks we raised before grew very slowly.
+#c 我們以前養的雞長得很慢。
+#a 148.19, None, 153.74
+
+71.
+M: ... 'ihi'',/
+. . BC
+. . BC
+
+#a 153.74, None, 154.37
+
+72.
+F: .. ai  ray babih ba:iw ay,/
+. . BC . [Hakka] . LOC other.place buy Q
+. . BC . [客語] . 處格 其他地方 <完成>買 疑問
+
+#a 154.37, None, 156.2
+
+73.
+F: ... hahoeran ba:iw ka== ka-span-an.\
+. . city buy NOM KA-raise-NMZ
+. . 都市 <完成>買 主格 KA-養-名物化
+
+#e Were they bought from other places, or from the city?
+#c 從別得地方買來嗎，還是從都市買的？
+#a 156.2, None, 158.27
+
+74.
+M: ... 'oka'.\
+. . NEG
+. . 否定
+
+#e No.
+#c 不是。
+#a 158.27, None, 159.1
+
+75.
+F: .. m==,\
+. . FIL
+. . FIL
+
+#a 159.1, None, 159.52
+
+76.
+F: ... 'ampoa' 'okay sepan ka== inay hahoeran noka==,/
+. . why NEG raise ACC from city GEN
+. . 為什麼 否定 <主焦>養 受格 從 都市 屬格
+
+#a 159.52, None, 163.38
+
+77.
+F: ...(0.8) noka== sinraehoe'a ka==,/
+. . GEN improved.kind FIL
+. . 屬格 改良種 FIL
+
+#a 163.38, None, 165.96
+
+78.
+F: pa-seez ka== 'oesizo',\
+. CAU-AF.incubate ACC egg
+. <完成>使役-主焦.孵蛋 受格 蛋
+
+#a 165.96, None, 167.61
+
+79.
+F: ... hara m-wa:i' ila kasisiyap,\
+. . like AF-come PFV chick
+. . 像 主焦-來 完成 小雞
+
+#a 167.61, None, 168.94
+
+80.
+F: ... kama-ra-rahoe',\
+. . kama-RED-grow
+. . kama-重疊-長
+
+#a 168.94, None, 170.0
+
+81.
+F: ... 'ampowa' 'okay sepan ka isaa ./
+. . why NEG AF.raise ACC that .
+. . 為什麼 否定 主焦.養 受格 那個 .
+
+#e Why don't you raise those which were incubated? They hatch faster and the chicks are bigger.
+#c 你為什麼不養那種可以用機器孵蛋的？那種比較快生小雞，小雞也長得快。
+#a 170.0, None, 171.47
+
+82.
+M: ... inakisaza'an sepan-en==,/
+. . like.that raise-PF
+. . 像那樣 養-受焦
+
+#a 171.47, None, 174.08
+
+83.
+F: ... 'a,/
+. . FS
+. . FS
+
+#a 174.08, None, 174.76
+
+84.
+M: a hahoeran ma'iaeh== koSa:==,/
+. FIL city person say
+. FIL 都市 人 <主焦>說
+
+#a 174.76, None, 176.89
+
+85.
+M: ... somay'akoyan o:.\
+. . raise.plenty DM
+. . 養很多 DM
+
+#e The people from the city say so; they raise plenty of them.
+#c 都市的人都這麼說，他們養了很多。
+#a 176.89, None, 177.92
+
+86.
+F: ... 'aewhaey ka-si'ael-en ./
+. . AF.bad KA-eat-PF .
+. . 主焦.不好 KA-吃-受焦 .
+
+#e Taste bad?
+#c 味道不好？
+#a 177.92, None, 179.0
+
+87.
+M: ... ma' 'okay koSa 'aewhaey ka-si'ael-en .\
+. . also NEG AF.say AF.bad KA-eat-PF .
+. . 也 否定 主焦.說 主焦.不好 KA-吃-受焦 .
+
+#e It's not that they taste bad.
+#c 不是說味道不好。
+#a 179.0, None, 181.35
+
+88.
+F: .. m==,\
+. . BC
+. . BC
+
+#a 181.35, None, 182.52
+
+89.
+M: ... sel ... lasia== ray tono' koSa:==,\
+. . FS . 3PL.NOM LOC mind say
+. . FS . 3PL.主格 處格 頭腦 <主焦>說
+
+#a 182.52, None, 184.76
+
+90.
+M: .. nimon hiza tabo ka== ba:iw ta-tabo.\
+. . 2PL.GEN that feed ACC buy RED-feeds
+. . 2PL.屬格 那個 <完成>餵 受格 <完成>買 重疊-飼料
+
+#e They're thinking what you feed them.
+#c 他們在想要餵什麼飼料。
+#a 184.76, None, 187.57
+
+91.
+F: .. ah,/
+. . BC
+. . BC
+
+#a 187.57, None, 188.02
+
+92.
+M: noka isaa ta-- ta'as-en ma./
+. use that FS free-PF DM
+. 用 那個 FS 放-受焦 DM
+
+#e (If) you let them free.
+#c 那如果你放他們呢？
+#a 188.02, None, 189.88
+
+93.
+F: m==,\
+. BC
+. BC
+
+#a 189.88, None, 190.08
+
+94.
+M: haysia hinghae'.\
+. still same
+. 仍然 一樣
+
+#e It's still the same.
+#c 還是一樣。
+#a 190.08, None, 190.92
+
+95.
+F: m .\
+. BC .
+. BC .
+
+#a 190.92, None, 191.73
+
+96.
+F: ...(1.9) hiza ka== tata:a' hayza' ay,\
+. . that NOM chicken EXIST Q
+. . 那個 主格 雞 存在 疑問
+
+#a 191.73, None, 195.21
+
+97.
+F: tabo-on noka== Sakap .. pa'aewpil ... hini' [ka] biae'./
+. feed-PF use vine . yam . this LNK leaf
+. 餵-受焦 用 藤 . 蕃薯 . 這個 連詞 葉子
+
+#e They are fed with yam.
+#c 用蕃薯餵他們。
+#a 195.21, None, 198.66
+
+98.
+M: [kayzaeh],/
+. AF.good
+. 主焦.好
+
+#a
+
+99.
+M: ... ma'an ka== anoka==,/
+. . 1SG.GEN NOM use
+. . 1SG.屬格 主格 用
+
+#a 198.66, None, 200.98
+
+100.
+M: .. poer'oe'==,/
+. . vegetable.leaves
+. . 蔬菜
+
+#a 200.98, None, 201.93
+
+101.
+M: ...(0.8) inoka== aewpil ... ma' hayza' .. tabo'-on .\
+. . use yam . also EXIST . feed-PF .
+. . 用 蕃薯 . 也 存在 . 餵-受焦 .
+
+#e I use vegetable leaves; I also use yam leaves.
+#c 我用蔬菜葉子，也用蕃薯葉子。
+#a 201.93, None, 206.28
+
+102.
+F: ...(0.9) tabo'-on noka aewpil ... alikih ... alikah ila rahoe',/
+. . feed-PF use yam . FS . fast PFV grow
+. . 餵-受焦 用 蕃薯 . FS . 快 完成 長
+
+#a 206.28, None, 210.29
+
+103.
+F: ... ki== ... Sakap,/
+. . CONJ . vines
+. . 連接詞 . 藤
+
+#a 210.29, None, 211.67
+
+104.
+F: ...(1.2)./
+. . . DM .
+. . . DM .
+
+#e "They grow faster fed with yam."
+#c 餵蕃薯葉他們長的比較快。
+#a 211.67, None, 213.0
+
+105.
+M: ^hing^hae',\
+. same
+. 一樣
+
+#a 213.0, None, 213.92
+
+106.
+F: ... ai .\
+. . BC .
+. . BC .
+
+#a 213.92, None, 214.51
+
+107.
+F: ... hiza tata:a',/
+. . that chicken
+. . 那 雞
+
+#a 214.51, None, 215.57
+
+108.
+F: ... koSa'en kama-saseez nanaw alikah hayza'an mita',/
+. . DM kama-small originally fast past 1IPL.GEN
+. . DM kama-小型 原本 快 過去 1IPL.屬格
+
+#a 215.57, None, 218.03
+
+109.
+F: .. span ka tata:a' isaa kama-saseez nanaw,\
+. . raise ACC chicken that kama-small originally
+. . <主焦>養 受格 雞 那 kama-小 原本
+
+#a 218.03, None, 219.86
+
+110.
+F: ... 'ana-tabo:-on ma' hinghae' ma'ngel sobae:oeh .\
+. . whatever-feed-PF also same slow grow .
+. . 無論-餵-受焦 也 一樣 慢 長 .
+
+#e The chicken we raised before were small and it took long for them to grow, whatever you feed them.
+#c 我們之前養的雞都很小，很久才長大，不管你餵他們什麼。
+#a 219.86, None, 222.06
+
+111.
+M: .. 'ihi',/
+. . BC
+. . BC
+
+#a 222.06, None, 222.5
+
+112.
+F: .. mhm,/
+. . BC
+. . BC
+
+#a 222.5, None, 222.89
+
+113.
+M: 'am isaza.\
+. FUT that
+. 未來 那
+
+#e It's like that.
+#c 像那樣子。
+#a 222.89, None, 223.48
+
+114.
+M: ...(1.5) rangi' So'o isahini ... siska kano' ila ./
+. . VOC 2SG.NOM now . do what PFV .
+. . 呼格 2SG.主格 現在 . 做 什麼 完成 .
+
+#e What do you do now?
+#c 那你現在要做什麼？
+#a 223.48, None, 227.12
+
+115.
+F: ...(0.8) yako== 'ima== mamowa' ka== ka'niw hato mamaongan .\
+. . 1SG.NOM PROG AF.plant ACC mushroom there PN .
+. . 1SG.主格 進行 主焦.種 受格 香菇 那裡 地名 .
+
+#e I plant mushrooms.
+#c 我種香菇。
+#a 227.12, None, 231.39
+
+116.
+M: ...(0.9) ai,\
+. . BC
+. . BC
+
+#a 231.39, None, 232.23
+
+117.
+M: ... 'akoy ay pamowa'-an ./
+. . AF.many Q plant-NMZ .
+. . 主焦.多 疑問 <完成>種-名物化 .
+
+#e How much do you plant?
+#c 那你種多少？
+#a 232.23, None, 233.43
+
+118.
+F: ...(0.8) ma'an pamowa'-an ititi'an nanaw .\
+. . 1SG.GEN plant-NMZ a.bit only .
+. . 1SG.屬格 <完成>種-名物化 一點 只 .
+
+#a 233.43, None, 235.72
+
+119.
+F: .. okik lal'oz noka mae'iyaeh mari'-in ba:iw-in .\
+. . NEG enough GEN person take-PF buy-PF .
+. . 否定 足夠 屬格 人 拿-受焦 買-受焦 .
+
+#e Just a bit. Not enough to sell.
+#c 只有一點。不夠賣。
+#a 235.72, None, 237.69
+
+120.
+M: ...(0.8) ma' .. nakisaza kayzaeh.\
+. . FIL . like.that AF.good
+. . FIL . 像那樣 主焦.好
+
+#e That is good.
+#c 那好啊。
+#a 237.69, None, 240.3
+
+121.
+M: ...(0.8) so: koisiya'-en atomalan ma'.\
+. . COND seed-PF many also
+. . 條件詞 種子-受焦 多 也
+
+#e (It's too troublesome) if (you plant) too much.
+#c 種太多太麻煩。
+#a 240.3, None, 242.67
+
+122.
+M: ...(1.1) so:,\
+. . COND
+. . 條件詞
+
+#a 242.67, None, 244.29
+
+123.
+M: ...(1.5) 'akoy 'iya-atomalan ila==,/
+. . AF.many IYA-many PFV
+. . 主焦.多 IYA-多 完成
+
+#a 244.29, None, 247.29
+
+124.
+M: ...(0.8) mae'iyaeh 'okay wa:i' mari' ma' 'aewhaey,\
+. . person NEG AF.come AF.take also AF.bad
+. . 人 否定 主焦.來 主焦.拿 也 主焦.不好
+
+#a 247.29, None, 249.82
+
+125.
+M: ...(1.4) boeloe atomal ka hahila==.\
+. . waste very ACC day
+. . 浪費 很 受格 日子
+
+#e If (you plant) too many, it's not good if nobody comes to buy (them). It's just a waste of time.
+#c 種太多的話，沒人買也不好，只是浪費時間而已。
+#a 249.82, None, 252.61
+
+126.
+F: .. m==,\
+. . FIL
+. . FIL
+
+#a 252.61, None, 253.12
+
+127.
+F: ...(0.9) 'oka' ila o:,/
+. . NEG PFV DM
+. . 否定 完成 DM
+
+#a 253.12, None, 254.9
+
+128.
+M: ...(1.4) boeloe' atomal ka hahila==,/
+. . waste very ACC day
+. . 浪費 很 受格 日子
+
+#e (It's) just a waste of time.
+#c 只是浪費時間。
+#a 254.9, None, 254.96
+
+129.
+F: .. m==,\
+. . FIL
+. . FIL
+
+#a 254.96, None, 255.03
+
+130.
+F: ...(0.9) 'oka' ila o:==,/
+. . NEG PFV DM
+. . 否定 完成 DM
+
+#a 255.03, None, 255.11
+
+131.
+F: ... inak hini'an ma' nakhara==,/
+. . like this also like.that
+. . 像 這 也 像那樣
+
+#a 255.11, None, 256.82
+
+132.
+F: ...(1.1) ma'iaeh ... 'am==,\
+. . person . FUT
+. . 人 . 未來
+
+#a 256.82, None, 259.25
+
+133.
+F: si'ael ka 'ima==-manta' saboeh.\
+. eat ACC ima-raw all
+. <主焦>吃 受格 ima-生 全部
+
+#e Like ... some people like them raw.
+#c 像有人喜歡吃生的。
+#a 259.25, None, 260.82
+
+134.
+F: ...(1.6) ma==,/
+. . DM
+. . DM
+
+#a 260.82, None, 263.06
+
+135.
+F: ... lasia ki:im ka 'ima-manta' ka kasi'aelen isaa./
+. . 3PL.NOM look.for ACC ima-raw ACC food there
+. . 3PL.主格 <主焦>找 受格 ima-生 受格 食物 那裡
+
+#e They look for raw food.
+#c 他們會找生的食物。
+#a 263.06, None, 265.92
+
+136.
+F: ...(1.7) komoSa: kayzaeh si'ael-en.\
+. . FIL AF.good eat-PF
+. . FIL 主焦.好 吃-受焦
+
+#e They're good to eat.
+#c 很好吃。
+#a 265.92, None, 268.72
+
+137.
+F: ... lasia ba:iw-in ka 'ima-manta'.\
+. . 3PL.NOM buy-PF ACC IMA-raw
+. . 3PL.主格 買-受焦 受格 IMA-生
+
+#e They buy the raw ones.
+#c 他們都買生的。
+#a 268.72, None, 270.52
+
+138.
+M: ... ai==,\
+. . BC
+. . BC
+
+#a 270.52, None, 271.47
+
+139.
+F: ... 'oka' 'okayen ila ka.\
+. . NEG NEG PFV DM
+. . 否定 否定 完成 DM
+
+#e They're sold out.
+#c 都賣完了。
+#a 271.47, None, 272.65
+
+140.
+F: 'ima-manta' 'oka' ila ka-solsol-on./
+. IMA-raw NEG PFV KA-dry-PF
+. IMA-生 否定 完成 KA-燻乾-受焦
+
+#e The raw ones to be dried are sold out.
+#c 曬乾的生的都賣完了。
+#a 272.65, None, 274.03
+
+141.
+M: ...(1.1) nak'isa kayzaeh.\
+. . like.that AF.good
+. . 像那樣 主焦.好
+
+#e That's good.
+#c 那好啊。
+#a 274.03, None, 275.83
+
+142.
+F: ititi'an nanaw ka pamowa'.\
+. a.bit only NOM plant
+. 一點 只 主格 <完成>種
+
+#e We plant very few (mushrooms).
+#c 我們種的香菇很少。
+#n AF form of p<in>amowa' is mamowa'
+#a 275.83, None, 277.23
+
+143.
+M: ...(0.8) kayzaeh ka haw maksa' m-wa:i'.\
+. . AF.good KA there immediately AF-come
+. . 主焦.好 KA 那裡 馬上 主焦-來
+
+#e It's good (to pick the bigger mushrooms so that) the little ones can grow soon.
+#c 採比較大的香菇比較好，這樣小的才會長出來。
+#a 277.23, None, 279.34
+
+144.
+F: (H) (Hx) (H) (Hx) (H) (Hx) 'ititi'an ka rayhil la==.\
+. . . . . . . a.bit NOM money INT
+. . . . . . . 一點 主格 錢 感嘆
+
+#e Not much money lah.
+#c 沒那麼多錢啦。
+#a 279.34, None, 281.75
+
+145.
+M: ka [kayzaeh kay] pak-hoepay.\
+. ?? AF.good NEG CAU-tire
+. ?? 主焦.好 否定 使役-累
+
+#e Good. It's not too tiring.
+#c 好啊，那樣不會很累。
+#a 281.75, None, 283.26
+
+146.
+F: [XX]
+. XX
+. XX
+
+#a
+
+147.
+F: m==,\
+. FIL
+. FIL
+
+#a 283.26, None, 283.58
+
+148.
+F: ... 'okik wa'isan ka-ba:iw-an ma' isaa ... 'am nak'ino'./
+. . NEG expensve KA-buy-NMZ also there . FUT so.what
+. . 否定 貴 KA-買-名物化 也 那裡 . 未來 那又如何
+
+#e The market price is not good. What can we do?
+#c 市場上的價格不好，我們怎麼辦？
+#a 283.58, None, 286.84
+
+149.
+F: ...(2.7) 'am==,\
+. . FUT
+. . 未來
+
+#a 286.84, None, 290.29
+
+150.
+F: ...(1.1) 'okik ... potngor ka== pina-wka'an ka isaa rayhil o: 'am ba:iw isaa ka== topon na ... ka'niw.\
+. . NEG . AF.arrive ACC PINA-spend ACC that money DM FUT AF.buy that ACC fungus or . mushroom
+. . 否定 . 主焦.到達 受格 PINA-消費 受格 那 錢 DM 未來 主焦.買 那 受格 木耳 或 . 香菇
+
+#e It's not even enough money to cover the cost to buy the edible fungus or mushroom.
+#c 還不夠錢去買可以吃的香菇。
+#a 290.29, None, 297.72
+
+151.
+M: ...(1.4) rangi' hiziyo' rima' naehaen ray ... bangol ... talboeyoe'./
+. . VOC PN AF.go again LOC . forest . AF.hunt
+. . 呼格 人名 主焦.去 再 處格 . 森林 . 主焦.獵
+
+#e Does Hiziyo still go hunting?
+#c Hiziyo還是有打獵嗎？
+#a 297.72, None, 302.97
+
+152.
+F: ...(1.7) 'oka' ila.\
+. . NEG PFV
+. . 否定 完成
+
+#e No.
+#c 沒有。
+#a 302.97, None, 305.04
+
+153.
+M: ... 'oka' ila.\
+. . NEG PFV
+. . 否定 完成
+
+#e No.
+#c 沒有喔。
+#a 305.04, None, 305.69
+
+154.
+F: m==,\
+. FIL
+. FIL
+
+#a 305.69, None, 306.1
+
+155.
+F: ...(0.9) sia mamowa' ila ka ka'niw.\
+. . 3SG.NOM AF.plant PFV ACC mushroom
+. . 3SG.主格 主焦.種 完成 受格 香菇
+
+#e He plants mushroom.
+#c 他種香菇。
+#a 306.1, None, 308.25
+
+156.
+M: ... ay==,\
+. . BC
+. . BC
+
+#a 308.25, None, 309.31
+
+157.
+F: ...(2.7) sia hasa' talboeyoe' o:./
+. . 3SG.NOM be.unable.to AF.hunt DM
+. . 3SG.主格 不能 主焦.獵 DM
+
+#e He doesn't know how to set traps.
+#c 他不會設陷阱。
+#a 309.31, None, 313.28
+
+158.
+M: ...(1.0) nak isaza ay./
+. . like that Q
+. . 像 那 疑問
+
+#e Is that so?
+#c 是這樣喔。
+#a 313.28, None, 314.7
+
+159.
+F: .. m,\
+. . FIL
+. . FIL
+
+#a 314.7, None, 315.3
+
+160.
+F: ... sia hasa' talboeyoe',\
+. . 3SG.NOM NEG AF.hunt
+. . 3SG.主格 否定 主焦.獵
+
+#a 315.3, None, 316.78
+
+161.
+F: ...(1.3) sia==,/
+. . 3SG.NOM
+. . 3SG.主格
+
+#a 316.78, None, 318.55
+
+162.
+F: ...(2.3) hasa' tay'itol ka kahoey na==./
+. . NEG AF.move.up ACC tree FIL
+. . 否定 主焦.往上 受格 樹 FIL
+
+#e He doesn't know how to set traps, and he doesn't climb trees.
+#c 他不會設陷阱，也不會爬樹。
+#a 318.55, None, 322.05
+
+163.
+M: ... hai,\
+. . BC
+. . BC
+
+#a 322.05, None, 323.03
+
+164.
+F: ...(1.1) tikot tay'itol ka kaehoey.\
+. . AF.afraid AF.move.up ACC tree
+. . 主焦.害怕 主焦.往上 受格 樹
+
+#e He's afraid to climb trees.
+#c 他害怕爬樹。
+#a 323.03, None, 325.2
+
+165.
+M: ...(3.3) hiza haehoer ray==,\
+. . there below LOC
+. . 那裡 下面 處格
+
+#a 325.2, None, 329.48
+
+166.
+M: ... kalhib,\
+. . cave
+. . 山洞
+
+#a 329.48, None, 330.59
+
+167.
+M: ...(1.0) pa-tiyay pamowa'-an nia ka pazay./
+. . CAU-AF.cultivate plant-NMZ 3SG.GEN ACC rice
+. . 使役<完成>-主焦.耕種 <完成>種-名物化 3SG.屬格 受格 稻
+
+#e Doesn't he plant rice there at Penglai?
+#c 他不是在蓬萊種稻米嗎？
+#a 330.59, None, 333.22
+
+168.
+F: ... 'oka' ila,\
+. . NEG PFV
+. . 否定 完成
+
+#a 333.22, None, 334.14
+
+169.
+M: ... 'oka' ila,\
+. . NEG PFV
+. . 否定 完成
+
+#a 334.14, None, 334.7
+
+170.
+F: haysani' 'oka' ka ralom.\
+. now NEG NOM water
+. 現在 否定 主格 水
+
+#e There's no water right now.
+#c 現在沒有水。
+#a 334.7, None, 335.92
+
+171.
+M: ... hai==,\
+. . BC
+. . BC
+
+#a 335.92, None, 336.72
+
+172.
+F: a==zaw-en azaw-en o:.\
+. heat-PF heat-PF DM
+. 熱-受焦 熱-受焦 DM
+
+#e There's drought.
+#c 有旱災。
+#a 336.72, None, 338.25
+
+174.
+F: ... yami o:,/
+. . 1EPL.NOM DM
+. . 1EPL.主格 DM
+
+#a 340.33, None, 341.49
+
+175.
+F: ...(1.3) 'am== mamowa' ka ka'niw.\
+. . FUT AF.plant ACC mushroom
+. . 未來 主焦.種 受格 香菇
+
+#e We plant mushroom instead.
+#c 我們種香菇。
+#a 341.49, None, 343.99
+
+176.
+F: 'oka' ila ka== hahila nom matawaw ka pa-tiyay niya'om ka pa-taas-en naehaen./
+. NEG PFV NOM day use AF.work ACC CAU-AF.cultivate 1EPL.GEN NOM CAU-put.off-PF still
+. 否定 完成 主格 日子 用 主焦.工作 受格 使役<完成>-主焦.耕種 1EPL.屬格 主格 使役-延後-受焦 仍然
+
+#e We don't have time to work in the fields. We need to put it off first.
+#c 我們沒有時間在田裡工作，需要延後。
+#a 343.99, None, 347.7
+
+177.
+F: ...(1.0) haw niya'om l==ayanay ma' isaa matawaw ray babi.\
+. . there 1EPL.GEN daughter.in.law too there AF.work LOC outside
+. . 那裡 1EPL.屬格 媳婦 也 那裡 主焦j工作 處格 外面
+
+#e Our daughter-in-law also works in another place.
+#c 我們媳婦在別的地方工作。
+#a 347.7, None, 351.05
+
+178.
+F: ...(0.8) ma 'oka' nom== talboewah ka hiza==,/
+. . too NEG do AF.weed ACC that . [Jap] .
+. . 也 否定 做 主焦.割草 受格 那 . [日語] .
+
+#a 351.05, None, 353.81
+
+179.
+F: 'oka' nom talboewah ka pa-tiai nomsia.\
+. NEG do AF.weed ACC CAU-AF.cultivate ??
+. 否定 做 主焦.割草 受格 使役<完成>-主焦.耕種 ??
+
+#e There's nobody to do the weeding and the cleaning of the place.
+#c 沒有人割草、清理地方。
+#a 353.81, None, 356.21
+
+180.
+F: ... patpatalpeteh.\
+. . cut.short
+. . 剪短
+
+#e  ... and cut (some things).
+#c 剪剪一些東西。
+#a 356.21, None, 357.9
+
+181.
+M: ...(1.3) ka-sangay-an ma' kayzaeh./
+. . KA-rest-NMZ too AF.good
+. . KA-休息-名物化 也 主焦.好
+
+#e (Doing the cleaning) during the holiday is also good.
+#c 假日處理也好。
+#a 357.9, None, 360.22
+
+182.
+M: ...(1.0) a== 'oem-'oemaeh so==,\
+. . FIL RED-field COND
+. . FIL 重疊-田地 條件詞
+
+#a 360.22, None, 362.94
+
+183.
+M: ...(0.9) to== towa'isin so:el-en ila nanaw.\
+. . FIL always keep-PF PFV still
+. . FIL 一直 保持-受焦 完成 仍然
+
+#e If one does not maintain the field, (the weeds will start to grow).
+#c 田地若不處理好，就會長雜草。
+#a 362.94, None, 365.74
+
+184.
+M: ... pamowa'-en ma==,\
+. . plant-PF DM
+. . 種-受焦 DM
+
+#a 365.74, None, 367.09
+
+185.
+M: ... 'am iya-- 'am 'iyaomzae'.\
+. . FUT FS FUT weed
+. . 未來 FS 未來 雜草
+
+#e The plants will grow weeds.
+#c 會長雜草。
+#a 367.09, None, 369.53
+
+186.
+F: ... 'oka',\
+. . NEG
+. . 否定
+
+#a 369.53, None, 370.39
+
+187.
+F: ma'an hiza ka==,\
+. 1SG.GEN there NOM
+. 1SG.屬格 那裡 主格
+
+#a 370.39, None, 371.74
+
+188.
+F: .. 'oem-'oemaeh-an ... ra:i' ray== kaminrawko'an.\
+. . RED-field-NMZ . ground LOC foot.of.hill
+. . 重疊-田地-名物化 . 地 處格 山腰
+
+#e No. My field is located at the foot of the hill (where there are plenty of raoko plants.)
+#c 不，我的田在山腰。
+#n kaminraoko'an 'foot.of.hill' < ka-MIN-plant-LF
+#a 371.74, None, 374.94
+
+189.
+F: ... 'ana pamowa'-en ka kano' ma' rikrika==./
+. . regardless plant-PF NOM what also hot
+. . 無論 種-受焦 主格 什麼 也 熱
+
+#e Whatever is planted, (the weather is always) hot.
+#c 不管種什麼東西，天氣總是熱的。
+#a 374.94, None, 377.45
+
+190.
+F: ... so== rikrika-en ila ma'isaa,/
+. . COND hot-PF PFV like.that
+. . 條件詞 熱-受焦 完成 像那樣
+
+#e If the weather is hot,
+#c 若天氣熱，
+#a 377.45, None, 379.25
+
+191.
+F: 'ana pamowa'-an tatimae' ma ayayo' ila saboeh./
+. regardless plant-NMZ vegetable FUT wilt PFV all
+. 無論 <完成>-種-名物化 蔬菜 未來 枯萎 完成 全部
+
+#e the plants will all wilt.
+#c 植物都會枯萎。
+#a 379.25, None, 381.6
+
+192.
+F: ... mtari' ya'.\
+. . AFrot DM
+. . 主焦<完成>枯 DM
+
+#e The leaves will wither.
+#c 葉子會枯萎。
+#a 381.6, None, 382.73
+
+193.
+M: ... a==y,\
+. . BC
+. . BC
+
+#a 382.73, None, 383.73
+
+194.
+M: ...(1.4) na==k ... nakisaa ra:am-en ka==,\
+. . FS . like.this who.knows NOM
+. . FS . 像這樣 或許 主格
+
+#a 383.73, None, 387.61
+
+195.
+M: ...(1.3) ka 'i'izo' ... iya==-sama'an noka.\
+. . NOM inside . IYA-clay GEN
+. . 主格 裡面 . IYA-黏土 屬格
+
+#e Who knew that under the ground is clay soil?
+#c 誰知道地下是黏土。
+#a 387.61, None, 391.76
+
+196.
+F: ...(1.6) ma 'ima nak isaza 'a.\
+. . also ima like that ??
+. . 也 ima 像 那樣 ??
+
+#e It's probably like that.
+#c 也許是這樣。
+#a 391.76, None, 394.17
+
+197.
+F: ... 'anhi' kasoratoran,\
+. . bamboo newly.grown
+. . 竹 剛長
+
+#a 394.17, None, 395.79
+
+198.
+F: ... so== 'am mamowa' ila.\
+. . COND FUT AF.plant PFV
+. . 條件詞 未來 主焦.種 完成
+
+#e If (you) have to plant.
+#c 你若要種。
+#a 395.79, None, 397.04
+
+199.
+F: amisan ila isaa== pamowa'-en ka kano'./
+. winter PFV that plant-PF ACC what
+. 冬 完成 那裡 種-受焦 受格 什麼
+
+#e What to plant at winter?
+#c 冬天要種什麼？
+#a 397.04, None, 399.0
+
+200.
+F: ...(1.2) hara poer'oe kama-potoy isaa .. inak isa'an.\
+. . then vegetable kama-wrap that . like that
+. . 然後 蔬菜 kama-包 那樣 . 像 那樣
+
+#e Cabbages, like that.
+#c 像白菜那樣。
+#a 399.0, None, 402.11
+
+201.
+F: mita' hara siska ka-pamowa' isaa.\
+. 1IPL.GEN then do KA-plant there
+. 1IPL.屬格 然後 做 KA-種 那裡
+
+#e Then we do the planting, like that.
+#c 然後就種，就這樣。
+#a 402.11, None, 404.23
+
+202.
+F: ... 'ini nonak ka-si'ael-en kayzaeh.\
+. . DAT self KA-eat-PF AF.good
+. . 予格 自己 KA-吃-受焦 主焦.好
+
+#e Only good for ourselves to eat.
+#c 只是給自己吃。
+#a 404.23, None, 405.8
+
+203.
+F: ... koSa: mamowa' ka ka-ba-ba:iw ma',\
+. . say AF.plant ACC KA-RED-sell too
+. . <主焦>說 主焦.種 受格 KA-重疊-賣 也
+
+#a 405.8, None, 407.78
+
+204.
+F: ... 'oka' ila yami i: pa-mowa'.\
+. . NEG PFV 1EPL.NOM I CAU-plant
+. . 否定 完成 1EPL.主格 I 使役-種
+
+#e We don't plant those for sale.
+#c 我們種那些不是拿來賣的。
+#a 407.78, None, 408.97
+
+205.
+M: ...(1.8) may hiza mamaongan ... anhi' sem'el ila ay./
+. . pass there PN . bamboo grow PFV Q
+. . 過 那裡 地名 . 竹 長 完成 疑問
+
+#e Passing by there, have you seen the bamboo grow there?
+#c 你經過那裡有沒有看到竹筍長出來？
+#n mamaongan: 地名，高山青再過去的一座山, 長很多蕨類(溝蕨)。
+#n Note: mamaongan is the name of a mountain where ferns are abundant.
+#a 408.97, None, 413.02
+
+206.
+F: ... 'i'ini',/
+. . not.yet
+. . 尚未
+
+#a 413.02, None, 413.81
+
+207.
+M: m==,\
+. FIL
+. FIL
+
+#a 413.81, None, 414.93
+
+208.
+F: ...(1.2)  sem'el ila.\
+. . bamboo grow PFV
+. . 孟宗竹 長 完成
+
+#e The miyowmi have grown.
+#c 竹子長出來的。
+#a 414.93, None, 416.11
+
+209.
+M: ... 
+. . . BC .
+. . . BC .
+
+#a 416.11, None, 416.84
+
+210.
+F: ...(3.3) ro:o' hayza' ay mamowa' ka miyowmi./
+. . PN EXIST Q AF.plant ACC bamboo
+. . 人名 存在 疑問 主焦.種 受格 竹
+
+#e Does Roo' plant bamboo?
+#c Roo種孟宗竹嗎？
+#a 416.84, None, 421.83
+
+211.
+M: ...(1.0) hayza,\
+. . EXIST
+. . 存在
+
+#a 421.83, None, 423.05
+
+212.
+F: ... hayza,\
+. . EXIST
+. . 存在
+
+#a 423.05, None, 423.66
+
+213.
+F: ...(1.3) yami==,\
+. . 1EPL.NOM
+. . 1EPL.主格
+
+#a 423.66, None, 425.34
+
+214.
+F: ...(1.2) 'oka',\
+. . NEG
+. . 否定
+
+#a 425.34, None, 426.65
+
+215.
+F: ka miyowmi kita' noka may hiza ka yami==' may isaza 'okay kita' sem'el ila.\
+. FIL bamboo see GEN pass there NOM 1EPL.NOM pass there NEG AF.see grow PFV
+. FIL 竹 <主焦>看 屬格 過 那裡 主格 1EPL.主格 過 那裡 否定 主焦.看 長 完成
+
+#e The bamboo we planted there, people passing by did not notice if they have grown.
+#c 我們在那裡種的竹子，有人經過不會注意到有沒有長出來。
+#n ka yami 'oka' may isaza kik ra:ami sem'el ka 'anhi'
+#a 426.65, None, 429.52
+
+216.
+F: ...(2.1) o: ma'an ka== tata:a' o== bibi o== tababen,\
+. . FIL 1SG.GEN NOM chicken FIL duck FIL geese
+. . FIL 1SG.屬格 主格 雞 FIL 鴨 FIL 鵝
+
+#a 429.52, None, 434.57
+
+217.
+F: ...(1.3) ka==,\
+. . FIL
+. . FIL
+
+#a 434.57, None, 436.63
+
+218.
+F: ...(2.4) ka tabtabo:on noka== .. kamapotoypoer'oe== so: sahpi:ih ila yao 'am mamowa' ila ka==.\
+. . FIL feed-PF GEN . cabbage COND pass PFV 1SG.NOM FUT AF.plant PFV ACC
+. . FIL 餵-受焦 屬格 . 白菜 條件詞 過 完成 1SG.主格 未來 主焦.種 完成 受格
+
+#e I use cabbage to feed the geese. When it is not the right time to plant cabbage, I grow other...
+#c 我用白菜餵鵝,如果白菜過期後,改種...
+#n kamapotoy poer'oe'oe 'cabbage' < KAMA-pack-vegetable (KAMA-包-蔬菜)
+#a 436.63, None, 444.5
+
+219.
+F: ...(0.8) aewpil ka mari'-in ka sakap tatabo: ka bibi'.\
+. . yam LNK take-PF LNK leaf AF.feed ACC duck
+. . 蕃薯 連詞 拿-受焦 連詞 葉子 主焦.餵 受格 鴨
+
+#e The yam leaves are to feed the duck.
+#c 蕃薯的藤都可以拿來餵鴨子。
+#a 444.5, None, 447.57
+
+220.
+M: ... ha==i,\
+. . BC
+. . BC
+
+#a 447.57, None, 448.31
+
+221.
+F: .. so: la'oz ila ma'./
+. . COND enough PFV DM
+. . 條件詞 足夠 完成 DM
+
+#e If (the ducks have grown) enough,
+#c 鴨子若長大了，
+#a 448.31, None, 449.52
+
+222.
+F: ...(1.2) ka-hi-hiwa'-en ila ka-si'ael-en ka-powa'-en so: tatini'-in.\
+. . KA-RED-kill-PF PFV KA-eat-PF KA-why-PF COND old-PF
+. . KA-重疊-殺-受焦 完成 KA-吃-受焦 KA-為什麼-受焦 條件詞 老-受焦
+
+#e The ducks can be killed as soon as they grow old. Why do you raise them until old age?
+#c 鴨子大了就可以殺，為何要養到老？
+#a 449.52, None, 452.96
+
+223.
+M: ... 'ihi',/
+. . BC
+. . BC
+
+#a 452.96, None, 453.6
+
+224.
+F: 'aewhaey ma==,\
+. AF.bad DM
+. 主焦.不好 DM
+
+#a 453.6, None, 454.45
+
+225.
+F: ...(1.1) 'as-'asay ka tatabo:.\
+. . RED-waste ACC feeds
+. . <主焦>重疊-浪費 受格 飼料
+
+#e It's a waste of feeds.
+#c 這樣浪費飼料。
+#a 454.45, None, 456.78
+
+226.
+M: ... 'ihi',\
+. . BC
+. . BC
+
+#a 456.78, None, 457.48
+
+227.
+F: ...(4.6) So'o ka-rim'aen-an rima' ray hato: sater hi== rangi' 'ayon./
+. . 2SG.NOM this.morning-NMZ go LOC there send.off ACC relative PN
+. . 2SG.主格 今早-名物化 去 處格 那裡 <主焦>送行 受格 親戚 人名
+
+#e Did you send off your relative Ayon this morning?
+#c 你今早去幫親戚Ayon送行嗎？
+#a 457.48, None, 464.73
+
+228.
+F: ...(0.9) 'ima hinpilaz./
+. . ima what.time
+. . ima 什麼時間
+
+#e At what time?
+#c 什麼時間？
+#a 464.73, None, 466.4
+
+229.
+M: ...  ... potngor ray==,\
+. . . 1SG.NOM . . AF.arrive LOC
+. . . 1SG.主格 . . 主焦.到達 處格
+
+#a 466.4, None, 469.69
+
+230.
+M: ...(0.8) taew'an 'ima ... kaksi'aelan.\
+. . house ima . noon
+. . 家 ima . 中午
+
+#e Arrived at the (Ayon's) house at noon.
+#c 我中午的時候到達Ayon家裡。
+#a 469.69, None, 473.02
+
+231.
+F: ...(1.1) hay komsi'ael naehaen ray taew'an.\
+. . LOC have.lunch first LOC house
+. . 處格 吃午飯 首先 處格 家
+
+#e You ate lunch at Ayon's home first.
+#c 你在Ayon家先吃午餐。
+#a 473.02, None, 474.56
+
+232.
+M: ... 'ihi' komsi'ael naehaen taew'an o:.\
+. . BC have.lunch first house DM
+. . BC 吃午餐 先 家 DM
+
+#e Yes. I had lunch at her house first.
+#c 是啊。我先在他家吃午餐。
+#a 474.56, None, 476.5
+
+233.
+M: .. rima' naehaen kita' lasia 'am==,/
+. . AF.go again see 3PL.NOM FUT
+. . 主焦.去 再 <主焦>看 3PL.主格 未來
+
+#a 476.5, None, 478.44
+
+234.
+M: ...(0.8) somobaboeyoe' haw.\
+. . prepare.soil.for.planting.ginger there
+. . 種薑準備土壤 那裡
+
+#e (After lunch), I went to see the workers preparing to plant ginger there.
+#c 吃過午餐後，我去看工人準備土壤。
+#a 478.44, None, 480.49
+
+235.
+M: ...(1.0) isaahaw ... moe-hae'oe.\
+. . that.time . AF-move.down
+. . 那.時候 . 主焦-往下
+
+#e (They planted) in a downward direction then?
+#c 那他們往下的方向種？
+#a 480.49, None, 482.35
+
+236.
+F: .. 'am mamowa' kanso'.\
+. . FUT AF.plant 2SG.LOC
+. . 未來 主焦.種 2SG.處格
+
+#e (They) are going to plant your (ginger).
+#c 他們要幫你種薑。
+#a 482.35, None, 483.58
+
+237.
+M: ... m==,\
+. . FIL
+. . FIL
+
+#a 483.58, None, 484.39
+
+238.
+F: ... 'am== piza' haw lasia./
+. . FUT how.much there 3PL.NOM
+. . 未來 多少 那裡 3PL.主格
+
+#e How many (workers) are they?
+#c 有多少工人？
+#a 484.39, None, 485.83
+
+239.
+M: .. to:o'.\
+. . three
+. . 三
+
+#e Three.
+#c 三個。
+#a 485.83, None, 486.66
+
+240.
+F: .. to:o'.\
+. . three
+. . 三
+
+#a 486.66, None, 487.22
+
+241.
+F: ... (H) lahiya-hiya./
+. . . who-RED
+. . . 誰-重疊
+
+#e Which people?
+#c 哪些人？
+#a 487.22, None, 488.51
+
+242.
+M: ...(1.2) e== ... 'ama' no aki ki== 'a'ari'.\
+. . FIL . son.in.law NO PN CONJ PN
+. . FIL . 女婿 NO 人名 連接詞 人名
+
+#e (Ayon's) son-in-law, Aki, and Aari.
+#c Ayon的女婿、Aki和Aari。
+#a 488.51, None, 492.81
+
+243.
+F: ...(1.2) ai==,\
+. . BC
+. . BC
+
+#a 492.81, None, 494.1
+
+244.
+F: ... aki==' ... 'ay 'ama' no aki' ki aki' ki,/
+. . PN . Q son.in.law NO PN CONJ PN CONJ
+. . 人名 . 疑問 女婿 NO 人名 連接詞 人名 連接詞
+
+#a 494.1, None, 497.63
+
+245.
+M: ...(0.8) 'a'ari',\
+. . PN
+. . 人名
+
+#a 497.63, None, 498.41
+
+246.
+F: ... 'a'ari',\
+. . PN
+. . 人名
+
+#a 498.41, None, 498.91
+
+247.
+F: ...(0.8) ari' insiya'a minkoringan./
+. . PN 3SG.GEN wife
+. . 人名 3SG.屬格 妻子
+
+#e Ari is his wife.
+#c Ari是他太太。
+#a 498.91, None, 500.55
+
+248.
+M: ... 'ihi',\
+. . BC
+. . BC
+
+#a 500.55, None, 501.09
+
+249.
+F: ... hiya' isa 'aehae',/
+. . who that one
+. . 誰 那 一
+
+#a 501.09, None, 502.26
+
+250.
+F: ...(1.5) 'aehae' [XX]./
+. . one XX
+. . 一 XX
+
+#e And the other one?
+#c 那另一人是誰呢？
+#a 502.26, None, 504.27
+
+251.
+M: ['ama'] no aki' .\
+. son.in.law NO PN . [Hakka] .
+. 女婿 NO 人名 . [客語] .
+
+#e Aki is son-in-law.
+#c Aki是女婿。
+#a
+
+252.
+F: .. 'ama' no aki' .\
+. . son.in.law NO PN . [Hakka] .
+. . 女婿 NO 人名 . [客語] .
+
+#e Aki is son-in-law.
+#c Aki是女婿。
+#a 504.27, None, 505.52
+
+253.
+M: .. m== .. ki ari'.\
+. . FIL . CONJ PN
+. . FIL . 連接詞 人名
+
+#e And Ari.
+#c 還有Ari。
+#a 505.52, None, 506.53
+
+254.
+F: ari',\
+. PN
+. 人名
+
+#a 506.53, None, 507.35
+
+255.
+M: m==,\
+. FIL
+. FIL
+
+#a 507.35, None, 507.73
+
+256.
+F: hai,/
+. BC
+. BC
+
+#a 507.73, None, 508.23
+
+257.
+M: ... 'ihi'./
+. . BC
+. . BC
+
+#a 508.23, None, 508.98
+
+258.
+F: ay,\
+. BC
+. BC
+
+#a 508.98, None, 509.39
+
+259.
+M: ... ataw,\
+. . PN
+. . 人名
+
+#a 509.39, None, 509.82
+
+260.
+F: .. ay,\
+. . BC
+. . BC
+
+#a 509.82, None, 510.33
+
+261.
+M: ... 'ataw,\
+. . PN
+. . 人名
+
+#a 510.33, None, 511.2
+
+262.
+F: ...(1.5) 'ataw ma' hisia makakreng 'atomalan.\
+. . PN too 3SG.ACC AF.hardworking really
+. . 人名 也 3SG.受格 主焦.勤勞 真的
+
+#e Ataw he is really hardworking.
+#c Ataw真的很勤勞。
+#a 511.2, None, 513.55
+
+263.
+F: ... mari'-ani ila ka==,/
+. . take-RF PFV ACC
+. . 拿-指焦 完成 受格
+
+#a 513.55, None, 515.26
+
+264.
+F: ... hi yanay.\
+. . ACC daughter.in.law
+. . 受格 媳婦
+
+#e He can get himself a wife.
+#c 他可以娶太太。
+#a 515.26, None, 516.42
+
+265.
+M: ...(0.9) hiya' a'ra:ama hisia.\
+. . who want 3SG.ACC
+. . 誰 要 3SG.受格
+
+#e Who wants to get married to him?
+#c 誰想嫁給他？
+#a 516.42, None, 518.65
+
+266.
+F: ...(1.4) nisia nonak ... kita' o: tatini' o: hayza' ay ka howaw haysani.\
+. . 3SG.GEN self . see DM old.man DM EXIST Q FIL AF.work now
+. . 3SG.屬格 自己 . <完成>看 DM 老人 DM 存在 疑問 FIL 主焦.工作 現在
+
+#e Let him see for himself. (For us) old people, is it our business nowadays?
+#c 讓他自己看看。對我麼老人而言，不關我們的事。
+#a 518.65, None, 524.42
+
+267.
+F: ...(1.1) [ma' isaa].\
+. . also that
+. . 也 那裡
+
+#e It's like that.
+#c 是那樣。
+#a 524.42, None, 526.02
+
+268.
+M: [niSo] korkoring hayza' ka 'ima min-owa',\
+. 2SG.GEN child EXIST NOM IMA MIN-like
+. 2SG.屬格 小孩 存在 主格 IMA MIN-喜歡
+
+#a
+
+269.
+M: ...(1.3) isaa kita' ila.\
+. . there see PFV
+. . 那裡 <完成>看 完成
+
+#e Your child (Ataw) has somebody she likes.
+#c 你小孩Ataw有喜歡的人。
+#a 526.02, None, 529.83
+
+270.
+F: ... so: mita' .. 'ana 'am hayza' nisia ka==,\
+. . COND 1IPL.GEN . regardless FUT EXIST 3SG.GEN NOM
+. . 條件詞 1IPL.屬格 . 無論 未來 存在 3SG.屬格 主格
+
+#a 529.83, None, 533.13
+
+271.
+F: ...(0.9) kapaylal'ozan ka== ka-toka'anay-an o: so:== 'okay toeroe'-ani mita' ma'an==,\
+. . predestination FIL KA-to.be.daughter.in.law-NMZ DM COND NEG point-RF 1IPL.GEN 1SG.GEN
+. . 緣分 FIL KA-成為媳婦-名物化 DM 條件詞 否定 指定-指焦 1IPL.屬格 1SG.屬格
+
+#a 533.13, None, 538.38
+
+272.
+F: ... noka tatini' ma'an .\
+. . GEN old.man 1SG.GEN .
+. . 屬格 老人 1SG.屬格 .
+
+#e How would they have the predestination if we old people don't point it out to them?
+#c 他們怎會有緣份，若我們老人家不指給他們？
+#a 538.38, None, 540.31
+
+273.
+F: ...(0.9) 'am tikot lasia,\
+. . FUT AF.afraid 3PL.NOM
+. . 未來 主焦.害怕 3PL.主格
+
+#a 540.31, None, 542.35
+
+274.
+F: ...(0.9) sa-sekla' .. 'am 'okik sa-sekla ?? 'ita' tatini' 'anra:an nasiya.\
+. . Ca-AF.know . FUT NEG Ca-AF.know need 1IPL.NOM old.man guide 3PL.POSS
+. . Ca重疊-主焦.知道 . 未來 否定 Ca重疊-主焦.知道 要 1IPL.主格 老人 引導 3PL.所有格
+
+#e They are afraid. It's up to us old people (for them) to know or not to know suitable people."
+#c 他們害怕。那要看我麼老人家知不知道哪些人適合他們。
+#a 542.35, None, 546.3
+
+275.
+M: ...(0.7) ma'an hayza' ila kastinoroe' ila== .. o:.\
+. . 1SG.GEN EXIST PFV point.out PFV . DM
+. . 1SG.屬格 存在 完成 指出 完成 . DM
+
+#e I have pointed out (to him).
+#c 我幫他指出來了。
+#a 546.3, None, 549.89
+
+276.
+F: ... hayno' ./
+. . where .
+. . 哪裡 .
+
+#e Where?
+#c 在哪裡？
+#a 549.89, None, 550.5
+
+277.
+M: .. roS==a' ila o: kastinoroe'.\
+. . two PFV FIL point.out
+. . 二 完成 FIL 指出來
+
+#e We've pointed out two to him.
+#c 我們幫他們指出兩個來了。
+#a 550.5, None, 552.05
+
+278.
+F: SaiSiyat ay ./
+. PN Q .
+. 專名 疑問 .
+
+#e Are they SaiSiyat?
+#c 他們是賽夏人嗎？
+#a 552.05, None, 553.04
+
+279.
+M: ... ma' SaiSiyat.\
+. . also PN
+. . 也 專名
+
+#e Yes, they are.
+#c 對啊，都是啊。
+#a 553.04, None, 554.09
+
+280.
+F: ... say'ino' ./
+. . from.where .
+. . 從哪裡 .
+
+#e From where are they?
+#c 他們是哪裡人？
+#a 554.09, None, 554.9
+
+281.
+M: ... 'aehae' say== raremewan.\
+. . one from PN
+. . 一 從 地名
+
+#e One is from Xiangtianhu.
+#c 有一個來自向天湖。
+#a 554.9, None, 556.48
+
+282.
+F: .. ay in-hiya'-a korkoring ./
+. . Q POSS-whose-POSS child .
+. . 疑問 所有格-誰的-所有格 小孩 .
+
+#e Whose daughter?
+#c 誰的女兒？
+#a 556.48, None, 558.04
+
+283.
+M: ... m==,\
+. . FIL
+. . FIL
+
+#a 558.04, None, 558.98
+
+284.
+M: ...(2.7) in==aliyong-a.\
+. . POSS-PN-POSS
+. . 所有格-人名-所有格
+
+#e Aliong's.
+#c Aliong的。
+#a 558.98, None, 561.37
+
+285.
+F: .. ai== @@@.\
+. . BC .
+. . BC .
+
+#a 561.37, None, 562.39
+
+286.
+F: (H) (Hx) (H) (Hx) (H) (Hx) isaza mina iya ininrayi: ray SaiSiyat./
+. . . . . . . that wish want marry LOC PN
+. . . . . . . 那裡 希望 要 結婚 處格 專名
+
+#e That girl wants to get married to a SaiSiyat.
+#c 女方希望嫁給賽夏人。
+#a 562.39, None, 564.94
+
+287.
+M: ... iya ininrayi: o: ... sia o:./
+. . want marry DM . 3SG.NOM DM
+. . 要 結婚 DM . 3SG.主格 DM
+
+#e She wants to get married. She ...
+#c 他想嫁出去，他 ... ... 。
+#a 564.94, None, 567.33
+
+288.
+M: ...(0.9) ray kapna'misan 'am==,\
+. . LOC north FUT
+. . 處格 北 未來
+
+#a 567.33, None, 569.32
+
+289.
+M: ...(0.9) holoy ... nakhara== koSa: ... kayni ila lobih ray,\
+. . work . like say . NEG PFV AF.return LOC
+. . 工作 . 像 <主焦>說 . 否定 完成 主焦.回 處格
+
+#a 569.32, None, 574.0
+
+290.
+M: ...(0.8) ka== 'oeS'oeSoe'an ano'./
+. . FIL mountain FIL
+. . FIL 山上 FIL
+
+#e (The girl's) working in the north. She doesn't seem to like to come back to the province.
+#c 女方在北部上班，好像不太喜歡回鄉下住。
+#a 574.0, None, 576.24
+
+291.
+F: ai== 'am==,\
+. BC FUT
+. BC 未來
+
+#a 576.24, None, 577.58
+
+292.
+F: ...(0.8) ki:im ila nisia ka== ray raehoeran ka taew'an.\
+. . look.for PFV 3SG.GEN ACC LOC city ACC house
+. . <主焦>找 完成 3SG.屬格 受格 處格 都市 受格 家
+
+#e She is looking for a house in the city.
+#c 他在都市裡找房子住。
+#a 577.58, None, 580.84
+
+293.
+M: .. 'ihi',\
+. . BC
+. . BC
+
+#e BC
+#c BC
+#a 580.84, None, 581.61

@@ -1,0 +1,1284 @@
+topic: Frog Story
+type: Narrative
+language: 阿美語, Amis, Ciwkangan(台東縣長光社區)
+speaker: 嚴敏珠, Minzhu, female, None
+collected: 2003-06-01
+revised: 2013-1-16
+video: Amis_Nr-frog_minzhu.mp3
+
+1.
+ira kuya ccay a wawa,\
+EXIST that.NOM one LNK child
+存在 那個.主格 一 連詞 小孩
+
+#a 0.83, None, 3.24
+
+2.
+...(1.2) dadaya=tu i,\
+night=PFV DM
+晚上=完成 DM
+
+#a 3.24, None, 5.85
+
+3.
+... u tihi nira u widang nira,\
+CN partner 3SG.GEN CN friend 3SG.GEN
+CN 同伴 3SG.屬格 CN 朋友 3SG.屬格
+
+#a 5.85, None, 8.12
+
+4.
+.. u ccay wacu,\
+CN one dog
+CN 一 狗
+
+#a 8.12, None, 9.26
+
+5.
+.. atu ccay takula’,\
+CONJ one frog
+連接詞 一 青蛙
+
+#e There was a child, at night (he stayed with) his partner and friend, a dog and a frog.
+#c 有一個小孩，到了晚上，（他跟）他的同伴也是朋友、一隻狗和一隻青蛙（在一起）。
+#a 9.26, None, 10.66
+
+6.
+...(0.9) teli-han kiya takula’,\
+put-HAN.PF that.NOM frog
+放-HAN.受焦 那個.主格 青蛙
+
+#a 10.66, None, 13.07
+
+7.
+.. itini i talid nira,\
+here LOC bottle 3SG.GEN
+這裡  處格 瓶子 3SG.屬格
+
+#a 13.07, None, 14.65
+
+8.
+... nawhani ka-limela-an nira a widang,\
+because KA-cherish-NMZ 3SG.GEN LNK friend
+因為 KA-疼惜-名物化 3SG.屬格 連詞 朋友
+
+#a 14.65, None, 17.67
+
+9.
+.. kuna takula’,\
+this.NOM frog
+這個.主格 青蛙
+
+#e He put the frog in his bottle, because the frog was his most cherished friend.
+#c 他把青蛙放在他的瓶子裡，因為那隻青蛙是他最疼惜的朋友。
+#n ka-umi’ ci-ina tu wawa：媽媽很疼小孩。
+#a 17.67, None, 18.64
+
+10.
+...(1.1) halafin=tu i==,\
+long=PFV DM
+很久=完成 DM
+
+#a 18.64, None, 20.63
+
+11.
+.. sa-kafuti’-an=tu cingra i==,\
+SA-sleep-AN=PFV 3SG.NOM DM
+SA-睡覺-AN=完成 3SG.主格 DM
+
+#a 20.63, None, 22.37
+
+12.
+.. ma-futi’=tu cingra,\
+AF-sleep=PFV 3SG.NOM
+主焦-睡覺=完成 3SG.主格
+
+#a 22.37, None, 23.81
+
+13.
+...(1.1) widang nira a wacu i,\
+friend 3SG.GEN LNK dog DM
+朋友 3SG.屬格 連詞 狗 DM
+
+#a 23.81, None, 26.46
+
+14.
+.. patihi’ cingranan ma-futi’,\
+accompany 3SG.OBL AF-sleep
+陪伴 3SG.斜格 主焦-睡覺
+
+#e Afterwards, he wanted to sleep and slept. His friend and the dog slept with him.
+#c 過了不久，他想睡覺，他就睡覺了，他的朋友和狗陪伴他睡覺。
+#n sa-...-an: want to...
+#a 26.46, None, 28.8
+
+15.
+... nika,\
+DM
+DM
+
+#a 28.8, None, 29.83
+
+16.
+.. lafi’i i,\
+midnight DM
+三更半夜 DM
+
+#a 29.83, None, 31.03
+
+17.
+...(0.7) ma-sadak kiya takula’,\
+AF-exit that.NOM frog
+主焦-出去 那個.主格 青蛙
+
+#a 31.03, None, 33.0
+
+18.
+.. a mi-tekur,\
+LNK AF-jump
+連詞 主焦-跳
+
+#a 33.0, None, 33.86
+
+19.
+.. a ma-sadak,\
+LNK AF-exit
+連詞 主焦-出去
+
+#e At midnight, the frog jumped out.
+#c 直到三更半夜，青蛙跳出去。
+#a 33.86, None, 34.79
+
+20.
+...(0.8) u lafak=tu ma==,\
+CN morning=PFV FS
+CN 早上=完成 FS
+
+#a 34.79, None, 37.31
+
+21.
+...(0.7) u lafak=tu i nengneng-han nira,\
+CN morning=PFV DM see-HAN.PF 3SG.GEN
+CN 早上=完成 DM 看-HAN.受焦 3SG.屬格
+
+#a 37.31, None, 39.5
+
+22.
+.. awa=tu kuya takula’,\
+NEG=PFV that.NOM frog
+否定=完成 那個.主格 青蛙
+
+#a 39.5, None, 41.33
+
+23.
+... sa-nengneng-nengneng sa cangra ta-tusa,\
+SA-RED-see SA 3PL.NOM Ca-two
+SA-重疊-看 SA 3PL.主格 Ca重疊-二
+
+#a 41.33, None, 43.69
+
+24.
+.. mi-kilim awa,\
+AF-look.for NEG
+主焦-尋找 否定
+
+#e In the morning, he saw that the frog was gone, and they looked around, looking for the frog, but didn’t find it.
+#c 早上他看到青蛙不見了，他們兩個左看右看，尋找，沒有。
+#a 43.69, None, 44.81
+
+25.
+... ya wacu sa i==,\
+that dog SA DM
+那個 狗 SA DM
+
+#a 44.81, None, 46.42
+
+26.
+... sa-fuhafuhat sa mi-padang mi-kilim,\
+SA-overturn SA AF-?? AF-look.for 
+SA-翻動 SA 主焦-?? 主焦-尋找
+
+#a 46.42, None, 48.87
+
+27.
+... ca’ay paka-tama,\
+NEG PAKA2-find
+否定 PAKA2-找到
+
+#e The dog made a thorough search, but didn’t find the frog.
+#c 那隻狗翻來翻去找，沒有找到。
+#n fuhat是「開」的意思。
+#n ma-kilim=tu aku kuya cudad：我找到書了。
+#n paka-tama kaku tu paysu：我撿到錢。
+#a 48.87, None, 50.71
+
+28.
+.. wad-wadeng nira ku luma,\
+RED-overturn 3SG.GEN NOM house
+重疊-翻動 3SG.屬格 主格 家
+
+#a 50.71, None, 52.27
+
+29.
+.. ningra i,\
+3SG.POSS DM
+3SG.所有格 DM
+
+#a 52.27, None, 52.98
+
+30.
+.. ca’ay paka-tama,\
+NEG PAKA2-find
+否定 PAKA2-找到
+
+#a 52.98, None, 54.23
+
+31.
+.. niya wawa,\
+that.GEN child
+那個.屬格 小孩
+
+#e The child searched his house for the frog, but didn’t find it.
+#c 小孩在家裡找來找去，也沒找到。
+#a 54.23, None, 55.01
+
+32.
+.. saka,\
+so
+所以
+
+#a 55.01, None, 55.98
+
+33.
+.. ya wacu i,\
+that dog DM
+那個 狗 DM
+
+#a 55.98, None, 57.16
+
+34.
+.. ca’ay pi-na’on,\
+NEG PI-careful
+否定 PI-小心
+
+#a 57.16, None, 58.12
+
+35.
+.. pa-cumud-han nira ku funguh,\
+CAU-enter-HAN.PF 3SG.GEN NOM head
+使役-進去-HAN.受焦 3SG.屬格 主格 頭
+
+#a 58.12, None, 59.43
+
+36.
+.. nira mi-kilim tiya talid i,\
+3SG.GEN AF-look.for that.OBL bottle DM
+3SG.屬格 主焦-尋找 那個.斜格 瓶子 DM
+
+#a 59.43, None, 60.94
+
+37.
+... ma==-cumud i,\
+AF-enter LOC
+主焦-進去 處格
+
+#a 60.94, None, 62.51
+
+38.
+... talid kiya funguh ningra i,\
+bottle that.NOM head 3SG.POSS DM
+瓶子 那個.主格 頭 3SG.所有格 DM
+
+#a 62.51, None, 64.87
+
+39.
+.. sa-celi-celi’,\
+SA-RED-call
+SA-重疊-呼叫
+
+#a 64.87, None, 66.2
+
+40.
+.. sa kuya wacu,\
+SA that.NOM dog
+SA 那個.主格 狗
+
+#a 66.2, None, 67.21
+
+41.
+.. atu kaemang-ay wawa i,\
+CONJ small-AY child DM
+連接詞 小-AY 小孩 DM
+
+#e The dog accidentally put its head into the bottle to search the bottle (for the frog), and his head entered the bottle. The dog and the child kept calling.
+#c 那隻狗不小心把頭放進去瓶子找，他的頭進到瓶子裡，狗和小孩不斷的呼救
+#a 67.21, None, 68.71
+
+42.
+.. mi-nengneng,\
+AF-see
+主焦-看
+
+#a 68.71, None, 69.93
+
+43.
+.. mi-kilim tuya takula’ ningra,\
+AF-look.for that.OBL frog 3SG.POSS
+主焦-找 那個.斜格 青蛙 3SG.所有格
+
+#e They looked for the frog.
+#c 他們去尋找那隻青蛙。
+#a 69.93, None, 71.63
+
+44.
+...(0.7) ca’ay pi-na==’on kiya wacu i,\
+NEG PI-careful that.NOM dog DM
+否定 PI-小心 那個.主格 狗 DM
+
+#a 71.63, None, 74.24
+
+45.
+.. ma-tefad,\
+AF-fall
+主焦-掉落
+
+#a 74.24, None, 75.73
+
+46.
+... nika,\
+DM
+DM
+
+#a 75.73, None, 76.72
+
+47.
+.. peleng sa=tu kiya talid i,\
+break SA=PFV that.NOM bottle DM
+破掉 SA=完成 那個.主格 瓶子 DM
+
+#e The dog was not careful and (the bottle) fell down. Afterwards, the bottle was broken.
+#c 那隻狗不小心，（瓶子）掉落下來，之後那個瓶子破掉了。
+#a 76.72, None, 78.96
+
+48.
+... ma-ala=tu niya kaemang-ay wawa,\
+PF-take=PFV that.GEN small-AY child
+受焦-拿=完成 那個.屬格 小-AY 小孩
+
+#a 78.96, None, 81.46
+
+49.
+.. kiya wacu,\
+that.NOM dog
+那個.主格 狗
+
+#a 81.46, None, 82.32
+
+50.
+.. afufu==-han nira kuya wacu,\
+hold.in.the.arms-HAN.PF 3SG.GEN that.NOM dog
+抱-HAN.受焦 3SG.屬格 那個.主格 狗
+
+#a 82.32, None, 84.37
+
+51.
+.. ningra,\
+3SG.POSS
+3SG.所有格
+
+#e The child took the dog and held it in the arms.
+#c 那個小孩把狗抓起來，抱在懷裡。
+#a 84.37, None, 84.88
+
+54.
+.. sa-celi-celi’,\
+SA-RED-call
+SA-重疊-呼叫
+
+#a 87.8, None, 89.37
+
+55.
+.. sa kiya,\
+SA that.NOM
+SA 那個.主格
+
+#a 89.37, None, 90.0
+
+56.
+.. wawa tyak,_
+child FS
+小孩 FS
+
+#a 90.0, None, 91.26
+
+57.
+.. takula’ nira i,\
+frog 3SG.GEN DM
+青蛙 3SG.屬格 DM
+
+#a 91.26, None, 92.26
+
+58.
+.. ca’ay ka-tama,\
+NEG KA-find
+否定 KA-找到
+
+#e The child kept calling his frog, but didn’t find it.
+#c 那個小孩不斷地呼叫他的青蛙，沒有找到。
+#a 92.26, None, 93.14
+
+59.
+.. nika,\
+DM
+DM
+
+#a 93.14, None, 93.87
+
+60.
+... ira==-ay i,\
+EXIST-FAC LOC
+存在-FAC 處格
+
+#a 93.87, None, 95.45
+
+61.
+.. adihay ku tatekuh,\
+distant NOM bee
+遠 主格 蜜蜂
+
+#a 95.45, None, 97.54
+
+62.
+.. a maefer i,\
+LNK fly LOC
+連詞 飛  處格
+
+#a 97.54, None, 98.81
+
+63.
+... ka-ayaw nangra,\
+KA-front 3PL.GEN
+KA-前面 3PL.屬格
+
+#e There were bees flying in front of them at a distance.
+#c 但是在遙遠的地方，有蜜蜂在他們面前飛來飛去。
+#a 98.81, None, 100.16
+
+64.
+.. sa-ceku-cekur,\
+SA-RED-jump
+SA-重疊-跳
+
+#a 100.16, None, 101.39
+
+65.
+.. sa kiya,\
+SA that.NOM
+SA 那個.主格
+
+#a 101.39, None, 102.01
+
+66.
+.. wacu== sa-pi-,\
+dog SA-PI-
+狗 SA-PI-
+
+#a 102.01, None, 103.48
+
+67.
+... tatuy-an tiya tatekuh,\
+take-AN that.OBL bee
+拿-AN 那個.斜格 蜜蜂
+
+#e The dog kept jumping and wanted to catch the bees.
+#c 那隻狗跳來跳去，想去抓那些蜜蜂
+#n sa-...-an: want to...
+#a 103.48, None, 105.59
+
+68.
+...(0.9) nika,\
+DM
+DM
+
+#a 105.59, None, 107.01
+
+69.
+.. i ayaw nangra ira ku ccay,\
+LOC front 3PL.POSS EXIST NOM one
+處格 前面 3PL.所有格 存在 主格 一
+
+#a 107.01, None, 109.23
+
+70.
+.. luma nu tatekuh,\
+house GEN bee
+家 屬格 蜜蜂
+
+#e There was a beehive in front of them.
+#c 但是在他們前面，有一個蜂窩。
+#a 109.23, None, 110.52
+
+71.
+.. itira kiya wacu i,\
+there that.NOM dog DM
+那裡 那個.主格 狗 DM
+
+#a 110.52, None, 112.25
+
+72.
+... ma-araw niya wacu,\
+PF-see that.GEN dog
+受焦-看 那個.屬格 狗
+
+#a 112.25, None, 114.32
+
+73.
+.. kiya tatekuh,\
+that.NOM bee
+那個.主格 蜜蜂
+
+#a 114.32, None, 114.97
+
+74.
+sa-pi-kalic-an mi-,\
+SA-PI-climb-AN AF-
+SA-PI-爬-AN 主焦-
+
+#a 114.97, None, 116.4
+
+75.
+.. mi-ngiyangi tiya kilang,\
+AF-shake that.OBL tree
+主焦-搖 那個.斜格 樹
+
+#e The dog was there. When the dog saw the bees, it wanted to climb up and shook the tree.
+#c 狗在那裡，狗看到蜜蜂，想爬上去，搖動那棵樹。
+#n sa-…-an: want to
+#a 116.4, None, 118.41
+
+76.
+... ya wawa sa-celi-celi’-han nira ku,_
+that child SA-RED-call-HAN.PF 3SG.GEN NOM
+那個 小孩 SA-重疊-叫-HAN.受焦 3SG.屬格 主格
+
+#a 118.41, None, 121.33
+
+77.
+... kiya ufang i laenu’ i,\
+that.NOM hole LOC bottom DM
+那個.主格 洞 處格 底下 DM
+
+#e The child kept shouting towards the hole.
+#c 小孩對著洞口底下呼叫。
+#a 121.33, None, 123.3
+
+78.
+.. sa  i ufang nu==,\
+FS LOC hole GEN
+FS 處格 洞 屬格
+
+#a 123.3, None, 125.36
+
+79.
+.. suta’ i,\
+soil DM
+土 DM
+
+#a 125.36, None, 126.37
+
+80.
+... neng-han i,\
+see-HAN.PF DM
+看-HAN.受焦 DM
+
+#a 126.37, None, 127.74
+
+81.
+.. awa kiya takula’,\
+NEG that.NOM frog
+否定 那個.主格 青蛙
+
+#a 127.74, None, 129.16
+
+82.
+.. uya ma-sadak-ay,\
+that AF-exit-AY
+那個 主焦-出來-AY
+
+#a 129.16, None, 130.38
+
+83.
+.. sa i,\
+SA DM
+SA DM
+
+#a 130.38, None, 130.89
+
+84.
+.. ira kiya,\
+EXIST that.NOM
+存在 那個.主格
+
+#a 130.89, None, 131.9
+
+85.
+...(1.1) edu a ma-sadak,\
+mouse LNK AF-exit
+老鼠 連詞 主焦-出來
+
+#e (The child) searched the hole, but the frog was not there; a mouse went out instead.
+#c 那個洞口，一直看，也沒有那隻青蛙，出來的是一隻老鼠。
+#a 131.9, None, 134.48
+
+86.
+... @@,\
+@@
+@@
+
+#a 134.48, None, 135.64
+
+87.
+...(1.4) (H)
+
+#a 135.64, None, 137.94
+
+88.
+... ikur i ma-‘araw nuna==,\
+afterwards DM PF-see that.GEN
+之後   DM  受焦-看 那個.屬格
+
+#a 137.94, None, 140.28
+
+89.
+... wawa ku,\
+child NOM
+小孩 主格
+
+#a 140.28, None, 141.42
+
+90.
+... ku==,\
+NOM
+主格
+
+#a 141.42, None, 142.53
+
+91.
+... kilang,\
+tree
+樹
+
+#e Then, the child saw a tree.
+#c 之後，那個小孩看到一棵樹。
+#a 142.53, None, 143.43
+
+92.
+... harateng sa cingra i,\
+think SA 3SG.NOM DM
+想 SA 3SG.主格 DM
+
+#a 143.43, None, 145.27
+
+93.
+.. latek ira i==,\
+possible EXIST LOC
+可能 存在 處格
+
+#a 145.27, None, 146.77
+
+94.
+... ya ufang niya kila==ng kiya,\
+that hole that.GEN tree that.NOM
+那個 洞 那個.屬格 樹 那個.主格
+
+#a 146.77, None, 148.93
+
+95.
+...(1.6) takula’ nu maku  sa i,\
+frog GEN 1SG.POSS SA DM
+青蛙 屬格 1SG.所有格 SA DM
+
+#e He thought that perhaps my frog was inside the tree hole.
+#c 他想，我那隻青蛙可能在這個樹洞口裡。
+#a 148.93, None, 152.22
+
+96.
+.. mi==-,\
+AF-
+主焦-
+
+#a 152.22, None, 152.97
+
+97.
+.. sulsul tu kamay,\ 
+stretch OBL hand
+伸 斜格 手
+
+#a 152.97, None, 154.53
+
+98.
+.. a tayra mi-nengneng.\
+LNK go AF-see
+連詞 去 主焦-看
+
+#a 154.53, None, 156.08
+
+99.
+...(1.9) nenghan ma-sadak-ay i,\
+turn.out AF-exit-AY DM
+結果 主焦-出來-AY DM
+
+#a 156.08, None, 159.32
+
+100.
+.. u ekung,\
+CN owl
+CN 貓頭鷹
+
+#e He stretched out his hand to see (if the frog was inside), but it turned out that what came out was an owl.
+#c 他把手伸進樹洞裡探究，結果出來的是貓頭鷹。
+#a 159.32, None, 160.31
+
+101.
+... ma-sadak kiya ekung,\
+AF-exit that.NOM owl
+主焦-出來 那個.主格 貓頭鷹
+
+#e The owl came out.
+#c 貓頭鷹出來。
+#a 160.31, None, 161.97
+
+102.
+... nika,\
+DM
+DM
+
+#a 161.97, None, 162.99
+
+103.
+.. ya wacu sa pakayni,\
+that dog SA after
+那個 狗 SA 之後
+
+#a 162.99, None, 164.42
+
+104.
+.. pi-ngiyangi nira tiya kilang i,\
+PI-shake 3SG.GEN that.OBL tree DM
+PI-搖動 3SG.屬格 that.斜格 樹 DM
+
+#a 164.42, None, 166.3
+
+105.
+.. ma-sadak ma-,\
+AF-exit AF-
+主焦-出來 主焦-
+
+#a 166.3, None, 167.38
+
+106.
+... ‘min kuya tatekuh,\
+all that.NOM bee
+全部 那個.主格 蜜蜂
+
+#a 167.38, None, 168.67
+
+107.
+.. mi-la’up tuya wacu.\
+AF-chase that.OBL dog
+主焦-追 那個.斜格 狗
+
+#a 168.67, None, 170.35
+
+108.
+.. cikay== sa=tu kiya wacu.\
+run SA=PFV that.NOM dog
+跑 SA=完成 那個.主格 狗
+
+#e After the dog shook the tree, all the bees came out and chased the dog, so the dog kept running.
+#c 那隻狗搖動那棵樹之後，蜜蜂全部飛出來去追那隻狗，那隻狗就一直跑。
+#a 170.35, None, 172.66
+
+109.
+...(0.8) na wawa i,\
+PAST child DM
+過去 小孩 DM
+
+#a 172.66, None, 174.25
+
+110.
+.. pakayni tuya ira ku ekung ma-sadak,\
+after that.OBL EXIST NOM owl AF-exit
+之後 那個.斜格 存在 主格 貓頭鷹 主焦-出來
+
+#a 174.25, None, 175.82
+
+111.
+.. ma-talaw mi-limek,\
+AF-afraid AF-hide
+主焦-害怕 主焦-躲
+
+#e After the owl came out, the child was scared and hid himself.
+#c 那個小孩從貓頭鷹出來之後就害怕地躲起來。
+#a 175.82, None, 177.48
+
+112.
+.. c<um>ikay=tu,\
+<AF>run=PFV
+<主焦>跑=完成
+
+#a 177.48, None, 178.95
+
+113.
+.. ma-siday tu ta-tusa,\
+AF-forget OBL Ca-two
+主焦-忘記 斜格 Ca重疊-二
+
+#a 178.95, None, 180.76
+
+114.
+.. ya wacu atu kaemang-ay wawa,\
+that dog CONJ small-AY child
+那個 狗 連接詞 小-AY 小孩
+
+#e (He) ran away, ignoring the dog and the child.
+#c （他）跑走，忽略狗跟小孩。
+#a 180.76, None, 183.03
+
+115.
+... nika,\
+DM
+DM
+
+#a 183.03, None, 183.89
+
+116.
+... sa-pi-kilim-an kiya wawa,\
+SA-PI-look.for-AN that.NOM child
+SA-PI-尋找-AN 那個.主格 小孩
+
+#a 183.89, None, 185.95
+
+117.
+.. takula’ sa nira i kalic,\
+frog SA 3SG.GEN DM climb
+青蛙 SA 3SG.屬格 DM 爬
+
+#a 185.95, None, 187.4
+
+118.
+.. sa tu ccay fukeluh,\
+SA OBL one stone
+SA 斜格 一 石頭
+
+#e But the child wanted to look for the frog. (He) climbed up a rock.
+#c 但是，那個小孩想去找青蛙，爬上一個石頭。
+#n sa-...-an: want to...
+#a 187.4, None, 188.69
+
+119.
+.. tatuy-han nira tiya kilang,\
+hold-HAN.PF 3SG.GEN that.OBL tree
+抓-HAN.受焦 3SG.屬格 那個.斜格 樹
+
+#a 188.69, None, 190.57
+
+120.
+.. u kilang kunia==n sa,\
+CN tree this SA
+CN 樹 這個 SA
+
+#a 190.57, None, 192.72
+
+121.
+.. celi sa-celi XX,\
+call  SA-call XX
+呼叫 SA-呼叫 XX
+
+#a 192.72, None, 194.1
+
+122.
+.. nenghan u,\
+turn.out CN
+結果 CN
+
+#a 194.1, None, 195.18
+
+123.
+... n  u==,\
+FIL  CN
+FIL  CN
+
+#a 195.18, None, 196.09
+
+124.
+...(1.6) lunem,\
+deer
+鹿
+
+#e He held on to the tree, but the tree turned out to be a deer.
+#c 他抓住那棵樹，但那棵樹結果原來是鹿。
+#a 196.09, None, 198.64
+
+125.
+... u lunem kuya,\
+CN deer that.NOM
+CN 鹿 那個.主格
+
+#a 198.64, None, 200.28
+
+126.
+... nalunem kuya ma-sadak-ay,\
+deer that.NOM AF-exit-AY
+鹿 那個.主格 主焦-出來-AY
+
+#e What went out was a deer.
+#c 跑出來的是鹿。
+#a 200.28, None, 202.98
+
+127.
+... ma-kalic-ay nira,\
+PF-climb-FAC 3SG.GEN
+受焦-爬-FAC 3SG.屬格
+
+#a 202.98, None, 204.63
+
+128.
+.. ya lunem,\
+that deer
+那個 鹿
+
+#a 204.63, None, 205.28
+
+129.
+... sa-cikay==,\
+SA-run
+SA-跑
+
+#a 205.28, None, 206.45
+
+130.
+.. sa=tu kiya lunem.\
+SA=PFV that.NOM deer
+SA=完成 那個.主格 鹿
+
+#e He climbed onto the deer, so the deer kept running.
+#c 他爬在鹿的背上，鹿只好一直跑。
+#a 206.45, None, 207.46
+
+131.
+... falah-han nira kuya wacu==,\
+throw-HAN.PF 3SG.GEN that.NOM dog
+丟-HAN.受焦 3SG.屬格 那個.主格 狗
+
+#a 207.46, None, 209.98
+
+132.
+.. atu ya lunem,\
+CONJ that deer
+連接詞 那個 鹿
+
+#e He didn’t care about the dog and the deer.
+#c 他不理會那隻狗和鹿。
+#n mi-falah-an nira a lalusidan：他丟棄的東西。
+#n ma-falah aku ku riku’：我把衣服丟掉。
+#n sikul：理會。
+#n aka sikul-en：不要理他。
+#n ca’ay ka-sikul nu ina ku wawa：媽媽不理會(沒有照顧)小孩。
+#a 209.98, None, 211.09
+
+133.
+.. tefad sa=tu tiya,\
+fall SA=PFV that.OBL
+掉落 SA=完成 那個.斜格
+
+#a 211.09, None, 212.7
+
+134.
+...(1.1) alu’ kiya==,\
+stream that.NOM
+溪 那個.主格
+
+#a 212.7, None, 214.75
+
+135.
+.. wawa,\
+child
+小孩
+
+#a 214.75, None, 215.44
+
+136.
+.. atu ya wacu,\
+CONJ that dog
+連接詞 那個 狗
+
+#e The child and the dog fell into the stream.
+#c 那個小孩跟狗掉落到溪裡。
+#a 215.44, None, 216.7
+
+137.
+...(1.6) pakayni tuya tefad nangra i,\
+after that.OBL fall 3SG.GEN DM
+之後 那個.斜格 掉落 3SG.屬格 DM
+
+#a 216.7, None, 219.67
+
+138.
+... alu==’ sa=tu tiya nanum,\
+stream SA=PFV that.OBL water
+溪 SA=完成 那個.斜格 水
+
+#a 219.67, None, 221.81
+
+139.
+.. nika,\
+DM
+DM
+
+#a 221.81, None, 222.42
+
+140.
+.. halafin ma-tengil niya wawa ku,\
+long PF-hear that.GEN child NOM
+很久 受焦-聽到 那個.屬格 小孩 主格
+
+#a 222.42, None, 224.56
+
+141.
+.. suni nu takula’,\
+sound GEN frog
+聲音 屬格 青蛙
+
+#e After they fell into the stream, and after a long time, the child heard the frog’s sound.
+#c 他們掉落到溪裡之後，過了很久，那個小孩聽到了青蛙的聲音。
+#a 224.56, None, 226.34
+
+142.
+...(1.3) n  han nira kuya wacu,\
+FIL  say.so.PF 3SG.GEN that.NOM dog
+FIL 如此說.受焦 3SG.屬格 那個.主格 狗
+
+#a 226.34, None, 228.82
+
+143. 
+.. aka ka-caciyau,\
+NEG KA-speak
+否定 KA-講話
+
+#a 228.82, None, 230.02
+
+144.
+.. latek ira tini ku takula’,\
+possible EXIST here NOM frog
+可能 存在  這裡 主格 青蛙
+
+#a 230.02, None, 231.89
+
+145.
+.. XX ya widang nu mita== sa,\
+XX that friend GEN 1IPL.POSS SA
+XX 那個 朋友  屬格 1IPL.所有格 SA
+
+#e The child said to the dog, 'Don’t speak. Our friend, the frog, might be here.'
+#c 小孩跟狗說：「不要講話，我們的朋友青蛙可能在這裡。」
+#a 231.89, None, 233.59
+
+146.
+.. na’o==n sa cangra tayra,\
+careful SA 3PL.NOM go
+小心 SA  3PL.主格 去
+
+#a 233.59, None, 235.68
+
+147.
+.. mi-tengil,\
+AF-hear
+主焦-聽
+
+#e They listened with care.
+#c 他們很小心的去聽。
+#n na’o==n拉長音表示「很小心」。
+#a 235.68, None, 236.32
+
+148.
+... ma==-araw nira kiya,\
+PF-see 3SG.GEN that.NOM
+受焦-看 3SG.屬格 那個.主格
+
+#a 236.32, None, 238.17
+
+149.
+... takula’ nira aluma==nay a takula’ itira,\
+frog 3SG.GEN many LNK frog there
+青蛙 3SG.屬格 很多 連詞 青蛙 那裡
+
+#a 238.17, None, 241.97
+
+150.
+.. ma-lawida==ng,\
+AF-make.friend
+主焦-做朋友
+
+#e He saw that the frog had many friends there.
+#c 他看見他那隻青蛙跟很多青蛙做朋友。
+#a 241.97, None, 243.29
+
+151.
+... harateng sa=tu aya ira==,\
+think SA=PFV INT EXIST
+想 SA=完成 感嘆 存在
+
+#a 243.29, None, 245.45
+
+152.
+.. ini kuya takula’,\
+here that.NOM frog
+這裡  那個.主格 青蛙
+
+#a 245.45, None, 246.37
+
+153.
+.. sa nu maku sa,\
+SA GEN 1SG.POSS SA
+SA 屬格 1SG.所有格 SA
+
+#e '"Ah, my frog was here," he  thought,' I said.
+#c 「『唉呀，原來青蛙在這裡，』他是這樣想的，」我說。
+#a 246.37, None, 247.16
+
+154.
+... harafin,\
+long
+很久
+
+#a 247.16, None, 248.46
+
+155.
+... ma-araw=tu nira,\
+PF-see=PFV 3SG.GEN
+受焦-看=完成 3SG.屬格
+
+#a 248.46, None, 249.58
+
+156.
+.. aya XX kiya takula’,\
+INT XX that.NOM frog
+感嘆 XX 那個.主格 青蛙
+
+#a 249.58, None, 251.18
+
+157.
+.. sa nu maku==,\
+SA GEN 1SG.POSS
+SA 屬格 1SG.所有格
+
+#a 251.18, None, 251.87
+
+158.
+.. sa ciyau.\
+SA speak
+SA 講
+
+#a 251.87, None, 252.29
+
+159.
+.. tekur tekur sa kuya takula’,\
+jump jump SA that.NOM frog
+跳躍 跳躍 SA 那個.主格 青蛙
+
+#a 252.29, None, 253.99
+
+160.
+.. mi-ra’or cingranan,\
+AF-approach 3SG.OBL
+主焦-接近 3SG.斜格
+
+#e The frog leapt towards them.
+#c 青蛙跳著接近他們。
+#a 253.99, None, 255.74
+
+161.
+... ta pa-suwal-han=tu nira,\
+then PA-tell-HAN.PF=PFV 3SG.GEN
+之後 PA-告訴-HAN.受焦=完成 3SG.屬格
+
+#a 255.74, None, 257.36
+
+162.
+.. kiya alumanay widang mi-takula’ i,\
+that.NOM many friend AF-frog DM
+那個.主格 很多 朋友 主焦-青蛙 DM
+
+#a 257.36, None, 259.13
+
+163.
+...(0.8) mi-nukay=tu kami==,\
+AF-return=PFV 1EPL.NOM
+主焦-回家=完成 1EPL.主格
+
+#e Then he told the frog’s friends, ‘We are going home.’
+#c 之後他告訴那些青蛙的朋友，「我們回家了。」
+#a 259.13, None, 261.18
+
+164.
+... u==,\
+CN
+CN
+
+#a 261.18, None, 262.03
+
+165.
+.. widang nu maku kura takula’,\
+friend GEN 1SG.POSS that.NOM frog
+朋友 屬格 1SG.所有格 那個.主格 青蛙
+
+#a 262.03, None, 263.54
+
+166.
+.. han nira,\
+say.so.PF 3SG.GEN
+如此說.受焦 3SG.屬格
+
+#e ‘The frog is my friend,’ said he.
+#c 「這隻青蛙是我的朋友。」
+#a 263.54, None, 263.93
+
+167.
+.. sanga’ay=tu ku namu==,\
+bless=PFV NOM 2PL.POSS
+祝福=完成  主格 2PL.所有格
+
+#a 263.93, None, 265.53
+
+168.
+.. han nira a mi-licay kiya takula’,\
+say.so.PF 3SG.GEN LNK AF-ask that.NOM frog
+如此說.受焦 3SG.屬格 連詞 主焦-問 那個.主格 青蛙
+
+#e ‘Take care,’ he said to the frogs.
+#c 「你們多保重，」他跟那些青蛙說。
+#a 265.53, None, 267.3
+
+169.
+...(0.9) liya==s sa=tu cingra,\
+leave SA=PFV 3SG.NOM
+離開 SA=完成 3SG.主格
+
+#a 267.3, None, 269.44
+
+170.
+.. atu wacu ningra,\
+CONJ dog 3SG.POSS
+連接詞 狗 3SG.所有格
+
+#a 269.44, None, 270.39
+
+171.
+.. atu tiya takula’ ta-tulu.\
+CONJ that.OBL frog Ca-three
+連接詞 那個.斜格 青蛙 Ca重疊-三
+
+#e He, the dog, and the frog left.
+#c 他跟狗跟青蛙，三個就離開了。
+#a 270.39, None, 271.82

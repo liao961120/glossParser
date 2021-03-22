@@ -1,0 +1,1364 @@
+topic: Sowing
+type: Narrative
+language: 泰雅語, Atayal, Mayrinax
+speaker: 劉國基, Kainu, male, 1941-02-14
+collected: 2011-04-01
+revised: 2013-1-18
+video: AtaNr-sowing_Kainu.mp3
+
+1.
+e kal-anay=mu tikay ku,_
+FIL tell-IRR=1SG.GEN little NOM
+FIL 告訴-非實現=1SG.屬格 小 主格
+
+#a 0.98, None, 3.63
+
+2.
+...(1.5) nanu' a,_
+what FIL
+什麼 FIL
+
+#a 3.63, None, 6.4
+
+3.
+...(0.7) k<in>qianux=niam lawwi gi,_
+<PF>live=1EPL.GEN again CONJ
+<受焦>生活=1EPL.屬格 再一次 連接詞
+
+#n ma-qianux活著、過活;k<in>qianux；生活。
+
+#e Let me talk a little about the life (in the past) again.
+#c 讓我再說一些(過去的)生活。
+#a 6.4, None, 8.89
+#n ma-qianux活著、過活;k&lt;in&gt;qianux；生活。
+
+4.
+...(0.9) sawni ga,_
+today TOP
+今天 主題
+
+#a 8.89, None, 11.17
+
+5.
+... ini'=mu u naqar-ani k<um>al gi.\
+NEG=1SG.GEN FIL finish-IRR <AF>tell CONJ
+否定=1SG.屬格 FIL 完成-非實現 <主交>告訴 連接詞
+
+#a 11.17, None, 14.43
+
+6.
+...(0.9) kia tikay uwi na',_
+EXIST little also still
+存在 小 也 仍然
+
+#a 14.43, None, 16.57
+
+7.
+...(0.7) tiku== sal-un mha u,_
+DM tell-PF say FIL
+DM 告訴-受焦 說 FIL
+
+#e Today, I have not finished talking, and there is still a little that should be talked about.
+#c 今天，我還沒講完，還有一些應該要講。
+#a 16.57, None, 19.6
+
+8.
+...(0.7) e==,_
+FIL
+FIL
+
+#a 19.6, None, 21.38
+
+9.
+...(1.2) t<um>uvux hani ga,_
+<AF>sow this TOP
+<主焦>播種 這個 主題
+
+#n tuvux 灑種(祈使形式)。
+#a 21.38, None, 24.02
+#n tuvux 灑種(祈使形式)。
+
+10.
+...(1.6) asi.ki==,_
+necessary
+必要
+
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga）等語意。目前將此類用法合併為一個單位標記。
+#a 24.02, None, 26.97
+#n asi語意上修飾其後的動詞，單獨使用時根據語境有「只能」、「只有」等語意。和特定的功能詞使用時則修飾其後的命題，有「必要」（asi ki）、「好像」（asi ga）等語意。目前將此類用法合併為一個單位標記。
+
+11.
+... pa-ka-avagan la ga,_
+CAU-KA-summer PART TOP
+使役-KA-夏天 語助詞 主題
+
+#e Sowing this thing should be at the time when summer is coming.
+#c 播種這件事情應該是在將要夏天的時候。
+#n 汶水泰雅口語語料中會有語助詞和其他功能詞(主題標記、連接詞、主格)等連讀的現象（lga, lru, lgi, lku, etc.）。目前將此類例子拆解為兩個單位標記。
+#a 26.97, None, 29.38
+
+12.
+... ma-na'aring kia t<um>uvux la.\
+AF-begin then <AF>sow PART
+主焦-開始 那時 <主焦>播種 語助詞
+
+#e Then sowing begins.
+#c 那時開始播種。
+#a 29.38, None, 31.65
+
+13.
+...(0.9) t<um>uvux ru==,_
+<AF>sow CONJ
+<主焦>播種 連接詞
+
+#a 31.65, None, 34.25
+
+14.
+... kia ku pan-sapung-an nku navakis sunga’ mha u,_
+EXIST NOM IRR-decide-LF GEN old.man past say FIL
+存在 主格 非實現-決定-處焦 屬格 老人 過去 說 FIL
+
+#n pan-sapung-an或pa-sapung-an規範；pa-sapung決定的人；sapung決定。
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+#a 34.25, None, 37.79
+#n pan-sapung-an或pa-sapung-an規範；pa-sapung決定的人；sapung決定。
+#n 汶水泰雅不同村之間有b/v, c/s等發音上的差異。清安村發音人較年輕一輩的詞彙已無b和c的音，但較年長的發音人的部分詞彙仍保留b和c的音。此篇語料係依照發音人的發音而給予標記。
+
+15.
+...(0.8) ma-quwas ku qavahaniq mha u== tutut tutut la maga,_
+AF-sing NOM bird say FIL chirp chirp chirp PART DM
+主焦-唱 主格 鳥 說 FIL 啁啾 啁啾 語助詞 DM
+
+#n maga完整的說法為mha’ ga。
+#a 37.79, None, 42.31
+#n maga完整的說法為mha’ ga。
+
+16.
+...(1.1) yani vay la ku==,_
+this real PART NOM
+這個 真的 語助詞 主格
+#n yani vay為suvalay簡稱。
+#a 42.31, None, 45.1
+#n yani vay為suvalay簡稱。
+
+17.
+...(1.4) a== anaring-an i t<um>uvux.\
+FIL begin-PF LNK <AF>sow
+FIL 開始-受焦 連詞 <主焦>播種
+
+#e Sowing and there are regulations of old men in the past, saying when the birds chirp, this is exactly the time to begin sowing.
+#c 播種，然後以前老人有規定，說當鳥叫的時候，這個時候正是開始播種的時候。
+#n anaring-an應為na’aring-an。
+#a 45.1, None, 49.07
+
+18.
+...(0.8) ru panapus-an i mha tutut la ku tutut vay ga,_
+CONJ do.twice-LF LNK say chirp PART NOM bird real TOP
+連接詞 做兩次-處焦 連詞 說 啁啾 語助詞 主格 鳥 真的 主題
+
+#n ma-napusal做兩次；napusal-un 做第二次；usaing 二；tutut是某一種鳥，類似布穀鳥。
+#a 49.07, None, 54.31
+#n ma-napusal做兩次；napusal-un 做第二次；usaing 二；tutut是某一種鳥，類似布穀鳥。
+
+19.
+... la ga,_
+PART TOP
+PART TOP
+
+#a 54.31, None, 55.79
+
+20.
+.. asi vay ki,_
+only real LNK
+只 真的 連詞
+
+#n 此處之asi ki在別處標法為asi.ki (請參照IU10註解)。目前暫時將拆散的ki標記為linker。
+#a 55.79, None, 57.28
+#n 此處之asi ki在別處標法為asi.ki (請參照IU10註解)。目前暫時將拆散的ki標記為linker。
+
+21.
+...(0.7) t<um>uvux ana i,_
+<AF>sow no.matter LNK
+<主焦>播種 無論 連詞
+
+#e And when the birds chirp the again, (they) should sow no matter what.
+#c 然後鳥叫第二次的時候，真的必須無論如何都要播種了。
+#a 57.28, None, 59.74
+
+22.
+...(1.2) tiku va-vuyqa sunga' ga mutux nha' panang-un uwi ru,_
+DM Ca-bamboo past TOP customarily 3PL.NEU plow-PF also CONJ
+DM Ca重疊-竹子 以前 主題 通常會 3PL.中性格 墾地-受焦 也 連接詞
+
+#e They also plowed bamboo forests in the past. 
+#c 他們過去也開墾竹子林。
+#n vuyqa竹子；va-vuyqa竹園；無utux-un；m<in>ang開墾。
+#a 59.74, None, 64.48
+
+23.
+...(0.7) e== mamati' tuvux-an ga asi.ki,_
+FIL hard sow-LF TOP necessary
+FIL 硬 播種-處焦 主題 必要
+
+#n mamati'原意為指物體的硬度，此處引申為困難之意。
+#a 64.48, None, 68.07
+#n mamati'原意為指物體的硬度，此處引申為困難之意。
+
+24.
+...(0.7) maymaw i,_
+degree LNK
+程度 連詞
+
+#a 68.07, None, 70.09
+
+25.
+... ma'uva' a rawiq i m-usa' i,_
+white NOM eye LNK AF-go LNK
+白色 主格 眼睛 連詞 主焦-去 連詞
+
+#a 70.09, None, 72.46
+
+26.
+...(0.7) e==,_
+FIL
+FIL
+
+#a 72.46, None, 74.09
+
+27.
+...(0.8) t<um>uvux gi mamati’ gi vali i,_
+<AF>sow CONJ hard CONJ NEG LNK
+<主焦>播種 連接詞 硬 連接詞 否定 連詞
+
+#a 74.09, None, 77.72
+
+28.
+... k<in>hiw-an na nanu’ na asi panang-i kia ru,_
+<PFV>dig-PF INS what still only plow-IRR then CONJ
+<完成>挖-處焦 工具格 什麼 仍然 只 墾地-非實現 那時 連接詞
+
+#e Sowing was so hard that they must (do it) to the degree of rolling their eyes. Going sowing was hard because (they) did not dig with anything then but they still plowed.
+#c 播種困難到要(做)到翻白眼的程度。去播種很難因為(他們)沒有什麼可以用來挖，那時就直接(徒手)開墾。
+#n "挖"之AF型為k<um>ayhu。
+#a 77.72, None, 81.4
+
+29.
+... a si-lawm la ru t<um>uvux la.\
+FIL IF-burn PART CONJ <AF>sow PART
+FIL 工焦-燒 語助詞 連接詞 <主焦>播種 語助詞
+
+#e Burning and then sowing.
+#c 燒完之後就播種。
+#n l<um>awm 燒。
+#a 81.4, None, 84.79
+
+30.
+...(0.8) t<um>uvux ku la ga mutux nha' si-kaal sku,_
+<AF>sow NOM PART TOP customarily 3PL.NEU BF-tell LOC
+<主焦>播種 NOM 語助詞 主題 通常會 3PL.中性格 予焦-告訴 處格
+
+#a 84.79, None, 89.26
+
+31.
+...(0.7) navakis mha u hal-anay tikay i,_
+old.man say FIL go-IF.IRR a.little LNK
+老人 說 FIL 去-工焦.非實現 一些 連詞
+
+#n hal-anay口誤，應為hal-ani。
+#a 89.26, None, 93.34
+#n hal-anay口誤，應為hal-ani。
+
+32.
+... i pa-na’aring i s<um>i'atu' gi,_
+LNK FUT-begin LNK <AF>pray CONJ 
+連詞 未來-開始 連詞 <主焦>祈福 連接詞
+
+#e Before sowing, they would say to the elders, saying “Go and begin to pray a little.”
+#c 要播種的時候，他們會向老人家說：「去開始祈福一下。」
+#a 93.34, None, 96.61
+
+33.
+...(0.7) ini' mamu satuw-i ga,_
+NEG 2PL.GEN pray-PF TOP
+否定 2PL.屬格 祈福-受焦 主題
+
+#a 96.61, None, 99.08
+
+34.
+... mutux mutux i niq-un na kuwi ku,_
+customarily customarily LNK eat-PF GEN worm NOM
+通常會 通常會 連詞 吃-受焦 屬格 蟲 主格
+
+#a 99.08, None, 102.15
+
+35.
+... a==,_
+FIL
+FIL
+
+#a 102.15, None, 103.76
+
+36.
+.. luvuq=nia' ru mutux aqih ku t<in>uvux-an ma.\
+sprout=3SG.GEN CONJ customarily bad NOM <PFV>sow-LF say.AF
+嫩芽=3SG.屬格 連接詞 通常會 壞 主格 <完成>播種-處焦 說.主焦
+
+#e If you don’t pray, worms will eat his sprouts and sowing will be bad.
+#c 如果你不祈福，蟲會吃他的嫩芽，然後播種會不好。
+#n 此處ma應為maha的減縮。
+#a 103.76, None, 107.05
+
+37.
+... si-kaal nha' sku,_
+BF-tell 3PL.NEU LOC
+予焦-告訴 3PL.中性格 處所格
+
+#a 107.05, None, 109.05
+
+38.
+...(0.7) nangi' na qamisuan mha u hal-i i,_
+symbol GEN elder say FIL go-IRR LNK
+象徵 屬格 兄長 說 FIL 去-非實現 連詞
+
+#a 109.05, None, 113.1
+
+39.
+...(0.7) pa-siqasu ru nanu' na-- naki 'i',_
+IRR-cough CONJ what FS so.that LNK
+非實現-咳嗽 連接詞 什麼 FS 才會 連詞
+
+#n pa-siqasu為patiqsu’口誤，指第一次收割到煮來吃的過程。
+#a 113.1, None, 116.83
+#n pa-siqasu為patiqsu’口誤，指第一次收割到煮來吃的過程。
+
+40.
+... valayq ku p<in>tuwaw-an nha' la ma.\
+good NOM <PFV>farm-LF 3PL.GEN PART DM
+好 主格 <完成>耕作-處焦 3PL.屬格 語助詞 DM
+
+#e They say to an elder, “Go and perform the ceremony of first harvest,” and then their crop would be good.
+#c 他們對一位兄長說：「去做第一次收成儀式。」這樣他們的作物才會好。
+#n patuaw-an 耕作/工作的地方
+#a 116.83, None, 119.0
+
+41.
+... ru',_
+CONJ
+連接詞
+
+#a 119.0, None, 120.88
+
+42.
+... vavaw=nia' la ga,_
+top=3SG.GEN PART TOP
+上面=3SG.屬格 語助詞 主題
+
+#n vavaw這裡指「下一次/之後」。
+#a 120.88, None, 123.21
+#n vavaw這裡指「下一次/之後」。
+
+43.
+...(1.1) gi,_
+CONJ
+連接詞
+
+#a 123.21, None, 125.39
+
+44.
+...(0.8) k<um>loh <L2MdeshihouL2M> la ga,_
+<AF>harvest moment PART TOP
+<主焦>收成 時候 語助詞 主題
+
+#a 125.39, None, 127.67
+
+45.
+... pasay-- aring i,_
+FS begin LNK
+FS 開始 連詞
+
+#a 127.67, None, 130.09
+
+46.
+... k<um>loh la ga,_
+<AF>harvest PART TOP
+<主焦>收成 語助詞 主題
+
+#e And next time when beginning to harvest.
+#c 然後下次開始收成的時候。
+#a 130.09, None, 131.83
+
+47.
+... nanu' a,_
+what FIL
+什麼 FIL
+
+#a 131.83, None, 133.17
+
+48.
+...(0.9) mutux ma-glu ku yaki-yaki' mha hal-ay=ta' i,_
+customarily AF-accompany NOM RED-elder.woman say go-IRR=1IPL.GEN LNK
+通常會 主焦-結伴 主格 重疊-年長婦女 說 去-非實現=1IPL.屬格 連詞
+
+#n m<in>aglu結伴；*glu’un；ma-paglu 結伴；pa-glu要跟隨；glu=mu我的親戚/我的另一半。
+#a 133.17, None, 137.04
+#n m&lt;in&gt;aglu結伴；*glu’un；ma-paglu 結伴；pa-glu要跟隨；glu=mu我的親戚/我的另一半。
+
+49.
+... k<um>loh gi valayq vay ku,_
+<AF>harvest CONJ good really NOM
+<主焦>收成 連接詞 好 真的 主格
+
+#a 137.04, None, 139.76
+
+50.
+... a t<in>vux-an ru,_
+FIL <PFV>sow-LF CONJ
+FIL <完成>播種-處焦 連接詞
+
+#n t<in>vux-an指「收成」。
+#a 139.76, None, 142.03
+#n t&lt;in&gt;vux-an指「收成」。
+
+51.
+...(0.7) valayq ku vuay=nia'.\
+good NOM fruit=3SG.GEN
+好 主格 果實=3SG.屬格
+
+#e Elderly women would come in groups and say, “Let’s go and harvest, because the crop is good and its ear is good.”
+#c 年長婦女會結伴說：「我們一起去收割，因為作物很好，然後稻穗很好。」
+#n vuay此指「稻穗」。
+#a 142.03, None, 143.93
+
+52.
+...(0.8) ru' X
+CONJ X
+連接詞 X
+
+#a 143.93, None, 145.73
+
+53.
+...(1.1) m-usa' suvalay k<um>loh ku yaki-yaki' ru,_
+AF-go real harvest<AF>harvest NOM RED-elder.woman CONJ
+主焦-去 真的 收成<主焦>收成 主格 重疊-年長婦女 連接詞
+
+#e And elderly women indeed go harvesting.
+#c 年長的婦女們就真的去收割。
+#a 145.73, None, 149.81
+
+54.
+... tiku tamalung=hiya' ga ini' nha' pa-sapung-i gi m-usa' q<um>vuwang su,_
+DM man TOP NEG 3PL.NEU CAU-decide-IRR CONJ AF-go <AF>hunt ACC
+DM 男人 主題 否定 3PL.中性格 使役-決定-非實現 連接詞 主焦-去 <主焦>打獵 受格
+
+#n q<um>vuwang為用槍/狗的狩獵形式。pa-sapung-i這裡為「做主、參與」的意思。
+#a 149.81, None, 154.07
+#n q&lt;um&gt;vuwang為用槍/狗的狩獵形式。pa-sapung-i這裡為「做主、參與」的意思。
+
+55.
+...(0.7) e==,_
+FIL
+FIL
+
+#a 154.07, None, 156.11
+
+56.
+...(0.8) vahut ini' ga m-usa' i,_
+squirrel NEG TOP AF-go 
+松鼠 否定 主題 主焦-去
+
+#n ini' ga意思為「不然的話」。
+#a 156.11, None, 159.05
+#n ini' ga意思為「不然的話」。
+
+57.
+... s<um>vu' su ngarux.\
+shoot<AF>shoot bear
+射<主焦>射 熊
+
+#e As for men, they do not let them participate, becaue (the men) go hunting squirrels, or if not, shooting bears.
+#c 至於男人，他們不參與，因為他們去獵松鼠，不然的話就是射熊。
+#a 159.05, None, 161.15
+
+58.
+...(0.8) u ini' nha' pa-sapung-i ku tamalung hiya' gi,_
+FIL NEG 3PL.NEU CAU-decide-IRR NOM man 3SG.NEU CONJ
+FIL 否定 3PL.中性格 致使-決定-非實現 主格 男人 3SG.中性格 連接詞
+
+#a 161.15, None, 164.77
+
+59.
+...(0.8) yaku ka-kanayrin ku lawkah.\
+these Ca-woman NOM strong
+這些 Ca重疊-女人 主格 強
+
+#e They do not let men decide it, because these women are strong.
+#c 他們不讓男人決定，因為這些女人很強勢。
+#a 164.77, None, 167.52
+
+60.
+...(0.7) nanu' tiku== a,_
+what DM FIL
+什麼 DM FIL
+
+#a 167.52, None, 170.21
+
+61.
+...(1.5) t<in>vux-an nha' yaku tamalung han ku m-usa' han i,_
+<PFV>sow-LF 3PL.NEU these man first NOM AF-go first LNK
+<完成>播種-處焦 3PL.中性格 這些 男人 先 主格 主焦-去 先 連詞
+
+#a 170.21, None, 174.75
+
+62.
+... m<in>-ang han ru naqaru' i m<in>ang la ga si-tu' nha' sku ka-kanayrin mha u,_
+AF<PFV>-plow first CONJ finish LNK AF<PFV>plow PART TOP BF-order 3PL.NEU LOC RED-woman say FIL
+主焦<完成>墾地 先 連接詞 完成 連詞 主焦<完成>墾地 語助詞 主題 予焦-命令 3PL.中性格 處格 重疊-女人 說 FIL
+
+#n p<in>ang-an開墾過的地方。
+#a 174.75, None, 179.76
+#n p&lt;in&gt;ang-an開墾過的地方。
+
+63.
+... a hal-i la i t<um>uvux ru,_
+FIL go-IRR PART LNK <AF>sow CONJ
+FIL 去-非實現 語助詞 連詞 <主焦>播種 連接詞
+
+#e These men go first and plow the place where they sow. After finishing plowing, they tell women to go and sow.
+#c 這些男人先去開墾他們播種的地方。完成墾地後，他們叫女人們去播種。
+#a 179.76, None, 182.69
+
+64.
+... valayq vay ku t<in>ux-an=ta' ru,_
+good real NOM <PFV>sow-LF=1IPL.GEN CONJ
+好 真的 主格 <完成>播種-處焦=1IPL.屬格 連接詞
+
+#e Our crop is really good.
+#c 我們的收成非常好。
+#a 182.69, None, 185.53
+
+65.
+... teri-- ta-si-aring=ta' i,_
+FS TA-BF-begin=1IPL.GEN LNK
+FS TA-予焦-開始=1IPL.屬格 連詞
+
+#a 185.53, None, 187.97
+
+66.
+... k<um>loh la ga nanu' a paqas-aw=ta' kaxavaw ma.\
+<AF>harvest PART TOP what FIL happy-IRR=1IPL.GEN all say.AF
+<主焦>收成 語助詞 主題 什麼 FIL 高興-非實現=1IPL.屬格 所有 說.主焦
+
+#e We start harvesting and then we are all happy.
+#c 我們開始收成，然後我們都很開心。
+#a 187.97, None, 191.16
+
+67.
+...(0.7) ru m-usa' i,_
+CONJ AF-go LNK
+連接詞 主焦-去 連詞
+
+#a 191.16, None, 193.54
+
+68.
+...(0.9) k<um>loh vay ku na-navakis sunga' ga mutux nha' i,_
+<AF>harvest real NOM Ca-old.man past TOP customarily 3PL.NEU LNK
+<主焦>收成 真的 主格 Ca重疊-老人 過去 主題 通常會 3PL.中性格 連詞
+
+#a 193.54, None, 198.53
+
+69.
+...(1.0) hal-an i pa-siaqsu' mha hal-ay=mian i,_
+go-LF LNK IRR-cough say go-IRR 1EPL.GEN LNK
+去-處焦 連詞 非實現-咳嗽 說 去-非實現 1EPL.屬格 連詞
+
+#n patiqsu；miam為niam「我們」的口誤。
+#a 198.53, None, 202.47
+#n patiqsu；miam為niam「我們」的口誤。
+
+70.
+...(1.0) a k<um>loh han ru,_
+FIL <AF>harvest first CONJ
+FIL <主焦>收成 先 連接詞
+
+#e (They) really go harvesting, and in the past the elders would go and perform the ceremony of first harvest, and say “Let’s go harvesting first.”
+#c (他們)真的去收割，然後以前老人家他們會去做第一次收割儀式，說：「我們先收割。」
+#a 202.47, None, 205.21
+
+71.
+... tiku t<in>a-'aring nha' i k<um>loh ga,_
+DM TA<PFV>TA-begin LNK <AF>harvest TOP
+DM 開始<完成>開始 連詞 <主焦>收成 主題
+
+#n t<in>a-'aring表示「最先的部分」。
+#a 205.21, None, 208.15
+#n t&lt;in&gt;a-'aring表示「最先的部分」。
+
+72.
+... mutux nha' pugi-an ru gi,_
+customarily 3PL.NEU sun.dry-LF CONJ CONJ
+通常會 3PL.中性格 日曬-處焦 連接詞 連接詞
+
+#e They will sundry their first collection of harvest.
+#c 他們會日曬第一批收成。
+#a 208.15, None, 211.15
+
+73.
+... marngu' la ga,_
+dry PART TOP
+乾 語助詞 主題
+
+#a 211.15, None, 212.9
+
+74.
+...(1.2) nanu' suxu-un=nha' cku' luhiun gi vali kia' a' <L2JkikayL2J> sunga.\
+DM thresh-PF=3PL.GEN INS mortar CONJ NEG EXIST NOM machine past
+DM 搗-受焦=3PL.屬格 工具格 臼 連接詞 否定 存在 主格 機器 過去
+
+#e After (the harvest) is dried, they would thresh millet with a mortar, because there was no machine in the past.
+#c (收成)乾了之後，他們會用臼來搗小米，因為以前沒有機器。
+#a 212.9, None, 217.71
+
+75.
+... suxu-un=nha' ru i,_
+thresh-PF=3PL.GEN CONJ LNK
+搗-受焦=3PL.屬格 連接詞 連詞
+
+#a 217.71, None, 220.42
+
+76.
+... mata-va-vuax la ga sa ivuw-i la u,_
+REC-Ca-rice PART TOP say come-IRR PART FIL
+交互-Ca重疊-米 語助詞 主題 說 來-非實現 語助詞 FIL
+
+#n mata-va-vuax「變成米粒」不管哪一種米；vuax na’ turakis小米顆粒。
+#a 220.42, None, 223.24
+#n mata-va-vuax「變成米粒」不管哪一種米；vuax na’ turakis小米顆粒。
+
+77.
+... taviq-aw=ta' la.\
+thresh-IRR=1IPL.GEN PART
+搗-非實現=1IPL.屬格 語助詞
+
+#e They thresh and after (the seeds) become white millet, (they) say, “Let’s thresh mochi.”
+#c 他們搗米，然後(種子)變成米粒之後，(他們)說：「我們來搗麻糬。」
+#n taviq-aw專門指「搗麻糬」。
+#a 223.24, None, 225.07
+
+78.
+... t<um>aviq ru==,_
+<AF>thresh CONJ
+<主焦>搗 連接詞
+
+#a 225.07, None, 227.29
+
+79.
+... mutux nha' i,_
+customarily 3PL.NEU LNK
+通常會 3PL.中性格 連詞
+
+#a 227.29, None, 228.5
+
+80.
+...(0.7) galg-an ma-nuvuaw mutux i kavalay su uwi su,_
+follow-LF AF-drink customarily LNK make ACC also ACC
+跟隨-處焦 主焦-喝 通常會 連詞 製作 受格 也 受格
+
+#a 228.5, None, 232.04
+
+81.
+... quwaw na itaal mha u,_
+wine GEN people say FIL
+酒 屬格 人 說 FIL
+
+#a 232.04, None, 234.6
+
+82.
+... tiku quwaw na itaal hani kavalay-aw=niam ru.\
+DM wine GEN people this do-PF.IRR=1EPL.GEN CONJ
+DM 酒 屬格 人 這個 做-受焦.非實現=1EPL.屬格 連接詞
+
+#e They would thresh and drink along the wine of the Atayal people, saying, “Let’s make this wine of Atayal.”
+#c 他們會邊搗邊喝泰雅人的酒，說：「我們來做這個泰雅人的酒。」
+#n itaal專指泰雅族人;quaw na itaal 指「泰雅人的酒」。
+#a 234.6, None, 237.53
+
+83.
+...(0.7) a==,_
+FIL
+FIL
+
+#a 237.53, None, 239.05
+
+84.
+...(0.8) asi.ki== k<um>loh=ta' la ru i,_
+necessary <AF>harvest=1IPL.NOM PART CONJ LNK
+必要 <主焦>收成=1IPL.主格 語助詞 連接詞 連詞
+
+#a 239.05, None, 242.35
+
+85.
+...(0.8) t<um>aviq=ta' la ga,_
+<AF>thresh=1IPL.NOM PART TOP
+<主焦>搗=1IPL.主格 語助詞 主題
+
+#a 242.35, None, 244.53
+
+86.
+... navu-aw=ta' kia la ma ku.\
+drink-PF.IRR=1IPL.GEN then PART say.AF NOM
+喝-受焦.非實現=1IPL.屬格 那時候 語助詞 說.受焦 主格
+
+#e We must harvest, and thresh, and say, “Let’s drink!” at that time.
+#c 我們必須要收成，然後搗米，然後那時候說：「我們來喝酒！」
+#n maku應為mha ku。
+#a 244.53, None, 246.85
+
+87.
+...(0.8) a== qamisuwan sunga'.\
+FIL elder past
+FIL 兄長 以前
+
+#a 246.85, None, 250.07
+
+88.
+...(0.8) vaq i== ma-tawaw na,_
+know LNK AF-farm INS
+知道 連詞 主焦-耕作 工具格
+
+#a 250.07, None, 253.29
+
+89.
+... a==,_
+FIL
+FIL
+
+#a 253.29, None, 254.87
+
+90.
+...(1.4) ragiax nha' gi,_
+mountain 3PL.NEU CONJ
+山 3PL.中性格 連接詞
+
+#a 254.87, None, 257.79
+
+91.
+... talahani gi vali kia a,_
+habit CONJ NEG EXIST NOM
+習慣 連接詞 否定 存在 主格
+
+#n maluhani na nanavuaw=nia’習慣了這樣喝的模式。
+#a 257.79, None, 260.31
+#n maluhani na nanavuaw=nia’習慣了這樣喝的模式。
+
+92.
+...(0.8) a slaq=nha' nanak ku t<um>uvux ku vaq-un=nha'.\
+NOM field=3PL.GEN only NOM <AF>sow NOM know-PF=3PL.GEN
+主格 田=3PL.屬格 只有 主格 <主焦>播種 主焦 知道-受焦=3PL.屬格
+
+#e The elders in the past, they knew farming in the mountains, because (they were) used to it and their were no fields of theirs. They only knew sowing (in the mountains).
+#c 兄長以前他們知道在山裡耕作，因為(他們)習慣，因為他們沒有自己的地。他們只知道(在山上)種植小米。
+#a 260.31, None, 264.88
+
+93.
+... nanu' yani ku misa na hiya' ga,_
+what that NOM just.now GEN 3SG.NEU TOP
+什麼 那個 NOM 剛才 屬格 3SG.中性格 主題
+
+#e That is the thing.
+#c 這個事件就是那樣。
+#a 264.88, None, 268.17
+
+94.
+...(0.8) i nanu' u,_
+FIL what FIL
+FIL 什麼 FIL
+
+#a 268.17, None, 270.49
+
+95.
+...(1.3) nanu' i t<um>aviq la ga mutux i m-uah kaxavaw ku gelugelu=nha' i,_
+what LNK <AF>thresh PART TOP customarily LNK AF-come all NOM RED-relative=3PL.GEN LNK
+什麼 連詞 <主焦>搗 語助詞 主題 通常會 連詞 主焦-來 全部 主格 重疊-親戚=3PL.屬格
+
+#e When threshing rice, their relatives will all come.
+#c 就是，搗米的時候他們全部的親戚都會來。
+#a 270.49, None, 277.3
+
+96.
+... nha' gi,_
+3PL.NEU CONJ
+3PL.中性格 連接詞
+
+#a 277.3, None, 278.93
+
+97.
+... paqas-un=nha' m-aniq kaxavaw ku,_
+happy-PF=3PL.GEN AF-eat all NOM
+高興-受焦=3PL.屬格 主焦-吃 全部 主格
+
+#a 278.93, None, 281.31
+
+98.
+... a' m<in>uwah sku,_
+NOM <PFV>come LOC
+主格 <完成>來 處格
+
+#a 281.31, None, 283.32
+
+99.
+... mamayah ka t<in>uvux=nha'.\
+dry.land LNK <PF>sow=3PL.GEN
+旱地 連詞 <受焦>播種=3PL.屬格
+
+#e Because they are all happy to eat what comes from the dry land they sowed.
+#c 因為他們都很高興可以吃從他們所播種的旱地種來的東西。
+#a 283.32, None, 285.7
+
+100.
+...(0.9) ru i==,_
+CONJ FIL
+連接詞 FIL
+
+#a 285.7, None, 287.91
+
+101.
+...(1.0) ki'i,_
+probably
+可能
+
+#a 287.91, None, 290.04
+
+102.
+...(0.7) m-uvusinuk la ga mutux nha' i,_
+AF-drunk PART TOP customarily 3PL.NEU LNK
+主焦-醉 語助詞 主題 通常會 3PL.中性格 連詞
+
+#n pag-vusinuk-un 讓他醉
+#a 290.04, None, 293.0
+#n pag-vusinuk-un 讓他醉
+
+103.
+...(1.1) i paqahag-an mha u,_
+LNK argue-LF say.AF FIL
+連詞 爭執-處焦 說.主焦 FIL
+
+#a 293.0, None, 295.84
+
+104.
+...(1.7) asi.ki gini-un ku ma-tawwaw ga nanu' u,_
+necessary this.way-PF NOM AF-work TOP what FIL
+必要 這樣-受焦 主格 主焦-工作 主題 什麼 FIL
+
+#n pa-giani會這樣。
+#a 295.84, None, 300.41
+#n pa-giani會這樣。
+
+105.
+... pa-kakiya ku na-niq-un=ta' mha ku,_
+CAU-have NOM Ca-eat-PF=1IPL.GEN say NOM
+使役-有 主格 Ca重疊-吃-受焦=1IPL.屬格 說 主格
+
+#n na-niq-un食物。
+#a 300.41, None, 303.21
+#n na-niq-un食物。
+
+106.
+...(0.7) a p<in>kal-an nku na-navakis.\
+FIL <PFV>talk-LF GEN Ca-old.man
+FIL <完成>說-處交 屬格 Ca重疊-老人
+
+#e And when they are drunk, they would probably argue, saying “The work must be done this way, so that we can have food,” which is what the elders agreed. 
+#c 然後當他們醉了，他們大概會爭執，說：「工作一定要這樣做，才會有食物。」這是長老們的共識。
+#n pinkalan語意為”經過討論所得之共識（結論）或約定”。
+#a 303.21, None, 306.17
+
+107.
+... ita' ka <L2JgitayL2J> sku hani la ga ini' pa-ska' la.\
+1IPL.NEU LNK times LOC this PART TOP NEG IRR-same PART
+1IPL.中性格 連詞 時代 處格 這個 語助詞 主題 否定 非實現-一樣 語助詞
+
+#e Our times now is not the same.
+#c 我們這個時代不一樣了。
+#n ma-ska'一樣。
+#a 306.17, None, 310.65
+
+108.
+...(1.5) gi--,_
+FS
+FS
+
+#a 310.65, None, 312.64
+
+109.
+... <L2JjitayL2J> sku hani la ga kia la ku,_
+times LOC this PART TOP EXIST PART NOM
+時代 處格 這個 語助詞 主題 存在 PART NOM
+
+#a 312.64, None, 315.51
+
+110.
+... a pasahu-an i,_
+NOM grind-LF LOC
+主格 碾-處焦 處格
+
+#n pasahu-an碾米的地方。
+#a 315.51, None, 318.09
+#n pasahu-an碾米的地方。
+
+111.
+... hugal ru.\
+mountain.bottom CONJ
+山下 連接詞
+
+#e In present times, there are grinding mills at the bottom of mountain.
+#c 在現在，山下有碾米廠。
+#a 318.09, None, 319.71
+
+112.
+... mutux asi usa' g<um>riax la gi,_
+customarily only go <AF>buy.rice PART CONJ
+通常會 只 去 <主焦>買米 語助詞 連接詞
+
+#a 319.71, None, 322.39
+
+113.
+... yani a ini' kanga'.\
+this NOM NEG long.in.time
+這樣 主格 否定 時間久
+
+#e (We) will just go and buy rice, because it is fast.
+#c (我們)會直接去買米，因為這樣很快。
+#n kanga語意目前不確定，但應和ingasu "久" 有關（ini' kaingaw沒有很久）。ini' kanga表示「很快」；ini' kanga muwah tayhok 很快（沒有很久）就到達了；nganga=su'你怎麼那麼快。
+#a 322.39, None, 324.7
+
+114.
+... sunga' hiya' sku ukas a,_
+past 3SG.NEU ACC NEG NOM
+過去 3SG.中性格 受格 否定 主格
+
+#a 324.7, None, 326.94
+
+115.
+...(0.9) a== gariax-an kiga asi inuqin nanak i ma-tawwaw sku,_
+NOM buy.rice-LF DM only die self AF-work ACC
+主格 買米-處焦 DM 只 死 自己 主焦-工作 受格
+
+#n gariax-an米店；m-inuqin死；asi inuqin乾脆死(引申義「全心投入」)。
+#a 326.94, None, 333.13
+#n gariax-an米店；m-inuqin死；asi inuqin乾脆死(引申義「全心投入」)。
+
+116.
+...(0.8) a== na-niq-un=nha' gi ini' pa-tawaw ga.\
+FIL Ca-eat-PF=3PL.GEN CONJ NEG IRR-work TOP
+FIL Ca重疊-受焦=3PL.屬格 連接詞 否定 非實現-工作 主題
+
+#a 333.13, None, 336.82
+
+117.
+... ru yani a,_
+CONJ this FIL
+連接詞 這個 FIL
+
+#a 336.82, None, 338.68
+
+118.
+...(0.8) pa-'inuqin la gi,_
+IRR-die PART TOP
+非實現-死 語助詞 主題
+
+#a 338.68, None, 340.74
+
+119.
+... ukas la ku na-niq-un=nha' la.\
+NEG PART NOM Ca-eat-PF=3PL.GEN PART
+否定 語助詞 主格 Ca重疊-受焦=3PL.屬格 語助詞
+
+#e In the past, there was no rice store, so they worked desperately for their food, because if they did not work, they would die from not having food.
+#c 過去沒有米店的話，就要死命投入在找食物的工作上，因為沒有工作，他們就會死於沒有食物。
+#a 340.74, None, 342.66
+
+120.
+...(5.2) tiku sal-un mha s<um>i’atu’ hani ga,_
+DM tell-PF say <AF>pray this TOP
+DM 告訴-受焦 說 <主焦>祈福 這個 主題
+
+#a 342.66, None, 350.88
+
+121.
+...(1.5) mutux nha' i==,_
+customarily 3PL.NEU LNK
+通常會 3PL.中性格 連詞
+
+#a 350.88, None, 354.13
+
+122.
+...(1.1) i s<um>i'atu' su,_
+LNK <AF>pray ACC
+連詞 <主焦>祈福 受格
+
+#n s<um>i’atu’這裡意思是劃田地的界線。
+#a 354.13, None, 357.75
+#n s&lt;um&gt;i’atu’這裡意思是劃田地的界線。
+
+123.
+... pa-pa-nang-un=nha'.\
+Ca-IRR-plow-PF=3PL.GEN
+Ca重疊-非實現-墾地-受焦=3PL.屬格
+
+#e The so-called praying ceremony means that they will delimit the boundaries of the land they are going to plow.
+#c 所謂的這個祈福儀式，就是他們會劃定將開墾的土地的界線。
+#n pap-nang-un要開墾的地方。
+#a 357.75, None, 359.55
+
+124.
+...(0.9) hal-an=nha' i==,_
+go-LF=3PL.GEN LNK
+去-處焦=3PL.屬格 連詞
+
+#a 359.55, None, 362.11
+
+125.
+...(1.5) t<um>uvux.\
+<AF>sow
+<主焦>播種
+
+#a 362.11, None, 364.46
+
+126.
+...(0.7) t<um>uvux ru,_
+<AF>sow CONJ
+<主焦>播種 連接詞
+
+#a 364.46, None, 366.3
+
+127.
+...(1.6) hi'-an=nha' su quwaw ku,_
+spill-LF=3PL.GEN ACC wine NOM
+倒-處焦=3PL.GEN 受格 酒 主格
+
+#a 366.3, None, 369.9
+
+128.
+... a==,_
+FIL
+FIL
+
+#a 369.9, None, 371.33
+
+129.
+... rauq.\
+gound
+地上
+
+#a 371.33, None, 372.96
+
+130.
+...(1.0) naki i valayq ku p<in>tuwaw-an=ta' mha.\
+so.that LNK good NOM <PFV>farm-LF=1IPL.GEN say.AF
+才會 好 主格 <完成>耕作-處焦=1IPL.屬格 說.主焦
+
+#e They go sowing and spill wine on the ground, saying “so that our crop will be good.”
+#c 他們去播種，然後倒酒在地上，說：「這樣我們的農作才會好。」
+#a 372.96, None, 377.12
+
+137.
+... e m-usa' i,_
+FIL AF-go LNK
+FIL 主焦-去 連詞
+
+#a 394.45, None, 396.37
+
+138.
+... anananu' ku waw=nha' ga,_
+whatever NOM thing=3PL.GEN TOP
+無論 主格 事=3PL.屬格 主題
+
+#a 396.37, None, 398.38
+
+139.
+... yaku utux ku pasapung-un nha'.\
+this spirit NOM decide-PF 3PL.NEU
+這個 零 主格 決定-受焦 3PL.中性格
+
+#e Whatever matter of theirs, this God makes the decision for them.
+#c 不管任何事就是上帝替他們決定。
+#a 398.38, None, 401.08
+
+140.
+... ini' na' u==,_
+NEG ?? FIL
+否定 ?? FIL
+
+#n 此處na’語意不清但應該是代名詞nha’。
+#a 401.08, None, 403.03
+#n 此處na’語意不清但應該是代名詞nha’。
+
+141.
+... a==,_
+FIL
+FIL
+
+#a 403.03, None, 404.23
+
+142.
+... sahuq-i ku utux hiya' gi,_
+miss-IRR NOM spirit 3SG.NEU CONJ
+漏掉-非實現 主格 靈 3SG.屬格 連接詞
+
+#n s<um>iahuq漏掉。
+#a 404.23, None, 407.09
+#n s&lt;um&gt;iahuq漏掉。
+
+143.
+... nanu' a yaku utux ku s<um>pung sku wa-waw=ta' ka itaal mha.\
+what FIL this spirit NOM <AF>decide ACC Ca-thing=1IPL.GEN LNK people say
+什麼 FIL 這個 靈 主格 <主焦>決定 受格 Ca重疊-事=1IPL.屬格 連詞 人 說
+
+#e They do not miss God, because they say, “This God decides everything of ours.”
+#c 他們不會漏掉上帝，因為他們說：「上帝做主我們人所有的事情。」
+#a 407.09, None, 413.44
+
+144.
+...(4.4) ma-niq su== X
+AF-eat ACC X
+主焦-吃 受格 X
+
+#a 413.44, None, 419.46
+
+145.
+...(0.7) nanu' i,_
+what LNK
+what 連詞
+
+#a 419.46, None, 421.79
+
+146.
+...(2.6) suku-un=nha' i sa-suku-un=nha' sku kahu' ku kinloh=nha' la ga.\
+put-PF=3PL.GEN-- LNK Ca-put-PF=3PL.GEN LOC barn NOM crop=3PL.GEN PART TOP
+放-受焦=3PL.屬格-- 連詞 Ca重疊-放-受焦=3PL.屬格 處格 穀倉 主格 收成=3PL.屬格 語助詞 主題
+
+#a 421.79, None, 430.09
+
+147.
+... mutux nha' i,_
+customarily 3PL.NEU LNK
+通常會 3PL.中性格 連詞
+
+#a 430.09, None, 432.02
+
+148.
+...(1.0) kun vali-- niq-an su naqiya' gi,_
+?? NEG-- eat-LF ACC portion CONJ
+?? 否定-- 吃-處焦 受格 部分 連接詞
+
+#e When they are going to put the crops into the barn, they will eat the first portion.
+#c 他們的收成要放進穀倉的時候，他們會吃第一部分。
+#n naqia指的是第一次收成放進穀倉前，拿一小部分來吃的那一部分。
+#a 432.02, None, 435.93
+
+149.
+... ki'i mha talam-ay=ta' ku,_
+probably say try-IRR=1IPL.GEN NOM
+可能 說 試-非實現=1IPL.屬格 主格
+
+#n 這裡mha'有「想」的意思；t<um>alam嘗試。
+#a 435.93, None, 438.34
+#n 這裡mha'有「想」的意思；t&lt;um&gt;alam嘗試。
+
+150.
+... p<in>tuwaw-an=ta'.\
+farm<PFV>farm-LF=1IPL.GEN
+耕作<完成>耕作-處焦=1IPL.屬格
+
+#a 438.34, None, 439.81
+
+151.
+... tal-ay=ta' k<in>valaq mha ru.\
+see-IRR=1IPL.GEN good<PFV>good say CONJ
+看-非實現=1IPL.屬格 好<完成>好 說 連接詞
+
+#e Probably they think, “Let's try our crop and see how good it is.”
+#c 可能他們想：「我們嘗嚐試看看，看收成有多好。」
+#a 439.81, None, 442.6
+
+152.
+... tiku==,_
+DM
+DM
+
+#a 442.6, None, 444.18
+
+153.
+... siyaw=nha' k<in>aniq-an=nha' la ga,_
+rest=3PL.GEN eat<PFV>eat-LF=3PL.GEN PART TOP
+剩餘=3PL.屬格 吃<完成>吃-處焦=3PL.屬格 語助詞 主題
+
+#a 444.18, None, 446.43
+
+154.
+... suku-un=nha' kahu' la ru,_
+put-PF=3PL.GEN barn PART CONJ
+放-受焦=3PL.屬格 穀倉 語助詞 連接詞
+
+#e The rest of their eating, they will put it in the barn.
+#c 他們吃剩下的，他們會放到穀倉。
+#a 446.43, None, 449.16
+
+155.
+... pasxu' la ga hal-an=nha' pa-qutu-qutux ma-gal ku qagu' la ru.\
+thresh PART TOP go-LF=3PL.GEN IRR-RED-one AF-take NOM bundle PART CONJ
+搗 語助詞 主題 去-處焦=3PL.屬格 非實現-重疊-一 主焦-拿 主格 束 語助詞 連接詞
+
+#a 449.16, None, 453.57
+
+156.
+... suxu-un=nha' na qsu' la.\
+thresh-PF=3PL.GEN INS pestle PART
+搗-受焦=3PL.屬格 工具格 杵 語助詞
+
+#e When they thresh rice, they go to take (the crop) by bundles one after another, and they thresh with a pestle.
+#c 要搗米的話，他們去一把一把拿(作物)，然後他們就用杵來搗米。
+#a 453.57, None, 456.17
+
+157.
+...(9.0) i m-usa' tal su,_
+LNK AF-go see ACC
+連詞 主焦-去 看 受格
+
+#a 456.17, None, 466.85
+
+158.
+... a nanu s<in>ku'=nha' ru i,_
+ACC what <PF>put=3PL.GEN CONJ LNK
+受格 什麼 <受焦>放=3PL.屬格 連接詞 連詞
+
+#e Go and see the trap they set up.
+#c 去看他們設的陷阱。
+#n s<in>ku’字面意思為「放的東西」，但通常指設置的陷阱。
+#a 466.85, None, 469.75
+
+159.
+... m-usa' s<um>i'atu' uwi ga mutux h<um>akay su raniq.\
+AF-go <AF>pray also TOP customarily <AF>walk ACC road
+主焦-去 <主焦>祈福 也 主題 通常會 <主焦>走 受格 路
+
+#a 469.75, None, 473.49
+
+160.
+...(0.9) h<um>akay na kukuy m-usa' i,_
+<AF>walk INS foot AF-go LNK
+<主焦>走 工具格 腳 主焦-去 連詞
+
+#a 473.49, None, 476.38
+
+161.
+... sku mamayah=nha' ru.\
+LOC dry.land=3PL.GEN CONJ
+處格 旱地=3PL.屬格 連接詞
+
+#e When they go and perform the land delineation ceremony, they walk on foot on the road to their dry land.
+#c 他們去行使劃地儀式的時候，他們走去他們的旱田。
+#a 476.38, None, 478.08
+
+162.
+...(0.7) unial ku sisiliq siik ma i,_
+come NOM bird chirp say.AF LNK
+來 主格 鳥 啁啾 說.主焦 連詞
+
+#n sisiliq俗稱為西西利鳥。
+#a 478.08, None, 481.79
+#n sisiliq俗稱為西西利鳥。
+
+163.
+...(0.7) tagi== ma-karaya' ru arua tagi hugal ga.\
+direction AF-top CONJ go direction bottom TOP
+方向 主焦-頂部 連接詞 去 方向 底部 主題
+
+#n raya'=nia' tikay上面一點。
+#a 481.79, None, 485.44
+#n raya'=nia' tikay上面一點。
+
+164.
+...(0.9) nanu' u,_
+what FIL
+什麼 FIL
+
+#a 485.44, None, 487.36
+
+165.
+...(0.8) valayq mha ru.\
+good say CONJ
+好 說 連接詞
+
+#e The sisiliq bird comes chirping. It goes down from high above. This (sign) is good.
+#c 西西利鳥吱吱喳喳飛過，從上往下飛。這個(徵兆)很好。
+#n 看陷阱或作物都由鳥來指示，這就是所謂的「鳥占」。
+#a 487.36, None, 489.9
+
+166.
+... kasiyuk-- XXXX,_
+FS XXXX
+FS XXXX
+
+#a 489.9, None, 491.62
+
+167.
+... maki i yahu' raniq ru siik ma ru arua tigi makaraya' ga.\
+locate LOC bottom road CONJ chirp say CONJ go direction top TOP
+位於 處格 底部 路 連接詞 啁啾 說 連接詞 去 方向 頂部 主題
+
+#e (The bird) chirps at the end of the road, and flies to the top.
+#c (鳥)在路下吱吱喳喳，往上面飛去。
+#a 491.62, None, 496.31
+
+168.
+... nanu' aqu suvalay s--,_
+what surprise really FS
+什麼 驚訝 真的 FS
+
+#n aqu=su' muani talan la原來你變得這樣。
+#a 496.31, None, 498.05
+#n aqu=su' muani talan la原來你變得這樣。
+
+169.
+... ma-huay vay ku utux ka nanu' a,_
+AF-thank real NOM spirit LNK what FIL
+主焦-感謝 真的 主格 靈 連詞 什麼 FIL
+
+#a 498.05, None, 501.07
+
+170.
+... s<um>iwal la mha ku.\
+<AF>allow PART say.AF NOM
+<主焦>允許 語助詞 說.主焦 主格
+
+#e This should be real. Thank God very much for permission.
+#c 原來是真的。非常感謝神已經答應了。
+#n 不確定是否為ku。
+#a 501.07, None, 503.17
+
+171.
+...(0.8) u== inlungan=nha'.\
+FIL mind=3PL.GEN
+FIL 心=3PL.屬格
+
+#n l<in>anglung想法。
+#a 503.17, None, 505.78
+#n l&lt;in&gt;anglung想法。
+
+172.
+...(3.1) i ini' usa' ini' ku ini' tal-i ku kavahniq ki ga,_
+LNK NEG go NEG NOM NEG see-IRR NOM bird PART TOP
+連詞 否定 去 否定 主格 否定 看-非實現 主格 鳥 語助詞 主題
+
+#a 505.78, None, 512.9
+
+173.
+...(1.2) a aqih ku m-usa' aqih ku h<in>akay=ta' ru m-usa' aqih ku p<in>tuwaw-an=ta’ mha.\
+FIL bad NOM AF-go bad NOM <PFV>walk=1IPL.GEN CONJ AF-go bad NOM <PFV>farm-LF=1IPL.GEN say.AF
+FIL 壞 主格 主焦-去 壞 主格 <完成>走=1PL.屬格 連接詞 主焦-去 壞 主格 <完成>播種-處焦=1PL.屬格 說.主焦
+
+#e They think, "If (we) do not see the bird, our walking wwouild be bad, and crop would be bad"
+#c 沒有看到小鳥的話走的過程會不好，耕種的作物會不好。
+#n h<in>akay指去看陷阱的路途。
+#a 512.9, None, 519.66
