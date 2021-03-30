@@ -1,13 +1,24 @@
 ## 2021-03-07
 
-X: 最新消息
-關於我們
-相關連結
-聯絡我們
-NTU GIL link
+ToDo:
+   - LOGO for app
+   - External Links
+   - Update corpus data (messenger)
 
+相關連結 
+remove: 最新消息 (done)
+關於我們 (done)
+聯絡我們 (done)
+NTU GIL link (done)
 
-秒數 --> 分 秒
+Assistant documentation
+   - trigger update API 
+      - GitHub API (on issue?)
+      - JS encryption
+   - Data Update vs. Web Update
+   - Web update (done)
+
+秒數 --> 分 秒 (done)
 
 
 
