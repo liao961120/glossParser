@@ -3,6 +3,7 @@ import re
 import os
 import pickle
 import pathlib
+import tqdm
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from traverse_files import Drive
@@ -29,7 +30,7 @@ drive.read_cache(**cache)
 corpus_files = drive.list_all_txt()
 
 # Write files to local
-for txt in corpus_files:
+for txt in tqdm.tqdm(corpus_files):
 
     # Get paths
     path = pathlib.Path(DATA_DIR) / txt['fp']
