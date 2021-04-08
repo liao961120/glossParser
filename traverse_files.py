@@ -3,7 +3,7 @@ class Drive():
 
     def __init__(self, service):
         self.service = service
-        self.folders = {}  # {id: {id, name, parents} }
+        self.folders = {}  # {id: {id, name, parents, modifiedTime} }
         self.file_content = {}  # {id: content}
 
     # Cache
@@ -73,14 +73,14 @@ class Drive():
         return drive_path
 
 
-    def get_file_meta(self, file_id):
+    def get_file_meta(self, file_id, force=False):
 
-        if file_id in self.folders:
+        if (not force) and file_id in self.folders:
             return self.folders[file_id]
         else:
             file = self.service.files().get(
                 fileId=file_id,
-                fields='id, name, mimeType, parents',
+                fields='id, name, mimeType, parents, modifiedTime',
                 supportsTeamDrives=True).execute()
             
             # update cache
@@ -92,6 +92,12 @@ class Drive():
     def get_file_content(self, file_id):
         if file_id not in self.file_content:
             self.file_content[file_id] = self.service.files().get_media(
+                fileId=file_id).execute().decode('UTF-8')
+        else:
+            ometa = self.get_file_meta(file_id)
+            nmeta = self.get_file_meta(file_id, force=True)
+            if ometa['modifiedTime'] != nmeta['modifiedTime']:
+                self.file_content[file_id] = self.service.files().get_media(
                 fileId=file_id).execute().decode('UTF-8')
         
         return self.file_content[file_id]
