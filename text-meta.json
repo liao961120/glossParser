@@ -1235,7 +1235,7 @@
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2364
+				"sent_num": 2435
 			}
 		},
 		"text": [
@@ -1457,9 +1457,17 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
+				"file": "Kanakanavu_Kanakanavu/鄧安婷_完成_3rd",
+				"transcribed": "鄧安婷",
+				"sent_num": 72
+			},
+			{
+				"type": "Sentence",
+				"speaker": "None",
+				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/3",
 				"transcribed": "李中佑",
-				"sent_num": 522
+				"sent_num": 521
 			},
 			{
 				"type": "Sentence",
