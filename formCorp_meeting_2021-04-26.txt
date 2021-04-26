@@ -1,0 +1,11 @@
+網頁
+    收錄語言、搜尋 對調
+    檔案資訊 top bar
+    語法書 +1 button
+    收錄語言 -> 表格順序：體例、檔案... 發音人最後
+        拿掉轉寫者
+    meta data
+        AF, NAF, PF, RF, IF, BF, CF, LF, GEN
+    葛馬蘭 typo
+音檔
+    praat export
