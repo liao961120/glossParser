@@ -30,7 +30,7 @@ def main():
             'sentence_sentNum': sentence["sent_num"]
         }
         total_count = sum(marker.values())
-        for m, c in marker.items(): row_lang[m] = f"{round(100 * c / total_count, 2)}%"
+        for m, c in marker.items(): row_lang[f"{m} (%)"] = round(100 * c / total_count, 2)
         lang_csv.append(row_lang)
 
         # One text file per row

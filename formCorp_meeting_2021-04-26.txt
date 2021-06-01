@@ -4,7 +4,7 @@
     檔案資訊 top bar: Done
     收錄語言 -> 表格順序：體例、檔案... 發音人最後  拿掉轉寫者: Done
     語法書 +1 button: Done
-    meta data 表格擴增
+    meta data 表格擴增: Done
         AF, NAF, PF, RF, IF, BF, CF, LF, GEN
     雙語
 音檔
