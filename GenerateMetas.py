@@ -1,7 +1,11 @@
 # %%
+import re
 import json
 import pathlib
 from data import Data
+
+LING = ['AF', 'NAF', 'PF', 'RF', 'IF', 'BF', 'CF', 'LF', 'GEN']
+LING = [ (re.compile(f"(^{x}$|^{x}[^a-zA-Z]|[^a-zA-Z]{x}$|[^a-zA-Z]{x}[^a-zA-Z])"), x) for x in LING ]
 
 DATA = Data()
 STORY = pathlib.Path(DATA.story_files_json)
@@ -21,7 +25,8 @@ def main():
                         "sent_num": 0,
                         "record_time": 0
                     },
-                    "sentence": {"sent_num": 0}
+                    "sentence": {"sent_num": 0},
+                    "marker": {}
                 },
                 'text': []
             }
@@ -29,6 +34,7 @@ def main():
         for text in lang.glob("*.json"):
             meta[lang.stem]['text'].append(get_info(text))
 
+        # Get summaries
         if 'sentence' in str(lang.absolute()):
             meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
@@ -36,6 +42,10 @@ def main():
             for k in ['iu_num', 'sent_num', 'record_time']:
                 meta[lang.stem]['summary']['story'][k] = round(
                     sum(t[k] for t in meta[lang.stem]['text']), 2)
+        
+        # Linguistic marker total counts per language
+        for _, m in LING:
+            meta[lang.stem]['summary']['marker'][m] = sum( t['marker'][m] for t in meta[lang.stem]['text'] )
 
 
     with open(OUTFILE, "w", encoding="utf-8") as f:
@@ -72,6 +82,9 @@ def get_info(path):
             if isinstance(end_time, float):
                 info['record_time'] = end_time
                 break
+    
+    # Linguistic info
+    info["marker"] = count_markers(text)
 
     return info
 
@@ -80,7 +93,63 @@ def load_text(path):
     with open(path, encoding="utf-8") as f:
         return json.load(f)
 
+def count_markers(text):
+    markers = { m:0 for _, m in LING}
+    for m in get_markers(text):
+        markers[m] += 1
+    return markers
 
+def get_markers(text):
+    text = text["glosses"]
+    for iu in text:
+        en_tks = [ tk[1] for tk in iu[1]["gloss"]]
+        for pat, marker in LING:
+            for en_tk in en_tks:
+                if pat.search(en_tk):
+                    yield marker
 
 if __name__ == "__main__":
     main()
+
+
+#%%
+import json
+import pathlib
+from data import Data
+
+DATA = Data()
+STORY = pathlib.Path(DATA.story_files_json)
+SENTENCE = pathlib.Path(DATA.sentence_files_json)
+OUTFILE = DATA.meta
+
+def load_text(path):
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+# %%
+text = list(STORY.rglob("*/*.json"))[58]
+text = load_text(text)
+# %%
+import re
+
+LING = ['AF', 'NAF', 'PF', 'RF', 'IF', 'BF', 'CF', 'LF', 'GEN']
+LING = [ (re.compile(f"(^{x}$|^{x}[^a-zA-Z]|[^a-zA-Z]{x}$|[^a-zA-Z]{x}[^a-zA-Z])"), x) for x in LING ]
+
+def get_markers(text):
+    text = text["glosses"]
+    for iu in text:
+        en_tks = [ tk[1] for tk in iu[1]["gloss"]]
+        for pat, marker in LING:
+            for en_tk in en_tks:
+                if pat.search(en_tk):
+                    yield marker
+
+def count_markers(text):
+    markers = { m:0 for _, m in LING}
+    for m in get_markers(text):
+        markers[m] += 1
+    return markers
+
+# %%
+list(get_markers(text))
+# %%

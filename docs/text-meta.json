@@ -8,6 +8,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 0,
+				"NAF": 0,
+				"PF": 0,
+				"RF": 0,
+				"IF": 0,
+				"BF": 0,
+				"CF": 0,
+				"LF": 0,
+				"GEN": 240
 			}
 		},
 		"text": [
@@ -19,7 +30,18 @@
 				"topic": "Princess Balenge",
 				"iu_num": 205,
 				"sent_num": 85,
-				"record_time": 483.33
+				"record_time": 483.33,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 9
+				}
 			},
 			{
 				"type": "Narrative",
@@ -29,7 +51,18 @@
 				"topic": "Frog story",
 				"iu_num": 179,
 				"sent_num": 54,
-				"record_time": 375.54
+				"record_time": 375.54,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 17
+				}
 			},
 			{
 				"type": "Narrative",
@@ -39,7 +72,18 @@
 				"topic": "pear story",
 				"iu_num": 37,
 				"sent_num": 19,
-				"record_time": 112.68
+				"record_time": 112.68,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 10
+				}
 			},
 			{
 				"type": "Narrative",
@@ -49,7 +93,18 @@
 				"topic": "pear story",
 				"iu_num": 59,
 				"sent_num": 23,
-				"record_time": 192.38
+				"record_time": 192.38,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 8
+				}
 			},
 			{
 				"type": "Narrative",
@@ -59,7 +114,18 @@
 				"topic": "Millet",
 				"iu_num": 63,
 				"sent_num": 24,
-				"record_time": 146.4
+				"record_time": 146.4,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 4
+				}
 			},
 			{
 				"type": "Narrative",
@@ -69,7 +135,18 @@
 				"topic": "Frog story",
 				"iu_num": 142,
 				"sent_num": 40,
-				"record_time": 385.73
+				"record_time": 385.73,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 15
+				}
 			},
 			{
 				"type": "Narrative",
@@ -79,7 +156,18 @@
 				"topic": "childhood",
 				"iu_num": 184,
 				"sent_num": 69,
-				"record_time": 436.56
+				"record_time": 436.56,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 5
+				}
 			},
 			{
 				"type": "Narrative",
@@ -89,7 +177,18 @@
 				"topic": "ghost lake",
 				"iu_num": 70,
 				"sent_num": 24,
-				"record_time": 168.84
+				"record_time": 168.84,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
 			},
 			{
 				"type": "Narrative",
@@ -99,7 +198,18 @@
 				"topic": "Marriage Ceremony",
 				"iu_num": 274,
 				"sent_num": 92,
-				"record_time": 717.27
+				"record_time": 717.27,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 7
+				}
 			},
 			{
 				"type": "Narrative",
@@ -109,7 +219,18 @@
 				"topic": "Pear story",
 				"iu_num": 98,
 				"sent_num": 38,
-				"record_time": 257.66
+				"record_time": 257.66,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 12
+				}
 			},
 			{
 				"type": "Narrative",
@@ -119,7 +240,18 @@
 				"topic": "pear story",
 				"iu_num": 71,
 				"sent_num": 34,
-				"record_time": 175.38
+				"record_time": 175.38,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Narrative",
@@ -129,7 +261,18 @@
 				"topic": "Work by Men and Women",
 				"iu_num": 237,
 				"sent_num": 98,
-				"record_time": 472.11
+				"record_time": 472.11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 14
+				}
 			},
 			{
 				"type": "Narrative",
@@ -139,7 +282,18 @@
 				"topic": "Pear story",
 				"iu_num": 141,
 				"sent_num": 30,
-				"record_time": 286.67
+				"record_time": 286.67,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Narrative",
@@ -149,7 +303,18 @@
 				"topic": "naming",
 				"iu_num": 357,
 				"sent_num": 62,
-				"record_time": 780.93
+				"record_time": 780.93,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 81
+				}
 			},
 			{
 				"type": "Narrative",
@@ -159,7 +324,18 @@
 				"topic": "Swing",
 				"iu_num": 230,
 				"sent_num": 78,
-				"record_time": 529.83
+				"record_time": 529.83,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Narrative",
@@ -169,7 +345,18 @@
 				"topic": "Frog Story",
 				"iu_num": 226,
 				"sent_num": 85,
-				"record_time": 524.44
+				"record_time": 524.44,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 24
+				}
 			},
 			{
 				"type": "Narrative",
@@ -179,7 +366,18 @@
 				"topic": "Pear Story",
 				"iu_num": 43,
 				"sent_num": 13,
-				"record_time": 108.92
+				"record_time": 108.92,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			}
 		]
 	},
@@ -192,6 +390,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 706,
+				"NAF": 0,
+				"PF": 218,
+				"RF": 0,
+				"IF": 23,
+				"BF": 0,
+				"CF": 0,
+				"LF": 31,
+				"GEN": 702
 			}
 		},
 		"text": [
@@ -203,7 +412,18 @@
 				"topic": "Pear Story",
 				"iu_num": 131,
 				"sent_num": 25,
-				"record_time": 226.56
+				"record_time": 226.56,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 10,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 27
+				}
 			},
 			{
 				"type": "Narrative",
@@ -213,7 +433,18 @@
 				"topic": "Introduction",
 				"iu_num": 135,
 				"sent_num": 33,
-				"record_time": 170.18
+				"record_time": 170.18,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 30
+				}
 			},
 			{
 				"type": "Conversation",
@@ -223,7 +454,18 @@
 				"topic": "Talking",
 				"iu_num": 197,
 				"sent_num": 59,
-				"record_time": 223.17
+				"record_time": 223.17,
+				"marker": {
+					"AF": 54,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 24
+				}
 			},
 			{
 				"type": "Narrative",
@@ -233,7 +475,18 @@
 				"topic": "Frog Story",
 				"iu_num": 169,
 				"sent_num": 41,
-				"record_time": 271.82
+				"record_time": 271.82,
+				"marker": {
+					"AF": 36,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 40
+				}
 			},
 			{
 				"type": "Narrative",
@@ -243,7 +496,18 @@
 				"topic": "Frog Story",
 				"iu_num": 150,
 				"sent_num": 44,
-				"record_time": 200.82
+				"record_time": 200.82,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 27,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 54
+				}
 			},
 			{
 				"type": "Narrative",
@@ -253,7 +517,18 @@
 				"topic": "Crab",
 				"iu_num": 85,
 				"sent_num": 25,
-				"record_time": 117.18
+				"record_time": 117.18,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 16,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 17
+				}
 			},
 			{
 				"type": "Narrative",
@@ -263,7 +538,18 @@
 				"topic": "Self-introduction",
 				"iu_num": 45,
 				"sent_num": 13,
-				"record_time": 72.19
+				"record_time": 72.19,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 11
+				}
 			},
 			{
 				"type": "Narrative",
@@ -273,7 +559,18 @@
 				"topic": "Pear Story",
 				"iu_num": 39,
 				"sent_num": 10,
-				"record_time": 53.06
+				"record_time": 53.06,
+				"marker": {
+					"AF": 7,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 12
+				}
 			},
 			{
 				"type": "Conversation",
@@ -283,7 +580,18 @@
 				"topic": "Farming",
 				"iu_num": 231,
 				"sent_num": 64,
-				"record_time": 330.0
+				"record_time": 330.0,
+				"marker": {
+					"AF": 46,
+					"NAF": 0,
+					"PF": 22,
+					"RF": 0,
+					"IF": 7,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 47
+				}
 			},
 			{
 				"type": "Narrative",
@@ -293,7 +601,18 @@
 				"topic": "Pear Story",
 				"iu_num": 147,
 				"sent_num": 33,
-				"record_time": 198.45
+				"record_time": 198.45,
+				"marker": {
+					"AF": 53,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 9,
+					"GEN": 53
+				}
 			},
 			{
 				"type": "Narrative",
@@ -303,7 +622,18 @@
 				"topic": "Pear Story",
 				"iu_num": 134,
 				"sent_num": 33,
-				"record_time": 188.41
+				"record_time": 188.41,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 20,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 38
+				}
 			},
 			{
 				"type": "Narrative",
@@ -313,7 +643,18 @@
 				"topic": "Custom",
 				"iu_num": 289,
 				"sent_num": 80,
-				"record_time": 447.34
+				"record_time": 447.34,
+				"marker": {
+					"AF": 74,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 41
+				}
 			},
 			{
 				"type": "Narrative",
@@ -323,7 +664,18 @@
 				"topic": "Peanut",
 				"iu_num": 64,
 				"sent_num": 12,
-				"record_time": 86.37
+				"record_time": 86.37,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 7
+				}
 			},
 			{
 				"type": "Narrative",
@@ -333,7 +685,18 @@
 				"topic": "Pear Story",
 				"iu_num": 163,
 				"sent_num": 46,
-				"record_time": 293.09
+				"record_time": 293.09,
+				"marker": {
+					"AF": 56,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 3,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 42
+				}
 			},
 			{
 				"type": "Narrative",
@@ -343,7 +706,18 @@
 				"topic": "Pear Story",
 				"iu_num": 187,
 				"sent_num": 47,
-				"record_time": 273.81
+				"record_time": 273.81,
+				"marker": {
+					"AF": 54,
+					"NAF": 0,
+					"PF": 29,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 69
+				}
 			},
 			{
 				"type": "Narrative",
@@ -353,7 +727,18 @@
 				"topic": "Frog Story",
 				"iu_num": 166,
 				"sent_num": 49,
-				"record_time": 232.7
+				"record_time": 232.7,
+				"marker": {
+					"AF": 28,
+					"NAF": 0,
+					"PF": 16,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 50
+				}
 			},
 			{
 				"type": "Narrative",
@@ -363,7 +748,18 @@
 				"topic": "Religion and My Life",
 				"iu_num": 404,
 				"sent_num": 93,
-				"record_time": 570.5
+				"record_time": 570.5,
+				"marker": {
+					"AF": 80,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 0,
+					"IF": 5,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 89
+				}
 			},
 			{
 				"type": "Narrative",
@@ -373,7 +769,18 @@
 				"topic": "Frog Story",
 				"iu_num": 175,
 				"sent_num": 49,
-				"record_time": 261.54
+				"record_time": 261.54,
+				"marker": {
+					"AF": 39,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 51
+				}
 			}
 		]
 	},
@@ -386,6 +793,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 982,
+				"NAF": 206,
+				"PF": 309,
+				"RF": 0,
+				"IF": 0,
+				"BF": 18,
+				"CF": 0,
+				"LF": 108,
+				"GEN": 274
 			}
 		},
 		"text": [
@@ -397,7 +815,18 @@
 				"topic": "Informants",
 				"iu_num": 298,
 				"sent_num": 69,
-				"record_time": 636.43
+				"record_time": 636.43,
+				"marker": {
+					"AF": 206,
+					"NAF": 62,
+					"PF": 112,
+					"RF": 0,
+					"IF": 0,
+					"BF": 8,
+					"CF": 0,
+					"LF": 42,
+					"GEN": 93
+				}
 			},
 			{
 				"type": "Narrative",
@@ -407,7 +836,18 @@
 				"topic": "Pear Story 3",
 				"iu_num": 124,
 				"sent_num": 33,
-				"record_time": 0
+				"record_time": 0,
+				"marker": {
+					"AF": 112,
+					"NAF": 42,
+					"PF": 27,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 41
+				}
 			},
 			{
 				"type": "Narrative",
@@ -417,7 +857,18 @@
 				"topic": "Love Story 1",
 				"iu_num": 85,
 				"sent_num": 18,
-				"record_time": 123.34
+				"record_time": 123.34,
+				"marker": {
+					"AF": 57,
+					"NAF": 19,
+					"PF": 15,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 18
+				}
 			},
 			{
 				"type": "Narrative",
@@ -427,7 +878,18 @@
 				"topic": "Pear Story 1",
 				"iu_num": 158,
 				"sent_num": 44,
-				"record_time": 309.33
+				"record_time": 309.33,
+				"marker": {
+					"AF": 127,
+					"NAF": 33,
+					"PF": 34,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 39
+				}
 			},
 			{
 				"type": "Conversation",
@@ -437,7 +899,18 @@
 				"topic": "Sngusnguyo",
 				"iu_num": 569,
 				"sent_num": 244,
-				"record_time": 0
+				"record_time": 0,
+				"marker": {
+					"AF": 480,
+					"NAF": 50,
+					"PF": 121,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 31,
+					"GEN": 83
+				}
 			}
 		]
 	},
@@ -449,7 +922,18 @@
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2364
+				"sent_num": 2435
+			},
+			"marker": {
+				"AF": 923,
+				"NAF": 0,
+				"PF": 169,
+				"RF": 3,
+				"IF": 20,
+				"BF": 0,
+				"CF": 1,
+				"LF": 3,
+				"GEN": 301
 			}
 		},
 		"text": [
@@ -461,7 +945,18 @@
 				"topic": "hunting1",
 				"iu_num": 118,
 				"sent_num": 64,
-				"record_time": 621.92
+				"record_time": 621.92,
+				"marker": {
+					"AF": 69,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 33
+				}
 			},
 			{
 				"type": "Narrative",
@@ -471,7 +966,18 @@
 				"topic": "mikon",
 				"iu_num": 33,
 				"sent_num": 11,
-				"record_time": 133.11
+				"record_time": 133.11,
+				"marker": {
+					"AF": 22,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
 			},
 			{
 				"type": "Narrative",
@@ -481,7 +987,18 @@
 				"topic": "Frog story",
 				"iu_num": 150,
 				"sent_num": 79,
-				"record_time": 468.98
+				"record_time": 468.98,
+				"marker": {
+					"AF": 66,
+					"NAF": 0,
+					"PF": 8,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 37
+				}
 			},
 			{
 				"type": "Narrative",
@@ -491,7 +1008,18 @@
 				"topic": "life",
 				"iu_num": 54,
 				"sent_num": 29,
-				"record_time": 261.34
+				"record_time": 261.34,
+				"marker": {
+					"AF": 32,
+					"NAF": 0,
+					"PF": 7,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 7
+				}
 			},
 			{
 				"type": "Narrative",
@@ -501,7 +1029,18 @@
 				"topic": "sowing",
 				"iu_num": 83,
 				"sent_num": 45,
-				"record_time": 336.42
+				"record_time": 336.42,
+				"marker": {
+					"AF": 49,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
 			},
 			{
 				"type": "Narrative",
@@ -511,7 +1050,18 @@
 				"topic": "Fishing",
 				"iu_num": 318,
 				"sent_num": 49,
-				"record_time": 682.97
+				"record_time": 682.97,
+				"marker": {
+					"AF": 105,
+					"NAF": 0,
+					"PF": 21,
+					"RF": 1,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
 			},
 			{
 				"type": "Narrative",
@@ -521,7 +1071,18 @@
 				"topic": "domestic_troubles",
 				"iu_num": 277,
 				"sent_num": 87,
-				"record_time": 458.85
+				"record_time": 458.85,
+				"marker": {
+					"AF": 20,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 24
+				}
 			},
 			{
 				"type": "Narrative",
@@ -531,7 +1092,18 @@
 				"topic": "puratu",
 				"iu_num": 481,
 				"sent_num": 144,
-				"record_time": 852.28
+				"record_time": 852.28,
+				"marker": {
+					"AF": 126,
+					"NAF": 0,
+					"PF": 32,
+					"RF": 0,
+					"IF": 10,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 47
+				}
 			},
 			{
 				"type": "Narrative",
@@ -541,7 +1113,18 @@
 				"topic": "The man from China_Pani",
 				"iu_num": 265,
 				"sent_num": 52,
-				"record_time": 638.72
+				"record_time": 638.72,
+				"marker": {
+					"AF": 114,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 2,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 24
+				}
 			},
 			{
 				"type": "Narrative",
@@ -551,7 +1134,18 @@
 				"topic": "Farming",
 				"iu_num": 144,
 				"sent_num": 38,
-				"record_time": 563.03
+				"record_time": 563.03,
+				"marker": {
+					"AF": 31,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 9
+				}
 			},
 			{
 				"type": "Narrative",
@@ -561,7 +1155,18 @@
 				"topic": "fishing",
 				"iu_num": 497,
 				"sent_num": 161,
-				"record_time": 961.32
+				"record_time": 961.32,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 30
+				}
 			},
 			{
 				"type": "Narrative",
@@ -571,7 +1176,18 @@
 				"topic": "dailylife",
 				"iu_num": 21,
 				"sent_num": 12,
-				"record_time": 41.97
+				"record_time": 41.97,
+				"marker": {
+					"AF": 1,
+					"NAF": 0,
+					"PF": 3,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 1,
+					"LF": 0,
+					"GEN": 1
+				}
 			},
 			{
 				"type": "Narrative",
@@ -581,7 +1197,18 @@
 				"topic": "a sad song",
 				"iu_num": 15,
 				"sent_num": 12,
-				"record_time": 114.54
+				"record_time": 114.54,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Narrative",
@@ -591,7 +1218,18 @@
 				"topic": "Story",
 				"iu_num": 142,
 				"sent_num": 69,
-				"record_time": 613.35
+				"record_time": 613.35,
+				"marker": {
+					"AF": 56,
+					"NAF": 0,
+					"PF": 8,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Narrative",
@@ -601,7 +1239,18 @@
 				"topic": "family",
 				"iu_num": 57,
 				"sent_num": 21,
-				"record_time": 286.65
+				"record_time": 286.65,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 9
+				}
 			},
 			{
 				"type": "Narrative",
@@ -611,7 +1260,18 @@
 				"topic": "Frog story",
 				"iu_num": 398,
 				"sent_num": 76,
-				"record_time": 834.56
+				"record_time": 834.56,
+				"marker": {
+					"AF": 119,
+					"NAF": 0,
+					"PF": 15,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 27
+				}
 			},
 			{
 				"type": "Narrative",
@@ -621,7 +1281,18 @@
 				"topic": "hunting.taboos",
 				"iu_num": 138,
 				"sent_num": 22,
-				"record_time": 234.64
+				"record_time": 234.64,
+				"marker": {
+					"AF": 28,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
 			},
 			{
 				"type": "Narrative",
@@ -631,7 +1302,18 @@
 				"topic": "sowing",
 				"iu_num": 61,
 				"sent_num": 16,
-				"record_time": 175.05
+				"record_time": 175.05,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Narrative",
@@ -641,7 +1323,18 @@
 				"topic": "Millet",
 				"iu_num": 206,
 				"sent_num": 96,
-				"record_time": 410.12
+				"record_time": 410.12,
+				"marker": {
+					"AF": 37,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 23
+				}
 			},
 			{
 				"type": "Sentence",
@@ -649,7 +1342,18 @@
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/2",
 				"transcribed": "劉星辰",
-				"sent_num": 16
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Sentence",
@@ -657,7 +1361,18 @@
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/3",
 				"transcribed": "李中佑",
-				"sent_num": 522
+				"sent_num": 521,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 6
+				}
 			},
 			{
 				"type": "Sentence",
@@ -665,7 +1380,18 @@
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/5",
 				"transcribed": "鄧安婷",
-				"sent_num": 73
+				"sent_num": 73,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Sentence",
@@ -673,7 +1399,18 @@
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/1",
 				"transcribed": "張盛傑",
-				"sent_num": 489
+				"sent_num": 489,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Sentence",
@@ -681,7 +1418,37 @@
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/4",
 				"transcribed": "楊佳縈",
-				"sent_num": 181
+				"sent_num": 181,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "None",
+				"collected": "None",
+				"file": "Kanakanavu_Kanakanavu/鄧安婷_完成_3rd",
+				"transcribed": "鄧安婷",
+				"sent_num": 72,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			}
 		]
 	},
@@ -694,6 +1461,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 1092,
+				"NAF": 31,
+				"PF": 0,
+				"RF": 0,
+				"IF": 0,
+				"BF": 0,
+				"CF": 0,
+				"LF": 610,
+				"GEN": 2134
 			}
 		},
 		"text": [
@@ -705,7 +1483,18 @@
 				"topic": "Sea",
 				"iu_num": 46,
 				"sent_num": 16,
-				"record_time": 112.99
+				"record_time": 112.99,
+				"marker": {
+					"AF": 10,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 4
+				}
 			},
 			{
 				"type": "Conversation",
@@ -715,7 +1504,18 @@
 				"topic": "Barking banana trees",
 				"iu_num": 53,
 				"sent_num": 23,
-				"record_time": 62.04
+				"record_time": 62.04,
+				"marker": {
+					"AF": 1,
+					"NAF": 2,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 7,
+					"GEN": 11
+				}
 			},
 			{
 				"type": "Conversation",
@@ -725,7 +1525,18 @@
 				"topic": "Earthquake",
 				"iu_num": 986,
 				"sent_num": 313,
-				"record_time": 1056.35
+				"record_time": 1056.35,
+				"marker": {
+					"AF": 110,
+					"NAF": 4,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 65,
+					"GEN": 255
+				}
 			},
 			{
 				"type": "Narrative",
@@ -735,7 +1546,18 @@
 				"topic": "Map",
 				"iu_num": 42,
 				"sent_num": 18,
-				"record_time": 56.94
+				"record_time": 56.94,
+				"marker": {
+					"AF": 18,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 7
+				}
 			},
 			{
 				"type": "Narrative",
@@ -745,7 +1567,18 @@
 				"topic": "Pear story",
 				"iu_num": 69,
 				"sent_num": 26,
-				"record_time": 145.15
+				"record_time": 145.15,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 17
+				}
 			},
 			{
 				"type": "Narrative",
@@ -755,7 +1588,18 @@
 				"topic": "Frog story",
 				"iu_num": 186,
 				"sent_num": 54,
-				"record_time": 276.24
+				"record_time": 276.24,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 55
+				}
 			},
 			{
 				"type": "Conversation",
@@ -765,7 +1609,18 @@
 				"topic": "Kavalan Speech Contest",
 				"iu_num": 268,
 				"sent_num": 88,
-				"record_time": 313.8
+				"record_time": 313.8,
+				"marker": {
+					"AF": 19,
+					"NAF": 1,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 58
+				}
 			},
 			{
 				"type": "Narrative",
@@ -775,7 +1630,18 @@
 				"topic": "Map",
 				"iu_num": 52,
 				"sent_num": 39,
-				"record_time": 114.52
+				"record_time": 114.52,
+				"marker": {
+					"AF": 18,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 22
+				}
 			},
 			{
 				"type": "Narrative",
@@ -785,7 +1651,18 @@
 				"topic": "Frog story",
 				"iu_num": 123,
 				"sent_num": 47,
-				"record_time": 291.0
+				"record_time": 291.0,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 13
+				}
 			},
 			{
 				"type": "Narrative",
@@ -795,7 +1672,18 @@
 				"topic": "Ancestors",
 				"iu_num": 178,
 				"sent_num": 51,
-				"record_time": 440.52
+				"record_time": 440.52,
+				"marker": {
+					"AF": 23,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 13,
+					"GEN": 47
+				}
 			},
 			{
 				"type": "Narrative",
@@ -805,7 +1693,18 @@
 				"topic": "Marriage",
 				"iu_num": 623,
 				"sent_num": 188,
-				"record_time": 773.43
+				"record_time": 773.43,
+				"marker": {
+					"AF": 79,
+					"NAF": 11,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 40,
+					"GEN": 173
+				}
 			},
 			{
 				"type": "Conversation",
@@ -815,7 +1714,18 @@
 				"topic": "Angry",
 				"iu_num": 297,
 				"sent_num": 111,
-				"record_time": 382.18
+				"record_time": 382.18,
+				"marker": {
+					"AF": 38,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 40,
+					"GEN": 94
+				}
 			},
 			{
 				"type": "Narrative",
@@ -825,7 +1735,18 @@
 				"topic": "Pear story",
 				"iu_num": 86,
 				"sent_num": 47,
-				"record_time": 215.63
+				"record_time": 215.63,
+				"marker": {
+					"AF": 21,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 30,
+					"GEN": 59
+				}
 			},
 			{
 				"type": "Conversation",
@@ -835,7 +1756,18 @@
 				"topic": "Relatives",
 				"iu_num": 1086,
 				"sent_num": 328,
-				"record_time": 1285.68
+				"record_time": 1285.68,
+				"marker": {
+					"AF": 134,
+					"NAF": 7,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 85,
+					"GEN": 301
+				}
 			},
 			{
 				"type": "Narrative",
@@ -845,7 +1777,18 @@
 				"topic": "Map",
 				"iu_num": 53,
 				"sent_num": 13,
-				"record_time": 71.3
+				"record_time": 71.3,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 8
+				}
 			},
 			{
 				"type": "Narrative",
@@ -855,7 +1798,18 @@
 				"topic": "Pear story",
 				"iu_num": 108,
 				"sent_num": 38,
-				"record_time": 163.63
+				"record_time": 163.63,
+				"marker": {
+					"AF": 24,
+					"NAF": 3,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 44
+				}
 			},
 			{
 				"type": "Narrative",
@@ -865,7 +1819,18 @@
 				"topic": "Frog story",
 				"iu_num": 150,
 				"sent_num": 44,
-				"record_time": 253.12
+				"record_time": 253.12,
+				"marker": {
+					"AF": 20,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 16,
+					"GEN": 43
+				}
 			},
 			{
 				"type": "Narrative",
@@ -875,7 +1840,18 @@
 				"topic": "Frog story",
 				"iu_num": 214,
 				"sent_num": 115,
-				"record_time": 302.31
+				"record_time": 302.31,
+				"marker": {
+					"AF": 40,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 27,
+					"GEN": 69
+				}
 			},
 			{
 				"type": "Narrative",
@@ -885,7 +1861,18 @@
 				"topic": "Pear Story",
 				"iu_num": 90,
 				"sent_num": 22,
-				"record_time": 117.53
+				"record_time": 117.53,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 27
+				}
 			},
 			{
 				"type": "Narrative",
@@ -895,7 +1882,18 @@
 				"topic": "Frog story",
 				"iu_num": 362,
 				"sent_num": 96,
-				"record_time": 593.1
+				"record_time": 593.1,
+				"marker": {
+					"AF": 52,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 98
+				}
 			},
 			{
 				"type": "Narrative",
@@ -905,7 +1903,18 @@
 				"topic": "Pear story",
 				"iu_num": 52,
 				"sent_num": 20,
-				"record_time": 81.19
+				"record_time": 81.19,
+				"marker": {
+					"AF": 16,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 11
+				}
 			},
 			{
 				"type": "Conversation",
@@ -915,7 +1924,18 @@
 				"topic": "Weaving",
 				"iu_num": 212,
 				"sent_num": 75,
-				"record_time": 258.43
+				"record_time": 258.43,
+				"marker": {
+					"AF": 36,
+					"NAF": 2,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 53
+				}
 			},
 			{
 				"type": "Narrative",
@@ -925,7 +1945,18 @@
 				"topic": "Pear story",
 				"iu_num": 110,
 				"sent_num": 32,
-				"record_time": 154.84
+				"record_time": 154.84,
+				"marker": {
+					"AF": 23,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 20
+				}
 			},
 			{
 				"type": "Narrative",
@@ -935,7 +1966,18 @@
 				"topic": "Ancestors",
 				"iu_num": 110,
 				"sent_num": 68,
-				"record_time": 393.94
+				"record_time": 393.94,
+				"marker": {
+					"AF": 28,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 9,
+					"GEN": 72
+				}
 			},
 			{
 				"type": "Conversation",
@@ -945,7 +1987,18 @@
 				"topic": "Returning Home",
 				"iu_num": 285,
 				"sent_num": 96,
-				"record_time": 384.62
+				"record_time": 384.62,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 85
+				}
 			},
 			{
 				"type": "Narrative",
@@ -955,7 +2008,18 @@
 				"topic": "Pear story",
 				"iu_num": 90,
 				"sent_num": 21,
-				"record_time": 164.01
+				"record_time": 164.01,
+				"marker": {
+					"AF": 18,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 21
+				}
 			},
 			{
 				"type": "Narrative",
@@ -965,7 +2029,18 @@
 				"topic": "Pear story",
 				"iu_num": 154,
 				"sent_num": 58,
-				"record_time": 228.42
+				"record_time": 228.42,
+				"marker": {
+					"AF": 36,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 21,
+					"GEN": 64
+				}
 			},
 			{
 				"type": "Narrative",
@@ -975,7 +2050,18 @@
 				"topic": "Frog story",
 				"iu_num": 139,
 				"sent_num": 82,
-				"record_time": 660.66
+				"record_time": 660.66,
+				"marker": {
+					"AF": 65,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 86
+				}
 			},
 			{
 				"type": "Narrative",
@@ -985,7 +2071,18 @@
 				"topic": "Frog Story",
 				"iu_num": 244,
 				"sent_num": 53,
-				"record_time": 349.72
+				"record_time": 349.72,
+				"marker": {
+					"AF": 32,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 65
+				}
 			},
 			{
 				"type": "Narrative",
@@ -995,7 +2092,18 @@
 				"topic": "Frog story",
 				"iu_num": 394,
 				"sent_num": 158,
-				"record_time": 640.97
+				"record_time": 640.97,
+				"marker": {
+					"AF": 65,
+					"NAF": 1,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 33,
+					"GEN": 206
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1005,7 +2113,18 @@
 				"topic": "Teaching Weaving",
 				"iu_num": 139,
 				"sent_num": 53,
-				"record_time": 317.67
+				"record_time": 317.67,
+				"marker": {
+					"AF": 21,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 46
+				}
 			}
 		]
 	},
@@ -1018,6 +2137,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 742,
+				"NAF": 0,
+				"PF": 161,
+				"RF": 6,
+				"IF": 9,
+				"BF": 4,
+				"CF": 0,
+				"LF": 101,
+				"GEN": 594
 			}
 		},
 		"text": [
@@ -1029,7 +2159,18 @@
 				"topic": "frog_Panay",
 				"iu_num": 106,
 				"sent_num": 54,
-				"record_time": 309.21
+				"record_time": 309.21,
+				"marker": {
+					"AF": 51,
+					"NAF": 0,
+					"PF": 12,
+					"RF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 28
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1039,7 +2180,18 @@
 				"topic": "pear_panay",
 				"iu_num": 44,
 				"sent_num": 24,
-				"record_time": 126.43
+				"record_time": 126.43,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 21
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1049,7 +2201,18 @@
 				"topic": "school_panay",
 				"iu_num": 51,
 				"sent_num": 23,
-				"record_time": 137.54
+				"record_time": 137.54,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 27
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1059,7 +2222,18 @@
 				"topic": "pear_bunuk",
 				"iu_num": 120,
 				"sent_num": 58,
-				"record_time": 278.58
+				"record_time": 278.58,
+				"marker": {
+					"AF": 59,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 63
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1069,7 +2243,18 @@
 				"topic": "frog_sinay",
 				"iu_num": 108,
 				"sent_num": 39,
-				"record_time": 230.53
+				"record_time": 230.53,
+				"marker": {
+					"AF": 32,
+					"NAF": 0,
+					"PF": 10,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 24
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1079,7 +2264,18 @@
 				"topic": "class_Sinay",
 				"iu_num": 198,
 				"sent_num": 84,
-				"record_time": 470.29
+				"record_time": 470.29,
+				"marker": {
+					"AF": 76,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 0,
+					"IF": 4,
+					"BF": 4,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 53
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1089,7 +2285,18 @@
 				"topic": "frog_Dungi",
 				"iu_num": 129,
 				"sent_num": 58,
-				"record_time": 238.28
+				"record_time": 238.28,
+				"marker": {
+					"AF": 43,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 32
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1099,7 +2306,18 @@
 				"topic": "rain_Kaniw",
 				"iu_num": 124,
 				"sent_num": 39,
-				"record_time": 242.9
+				"record_time": 242.9,
+				"marker": {
+					"AF": 29,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 20
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1109,7 +2327,18 @@
 				"topic": "pear_dungi",
 				"iu_num": 93,
 				"sent_num": 41,
-				"record_time": 173.51
+				"record_time": 173.51,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 26
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1119,7 +2348,18 @@
 				"topic": "hunting_Kaniw",
 				"iu_num": 129,
 				"sent_num": 49,
-				"record_time": 267.56
+				"record_time": 267.56,
+				"marker": {
+					"AF": 44,
+					"NAF": 0,
+					"PF": 16,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1129,7 +2369,18 @@
 				"topic": "tribalhistory_Sinay",
 				"iu_num": 480,
 				"sent_num": 208,
-				"record_time": 1056.92
+				"record_time": 1056.92,
+				"marker": {
+					"AF": 144,
+					"NAF": 0,
+					"PF": 33,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 37,
+					"GEN": 136
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1139,7 +2390,18 @@
 				"topic": "Palamal_Kaniw",
 				"iu_num": 261,
 				"sent_num": 112,
-				"record_time": 508.74
+				"record_time": 508.74,
+				"marker": {
+					"AF": 97,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 13,
+					"GEN": 57
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1149,7 +2411,18 @@
 				"topic": "maibul_panay",
 				"iu_num": 39,
 				"sent_num": 21,
-				"record_time": 90.72
+				"record_time": 90.72,
+				"marker": {
+					"AF": 8,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 13
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1159,7 +2432,18 @@
 				"topic": "frog_Bunuk",
 				"iu_num": 143,
 				"sent_num": 90,
-				"record_time": 409.5
+				"record_time": 409.5,
+				"marker": {
+					"AF": 68,
+					"NAF": 0,
+					"PF": 22,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 15,
+					"GEN": 55
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1169,7 +2453,18 @@
 				"topic": "sapad-panay",
 				"iu_num": 60,
 				"sent_num": 21,
-				"record_time": 146.06
+				"record_time": 146.06,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 23
+				}
 			}
 		]
 	},
@@ -1182,6 +2477,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 1121,
+				"NAF": 0,
+				"PF": 396,
+				"RF": 87,
+				"IF": 1,
+				"BF": 0,
+				"CF": 0,
+				"LF": 0,
+				"GEN": 323
 			}
 		},
 		"text": [
@@ -1193,7 +2499,18 @@
 				"topic": "pear1",
 				"iu_num": 122,
 				"sent_num": 48,
-				"record_time": 285.47
+				"record_time": 285.47,
+				"marker": {
+					"AF": 30,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 15
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1203,7 +2520,18 @@
 				"topic": "pear3",
 				"iu_num": 50,
 				"sent_num": 22,
-				"record_time": 115.92
+				"record_time": 115.92,
+				"marker": {
+					"AF": 30,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1213,7 +2541,18 @@
 				"topic": "flood",
 				"iu_num": 160,
 				"sent_num": 71,
-				"record_time": 314.96
+				"record_time": 314.96,
+				"marker": {
+					"AF": 49,
+					"NAF": 0,
+					"PF": 16,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1223,7 +2562,18 @@
 				"topic": "frog6",
 				"iu_num": 179,
 				"sent_num": 67,
-				"record_time": 470.08
+				"record_time": 470.08,
+				"marker": {
+					"AF": 54,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 14
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1233,7 +2583,18 @@
 				"topic": "Molaw",
 				"iu_num": 97,
 				"sent_num": 30,
-				"record_time": 166.36
+				"record_time": 166.36,
+				"marker": {
+					"AF": 56,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1243,7 +2604,18 @@
 				"topic": "frog5",
 				"iu_num": 278,
 				"sent_num": 92,
-				"record_time": 587.83
+				"record_time": 587.83,
+				"marker": {
+					"AF": 62,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 12,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 11
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1253,7 +2625,18 @@
 				"topic": "holiday",
 				"iu_num": 281,
 				"sent_num": 107,
-				"record_time": 428.9
+				"record_time": 428.9,
+				"marker": {
+					"AF": 108,
+					"NAF": 0,
+					"PF": 41,
+					"RF": 8,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 21
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1263,7 +2646,18 @@
 				"topic": "frog4",
 				"iu_num": 128,
 				"sent_num": 55,
-				"record_time": 304.96
+				"record_time": 304.96,
+				"marker": {
+					"AF": 38,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 7
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1273,7 +2667,18 @@
 				"topic": "anhi",
 				"iu_num": 26,
 				"sent_num": 7,
-				"record_time": 70.5
+				"record_time": 70.5,
+				"marker": {
+					"AF": 5,
+					"NAF": 0,
+					"PF": 12,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1283,7 +2688,18 @@
 				"topic": "frog1",
 				"iu_num": 119,
 				"sent_num": 57,
-				"record_time": 369.47
+				"record_time": 369.47,
+				"marker": {
+					"AF": 42,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 8,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 8
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1293,7 +2709,18 @@
 				"topic": "election",
 				"iu_num": 115,
 				"sent_num": 49,
-				"record_time": 291.54
+				"record_time": 291.54,
+				"marker": {
+					"AF": 22,
+					"NAF": 0,
+					"PF": 12,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 23
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1303,7 +2730,18 @@
 				"topic": "pear5",
 				"iu_num": 105,
 				"sent_num": 35,
-				"record_time": 258.47
+				"record_time": 258.47,
+				"marker": {
+					"AF": 34,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 5,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 10
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1313,7 +2751,18 @@
 				"topic": "frog2",
 				"iu_num": 92,
 				"sent_num": 47,
-				"record_time": 213.14
+				"record_time": 213.14,
+				"marker": {
+					"AF": 29,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 11
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1323,7 +2772,18 @@
 				"topic": "life",
 				"iu_num": 288,
 				"sent_num": 152,
-				"record_time": 581.61
+				"record_time": 581.61,
+				"marker": {
+					"AF": 77,
+					"NAF": 0,
+					"PF": 38,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 34
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1333,7 +2793,18 @@
 				"topic": "kathethel",
 				"iu_num": 203,
 				"sent_num": 71,
-				"record_time": 363.73
+				"record_time": 363.73,
+				"marker": {
+					"AF": 93,
+					"NAF": 0,
+					"PF": 33,
+					"RF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 21
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1343,7 +2814,18 @@
 				"topic": "frog7",
 				"iu_num": 109,
 				"sent_num": 58,
-				"record_time": 315.55
+				"record_time": 315.55,
+				"marker": {
+					"AF": 45,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1353,7 +2835,18 @@
 				"topic": "kathethel2",
 				"iu_num": 546,
 				"sent_num": 165,
-				"record_time": 1087.94
+				"record_time": 1087.94,
+				"marker": {
+					"AF": 200,
+					"NAF": 0,
+					"PF": 43,
+					"RF": 18,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 78
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1363,7 +2856,18 @@
 				"topic": "frog8",
 				"iu_num": 89,
 				"sent_num": 38,
-				"record_time": 216.65
+				"record_time": 216.65,
+				"marker": {
+					"AF": 34,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 11
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1373,7 +2877,18 @@
 				"topic": "frog3",
 				"iu_num": 181,
 				"sent_num": 80,
-				"record_time": 292.02
+				"record_time": 292.02,
+				"marker": {
+					"AF": 61,
+					"NAF": 0,
+					"PF": 46,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 25
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1383,7 +2898,18 @@
 				"topic": "pear4",
 				"iu_num": 89,
 				"sent_num": 46,
-				"record_time": 236.81
+				"record_time": 236.81,
+				"marker": {
+					"AF": 52,
+					"NAF": 0,
+					"PF": 22,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 10
+				}
 			}
 		]
 	},
@@ -1396,6 +2922,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 2527,
+				"NAF": 0,
+				"PF": 613,
+				"RF": 32,
+				"IF": 1,
+				"BF": 0,
+				"CF": 1,
+				"LF": 393,
+				"GEN": 1209
 			}
 		},
 		"text": [
@@ -1407,7 +2944,18 @@
 				"topic": "frog",
 				"iu_num": 426,
 				"sent_num": 111,
-				"record_time": 1124.15
+				"record_time": 1124.15,
+				"marker": {
+					"AF": 209,
+					"NAF": 0,
+					"PF": 21,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 49,
+					"GEN": 102
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1417,7 +2965,18 @@
 				"topic": "sinobale",
 				"iu_num": 32,
 				"sent_num": 21,
-				"record_time": 59.19
+				"record_time": 59.19,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 17,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 6
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1427,7 +2986,18 @@
 				"topic": "ricah",
 				"iu_num": 54,
 				"sent_num": 13,
-				"record_time": 97.32
+				"record_time": 97.32,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 22,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 6
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1437,7 +3007,18 @@
 				"topic": "medicine",
 				"iu_num": 53,
 				"sent_num": 25,
-				"record_time": 120.21
+				"record_time": 120.21,
+				"marker": {
+					"AF": 32,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 3
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1447,7 +3028,18 @@
 				"topic": "south",
 				"iu_num": 111,
 				"sent_num": 33,
-				"record_time": 182.47
+				"record_time": 182.47,
+				"marker": {
+					"AF": 52,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 15
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1457,7 +3049,18 @@
 				"topic": "sdqCon-dialog3_robo_bakan",
 				"iu_num": 68,
 				"sent_num": 28,
-				"record_time": 108.39
+				"record_time": 108.39,
+				"marker": {
+					"AF": 52,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 1,
+					"LF": 2,
+					"GEN": 12
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1467,7 +3070,18 @@
 				"topic": "tattoo2",
 				"iu_num": 21,
 				"sent_num": 15,
-				"record_time": 0
+				"record_time": 0,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1477,7 +3091,18 @@
 				"topic": "pear",
 				"iu_num": 250,
 				"sent_num": 82,
-				"record_time": 378.69
+				"record_time": 378.69,
+				"marker": {
+					"AF": 166,
+					"NAF": 0,
+					"PF": 40,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 28,
+					"GEN": 78
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1487,7 +3112,18 @@
 				"topic": "mother",
 				"iu_num": 399,
 				"sent_num": 87,
-				"record_time": 706.72
+				"record_time": 706.72,
+				"marker": {
+					"AF": 215,
+					"NAF": 0,
+					"PF": 35,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 28,
+					"GEN": 102
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1497,7 +3133,18 @@
 				"topic": "seediq",
 				"iu_num": 136,
 				"sent_num": 41,
-				"record_time": 215.41
+				"record_time": 215.41,
+				"marker": {
+					"AF": 43,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 34
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1507,7 +3154,18 @@
 				"topic": "pear",
 				"iu_num": 128,
 				"sent_num": 55,
-				"record_time": 340.33
+				"record_time": 340.33,
+				"marker": {
+					"AF": 99,
+					"NAF": 0,
+					"PF": 29,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 58
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1517,7 +3175,18 @@
 				"topic": "frog",
 				"iu_num": 267,
 				"sent_num": 46,
-				"record_time": 596.17
+				"record_time": 596.17,
+				"marker": {
+					"AF": 145,
+					"NAF": 0,
+					"PF": 15,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 13,
+					"GEN": 45
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1527,7 +3196,18 @@
 				"topic": "rain",
 				"iu_num": 32,
 				"sent_num": 18,
-				"record_time": 73.05
+				"record_time": 73.05,
+				"marker": {
+					"AF": 26,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 6
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1537,7 +3217,18 @@
 				"topic": "sdqCon-dialog1_ciwas_tiwas",
 				"iu_num": 316,
 				"sent_num": 165,
-				"record_time": 469.9
+				"record_time": 469.9,
+				"marker": {
+					"AF": 148,
+					"NAF": 0,
+					"PF": 35,
+					"RF": 6,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 65
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1547,7 +3238,18 @@
 				"topic": "frog",
 				"iu_num": 190,
 				"sent_num": 46,
-				"record_time": 366.06
+				"record_time": 366.06,
+				"marker": {
+					"AF": 106,
+					"NAF": 0,
+					"PF": 17,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 60
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1557,7 +3259,18 @@
 				"topic": "pear",
 				"iu_num": 96,
 				"sent_num": 26,
-				"record_time": 253.73
+				"record_time": 253.73,
+				"marker": {
+					"AF": 65,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 13,
+					"GEN": 40
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1567,7 +3280,18 @@
 				"topic": "tradition",
 				"iu_num": 232,
 				"sent_num": 68,
-				"record_time": 332.92
+				"record_time": 332.92,
+				"marker": {
+					"AF": 133,
+					"NAF": 0,
+					"PF": 31,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 67
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1577,7 +3301,18 @@
 				"topic": "pear",
 				"iu_num": 84,
 				"sent_num": 17,
-				"record_time": 130.98
+				"record_time": 130.98,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1587,7 +3322,18 @@
 				"topic": "sdqCon-dialog5_dakis_takun",
 				"iu_num": 300,
 				"sent_num": 127,
-				"record_time": 418.76
+				"record_time": 418.76,
+				"marker": {
+					"AF": 101,
+					"NAF": 0,
+					"PF": 35,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 26,
+					"GEN": 57
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1597,7 +3343,18 @@
 				"topic": "sisin",
 				"iu_num": 573,
 				"sent_num": 133,
-				"record_time": 956.25
+				"record_time": 956.25,
+				"marker": {
+					"AF": 294,
+					"NAF": 0,
+					"PF": 109,
+					"RF": 6,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 49,
+					"GEN": 167
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1607,7 +3364,18 @@
 				"topic": "sdqCon-dialog2_ciwas_tiwas",
 				"iu_num": 336,
 				"sent_num": 203,
-				"record_time": 494.09
+				"record_time": 494.09,
+				"marker": {
+					"AF": 211,
+					"NAF": 0,
+					"PF": 41,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 27,
+					"GEN": 74
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1617,7 +3385,18 @@
 				"topic": "pear",
 				"iu_num": 87,
 				"sent_num": 16,
-				"record_time": 139.59
+				"record_time": 139.59,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 15
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1627,7 +3406,18 @@
 				"topic": "childhood",
 				"iu_num": 268,
 				"sent_num": 120,
-				"record_time": 903.93
+				"record_time": 903.93,
+				"marker": {
+					"AF": 201,
+					"NAF": 0,
+					"PF": 52,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 30,
+					"GEN": 115
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1637,7 +3427,18 @@
 				"topic": "taboo",
 				"iu_num": 119,
 				"sent_num": 25,
-				"record_time": 0
+				"record_time": 0,
+				"marker": {
+					"AF": 43,
+					"NAF": 0,
+					"PF": 8,
+					"RF": 3,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 27
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1647,7 +3448,18 @@
 				"topic": "sdqCon-plum_uma_robo",
 				"iu_num": 103,
 				"sent_num": 33,
-				"record_time": 180.7
+				"record_time": 180.7,
+				"marker": {
+					"AF": 8,
+					"NAF": 0,
+					"PF": 23,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 19
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1657,7 +3469,18 @@
 				"topic": "sdqCon-dialog4_robo_bakan_ape",
 				"iu_num": 143,
 				"sent_num": 53,
-				"record_time": 211.83
+				"record_time": 211.83,
+				"marker": {
+					"AF": 67,
+					"NAF": 0,
+					"PF": 17,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 18
+				}
 			}
 		]
 	},
@@ -1670,6 +3493,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 1164,
+				"NAF": 232,
+				"PF": 354,
+				"RF": 0,
+				"IF": 0,
+				"BF": 15,
+				"CF": 0,
+				"LF": 77,
+				"GEN": 324
 			}
 		},
 		"text": [
@@ -1681,7 +3515,18 @@
 				"topic": "Frog Story 1",
 				"iu_num": 102,
 				"sent_num": 40,
-				"record_time": 234.41
+				"record_time": 234.41,
+				"marker": {
+					"AF": 94,
+					"NAF": 28,
+					"PF": 28,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 26
+				}
 			},
 			{
 				"type": "Conversation",
@@ -1691,7 +3536,18 @@
 				"topic": "Typhoon",
 				"iu_num": 576,
 				"sent_num": 295,
-				"record_time": 1034.22
+				"record_time": 1034.22,
+				"marker": {
+					"AF": 539,
+					"NAF": 60,
+					"PF": 144,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 19,
+					"GEN": 103
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1701,7 +3557,18 @@
 				"topic": "Frog Story 2",
 				"iu_num": 183,
 				"sent_num": 44,
-				"record_time": 302.14
+				"record_time": 302.14,
+				"marker": {
+					"AF": 85,
+					"NAF": 35,
+					"PF": 33,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 43
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1711,7 +3578,18 @@
 				"topic": "Love Story 2",
 				"iu_num": 102,
 				"sent_num": 23,
-				"record_time": 216.01
+				"record_time": 216.01,
+				"marker": {
+					"AF": 54,
+					"NAF": 12,
+					"PF": 20,
+					"RF": 0,
+					"IF": 0,
+					"BF": 3,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 23
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1721,7 +3599,18 @@
 				"topic": "Frog Story 4",
 				"iu_num": 198,
 				"sent_num": 85,
-				"record_time": 464.57
+				"record_time": 464.57,
+				"marker": {
+					"AF": 234,
+					"NAF": 65,
+					"PF": 80,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 29,
+					"GEN": 79
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1731,7 +3620,18 @@
 				"topic": "Pear Story 2",
 				"iu_num": 109,
 				"sent_num": 29,
-				"record_time": 161.99
+				"record_time": 161.99,
+				"marker": {
+					"AF": 102,
+					"NAF": 17,
+					"PF": 24,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 29
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1741,7 +3641,18 @@
 				"topic": "Love Story 3",
 				"iu_num": 58,
 				"sent_num": 25,
-				"record_time": 131.55
+				"record_time": 131.55,
+				"marker": {
+					"AF": 56,
+					"NAF": 15,
+					"PF": 25,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 21
+				}
 			}
 		]
 	},
@@ -1754,6 +3665,17 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"marker": {
+				"AF": 522,
+				"NAF": 4,
+				"PF": 235,
+				"RF": 0,
+				"IF": 15,
+				"BF": 16,
+				"CF": 0,
+				"LF": 138,
+				"GEN": 418
 			}
 		},
 		"text": [
@@ -1765,7 +3687,18 @@
 				"topic": "Daily Life 1",
 				"iu_num": 79,
 				"sent_num": 21,
-				"record_time": 158.0
+				"record_time": 158.0,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 1,
+					"BF": 3,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 5
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1775,7 +3708,18 @@
 				"topic": "Hunting 3",
 				"iu_num": 116,
 				"sent_num": 48,
-				"record_time": 367.78
+				"record_time": 367.78,
+				"marker": {
+					"AF": 55,
+					"NAF": 3,
+					"PF": 25,
+					"RF": 0,
+					"IF": 0,
+					"BF": 5,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 57
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1785,7 +3729,18 @@
 				"topic": "Moving 1",
 				"iu_num": 180,
 				"sent_num": 57,
-				"record_time": 461.97
+				"record_time": 461.97,
+				"marker": {
+					"AF": 36,
+					"NAF": 1,
+					"PF": 16,
+					"RF": 0,
+					"IF": 2,
+					"BF": 1,
+					"CF": 0,
+					"LF": 25,
+					"GEN": 54
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1795,7 +3750,18 @@
 				"topic": "Daily Life 2",
 				"iu_num": 43,
 				"sent_num": 9,
-				"record_time": 84.5
+				"record_time": 84.5,
+				"marker": {
+					"AF": 16,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 7,
+					"GEN": 5
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1805,7 +3771,18 @@
 				"topic": "Hunting 1",
 				"iu_num": 122,
 				"sent_num": 48,
-				"record_time": 349.96
+				"record_time": 349.96,
+				"marker": {
+					"AF": 42,
+					"NAF": 0,
+					"PF": 36,
+					"RF": 0,
+					"IF": 3,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 16
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1815,7 +3792,18 @@
 				"topic": "Weaving",
 				"iu_num": 152,
 				"sent_num": 103,
-				"record_time": 610.53
+				"record_time": 610.53,
+				"marker": {
+					"AF": 74,
+					"NAF": 0,
+					"PF": 37,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 41
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1825,7 +3813,18 @@
 				"topic": "Proposal",
 				"iu_num": 150,
 				"sent_num": 40,
-				"record_time": 506.1
+				"record_time": 506.1,
+				"marker": {
+					"AF": 81,
+					"NAF": 0,
+					"PF": 36,
+					"RF": 0,
+					"IF": 2,
+					"BF": 1,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 76
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1835,7 +3834,18 @@
 				"topic": "Hunting 2",
 				"iu_num": 85,
 				"sent_num": 20,
-				"record_time": 193.39
+				"record_time": 193.39,
+				"marker": {
+					"AF": 31,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 3,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 13
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1845,7 +3855,18 @@
 				"topic": "Daily Life 3",
 				"iu_num": 97,
 				"sent_num": 45,
-				"record_time": 288.24
+				"record_time": 288.24,
+				"marker": {
+					"AF": 25,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 43
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1855,7 +3876,18 @@
 				"topic": "Sowing",
 				"iu_num": 167,
 				"sent_num": 49,
-				"record_time": 519.66
+				"record_time": 519.66,
+				"marker": {
+					"AF": 71,
+					"NAF": 0,
+					"PF": 26,
+					"RF": 0,
+					"IF": 2,
+					"BF": 4,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 55
+				}
 			},
 			{
 				"type": "Narrative",
@@ -1865,7 +3897,18 @@
 				"topic": "Moving 2",
 				"iu_num": 207,
 				"sent_num": 47,
-				"record_time": 503.15
+				"record_time": 503.15,
+				"marker": {
+					"AF": 67,
+					"NAF": 0,
+					"PF": 23,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 53
+				}
 			}
 		]
 	},
@@ -1878,6 +3921,17 @@
 			},
 			"sentence": {
 				"sent_num": 994
+			},
+			"marker": {
+				"AF": 9,
+				"NAF": 0,
+				"PF": 1,
+				"RF": 0,
+				"IF": 0,
+				"BF": 0,
+				"CF": 0,
+				"LF": 2,
+				"GEN": 0
 			}
 		},
 		"text": [
@@ -1887,7 +3941,18 @@
 				"collected": "None",
 				"file": "Bunun_Isbukun/2",
 				"transcribed": "楊淳然",
-				"sent_num": 74
+				"sent_num": 74,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			},
 			{
 				"type": "Sentence",
@@ -1895,7 +3960,18 @@
 				"collected": "None",
 				"file": "Bunun_Isbukun/1",
 				"transcribed": "張智傑",
-				"sent_num": 920
+				"sent_num": 920,
+				"marker": {
+					"AF": 9,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 0
+				}
 			}
 		]
 	}

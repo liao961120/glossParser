@@ -8,3 +8,5 @@ audio
 Formosan Corpus (2020)
 form-corp-data.json
 *.csv
+/docs/sentence
+/docs/story
