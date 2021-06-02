@@ -2557,7 +2557,7 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4824,
+				"iu_num": 4831,
 				"sent_num": 1607,
 				"record_time": 8860.84
 			},
@@ -2851,6 +2851,27 @@
 				}
 			},
 			{
+				"type": "Narrative",
+				"speaker": "",
+				"collected": "None",
+				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
+				"topic": "sdqNr-taboo_pawan",
+				"iu_num": 7,
+				"sent_num": 0,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"type": "Conversation",
 				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
 				"collected": "None",
@@ -2869,6 +2890,27 @@
 					"CF": 0,
 					"LF": 3,
 					"GEN": 19
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "",
+				"collected": "None",
+				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
+				"topic": "sdqNr-tattoo2_pawan",
+				"iu_num": 0,
+				"sent_num": 0,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
 				}
 			},
 			{
