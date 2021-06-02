@@ -9,6 +9,8 @@ from googleapiclient.discovery import build
 from traverse_files import Drive
 from data import Data
 
+USE_CACHE = False
+
 # Output data
 CACHE = 'docs/cache.pkl'
 DATA_DIR = Data().corpus_files_root
@@ -21,9 +23,12 @@ drive_service = build('drive', 'v3', credentials=credentials)
 drive = Drive(drive_service)
 
 # Load cache
-with open(CACHE, "rb") as f:
-    cache = pickle.load(f)
-drive.read_cache(**cache)
+if USE_CACHE:
+    os.system("wget https://yongfu.name/glossParser/cache.pkl")
+    os.system("mv cache.pkl docs/")
+    with open(CACHE, "rb") as f:
+        cache = pickle.load(f)
+    drive.read_cache(**cache)
 
 
 # Search GDrive for all txt files
