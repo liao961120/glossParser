@@ -826,6 +826,283 @@
 			}
 		]
 	},
+	"Tsou_Tsou": {
+		"summary": {
+			"story": {
+				"iu_num": 2562,
+				"sent_num": 949,
+				"record_time": 3613.99
+			},
+			"sentence": {
+				"sent_num": 0
+			},
+			"marker": {
+				"AF": 2146,
+				"NAF": 438,
+				"PF": 663,
+				"RF": 0,
+				"IF": 0,
+				"BF": 33,
+				"CF": 0,
+				"LF": 185,
+				"GEN": 598
+			}
+		},
+		"text": [
+			{
+				"type": "Narrative",
+				"speaker": "",
+				"collected": "None",
+				"file": "Tsou_Tsou/None",
+				"topic": "Pear Story 3",
+				"iu_num": 124,
+				"sent_num": 33,
+				"record_time": 0,
+				"marker": {
+					"AF": 112,
+					"NAF": 42,
+					"PF": 27,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 41
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "汪幸時, None, male, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/Tsou-frog-story-wang-1",
+				"topic": "Frog Story 2",
+				"iu_num": 183,
+				"sent_num": 44,
+				"record_time": 302.14,
+				"marker": {
+					"AF": 85,
+					"NAF": 35,
+					"PF": 33,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 43
+				}
+			},
+			{
+				"type": "Conversation",
+				"speaker": "",
+				"collected": "2004-10-10",
+				"file": "Tsou_Tsou/None-1",
+				"topic": "Sngusnguyo",
+				"iu_num": 569,
+				"sent_num": 244,
+				"record_time": 0,
+				"marker": {
+					"AF": 480,
+					"NAF": 50,
+					"PF": 121,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 31,
+					"GEN": 83
+				}
+			},
+			{
+				"type": "Conversation",
+				"speaker": "安寶妹, None, female, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/TsouConv-typhoon",
+				"topic": "Typhoon",
+				"iu_num": 576,
+				"sent_num": 295,
+				"record_time": 1034.22,
+				"marker": {
+					"AF": 539,
+					"NAF": 60,
+					"PF": 144,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 19,
+					"GEN": 103
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "安榮進, None, male, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/TsouNr-pear-An",
+				"topic": "Pear Story 2",
+				"iu_num": 109,
+				"sent_num": 29,
+				"record_time": 161.99,
+				"marker": {
+					"AF": 102,
+					"NAF": 17,
+					"PF": 24,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 29
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "石光將, None, male, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/TsouNr-frog-story-shi",
+				"topic": "Frog Story 4",
+				"iu_num": 198,
+				"sent_num": 85,
+				"record_time": 464.57,
+				"marker": {
+					"AF": 234,
+					"NAF": 65,
+					"PF": 80,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 29,
+					"GEN": 79
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "莊榮貴, None, male, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/TsouNr-love-story-zhuang",
+				"topic": "Love Story 3",
+				"iu_num": 58,
+				"sent_num": 25,
+				"record_time": 131.55,
+				"marker": {
+					"AF": 56,
+					"NAF": 15,
+					"PF": 25,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 21
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "鄭振宗, None, male, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/TsouNr-lovestory-zheng",
+				"topic": "Love Story 2",
+				"iu_num": 102,
+				"sent_num": 23,
+				"record_time": 216.01,
+				"marker": {
+					"AF": 54,
+					"NAF": 12,
+					"PF": 20,
+					"RF": 0,
+					"IF": 0,
+					"BF": 3,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 23
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "汪啟聖, None, male, None",
+				"collected": "2009-09-13",
+				"file": "Tsou_Tsou/TsouNr_lovestry_wang-2",
+				"topic": "Love Story 1",
+				"iu_num": 85,
+				"sent_num": 18,
+				"record_time": 123.34,
+				"marker": {
+					"AF": 57,
+					"NAF": 19,
+					"PF": 15,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 18
+				}
+			},
+			{
+				"type": "Conversation",
+				"speaker": "汪明輝, None, male, None",
+				"collected": "None",
+				"file": "Tsou_Tsou/TsouConv-informants",
+				"topic": "Informants",
+				"iu_num": 298,
+				"sent_num": 69,
+				"record_time": 636.43,
+				"marker": {
+					"AF": 206,
+					"NAF": 62,
+					"PF": 112,
+					"RF": 0,
+					"IF": 0,
+					"BF": 8,
+					"CF": 0,
+					"LF": 42,
+					"GEN": 93
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "汪明輝, None, male, None",
+				"collected": "1988",
+				"file": "Tsou_Tsou/TsouNr-pear-wang-3",
+				"topic": "Pear Story 1",
+				"iu_num": 158,
+				"sent_num": 44,
+				"record_time": 309.33,
+				"marker": {
+					"AF": 127,
+					"NAF": 33,
+					"PF": 34,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 39
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "杜, None, None, None",
+				"collected": "2002-02-00",
+				"file": "Tsou_Tsou/TsouNr-frog-story-tu",
+				"topic": "Frog Story 1",
+				"iu_num": 102,
+				"sent_num": 40,
+				"record_time": 234.41,
+				"marker": {
+					"AF": 94,
+					"NAF": 28,
+					"PF": 28,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 26
+				}
+			}
+		]
+	},
 	"Kanakanavu_Kanakanavu": {
 		"summary": {
 			"story": {
@@ -1341,136 +1618,6 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 0
-				}
-			}
-		]
-	},
-	"Tsou_Tfya": {
-		"summary": {
-			"story": {
-				"iu_num": 1234,
-				"sent_num": 408,
-				"record_time": 1069.1
-			},
-			"sentence": {
-				"sent_num": 0
-			},
-			"marker": {
-				"AF": 982,
-				"NAF": 206,
-				"PF": 309,
-				"RF": 0,
-				"IF": 0,
-				"BF": 18,
-				"CF": 0,
-				"LF": 108,
-				"GEN": 274
-			}
-		},
-		"text": [
-			{
-				"type": "Narrative",
-				"speaker": "",
-				"collected": "None",
-				"file": "Tsou_Tfya/None",
-				"topic": "Pear Story 3",
-				"iu_num": 124,
-				"sent_num": 33,
-				"record_time": 0,
-				"marker": {
-					"AF": 112,
-					"NAF": 42,
-					"PF": 27,
-					"RF": 0,
-					"IF": 0,
-					"BF": 1,
-					"CF": 0,
-					"LF": 17,
-					"GEN": 41
-				}
-			},
-			{
-				"type": "Conversation",
-				"speaker": "",
-				"collected": "2004-10-10",
-				"file": "Tsou_Tfya/None-1",
-				"topic": "Sngusnguyo",
-				"iu_num": 569,
-				"sent_num": 244,
-				"record_time": 0,
-				"marker": {
-					"AF": 480,
-					"NAF": 50,
-					"PF": 121,
-					"RF": 0,
-					"IF": 0,
-					"BF": 6,
-					"CF": 0,
-					"LF": 31,
-					"GEN": 83
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "汪啟聖, None, male, None",
-				"collected": "2009-09-13",
-				"file": "Tsou_Tfya/TsouNr_lovestry_wang-2",
-				"topic": "Love Story 1",
-				"iu_num": 85,
-				"sent_num": 18,
-				"record_time": 123.34,
-				"marker": {
-					"AF": 57,
-					"NAF": 19,
-					"PF": 15,
-					"RF": 0,
-					"IF": 0,
-					"BF": 1,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 18
-				}
-			},
-			{
-				"type": "Conversation",
-				"speaker": "汪明輝, None, male, None",
-				"collected": "None",
-				"file": "Tsou_Tfya/TsouConv-informants",
-				"topic": "Informants",
-				"iu_num": 298,
-				"sent_num": 69,
-				"record_time": 636.43,
-				"marker": {
-					"AF": 206,
-					"NAF": 62,
-					"PF": 112,
-					"RF": 0,
-					"IF": 0,
-					"BF": 8,
-					"CF": 0,
-					"LF": 42,
-					"GEN": 93
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "汪明輝, None, male, None",
-				"collected": "1988",
-				"file": "Tsou_Tfya/TsouNr-pear-wang-3",
-				"topic": "Pear Story 1",
-				"iu_num": 158,
-				"sent_num": 44,
-				"record_time": 309.33,
-				"marker": {
-					"AF": 127,
-					"NAF": 33,
-					"PF": 34,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 14,
-					"GEN": 39
 				}
 			}
 		]
@@ -3801,178 +3948,6 @@
 					"CF": 0,
 					"LF": 1,
 					"GEN": 13
-				}
-			}
-		]
-	},
-	"Tsou_TapangU": {
-		"summary": {
-			"story": {
-				"iu_num": 1328,
-				"sent_num": 541,
-				"record_time": 2544.89
-			},
-			"sentence": {
-				"sent_num": 0
-			},
-			"marker": {
-				"AF": 1164,
-				"NAF": 232,
-				"PF": 354,
-				"RF": 0,
-				"IF": 0,
-				"BF": 15,
-				"CF": 0,
-				"LF": 77,
-				"GEN": 324
-			}
-		},
-		"text": [
-			{
-				"type": "Narrative",
-				"speaker": "汪幸時, None, male, None",
-				"collected": "None",
-				"file": "Tsou_TapangU/Tsou-frog-story-wang-1",
-				"topic": "Frog Story 2",
-				"iu_num": 183,
-				"sent_num": 44,
-				"record_time": 302.14,
-				"marker": {
-					"AF": 85,
-					"NAF": 35,
-					"PF": 33,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 11,
-					"GEN": 43
-				}
-			},
-			{
-				"type": "Conversation",
-				"speaker": "安寶妹, None, female, None",
-				"collected": "None",
-				"file": "Tsou_TapangU/TsouConv-typhoon",
-				"topic": "Typhoon",
-				"iu_num": 576,
-				"sent_num": 295,
-				"record_time": 1034.22,
-				"marker": {
-					"AF": 539,
-					"NAF": 60,
-					"PF": 144,
-					"RF": 0,
-					"IF": 0,
-					"BF": 6,
-					"CF": 0,
-					"LF": 19,
-					"GEN": 103
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "安榮進, None, male, None",
-				"collected": "None",
-				"file": "Tsou_TapangU/TsouNr-pear-An",
-				"topic": "Pear Story 2",
-				"iu_num": 109,
-				"sent_num": 29,
-				"record_time": 161.99,
-				"marker": {
-					"AF": 102,
-					"NAF": 17,
-					"PF": 24,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 29
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "石光將, None, male, None",
-				"collected": "None",
-				"file": "Tsou_TapangU/TsouNr-frog-story-shi",
-				"topic": "Frog Story 4",
-				"iu_num": 198,
-				"sent_num": 85,
-				"record_time": 464.57,
-				"marker": {
-					"AF": 234,
-					"NAF": 65,
-					"PF": 80,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 29,
-					"GEN": 79
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "莊榮貴, None, male, None",
-				"collected": "None",
-				"file": "Tsou_TapangU/TsouNr-love-story-zhuang",
-				"topic": "Love Story 3",
-				"iu_num": 58,
-				"sent_num": 25,
-				"record_time": 131.55,
-				"marker": {
-					"AF": 56,
-					"NAF": 15,
-					"PF": 25,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 2,
-					"GEN": 21
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "鄭振宗, None, male, None",
-				"collected": "None",
-				"file": "Tsou_TapangU/TsouNr-lovestory-zheng",
-				"topic": "Love Story 2",
-				"iu_num": 102,
-				"sent_num": 23,
-				"record_time": 216.01,
-				"marker": {
-					"AF": 54,
-					"NAF": 12,
-					"PF": 20,
-					"RF": 0,
-					"IF": 0,
-					"BF": 3,
-					"CF": 0,
-					"LF": 5,
-					"GEN": 23
-				}
-			},
-			{
-				"type": "Narrative",
-				"speaker": "杜, None, None, None",
-				"collected": "2002-02-00",
-				"file": "Tsou_TapangU/TsouNr-frog-story-tu",
-				"topic": "Frog Story 1",
-				"iu_num": 102,
-				"sent_num": 40,
-				"record_time": 234.41,
-				"marker": {
-					"AF": 94,
-					"NAF": 28,
-					"PF": 28,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 8,
-					"GEN": 26
 				}
 			}
 		]

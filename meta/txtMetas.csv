@@ -36,6 +36,18 @@ Saisiyat_Tong-he/SaiNr-holiday_kalaeh a _oemaw,Saisiyat_Tong-he,Narrative,holida
 Saisiyat_Tong-he/SaiNr-frog8_parain a _oemaw,Saisiyat_Tong-he,Narrative,frog8,"高德盛, parain a oemaw, male, 1928-1-5",2003-01-01,NA,89,38,0:03:36
 Saisiyat_Tong-he/SaiNr-kathethel2_kalaeh a oemaw,Saisiyat_Tong-he,Narrative,kathethel2,"朱阿良, kalaeh a oemaw, male, 1928-8-8",2003-01-01,NA,546,165,0:18:07
 Saisiyat_Tong-he/SaiNr-pear1__oemaw a _obay,Saisiyat_Tong-he,Narrative,pear1,"趙山河, 'oemaw a 'obay, male, None",2002-01-01,NA,122,48,0:04:45
+Tsou_Tsou/None,Tsou_Tsou,Narrative,Pear Story 3,NA,NA,NA,124,33,0:00:00
+Tsou_Tsou/Tsou-frog-story-wang-1,Tsou_Tsou,Narrative,Frog Story 2,"汪幸時, None, male, None",NA,NA,183,44,0:05:02
+Tsou_Tsou/None-1,Tsou_Tsou,Conversation,Sngusnguyo,NA,2004-10-10,NA,569,244,0:00:00
+Tsou_Tsou/TsouConv-typhoon,Tsou_Tsou,Conversation,Typhoon,"安寶妹, None, female, None",NA,NA,576,295,0:17:14
+Tsou_Tsou/TsouNr-pear-An,Tsou_Tsou,Narrative,Pear Story 2,"安榮進, None, male, None",NA,NA,109,29,0:02:41
+Tsou_Tsou/TsouNr-frog-story-shi,Tsou_Tsou,Narrative,Frog Story 4,"石光將, None, male, None",NA,NA,198,85,0:07:44
+Tsou_Tsou/TsouNr-love-story-zhuang,Tsou_Tsou,Narrative,Love Story 3,"莊榮貴, None, male, None",NA,NA,58,25,0:02:11
+Tsou_Tsou/TsouNr-lovestory-zheng,Tsou_Tsou,Narrative,Love Story 2,"鄭振宗, None, male, None",NA,NA,102,23,0:03:36
+Tsou_Tsou/TsouNr_lovestry_wang-2,Tsou_Tsou,Narrative,Love Story 1,"汪啟聖, None, male, None",2009-09-13,NA,85,18,0:02:03
+Tsou_Tsou/TsouConv-informants,Tsou_Tsou,Conversation,Informants,"汪明輝, None, male, None",NA,NA,298,69,0:10:36
+Tsou_Tsou/TsouNr-pear-wang-3,Tsou_Tsou,Narrative,Pear Story 1,"汪明輝, None, male, None",1988,NA,158,44,0:05:09
+Tsou_Tsou/TsouNr-frog-story-tu,Tsou_Tsou,Narrative,Frog Story 1,"杜, None, None, None",2002-02-00,NA,102,40,0:03:54
 Kanakanavu_Kanakanavu/kkvNr_hunting1_Muu,Kanakanavu_Kanakanavu,Narrative,hunting1,"翁成, Mu'u Ka'angena, male, 1947-8-9",00:10:27,NA,118,64,0:10:21
 Kanakanavu_Kanakanavu/kkvNr_hunting_taboos_Angai,Kanakanavu_Kanakanavu,Narrative,hunting.taboos,"蕭能吉, Angai, male, 1936-08-18",2011-05-30,NA,138,22,0:03:54
 Kanakanavu_Kanakanavu/kkvNr_family_Paicu,Kanakanavu_Kanakanavu,Narrative,family,"翁范秀香, Paicʉ, female, 1939-01-11",2012-05-31,NA,57,21,0:04:46
@@ -60,11 +72,6 @@ Kanakanavu_Kanakanavu/5,Kanakanavu_Kanakanavu,Sentence,NA,NA,NA,鄧安婷,0,72,0
 Kanakanavu_Kanakanavu/3,Kanakanavu_Kanakanavu,Sentence,NA,NA,NA,李中佑,0,521,0:00:00
 Kanakanavu_Kanakanavu/1,Kanakanavu_Kanakanavu,Sentence,NA,NA,NA,張盛傑,0,489,0:00:00
 Kanakanavu_Kanakanavu/4,Kanakanavu_Kanakanavu,Sentence,NA,NA,NA,楊佳縈,0,181,0:00:00
-Tsou_Tfya/None,Tsou_Tfya,Narrative,Pear Story 3,NA,NA,NA,124,33,0:00:00
-Tsou_Tfya/None-1,Tsou_Tfya,Conversation,Sngusnguyo,NA,2004-10-10,NA,569,244,0:00:00
-Tsou_Tfya/TsouNr_lovestry_wang-2,Tsou_Tfya,Narrative,Love Story 1,"汪啟聖, None, male, None",2009-09-13,NA,85,18,0:02:03
-Tsou_Tfya/TsouConv-informants,Tsou_Tfya,Conversation,Informants,"汪明輝, None, male, None",NA,NA,298,69,0:10:36
-Tsou_Tfya/TsouNr-pear-wang-3,Tsou_Tfya,Narrative,Pear Story 1,"汪明輝, None, male, None",1988,NA,158,44,0:05:09
 Kavalan_Xinshe/KavNr-frog_abas,Kavalan_Xinshe,Narrative,Frog story,"潘天利, Abas, male, 1933-03-22",2005-01-01,NA,139,82,0:11:00
 Kavalan_Xinshe/KavNr-frog_buya,Kavalan_Xinshe,Narrative,Frog story,"謝宗修, Buya, male, 1957-09-10",2003-05-30,NA,186,54,0:04:36
 Kavalan_Xinshe/KavCon-home_buya_imuy,Kavalan_Xinshe,Conversation,Returning Home,"潘金妹, Imuy, female, 1952-10-25",2003-06-01,NA,285,96,0:06:24
@@ -170,12 +177,5 @@ Sakizaya_Sakizaya/skzyNr-frog_dungi,Sakizaya_Sakizaya,Narrative,frog_Dungi,"蔡�
 Sakizaya_Sakizaya/skzyNr-rain-kaniw,Sakizaya_Sakizaya,Narrative,rain_Kaniw,"楊富男, kaniw, male, 1942-05-06",2009-10-31,NA,124,39,0:04:02
 Sakizaya_Sakizaya/skzyNr-pear_panay,Sakizaya_Sakizaya,Narrative,pear_panay,"葉阿妹, panay, female, 1949-11-20",2008-01-05,NA,44,24,0:02:06
 Sakizaya_Sakizaya/skzyNr-maibol_Panay,Sakizaya_Sakizaya,Narrative,maibul_panay,"葉阿妹, panay, female, 1949-11-20",2008-01-05,NA,39,21,0:01:30
-Tsou_TapangU/Tsou-frog-story-wang-1,Tsou_TapangU,Narrative,Frog Story 2,"汪幸時, None, male, None",NA,NA,183,44,0:05:02
-Tsou_TapangU/TsouConv-typhoon,Tsou_TapangU,Conversation,Typhoon,"安寶妹, None, female, None",NA,NA,576,295,0:17:14
-Tsou_TapangU/TsouNr-pear-An,Tsou_TapangU,Narrative,Pear Story 2,"安榮進, None, male, None",NA,NA,109,29,0:02:41
-Tsou_TapangU/TsouNr-frog-story-shi,Tsou_TapangU,Narrative,Frog Story 4,"石光將, None, male, None",NA,NA,198,85,0:07:44
-Tsou_TapangU/TsouNr-love-story-zhuang,Tsou_TapangU,Narrative,Love Story 3,"莊榮貴, None, male, None",NA,NA,58,25,0:02:11
-Tsou_TapangU/TsouNr-lovestory-zheng,Tsou_TapangU,Narrative,Love Story 2,"鄭振宗, None, male, None",NA,NA,102,23,0:03:36
-Tsou_TapangU/TsouNr-frog-story-tu,Tsou_TapangU,Narrative,Frog Story 1,"杜, None, None, None",2002-02-00,NA,102,40,0:03:54
 Bunun_Isbukun/2,Bunun_Isbukun,Sentence,NA,NA,NA,楊淳然,0,74,0:00:00
 Bunun_Isbukun/1,Bunun_Isbukun,Sentence,NA,NA,NA,張智傑,0,920,0:00:00
