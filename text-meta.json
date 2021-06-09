@@ -2557,23 +2557,23 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4831,
-				"sent_num": 1607,
+				"iu_num": 4952,
+				"sent_num": 1641,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 2527,
+				"AF": 2571,
 				"NAF": 0,
-				"PF": 613,
-				"RF": 32,
-				"IF": 1,
+				"PF": 621,
+				"RF": 35,
+				"IF": 2,
 				"BF": 0,
 				"CF": 1,
-				"LF": 393,
-				"GEN": 1209
+				"LF": 411,
+				"GEN": 1234
 			}
 		},
 		"text": [
@@ -2743,6 +2743,27 @@
 					"CF": 0,
 					"LF": 2,
 					"GEN": 15
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "Pawan",
+				"collected": "None",
+				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020sf",
+				"topic": "tattoo2",
+				"iu_num": 21,
+				"sent_num": 15,
+				"record_time": 0,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
 				}
 			},
 			{
@@ -3016,6 +3037,27 @@
 					"CF": 0,
 					"LF": 13,
 					"GEN": 40
+				}
+			},
+			{
+				"type": "Narrative",
+				"speaker": "",
+				"collected": "None",
+				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021sf",
+				"topic": "taboo",
+				"iu_num": 100,
+				"sent_num": 19,
+				"record_time": 0,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 7,
+					"RF": 1,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 23
 				}
 			},
 			{
