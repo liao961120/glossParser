@@ -14,6 +14,8 @@ def get_raw_text_meta(doc):
         line = strQ2B(line)
         first_col_idx = line.index(':')
         k, v = line[:first_col_idx].strip(), line[(first_col_idx + 1):].strip()
+        k = k.lower()
+        if k.startswith("transcribe"): continue
         meta[k] = v
     
     return meta
