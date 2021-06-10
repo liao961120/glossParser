@@ -67,7 +67,8 @@ def get_info(path):
     if DATA.story_dirname in str(path.absolute()):
         info['topic'] = meta['topic']
     else:
-        info['transcribed'] = meta['Transcribed by']
+        pass
+        #info['transcribed'] = meta['Transcribed by']
 
     # Text data info
     if DATA.sentence_dirname in str(path.absolute()):
