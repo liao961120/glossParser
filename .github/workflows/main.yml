@@ -26,6 +26,7 @@ jobs:
         python3 GlossProcessor.py
         python3 GenerateMetas.py
         python3 GenerateMetasCSV.py
+        date +%s > ./docs/version.txt
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
