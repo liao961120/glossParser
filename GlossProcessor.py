@@ -29,23 +29,25 @@ def main():
         public_fp = DATA.get_public_fp(docname)
         corpLoadPath = strip_path(public_fp)
         
-        # Flatten data to match frontend json format
-        for gloss_num, gloss in content["glosses"]:
-            gloss.update({
-                'file': corpLoadPath,
-                'num': gloss_num,
-            })
-            output_glosses.append(gloss)
-        
         # Save separate file for each text
         public_fp = pathlib.Path(public_fp)
         public_fp.parent.mkdir(parents=True, exist_ok=True)
         with open(public_fp, "w", encoding="utf-8") as f:
-            json.dump(content, f, ensure_ascii=False)
+            json.dump(content, f, ensure_ascii=False, separators=(',', ':'))
+
+        # Prepare all_lang.json for full corpus search
+        for gloss_num, gloss in content["glosses"]:
+            gloss.update({
+                'file': corpLoadPath,
+                'num': gloss_num,
+                'meta': { k:v for k, v in gloss["meta"].items() if v != "None" }
+            })
+            del gloss['s_end']
+            output_glosses.append(gloss)
     
     # Write flatten data to json
     with open(DATA.all_lang_search, "w", encoding="utf-8") as f:
-        json.dump(output_glosses, f, ensure_ascii=False)
+        json.dump(output_glosses, f, ensure_ascii=False, separators=(',', ':'))
 
 
 class GlossProcessor:
