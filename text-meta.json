@@ -3955,21 +3955,39 @@
 				"record_time": 0
 			},
 			"sentence": {
-				"sent_num": 994
+				"sent_num": 999
 			},
 			"marker": {
-				"AF": 9,
+				"AF": 12,
 				"NAF": 0,
-				"PF": 1,
+				"PF": 2,
 				"RF": 0,
 				"IF": 0,
-				"BF": 0,
+				"BF": 3,
 				"CF": 0,
 				"LF": 2,
-				"GEN": 0
+				"GEN": 1
 			}
 		},
 		"text": [
+			{
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"collected": "2016-06-04",
+				"file": "Bunun_Isbukun/21",
+				"sent_num": 5,
+				"marker": {
+					"AF": 3,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 3,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
 			{
 				"type": "Sentence",
 				"speaker": "None",
