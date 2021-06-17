@@ -3955,18 +3955,18 @@
 				"record_time": 0
 			},
 			"sentence": {
-				"sent_num": 1076
+				"sent_num": 1239
 			},
 			"marker": {
-				"AF": 67,
+				"AF": 194,
 				"NAF": 0,
-				"PF": 15,
+				"PF": 59,
 				"RF": 0,
-				"IF": 1,
+				"IF": 4,
 				"BF": 3,
 				"CF": 0,
-				"LF": 21,
-				"GEN": 13
+				"LF": 77,
+				"GEN": 22
 			}
 		},
 		"text": [
@@ -3986,6 +3986,42 @@
 					"CF": 0,
 					"LF": 3,
 					"GEN": 2
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"collected": "2016-06-06",
+				"file": "Bunun_Isbukun/38",
+				"sent_num": 6,
+				"marker": {
+					"AF": 6,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 0
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"collected": "2016-06-03",
+				"file": "Bunun_Isbukun/34",
+				"sent_num": 17,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 0
 				}
 			},
 			{
@@ -4044,6 +4080,42 @@
 			},
 			{
 				"type": "Sentence",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"collected": "2016-06-02",
+				"file": "Bunun_Isbukun/40",
+				"sent_num": 7,
+				"marker": {
+					"AF": 6,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 1
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"collected": "2016-06-06",
+				"file": "Bunun_Isbukun/31",
+				"sent_num": 12,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"type": "Sentence",
 				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/26",
@@ -4058,6 +4130,24 @@
 					"CF": 0,
 					"LF": 3,
 					"GEN": 2
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"collected": "2016-06-02",
+				"file": "Bunun_Isbukun/32",
+				"sent_num": 11,
+				"marker": {
+					"AF": 5,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 1
 				}
 			},
 			{
@@ -4093,6 +4183,42 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 3,
+					"GEN": 1
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"collected": "2016-06-05",
+				"file": "Bunun_Isbukun/37",
+				"sent_num": 10,
+				"marker": {
+					"AF": 7,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "None, None, None, None",
+				"collected": "None",
+				"file": "Bunun_Isbukun/39",
+				"sent_num": 66,
+				"marker": {
+					"AF": 47,
+					"NAF": 0,
+					"PF": 24,
+					"RF": 0,
+					"IF": 3,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
 					"GEN": 1
 				}
 			},
@@ -4152,6 +4278,42 @@
 			},
 			{
 				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"collected": "2016-06-03",
+				"file": "Bunun_Isbukun/41",
+				"sent_num": 9,
+				"marker": {
+					"AF": 5,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 2
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"collected": "2016-06-04",
+				"file": "Bunun_Isbukun/35",
+				"sent_num": 4,
+				"marker": {
+					"AF": 4,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 0
+				}
+			},
+			{
+				"type": "Sentence",
 				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/27",
@@ -4170,6 +4332,24 @@
 			},
 			{
 				"type": "Sentence",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"collected": "2016-06-03",
+				"file": "Bunun_Isbukun/33",
+				"sent_num": 5,
+				"marker": {
+					"AF": 4,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 3
+				}
+			},
+			{
+				"type": "Sentence",
 				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/22",
@@ -4184,6 +4364,24 @@
 					"CF": 0,
 					"LF": 3,
 					"GEN": 2
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"collected": "2016-06-04",
+				"file": "Bunun_Isbukun/36",
+				"sent_num": 16,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 7,
+					"GEN": 1
 				}
 			}
 		]
