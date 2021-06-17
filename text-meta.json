@@ -3955,18 +3955,18 @@
 				"record_time": 0
 			},
 			"sentence": {
-				"sent_num": 999
+				"sent_num": 1006
 			},
 			"marker": {
-				"AF": 12,
+				"AF": 14,
 				"NAF": 0,
-				"PF": 2,
+				"PF": 5,
 				"RF": 0,
-				"IF": 0,
+				"IF": 1,
 				"BF": 3,
 				"CF": 0,
-				"LF": 2,
-				"GEN": 1
+				"LF": 5,
+				"GEN": 3
 			}
 		},
 		"text": [
@@ -3992,7 +3992,25 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"file": "Bunun_Isbukun/2",
+				"file": "Bunun_Isbukun/63",
+				"sent_num": 920,
+				"marker": {
+					"AF": 9,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 0
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "None",
+				"collected": "None",
+				"file": "Bunun_Isbukun/64",
 				"sent_num": 74,
 				"marker": {
 					"AF": 0,
@@ -4008,20 +4026,20 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "None",
-				"collected": "None",
-				"file": "Bunun_Isbukun/1",
-				"sent_num": 920,
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"collected": "2016-06-04",
+				"file": "Bunun_Isbukun/22",
+				"sent_num": 7,
 				"marker": {
-					"AF": 9,
+					"AF": 2,
 					"NAF": 0,
-					"PF": 1,
+					"PF": 3,
 					"RF": 0,
-					"IF": 0,
+					"IF": 1,
 					"BF": 0,
 					"CF": 0,
-					"LF": 2,
-					"GEN": 0
+					"LF": 3,
+					"GEN": 2
 				}
 			}
 		]
