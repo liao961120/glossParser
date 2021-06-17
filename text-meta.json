@@ -3955,18 +3955,18 @@
 				"record_time": 0
 			},
 			"sentence": {
-				"sent_num": 1006
+				"sent_num": 1024
 			},
 			"marker": {
-				"AF": 14,
+				"AF": 20,
 				"NAF": 0,
-				"PF": 5,
+				"PF": 6,
 				"RF": 0,
 				"IF": 1,
 				"BF": 3,
 				"CF": 0,
-				"LF": 5,
-				"GEN": 3
+				"LF": 11,
+				"GEN": 5
 			}
 		},
 		"text": [
@@ -3985,6 +3985,24 @@
 					"BF": 3,
 					"CF": 0,
 					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"collected": "2016-06-05",
+				"file": "Bunun_Isbukun/23",
+				"sent_num": 7,
+				"marker": {
+					"AF": 4,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
 					"GEN": 1
 				}
 			},
@@ -4040,6 +4058,24 @@
 					"CF": 0,
 					"LF": 3,
 					"GEN": 2
+				}
+			},
+			{
+				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958-06-14",
+				"collected": "2016-06-06",
+				"file": "Bunun_Isbukun/24",
+				"sent_num": 11,
+				"marker": {
+					"AF": 2,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 1
 				}
 			}
 		]
