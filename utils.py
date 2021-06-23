@@ -19,11 +19,11 @@ def get_raw_text_meta(doc):
         k, v = line[:first_col_idx].strip(), line[(first_col_idx + 1):].strip()
         k = k.lower()
         if k.startswith("transcribe"): continue
-        if k.startswith("speaker"):
-            birth = re.search(r'\d\d\d\d', v)
-            if birth is not None: 
-                birth = birth[0]
-                v = re.sub(r'\d\d\d\d(-\d{1,2})?(-\d{1,2})?', birth)
+        # if k.startswith("speaker"):
+        #     birth = re.search(r'\d\d\d\d', v)
+        #     if birth is not None: 
+        #         birth = birth[0]
+        #         v = re.sub(r'\d\d\d\d(-\d{1,2})?(-\d{1,2})?', birth)
         meta[k] = v
     
     return meta
