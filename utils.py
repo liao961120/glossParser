@@ -1,4 +1,5 @@
 import re
+import logging
 
 def get_raw_text_meta(doc):
     if isinstance(doc, str):
@@ -18,13 +19,14 @@ def get_raw_text_meta(doc):
         k, v = line[:first_col_idx].strip(), line[(first_col_idx + 1):].strip()
         k = k.lower()
         if k.startswith("transcribe"): continue
-        if k == "speaker":
+        if k.startswith("speaker"):
             try:
                 ch_name, en_name, gender, birth = [ x.strip() for x in v.split(',') ]
                 birth = re.search(r'\d\d\d\d')
                 if birth is not None: birth = birth[0]
                 v = f"{ch_name}, {en_name}, {gender}, {birth}"
             except:
+                logging.warning('Failed to parse speaker!')
                 pass
         meta[k] = v
     
