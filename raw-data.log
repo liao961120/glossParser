@@ -1,5 +1,7 @@
-2021-06-23 19:35:40
+2021-06-23 19:47:43
 
+File raw-data/sentence/Rukai_Vedai/placeholder.txt not UTF-8 encoded. Guess: ascii
+INVALID DOCUMENT formatting:			raw-data/sentence/Rukai_Vedai/placeholder.txt
 INVALID DOCUMENT formatting:			raw-data/sentence/Bunun_Isbukun/37.txt
 INVALID DOCUMENT formatting:			raw-data/sentence/Bunun_Isbukun/35.txt
 INVALID DOCUMENT formatting:			raw-data/sentence/Bunun_Isbukun/34.txt
@@ -202,6 +204,8 @@ INVALID DOCUMENT formatting:			raw-data/story/Kavalan_Xinshe/KavNr-pear_buya.txt
 INVALID DOCUMENT formatting:			raw-data/story/Kavalan_Xinshe/KavNr-ancestor_ngengi.txt
 INVALID DOCUMENT formatting:			raw-data/story/Kavalan_Xinshe/KavCon-angry_pilaw_abas.txt
 INVALID DOCUMENT formatting:			raw-data/story/Kavalan_Xinshe/KavNr-pear_banday.txt
+File raw-data/story/Bunun_Isbukun/placeholder.txt not UTF-8 encoded. Guess: ascii
+INVALID DOCUMENT formatting:			raw-data/story/Bunun_Isbukun/placeholder.txt
 Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi.txt/#44
 Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi.txt/#74
 Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi.txt/#92
