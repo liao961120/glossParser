@@ -19,10 +19,13 @@ def get_raw_text_meta(doc):
         k = k.lower()
         if k.startswith("transcribe"): continue
         if k == "speaker":
-            ch_name, en_name, gender, birth = [ x.strip() for x in v.split(',') ]
-            birth = re.search(r'\d\d\d\d')
-            if birth is not None: birth = birth[0]
-            v = f"{ch_name}, {en_name}, {gender}, {birth}"
+            try:
+                ch_name, en_name, gender, birth = [ x.strip() for x in v.split(',') ]
+                birth = re.search(r'\d\d\d\d')
+                if birth is not None: birth = birth[0]
+                v = f"{ch_name}, {en_name}, {gender}, {birth}"
+            except:
+                pass
         meta[k] = v
     
     return meta
