@@ -24,7 +24,7 @@
 		"text": [
 			{
 				"type": "Narrative",
-				"speaker": "劉國基, Kainu, male, 1941-02-14",
+				"speaker": "劉國基, Kainu, male, 1941",
 				"collected": "None",
 				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu",
 				"topic": "Moving 2",
@@ -66,7 +66,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "劉國基, Kainu, male, 1941-02-14",
+				"speaker": "劉國基, Kainu, male, 1941",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-hunting1_Kainu",
 				"topic": "Hunting 1",
@@ -108,7 +108,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "龍鳳廷, Tauyu, female, 1942-10-13",
+				"speaker": "龍鳳廷, Tauyu, female, 1942",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-dailylife3_Tauyu",
 				"topic": "Daily Life 3",
@@ -129,7 +129,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "劉建和, Takun, male, 1946-07-01",
+				"speaker": "劉建和, Takun, male, 1946",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-proposal_Takun",
 				"topic": "Proposal",
@@ -150,7 +150,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "劉國基, Kainu, male, 1941-02-14",
+				"speaker": "劉國基, Kainu, male, 1941",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-sowing_Kainu",
 				"topic": "Sowing",
@@ -171,7 +171,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "劉秋梅, Kagaw, female, 1935-02-05",
+				"speaker": "劉秋梅, Kagaw, female, 1935",
 				"collected": "2011-05-27",
 				"file": "Atayal_Mayrinax/AtaNr-weaving_Kagaw",
 				"topic": "Weaving",
@@ -192,7 +192,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "劉建和, Takun, male, 1946-07-01",
+				"speaker": "劉建和, Takun, male, 1946",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-moving_Takun",
 				"topic": "Moving 1",
@@ -213,7 +213,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "劉建和, Takun, male, 1946-07-01",
+				"speaker": "劉建和, Takun, male, 1946",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-hunting3_Takun",
 				"topic": "Hunting 3",
@@ -234,7 +234,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "林逢禮, Buyung, male, 1946-03-25",
+				"speaker": "林逢禮, Buyung, male, 1946",
 				"collected": "2011-04-01",
 				"file": "Atayal_Mayrinax/AtaNr-hunting2_Buyung",
 				"topic": "Hunting 2",
@@ -280,7 +280,7 @@
 		"text": [
 			{
 				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961-06-20",
+				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2011-8-19",
 				"file": "Rukai_Vedai/RukaiNr-ghost lake_Balenge",
 				"topic": "ghost lake",
@@ -301,7 +301,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943-10-12",
+				"speaker": "杜傳, Taugadhu, male, 1943",
 				"collected": "2009-08-06",
 				"file": "Rukai_Vedai/RukaiNr-swing_taugadhu",
 				"topic": "Swing",
@@ -343,7 +343,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961-06-20",
+				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2009-08-06",
 				"file": "Rukai_Vedai/RukaiNr-princess balenge_balenge",
 				"topic": "Princess Balenge",
@@ -364,7 +364,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961-06-20",
+				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2009-08-06",
 				"file": "Rukai_Vedai/RukaiNr-pear_Balenge",
 				"topic": "Pear story",
@@ -427,7 +427,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943-10-12",
+				"speaker": "杜傳, Taugadhu, male, 1943",
 				"collected": "2009-08-07",
 				"file": "Rukai_Vedai/RukaiNr-work by men and women_taugadhu",
 				"topic": "Work by Men and Women",
@@ -448,7 +448,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943-10-12",
+				"speaker": "杜傳, Taugadhu, male, 1943",
 				"collected": "2010-01-14",
 				"file": "Rukai_Vedai/RukaiNr-naming_taugadhu",
 				"topic": "naming",
@@ -469,7 +469,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961-06-20",
+				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2011-8-11",
 				"file": "Rukai_Vedai/RukaiNr-childhood_balenge",
 				"topic": "childhood",
@@ -490,7 +490,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "沙本賞, Tagas, male, 1938-05-10",
+				"speaker": "沙本賞, Tagas, male, 1938",
 				"collected": "2009-08-07",
 				"file": "Rukai_Vedai/RukaiNr-becenge_tagas",
 				"topic": "Millet",
@@ -532,7 +532,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "柯啟川, Salrabu, male, 1938-05-01",
+				"speaker": "柯啟川, Salrabu, male, 1938",
 				"collected": "2004-04-22",
 				"file": "Rukai_Vedai/RukaiNr-pear_salrabu",
 				"topic": "pear story",
@@ -553,7 +553,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "柯啟川, Salrabu, male, 1938-05-01",
+				"speaker": "柯啟川, Salrabu, male, 1938",
 				"collected": "2004-04-22",
 				"file": "Rukai_Vedai/RukaiNr-frog_salabu",
 				"topic": "Frog story",
@@ -574,7 +574,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "沙本賞, Tagas, male, 1938-05-10",
+				"speaker": "沙本賞, Tagas, male, 1938",
 				"collected": "2010-01-15",
 				"file": "Rukai_Vedai/RukaiNr-pear_tagas",
 				"topic": "Pear Story",
@@ -595,7 +595,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "何維豪, Wauki, male, 1933-02-02",
+				"speaker": "何維豪, Wauki, male, 1933",
 				"collected": "2009-05-25",
 				"file": "Rukai_Vedai/RukaiNr-pear_wauki",
 				"topic": "pear story",
@@ -616,7 +616,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943-10-12",
+				"speaker": "杜傳, Taugadhu, male, 1943",
 				"collected": "None",
 				"file": "Rukai_Vedai/RukaiNr-marriage ceremony_taugadha",
 				"topic": "Marriage Ceremony",
@@ -662,7 +662,7 @@
 		"text": [
 			{
 				"type": "Narrative",
-				"speaker": "風德輝, bownay a tahes, male, 1933-4-22",
+				"speaker": "風德輝, bownay a tahes, male, 1933",
 				"collected": "2002-07-24",
 				"file": "Saisiyat_Tong-he/SaiNr-frog1_bownay a tahes",
 				"topic": "frog1",
@@ -683,7 +683,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "風秀郎, kalaeh a taro', male, 1937-01-25",
+				"speaker": "風秀郎, kalaeh a taro', male, 1937",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-frog7_kalaeh a taro_",
 				"topic": "frog7",
@@ -704,7 +704,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "徐年枝, tosi' masin, female, 1942-3-10",
+				"speaker": "徐年枝, tosi' masin, female, 1942",
 				"collected": "2002-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-pear4_tosi_ masin",
 				"topic": "pear4",
@@ -746,7 +746,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "高玉美, lalo a tahaeS, female, 1967-2-22",
+				"speaker": "高玉美, lalo a tahaeS, female, 1967",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/Sainr-frog4_lalo a tahaeS",
 				"topic": "frog4",
@@ -767,7 +767,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "風秀郎, kalaeh a taro', male, 1937-01-25",
+				"speaker": "風秀郎, kalaeh a taro', male, 1937",
 				"collected": "2002-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-pear3_kalaeh a taro_",
 				"topic": "pear3",
@@ -788,7 +788,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "日繁雄, 'awi' a basi', male, 1945-4-4",
+				"speaker": "日繁雄, 'awi' a basi', male, 1945",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-frog5__awi_ a basi_",
 				"topic": "frog5",
@@ -809,7 +809,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "高德盛, parain a oemaw, male, 1928-1-5",
+				"speaker": "高德盛, parain a oemaw, male, 1928",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-frog8_parain a _oemaw",
 				"topic": "frog8",
@@ -830,7 +830,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "朱阿良, kalaeh a oemaw, male, 1928-8-8",
+				"speaker": "朱阿良, kalaeh a oemaw, male, 1928",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-kathethel2_kalaeh a oemaw",
 				"topic": "kathethel2",
@@ -851,7 +851,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "風玉雲, waon a bo:ong, female, 1943-2-28",
+				"speaker": "風玉雲, waon a bo:ong, female, 1943",
 				"collected": "2002-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-life_waon a boong",
 				"topic": "life",
@@ -914,7 +914,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "風玉雲, waon a bo:ong, female, 1943-2-28",
+				"speaker": "風玉雲, waon a bo:ong, female, 1943",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-flood_waon a boong",
 				"topic": "flood",
@@ -935,7 +935,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "高德盛, parain a oemaw, male, 1928-1-5",
+				"speaker": "高德盛, parain a oemaw, male, 1928",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-kathethel_parain a _oemaw",
 				"topic": "kathethel",
@@ -977,7 +977,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "日繁雄, 'awi' a basi', male, 1945-4-4",
+				"speaker": "日繁雄, 'awi' a basi', male, 1945",
 				"collected": "2002-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-pear5__awi_ a basi_",
 				"topic": "pear5",
@@ -998,7 +998,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "風玉雲, waon a bo:ong, female, 1943-2-28",
+				"speaker": "風玉雲, waon a bo:ong, female, 1943",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-frog2_waon a boong",
 				"topic": "frog2",
@@ -1019,7 +1019,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "朱阿良, kalaeh a oemaw, male, 1928-8-8",
+				"speaker": "朱阿良, kalaeh a oemaw, male, 1928",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-frog6_kalaeh a _oemaw",
 				"topic": "frog6",
@@ -1040,7 +1040,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "朱阿良, kalaeh a oemaw, male, 1928-8-8",
+				"speaker": "朱阿良, kalaeh a oemaw, male, 1928",
 				"collected": "2003-01-01",
 				"file": "Saisiyat_Tong-he/SaiNr-holiday_kalaeh a _oemaw",
 				"topic": "holiday",
@@ -1107,7 +1107,7 @@
 		"text": [
 			{
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957-09-10",
+				"speaker": "謝宗修, Buya, male, 1957",
 				"collected": "2003-05-30",
 				"file": "Kavalan_Xinshe/KavNr-pear_buya",
 				"topic": "Pear story",
@@ -1128,7 +1128,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952-10-25",
+				"speaker": "潘金妹, Imuy, female, 1952",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-frog_imuy_longversion",
 				"topic": "Frog story",
@@ -1149,7 +1149,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957-01-01",
+				"speaker": "謝潘秀蘭, Syulan, female, 1957",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/kavCon-speech_buya_syulan",
 				"topic": "Kavalan Speech Contest",
@@ -1170,7 +1170,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "朱阿比, Api, male, 1927-09-15",
+				"speaker": "朱阿比, Api, male, 1927",
 				"collected": "00:02:49",
 				"file": "Kavalan_Xinshe/KavNr-pear_api",
 				"topic": "Pear story",
@@ -1191,7 +1191,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957-01-01",
+				"speaker": "謝潘秀蘭, Syulan, female, 1957",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-map_syulan",
 				"topic": "Map",
@@ -1212,7 +1212,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2005-12-01",
 				"file": "Kavalan_Xinshe/KavCon-angry_pilaw_abas",
 				"topic": "Angry",
@@ -1233,7 +1233,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957-01-01",
+				"speaker": "謝潘秀蘭, Syulan, female, 1957",
 				"collected": "2003-05-30",
 				"file": "Kavalan_Xinshe/KavNr-pear_syulan",
 				"topic": "Pear story",
@@ -1254,7 +1254,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "朱阿比, Api, male, 1927-09-15",
+				"speaker": "朱阿比, Api, male, 1927",
 				"collected": "2004-01-01",
 				"file": "Kavalan_Xinshe/KavNr-frog_api2",
 				"topic": "Frog story",
@@ -1275,7 +1275,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957-09-10",
+				"speaker": "謝宗修, Buya, male, 1957",
 				"collected": "2004-10-20",
 				"file": "Kavalan_Xinshe/KavNr-ancestor_buya",
 				"topic": "Ancestors",
@@ -1296,7 +1296,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘金英, Haciang, female, 1944-09-15",
+				"speaker": "潘金英, Haciang, female, 1944",
 				"collected": "2004-04-01",
 				"file": "Kavalan_Xinshe/KavNr-pear_Haciang",
 				"topic": "Pear story",
@@ -1317,7 +1317,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "偕萬來, Banday, male, 1932-01-16",
+				"speaker": "偕萬來, Banday, male, 1932",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-pear_banday",
 				"topic": "Pear story",
@@ -1338,7 +1338,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2004-01-01",
 				"file": "Kavalan_Xinshe/KacCon-Teaching Weaving_abas_ipay",
 				"topic": "Teaching Weaving",
@@ -1359,7 +1359,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957-01-01",
+				"speaker": "謝潘秀蘭, Syulan, female, 1957",
 				"collected": "2003-05-30",
 				"file": "Kavalan_Xinshe/KavNr-frog_syulan",
 				"topic": "Frog story",
@@ -1380,7 +1380,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "林阿份, Ngengi, female, 1941-07-04",
+				"speaker": "林阿份, Ngengi, female, 1941",
 				"collected": "2004-11-01",
 				"file": "Kavalan_Xinshe/KavCon-relatives_buya_ngengi",
 				"topic": "Relatives",
@@ -1401,7 +1401,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "潘金妹, Imuy, female, 1952-10-25",
+				"speaker": "潘金妹, Imuy, female, 1952",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavCon-home_buya_imuy",
 				"topic": "Returning Home",
@@ -1422,7 +1422,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952-10-25",
+				"speaker": "潘金妹, Imuy, female, 1952",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-map_imuy",
 				"topic": "Map",
@@ -1443,7 +1443,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2005-12-01",
 				"file": "Kavalan_Xinshe/KavCon-marriage_abas_pilaw",
 				"topic": "Marriage",
@@ -1464,7 +1464,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2004-01-01",
 				"file": "Kavalan_Xinshe/KavCon-banana trees_abas_ipay2",
 				"topic": "Barking banana trees",
@@ -1485,7 +1485,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952-10-25",
+				"speaker": "潘金妹, Imuy, female, 1952",
 				"collected": "2003-05-30",
 				"file": "Kavalan_Xinshe/KavNr-pear_imuy",
 				"topic": "Pear Story",
@@ -1506,7 +1506,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952-10-25",
+				"speaker": "潘金妹, Imuy, female, 1952",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-frog_imuy2",
 				"topic": "Frog Story",
@@ -1527,7 +1527,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957-09-10",
+				"speaker": "謝宗修, Buya, male, 1957",
 				"collected": "2003-05-30",
 				"file": "Kavalan_Xinshe/KavNr-frog_buya",
 				"topic": "Frog story",
@@ -1548,7 +1548,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2003-04-19",
 				"file": "Kavalan_Xinshe/KavNr-pear_abas",
 				"topic": "Pear story",
@@ -1569,7 +1569,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957-09-10",
+				"speaker": "謝宗修, Buya, male, 1957",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-map_buya",
 				"topic": "Map",
@@ -1590,7 +1590,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2005-01-01",
 				"file": "Kavalan_Xinshe/KavNr-frog_abas",
 				"topic": "Frog story",
@@ -1611,7 +1611,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘金英, Haciang, female, 1944-09-15",
+				"speaker": "潘金英, Haciang, female, 1944",
 				"collected": "2005-04-01",
 				"file": "Kavalan_Xinshe/KavNr-frog_Haciang",
 				"topic": "Frog story",
@@ -1632,7 +1632,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2005-01-25",
 				"file": "Kavalan_Xinshe/KavCon-earthquake_abas_haciang",
 				"topic": "Earthquake",
@@ -1653,7 +1653,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "潘烏吉, Ipay, male, 1931-06-01",
+				"speaker": "潘烏吉, Ipay, male, 1931",
 				"collected": "00:01:23",
 				"file": "Kavalan_Xinshe/KavNr-pear_ipay",
 				"topic": "Pear story",
@@ -1674,7 +1674,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "林阿份, Ngengi, female, 1941-07-04",
+				"speaker": "林阿份, Ngengi, female, 1941",
 				"collected": "2004-11-03",
 				"file": "Kavalan_Xinshe/KavNr-ancestor_ngengi",
 				"topic": "Ancestors",
@@ -1695,7 +1695,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "偕萬來, Banday, male, 1932-01-16",
+				"speaker": "偕萬來, Banday, male, 1932",
 				"collected": "2003-06-01",
 				"file": "Kavalan_Xinshe/KavNr-frog_banday",
 				"topic": "Frog story",
@@ -1716,7 +1716,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957-09-10",
+				"speaker": "謝宗修, Buya, male, 1957",
 				"collected": "2004-10-01",
 				"file": "Kavalan_Xinshe/KavNr-sea_buya",
 				"topic": "Sea",
@@ -1737,7 +1737,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933-03-22",
+				"speaker": "潘天利, Abas, male, 1933",
 				"collected": "2004-01-01",
 				"file": "Kavalan_Xinshe/KavCon-weaving_abas_ipay3",
 				"topic": "Weaving",
@@ -1909,7 +1909,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "曾瑞琳, Temi Nawi, female, 1939-07-21",
+				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
 				"collected": "None",
 				"file": "Seediq_Tgdaya/sdqNr-frog_temi",
 				"topic": "frog",
@@ -1972,7 +1972,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953-02-24",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
 				"collected": "2009-09-17",
 				"file": "Seediq_Tgdaya/sdqNr-sisin_dakis",
 				"topic": "sisin",
@@ -2119,7 +2119,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953-02-24",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
 				"collected": "1996-10-19",
 				"file": "Seediq_Tgdaya/sdqNr-pear-dakis",
 				"topic": "pear",
@@ -2266,7 +2266,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953-02-24",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
 				"collected": "None",
 				"file": "Seediq_Tgdaya/sdqNr-seediq_dakis",
 				"topic": "seediq",
@@ -2308,7 +2308,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "曾瑞琳, Temi Nawi, female, 1939-07-21",
+				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
 				"collected": "None",
 				"file": "Seediq_Tgdaya/sdqNr-pear_temi",
 				"topic": "pear",
@@ -2350,7 +2350,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953-02-24",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
 				"collected": "None",
 				"file": "Seediq_Tgdaya/sdqNr-tradition_dakis",
 				"topic": "tradition",
@@ -2736,7 +2736,7 @@
 			},
 			{
 				"type": "Conversation",
-				"speaker": "李金妹, Panay, female, 1949-12-28",
+				"speaker": "李金妹, Panay, female, 1949",
 				"collected": "2004-05-13",
 				"file": "Amis_Ciwkangan/Amis_Conv-talking_tamih_panay",
 				"topic": "Talking",
@@ -2778,7 +2778,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949-12-28",
+				"speaker": "李金妹, Panay, female, 1949",
 				"collected": "2003-04-04",
 				"file": "Amis_Ciwkangan/Amis_Nr-peanut_panay",
 				"topic": "Peanut",
@@ -2820,7 +2820,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "林茂德, Tamih, male, 1926-03-06",
+				"speaker": "林茂德, Tamih, male, 1926",
 				"collected": "None",
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_tamih",
 				"topic": "Pear Story",
@@ -2862,7 +2862,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949-12-28",
+				"speaker": "李金妹, Panay, female, 1949",
 				"collected": "2007-01-05",
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_panay",
 				"topic": "Pear Story",
@@ -2904,7 +2904,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "張惠敏, Lungi, female, 1949-02-03",
+				"speaker": "張惠敏, Lungi, female, 1949",
 				"collected": "2005-05-19",
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_lungi",
 				"topic": "Pear Story",
@@ -2925,7 +2925,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949-12-28",
+				"speaker": "李金妹, Panay, female, 1949",
 				"collected": "2007-01-05",
 				"file": "Amis_Ciwkangan/Amis_Nr-intro_Panay",
 				"topic": "Self-introduction",
@@ -3009,7 +3009,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949-12-28",
+				"speaker": "李金妹, Panay, female, 1949",
 				"collected": "2004-04-04",
 				"file": "Amis_Ciwkangan/Amis_Nr-crab_panay",
 				"topic": "Crab",
@@ -3030,7 +3030,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "林茂德, Tamih, male, 1926-03-06",
+				"speaker": "林茂德, Tamih, male, 1926",
 				"collected": "2007-01-05",
 				"file": "Amis_Ciwkangan/Amis_Nr-intro_tamih",
 				"topic": "Religion and My Life",
@@ -3118,7 +3118,7 @@
 		"text": [
 			{
 				"type": "Narrative",
-				"speaker": "翁博學, 'Angai Ka'angena, male, 1953-11-16",
+				"speaker": "翁博學, 'Angai Ka'angena, male, 1953",
 				"collected": "13:57",
 				"file": "Kanakanavu_Kanakanavu/kkvNr-frogstory_angai",
 				"topic": "Frog story",
@@ -3139,7 +3139,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蕭能吉, Angai, male, 1936-08-18",
+				"speaker": "蕭能吉, Angai, male, 1936",
 				"collected": "2012-05-30",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_dailylife_Angai",
 				"topic": "dailylife",
@@ -3181,7 +3181,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932-12-14",
+				"speaker": "翁坤, Mu'u, male, 1932",
 				"collected": "2012-12-08",
 				"file": "Kanakanavu_Kanakanavu/kkvNr-fishing_Muu",
 				"topic": "fishing",
@@ -3202,7 +3202,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932-12-14",
+				"speaker": "翁坤, Mu'u, male, 1932",
 				"collected": "2012-05-30",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_domestic_troubles_Muu",
 				"topic": "domestic_troubles",
@@ -3223,7 +3223,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁范秀香, Paicʉ, female, 1939-01-11",
+				"speaker": "翁范秀香, Paicʉ, female, 1939",
 				"collected": "2012-07-18",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu",
 				"topic": "sowing",
@@ -3244,7 +3244,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932-12-14",
+				"speaker": "翁坤, Mu'u, male, 1932",
 				"collected": "2012-06-??",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_millet_Muu",
 				"topic": "Millet",
@@ -3265,7 +3265,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蕭范秀玉, Kuatʉ, female, 1941-12-03",
+				"speaker": "蕭范秀玉, Kuatʉ, female, 1941",
 				"collected": "2012-05-30",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_life_Kuatu",
 				"topic": "life",
@@ -3286,7 +3286,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932-12-14",
+				"speaker": "翁坤, Mu'u, male, 1932",
 				"collected": "0000-00-00",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sad_song_Muu",
 				"topic": "a sad song",
@@ -3307,7 +3307,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁成, Mu'u Ka'angena, male, 1947-8-9",
+				"speaker": "翁成, Mu'u Ka'angena, male, 1947",
 				"collected": "00 :09 :28",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_farming_Muu",
 				"topic": "Farming",
@@ -3328,7 +3328,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蕭范秀玉, Kuatʉ, female, 1941-12-03",
+				"speaker": "蕭范秀玉, Kuatʉ, female, 1941",
 				"collected": "2008-05-31",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Kuatu",
 				"topic": "sowing",
@@ -3349,7 +3349,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "孔金治, Uva Kapanena, male, 1951-11",
+				"speaker": "孔金治, Uva Kapanena, male, 1951",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_frog_Uva",
 				"topic": "Frog story",
@@ -3370,7 +3370,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蕭能吉, Angai, male, 1936-08-18",
+				"speaker": "蕭能吉, Angai, male, 1936",
 				"collected": "2011-05-30",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting_taboos_Angai",
 				"topic": "hunting.taboos",
@@ -3391,7 +3391,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蕭范秀玉, Kuatʉ, female, 1941-12-03",
+				"speaker": "蕭范秀玉, Kuatʉ, female, 1941",
 				"collected": "2012-05-31",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_mikon_Kuatu",
 				"topic": "mikon",
@@ -3412,7 +3412,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932-12-14",
+				"speaker": "翁坤, Mu'u, male, 1932",
 				"collected": "None",
 				"file": "Kanakanavu_Kanakanavu/kkvNr-puratu_Muu",
 				"topic": "puratu",
@@ -3433,7 +3433,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁范秀香, Paicʉ, female, 1939-01-11",
+				"speaker": "翁范秀香, Paicʉ, female, 1939",
 				"collected": "2012-05-31",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_family_Paicu",
 				"topic": "family",
@@ -3496,7 +3496,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "翁成, Mu'u Ka'angena, male, 1947-8-9",
+				"speaker": "翁成, Mu'u Ka'angena, male, 1947",
 				"collected": "00:10:27",
 				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting1_Muu",
 				"topic": "hunting1",
@@ -3632,7 +3632,7 @@
 		"text": [
 			{
 				"type": "Narrative",
-				"speaker": "楊富男, kaniw, male, 1942-05-06",
+				"speaker": "楊富男, kaniw, male, 1942",
 				"collected": "2009-10-31",
 				"file": "Sakizaya_Sakizaya/skzyNr-rain-kaniw",
 				"topic": "rain_Kaniw",
@@ -3653,7 +3653,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "楊富男, kaniw, male, 1942-05-06",
+				"speaker": "楊富男, kaniw, male, 1942",
 				"collected": "2009-10-31",
 				"file": "Sakizaya_Sakizaya/skzyNr-palamal_kaniw",
 				"topic": "Palamal_Kaniw",
@@ -3674,7 +3674,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949-11-20",
+				"speaker": "葉阿妹, panay, female, 1949",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-sapat_Panay",
 				"topic": "sapad-panay",
@@ -3716,7 +3716,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "楊富男, kaniw, male, 1942-05-06",
+				"speaker": "楊富男, kaniw, male, 1942",
 				"collected": "2009-10-31",
 				"file": "Sakizaya_Sakizaya/skzyNr-hunting_kaniw",
 				"topic": "hunting_Kaniw",
@@ -3737,7 +3737,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉珠君, bunuk, female, 1958-04-24",
+				"speaker": "葉珠君, bunuk, female, 1958",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-pear_bunuk",
 				"topic": "pear_bunuk",
@@ -3758,7 +3758,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949-11-20",
+				"speaker": "葉阿妹, panay, female, 1949",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-maibol_Panay",
 				"topic": "maibul_panay",
@@ -3779,7 +3779,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949-11-20",
+				"speaker": "葉阿妹, panay, female, 1949",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-pear_panay",
 				"topic": "pear_panay",
@@ -3800,7 +3800,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉珠君, bunuk, female, 1958-04-24",
+				"speaker": "葉珠君, bunuk, female, 1958",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_bunuk",
 				"topic": "frog_Bunuk",
@@ -3821,7 +3821,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949-11-20",
+				"speaker": "葉阿妹, panay, female, 1949",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_panay",
 				"topic": "frog_Panay",
@@ -3863,7 +3863,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蔡宜庭, dungi, female, 1949-11-26",
+				"speaker": "蔡宜庭, dungi, female, 1949",
 				"collected": "2009-08-28",
 				"file": "Sakizaya_Sakizaya/skzyNr-pear_dungi",
 				"topic": "pear_dungi",
@@ -3884,7 +3884,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "蔡宜庭, dungi, female, 1949-11-26",
+				"speaker": "蔡宜庭, dungi, female, 1949",
 				"collected": "2009-08-28",
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_dungi",
 				"topic": "frog_Dungi",
@@ -3905,7 +3905,7 @@
 			},
 			{
 				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949-11-20",
+				"speaker": "葉阿妹, panay, female, 1949",
 				"collected": "2008-01-05",
 				"file": "Sakizaya_Sakizaya/skzyNr-school_Panay",
 				"topic": "school_panay",
@@ -3972,7 +3972,7 @@
 		"text": [
 			{
 				"type": "Sentence",
-				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944",
 				"collected": "2016-06-02",
 				"file": "Bunun_Isbukun/25",
 				"sent_num": 6,
@@ -3990,7 +3990,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944",
 				"collected": "2016-06-06",
 				"file": "Bunun_Isbukun/38",
 				"sent_num": 6,
@@ -4008,7 +4008,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/34",
 				"sent_num": 17,
@@ -4044,7 +4044,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/29",
 				"sent_num": 9,
@@ -4062,7 +4062,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944",
 				"collected": "2016-06-05",
 				"file": "Bunun_Isbukun/30",
 				"sent_num": 8,
@@ -4080,7 +4080,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944",
 				"collected": "2016-06-02",
 				"file": "Bunun_Isbukun/40",
 				"sent_num": 7,
@@ -4098,7 +4098,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-06",
 				"file": "Bunun_Isbukun/31",
 				"sent_num": 12,
@@ -4116,7 +4116,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/26",
 				"sent_num": 11,
@@ -4134,7 +4134,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-02",
 				"file": "Bunun_Isbukun/32",
 				"sent_num": 11,
@@ -4170,7 +4170,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
 				"collected": "2016-06-05",
 				"file": "Bunun_Isbukun/23",
 				"sent_num": 7,
@@ -4188,7 +4188,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
 				"collected": "2016-06-05",
 				"file": "Bunun_Isbukun/37",
 				"sent_num": 10,
@@ -4224,7 +4224,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-06-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-06",
 				"file": "Bunun_Isbukun/24",
 				"sent_num": 11,
@@ -4242,7 +4242,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/21",
 				"sent_num": 5,
@@ -4260,7 +4260,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/28",
 				"sent_num": 13,
@@ -4278,7 +4278,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/41",
 				"sent_num": 9,
@@ -4296,7 +4296,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/35",
 				"sent_num": 4,
@@ -4314,7 +4314,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950-06-08",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/27",
 				"sent_num": 5,
@@ -4332,7 +4332,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏有利, Ciang Ispalida, Male, 1944-11-09",
+				"speaker": "顏有利, Ciang Ispalida, Male, 1944",
 				"collected": "2016-06-03",
 				"file": "Bunun_Isbukun/33",
 				"sent_num": 5,
@@ -4350,7 +4350,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/22",
 				"sent_num": 7,
@@ -4368,7 +4368,7 @@
 			},
 			{
 				"type": "Sentence",
-				"speaker": "顏光明, Talum Ispalidav, Male, 1958-6-14",
+				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
 				"collected": "2016-06-04",
 				"file": "Bunun_Isbukun/36",
 				"sent_num": 16,
