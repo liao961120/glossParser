@@ -1023,18 +1023,18 @@
 				"record_time": 5863.17
 			},
 			"sentence": {
-				"sent_num": 2179
+				"sent_num": 2538
 			},
 			"marker": {
-				"AF": 940,
+				"AF": 1260,
 				"NAF": 0,
-				"PF": 306,
+				"PF": 364,
 				"RF": 0,
-				"IF": 50,
-				"BF": 3,
+				"IF": 68,
+				"BF": 4,
 				"CF": 0,
-				"LF": 224,
-				"GEN": 226
+				"LF": 327,
+				"GEN": 267
 			}
 		},
 		"text": [
@@ -1330,6 +1330,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/51",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-04-19",
+				"sent_num": 22,
+				"marker": {
+					"AF": 23,
+					"NAF": 0,
+					"PF": 3,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 1
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/39",
 				"type": "Sentence",
 				"speaker": "None, None, None, None",
@@ -1348,6 +1366,78 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/50",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-03-05",
+				"sent_num": 19,
+				"marker": {
+					"AF": 9,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/47",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-03-01",
+				"sent_num": 15,
+				"marker": {
+					"AF": 7,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/52",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-05-10",
+				"sent_num": 17,
+				"marker": {
+					"AF": 14,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/54",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-04-28",
+				"sent_num": 29,
+				"marker": {
+					"AF": 23,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 9,
+					"GEN": 8
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/29",
 				"type": "Sentence",
 				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
@@ -1363,6 +1453,42 @@
 					"CF": 0,
 					"LF": 2,
 					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/61",
+				"type": "Sentence",
+				"speaker": "顏, Ciang Ispalida, M, 1944",
+				"collected": "2016-06-05",
+				"sent_num": 10,
+				"marker": {
+					"AF": 12,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 4
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/60",
+				"type": "Sentence",
+				"speaker": "顏光明, Talum Ispalida(v) Takistaulan, M, 1958",
+				"collected": "2016-06-04",
+				"sent_num": 21,
+				"marker": {
+					"AF": 18,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 4,
+					"BF": 1,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 3
 				}
 			},
 			{
@@ -1420,6 +1546,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/57",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-06-03",
+				"sent_num": 29,
+				"marker": {
+					"AF": 29,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 2
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/64",
 				"type": "Sentence",
 				"speaker": "None",
@@ -1453,6 +1597,24 @@
 					"CF": 0,
 					"LF": 2,
 					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/56",
+				"type": "Sentence",
+				"speaker": "顏, Ciang Ispalida, M, 1944",
+				"collected": "2016-06-2",
+				"sent_num": 18,
+				"marker": {
+					"AF": 9,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
 				}
 			},
 			{
@@ -1492,6 +1654,42 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/44",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, F, 1950",
+				"collected": "2016-06-04",
+				"sent_num": 3,
+				"marker": {
+					"AF": 6,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/43",
+				"type": "Sentence",
+				"speaker": "顏光明, Talun Ispalidav, M, 1958",
+				"collected": "2016-06-03",
+				"sent_num": 9,
+				"marker": {
+					"AF": 14,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/41",
 				"type": "Sentence",
 				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
@@ -1524,6 +1722,42 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/48",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-04-12",
+				"sent_num": 23,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 7,
+					"GEN": 6
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/45",
+				"type": "Sentence",
+				"speaker": "顏有利, Ciang Ispalidav, M, 1944",
+				"collected": "2016-06-05",
+				"sent_num": 4,
+				"marker": {
+					"AF": 4,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
 					"GEN": 0
 				}
 			},
@@ -1600,6 +1834,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/55",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-05-24",
+				"sent_num": 36,
+				"marker": {
+					"AF": 22,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 5,
+					"BF": 0,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 1
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/32",
 				"type": "Sentence",
 				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
@@ -1618,6 +1870,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/46",
+				"type": "Sentence",
+				"speaker": "顏光明, Talun Ispalidav, M, 1958",
+				"collected": "2016-06-06",
+				"sent_num": 12,
+				"marker": {
+					"AF": 16,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 3
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/35",
 				"type": "Sentence",
 				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
@@ -1633,6 +1903,24 @@
 					"CF": 0,
 					"LF": 1,
 					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/59",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-06-04",
+				"sent_num": 16,
+				"marker": {
+					"AF": 17,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 1
 				}
 			},
 			{
@@ -1672,6 +1960,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/49",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-05-03",
+				"sent_num": 11,
+				"marker": {
+					"AF": 16,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 2
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/27",
 				"type": "Sentence",
 				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
@@ -1690,6 +1996,42 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/53",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaiva Takiztaulan, F, 1950",
+				"collected": "2016-03-22",
+				"sent_num": 15,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/42",
+				"type": "Sentence",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, F, 1950",
+				"collected": "2016-06-03",
+				"sent_num": 7,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/22",
 				"type": "Sentence",
 				"speaker": "顏光明, Talum Ispalidav, Male, 1958",
@@ -1699,6 +2041,24 @@
 					"AF": 2,
 					"NAF": 0,
 					"PF": 3,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/62",
+				"type": "Sentence",
+				"speaker": "顏光明, Talun Ispalida(v) Takistaulan, M, 1958",
+				"collected": "2016-06-06",
+				"sent_num": 43,
+				"marker": {
+					"AF": 31,
+					"NAF": 0,
+					"PF": 6,
 					"RF": 0,
 					"IF": 1,
 					"BF": 0,
