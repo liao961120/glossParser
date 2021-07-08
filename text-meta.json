@@ -2,175 +2,133 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4952,
-				"sent_num": 1641,
-				"record_time": 8860.84
+				"iu_num": 2275,
+				"sent_num": 760,
+				"record_time": 4868.4
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 2571,
+				"AF": 1122,
 				"NAF": 0,
-				"PF": 621,
-				"RF": 35,
-				"IF": 2,
+				"PF": 285,
+				"RF": 22,
+				"IF": 1,
 				"BF": 0,
 				"CF": 1,
-				"LF": 411,
-				"GEN": 1234
+				"LF": 171,
+				"GEN": 566
 			}
 		},
 		"text": [
 			{
-				"file": "Seediq_Tgdaya/sdqNr-ricah_uma",
+				"file": "Seediq_Tgdaya/sdqNr-pear-dakis 2020s.mp3",
 				"type": "Narrative",
-				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
-				"collected": "2007-05-07",
-				"topic": "ricah",
-				"iu_num": 54,
-				"sent_num": 13,
-				"record_time": 97.32,
-				"marker": {
-					"AF": 13,
-					"NAF": 0,
-					"PF": 22,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 6
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-sinobale_uma",
-				"type": "Narrative",
-				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
-				"collected": "1997-04-04",
-				"topic": "sinobale",
-				"iu_num": 32,
-				"sent_num": 21,
-				"record_time": 59.19,
-				"marker": {
-					"AF": 13,
-					"NAF": 0,
-					"PF": 17,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 6
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-mother_iwan",
-				"type": "Narrative",
-				"speaker": "田月嬌, Iwan Kumu, female, 1939",
-				"collected": "None",
-				"topic": "mother",
-				"iu_num": 399,
-				"sent_num": 87,
-				"record_time": 706.72,
-				"marker": {
-					"AF": 215,
-					"NAF": 0,
-					"PF": 35,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 28,
-					"GEN": 102
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape",
-				"type": "Conversation",
-				"speaker": "曾鴛鴦, Robo Pihu, female, 1928",
-				"collected": "None",
-				"topic": "sdqCon-dialog4_robo_bakan_ape",
-				"iu_num": 143,
-				"sent_num": 53,
-				"record_time": 211.83,
-				"marker": {
-					"AF": 67,
-					"NAF": 0,
-					"PF": 17,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 18
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_temi",
-				"type": "Narrative",
-				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
-				"collected": "None",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
+				"collected": "1996-10-19",
 				"topic": "pear",
-				"iu_num": 128,
-				"sent_num": 55,
-				"record_time": 340.33,
+				"iu_num": 99,
+				"sent_num": 36,
+				"record_time": 156.38,
 				"marker": {
-					"AF": 99,
+					"AF": 63,
 					"NAF": 0,
-					"PF": 29,
-					"RF": 1,
+					"PF": 13,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 11,
-					"GEN": 58
+					"LF": 14,
+					"GEN": 31
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/None-1",
+				"file": "Seediq_Tgdaya/sdqNr-seediq_dakis 2020s.mp3",
 				"type": "Narrative",
-				"speaker": "",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
 				"collected": "None",
-				"topic": "taboo",
-				"iu_num": 119,
-				"sent_num": 25,
-				"record_time": 0,
+				"topic": "seediq",
+				"iu_num": 99,
+				"sent_num": 26,
+				"record_time": 157.22,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 15,
+					"GEN": 24
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-dialog5_dakis_takun 2020s.mp3",
+				"type": "Conversation",
+				"speaker": "邱建堂, Takun, male, 1952",
+				"collected": "None",
+				"topic": "sdqCon-dialog5_dakis_takun",
+				"iu_num": 175,
+				"sent_num": 56,
+				"record_time": 415.47,
 				"marker": {
 					"AF": 43,
 					"NAF": 0,
-					"PF": 8,
-					"RF": 3,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 12,
-					"GEN": 27
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-frog_lubi",
-				"type": "Narrative",
-				"speaker": "謝美, Lubi Nomin, female, None",
-				"collected": "None",
-				"topic": "frog",
-				"iu_num": 267,
-				"sent_num": 46,
-				"record_time": 596.17,
-				"marker": {
-					"AF": 145,
-					"NAF": 0,
-					"PF": 15,
-					"RF": 0,
+					"PF": 13,
+					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 13,
-					"GEN": 45
+					"GEN": 21
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-rain_pawan",
+				"file": "Seediq_Tgdaya/sdqNr-frog_aking 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "黃美玉, Aking Nawi, female, 1952",
+				"collected": "None",
+				"topic": "frog",
+				"iu_num": 99,
+				"sent_num": 20,
+				"record_time": 174.94,
+				"marker": {
+					"AF": 45,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 31
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-dialog1_ciwas_tiwas 2021s.mp3",
+				"type": "Conversation",
+				"speaker": "蔡茂琳, Pawan Nawi, female, 1915",
+				"collected": "1991-08-09",
+				"topic": "sdqCon-dialog1_ciwas_tiwas",
+				"iu_num": 95,
+				"sent_num": 52,
+				"record_time": 134.98,
+				"marker": {
+					"AF": 48,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 21
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-rain_pawan 2020s.mp3",
 				"type": "Narrative",
 				"speaker": "王文則, Pawan Nawi, male, 1926",
 				"collected": "None",
@@ -191,70 +149,28 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/None",
+				"file": "Seediq_Tgdaya/sdqNr-south_pawan 2021s.mp3",
 				"type": "Narrative",
-				"speaker": "",
-				"collected": "None",
-				"topic": "tattoo2",
-				"iu_num": 21,
-				"sent_num": 15,
-				"record_time": 0,
+				"speaker": "王文則, Pawan Nawi, male, 1926",
+				"collected": "1997-04-05",
+				"topic": "south",
+				"iu_num": 99,
+				"sent_num": 28,
+				"record_time": 162.1,
 				"marker": {
-					"AF": 11,
+					"AF": 46,
 					"NAF": 0,
-					"PF": 1,
-					"RF": 2,
+					"PF": 6,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 6,
-					"GEN": 2
+					"LF": 2,
+					"GEN": 14
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_aking",
-				"type": "Narrative",
-				"speaker": "黃美玉, Aking Nawi, female, 1952",
-				"collected": "2007-03-19",
-				"topic": "pear",
-				"iu_num": 96,
-				"sent_num": 26,
-				"record_time": 253.73,
-				"marker": {
-					"AF": 65,
-					"NAF": 0,
-					"PF": 11,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 13,
-					"GEN": 40
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-sisin_dakis",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "2009-09-17",
-				"topic": "sisin",
-				"iu_num": 573,
-				"sent_num": 133,
-				"record_time": 956.25,
-				"marker": {
-					"AF": 294,
-					"NAF": 0,
-					"PF": 109,
-					"RF": 6,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 49,
-					"GEN": 167
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog3_robo_bakan",
+				"file": "Seediq_Tgdaya/sdqCon-dialog3_robo_bakan 2021s.mp3",
 				"type": "Conversation",
 				"speaker": "郭溫月桃, Robo Walis, female, 1934",
 				"collected": "2013-09-15",
@@ -263,7 +179,7 @@
 				"sent_num": 28,
 				"record_time": 108.39,
 				"marker": {
-					"AF": 52,
+					"AF": 51,
 					"NAF": 0,
 					"PF": 11,
 					"RF": 0,
@@ -275,322 +191,49 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas",
+				"file": "Seediq_Tgdaya/sdqNr-childhood_micang 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "周玉英, Micang Tado, female, 1942",
+				"collected": "2007-05-26",
+				"topic": "childhood",
+				"iu_num": 99,
+				"sent_num": 47,
+				"record_time": 306.79,
+				"marker": {
+					"AF": 96,
+					"NAF": 0,
+					"PF": 21,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 9,
+					"GEN": 55
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s.mp3",
 				"type": "Conversation",
 				"speaker": "蔡茂琳, Pawan Nawi, female, 1915",
 				"collected": "1991-08-16",
 				"topic": "sdqCon-dialog2_ciwas_tiwas",
-				"iu_num": 336,
-				"sent_num": 203,
-				"record_time": 494.09,
+				"iu_num": 100,
+				"sent_num": 71,
+				"record_time": 433.48,
 				"marker": {
-					"AF": 211,
+					"AF": 84,
 					"NAF": 0,
-					"PF": 41,
+					"PF": 8,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 27,
-					"GEN": 74
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_pawan",
-				"type": "Narrative",
-				"speaker": "錢成鏡, None, male, None",
-				"collected": "None",
-				"topic": "pear",
-				"iu_num": 84,
-				"sent_num": 17,
-				"record_time": 130.98,
-				"marker": {
-					"AF": 33,
-					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 5,
-					"GEN": 16
+					"LF": 4,
+					"GEN": 22
 				}
 			},
 			{
 				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
-				"type": "Narrative",
-				"speaker": "",
-				"collected": "None",
-				"topic": "sdqNr-taboo_pawan",
-				"iu_num": 7,
-				"sent_num": 0,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-south_pawan",
-				"type": "Narrative",
-				"speaker": "王文則, Pawan Nawi, male, 1926",
-				"collected": "1997-04-05",
-				"topic": "south",
-				"iu_num": 111,
-				"sent_num": 33,
-				"record_time": 182.47,
-				"marker": {
-					"AF": 52,
-					"NAF": 0,
-					"PF": 6,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 2,
-					"GEN": 15
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-frog_temi",
-				"type": "Narrative",
-				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
-				"collected": "None",
-				"topic": "frog",
-				"iu_num": 426,
-				"sent_num": 111,
-				"record_time": 1124.15,
-				"marker": {
-					"AF": 209,
-					"NAF": 0,
-					"PF": 21,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 49,
-					"GEN": 102
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-tradition_dakis",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "None",
-				"topic": "tradition",
-				"iu_num": 232,
-				"sent_num": 68,
-				"record_time": 332.92,
-				"marker": {
-					"AF": 133,
-					"NAF": 0,
-					"PF": 31,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 18,
-					"GEN": 67
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-plum_uma_robo",
-				"type": "Conversation",
-				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
-				"collected": "None",
-				"topic": "sdqCon-plum_uma_robo",
-				"iu_num": 103,
-				"sent_num": 33,
-				"record_time": 180.7,
-				"marker": {
-					"AF": 8,
-					"NAF": 0,
-					"PF": 23,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 19
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-childhood_micang",
-				"type": "Narrative",
-				"speaker": "周玉英, Micang Tado, female, 1942-?-?",
-				"collected": "2007-05-26",
-				"topic": "childhood",
-				"iu_num": 268,
-				"sent_num": 120,
-				"record_time": 903.93,
-				"marker": {
-					"AF": 201,
-					"NAF": 0,
-					"PF": 52,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 30,
-					"GEN": 115
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_lubi",
-				"type": "Narrative",
-				"speaker": "謝美, Lubi Nomin, female, None",
-				"collected": "None",
-				"topic": "pear",
-				"iu_num": 87,
-				"sent_num": 16,
-				"record_time": 139.59,
-				"marker": {
-					"AF": 41,
-					"NAF": 0,
-					"PF": 5,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 15
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-frog_aking",
-				"type": "Narrative",
-				"speaker": "黃美玉, Aking Nawi, female, 1952",
-				"collected": "None",
-				"topic": "frog",
-				"iu_num": 190,
-				"sent_num": 46,
-				"record_time": 366.06,
-				"marker": {
-					"AF": 106,
-					"NAF": 0,
-					"PF": 17,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 17,
-					"GEN": 60
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
-				"type": "Narrative",
-				"speaker": "",
-				"collected": "None",
-				"topic": "sdqNr-tattoo2_pawan",
-				"iu_num": 0,
-				"sent_num": 0,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-seediq_dakis",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "None",
-				"topic": "seediq",
-				"iu_num": 136,
-				"sent_num": 41,
-				"record_time": 215.41,
-				"marker": {
-					"AF": 43,
-					"NAF": 0,
-					"PF": 14,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 18,
-					"GEN": 34
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog5_dakis_takun",
-				"type": "Conversation",
-				"speaker": "邱建堂, Takun, male, 1952",
-				"collected": "None",
-				"topic": "sdqCon-dialog5_dakis_takun",
-				"iu_num": 300,
-				"sent_num": 127,
-				"record_time": 418.76,
-				"marker": {
-					"AF": 101,
-					"NAF": 0,
-					"PF": 35,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 26,
-					"GEN": 57
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020sf",
-				"type": "Narrative",
-				"speaker": "Pawan",
-				"collected": "None",
-				"topic": "tattoo2",
-				"iu_num": 21,
-				"sent_num": 15,
-				"record_time": 0,
-				"marker": {
-					"AF": 11,
-					"NAF": 0,
-					"PF": 1,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 6,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog1_ciwas_tiwas",
-				"type": "Conversation",
-				"speaker": "蔡茂琳, Pawan Nawi, female, 1915",
-				"collected": "1991-08-09",
-				"topic": "sdqCon-dialog1_ciwas_tiwas",
-				"iu_num": 316,
-				"sent_num": 165,
-				"record_time": 469.9,
-				"marker": {
-					"AF": 148,
-					"NAF": 0,
-					"PF": 35,
-					"RF": 6,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 23,
-					"GEN": 65
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021sf",
 				"type": "Narrative",
 				"speaker": "",
 				"collected": "None",
@@ -611,7 +254,133 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-medicine_robo pihu",
+				"file": "Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s.mp3",
+				"type": "Conversation",
+				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
+				"collected": "None",
+				"topic": "sdqCon-plum_uma_robo",
+				"iu_num": 99,
+				"sent_num": 31,
+				"record_time": 166.72,
+				"marker": {
+					"AF": 9,
+					"NAF": 0,
+					"PF": 29,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 19
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-frog_temi",
+				"type": "Narrative",
+				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
+				"collected": "None",
+				"topic": "frog",
+				"iu_num": 100,
+				"sent_num": 26,
+				"record_time": 605.33,
+				"marker": {
+					"AF": 39,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 27
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-pear_pawan 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "錢成鏡, None, male, None",
+				"collected": "None",
+				"topic": "pear",
+				"iu_num": 84,
+				"sent_num": 17,
+				"record_time": 130.98,
+				"marker": {
+					"AF": 34,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 16
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-tradition_dakis 2021s.mp3",
+				"type": "Narrative",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
+				"collected": "None",
+				"topic": "tradition",
+				"iu_num": 99,
+				"sent_num": 30,
+				"record_time": 145.07,
+				"marker": {
+					"AF": 52,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 36
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape 2020s.mp3",
+				"type": "Conversation",
+				"speaker": "曾鴛鴦, Robo Pihu, female, 1928",
+				"collected": "None",
+				"topic": "sdqCon-dialog4_robo_bakan_ape",
+				"iu_num": 99,
+				"sent_num": 39,
+				"record_time": 156.55,
+				"marker": {
+					"AF": 48,
+					"NAF": 0,
+					"PF": 15,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 10
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-sisin_dakis 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "郭明正, Dakis Pawan, male, 1953",
+				"collected": "2009-09-17",
+				"topic": "sisin",
+				"iu_num": 99,
+				"sent_num": 21,
+				"record_time": 142.19,
+				"marker": {
+					"AF": 30,
+					"NAF": 0,
+					"PF": 7,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 21
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-medicine_robo pihu 2020s.mp3",
 				"type": "Narrative",
 				"speaker": "曾鴛鴦, Robo Pihu, female, 1928",
 				"collected": "None",
@@ -632,24 +401,171 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-pear-dakis",
+				"file": "Seediq_Tgdaya/sdqNr-pear_temi 2020s.mp3",
 				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "1996-10-19",
+				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
+				"collected": "None",
 				"topic": "pear",
-				"iu_num": 250,
-				"sent_num": 82,
-				"record_time": 378.69,
+				"iu_num": 98,
+				"sent_num": 42,
+				"record_time": 258.03,
 				"marker": {
-					"AF": 166,
+					"AF": 70,
 					"NAF": 0,
-					"PF": 40,
+					"PF": 26,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 52
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-mother_iwan 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "田月嬌, Iwan Kumu, female, 1939",
+				"collected": "None",
+				"topic": "mother",
+				"iu_num": 91,
+				"sent_num": 23,
+				"record_time": 270.29,
+				"marker": {
+					"AF": 46,
+					"NAF": 0,
+					"PF": 6,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 28,
-					"GEN": 78
+					"LF": 3,
+					"GEN": 26
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
+				"type": "Narrative",
+				"speaker": "Pawan",
+				"collected": "None",
+				"topic": "tattoo2",
+				"iu_num": 21,
+				"sent_num": 15,
+				"record_time": 0,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-pear_aking 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "黃美玉, Aking Nawi, female, 1952",
+				"collected": "2007-03-19",
+				"topic": "pear",
+				"iu_num": 95,
+				"sent_num": 25,
+				"record_time": 253.73,
+				"marker": {
+					"AF": 66,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 41
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-frog_lubi 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "謝美, Lubi Nomin, female, None",
+				"collected": "None",
+				"topic": "frog",
+				"iu_num": 99,
+				"sent_num": 15,
+				"record_time": 200.4,
+				"marker": {
+					"AF": 49,
+					"NAF": 0,
+					"PF": 3,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 9,
+					"GEN": 24
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-sinobale_uma 2021s.mp3",
+				"type": "Narrative",
+				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
+				"collected": "1997-04-04",
+				"topic": "sinobale",
+				"iu_num": 32,
+				"sent_num": 21,
+				"record_time": 59.19,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 17,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 6
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-pear_lubi 2020s.mp3",
+				"type": "Narrative",
+				"speaker": "謝美, Lubi Nomin, female, None",
+				"collected": "None",
+				"topic": "pear",
+				"iu_num": 87,
+				"sent_num": 16,
+				"record_time": 139.59,
+				"marker": {
+					"AF": 42,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 17
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-ricah_uma 2021s.mp3",
+				"type": "Narrative",
+				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
+				"collected": "2007-05-07",
+				"topic": "ricah",
+				"iu_num": 54,
+				"sent_num": 13,
+				"record_time": 97.32,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 22,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 6
 				}
 			}
 		]
