@@ -59,11 +59,14 @@ def get_info(path):
     info = {}
     # Meta info
     meta = text["meta"]
-    info['type'] = meta['type']
-    info['speaker'] = meta['speaker']
-    info['collected'] = meta['collected']
     info['file'] = f"{path.parent.name}/{path.stem}"
-
+    for k in ['type', 'speaker', 'collected']:
+        try:
+            info[k] = meta[k]
+        except:
+            print(f"WARNRING: no key: {k} in meta of {path}")
+            pass
+    
     if DATA.story_dirname in str(path.absolute()):
         info['topic'] = meta['topic']
     else:
