@@ -1314,7 +1314,8 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Hanaivaz",
 				"type": "Narrative",
-				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950 Collected: 2016/3/23",
+				"speaker": "顏雲英, Hanaivaz Takistaulan, Female, 1950",
+				"collected": "2016/3/23",
 				"topic": "frog_Hanaivaz",
 				"iu_num": 301,
 				"sent_num": 97,
