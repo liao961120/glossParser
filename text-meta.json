@@ -2782,10 +2782,10 @@
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 878
+				"sent_num": 1899
 			},
 			"marker": {
-				"AF": 0,
+				"AF": 4,
 				"NAF": 0,
 				"PF": 0,
 				"RF": 0,
@@ -2793,7 +2793,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 240
+				"GEN": 282
 			}
 		},
 		"text": [
@@ -3155,11 +3155,893 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200318-CL-1-rev0824",
+				"file": "Rukai_Vedai/20200528-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, Female , 1961",
+				"speaker": "許進登, Bikar, M, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Lixing-1",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ryan",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 46,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200422-CL-5",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-04-22",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 7
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Yongfu-2",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legaane, F, 1961",
+				"collected": "2020-05-31",
+				"sent_num": 16,
+				"marker": {
+					"AF": 1,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Ludwig",
+				"type": "Sentence",
+				"speaker": "許進登, Bikar, M, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Lixing-1",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeai, M, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 18,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane, F, 1961 / 巴山光, Legeai Padrangedrange, M, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Lixing-2",
+				"type": "Sentence",
+				"speaker": "宋文臣, Leageayi, M, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 15,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-31",
+				"sent_num": 25,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Andrea-2",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane, F, 1961",
+				"collected": "2020-05-30",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Jimmy-2",
+				"type": "Sentence",
+				"speaker": "宋文臣, Leageayi, M, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 14,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-yuki",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeay Parangerange, M, 1946",
+				"collected": "2020-05-31",
+				"sent_num": 48,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ken-2",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeay Parangerange, M, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200508-CL-7",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-05-08",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Jimmy-1",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeai, M, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 21,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-yuki-2",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeai, M, 1946",
+				"collected": "2020-05-29",
+				"sent_num": 28,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 4
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Jimmy-1",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Jess",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane, F, 1961/巴山光, Legeai Padrangedrange, M, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 25,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Andrea-1",
+				"type": "Sentence",
+				"speaker": "賴天賜, Baludase, M, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 9,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeay Padrangedrange, M,  1946 /宋文成, Legeay Sukinatimi, M, 1936",
+				"collected": "2020-05-28",
+				"sent_num": 36,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Yongfu-2",
+				"type": "Sentence",
+				"speaker": "宋文臣, Leageayi, M, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 19,
+				"marker": {
+					"AF": 2,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Jimmy-2",
+				"type": "Sentence",
+				"speaker": "賴天賜, Baludase, M, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 5,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 13,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ken-2",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200325-CL-2",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-03-25",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Lixing-2",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 6,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ken-1",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane / Balenge Kasepelane, F, 1961",
+				"collected": "2020-05-30",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Jess",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeay Padrangedrange, M,  1946",
+				"collected": "2020-05-28",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Yongfu-1",
+				"type": "Sentence",
+				"speaker": "賴天賜, Baludase, M, 1959",
+				"collected": "2020-05-31",
+				"sent_num": 30,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Andrea-2",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeai, M, 1946",
+				"collected": "2020-05-29",
+				"sent_num": 35,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Yongfu",
+				"type": "Sentence",
+				"speaker": "麥長老, Baelrece, M, 1958",
+				"collected": "2020-05-28",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Andrea-1",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane, F, 1961",
+				"collected": "2020-05-30",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Yongfu-1",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 37,
+				"marker": {
+					"AF": 1,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Jess",
+				"type": "Sentence",
+				"speaker": "宋文臣, Legeay Sukinatimi, M, 1936/ 賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200429-CL-6",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-04-29",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Andrea",
+				"type": "Sentence",
+				"speaker": "許進登, Bikar, M, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ryan",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane, F, 1961",
+				"collected": "2020-05-29",
+				"sent_num": 37,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-yuki-1",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane, F, 1961",
+				"collected": "2020-05-29",
+				"sent_num": 14,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ken-1",
+				"type": "Sentence",
+				"speaker": "宋文臣, Legeay Sukinatimi, M, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Lixing",
+				"type": "Sentence",
+				"speaker": "許進登, Bikare, M, 1950",
+				"collected": "2020-05-31",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Ken",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeay Padrangedrange, M,  1946",
+				"collected": "2020-05-28",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Yongfu-1",
+				"type": "Sentence",
+				"speaker": "巴山光, Legeai, M, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200408-CL-3",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-04-08",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Yongfu-2",
+				"type": "Sentence",
+				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 15,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200513-CL-8",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-05-13",
+				"sent_num": 24,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Jimmy",
+				"type": "Sentence",
+				"speaker": "麥長老, Baelrece, M, 1958",
+				"collected": "2020-05-28",
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200318-CL-1",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
 				"collected": "2020-03-18",
 				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-yuki",
+				"type": "Sentence",
+				"speaker": "許進登, Bikar, M, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 24,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200415-CL-4",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"collected": "2020-04-15",
+				"sent_num": 19,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
