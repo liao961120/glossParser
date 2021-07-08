@@ -2430,27 +2430,6 @@
 				}
 			},
 			{
-				"file": "Tsou_Tsou/None",
-				"type": "Narrative",
-				"speaker": "",
-				"collected": "None",
-				"topic": "Pear Story 3",
-				"iu_num": 124,
-				"sent_num": 33,
-				"record_time": 0,
-				"marker": {
-					"AF": 112,
-					"NAF": 42,
-					"PF": 27,
-					"RF": 0,
-					"IF": 0,
-					"BF": 1,
-					"CF": 0,
-					"LF": 17,
-					"GEN": 41
-				}
-			},
-			{
 				"file": "Tsou_Tsou/TsouNr-lovestory-zheng",
 				"type": "Narrative",
 				"speaker": "鄭振宗, None, male, None",
@@ -2537,7 +2516,7 @@
 			{
 				"file": "Tsou_Tsou/TsouConv-informants",
 				"type": "Conversation",
-				"speaker": "汪明輝, None, male, None",
+				"speaker": "汪明輝和汪幸時, None, male, None",
 				"collected": "None",
 				"topic": "Informants",
 				"iu_num": 298,
@@ -2553,6 +2532,27 @@
 					"CF": 0,
 					"LF": 42,
 					"GEN": 93
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-pear-story-3",
+				"type": "Narrative",
+				"speaker": "鄭信得, None, Male, None",
+				"collected": "None",
+				"topic": "Pear Story 3",
+				"iu_num": 124,
+				"sent_num": 33,
+				"record_time": 0,
+				"marker": {
+					"AF": 112,
+					"NAF": 42,
+					"PF": 27,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 41
 				}
 			},
 			{
