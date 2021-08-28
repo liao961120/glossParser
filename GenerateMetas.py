@@ -42,7 +42,7 @@ def main():
                 t['sent_num'] for t in meta[lang.stem]['text'])
         elif 'grammar' in str(lang.absolute()):
             meta[lang.stem]['summary']['grammar']['sent_num'] = sum(
-                t['grammar'] for t in meta[lang.stem]['text'])
+                t['sent_num'] for t in meta[lang.stem]['text'])
         else:
             for k in ['iu_num', 'sent_num', 'record_time']:
                 meta[lang.stem]['summary']['story'][k] = round(
