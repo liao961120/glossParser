@@ -11,5 +11,8 @@ form-corp-data.json
 /docs/sentence
 /docs/story
 /docs/grammar
-/docs/*
+/docs/all_lang.json
+/docs/cache.pkl
+/docs/raw-data.log
+/docs/text-meta.json
 /raw-data/*
