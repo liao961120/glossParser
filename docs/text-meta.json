@@ -9,6 +9,9 @@
 			"sentence": {
 				"sent_num": 3963
 			},
+			"grammar": {
+				"sent_num": 0
+			},
 			"marker": {
 				"AF": 1622,
 				"NAF": 0,
@@ -1783,6 +1786,9 @@
 			"sentence": {
 				"sent_num": 1899
 			},
+			"grammar": {
+				"sent_num": 0
+			},
 			"marker": {
 				"AF": 4,
 				"NAF": 0,
@@ -3065,6 +3071,9 @@
 			"sentence": {
 				"sent_num": 0
 			},
+			"grammar": {
+				"sent_num": 0
+			},
 			"marker": {
 				"AF": 706,
 				"NAF": 0,
@@ -3468,6 +3477,9 @@
 			"sentence": {
 				"sent_num": 0
 			},
+			"grammar": {
+				"sent_num": 0
+			},
 			"marker": {
 				"AF": 982,
 				"NAF": 206,
@@ -3596,6 +3608,9 @@
 				"record_time": 3613.99
 			},
 			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
@@ -3874,6 +3889,9 @@
 			},
 			"sentence": {
 				"sent_num": 2434
+			},
+			"grammar": {
+				"sent_num": 0
 			},
 			"marker": {
 				"AF": 923,
@@ -4405,6 +4423,9 @@
 				"record_time": 10661.93
 			},
 			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
@@ -5083,6 +5104,9 @@
 			"sentence": {
 				"sent_num": 0
 			},
+			"grammar": {
+				"sent_num": 0
+			},
 			"marker": {
 				"AF": 742,
 				"NAF": 0,
@@ -5421,6 +5445,9 @@
 				"record_time": 7500.79
 			},
 			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
@@ -5930,6 +5957,9 @@
 			},
 			"sentence": {
 				"sent_num": 0
+			},
+			"grammar": {
+				"sent_num": 2765
 			},
 			"marker": {
 				"AF": 3440,
@@ -7014,6 +7044,246 @@
 					"LF": 2,
 					"GEN": 12
 				}
+			},
+			{
+				"file": "Seediq_Tgdaya/07",
+				"type": "GrammarBook",
+				"sent_num": 15,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/11",
+				"type": "GrammarBook",
+				"sent_num": 63,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/08",
+				"type": "GrammarBook",
+				"sent_num": 24,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/09",
+				"type": "GrammarBook",
+				"sent_num": 27,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/13",
+				"type": "GrammarBook",
+				"sent_num": 44,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/ap1",
+				"type": "GrammarBook",
+				"sent_num": 54,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/12",
+				"type": "GrammarBook",
+				"sent_num": 20,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/06",
+				"type": "GrammarBook",
+				"sent_num": 50,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/15",
+				"type": "GrammarBook",
+				"sent_num": 18,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/10",
+				"type": "GrammarBook",
+				"sent_num": 34,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/ap2",
+				"type": "GrammarBook",
+				"sent_num": 54,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/14",
+				"type": "GrammarBook",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/05",
+				"type": "GrammarBook",
+				"sent_num": 36,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/04",
+				"type": "GrammarBook",
+				"sent_num": 41,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/03",
+				"type": "GrammarBook",
+				"sent_num": 6,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
 			}
 		]
 	},
@@ -7025,6 +7295,9 @@
 				"record_time": 2544.89
 			},
 			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
@@ -7197,6 +7470,9 @@
 				"record_time": 4043.28
 			},
 			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {

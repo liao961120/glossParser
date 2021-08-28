@@ -41,9 +41,10 @@ def main():
             meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
         elif 'grammar' in str(lang.absolute()):
+            print(lang)
             meta[lang.stem]['summary']['grammar']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
-        else:
+        elif 'story' in str(lang.absolute()):
             for k in ['iu_num', 'sent_num', 'record_time']:
                 meta[lang.stem]['summary']['story'][k] = round(
                     sum(t[k] for t in meta[lang.stem]['text']), 2)
@@ -69,7 +70,7 @@ def get_info(path):
         try:
             info[k] = meta[k]
         except:
-            print(f"WARNRING: no key: {k} in meta of {path}")
+            print(f"WARNRING: no key: `{k}` in meta of {path}")
             pass
     
     if DATA.story_dirname in str(path.absolute()):
@@ -79,9 +80,7 @@ def get_info(path):
         #info['transcribed'] = meta['Transcribed by']
 
     # Text data info
-    if DATA.sentence_dirname in str(path.absolute()) or DATA.grammar_dirname in str(path.absolute()):
-        info['sent_num'] = len(text["glosses"])
-    else:
+    if DATA.story_dirname in str(path.absolute()):
         info['iu_num'] = len(text["glosses"])
         info['sent_num'] = sum(g[1]['s_end'] for g in text['glosses'])
 
@@ -91,6 +90,8 @@ def get_info(path):
             if isinstance(end_time, float):
                 info['record_time'] = end_time
                 break
+    else:
+        info['sent_num'] = len(text["glosses"])
     
     # Linguistic info
     info["marker"] = count_markers(text)
