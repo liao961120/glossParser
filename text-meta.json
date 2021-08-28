@@ -1859,6 +1859,7 @@
 			{
 				"file": "Seediq_Tgdaya/04",
 				"type": "GrammarBook",
+				"topic": "第四章 基本句型與詞序",
 				"sent_num": 41,
 				"marker": {
 					"AF": 0,
@@ -1875,6 +1876,7 @@
 			{
 				"file": "Seediq_Tgdaya/05",
 				"type": "GrammarBook",
+				"topic": "第五章 格位標記與代名詞系統",
 				"sent_num": 36,
 				"marker": {
 					"AF": 0,
@@ -1891,6 +1893,7 @@
 			{
 				"file": "Seediq_Tgdaya/12",
 				"type": "GrammarBook",
+				"topic": "第十二章 連動結構",
 				"sent_num": 20,
 				"marker": {
 					"AF": 0,
@@ -1907,6 +1910,7 @@
 			{
 				"file": "Seediq_Tgdaya/15",
 				"type": "GrammarBook",
+				"topic": "第十五章 並列結構",
 				"sent_num": 18,
 				"marker": {
 					"AF": 0,
@@ -1923,6 +1927,7 @@
 			{
 				"file": "Seediq_Tgdaya/ap1",
 				"type": "GrammarBook",
+				"topic": "長篇語料一 洪水的故事",
 				"sent_num": 54,
 				"marker": {
 					"AF": 0,
@@ -1939,6 +1944,7 @@
 			{
 				"file": "Seediq_Tgdaya/ap2",
 				"type": "GrammarBook",
+				"topic": "長篇語料二 兩個太陽的故事",
 				"sent_num": 54,
 				"marker": {
 					"AF": 0,
@@ -1955,6 +1961,7 @@
 			{
 				"file": "Seediq_Tgdaya/03",
 				"type": "GrammarBook",
+				"topic": "第三章 詞彙與構詞",
 				"sent_num": 6,
 				"marker": {
 					"AF": 0,
@@ -1971,6 +1978,7 @@
 			{
 				"file": "Seediq_Tgdaya/07",
 				"type": "GrammarBook",
+				"topic": "第七章 存在句、所有句和方位句結構",
 				"sent_num": 15,
 				"marker": {
 					"AF": 0,
@@ -1987,6 +1995,7 @@
 			{
 				"file": "Seediq_Tgdaya/10",
 				"type": "GrammarBook",
+				"topic": "第十章 否定句結構",
 				"sent_num": 34,
 				"marker": {
 					"AF": 0,
@@ -2003,6 +2012,7 @@
 			{
 				"file": "Seediq_Tgdaya/14",
 				"type": "GrammarBook",
+				"topic": "第十四章 修飾結構",
 				"sent_num": 23,
 				"marker": {
 					"AF": 0,
@@ -2019,6 +2029,7 @@
 			{
 				"file": "Seediq_Tgdaya/11",
 				"type": "GrammarBook",
+				"topic": "第十一章 疑問句結構",
 				"sent_num": 63,
 				"marker": {
 					"AF": 0,
@@ -2035,6 +2046,7 @@
 			{
 				"file": "Seediq_Tgdaya/08",
 				"type": "GrammarBook",
+				"topic": "第八章 祈使句結構",
 				"sent_num": 24,
 				"marker": {
 					"AF": 0,
@@ -2051,6 +2063,7 @@
 			{
 				"file": "Seediq_Tgdaya/06",
 				"type": "GrammarBook",
+				"topic": "第六章 焦點系統與時貌語氣系統",
 				"sent_num": 50,
 				"marker": {
 					"AF": 0,
@@ -2067,6 +2080,7 @@
 			{
 				"file": "Seediq_Tgdaya/09",
 				"type": "GrammarBook",
+				"topic": "第九章 使動結構",
 				"sent_num": 27,
 				"marker": {
 					"AF": 0,
@@ -2083,6 +2097,7 @@
 			{
 				"file": "Seediq_Tgdaya/13",
 				"type": "GrammarBook",
+				"topic": "第十三章 補語結構",
 				"sent_num": 44,
 				"marker": {
 					"AF": 0,
