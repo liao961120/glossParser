@@ -1857,11 +1857,9 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/3",
+				"file": "Seediq_Tgdaya/04",
 				"type": "GrammarBook",
-				"iu_num": 6,
-				"sent_num": 6,
-				"record_time": 0,
+				"sent_num": 41,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1875,11 +1873,9 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/6",
+				"file": "Seediq_Tgdaya/05",
 				"type": "GrammarBook",
-				"iu_num": 50,
-				"sent_num": 50,
-				"record_time": 0,
+				"sent_num": 36,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1895,9 +1891,7 @@
 			{
 				"file": "Seediq_Tgdaya/12",
 				"type": "GrammarBook",
-				"iu_num": 20,
 				"sent_num": 20,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1913,9 +1907,7 @@
 			{
 				"file": "Seediq_Tgdaya/15",
 				"type": "GrammarBook",
-				"iu_num": 18,
 				"sent_num": 18,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1931,9 +1923,7 @@
 			{
 				"file": "Seediq_Tgdaya/ap1",
 				"type": "GrammarBook",
-				"iu_num": 54,
 				"sent_num": 54,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1949,9 +1939,7 @@
 			{
 				"file": "Seediq_Tgdaya/ap2",
 				"type": "GrammarBook",
-				"iu_num": 54,
 				"sent_num": 54,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1965,47 +1953,25 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/7",
+				"file": "Seediq_Tgdaya/03",
 				"type": "GrammarBook",
-				"iu_num": 15,
+				"sent_num": 6,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/07",
+				"type": "GrammarBook",
 				"sent_num": 15,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/4",
-				"type": "GrammarBook",
-				"iu_num": 41,
-				"sent_num": 41,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/9",
-				"type": "GrammarBook",
-				"iu_num": 27,
-				"sent_num": 27,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2021,9 +1987,7 @@
 			{
 				"file": "Seediq_Tgdaya/10",
 				"type": "GrammarBook",
-				"iu_num": 34,
 				"sent_num": 34,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2039,9 +2003,7 @@
 			{
 				"file": "Seediq_Tgdaya/14",
 				"type": "GrammarBook",
-				"iu_num": 23,
 				"sent_num": 23,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2057,9 +2019,7 @@
 			{
 				"file": "Seediq_Tgdaya/11",
 				"type": "GrammarBook",
-				"iu_num": 63,
 				"sent_num": 63,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2073,29 +2033,41 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/5",
+				"file": "Seediq_Tgdaya/08",
 				"type": "GrammarBook",
-				"iu_num": 36,
-				"sent_num": 36,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/8",
-				"type": "GrammarBook",
-				"iu_num": 24,
 				"sent_num": 24,
-				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/06",
+				"type": "GrammarBook",
+				"sent_num": 50,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/09",
+				"type": "GrammarBook",
+				"sent_num": 27,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2111,9 +2083,7 @@
 			{
 				"file": "Seediq_Tgdaya/13",
 				"type": "GrammarBook",
-				"iu_num": 44,
 				"sent_num": 44,
-				"record_time": 0,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
