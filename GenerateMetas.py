@@ -37,9 +37,12 @@ def main():
             meta[lang.stem]['text'].append(get_info(text))
 
         # Get summaries
-        if 'sentence' in str(lang.absolute()) or 'grammar' in str(lang.absolute()) :
+        if 'sentence' in str(lang.absolute()):
             meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
+        elif 'grammar' in str(lang.absolute()):
+            meta[lang.stem]['summary']['grammar']['sent_num'] = sum(
+                t['grammar'] for t in meta[lang.stem]['text'])
         else:
             for k in ['iu_num', 'sent_num', 'record_time']:
                 meta[lang.stem]['summary']['story'][k] = round(
