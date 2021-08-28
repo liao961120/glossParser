@@ -7,7 +7,7 @@ class Data:
     corpus_files_root = "raw-data/"
     story_files_raw = "raw-data/story/"
     sentence_files_raw = "raw-data/sentence/"
-    grammar_files_raw = "raw-data/grammarBook/"
+    grammar_files_raw = "raw-data/grammar/"
 
     # Publish files
     public = "docs/"

@@ -41,7 +41,6 @@ def main():
             meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
         elif 'grammar' in str(lang.absolute()):
-            print(lang)
             meta[lang.stem]['summary']['grammar']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
         elif 'story' in str(lang.absolute()):
@@ -73,7 +72,7 @@ def get_info(path):
             print(f"WARNRING: no key: `{k}` in meta of {path}")
             pass
     
-    if DATA.story_dirname in str(path.absolute()):
+    if DATA.story_dirname in str(path.absolute()) or DATA.grammar_dirname in str(path.absolute()):
         info['topic'] = meta['topic']
     else:
         pass
