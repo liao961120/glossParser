@@ -10,3 +10,6 @@ form-corp-data.json
 *.csv
 /docs/sentence
 /docs/story
+/docs/grammar
+/docs/*
+/raw-data/*

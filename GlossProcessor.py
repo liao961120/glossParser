@@ -226,6 +226,9 @@ def tokenize_glosses(glosses, filename):
         }
         if s_audio_span is not None:
             g['s_a_span'] = s_audio_span
+        audio_url = get_audio_url(audio_lines)
+        if audio_url is not None:
+            g['audio_url'] = audio_url
         
         parsed_glosses.append( (glosses[gloss_id][0], g) )
     
@@ -261,6 +264,13 @@ def get_audio_time(free_lines):
             times = [ float(t) if t != 'None' else None for t in times ]
             return times
     return [None, None, None]
+
+
+def get_audio_url(free_lines):
+    for line in free_lines:
+        if re.match(r'#a_url http', line):
+            return line.replace('#a_url ', '')
+    return None
 
 
 def assign_gloss_free_lines(gloss):
