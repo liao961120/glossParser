@@ -10,13 +10,14 @@ LING = [ (re.compile(f"(^{x}$|^{x}[^a-zA-Z]|[^a-zA-Z]{x}$|[^a-zA-Z]{x}[^a-zA-Z])
 DATA = Data()
 STORY = pathlib.Path(DATA.story_files_json)
 SENTENCE = pathlib.Path(DATA.sentence_files_json)
+GRAMMAR = pathlib.Path(DATA.grammar_files_json)
 OUTFILE = DATA.meta
 
 
 def main():
     # Main function
     meta = {}
-    for lang in list(STORY.iterdir()) + list(SENTENCE.iterdir()):
+    for lang in list(STORY.iterdir()) + list(SENTENCE.iterdir()) + list(GRAMMAR.iterdir()):
         if lang.stem not in meta:
             meta[lang.stem] = {
                 'summary': {
@@ -26,6 +27,7 @@ def main():
                         "record_time": 0
                     },
                     "sentence": {"sent_num": 0},
+                    "grammar": {"sent_num": 0},
                     "marker": {}
                 },
                 'text': []
@@ -35,7 +37,7 @@ def main():
             meta[lang.stem]['text'].append(get_info(text))
 
         # Get summaries
-        if 'sentence' in str(lang.absolute()):
+        if 'sentence' in str(lang.absolute()) or 'grammar' in str(lang.absolute()) :
             meta[lang.stem]['summary']['sentence']['sent_num'] = sum(
                 t['sent_num'] for t in meta[lang.stem]['text'])
         else:
@@ -74,7 +76,7 @@ def get_info(path):
         #info['transcribed'] = meta['Transcribed by']
 
     # Text data info
-    if DATA.sentence_dirname in str(path.absolute()):
+    if DATA.sentence_dirname in str(path.absolute()) or DATA.grammar_dirname in str(path.absolute()):
         info['sent_num'] = len(text["glosses"])
     else:
         info['iu_num'] = len(text["glosses"])
