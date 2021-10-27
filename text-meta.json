@@ -4076,7 +4076,7 @@
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 0
+				"sent_num": 1529
 			},
 			"marker": {
 				"AF": 742,
@@ -4404,6 +4404,261 @@
 					"CF": 0,
 					"LF": 3,
 					"GEN": 53
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/14",
+				"type": "GrammarBook",
+				"topic": "第十四章 修飾結構",
+				"sent_num": 29,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/03",
+				"type": "GrammarBook",
+				"topic": "第三章 詞彙與構詞",
+				"sent_num": 5,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/04",
+				"type": "GrammarBook",
+				"topic": "第四章 基本句型與詞序",
+				"sent_num": 44,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/11",
+				"type": "GrammarBook",
+				"topic": "第十一章 疑問句結構",
+				"sent_num": 67,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/15",
+				"type": "GrammarBook",
+				"topic": "第十五章 並列結構",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/06",
+				"type": "GrammarBook",
+				"topic": "第六章 焦點系統與時貌語氣系統",
+				"sent_num": 63,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/07",
+				"type": "GrammarBook",
+				"topic": "第七章 存在句、所有句和方位句結構",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/12",
+				"type": "GrammarBook",
+				"topic": "第十二章 連動結構",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/08",
+				"type": "GrammarBook",
+				"topic": "第八章 祈使句結構",
+				"sent_num": 22,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/ap1",
+				"type": "GrammarBook",
+				"topic": "長篇語料一 石頭火鍋",
+				"sent_num": 78,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/09",
+				"type": "GrammarBook",
+				"topic": "第九章 使動結構",
+				"sent_num": 29,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/05",
+				"type": "GrammarBook",
+				"topic": "第五章 格位標記與代名詞系統",
+				"sent_num": 63,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/13",
+				"type": "GrammarBook",
+				"topic": "第十三章 補語結構",
+				"sent_num": 48,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/10",
+				"type": "GrammarBook",
+				"topic": "第十章 否定句結構",
+				"sent_num": 46,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/ap2",
+				"type": "GrammarBook",
+				"topic": "長篇語料二 咒語和祭司的故事",
+				"sent_num": 68,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
 				}
 			}
 		]
