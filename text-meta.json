@@ -2,26 +2,26 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 2275,
-				"sent_num": 760,
+				"iu_num": 2154,
+				"sent_num": 726,
 				"record_time": 4868.4
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 1269
+				"sent_num": 1235
 			},
 			"marker": {
-				"AF": 1122,
+				"AF": 1078,
 				"NAF": 0,
-				"PF": 285,
-				"RF": 22,
-				"IF": 1,
+				"PF": 277,
+				"RF": 19,
+				"IF": 0,
 				"BF": 0,
 				"CF": 1,
-				"LF": 171,
-				"GEN": 566
+				"LF": 153,
+				"GEN": 541
 			}
 		},
 		"text": [
@@ -233,27 +233,6 @@
 					"CF": 0,
 					"LF": 11,
 					"GEN": 41
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
-				"type": "Narrative",
-				"speaker": "",
-				"collected": "None",
-				"topic": "taboo",
-				"iu_num": 100,
-				"sent_num": 19,
-				"record_time": 0,
-				"marker": {
-					"AF": 33,
-					"NAF": 0,
-					"PF": 7,
-					"RF": 1,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 12,
-					"GEN": 23
 				}
 			},
 			{
@@ -485,27 +464,6 @@
 					"CF": 0,
 					"LF": 4,
 					"GEN": 3
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
-				"type": "Narrative",
-				"speaker": "Pawan",
-				"collected": "None",
-				"topic": "tattoo2",
-				"iu_num": 21,
-				"sent_num": 15,
-				"record_time": 0,
-				"marker": {
-					"AF": 11,
-					"NAF": 0,
-					"PF": 1,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 6,
-					"GEN": 2
 				}
 			},
 			{
@@ -6414,7 +6372,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Jimmy-1",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeai, M, 1946",
+				"speaker": "巴山光, Legeai, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 21,
 				"marker": {
@@ -6432,7 +6390,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-yuki-1",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, F, 1961",
+				"speaker": "柯菊華, Legeane, female, 1961",
 				"collected": "2020-05-29",
 				"sent_num": 14,
 				"marker": {
@@ -6450,7 +6408,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Lixing",
 				"type": "Sentence",
-				"speaker": "許進登, Bikare, M, 1950",
+				"speaker": "許進登, Bikare, male, 1950",
 				"collected": "2020-05-31",
 				"sent_num": 17,
 				"marker": {
@@ -6468,7 +6426,7 @@
 			{
 				"file": "Rukai_Vedai/20200513-CL-8",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-05-13",
 				"sent_num": 24,
 				"marker": {
@@ -6486,7 +6444,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 46,
 				"marker": {
@@ -6504,7 +6462,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Jimmy-2",
 				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, M, 1959",
+				"speaker": "賴天賜, Baludase, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 5,
 				"marker": {
@@ -6522,7 +6480,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ken",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Padrangedrange, M,  1946",
+				"speaker": "巴山光, Legeay Padrangedrange, male, 1946",
 				"collected": "2020-05-28",
 				"sent_num": 23,
 				"marker": {
@@ -6540,7 +6498,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Andrea-1",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, F, 1961",
+				"speaker": "柯菊華, Legeane, female, 1961",
 				"collected": "2020-05-30",
 				"sent_num": 17,
 				"marker": {
@@ -6558,7 +6516,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-yuki",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Parangerange, M, 1946",
+				"speaker": "巴山光, Legeay Parangerange, male, 1946",
 				"collected": "2020-05-31",
 				"sent_num": 48,
 				"marker": {
@@ -6576,7 +6534,7 @@
 			{
 				"file": "Rukai_Vedai/20200408-CL-3",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-04-08",
 				"sent_num": 17,
 				"marker": {
@@ -6594,7 +6552,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Andrea-1",
 				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, M, 1959",
+				"speaker": "賴天賜, Baludase, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 9,
 				"marker": {
@@ -6612,7 +6570,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 13,
 				"marker": {
@@ -6630,7 +6588,7 @@
 			{
 				"file": "Rukai_Vedai/20200429-CL-6",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-04-29",
 				"sent_num": 19,
 				"marker": {
@@ -6648,7 +6606,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-yuki",
 				"type": "Sentence",
-				"speaker": "許進登, Bikar, M, 1950",
+				"speaker": "許進登, Bikar, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 24,
 				"marker": {
@@ -6666,7 +6624,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, M, 1959",
+				"speaker": "賴天賜, Baludase, male, 1959",
 				"collected": "2020-05-31",
 				"sent_num": 30,
 				"marker": {
@@ -6684,7 +6642,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ken-1",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane / Balenge Kasepelane, F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-05-30",
 				"sent_num": 17,
 				"marker": {
@@ -6702,7 +6660,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, F, 1961",
+				"speaker": "柯菊華, Legeane, female, 1961",
 				"collected": "2020-05-29",
 				"sent_num": 37,
 				"marker": {
@@ -6720,7 +6678,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Lixing-2",
 				"type": "Sentence",
-				"speaker": "宋文臣, Leageayi, M, 1936",
+				"speaker": "宋文臣, Leageayi, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 15,
 				"marker": {
@@ -6738,7 +6696,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ken-1",
 				"type": "Sentence",
-				"speaker": "宋文臣, Legeay Sukinatimi, M, 1936",
+				"speaker": "宋文臣, Legeay Sukinatimi, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 17,
 				"marker": {
@@ -6756,7 +6714,7 @@
 			{
 				"file": "Rukai_Vedai/20200325-CL-2",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-03-25",
 				"sent_num": 23,
 				"marker": {
@@ -6774,7 +6732,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ludwig",
 				"type": "Sentence",
-				"speaker": "許進登, Bikar, M, 1950",
+				"speaker": "許進登, Bikar, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 26,
 				"marker": {
@@ -6792,7 +6750,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ken-2",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 11,
 				"marker": {
@@ -6810,7 +6768,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Andrea",
 				"type": "Sentence",
-				"speaker": "許進登, Bikar, M, 1950",
+				"speaker": "許進登, Bikar, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 19,
 				"marker": {
@@ -6828,7 +6786,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Andrea-2",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeai, M, 1946",
+				"speaker": "巴山光, Legeai, male, 1946",
 				"collected": "2020-05-29",
 				"sent_num": 35,
 				"marker": {
@@ -6846,7 +6804,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ken-2",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Parangerange, M, 1946",
+				"speaker": "巴山光, Legeay Parangerange, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 26,
 				"marker": {
@@ -6864,7 +6822,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Yongfu-2",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 15,
 				"marker": {
@@ -6882,7 +6840,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Jimmy-2",
 				"type": "Sentence",
-				"speaker": "宋文臣, Leageayi, M, 1936",
+				"speaker": "宋文臣, Leageayi, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 14,
 				"marker": {
@@ -6900,7 +6858,7 @@
 			{
 				"file": "Rukai_Vedai/20200422-CL-5",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-04-22",
 				"sent_num": 19,
 				"marker": {
@@ -6918,7 +6876,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Yongfu",
 				"type": "Sentence",
-				"speaker": "麥長老, Baelrece, M, 1958",
+				"speaker": "麥長老, Baelrece, male, 1958",
 				"collected": "2020-05-28",
 				"sent_num": 26,
 				"marker": {
@@ -6936,7 +6894,7 @@
 			{
 				"file": "Rukai_Vedai/20200318-CL-1",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華,  Balenge, female, 1961",
 				"collected": "2020-03-18",
 				"sent_num": 10,
 				"marker": {
@@ -6954,7 +6912,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Jimmy",
 				"type": "Sentence",
-				"speaker": "麥長老, Baelrece, M, 1958",
+				"speaker": "麥長老, Baelrece, male, 1958",
 				"collected": "2020-05-28",
 				"sent_num": 16,
 				"marker": {
@@ -6972,7 +6930,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Lixing-2",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 6,
 				"marker": {
@@ -6990,7 +6948,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "許進登, Bikar, M, 1950",
+				"speaker": "許進登, Bikar, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 23,
 				"marker": {
@@ -7008,7 +6966,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, F, 1961 / 巴山光, Legeai Padrangedrange, M, 1946",
+				"speaker": "柯菊華, Legeane, female, 1961 / 巴山光, Legeai Padrangedrange, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 19,
 				"marker": {
@@ -7026,7 +6984,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeai, M, 1946",
+				"speaker": "巴山光, Legeai, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 23,
 				"marker": {
@@ -7044,7 +7002,7 @@
 			{
 				"file": "Rukai_Vedai/20200508-CL-7",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-05-08",
 				"sent_num": 23,
 				"marker": {
@@ -7062,7 +7020,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Jimmy-1",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 11,
 				"marker": {
@@ -7080,7 +7038,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Jess",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, F, 1961/巴山光, Legeai Padrangedrange, M, 1946",
+				"speaker": "柯菊華, Legeane, female, 1961/巴山光, Legeai Padrangedrange, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 25,
 				"marker": {
@@ -7098,7 +7056,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-31",
 				"sent_num": 25,
 				"marker": {
@@ -7116,7 +7074,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Yongfu-2",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legaane, F, 1961",
+				"speaker": "柯菊華, Legaane, female, 1961",
 				"collected": "2020-05-31",
 				"sent_num": 16,
 				"marker": {
@@ -7134,7 +7092,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Andrea-2",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, F, 1961",
+				"speaker": "柯菊華, Legeane, female, 1961",
 				"collected": "2020-05-30",
 				"sent_num": 10,
 				"marker": {
@@ -7152,7 +7110,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 37,
 				"marker": {
@@ -7170,7 +7128,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Yongfu-2",
 				"type": "Sentence",
-				"speaker": "宋文臣, Leageayi, M, 1936",
+				"speaker": "宋文臣, Leageayi, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 19,
 				"marker": {
@@ -7188,7 +7146,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Jess",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Padrangedrange, M,  1946",
+				"speaker": "巴山光, Legeay Padrangedrange, male, 1946",
 				"collected": "2020-05-28",
 				"sent_num": 10,
 				"marker": {
@@ -7206,7 +7164,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Lixing-1",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 11,
 				"marker": {
@@ -7224,7 +7182,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Jess",
 				"type": "Sentence",
-				"speaker": "宋文臣, Legeay Sukinatimi, M, 1936/ 賴天賜, Paludase Aluladen, M, 1959",
+				"speaker": "宋文臣, Legeay Sukinatimi, male, 1936/ 賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 19,
 				"marker": {
@@ -7242,7 +7200,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-yuki-2",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeai, M, 1946",
+				"speaker": "巴山光, Legeai, male, 1946",
 				"collected": "2020-05-29",
 				"sent_num": 28,
 				"marker": {
@@ -7260,7 +7218,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Lixing-1",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeai, M, 1946",
+				"speaker": "巴山光, Legeai, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 18,
 				"marker": {
@@ -7278,7 +7236,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Padrangedrange, M,  1946 /宋文成, Legeay Sukinatimi, M, 1936",
+				"speaker": "巴山光, Legeay Padrangedrange, male, 1946 /宋文成, Legeay Sukinatimi, male, 1936",
 				"collected": "2020-05-28",
 				"sent_num": 36,
 				"marker": {
@@ -7296,7 +7254,7 @@
 			{
 				"file": "Rukai_Vedai/20200415-CL-4",
 				"type": "Sentence",
-				"speaker": "柯菊華, Legeane (父) / Balenge (母), F, 1961",
+				"speaker": "柯菊華, Balenge, female, 1961",
 				"collected": "2020-04-15",
 				"sent_num": 19,
 				"marker": {
