@@ -9,6 +9,7 @@ Seediq_Tgdaya/sdqNr-seediq_dakis 2020s,Seediq_Tgdaya,Narrative,seediq,"郭明正
 Seediq_Tgdaya/sdqCon-dialog3_robo_bakan 2021s,Seediq_Tgdaya,Conversation,sdqCon-dialog3_robo_bakan,"郭溫月桃, Robo Walis, female, 1934",2013-09-15,NA,68,28,0:01:48
 Seediq_Tgdaya/sdqCon-dialog1_ciwas_tiwas 2021s,Seediq_Tgdaya,Conversation,sdqCon-dialog1_ciwas_tiwas,"蔡茂琳, Pawan Nawi, female, 1915",1991-08-09,NA,95,52,0:02:14
 Seediq_Tgdaya/sdqNr-pear_aking 2020s,Seediq_Tgdaya,Narrative,pear,"黃美玉, Aking Nawi, female, 1952",2007-03-19,NA,95,25,0:04:13
+Seediq_Tgdaya/sdqNr-taboo_pawan 2021s,Seediq_Tgdaya,Narrative,taboo,NA,NA,NA,100,19,0:00:00
 Seediq_Tgdaya/sdqNr-frog_aking 2020s,Seediq_Tgdaya,Narrative,frog,"黃美玉, Aking Nawi, female, 1952",NA,NA,99,20,0:02:54
 Seediq_Tgdaya/sdqNr-pear_pawan 2020s,Seediq_Tgdaya,Narrative,pear,"錢成鏡, None, male, None",NA,NA,84,17,0:02:10
 Seediq_Tgdaya/sdqNr-south_pawan 2021s,Seediq_Tgdaya,Narrative,south,"王文則, Pawan Nawi, male, 1926",1997-04-05,NA,99,28,0:02:42
@@ -20,6 +21,7 @@ Seediq_Tgdaya/sdqCon-dialog5_dakis_takun 2020s,Seediq_Tgdaya,Conversation,sdqCon
 Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s,Seediq_Tgdaya,Conversation,sdqCon-plum_uma_robo,"邱紅春蘭, Uma Nokan, female, 1932",NA,NA,99,31,0:02:46
 Seediq_Tgdaya/sdqNr-ricah_uma 2021s,Seediq_Tgdaya,Narrative,ricah,"邱紅春蘭, Uma Nokan, female, 1932",2007-05-07,NA,54,13,0:01:37
 Seediq_Tgdaya/sdqNr-medicine_robo pihu 2020s,Seediq_Tgdaya,Narrative,medicine,"曾鴛鴦, Robo Pihu, female, 1928",NA,NA,53,25,0:02:00
+Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s,Seediq_Tgdaya,Narrative,tattoo2,"李正祿, Awi Pawan, male, None",NA,NA,21,15,0:00:00
 Seediq_Tgdaya/sdqNr-sinobale_uma 2021s,Seediq_Tgdaya,Narrative,sinobale,"邱紅春蘭, Uma Nokan, female, 1932",1997-04-04,NA,32,21,0:00:59
 Seediq_Tgdaya/sdqNr-frog_temi,Seediq_Tgdaya,Narrative,frog,"曾瑞琳, Temi Nawi, female, 1939",NA,NA,100,26,0:10:05
 Seediq_Tgdaya/sdqNr-pear_lubi 2020s,Seediq_Tgdaya,Narrative,pear,"謝美, Lubi Nomin, female, None",NA,NA,87,16,0:02:19
@@ -48,7 +50,7 @@ Atayal_Mayrinax/AtaNr-hunting2_Buyung,Atayal_Mayrinax,Narrative,Hunting 2,"林�
 Atayal_Mayrinax/AtaNr-dailylife1_Iwan,Atayal_Mayrinax,Narrative,Daily Life 1,"劉春香, Iwan, female, None",2011-04-01,NA,79,21,0:02:38
 Atayal_Mayrinax/AtaNr-moving_Takun,Atayal_Mayrinax,Narrative,Moving 1,"劉建和, Takun, male, 1946",2011-04-01,NA,180,57,0:07:41
 Atayal_Mayrinax/AtaNr-proposal_Takun,Atayal_Mayrinax,Narrative,Proposal,"劉建和, Takun, male, 1946",2011-04-01,NA,150,40,0:08:26
-Atayal_Mayrinax/AtaNr-moving_Kainu,Atayal_Mayrinax,Narrative,Moving 2,"劉國基, Kainu, male, 1941",NA,NA,207,47,0:08:23
+Atayal_Mayrinax/AtaNr-moving_Kainu,Atayal_Mayrinax,Narrative,Moving 2,"劉國基, Kainu, male, 1941",2011-04-01,NA,207,47,0:08:23
 Bunun_Isbukun/bnNr-pear_Laniahu,Bunun_Isbukun,Narrative,pear_Laniahu,"顏光榮, Laniahu Isbalidav, Male, None",2017-01-02,NA,179,93,0:06:32
 Bunun_Isbukun/bnNr-lazy-daughter_Hanaivaz,Bunun_Isbukun,Narrative,lazy-daughter-in-law_Hanaivaz,"顏雲英, Hanaivaz Takistaulan, Female, 1950",2016-03-23,NA,221,117,0:10:56
 Bunun_Isbukun/bnNr-frog_Adus,Bunun_Isbukun,Narrative,frog_Adus,"顏洪, Adus Baingkinuaz, Female, None",2017-01-02,NA,197,95,0:08:02
@@ -110,7 +112,7 @@ Bunun_Isbukun/44,Bunun_Isbukun,Sentence,NA,"顏雲英, Hanaivaz Takistaulan, F, 
 Bunun_Isbukun/16,Bunun_Isbukun,Sentence,NA,"顏光明, Talum Ispalidav, M, 1958",2016-06-05,NA,0,17,0:00:00
 Bunun_Isbukun/09,Bunun_Isbukun,Sentence,NA,"顏光明, Talum Ispalidav, M, 1958",2016-06-05,NA,0,8,0:00:00
 Bunun_Isbukun/45,Bunun_Isbukun,Sentence,NA,"顏有利, Ciang Ispalidav, M, 1944",2016-06-05,NA,0,4,0:00:00
-Bunun_Isbukun/02,Bunun_Isbukun,Sentence,NA,NA,NA,NA,0,29,0:00:00
+Bunun_Isbukun/02,Bunun_Isbukun,Sentence,NA,"None, None, None, None",NA,NA,0,29,0:00:00
 Bunun_Isbukun/48,Bunun_Isbukun,Sentence,NA,"顏雲英, Hanaiva Takiztaulan, F, 1950",2016-04-12,NA,0,23,0:00:00
 Bunun_Isbukun/03-6,Bunun_Isbukun,Sentence,NA,"顏有利, Ciang Ispalidav, M, 1944",2016-06-05,NA,0,10,0:00:00
 Bunun_Isbukun/37,Bunun_Isbukun,Sentence,NA,"顏雲英, Hanaivaz Takistaulan, Female, 1950",2016-06-05,NA,0,10,0:00:00
@@ -152,7 +154,7 @@ Saisiyat_Tong-he/SaiNr-frog8_parain a _oemaw,Saisiyat_Tong-he,Narrative,frog8,"�
 Saisiyat_Tong-he/SaiNr-flood_waon a boong,Saisiyat_Tong-he,Narrative,flood,"風玉雲, waon a bo:ong, female, 1943",2003-01-01,NA,160,71,0:05:14
 Saisiyat_Tong-he/SaiNr-frog5__awi_ a basi_,Saisiyat_Tong-he,Narrative,frog5,"日繁雄, 'awi' a basi', male, 1945",2003-01-01,NA,278,92,0:09:47
 Saisiyat_Tong-he/SaiNr-pear3_kalaeh a taro_,Saisiyat_Tong-he,Narrative,pear3,"風秀郎, kalaeh a taro', male, 1937",2002-01-01,NA,50,22,0:01:55
-Saisiyat_Tong-he/SaiNr-anhi,Saisiyat_Tong-he,Narrative,anhi,NA,NA,NA,26,7,0:01:10
+Saisiyat_Tong-he/SaiNr-anhi,Saisiyat_Tong-he,Narrative,anhi,NA,2003-01-01,NA,26,7,0:01:10
 Saisiyat_Tong-he/SaiNr-frog3_'oemaw_a_basi',Saisiyat_Tong-he,Narrative,frog3,"None, 'oemaw a basi', Male, None",2003-01-01,NA,181,80,0:04:52
 Saisiyat_Tong-he/SaiNr-Molaw,Saisiyat_Tong-he,Narrative,Molaw,"高德盛, parain a 'oemaw, Male, 1928",2003-01-01,NA,97,30,0:02:46
 Saisiyat_Tong-he/SaiNr-frog6_kalaeh a _oemaw,Saisiyat_Tong-he,Narrative,frog6,"朱阿良, kalaeh a oemaw, male, 1928",2003-01-01,NA,179,67,0:07:50
@@ -232,7 +234,7 @@ Sakizaya_Sakizaya/05,Sakizaya_Sakizaya,GrammarBook,第五章 格位標記與代�
 Sakizaya_Sakizaya/13,Sakizaya_Sakizaya,GrammarBook,第十三章 補語結構,NA,NA,NA,0,48,0:00:00
 Sakizaya_Sakizaya/10,Sakizaya_Sakizaya,GrammarBook,第十章 否定句結構,NA,NA,NA,0,46,0:00:00
 Sakizaya_Sakizaya/ap2,Sakizaya_Sakizaya,GrammarBook,長篇語料二 咒語和祭司的故事,NA,NA,NA,0,68,0:00:00
-Amis_Ciwkangan/Amis_Nr-frog_cinhua,Amis_Ciwkangan,Narrative,Frog Story,"嚴金花, Cinhua, female, None",0000-00-00,NA,175,49,0:04:21
+Amis_Ciwkangan/Amis_Nr-frog_cinhua,Amis_Ciwkangan,Narrative,Frog Story,"嚴金花, Cinhua, female, None",2005-05-19,NA,175,49,0:04:21
 Amis_Ciwkangan/Amis_Nr-pear_panay,Amis_Ciwkangan,Narrative,Pear Story,"李金妹, Panay, female, 1949",2007-01-05,NA,163,46,0:04:53
 Amis_Ciwkangan/Amis_Conv-farming_marang_furayang,Amis_Ciwkangan,Conversation,Farming,"高林春花, Furayang, female, None",2005-05-13,NA,231,64,0:05:30
 Amis_Ciwkangan/Amis_Nr-pear_minzhu,Amis_Ciwkangan,Narrative,Pear Story,"嚴敏珠, Minzhu, female, None",2003-06-01,NA,187,47,0:04:33
@@ -245,11 +247,11 @@ Amis_Ciwkangan/Amis_Nr-frog_zuomei,Amis_Ciwkangan,Narrative,Frog Story,"嚴胡�
 Amis_Ciwkangan/Amis_Nr-intro_Panay,Amis_Ciwkangan,Narrative,Self-introduction,"李金妹, Panay, female, 1949",2007-01-05,NA,45,13,0:01:12
 Amis_Ciwkangan/Amis_Nr-crab_panay,Amis_Ciwkangan,Narrative,Crab,"李金妹, Panay, female, 1949",2004-04-04,NA,85,25,0:01:57
 Amis_Ciwkangan/Amis_Nr-peanut_panay,Amis_Ciwkangan,Narrative,Peanut,"李金妹, Panay, female, 1949",2003-04-04,NA,64,12,0:01:26
-Amis_Ciwkangan/Amis_Nr-pear_tamih,Amis_Ciwkangan,Narrative,Pear Story,"林茂德, Tamih, male, 1926",NA,NA,39,10,0:00:53
+Amis_Ciwkangan/Amis_Nr-pear_tamih,Amis_Ciwkangan,Narrative,Pear Story,"林茂德, Tamih, male, 1926",2007-01-05,NA,39,10,0:00:53
 Amis_Ciwkangan/Amis_Nr-frog_ofad,Amis_Ciwkangan,Narrative,Frog Story,"陳金龍, Ofad, male, None",2005-04-27,NA,166,49,0:03:52
 Amis_Ciwkangan/Amis_Nr-intro_tamih,Amis_Ciwkangan,Narrative,Religion and My Life,"林茂德, Tamih, male, 1926",2007-01-05,NA,404,93,0:09:30
 Amis_Ciwkangan/Amis_Nr-frog_minzhu,Amis_Ciwkangan,Narrative,Frog Story,"嚴敏珠, Minzhu, female, None",2003-06-01,NA,169,41,0:04:31
-Amis_Ciwkangan/Amis_Nr-pear_zuomei,Amis_Ciwkangan,Narrative,Pear Story,"嚴胡佐妹, Zuomei, female, None",NA,NA,147,33,0:03:18
+Amis_Ciwkangan/Amis_Nr-pear_zuomei,Amis_Ciwkangan,Narrative,Pear Story,"嚴胡佐妹, Zuomei, female, None",2003-06-01,NA,147,33,0:03:18
 Kavalan_Xinshe/KavCon-marriage_abas_pilaw,Kavalan_Xinshe,Narrative,Marriage,"潘天利, Abas, male, 1933",2005-12-01,NA,623,188,0:12:53
 Kavalan_Xinshe/KavNr-frog_syulan,Kavalan_Xinshe,Narrative,Frog story,"謝潘秀蘭, Syulan, female, 1957",2003-05-30,NA,150,44,0:04:13
 Kavalan_Xinshe/KavCon-home_buya_imuy,Kavalan_Xinshe,Conversation,Returning Home,"潘金妹, Imuy, female, 1952",2003-06-01,NA,285,96,0:06:24
@@ -263,7 +265,7 @@ Kavalan_Xinshe/KavNr-pear_buya,Kavalan_Xinshe,Narrative,Pear story,"謝宗修, B
 Kavalan_Xinshe/KavNr-frog_abas,Kavalan_Xinshe,Narrative,Frog story,"潘天利, Abas, male, 1933",2005-01-01,NA,139,82,0:11:00
 Kavalan_Xinshe/KavCon-angry_pilaw_abas,Kavalan_Xinshe,Conversation,Angry,"潘天利, Abas, male, 1933",2005-12-01,NA,297,111,0:06:22
 Kavalan_Xinshe/KavNr-ancestor_ngengi,Kavalan_Xinshe,Narrative,Ancestors,"林阿份, Ngengi, female, 1941",2004-11-03,NA,110,68,0:06:33
-Kavalan_Xinshe/KavNr-pear_api,Kavalan_Xinshe,Narrative,Pear story,"朱阿比, Api, male, 1927",00:02:49,NA,108,38,0:02:43
+Kavalan_Xinshe/KavNr-pear_api,Kavalan_Xinshe,Narrative,Pear story,"朱阿比, Api, male, 1927",2003-06-01,NA,108,38,0:02:43
 Kavalan_Xinshe/KavNr-pear_banday,Kavalan_Xinshe,Narrative,Pear story,"偕萬來, Banday, male, 1932",2003-06-01,NA,69,26,0:02:25
 Kavalan_Xinshe/KavNr-frog_banday,Kavalan_Xinshe,Narrative,Frog story,"偕萬來, Banday, male, 1932",2003-06-01,NA,123,47,0:04:51
 Kavalan_Xinshe/KavNr-ancestor_buya,Kavalan_Xinshe,Narrative,Ancestors,"謝宗修, Buya, male, 1957",2004-10-20,NA,178,51,0:07:20
@@ -272,7 +274,7 @@ Kavalan_Xinshe/KavNr-frog_imuy_longversion,Kavalan_Xinshe,Narrative,Frog story,"
 Kavalan_Xinshe/KavCon-banana trees_abas_ipay2,Kavalan_Xinshe,Conversation,Barking banana trees,"潘天利, Abas, male, 1933",2004-01-01,NA,53,23,0:01:02
 Kavalan_Xinshe/KavNr-frog_api2,Kavalan_Xinshe,Narrative,Frog story,"朱阿比, Api, male, 1927",2004-01-01,NA,394,158,0:10:40
 Kavalan_Xinshe/KavNr-pear_Haciang,Kavalan_Xinshe,Narrative,Pear story,"潘金英, Haciang, female, 1944",2004-04-01,NA,154,58,0:03:48
-Kavalan_Xinshe/KavNr-pear_ipay,Kavalan_Xinshe,Narrative,Pear story,"潘烏吉, Ipay, male, 1931",00:01:23,NA,52,20,0:01:21
+Kavalan_Xinshe/KavNr-pear_ipay,Kavalan_Xinshe,Narrative,Pear story,"潘烏吉, Ipay, male, 1931",2003-06-01,NA,52,20,0:01:21
 Kavalan_Xinshe/KavCon-earthquake_abas_haciang,Kavalan_Xinshe,Conversation,Earthquake,"潘天利, Abas, male, 1933",2005-01-25,NA,986,313,0:17:36
 Kavalan_Xinshe/KavNr-frog_Haciang,Kavalan_Xinshe,Narrative,Frog story,"潘金英, Haciang, female, 1944",2005-04-01,NA,214,115,0:05:02
 Kavalan_Xinshe/KavNr-sea_buya,Kavalan_Xinshe,Narrative,Sea,"謝宗修, Buya, male, 1957",2004-10-01,NA,46,16,0:01:52
@@ -291,24 +293,24 @@ Tsou_Tsou/TsouNr-frog-story-shi,Tsou_Tsou,Narrative,Frog Story 4,"石光將, Non
 Tsou_Tsou/TsouNr-frog-story-tu,Tsou_Tsou,Narrative,Frog Story 1,"杜, None, None, None",2002-02-00,NA,102,40,0:03:54
 Tsou_Tsou/TsouConv-typhoon,Tsou_Tsou,Conversation,Typhoon,"安寶妹, None, female, None",NA,NA,576,295,0:17:14
 Tsou_Tsou/TsouNr_lovestry_wang-2,Tsou_Tsou,Narrative,Love Story 1,"汪啟聖, None, male, None",2009-09-13,NA,85,18,0:02:03
-Tsou_Tsou/TsouNr-pear-story-3,Tsou_Tsou,Narrative,Pear Story 3,"鄭信得, None, Male, None",NA,NA,124,33,0:00:00
+Tsou_Tsou/TsouNr-pear-story-3,Tsou_Tsou,Narrative,Pear Story 3,"鄭信得, None, male, None",NA,NA,124,33,0:00:00
 Tsou_Tsou/TsouConv-informants,Tsou_Tsou,Conversation,Informants,"汪明輝和汪幸時, None, male, None",NA,NA,298,69,0:10:36
-Rukai_Vedai/RukaiNr-naming_taugadhu,Rukai_Vedai,Narrative,naming,"杜傳, Taugadhu, male, 1943",2010-01-14,NA,357,62,0:13:00
+Rukai_Vedai/RukaiNr-naming_taugadhu,Rukai_Vedai,Narrative,Naming,"杜傳, Taugadhu, male, 1943",2010-01-14,NA,357,62,0:13:00
 Rukai_Vedai/RukaiNr-marriage ceremony_taugadha,Rukai_Vedai,Narrative,Marriage Ceremony,"杜傳, Taugadhu, male, 1943",NA,NA,274,92,0:11:57
 Rukai_Vedai/RukaiNr-frog_Kainguane,Rukai_Vedai,Narrative,Frog Story,"王朝賢, Kainguane, male, None",2009-05-05,NA,226,85,0:08:44
 Rukai_Vedai/RukaiNr-frog_legaile,Rukai_Vedai,Narrative,Frog story,"巴山光, Legaile, male, None",NA,NA,179,54,0:06:15
 Rukai_Vedai/RukaiNr-work by men and women_taugadhu,Rukai_Vedai,Narrative,Work by Men and Women,"杜傳, Taugadhu, male, 1943",2009-08-07,NA,237,98,0:07:52
 Rukai_Vedai/RukaiNr-frog_salabu,Rukai_Vedai,Narrative,Frog story,"柯啟川, Salrabu, male, 1938",2004-04-22,NA,142,40,0:06:25
-Rukai_Vedai/RukaiNr-childhood_balenge,Rukai_Vedai,Narrative,childhood,"潘柯菊華, Balenge, female, 1961",2011-8-11,NA,184,69,0:07:16
-Rukai_Vedai/RukaiNr-pear_wauki,Rukai_Vedai,Narrative,pear story,"何維豪, Wauki, male, 1933",2009-05-25,NA,71,34,0:02:55
-Rukai_Vedai/RukaiNr-ghost lake_Balenge,Rukai_Vedai,Narrative,ghost lake,"潘柯菊華, Balenge, female, 1961",2011-8-19,NA,70,24,0:02:48
+Rukai_Vedai/RukaiNr-childhood_balenge,Rukai_Vedai,Narrative,Childhood,"潘柯菊華, Balenge, female, 1961",2011-8-11,NA,184,69,0:07:16
+Rukai_Vedai/RukaiNr-pear_wauki,Rukai_Vedai,Narrative,Pear story,"何維豪, Wauki, male, 1933",2009-05-25,NA,71,34,0:02:55
+Rukai_Vedai/RukaiNr-ghost lake_Balenge,Rukai_Vedai,Narrative,Ghost lake,"潘柯菊華, Balenge, female, 1961",2011-8-19,NA,70,24,0:02:48
 Rukai_Vedai/RukaiNr-princess balenge_balenge,Rukai_Vedai,Narrative,Princess Balenge,"潘柯菊華, Balenge, female, 1961",2009-08-06,NA,205,85,0:08:03
 Rukai_Vedai/RukaiNr-pear_tagas,Rukai_Vedai,Narrative,Pear Story,"沙本賞, Tagas, male, 1938",2010-01-15,NA,43,13,0:01:48
 Rukai_Vedai/RukaiNr-pear_Balenge,Rukai_Vedai,Narrative,Pear story,"潘柯菊華, Balenge, female, 1961",2009-08-06,NA,141,30,0:04:46
 Rukai_Vedai/RukaiNr-pear_legaile,Rukai_Vedai,Narrative,Pear story,"巴山光, Legaile, male, None",NA,NA,98,38,0:04:17
-Rukai_Vedai/RukaiNr-pear_ba ching-i,Rukai_Vedai,Narrative,pear story,"巴清一, unknown, male, None",2004-04-22,NA,37,19,0:01:52
+Rukai_Vedai/RukaiNr-pear_ba ching-i,Rukai_Vedai,Narrative,Pear story,"巴清一, unknown, male, None",2004-04-22,NA,37,19,0:01:52
 Rukai_Vedai/RukaiNr-becenge_tagas,Rukai_Vedai,Narrative,Millet,"沙本賞, Tagas, male, 1938",2009-08-07,NA,63,24,0:02:26
-Rukai_Vedai/RukaiNr-pear_salrabu,Rukai_Vedai,Narrative,pear story,"柯啟川, Salrabu, male, 1938",2004-04-22,NA,59,23,0:03:12
+Rukai_Vedai/RukaiNr-pear_salrabu,Rukai_Vedai,Narrative,Pear story,"柯啟川, Salrabu, male, 1938",2004-04-22,NA,59,23,0:03:12
 Rukai_Vedai/RukaiNr-swing_taugadhu,Rukai_Vedai,Narrative,Swing,"杜傳, Taugadhu, male, 1943",2009-08-06,NA,230,78,0:08:49
 Rukai_Vedai/20200530-FW-Jimmy-1,Rukai_Vedai,Sentence,NA,"巴山光, Legeai, male, 1946",2020-05-30,NA,0,21,0:00:00
 Rukai_Vedai/20200529-FW-yuki-1,Rukai_Vedai,Sentence,NA,"柯菊華, Legeane, female, 1961",2020-05-29,NA,0,14,0:00:00

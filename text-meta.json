@@ -2,26 +2,26 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 2154,
-				"sent_num": 726,
+				"iu_num": 2275,
+				"sent_num": 760,
 				"record_time": 4868.4
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 1235
+				"sent_num": 1269
 			},
 			"marker": {
-				"AF": 1078,
+				"AF": 1122,
 				"NAF": 0,
-				"PF": 277,
-				"RF": 19,
-				"IF": 0,
+				"PF": 285,
+				"RF": 22,
+				"IF": 1,
 				"BF": 0,
 				"CF": 1,
-				"LF": 153,
-				"GEN": 541
+				"LF": 171,
+				"GEN": 566
 			}
 		},
 		"text": [
@@ -233,6 +233,27 @@
 					"CF": 0,
 					"LF": 11,
 					"GEN": 41
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
+				"type": "Narrative",
+				"speaker": "None",
+				"collected": "None",
+				"topic": "taboo",
+				"iu_num": 100,
+				"sent_num": 19,
+				"record_time": 0,
+				"marker": {
+					"AF": 33,
+					"NAF": 0,
+					"PF": 7,
+					"RF": 1,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 23
 				}
 			},
 			{
@@ -464,6 +485,27 @@
 					"CF": 0,
 					"LF": 4,
 					"GEN": 3
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
+				"type": "Narrative",
+				"speaker": "李正祿, Awi Pawan, male, None",
+				"collected": "None",
+				"topic": "tattoo2",
+				"iu_num": 21,
+				"sent_num": 15,
+				"record_time": 0,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
 				}
 			},
 			{
@@ -1026,7 +1068,7 @@
 				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu",
 				"type": "Narrative",
 				"speaker": "劉國基, Kainu, male, 1941",
-				"collected": "None",
+				"collected": "2011-04-01",
 				"topic": "Moving 2",
 				"iu_num": 207,
 				"sent_num": 47,
@@ -2211,8 +2253,8 @@
 			{
 				"file": "Bunun_Isbukun/02",
 				"type": "Sentence",
-				"speaker": "?",
-				"collected": "?",
+				"speaker": "None, None, None, None",
+				"collected": "None",
 				"sent_num": 29,
 				"marker": {
 					"AF": 26,
@@ -3026,7 +3068,7 @@
 				"file": "Saisiyat_Tong-he/SaiNr-anhi",
 				"type": "Narrative",
 				"speaker": "None",
-				"collected": "None",
+				"collected": "2003-01-01",
 				"topic": "anhi",
 				"iu_num": 26,
 				"sent_num": 7,
@@ -4651,7 +4693,7 @@
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_cinhua",
 				"type": "Narrative",
 				"speaker": "嚴金花, Cinhua, female, None",
-				"collected": "0000-00-00",
+				"collected": "2005-05-19",
 				"topic": "Frog Story",
 				"iu_num": 175,
 				"sent_num": 49,
@@ -4924,7 +4966,7 @@
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_tamih",
 				"type": "Narrative",
 				"speaker": "林茂德, Tamih, male, 1926",
-				"collected": "None",
+				"collected": "2007-01-05",
 				"topic": "Pear Story",
 				"iu_num": 39,
 				"sent_num": 10,
@@ -5008,7 +5050,7 @@
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_zuomei",
 				"type": "Narrative",
 				"speaker": "嚴胡佐妹, Zuomei, female, None",
-				"collected": "None",
+				"collected": "2003-06-01",
 				"topic": "Pear Story",
 				"iu_num": 147,
 				"sent_num": 33,
@@ -5330,7 +5372,7 @@
 				"file": "Kavalan_Xinshe/KavNr-pear_api",
 				"type": "Narrative",
 				"speaker": "朱阿比, Api, male, 1927",
-				"collected": "00:02:49",
+				"collected": "2003-06-01",
 				"topic": "Pear story",
 				"iu_num": 108,
 				"sent_num": 38,
@@ -5519,7 +5561,7 @@
 				"file": "Kavalan_Xinshe/KavNr-pear_ipay",
 				"type": "Narrative",
 				"speaker": "潘烏吉, Ipay, male, 1931",
-				"collected": "00:01:23",
+				"collected": "2003-06-01",
 				"topic": "Pear story",
 				"iu_num": 52,
 				"sent_num": 20,
@@ -5945,7 +5987,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-pear-story-3",
 				"type": "Narrative",
-				"speaker": "鄭信得, None, Male, None",
+				"speaker": "鄭信得, None, male, None",
 				"collected": "None",
 				"topic": "Pear Story 3",
 				"iu_num": 124,
@@ -6017,7 +6059,7 @@
 				"type": "Narrative",
 				"speaker": "杜傳, Taugadhu, male, 1943",
 				"collected": "2010-01-14",
-				"topic": "naming",
+				"topic": "Naming",
 				"iu_num": 357,
 				"sent_num": 62,
 				"record_time": 780.93,
@@ -6143,7 +6185,7 @@
 				"type": "Narrative",
 				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2011-8-11",
-				"topic": "childhood",
+				"topic": "Childhood",
 				"iu_num": 184,
 				"sent_num": 69,
 				"record_time": 436.56,
@@ -6164,7 +6206,7 @@
 				"type": "Narrative",
 				"speaker": "何維豪, Wauki, male, 1933",
 				"collected": "2009-05-25",
-				"topic": "pear story",
+				"topic": "Pear story",
 				"iu_num": 71,
 				"sent_num": 34,
 				"record_time": 175.38,
@@ -6185,7 +6227,7 @@
 				"type": "Narrative",
 				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2011-8-19",
-				"topic": "ghost lake",
+				"topic": "Ghost lake",
 				"iu_num": 70,
 				"sent_num": 24,
 				"record_time": 168.84,
@@ -6290,7 +6332,7 @@
 				"type": "Narrative",
 				"speaker": "巴清一, unknown, male, None",
 				"collected": "2004-04-22",
-				"topic": "pear story",
+				"topic": "Pear story",
 				"iu_num": 37,
 				"sent_num": 19,
 				"record_time": 112.68,
@@ -6332,7 +6374,7 @@
 				"type": "Narrative",
 				"speaker": "柯啟川, Salrabu, male, 1938",
 				"collected": "2004-04-22",
-				"topic": "pear story",
+				"topic": "Pear story",
 				"iu_num": 59,
 				"sent_num": 23,
 				"record_time": 192.38,
