@@ -2,12 +2,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2683,
-				"sent_num": 935,
-				"record_time": 6154.67
+				"iu_num": 2606,
+				"sent_num": 920,
+				"record_time": 6036.79
 			},
 			"sentence": {
-				"sent_num": 1966
+				"sent_num": 1951
 			},
 			"grammar": {
 				"sent_num": 0
@@ -21,7 +21,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 283
+				"GEN": 267
 			}
 		},
 		"text": [
@@ -257,27 +257,6 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-frog_legaile",
-				"type": "Narrative",
-				"speaker": "巴山光, Legaile, male, None",
-				"collected": "2010-01-14",
-				"topic": "Frog story",
-				"iu_num": 179,
-				"sent_num": 54,
-				"record_time": 375.54,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 17
-				}
-			},
-			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Bajiaying",
 				"type": "Narrative",
 				"speaker": "巴佳英, None, Female, None",
@@ -338,6 +317,27 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 14
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_Legeai",
+				"type": "Narrative",
+				"speaker": "巴山光, Legeai, male, None",
+				"collected": "None",
+				"topic": "Pear story",
+				"iu_num": 102,
+				"sent_num": 39,
+				"record_time": 257.66,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
 				}
 			},
 			{
