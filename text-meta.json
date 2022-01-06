@@ -2,12 +2,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2606,
-				"sent_num": 920,
-				"record_time": 6036.79
+				"iu_num": 2654,
+				"sent_num": 936,
+				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 1951
+				"sent_num": 1967
 			},
 			"grammar": {
 				"sent_num": 0
@@ -21,7 +21,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 267
+				"GEN": 171
 			}
 		},
 		"text": [
@@ -52,7 +52,7 @@
 				"speaker": "杜傳, Taugadhu, male, 1943",
 				"collected": "2010-01-14",
 				"topic": "Naming",
-				"iu_num": 357,
+				"iu_num": 313,
 				"sent_num": 62,
 				"record_time": 780.93,
 				"marker": {
@@ -64,7 +64,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 81
+					"GEN": 24
 				}
 			},
 			{
@@ -106,7 +106,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 8
+					"GEN": 0
 				}
 			},
 			{
@@ -133,7 +133,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-childhood_balenge",
 				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961",
+				"speaker": "潘柯菊華, Balenge, Female, 1961",
 				"collected": "2011-8-11",
 				"topic": "Childhood",
 				"iu_num": 184,
@@ -148,7 +148,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 5
+					"GEN": 0
 				}
 			},
 			{
@@ -173,14 +173,14 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-pear_legaile",
+				"file": "Rukai_Vedai/RukaiNr-frog_Legeai",
 				"type": "Narrative",
-				"speaker": "巴山光, Legaile, male, None",
+				"speaker": "巴山光, Legeai, male, None",
 				"collected": "2010-01-14",
-				"topic": "Pear story",
-				"iu_num": 98,
-				"sent_num": 38,
-				"record_time": 257.66,
+				"topic": "Frog story",
+				"iu_num": 181,
+				"sent_num": 55,
+				"record_time": 375.54,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -190,7 +190,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 12
+					"GEN": 0
 				}
 			},
 			{
@@ -199,8 +199,8 @@
 				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2009-08-06",
 				"topic": "Princess Balenge",
-				"iu_num": 205,
-				"sent_num": 85,
+				"iu_num": 213,
+				"sent_num": 86,
 				"record_time": 483.33,
 				"marker": {
 					"AF": 0,
@@ -211,7 +211,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 9
+					"GEN": 1
 				}
 			},
 			{
@@ -220,8 +220,8 @@
 				"speaker": "何維豪, Wauki, male, 1933",
 				"collected": "2009-05-25",
 				"topic": "Pear story",
-				"iu_num": 71,
-				"sent_num": 34,
+				"iu_num": 69,
+				"sent_num": 32,
 				"record_time": 175.38,
 				"marker": {
 					"AF": 0,
@@ -238,10 +238,10 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-becenge_tagas",
 				"type": "Narrative",
-				"speaker": "沙本賞, Tagas, male, 1938",
+				"speaker": "沙本賞, Tagas, Male, 1938",
 				"collected": "2009-08-07",
 				"topic": "Millet",
-				"iu_num": 63,
+				"iu_num": 65,
 				"sent_num": 24,
 				"record_time": 146.4,
 				"marker": {
@@ -253,7 +253,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 4
+					"GEN": 0
 				}
 			},
 			{
@@ -283,7 +283,7 @@
 				"speaker": "潘柯菊華, Balenge, female, 1961",
 				"collected": "2011-8-19",
 				"topic": "Ghost lake",
-				"iu_num": 70,
+				"iu_num": 72,
 				"sent_num": 24,
 				"record_time": 168.84,
 				"marker": {
@@ -295,7 +295,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 2
+					"GEN": 0
 				}
 			},
 			{
@@ -323,7 +323,7 @@
 				"file": "Rukai_Vedai/RukaiNr-pear_Legeai",
 				"type": "Narrative",
 				"speaker": "巴山光, Legeai, male, None",
-				"collected": "None",
+				"collected": "2010-01-14",
 				"topic": "Pear story",
 				"iu_num": 102,
 				"sent_num": 39,
@@ -366,8 +366,8 @@
 				"type": "Narrative",
 				"speaker": "沙本賞, Tagas, male, 1938",
 				"collected": "2010-01-15",
-				"topic": "Pear Story",
-				"iu_num": 43,
+				"topic": "Pear story",
+				"iu_num": 42,
 				"sent_num": 13,
 				"record_time": 108.92,
 				"marker": {
