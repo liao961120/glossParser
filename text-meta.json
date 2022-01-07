@@ -2,12 +2,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2712,
-				"sent_num": 990,
+				"iu_num": 2781,
+				"sent_num": 1027,
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2021
+				"sent_num": 2058
 			},
 			"grammar": {
 				"sent_num": 0
@@ -21,7 +21,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 109
+				"GEN": 111
 			}
 		},
 		"text": [
@@ -275,6 +275,27 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Baqingyi",
+				"type": "Narrative",
+				"speaker": "巴清一, None, Male, None",
+				"collected": "None",
+				"topic": "Frog story",
+				"iu_num": 69,
+				"sent_num": 37,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
 				}
 			},
 			{
