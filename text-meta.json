@@ -2,12 +2,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2654,
-				"sent_num": 935,
+				"iu_num": 2712,
+				"sent_num": 990,
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 1966
+				"sent_num": 2021
 			},
 			"grammar": {
 				"sent_num": 0
@@ -21,7 +21,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 107
+				"GEN": 109
 			}
 		},
 		"text": [
@@ -65,6 +65,27 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 24
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_Kainguane",
+				"type": "Narrative",
+				"speaker": "王朝賢, Kainguane, Male, None",
+				"collected": "2009-05-11",
+				"topic": "Pear story",
+				"iu_num": 58,
+				"sent_num": 55,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
 				}
 			},
 			{
@@ -344,7 +365,7 @@
 				"file": "Rukai_Vedai/RukaiNr-marriage ceremony_taugadha",
 				"type": "Narrative",
 				"speaker": "杜傳, Taugadhu, male, 1943",
-				"collected": "None",
+				"collected": "2009-08-06",
 				"topic": "Marriage Ceremony",
 				"iu_num": 274,
 				"sent_num": 93,
