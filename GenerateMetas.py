@@ -65,7 +65,7 @@ def get_info(path):
     # Meta info
     meta = text["meta"]
     info['file'] = f"{path.parent.name}/{path.stem}"
-    for k in ['type', 'speaker', 'collected']:
+    for k in ['type', 'speaker', 'collected', 'revised']:
         try:
             info[k] = meta[k]
         except:

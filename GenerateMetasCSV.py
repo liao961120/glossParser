@@ -43,6 +43,7 @@ def main():
                 'topic': get_val('topic', txt, default='NA'),
                 'speaker': get_val('speaker', txt, default='NA'),
                 "collected": get_val('collected', txt, default='NA'),
+                "revised": get_val('revised', txt, default='NA'),
                 "transcribed": get_val('transcribed', txt, default='NA'),
                 "iu_num": get_val('iu_num', txt, default=0),
                 "sent_num": get_val('sent_num', txt, default=0),
