@@ -862,7 +862,7 @@
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2058
+				"sent_num": 2080
 			},
 			"grammar": {
 				"sent_num": 0
@@ -1469,7 +1469,7 @@
 				"type": "Sentence",
 				"speaker": "許進登, Bikare, male, 1950",
 				"collected": "2020-05-31",
-				"sent_num": 17,
+				"sent_num": 21,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1771,6 +1771,24 @@
 				}
 			},
 			{
+				"file": "Rukai_Vedai/20200530-FW-yuki",
+				"type": "Sentence",
+				"speaker": "賴天賜/柯菊華, Baludase/Balenge, male/female, 1959/1961",
+				"collected": "2020-05-30",
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Rukai_Vedai/20200422-CL-5",
 				"type": "Sentence",
 				"speaker": "柯菊華, Balenge, female, 1961",
@@ -2063,7 +2081,7 @@
 				"type": "Sentence",
 				"speaker": "柯菊華, Legeane, female, 1961/巴山光, Legeai Padrangedrange, male, 1946",
 				"collected": "2020-05-30",
-				"sent_num": 25,
+				"sent_num": 26,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2099,7 +2117,7 @@
 				"type": "Sentence",
 				"speaker": "柯菊華, Legeane, female, 1961",
 				"collected": "2020-05-29",
-				"sent_num": 37,
+				"sent_num": 38,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
