@@ -3895,10 +3895,10 @@
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2366
+				"sent_num": 2367
 			},
 			"grammar": {
-				"sent_num": 2976
+				"sent_num": 2977
 			},
 			"marker": {
 				"AF": 923,
@@ -4336,7 +4336,7 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"sent_num": 491,
+				"sent_num": 492,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -5171,7 +5171,7 @@
 				"record_time": 5863.17
 			},
 			"sentence": {
-				"sent_num": 3460
+				"sent_num": 2969
 			},
 			"grammar": {
 				"sent_num": 0
@@ -5185,7 +5185,7 @@
 				"BF": 4,
 				"CF": 0,
 				"LF": 460,
-				"GEN": 306
+				"GEN": 305
 			}
 		},
 		"text": [
@@ -5978,24 +5978,6 @@
 					"CF": 0,
 					"LF": 2,
 					"GEN": 2
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/1",
-				"type": "Sentence",
-				"speaker": "None",
-				"collected": "None",
-				"sent_num": 491,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
 				}
 			},
 			{
