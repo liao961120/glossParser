@@ -5171,21 +5171,21 @@
 				"record_time": 5863.17
 			},
 			"sentence": {
-				"sent_num": 2970
+				"sent_num": 2972
 			},
 			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1618,
+				"AF": 1622,
 				"NAF": 0,
-				"PF": 412,
+				"PF": 414,
 				"RF": 0,
-				"IF": 102,
+				"IF": 103,
 				"BF": 4,
 				"CF": 0,
-				"LF": 461,
-				"GEN": 305
+				"LF": 464,
+				"GEN": 308
 			}
 		},
 		"text": [
@@ -6039,17 +6039,17 @@
 				"type": "Sentence",
 				"speaker": "None, None, None, None",
 				"collected": "None",
-				"sent_num": 29,
+				"sent_num": 30,
 				"marker": {
-					"AF": 26,
+					"AF": 27,
 					"NAF": 0,
-					"PF": 5,
+					"PF": 7,
 					"RF": 0,
-					"IF": 0,
+					"IF": 1,
 					"BF": 0,
 					"CF": 0,
-					"LF": 8,
-					"GEN": 3
+					"LF": 9,
+					"GEN": 5
 				}
 			},
 			{
@@ -6219,17 +6219,17 @@
 				"type": "Sentence",
 				"speaker": "顏光明, Talum Ispalidav, M, 1958",
 				"collected": "2016-06-04",
-				"sent_num": 3,
+				"sent_num": 4,
 				"marker": {
-					"AF": 5,
+					"AF": 8,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 1,
-					"GEN": 0
+					"LF": 2,
+					"GEN": 1
 				}
 			},
 			{
@@ -6606,7 +6606,7 @@
 					"IF": 4,
 					"BF": 1,
 					"CF": 0,
-					"LF": 6,
+					"LF": 7,
 					"GEN": 3
 				}
 			},
