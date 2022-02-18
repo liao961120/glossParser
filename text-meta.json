@@ -5171,20 +5171,20 @@
 				"record_time": 5863.17
 			},
 			"sentence": {
-				"sent_num": 2969
+				"sent_num": 2970
 			},
 			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1615,
+				"AF": 1618,
 				"NAF": 0,
-				"PF": 411,
+				"PF": 412,
 				"RF": 0,
 				"IF": 102,
 				"BF": 4,
 				"CF": 0,
-				"LF": 460,
+				"LF": 461,
 				"GEN": 305
 			}
 		},
@@ -5935,7 +5935,7 @@
 				"marker": {
 					"AF": 24,
 					"NAF": 0,
-					"PF": 6,
+					"PF": 7,
 					"RF": 0,
 					"IF": 1,
 					"BF": 0,
@@ -6138,7 +6138,7 @@
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 6,
+					"LF": 7,
 					"GEN": 0
 				}
 			},
@@ -6453,9 +6453,9 @@
 				"type": "Sentence",
 				"speaker": "顏, Ciang Ispalida, M, 1944",
 				"collected": "2016-06-2",
-				"sent_num": 18,
+				"sent_num": 19,
 				"marker": {
-					"AF": 9,
+					"AF": 12,
 					"NAF": 0,
 					"PF": 9,
 					"RF": 0,
