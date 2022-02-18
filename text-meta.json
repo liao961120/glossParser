@@ -862,7 +862,7 @@
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2080
+				"sent_num": 2116
 			},
 			"grammar": {
 				"sent_num": 0
@@ -876,7 +876,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 111
+				"GEN": 114
 			}
 		},
 		"text": [
@@ -1433,7 +1433,7 @@
 				"type": "Sentence",
 				"speaker": "許進登, Bikar, male, 1950",
 				"collected": "2020-05-28",
-				"sent_num": 23,
+				"sent_num": 24,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1757,7 +1757,7 @@
 				"type": "Sentence",
 				"speaker": "巴山光, Legeai, male, 1946",
 				"collected": "2020-05-30",
-				"sent_num": 18,
+				"sent_num": 19,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1919,7 +1919,7 @@
 				"type": "Sentence",
 				"speaker": "宋文臣, Leageayi, male, 1936",
 				"collected": "2020-05-29",
-				"sent_num": 15,
+				"sent_num": 17,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1929,7 +1929,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 2
+					"GEN": 3
 				}
 			},
 			{
@@ -2005,11 +2005,29 @@
 				}
 			},
 			{
+				"file": "Rukai_Vedai/20200529-FW-Ludwig",
+				"type": "Sentence",
+				"speaker": "柯菊華, Legeane / Balenge, female, 1961 / 巴山光, Legeay Parangerange, male, 1946 (標號7後)",
+				"collected": "2020-05-29",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
 				"file": "Rukai_Vedai/20200529-FW-Lixing-1",
 				"type": "Sentence",
 				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-29",
-				"sent_num": 11,
+				"sent_num": 20,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
