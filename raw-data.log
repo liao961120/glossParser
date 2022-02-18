@@ -1,4 +1,4 @@
-2022-02-18 15:38:57
+2022-02-18 16:06:26
 
 INVALID GLOSS formatting:				raw-data/sentence/Kanakanavu_Kanakanavu/1.txt/#400
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/5.txt/#61
@@ -30,28 +30,12 @@ Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.
 INVALID GLOSS formatting:				raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#445
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#452
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#514
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/41.txt/#4
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/51.txt/#22
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/01-3.txt/#3
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/01-3.txt/#15
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/50.txt/#3
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/05.txt/#3
+INVALID GLOSS formatting:				raw-data/sentence/Bunun_Isbukun/1.txt/#400
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/61.txt/#2
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/08.txt/#1
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/39.txt/#29
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/39.txt/#45
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/57.txt/#13
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/02.txt/#24
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/52.txt/#12
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/54.txt/#1
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/54.txt/#8
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/03-6.txt/#5
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/59.txt/#2
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/63.txt/#8
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/63.txt/#28
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/63.txt/#40
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/63.txt/#578
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/63.txt/#919
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/09.txt/#5
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/62.txt/#10
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/62.txt/#42
