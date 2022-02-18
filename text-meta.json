@@ -3895,21 +3895,21 @@
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2367
+				"sent_num": 2369
 			},
 			"grammar": {
-				"sent_num": 2977
+				"sent_num": 2979
 			},
 			"marker": {
 				"AF": 923,
 				"NAF": 0,
-				"PF": 169,
+				"PF": 168,
 				"RF": 3,
 				"IF": 20,
 				"BF": 0,
 				"CF": 1,
 				"LF": 3,
-				"GEN": 304
+				"GEN": 302
 			}
 		},
 		"text": [
@@ -4372,17 +4372,17 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"sent_num": 523,
+				"sent_num": 524,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
-					"PF": 2,
+					"PF": 1,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 8
+					"GEN": 6
 				}
 			},
 			{
@@ -4408,7 +4408,7 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"sent_num": 72,
+				"sent_num": 73,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
