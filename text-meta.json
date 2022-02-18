@@ -862,7 +862,7 @@
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2128
+				"sent_num": 2139
 			},
 			"grammar": {
 				"sent_num": 0
@@ -1516,6 +1516,24 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Jimmy",
+				"type": "Sentence",
+				"speaker": "許進登, Bikare, male, 1950",
+				"collected": "2020-05-31",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
 				}
 			},
 			{

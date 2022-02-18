@@ -1,7 +1,5 @@
-2022-02-18 15:29:53
+2022-02-18 15:38:57
 
-INVALID DOCUMENT formatting:			raw-data/sentence/Rukai_Vedai/20200531-FW-Jimmy.txt
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Rukai_Vedai/20200508-CL-7.txt/#7
 INVALID GLOSS formatting:				raw-data/sentence/Kanakanavu_Kanakanavu/1.txt/#400
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/5.txt/#61
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#28
@@ -32,20 +30,6 @@ Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.
 INVALID GLOSS formatting:				raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#445
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#452
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/3.txt/#514
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#27
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#32
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#39
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#44
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#101
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#103
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#115
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#149
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#163
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#165
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#166
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#168
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#177
-Diff. num of tokens in EN & CH annot:	raw-data/sentence/Kanakanavu_Kanakanavu/4.txt/#181
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/41.txt/#4
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/51.txt/#22
 Diff. num of tokens in EN & CH annot:	raw-data/sentence/Bunun_Isbukun/01-3.txt/#3
