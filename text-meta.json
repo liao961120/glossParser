@@ -862,7 +862,7 @@
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2116
+				"sent_num": 2128
 			},
 			"grammar": {
 				"sent_num": 0
@@ -876,7 +876,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 114
+				"GEN": 117
 			}
 		},
 		"text": [
@@ -1375,6 +1375,24 @@
 				}
 			},
 			{
+				"file": "Rukai_Vedai/20200530-FW-Ludwig",
+				"type": "Sentence",
+				"speaker": "賴天賜, Baludase, male, 1959/柯菊華, Balenge, female, 1961 (標號六以後)",
+				"collected": "2020-05-30",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
+			},
+			{
 				"file": "Rukai_Vedai/20200531-FW-yuki",
 				"type": "Sentence",
 				"speaker": "巴山光, Legeay Parangerange, male, 1946",
@@ -1739,7 +1757,7 @@
 				"type": "Sentence",
 				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
 				"collected": "2020-05-30",
-				"sent_num": 15,
+				"sent_num": 16,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
