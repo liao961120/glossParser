@@ -93,7 +93,10 @@ def get_info(path):
         info['sent_num'] = len(text["glosses"])
     
     # Linguistic info
-    info["marker"] = count_markers(text)
+    if info['type'] == 'Sentence' or info['type'] == 'GrammarBook':
+        info["marker"] = { m:0 for _, m in LING }
+    else:
+        info["marker"] = count_markers(text)
 
     return info
 
