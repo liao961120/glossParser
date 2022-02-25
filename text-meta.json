@@ -2,18 +2,18 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4817,
-				"sent_num": 1605,
+				"iu_num": 4826,
+				"sent_num": 1607,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2114
+				"sent_num": 2116
 			},
 			"marker": {
-				"AF": 2525,
+				"AF": 2528,
 				"NAF": 0,
 				"PF": 611,
 				"RF": 38,
@@ -21,7 +21,7 @@
 				"BF": 0,
 				"CF": 1,
 				"LF": 390,
-				"GEN": 1218
+				"GEN": 1222
 			}
 		},
 		"text": [
@@ -318,11 +318,11 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "mother",
-				"iu_num": 391,
-				"sent_num": 86,
+				"iu_num": 400,
+				"sent_num": 88,
 				"record_time": 706.72,
 				"marker": {
-					"AF": 212,
+					"AF": 215,
 					"NAF": 0,
 					"PF": 35,
 					"RF": 1,
@@ -330,7 +330,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 28,
-					"GEN": 100
+					"GEN": 104
 				}
 			},
 			{
