@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2933,
-				"sent_num": 1074,
+				"iu_num": 2944,
+				"sent_num": 1088,
 				"record_time": 6540.4
 			},
 			"sentence": {
-				"sent_num": 2186
+				"sent_num": 2200
 			},
 			"grammar": {
 				"sent_num": 0
@@ -1151,8 +1151,8 @@
 				"collected": "2009-05-11",
 				"revised": "None",
 				"topic": "Pear story",
-				"iu_num": 58,
-				"sent_num": 55,
+				"iu_num": 69,
+				"sent_num": 69,
 				"record_time": 0,
 				"marker": {
 					"AF": 0,
