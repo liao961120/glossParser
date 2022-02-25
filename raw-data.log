@@ -1,15 +1,7 @@
-2022-02-25 15:47:19
+2022-02-25 16:06:40
 
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s.txt/#102
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#116
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#182
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#236
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#247
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#250
 Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#254
 Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#262
-Diff. num of tokens in EN & CH annot:	raw-data/story/Seediq_Tgdaya/sdqNr-frog_lubi 2020s.txt/#263
-INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqNr-pear_aking 2020s.txt/#61
 INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqNr-mother_iwan 2020s.txt/#33
 INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqNr-mother_iwan 2020s.txt/#34
 INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqNr-mother_iwan 2020s.txt/#35
@@ -136,26 +128,6 @@ INVALID GLOSS formatting:				raw-data/story/Rukai_Vedai/RukaiNr-marriage ceremon
 Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-marriage ceremony_taugadha.txt/#272
 Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-swing_taugadhu.txt/#221
 Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-swing_taugadhu.txt/#223
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#2
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#26
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#36
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#71
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#113
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#123
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#140
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#141
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#162
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#167
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#176
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#182
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Kainguane.txt/#196
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#4
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#23
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#48
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#93
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#108
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#109
-Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-childhood_balenge.txt/#173
 Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Legeai.txt/#130
 Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Legeai.txt/#152
 Diff. num of tokens in EN & CH annot:	raw-data/story/Rukai_Vedai/RukaiNr-frog_Legeai.txt/#158
