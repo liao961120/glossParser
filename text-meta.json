@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2781,
-				"sent_num": 1027,
+				"iu_num": 2787,
+				"sent_num": 1032,
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2139
+				"sent_num": 2144
 			},
 			"grammar": {
 				"sent_num": 0
@@ -909,8 +909,8 @@
 				"collected": "2009-05-05",
 				"revised": "2009-06-01",
 				"topic": "Frog story",
-				"iu_num": 67,
-				"sent_num": 67,
+				"iu_num": 69,
+				"sent_num": 69,
 				"record_time": 0,
 				"marker": {
 					"AF": 0,
@@ -997,8 +997,8 @@
 				"collected": "2009-08-07",
 				"revised": "None",
 				"topic": "Work by Men and Women",
-				"iu_num": 231,
-				"sent_num": 94,
+				"iu_num": 233,
+				"sent_num": 96,
 				"record_time": 472.11,
 				"marker": {
 					"AF": 0,
@@ -1151,8 +1151,8 @@
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Swing",
-				"iu_num": 230,
-				"sent_num": 77,
+				"iu_num": 232,
+				"sent_num": 78,
 				"record_time": 529.83,
 				"marker": {
 					"AF": 0,
