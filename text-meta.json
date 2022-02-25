@@ -2,26 +2,26 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 2275,
-				"sent_num": 760,
-				"record_time": 4868.4
+				"iu_num": 4816,
+				"sent_num": 1604,
+				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 1269
+				"sent_num": 2113
 			},
 			"marker": {
-				"AF": 1122,
+				"AF": 2524,
 				"NAF": 0,
-				"PF": 285,
-				"RF": 22,
+				"PF": 611,
+				"RF": 38,
 				"IF": 1,
 				"BF": 0,
 				"CF": 1,
-				"LF": 171,
-				"GEN": 566
+				"LF": 390,
+				"GEN": 1217
 			}
 		},
 		"text": [
@@ -32,19 +32,19 @@
 				"collected": "1991-08-16",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog2_ciwas_tiwas",
-				"iu_num": 100,
-				"sent_num": 71,
-				"record_time": 433.48,
+				"iu_num": 336,
+				"sent_num": 203,
+				"record_time": 494.09,
 				"marker": {
-					"AF": 84,
+					"AF": 213,
 					"NAF": 0,
-					"PF": 8,
+					"PF": 40,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 4,
-					"GEN": 22
+					"LF": 26,
+					"GEN": 75
 				}
 			},
 			{
@@ -54,19 +54,19 @@
 				"collected": "2009-09-17",
 				"revised": "2021-06-01",
 				"topic": "sisin",
-				"iu_num": 99,
-				"sent_num": 21,
-				"record_time": 142.19,
+				"iu_num": 573,
+				"sent_num": 133,
+				"record_time": 956.25,
 				"marker": {
-					"AF": 30,
+					"AF": 294,
 					"NAF": 0,
-					"PF": 7,
-					"RF": 1,
+					"PF": 109,
+					"RF": 7,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 10,
-					"GEN": 21
+					"LF": 48,
+					"GEN": 168
 				}
 			},
 			{
@@ -98,19 +98,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog4_robo_bakan_ape",
-				"iu_num": 99,
-				"sent_num": 39,
-				"record_time": 156.55,
+				"iu_num": 143,
+				"sent_num": 53,
+				"record_time": 211.83,
 				"marker": {
-					"AF": 48,
+					"AF": 67,
 					"NAF": 0,
-					"PF": 15,
+					"PF": 17,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 1,
-					"GEN": 10
+					"LF": 4,
+					"GEN": 18
 				}
 			},
 			{
@@ -120,18 +120,18 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-plum_uma_robo",
-				"iu_num": 99,
-				"sent_num": 31,
-				"record_time": 166.72,
+				"iu_num": 106,
+				"sent_num": 34,
+				"record_time": 180.7,
 				"marker": {
 					"AF": 9,
 					"NAF": 0,
-					"PF": 29,
+					"PF": 33,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 4,
+					"LF": 7,
 					"GEN": 19
 				}
 			},
@@ -142,19 +142,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "taboo",
-				"iu_num": 100,
-				"sent_num": 19,
+				"iu_num": 119,
+				"sent_num": 25,
 				"record_time": 0,
 				"marker": {
-					"AF": 33,
+					"AF": 44,
 					"NAF": 0,
-					"PF": 7,
-					"RF": 1,
+					"PF": 8,
+					"RF": 3,
 					"IF": 1,
 					"BF": 0,
 					"CF": 0,
 					"LF": 12,
-					"GEN": 23
+					"GEN": 27
 				}
 			},
 			{
@@ -164,19 +164,19 @@
 				"collected": "2007-05-26",
 				"revised": "2021-06-01",
 				"topic": "childhood",
-				"iu_num": 99,
-				"sent_num": 47,
-				"record_time": 306.79,
+				"iu_num": 268,
+				"sent_num": 120,
+				"record_time": 903.93,
 				"marker": {
-					"AF": 96,
+					"AF": 201,
 					"NAF": 0,
-					"PF": 21,
+					"PF": 45,
 					"RF": 4,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 9,
-					"GEN": 55
+					"LF": 30,
+					"GEN": 115
 				}
 			},
 			{
@@ -252,19 +252,19 @@
 				"collected": "1991-08-09",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog1_ciwas_tiwas",
-				"iu_num": 95,
-				"sent_num": 52,
-				"record_time": 134.98,
+				"iu_num": 316,
+				"sent_num": 165,
+				"record_time": 469.9,
 				"marker": {
-					"AF": 48,
+					"AF": 148,
 					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
+					"PF": 33,
+					"RF": 6,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 3,
-					"GEN": 21
+					"LF": 23,
+					"GEN": 65
 				}
 			},
 			{
@@ -274,19 +274,19 @@
 				"collected": "1996-10-19",
 				"revised": "2021-06-01",
 				"topic": "pear",
-				"iu_num": 99,
-				"sent_num": 36,
-				"record_time": 156.38,
+				"iu_num": 250,
+				"sent_num": 82,
+				"record_time": 378.69,
 				"marker": {
-					"AF": 63,
+					"AF": 165,
 					"NAF": 0,
-					"PF": 13,
+					"PF": 40,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 14,
-					"GEN": 31
+					"LF": 29,
+					"GEN": 80
 				}
 			},
 			{
@@ -318,19 +318,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "mother",
-				"iu_num": 91,
-				"sent_num": 23,
-				"record_time": 270.29,
+				"iu_num": 391,
+				"sent_num": 86,
+				"record_time": 706.72,
 				"marker": {
-					"AF": 46,
+					"AF": 212,
 					"NAF": 0,
-					"PF": 6,
-					"RF": 0,
+					"PF": 35,
+					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 3,
-					"GEN": 26
+					"LF": 28,
+					"GEN": 100
 				}
 			},
 			{
@@ -340,19 +340,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
-				"iu_num": 99,
-				"sent_num": 20,
-				"record_time": 174.94,
+				"iu_num": 190,
+				"sent_num": 46,
+				"record_time": 366.06,
 				"marker": {
-					"AF": 45,
+					"AF": 106,
 					"NAF": 0,
-					"PF": 6,
+					"PF": 17,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 11,
-					"GEN": 31
+					"LF": 16,
+					"GEN": 60
 				}
 			},
 			{
@@ -384,19 +384,19 @@
 				"collected": "None",
 				"revised": "None",
 				"topic": "seediq",
-				"iu_num": 99,
-				"sent_num": 26,
-				"record_time": 157.22,
+				"iu_num": 136,
+				"sent_num": 41,
+				"record_time": 215.41,
 				"marker": {
-					"AF": 33,
+					"AF": 43,
 					"NAF": 0,
-					"PF": 11,
+					"PF": 14,
 					"RF": 2,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 15,
-					"GEN": 24
+					"LF": 18,
+					"GEN": 34
 				}
 			},
 			{
@@ -406,19 +406,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog5_dakis_takun",
-				"iu_num": 175,
-				"sent_num": 56,
-				"record_time": 415.47,
+				"iu_num": 300,
+				"sent_num": 127,
+				"record_time": 418.76,
 				"marker": {
-					"AF": 43,
+					"AF": 96,
 					"NAF": 0,
-					"PF": 13,
-					"RF": 1,
+					"PF": 34,
+					"RF": 2,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 13,
-					"GEN": 21
+					"LF": 26,
+					"GEN": 58
 				}
 			},
 			{
@@ -450,19 +450,19 @@
 				"collected": "1997-04-05",
 				"revised": "2021-06-01",
 				"topic": "south",
-				"iu_num": 99,
-				"sent_num": 28,
-				"record_time": 162.1,
+				"iu_num": 111,
+				"sent_num": 33,
+				"record_time": 182.47,
 				"marker": {
-					"AF": 46,
+					"AF": 51,
 					"NAF": 0,
-					"PF": 6,
+					"PF": 7,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 2,
-					"GEN": 14
+					"GEN": 15
 				}
 			},
 			{
@@ -472,19 +472,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "tradition",
-				"iu_num": 99,
-				"sent_num": 30,
-				"record_time": 145.07,
+				"iu_num": 232,
+				"sent_num": 68,
+				"record_time": 332.92,
 				"marker": {
-					"AF": 52,
+					"AF": 134,
 					"NAF": 0,
-					"PF": 14,
+					"PF": 30,
 					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 6,
-					"GEN": 36
+					"LF": 19,
+					"GEN": 67
 				}
 			},
 			{
@@ -494,19 +494,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
-				"iu_num": 99,
-				"sent_num": 15,
-				"record_time": 200.4,
+				"iu_num": 267,
+				"sent_num": 46,
+				"record_time": 596.17,
 				"marker": {
-					"AF": 49,
+					"AF": 145,
 					"NAF": 0,
-					"PF": 3,
+					"PF": 15,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 9,
-					"GEN": 24
+					"LF": 13,
+					"GEN": 45
 				}
 			},
 			{
@@ -538,19 +538,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
-				"iu_num": 100,
-				"sent_num": 26,
-				"record_time": 605.33,
+				"iu_num": 425,
+				"sent_num": 110,
+				"record_time": 1124.15,
 				"marker": {
-					"AF": 39,
+					"AF": 208,
 					"NAF": 0,
-					"PF": 6,
+					"PF": 21,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 11,
-					"GEN": 27
+					"LF": 45,
+					"GEN": 102
 				}
 			},
 			{
@@ -582,19 +582,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "pear",
-				"iu_num": 98,
-				"sent_num": 42,
-				"record_time": 258.03,
+				"iu_num": 127,
+				"sent_num": 54,
+				"record_time": 340.33,
 				"marker": {
-					"AF": 70,
+					"AF": 100,
 					"NAF": 0,
-					"PF": 26,
+					"PF": 28,
 					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 11,
-					"GEN": 52
+					"GEN": 60
 				}
 			},
 			{
