@@ -21,7 +21,7 @@
 				"BF": 0,
 				"CF": 1,
 				"LF": 390,
-				"GEN": 1223
+				"GEN": 1224
 			}
 		},
 		"text": [
@@ -462,7 +462,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 2,
-					"GEN": 15
+					"GEN": 16
 				}
 			},
 			{
@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2955,
-				"sent_num": 1094,
+				"iu_num": 2957,
+				"sent_num": 1095,
 				"record_time": 6540.4
 			},
 			"sentence": {
-				"sent_num": 2206
+				"sent_num": 2207
 			},
 			"grammar": {
 				"sent_num": 0
@@ -1195,8 +1195,8 @@
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Marriage Ceremony",
-				"iu_num": 274,
-				"sent_num": 93,
+				"iu_num": 276,
+				"sent_num": 94,
 				"record_time": 717.27,
 				"marker": {
 					"AF": 0,
