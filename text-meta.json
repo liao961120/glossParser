@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2944,
-				"sent_num": 1088,
+				"iu_num": 2952,
+				"sent_num": 1091,
 				"record_time": 6540.4
 			},
 			"sentence": {
-				"sent_num": 2200
+				"sent_num": 2203
 			},
 			"grammar": {
 				"sent_num": 0
@@ -1019,8 +1019,8 @@
 				"collected": "2009-08-07",
 				"revised": "None",
 				"topic": "Work by Men and Women",
-				"iu_num": 233,
-				"sent_num": 96,
+				"iu_num": 241,
+				"sent_num": 99,
 				"record_time": 472.11,
 				"marker": {
 					"AF": 0,
