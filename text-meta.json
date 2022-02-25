@@ -13,7 +13,7 @@
 				"sent_num": 2115
 			},
 			"marker": {
-				"AF": 2530,
+				"AF": 2531,
 				"NAF": 0,
 				"PF": 612,
 				"RF": 38,
@@ -168,7 +168,7 @@
 				"sent_num": 120,
 				"record_time": 903.93,
 				"marker": {
-					"AF": 201,
+					"AF": 202,
 					"NAF": 0,
 					"PF": 45,
 					"RF": 4,
@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2953,
-				"sent_num": 1092,
+				"iu_num": 2955,
+				"sent_num": 1094,
 				"record_time": 6540.4
 			},
 			"sentence": {
-				"sent_num": 2204
+				"sent_num": 2206
 			},
 			"grammar": {
 				"sent_num": 0
@@ -887,8 +887,8 @@
 				"collected": "2009-05-25",
 				"revised": "2013-3-14",
 				"topic": "Pear story",
-				"iu_num": 69,
-				"sent_num": 32,
+				"iu_num": 71,
+				"sent_num": 34,
 				"record_time": 175.38,
 				"marker": {
 					"AF": 0,
