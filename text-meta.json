@@ -3,25 +3,25 @@
 		"summary": {
 			"story": {
 				"iu_num": 4826,
-				"sent_num": 1607,
+				"sent_num": 1606,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2116
+				"sent_num": 2115
 			},
 			"marker": {
-				"AF": 2528,
+				"AF": 2530,
 				"NAF": 0,
-				"PF": 611,
+				"PF": 612,
 				"RF": 38,
 				"IF": 1,
 				"BF": 0,
 				"CF": 1,
 				"LF": 390,
-				"GEN": 1222
+				"GEN": 1223
 			}
 		},
 		"text": [
@@ -55,18 +55,18 @@
 				"revised": "2021-06-01",
 				"topic": "sisin",
 				"iu_num": 573,
-				"sent_num": 133,
+				"sent_num": 132,
 				"record_time": 956.25,
 				"marker": {
 					"AF": 294,
 					"NAF": 0,
-					"PF": 109,
+					"PF": 110,
 					"RF": 7,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 48,
-					"GEN": 168
+					"GEN": 169
 				}
 			},
 			{
@@ -256,7 +256,7 @@
 				"sent_num": 165,
 				"record_time": 469.9,
 				"marker": {
-					"AF": 148,
+					"AF": 149,
 					"NAF": 0,
 					"PF": 33,
 					"RF": 6,
@@ -388,7 +388,7 @@
 				"sent_num": 41,
 				"record_time": 215.41,
 				"marker": {
-					"AF": 43,
+					"AF": 44,
 					"NAF": 0,
 					"PF": 14,
 					"RF": 2,
@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2952,
-				"sent_num": 1091,
+				"iu_num": 2953,
+				"sent_num": 1092,
 				"record_time": 6540.4
 			},
 			"sentence": {
-				"sent_num": 2203
+				"sent_num": 2204
 			},
 			"grammar": {
 				"sent_num": 0
@@ -953,8 +953,8 @@
 				"collected": "2010-01-14",
 				"revised": "None",
 				"topic": "Naming",
-				"iu_num": 313,
-				"sent_num": 62,
+				"iu_num": 314,
+				"sent_num": 63,
 				"record_time": 780.93,
 				"marker": {
 					"AF": 0,
