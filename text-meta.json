@@ -2,7 +2,7 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4826,
+				"iu_num": 4827,
 				"sent_num": 1606,
 				"record_time": 8860.84
 			},
@@ -13,15 +13,15 @@
 				"sent_num": 2115
 			},
 			"marker": {
-				"AF": 2531,
+				"AF": 2533,
 				"NAF": 0,
-				"PF": 612,
+				"PF": 613,
 				"RF": 38,
 				"IF": 1,
 				"BF": 0,
 				"CF": 1,
 				"LF": 390,
-				"GEN": 1224
+				"GEN": 1226
 			}
 		},
 		"text": [
@@ -274,19 +274,19 @@
 				"collected": "1996-10-19",
 				"revised": "2021-06-01",
 				"topic": "pear",
-				"iu_num": 250,
+				"iu_num": 251,
 				"sent_num": 82,
 				"record_time": 378.69,
 				"marker": {
-					"AF": 165,
+					"AF": 167,
 					"NAF": 0,
-					"PF": 40,
+					"PF": 41,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 29,
-					"GEN": 80
+					"GEN": 82
 				}
 			},
 			{
@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2957,
-				"sent_num": 1095,
-				"record_time": 6540.4
+				"iu_num": 2811,
+				"sent_num": 1053,
+				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2207
+				"sent_num": 2165
 			},
 			"grammar": {
 				"sent_num": 0
@@ -876,7 +876,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 73
+				"GEN": 69
 			}
 		},
 		"text": [
@@ -1076,28 +1076,6 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 3
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_salabu",
-				"type": "Narrative",
-				"speaker": "柯啟川, Salrabu, male, 1938",
-				"collected": "2004-04-22",
-				"revised": "2013-1-17",
-				"topic": "Frog story",
-				"iu_num": 146,
-				"sent_num": 42,
-				"record_time": 385.73,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 4
 				}
 			},
 			{
