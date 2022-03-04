@@ -2,26 +2,26 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4827,
-				"sent_num": 1606,
+				"iu_num": 4829,
+				"sent_num": 1608,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2115
+				"sent_num": 2117
 			},
 			"marker": {
-				"AF": 2533,
+				"AF": 2536,
 				"NAF": 0,
 				"PF": 613,
 				"RF": 38,
 				"IF": 1,
 				"BF": 0,
 				"CF": 1,
-				"LF": 390,
-				"GEN": 1226
+				"LF": 391,
+				"GEN": 1227
 			}
 		},
 		"text": [
@@ -54,18 +54,18 @@
 				"collected": "2009-09-17",
 				"revised": "2021-06-01",
 				"topic": "sisin",
-				"iu_num": 573,
-				"sent_num": 132,
+				"iu_num": 574,
+				"sent_num": 133,
 				"record_time": 956.25,
 				"marker": {
-					"AF": 294,
+					"AF": 295,
 					"NAF": 0,
 					"PF": 110,
 					"RF": 7,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 48,
+					"LF": 49,
 					"GEN": 169
 				}
 			},
@@ -498,7 +498,7 @@
 				"sent_num": 46,
 				"record_time": 596.17,
 				"marker": {
-					"AF": 145,
+					"AF": 146,
 					"NAF": 0,
 					"PF": 15,
 					"RF": 0,
@@ -538,11 +538,11 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
-				"iu_num": 425,
-				"sent_num": 110,
+				"iu_num": 426,
+				"sent_num": 111,
 				"record_time": 1124.15,
 				"marker": {
-					"AF": 208,
+					"AF": 209,
 					"NAF": 0,
 					"PF": 21,
 					"RF": 0,
@@ -550,7 +550,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 45,
-					"GEN": 102
+					"GEN": 103
 				}
 			},
 			{
@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2811,
-				"sent_num": 1053,
+				"iu_num": 2814,
+				"sent_num": 1055,
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2165
+				"sent_num": 2167
 			},
 			"grammar": {
 				"sent_num": 0
@@ -1063,8 +1063,8 @@
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Pear story",
-				"iu_num": 140,
-				"sent_num": 30,
+				"iu_num": 143,
+				"sent_num": 32,
 				"record_time": 286.67,
 				"marker": {
 					"AF": 0,

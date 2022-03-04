@@ -1,6 +1,6 @@
 file,language,type,topic,speaker,collected,revised,transcribed,iu_num,sent_num,record_time
 Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s,Seediq_Tgdaya,Conversation,sdqCon-dialog2_ciwas_tiwas,"蔡茂琳, Pawan Nawi, female, 1915",1991-08-16,2021-06-01,NA,336,203,0:08:14
-Seediq_Tgdaya/sdqNr-sisin_dakis 2020s,Seediq_Tgdaya,Narrative,sisin,"郭明正, Dakis Pawan, male, 1953",2009-09-17,2021-06-01,NA,573,132,0:15:56
+Seediq_Tgdaya/sdqNr-sisin_dakis 2020s,Seediq_Tgdaya,Narrative,sisin,"郭明正, Dakis Pawan, male, 1953",2009-09-17,2021-06-01,NA,574,133,0:15:56
 Seediq_Tgdaya/sdqNr-medicine_robo pihu 2020s,Seediq_Tgdaya,Narrative,medicine,"曾鴛鴦, Robo Pihu, female, 1928",NA,2021-06-01,NA,53,25,0:02:00
 Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape 2020s,Seediq_Tgdaya,Conversation,sdqCon-dialog4_robo_bakan_ape,"曾鴛鴦, Robo Pihu, female, 1928",NA,2021-06-01,NA,143,53,0:03:31
 Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s,Seediq_Tgdaya,Conversation,sdqCon-plum_uma_robo,"邱紅春蘭, Uma Nokan, female, 1932",NA,2021-06-01,NA,106,34,0:03:00
@@ -22,7 +22,7 @@ Seediq_Tgdaya/sdqNr-south_pawan 2021s,Seediq_Tgdaya,Narrative,south,"王文則, 
 Seediq_Tgdaya/sdqNr-tradition_dakis 2021s,Seediq_Tgdaya,Narrative,tradition,"郭明正, Dakis Pawan, male, 1953",NA,2021-06-01,NA,232,68,0:05:32
 Seediq_Tgdaya/sdqNr-frog_lubi 2020s,Seediq_Tgdaya,Narrative,frog,"謝美, Lubi Nomin, female, None",NA,2021-06-01,NA,267,46,0:09:56
 Seediq_Tgdaya/sdqNr-sinobale_uma 2021s,Seediq_Tgdaya,Narrative,sinobale,"邱紅春蘭, Uma Nokan, female, 1932",1997-04-04,2021-06-01,NA,32,21,0:00:59
-Seediq_Tgdaya/sdqNr-frog_temi,Seediq_Tgdaya,Narrative,frog,"曾瑞琳, Temi Nawi, female, 1939",NA,2021-06-01,NA,425,110,0:18:44
+Seediq_Tgdaya/sdqNr-frog_temi,Seediq_Tgdaya,Narrative,frog,"曾瑞琳, Temi Nawi, female, 1939",NA,2021-06-01,NA,426,111,0:18:44
 Seediq_Tgdaya/sdqNr-pear_lubi 2020s,Seediq_Tgdaya,Narrative,pear,"謝美, Lubi Nomin, female, None",NA,2021-06-01,NA,87,16,0:02:19
 Seediq_Tgdaya/sdqNr-pear_temi 2020s,Seediq_Tgdaya,Narrative,pear,"曾瑞琳, Temi Nawi, female, 1939",NA,2021-06-01,NA,127,54,0:05:40
 Seediq_Tgdaya/ap2,Seediq_Tgdaya,GrammarBook,長篇語料二 兩個太陽的故事,NA,NA,NA,NA,0,54,0:00:00
@@ -48,7 +48,7 @@ Rukai_Vedai/RukaiNr-becenge_tagas,Rukai_Vedai,Narrative,Millet,"沙本賞, Tagas
 Rukai_Vedai/RukaiNr-pear_ba ching-i,Rukai_Vedai,Narrative,Pear story,"巴清一, unknown, male, None",2004-04-22,2013-3-7,NA,37,19,0:01:52
 Rukai_Vedai/RukaiNr-work by men and women_taugadhu,Rukai_Vedai,Narrative,Work by Men and Women,"杜傳, Taugadhu, male, 1943",2009-08-07,NA,NA,241,99,0:07:52
 Rukai_Vedai/RukaiNr-pear_tagas,Rukai_Vedai,Narrative,Pear story,"沙本賞, Tagas, male, 1938",2010-01-15,NA,NA,42,13,0:01:48
-Rukai_Vedai/RukaiNr-pear_Balenge,Rukai_Vedai,Narrative,Pear story,"潘柯菊華, Balenge, female, 1961",2009-08-06,NA,NA,140,30,0:04:46
+Rukai_Vedai/RukaiNr-pear_Balenge,Rukai_Vedai,Narrative,Pear story,"潘柯菊華, Balenge, female, 1961",2009-08-06,NA,NA,143,32,0:04:46
 Rukai_Vedai/RukaiNr-pear_salrabu,Rukai_Vedai,Narrative,Pear story,"柯啟川, Salrabu, male, 1938",2004-04-22,NA,NA,59,23,0:03:12
 Rukai_Vedai/RukaiNr-frog_Legeai,Rukai_Vedai,Narrative,Frog story,"巴山光, Legeai, male, None",2010-01-14,2013-1-17,NA,181,55,0:06:15
 Rukai_Vedai/RukaiNr-pear_Kainguane,Rukai_Vedai,Narrative,Pear story,"王朝賢, Kainguane, Male, None",2009-05-11,NA,NA,69,69,0:00:00
