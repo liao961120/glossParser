@@ -3213,15 +3213,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1098,
+				"AF": 1099,
 				"NAF": 31,
 				"PF": 0,
 				"RF": 0,
 				"IF": 0,
 				"BF": 0,
 				"CF": 0,
-				"LF": 612,
-				"GEN": 2145
+				"LF": 613,
+				"GEN": 2147
 			}
 		},
 		"text": [
@@ -3566,15 +3566,15 @@
 				"sent_num": 47,
 				"record_time": 215.63,
 				"marker": {
-					"AF": 21,
+					"AF": 22,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 30,
-					"GEN": 59
+					"LF": 31,
+					"GEN": 61
 				}
 			},
 			{
@@ -4720,8 +4720,8 @@
 	"Saisiyat_Tong-he": {
 		"summary": {
 			"story": {
-				"iu_num": 3439,
-				"sent_num": 1377,
+				"iu_num": 3440,
+				"sent_num": 1378,
 				"record_time": 7263.93
 			},
 			"sentence": {
@@ -4731,15 +4731,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1186,
+				"AF": 1188,
 				"NAF": 0,
 				"PF": 442,
-				"RF": 89,
+				"RF": 90,
 				"IF": 1,
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 348
+				"GEN": 349
 			}
 		},
 		"text": [
@@ -4882,11 +4882,11 @@
 				"collected": "2003-01-01",
 				"revised": "2014-4-10",
 				"topic": "holiday",
-				"iu_num": 281,
-				"sent_num": 107,
+				"iu_num": 282,
+				"sent_num": 108,
 				"record_time": 428.9,
 				"marker": {
-					"AF": 108,
+					"AF": 110,
 					"NAF": 0,
 					"PF": 41,
 					"RF": 8,
@@ -4955,12 +4955,12 @@
 					"AF": 38,
 					"NAF": 0,
 					"PF": 11,
-					"RF": 1,
+					"RF": 2,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 7
+					"GEN": 8
 				}
 			},
 			{
