@@ -3202,7 +3202,7 @@
 	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 7012,
+				"iu_num": 7020,
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
@@ -3213,15 +3213,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1092,
+				"AF": 1098,
 				"NAF": 31,
 				"PF": 0,
 				"RF": 0,
 				"IF": 0,
 				"BF": 0,
 				"CF": 0,
-				"LF": 610,
-				"GEN": 2134
+				"LF": 612,
+				"GEN": 2145
 			}
 		},
 		"text": [
@@ -3254,7 +3254,7 @@
 				"collected": "2003-05-30",
 				"revised": "None",
 				"topic": "Pear Story",
-				"iu_num": 90,
+				"iu_num": 93,
 				"sent_num": 22,
 				"record_time": 117.53,
 				"marker": {
@@ -3266,7 +3266,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 11,
-					"GEN": 27
+					"GEN": 29
 				}
 			},
 			{
@@ -3298,19 +3298,19 @@
 				"collected": "2004-10-20",
 				"revised": "2014-6-11",
 				"topic": "Ancestors",
-				"iu_num": 178,
+				"iu_num": 180,
 				"sent_num": 51,
 				"record_time": 440.52,
 				"marker": {
-					"AF": 23,
+					"AF": 24,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 13,
-					"GEN": 47
+					"LF": 14,
+					"GEN": 49
 				}
 			},
 			{
@@ -3456,15 +3456,15 @@
 				"sent_num": 82,
 				"record_time": 660.66,
 				"marker": {
-					"AF": 65,
+					"AF": 69,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 18,
-					"GEN": 86
+					"LF": 19,
+					"GEN": 91
 				}
 			},
 			{
@@ -3496,7 +3496,7 @@
 				"collected": "2003-06-01",
 				"revised": "2013-7-24",
 				"topic": "Frog Story",
-				"iu_num": 244,
+				"iu_num": 245,
 				"sent_num": 53,
 				"record_time": 349.72,
 				"marker": {
@@ -3716,7 +3716,7 @@
 				"collected": "2004-10-01",
 				"revised": "None",
 				"topic": "Sea",
-				"iu_num": 46,
+				"iu_num": 47,
 				"sent_num": 16,
 				"record_time": 112.99,
 				"marker": {
@@ -3728,7 +3728,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 1,
-					"GEN": 4
+					"GEN": 5
 				}
 			},
 			{
@@ -3804,11 +3804,11 @@
 				"collected": "2003-04-19",
 				"revised": "None",
 				"topic": "Pear story",
-				"iu_num": 110,
+				"iu_num": 111,
 				"sent_num": 32,
 				"record_time": 154.84,
 				"marker": {
-					"AF": 23,
+					"AF": 24,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
@@ -3816,7 +3816,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 5,
-					"GEN": 20
+					"GEN": 21
 				}
 			},
 			{
@@ -4731,7 +4731,7 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1182,
+				"AF": 1186,
 				"NAF": 0,
 				"PF": 442,
 				"RF": 89,
@@ -4776,7 +4776,7 @@
 				"sent_num": 152,
 				"record_time": 581.61,
 				"marker": {
-					"AF": 77,
+					"AF": 78,
 					"NAF": 0,
 					"PF": 38,
 					"RF": 4,
@@ -4842,7 +4842,7 @@
 				"sent_num": 35,
 				"record_time": 258.47,
 				"marker": {
-					"AF": 34,
+					"AF": 35,
 					"NAF": 0,
 					"PF": 13,
 					"RF": 5,
@@ -4908,7 +4908,7 @@
 				"sent_num": 71,
 				"record_time": 363.73,
 				"marker": {
-					"AF": 93,
+					"AF": 95,
 					"NAF": 0,
 					"PF": 33,
 					"RF": 3,
