@@ -2,26 +2,26 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4829,
-				"sent_num": 1608,
+				"iu_num": 4831,
+				"sent_num": 1610,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2117
+				"sent_num": 2119
 			},
 			"marker": {
-				"AF": 2536,
+				"AF": 2537,
 				"NAF": 0,
-				"PF": 613,
+				"PF": 614,
 				"RF": 38,
 				"IF": 1,
 				"BF": 0,
 				"CF": 1,
 				"LF": 391,
-				"GEN": 1227
+				"GEN": 1228
 			}
 		},
 		"text": [
@@ -406,19 +406,19 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog5_dakis_takun",
-				"iu_num": 300,
-				"sent_num": 127,
+				"iu_num": 302,
+				"sent_num": 129,
 				"record_time": 418.76,
 				"marker": {
-					"AF": 96,
+					"AF": 97,
 					"NAF": 0,
-					"PF": 34,
+					"PF": 35,
 					"RF": 2,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 26,
-					"GEN": 58
+					"GEN": 59
 				}
 			},
 			{
