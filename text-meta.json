@@ -2932,9 +2932,9 @@
 	"Atayal_Mayrinax": {
 		"summary": {
 			"story": {
-				"iu_num": 1399,
-				"sent_num": 488,
-				"record_time": 4043.28
+				"iu_num": 2392,
+				"sent_num": 801,
+				"record_time": 5099.63
 			},
 			"sentence": {
 				"sent_num": 0
@@ -2943,15 +2943,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 525,
-				"NAF": 4,
+				"AF": 635,
+				"NAF": 9,
 				"PF": 236,
 				"RF": 0,
 				"IF": 15,
 				"BF": 17,
 				"CF": 0,
-				"LF": 138,
-				"GEN": 422
+				"LF": 203,
+				"GEN": 680
 			}
 		},
 		"text": [
@@ -3196,13 +3196,35 @@
 					"LF": 25,
 					"GEN": 54
 				}
+			},
+			{
+				"file": "Atayal_Mayrinax/KavCon-earthquake_abas_haciang",
+				"type": "Conversation",
+				"speaker": "潘天利, Abas, male, 1933",
+				"collected": "2005-01-25",
+				"revised": "2014-1-14",
+				"topic": "Earthquake",
+				"iu_num": 993,
+				"sent_num": 313,
+				"record_time": 1056.35,
+				"marker": {
+					"AF": 110,
+					"NAF": 5,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 65,
+					"GEN": 258
+				}
 			}
 		]
 	},
 	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 7020,
+				"iu_num": 7021,
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
@@ -3364,7 +3386,7 @@
 				"collected": "2004-11-01",
 				"revised": "2014-1-15",
 				"topic": "Relatives",
-				"iu_num": 1088,
+				"iu_num": 1089,
 				"sent_num": 328,
 				"record_time": 1285.68,
 				"marker": {
@@ -6966,7 +6988,7 @@
 	"Amis_Ciwkangan": {
 		"summary": {
 			"story": {
-				"iu_num": 2914,
+				"iu_num": 2915,
 				"sent_num": 756,
 				"record_time": 4217.19
 			},
@@ -6985,7 +7007,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 31,
-				"GEN": 702
+				"GEN": 703
 			}
 		},
 		"text": [
@@ -7184,7 +7206,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 9,
-					"GEN": 53
+					"GEN": 54
 				}
 			},
 			{
@@ -7304,7 +7326,7 @@
 				"collected": "2005-05-19",
 				"revised": "None",
 				"topic": "Pear Story",
-				"iu_num": 131,
+				"iu_num": 132,
 				"sent_num": 25,
 				"record_time": 226.56,
 				"marker": {
