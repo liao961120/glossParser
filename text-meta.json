@@ -2,7 +2,7 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4833,
+				"iu_num": 4834,
 				"sent_num": 1612,
 				"record_time": 8860.84
 			},
@@ -13,7 +13,7 @@
 				"sent_num": 2121
 			},
 			"marker": {
-				"AF": 2539,
+				"AF": 2541,
 				"NAF": 0,
 				"PF": 616,
 				"RF": 38,
@@ -406,11 +406,11 @@
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog5_dakis_takun",
-				"iu_num": 302,
+				"iu_num": 303,
 				"sent_num": 129,
 				"record_time": 418.76,
 				"marker": {
-					"AF": 97,
+					"AF": 99,
 					"NAF": 0,
 					"PF": 35,
 					"RF": 2,
@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2814,
-				"sent_num": 1055,
-				"record_time": 6154.67
+				"iu_num": 2851,
+				"sent_num": 1074,
+				"record_time": 6267.35
 			},
 			"sentence": {
-				"sent_num": 2167
+				"sent_num": 2186
 			},
 			"grammar": {
 				"sent_num": 0
@@ -876,7 +876,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 69
+				"GEN": 79
 			}
 		},
 		"text": [
@@ -1274,6 +1274,28 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_ba ching-i(1)",
+				"type": "Narrative",
+				"speaker": "巴清一, unknown, male, None",
+				"collected": "2004-04-22",
+				"revised": "2013-3-7",
+				"topic": "Pear story",
+				"iu_num": 37,
+				"sent_num": 19,
+				"record_time": 112.68,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 10
 				}
 			},
 			{
@@ -2308,12 +2330,12 @@
 				"sent_num": 1531
 			},
 			"marker": {
-				"AF": 746,
+				"AF": 747,
 				"NAF": 0,
 				"PF": 163,
 				"RF": 6,
 				"IF": 9,
-				"BF": 4,
+				"BF": 5,
 				"CF": 0,
 				"LF": 101,
 				"GEN": 598
@@ -2529,12 +2551,12 @@
 				"sent_num": 84,
 				"record_time": 470.29,
 				"marker": {
-					"AF": 76,
+					"AF": 77,
 					"NAF": 0,
 					"PF": 19,
 					"RF": 0,
 					"IF": 4,
-					"BF": 4,
+					"BF": 5,
 					"CF": 0,
 					"LF": 3,
 					"GEN": 53
@@ -2923,13 +2945,13 @@
 			"marker": {
 				"AF": 522,
 				"NAF": 4,
-				"PF": 235,
+				"PF": 236,
 				"RF": 0,
 				"IF": 15,
-				"BF": 16,
+				"BF": 17,
 				"CF": 0,
 				"LF": 138,
-				"GEN": 418
+				"GEN": 422
 			}
 		},
 		"text": [
@@ -3144,13 +3166,13 @@
 				"marker": {
 					"AF": 55,
 					"NAF": 3,
-					"PF": 25,
+					"PF": 26,
 					"RF": 0,
 					"IF": 0,
-					"BF": 5,
+					"BF": 6,
 					"CF": 0,
 					"LF": 11,
-					"GEN": 57
+					"GEN": 61
 				}
 			},
 			{
@@ -3180,7 +3202,7 @@
 	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 7001,
+				"iu_num": 7012,
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
@@ -3342,7 +3364,7 @@
 				"collected": "2004-11-01",
 				"revised": "2014-1-15",
 				"topic": "Relatives",
-				"iu_num": 1086,
+				"iu_num": 1088,
 				"sent_num": 328,
 				"record_time": 1285.68,
 				"marker": {
@@ -3738,7 +3760,7 @@
 				"collected": "2003-06-01",
 				"revised": "2014-1-15",
 				"topic": "Returning Home",
-				"iu_num": 285,
+				"iu_num": 287,
 				"sent_num": 96,
 				"record_time": 384.62,
 				"marker": {
@@ -3804,7 +3826,7 @@
 				"collected": "2005-12-01",
 				"revised": "2014-1-15",
 				"topic": "Marriage",
-				"iu_num": 623,
+				"iu_num": 624,
 				"sent_num": 188,
 				"record_time": 773.43,
 				"marker": {
@@ -3826,7 +3848,7 @@
 				"collected": "2005-01-25",
 				"revised": "2014-1-14",
 				"topic": "Earthquake",
-				"iu_num": 986,
+				"iu_num": 992,
 				"sent_num": 313,
 				"record_time": 1056.35,
 				"marker": {
@@ -4698,9 +4720,9 @@
 	"Saisiyat_Tong-he": {
 		"summary": {
 			"story": {
-				"iu_num": 3257,
-				"sent_num": 1297,
-				"record_time": 6971.91
+				"iu_num": 3439,
+				"sent_num": 1377,
+				"record_time": 7263.93
 			},
 			"sentence": {
 				"sent_num": 0
@@ -4709,15 +4731,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1121,
+				"AF": 1182,
 				"NAF": 0,
-				"PF": 396,
-				"RF": 87,
+				"PF": 442,
+				"RF": 89,
 				"IF": 1,
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 323
+				"GEN": 348
 			}
 		},
 		"text": [
@@ -5008,6 +5030,28 @@
 				}
 			},
 			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog3__oemaw_a_basi_",
+				"type": "Narrative",
+				"speaker": "None, 'oemaw a basi', Male, None",
+				"collected": "2003-01-01",
+				"revised": "2013-12-4",
+				"topic": "frog3",
+				"iu_num": 181,
+				"sent_num": 80,
+				"record_time": 292.02,
+				"marker": {
+					"AF": 61,
+					"NAF": 0,
+					"PF": 46,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 25
+				}
+			},
+			{
 				"file": "Saisiyat_Tong-he/SaiNr-pear4_tosi_ masin",
 				"type": "Narrative",
 				"speaker": "徐年枝, tosi' masin, female, 1942",
@@ -5036,7 +5080,7 @@
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog5",
-				"iu_num": 278,
+				"iu_num": 279,
 				"sent_num": 92,
 				"record_time": 587.83,
 				"marker": {
