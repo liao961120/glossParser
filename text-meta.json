@@ -2932,9 +2932,9 @@
 	"Atayal_Mayrinax": {
 		"summary": {
 			"story": {
-				"iu_num": 2392,
-				"sent_num": 801,
-				"record_time": 5099.63
+				"iu_num": 1399,
+				"sent_num": 488,
+				"record_time": 4043.28
 			},
 			"sentence": {
 				"sent_num": 0
@@ -2943,15 +2943,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 635,
-				"NAF": 9,
+				"AF": 525,
+				"NAF": 4,
 				"PF": 236,
 				"RF": 0,
 				"IF": 15,
 				"BF": 17,
 				"CF": 0,
-				"LF": 203,
-				"GEN": 680
+				"LF": 138,
+				"GEN": 422
 			}
 		},
 		"text": [
@@ -3196,35 +3196,13 @@
 					"LF": 25,
 					"GEN": 54
 				}
-			},
-			{
-				"file": "Atayal_Mayrinax/KavCon-earthquake_abas_haciang",
-				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2005-01-25",
-				"revised": "2014-1-14",
-				"topic": "Earthquake",
-				"iu_num": 993,
-				"sent_num": 313,
-				"record_time": 1056.35,
-				"marker": {
-					"AF": 110,
-					"NAF": 5,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 65,
-					"GEN": 258
-				}
 			}
 		]
 	},
 	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 7021,
+				"iu_num": 7024,
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
@@ -3235,15 +3213,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1099,
-				"NAF": 31,
+				"AF": 1100,
+				"NAF": 32,
 				"PF": 0,
 				"RF": 0,
 				"IF": 0,
 				"BF": 0,
 				"CF": 0,
 				"LF": 613,
-				"GEN": 2147
+				"GEN": 2151
 			}
 		},
 		"text": [
@@ -3716,7 +3694,7 @@
 				"collected": "2004-01-01",
 				"revised": "None",
 				"topic": "Frog story",
-				"iu_num": 394,
+				"iu_num": 395,
 				"sent_num": 158,
 				"record_time": 640.97,
 				"marker": {
@@ -3728,7 +3706,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 33,
-					"GEN": 206
+					"GEN": 207
 				}
 			},
 			{
@@ -3870,19 +3848,19 @@
 				"collected": "2005-01-25",
 				"revised": "2014-1-14",
 				"topic": "Earthquake",
-				"iu_num": 992,
+				"iu_num": 993,
 				"sent_num": 313,
 				"record_time": 1056.35,
 				"marker": {
 					"AF": 110,
-					"NAF": 4,
+					"NAF": 5,
 					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 65,
-					"GEN": 255
+					"GEN": 258
 				}
 			},
 			{
@@ -3914,11 +3892,11 @@
 				"collected": "2003-06-01",
 				"revised": "2014-1-14",
 				"topic": "Kavalan Speech Contest",
-				"iu_num": 268,
+				"iu_num": 269,
 				"sent_num": 88,
 				"record_time": 313.8,
 				"marker": {
-					"AF": 19,
+					"AF": 20,
 					"NAF": 1,
 					"PF": 0,
 					"RF": 0,
