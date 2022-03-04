@@ -2,18 +2,18 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4831,
-				"sent_num": 1610,
+				"iu_num": 4832,
+				"sent_num": 1611,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2119
+				"sent_num": 2120
 			},
 			"marker": {
-				"AF": 2537,
+				"AF": 2538,
 				"NAF": 0,
 				"PF": 614,
 				"RF": 38,
@@ -32,11 +32,11 @@
 				"collected": "1991-08-16",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog2_ciwas_tiwas",
-				"iu_num": 336,
-				"sent_num": 203,
+				"iu_num": 337,
+				"sent_num": 204,
 				"record_time": 494.09,
 				"marker": {
-					"AF": 213,
+					"AF": 214,
 					"NAF": 0,
 					"PF": 40,
 					"RF": 0,
@@ -2297,26 +2297,26 @@
 	"Sakizaya_Sakizaya": {
 		"summary": {
 			"story": {
-				"iu_num": 2085,
-				"sent_num": 921,
+				"iu_num": 2087,
+				"sent_num": 923,
 				"record_time": 4686.77
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 1529
+				"sent_num": 1531
 			},
 			"marker": {
-				"AF": 742,
+				"AF": 746,
 				"NAF": 0,
-				"PF": 161,
+				"PF": 163,
 				"RF": 6,
 				"IF": 9,
 				"BF": 4,
 				"CF": 0,
 				"LF": 101,
-				"GEN": 594
+				"GEN": 598
 			}
 		},
 		"text": [
@@ -2415,19 +2415,19 @@
 				"collected": "2009-10-31",
 				"revised": "None",
 				"topic": "Palamal_Kaniw",
-				"iu_num": 261,
-				"sent_num": 112,
+				"iu_num": 262,
+				"sent_num": 113,
 				"record_time": 508.74,
 				"marker": {
-					"AF": 97,
+					"AF": 100,
 					"NAF": 0,
-					"PF": 11,
+					"PF": 13,
 					"RF": 0,
 					"IF": 1,
 					"BF": 0,
 					"CF": 0,
 					"LF": 13,
-					"GEN": 57
+					"GEN": 60
 				}
 			},
 			{
@@ -2547,11 +2547,11 @@
 				"collected": "2009-08-28",
 				"revised": "None",
 				"topic": "pear_dungi",
-				"iu_num": 93,
-				"sent_num": 41,
+				"iu_num": 94,
+				"sent_num": 42,
 				"record_time": 173.51,
 				"marker": {
-					"AF": 41,
+					"AF": 42,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
@@ -2559,7 +2559,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 26
+					"GEN": 27
 				}
 			},
 			{
