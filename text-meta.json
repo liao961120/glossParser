@@ -2,7 +2,7 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4836,
+				"iu_num": 4837,
 				"sent_num": 1613,
 				"record_time": 8860.84
 			},
@@ -450,7 +450,7 @@
 				"collected": "1997-04-05",
 				"revised": "2021-06-01",
 				"topic": "south",
-				"iu_num": 111,
+				"iu_num": 112,
 				"sent_num": 33,
 				"record_time": 182.47,
 				"marker": {
@@ -2330,12 +2330,12 @@
 				"sent_num": 1531
 			},
 			"marker": {
-				"AF": 746,
+				"AF": 747,
 				"NAF": 0,
 				"PF": 163,
 				"RF": 6,
 				"IF": 9,
-				"BF": 4,
+				"BF": 5,
 				"CF": 0,
 				"LF": 101,
 				"GEN": 598
@@ -2551,12 +2551,12 @@
 				"sent_num": 84,
 				"record_time": 470.29,
 				"marker": {
-					"AF": 76,
+					"AF": 77,
 					"NAF": 0,
 					"PF": 19,
 					"RF": 0,
 					"IF": 4,
-					"BF": 4,
+					"BF": 5,
 					"CF": 0,
 					"LF": 3,
 					"GEN": 53
