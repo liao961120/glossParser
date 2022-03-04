@@ -1,26 +1,10 @@
-2022-03-04 15:31:01
+2022-03-04 15:43:30
 
-INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s.txt/#183
-INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s.txt/#184
 INVALID GLOSS formatting:				raw-data/story/Seediq_Tgdaya/sdqNr-south_pawan 2021s.txt/#102
 Diff. num of tokens in EN & CH annot:	raw-data/story/Sakizaya_Sakizaya/skzyNr-class_sinay.txt/#154
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting3_Takun.txt/#53
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting3_Takun.txt/#67
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting2_Buyung.txt/#20
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting2_Buyung.txt/#40
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting2_Buyung.txt/#49
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting2_Buyung.txt/#60
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting2_Buyung.txt/#80
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#14
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#47
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#50
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#71
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#78
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#91
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-proposal_Takun.txt/#144
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-sowing_Kainu.txt/#15
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-sowing_Kainu.txt/#95
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-sowing_Kainu.txt/#130
+Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting2_Buyung.txt/#46
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Kainu.txt/#19
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Kainu.txt/#61
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Kainu.txt/#72
@@ -28,17 +12,6 @@ Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-movin
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Kainu.txt/#159
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Kainu.txt/#190
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Kainu.txt/#198
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Takun.txt/#34
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-moving_Takun.txt/#144
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#26
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#27
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#39
-INVALID GLOSS formatting:				raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#40
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#41
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#52
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#55
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#73
-Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-dailylife3_Tauyu.txt/#74
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting1_Kainu.txt/#36
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting1_Kainu.txt/#80
 Diff. num of tokens in EN & CH annot:	raw-data/story/Atayal_Mayrinax/AtaNr-hunting1_Kainu.txt/#83

@@ -2,25 +2,25 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4834,
-				"sent_num": 1612,
+				"iu_num": 4836,
+				"sent_num": 1613,
 				"record_time": 8860.84
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2121
+				"sent_num": 2122
 			},
 			"marker": {
-				"AF": 2541,
+				"AF": 2545,
 				"NAF": 0,
 				"PF": 616,
 				"RF": 38,
 				"IF": 1,
 				"BF": 0,
 				"CF": 1,
-				"LF": 391,
+				"LF": 392,
 				"GEN": 1232
 			}
 		},
@@ -32,18 +32,18 @@
 				"collected": "1991-08-16",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog2_ciwas_tiwas",
-				"iu_num": 337,
-				"sent_num": 204,
+				"iu_num": 339,
+				"sent_num": 205,
 				"record_time": 494.09,
 				"marker": {
-					"AF": 214,
+					"AF": 218,
 					"NAF": 0,
 					"PF": 40,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 26,
+					"LF": 27,
 					"GEN": 75
 				}
 			},
@@ -2932,8 +2932,8 @@
 	"Atayal_Mayrinax": {
 		"summary": {
 			"story": {
-				"iu_num": 1398,
-				"sent_num": 487,
+				"iu_num": 1399,
+				"sent_num": 488,
 				"record_time": 4043.28
 			},
 			"sentence": {
@@ -2943,7 +2943,7 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 523,
+				"AF": 525,
 				"NAF": 4,
 				"PF": 236,
 				"RF": 0,
@@ -2962,11 +2962,11 @@
 				"collected": "2011-04-01",
 				"revised": "2013-1-25",
 				"topic": "Daily Life 3",
-				"iu_num": 97,
-				"sent_num": 45,
+				"iu_num": 98,
+				"sent_num": 46,
 				"record_time": 288.24,
 				"marker": {
-					"AF": 25,
+					"AF": 26,
 					"NAF": 0,
 					"PF": 5,
 					"RF": 0,
@@ -3054,7 +3054,7 @@
 				"sent_num": 49,
 				"record_time": 519.66,
 				"marker": {
-					"AF": 71,
+					"AF": 72,
 					"NAF": 0,
 					"PF": 26,
 					"RF": 0,
