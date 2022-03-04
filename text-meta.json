@@ -2330,12 +2330,12 @@
 				"sent_num": 1531
 			},
 			"marker": {
-				"AF": 747,
+				"AF": 746,
 				"NAF": 0,
 				"PF": 163,
 				"RF": 6,
 				"IF": 9,
-				"BF": 5,
+				"BF": 4,
 				"CF": 0,
 				"LF": 101,
 				"GEN": 598
@@ -2551,12 +2551,12 @@
 				"sent_num": 84,
 				"record_time": 470.29,
 				"marker": {
-					"AF": 77,
+					"AF": 76,
 					"NAF": 0,
 					"PF": 19,
 					"RF": 0,
 					"IF": 4,
-					"BF": 5,
+					"BF": 4,
 					"CF": 0,
 					"LF": 3,
 					"GEN": 53
@@ -2943,7 +2943,7 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 522,
+				"AF": 523,
 				"NAF": 4,
 				"PF": 236,
 				"RF": 0,
@@ -3120,7 +3120,7 @@
 				"sent_num": 103,
 				"record_time": 610.53,
 				"marker": {
-					"AF": 74,
+					"AF": 75,
 					"NAF": 0,
 					"PF": 37,
 					"RF": 0,
@@ -6966,7 +6966,7 @@
 	"Amis_Ciwkangan": {
 		"summary": {
 			"story": {
-				"iu_num": 2911,
+				"iu_num": 2914,
 				"sent_num": 756,
 				"record_time": 4217.19
 			},
@@ -7128,7 +7128,7 @@
 				"collected": "2007-01-05",
 				"revised": "2014-1-16",
 				"topic": "Self-introduction",
-				"iu_num": 45,
+				"iu_num": 46,
 				"sent_num": 13,
 				"record_time": 72.19,
 				"marker": {
@@ -7150,7 +7150,7 @@
 				"collected": "2005-07-08",
 				"revised": "2014-1-16",
 				"topic": "Introduction",
-				"iu_num": 135,
+				"iu_num": 136,
 				"sent_num": 33,
 				"record_time": 170.18,
 				"marker": {
@@ -7194,7 +7194,7 @@
 				"collected": "2007-01-05",
 				"revised": "2014-1-16",
 				"topic": "Religion and My Life",
-				"iu_num": 404,
+				"iu_num": 405,
 				"sent_num": 93,
 				"record_time": 570.5,
 				"marker": {
