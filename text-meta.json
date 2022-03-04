@@ -3202,7 +3202,7 @@
 	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 7024,
+				"iu_num": 7026,
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
@@ -3364,7 +3364,7 @@
 				"collected": "2004-11-01",
 				"revised": "2014-1-15",
 				"topic": "Relatives",
-				"iu_num": 1089,
+				"iu_num": 1090,
 				"sent_num": 328,
 				"record_time": 1285.68,
 				"marker": {
@@ -3848,7 +3848,7 @@
 				"collected": "2005-01-25",
 				"revised": "2014-1-14",
 				"topic": "Earthquake",
-				"iu_num": 993,
+				"iu_num": 994,
 				"sent_num": 313,
 				"record_time": 1056.35,
 				"marker": {
@@ -7401,15 +7401,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 2146,
-				"NAF": 438,
-				"PF": 663,
+				"AF": 2154,
+				"NAF": 439,
+				"PF": 666,
 				"RF": 0,
 				"IF": 0,
 				"BF": 33,
 				"CF": 0,
-				"LF": 185,
-				"GEN": 598
+				"LF": 187,
+				"GEN": 601
 			}
 		},
 		"text": [
@@ -7431,7 +7431,7 @@
 					"IF": 0,
 					"BF": 2,
 					"CF": 0,
-					"LF": 11,
+					"LF": 12,
 					"GEN": 43
 				}
 			},
@@ -7446,9 +7446,9 @@
 				"sent_num": 244,
 				"record_time": 0,
 				"marker": {
-					"AF": 480,
+					"AF": 486,
 					"NAF": 50,
-					"PF": 121,
+					"PF": 120,
 					"RF": 0,
 					"IF": 0,
 					"BF": 6,
@@ -7468,9 +7468,9 @@
 				"sent_num": 18,
 				"record_time": 123.34,
 				"marker": {
-					"AF": 57,
+					"AF": 58,
 					"NAF": 19,
-					"PF": 15,
+					"PF": 16,
 					"RF": 0,
 					"IF": 0,
 					"BF": 1,
@@ -7536,13 +7536,13 @@
 				"marker": {
 					"AF": 56,
 					"NAF": 15,
-					"PF": 25,
+					"PF": 26,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 2,
-					"GEN": 21
+					"GEN": 22
 				}
 			},
 			{
@@ -7622,14 +7622,14 @@
 				"sent_num": 295,
 				"record_time": 1034.22,
 				"marker": {
-					"AF": 539,
+					"AF": 538,
 					"NAF": 60,
 					"PF": 144,
 					"RF": 0,
 					"IF": 0,
 					"BF": 6,
 					"CF": 0,
-					"LF": 19,
+					"LF": 20,
 					"GEN": 103
 				}
 			},
@@ -7666,15 +7666,15 @@
 				"sent_num": 85,
 				"record_time": 464.57,
 				"marker": {
-					"AF": 234,
-					"NAF": 65,
-					"PF": 80,
+					"AF": 236,
+					"NAF": 66,
+					"PF": 82,
 					"RF": 0,
 					"IF": 0,
 					"BF": 2,
 					"CF": 0,
 					"LF": 29,
-					"GEN": 79
+					"GEN": 81
 				}
 			}
 		]

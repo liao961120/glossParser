@@ -1,7 +1,5 @@
-2022-03-04 16:37:31
+2022-03-04 16:52:46
 
-Diff. num of tokens in EN & CH annot:	raw-data/story/Kavalan_Xinshe/KavCon-relatives_buya_ngengi.txt/#82
-Diff. num of tokens in EN & CH annot:	raw-data/story/Kavalan_Xinshe/KavCon-earthquake_abas_haciang.txt/#722
 Diff. num of tokens in EN & CH annot:	raw-data/story/Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu.txt/#11
 Diff. num of tokens in EN & CH annot:	raw-data/story/Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu.txt/#39
 INVALID GLOSS formatting:				raw-data/story/Kanakanavu_Kanakanavu/kkvNr-story_pani.txt/#52
@@ -193,30 +191,7 @@ INVALID GLOSS formatting:				raw-data/story/Bunun_Isbukun/bnNr-hunter-becominig-
 INVALID GLOSS formatting:				raw-data/story/Bunun_Isbukun/bnNr-hunter-becominig-a-bird_Hanaivaz.txt/#77
 Diff. num of tokens in EN & CH annot:	raw-data/story/Bunun_Isbukun/bnNr-hunter-becominig-a-bird_Hanaivaz.txt/#186
 Diff. num of tokens in EN & CH annot:	raw-data/story/Bunun_Isbukun/bnNr-hunter-becominig-a-bird_Hanaivaz.txt/#215
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#160
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#161
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#163
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#190
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#220
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#242
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-typhoon.txt/#366
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr_lovestry_wang-2.txt/#12
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr_lovestry_wang-2.txt/#21
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr_lovestry_wang-2.txt/#59
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-love-story-zhuang.txt/#27
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-love-story-zhuang.txt/#31
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/Tsou-frog-story-wang-1.txt/#16
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/Tsou-frog-story-wang-1.txt/#77
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/Tsou-frog-story-wang-1.txt/#138
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-pear-An.txt/#1
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-pear-An.txt/#46
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#39
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#128
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#245
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#356
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#445
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#482
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/None-1.txt/#496
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-pear-story-3.txt/#8
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-pear-story-3.txt/#48
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-pear-story-3.txt/#55
@@ -227,16 +202,3 @@ Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-informan
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-informants.txt/#122
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-informants.txt/#151
 Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouConv-informants.txt/#239
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#10
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#54
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#70
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#72
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#86
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#93
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#99
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#114
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#120
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#121
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#164
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#177
-Diff. num of tokens in EN & CH annot:	raw-data/story/Tsou_Tsou/TsouNr-frog-story-shi.txt/#184
