@@ -857,12 +857,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2851,
-				"sent_num": 1074,
-				"record_time": 6267.35
+				"iu_num": 2814,
+				"sent_num": 1055,
+				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2186
+				"sent_num": 2167
 			},
 			"grammar": {
 				"sent_num": 0
@@ -876,7 +876,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 79
+				"GEN": 59
 			}
 		},
 		"text": [
@@ -996,7 +996,7 @@
 				"speaker": "巴清一, unknown, male, None",
 				"collected": "2004-04-22",
 				"revised": "2013-3-7",
-				"topic": "Pear story",
+				"topic": "pear story",
 				"iu_num": 37,
 				"sent_num": 19,
 				"record_time": 112.68,
@@ -1009,7 +1009,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 10
+					"GEN": 0
 				}
 			},
 			{
@@ -1274,28 +1274,6 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_ba ching-i(1)",
-				"type": "Narrative",
-				"speaker": "巴清一, unknown, male, None",
-				"collected": "2004-04-22",
-				"revised": "2013-3-7",
-				"topic": "Pear story",
-				"iu_num": 37,
-				"sent_num": 19,
-				"record_time": 112.68,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 10
 				}
 			},
 			{
@@ -3912,7 +3890,7 @@
 	"Kanakanavu_Kanakanavu": {
 		"summary": {
 			"story": {
-				"iu_num": 3470,
+				"iu_num": 3475,
 				"sent_num": 1086,
 				"record_time": 8689.82
 			},
@@ -3923,7 +3901,7 @@
 				"sent_num": 2982
 			},
 			"marker": {
-				"AF": 939,
+				"AF": 942,
 				"NAF": 0,
 				"PF": 168,
 				"RF": 3,
@@ -3931,7 +3909,7 @@
 				"BF": 0,
 				"CF": 1,
 				"LF": 3,
-				"GEN": 302
+				"GEN": 304
 			}
 		},
 		"text": [
@@ -3942,7 +3920,7 @@
 				"collected": "00 :09 :28",
 				"revised": "None",
 				"topic": "Farming",
-				"iu_num": 148,
+				"iu_num": 151,
 				"sent_num": 38,
 				"record_time": 563.03,
 				"marker": {
@@ -4030,11 +4008,11 @@
 				"collected": "00:10:43",
 				"revised": "None",
 				"topic": "The man from China_Pani",
-				"iu_num": 267,
+				"iu_num": 268,
 				"sent_num": 53,
 				"record_time": 638.72,
 				"marker": {
-					"AF": 117,
+					"AF": 118,
 					"NAF": 0,
 					"PF": 11,
 					"RF": 2,
@@ -4276,7 +4254,7 @@
 				"sent_num": 64,
 				"record_time": 621.92,
 				"marker": {
-					"AF": 69,
+					"AF": 71,
 					"NAF": 0,
 					"PF": 19,
 					"RF": 0,
@@ -4284,7 +4262,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 33
+					"GEN": 35
 				}
 			},
 			{
@@ -4338,7 +4316,7 @@
 				"collected": "2012-06-??",
 				"revised": "2014-2-10",
 				"topic": "Millet",
-				"iu_num": 206,
+				"iu_num": 207,
 				"sent_num": 96,
 				"record_time": 410.12,
 				"marker": {
@@ -5210,26 +5188,26 @@
 	"Bunun_Isbukun": {
 		"summary": {
 			"story": {
-				"iu_num": 2557,
-				"sent_num": 940,
+				"iu_num": 2577,
+				"sent_num": 949,
 				"record_time": 5863.17
 			},
 			"sentence": {
-				"sent_num": 2972
+				"sent_num": 2981
 			},
 			"grammar": {
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 746,
+				"AF": 756,
 				"NAF": 0,
-				"PF": 247,
+				"PF": 251,
 				"RF": 0,
 				"IF": 46,
 				"BF": 0,
 				"CF": 0,
 				"LF": 147,
-				"GEN": 204
+				"GEN": 206
 			}
 		},
 		"text": [
@@ -5239,8 +5217,8 @@
 				"speaker": "顏光榮, Laniahu Isbalidav, Male, None",
 				"collected": "2017-01-02",
 				"topic": "frog_Laniahu",
-				"iu_num": 461,
-				"sent_num": 159,
+				"iu_num": 466,
+				"sent_num": 162,
 				"record_time": 781.43,
 				"marker": {
 					"AF": 58,
@@ -5261,7 +5239,7 @@
 				"collected": "2017-01-05",
 				"revised": "None",
 				"topic": "frog_Samingaz",
-				"iu_num": 148,
+				"iu_num": 149,
 				"sent_num": 50,
 				"record_time": 344.54,
 				"marker": {
@@ -5283,11 +5261,11 @@
 				"collected": "2017-01-05",
 				"revised": "None",
 				"topic": "pear_Samingaz",
-				"iu_num": 118,
-				"sent_num": 49,
+				"iu_num": 120,
+				"sent_num": 51,
 				"record_time": 358.11,
 				"marker": {
-					"AF": 58,
+					"AF": 60,
 					"NAF": 0,
 					"PF": 12,
 					"RF": 0,
@@ -5371,11 +5349,11 @@
 				"collected": "2016-03-23",
 				"revised": "None",
 				"topic": "hunter-becominig-a-bird_Hanaivaz",
-				"iu_num": 295,
-				"sent_num": 60,
+				"iu_num": 298,
+				"sent_num": 61,
 				"record_time": 493.42,
 				"marker": {
-					"AF": 94,
+					"AF": 97,
 					"NAF": 0,
 					"PF": 14,
 					"RF": 0,
@@ -5393,19 +5371,19 @@
 				"collected": "2016-03-23",
 				"revised": "None",
 				"topic": "frog_Hanaivaz",
-				"iu_num": 301,
-				"sent_num": 97,
+				"iu_num": 305,
+				"sent_num": 99,
 				"record_time": 561.52,
 				"marker": {
-					"AF": 76,
+					"AF": 77,
 					"NAF": 0,
-					"PF": 29,
+					"PF": 31,
 					"RF": 0,
 					"IF": 3,
 					"BF": 0,
 					"CF": 0,
 					"LF": 9,
-					"GEN": 23
+					"GEN": 24
 				}
 			},
 			{
@@ -5415,19 +5393,19 @@
 				"collected": "2017-01-03",
 				"revised": "None",
 				"topic": "forg_Talum",
-				"iu_num": 113,
-				"sent_num": 45,
+				"iu_num": 116,
+				"sent_num": 46,
 				"record_time": 268.95,
 				"marker": {
-					"AF": 35,
+					"AF": 37,
 					"NAF": 0,
-					"PF": 19,
+					"PF": 21,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 8,
-					"GEN": 15
+					"GEN": 16
 				}
 			},
 			{
@@ -5481,11 +5459,11 @@
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "pear_Laniahu",
-				"iu_num": 179,
+				"iu_num": 180,
 				"sent_num": 93,
 				"record_time": 392.47,
 				"marker": {
-					"AF": 34,
+					"AF": 36,
 					"NAF": 0,
 					"PF": 12,
 					"RF": 0,
@@ -5503,7 +5481,7 @@
 				"collected": "2016-03-23",
 				"revised": "None",
 				"topic": "lazy-daughter-in-law_Hanaivaz",
-				"iu_num": 221,
+				"iu_num": 222,
 				"sent_num": 117,
 				"record_time": 656.71,
 				"marker": {
