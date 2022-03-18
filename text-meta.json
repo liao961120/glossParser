@@ -3890,15 +3890,15 @@
 	"Kanakanavu_Kanakanavu": {
 		"summary": {
 			"story": {
-				"iu_num": 3475,
-				"sent_num": 1086,
+				"iu_num": 3476,
+				"sent_num": 1087,
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2372
+				"sent_num": 2373
 			},
 			"grammar": {
-				"sent_num": 2982
+				"sent_num": 2983
 			},
 			"marker": {
 				"AF": 942,
@@ -4052,8 +4052,8 @@
 				"collected": "00:10:14",
 				"revised": "2017-7-24",
 				"topic": "Story",
-				"iu_num": 143,
-				"sent_num": 69,
+				"iu_num": 144,
+				"sent_num": 70,
 				"record_time": 613.35,
 				"marker": {
 					"AF": 56,
@@ -5188,7 +5188,7 @@
 	"Bunun_Isbukun": {
 		"summary": {
 			"story": {
-				"iu_num": 2577,
+				"iu_num": 2578,
 				"sent_num": 949,
 				"record_time": 5863.17
 			},
@@ -5459,7 +5459,7 @@
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "pear_Laniahu",
-				"iu_num": 180,
+				"iu_num": 181,
 				"sent_num": 93,
 				"record_time": 392.47,
 				"marker": {
