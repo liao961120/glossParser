@@ -3912,26 +3912,26 @@
 	"Kanakanavu_Kanakanavu": {
 		"summary": {
 			"story": {
-				"iu_num": 3465,
-				"sent_num": 1084,
+				"iu_num": 3470,
+				"sent_num": 1086,
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2370
+				"sent_num": 2372
 			},
 			"grammar": {
-				"sent_num": 2980
+				"sent_num": 2982
 			},
 			"marker": {
-				"AF": 935,
+				"AF": 939,
 				"NAF": 0,
-				"PF": 167,
+				"PF": 168,
 				"RF": 3,
 				"IF": 20,
 				"BF": 0,
 				"CF": 1,
 				"LF": 3,
-				"GEN": 301
+				"GEN": 302
 			}
 		},
 		"text": [
@@ -4052,11 +4052,11 @@
 				"collected": "13:57",
 				"revised": "2015-9-2",
 				"topic": "Frog story",
-				"iu_num": 398,
+				"iu_num": 399,
 				"sent_num": 76,
 				"record_time": 834.56,
 				"marker": {
-					"AF": 121,
+					"AF": 122,
 					"NAF": 0,
 					"PF": 15,
 					"RF": 0,
@@ -4118,19 +4118,19 @@
 				"collected": "None",
 				"revised": "2016-5-24",
 				"topic": "Frog story",
-				"iu_num": 150,
-				"sent_num": 79,
+				"iu_num": 153,
+				"sent_num": 81,
 				"record_time": 468.98,
 				"marker": {
-					"AF": 66,
+					"AF": 69,
 					"NAF": 0,
-					"PF": 8,
+					"PF": 9,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 37
+					"GEN": 38
 				}
 			},
 			{
@@ -4140,7 +4140,7 @@
 				"collected": "2008-05-31",
 				"revised": "2017-6-6",
 				"topic": "sowing",
-				"iu_num": 61,
+				"iu_num": 62,
 				"sent_num": 16,
 				"record_time": 175.05,
 				"marker": {
@@ -5210,7 +5210,7 @@
 	"Bunun_Isbukun": {
 		"summary": {
 			"story": {
-				"iu_num": 2556,
+				"iu_num": 2557,
 				"sent_num": 940,
 				"record_time": 5863.17
 			},
@@ -5305,7 +5305,7 @@
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "pear_Ciang",
-				"iu_num": 126,
+				"iu_num": 127,
 				"sent_num": 43,
 				"record_time": 369.02,
 				"marker": {
