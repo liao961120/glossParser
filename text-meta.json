@@ -3912,18 +3912,18 @@
 	"Kanakanavu_Kanakanavu": {
 		"summary": {
 			"story": {
-				"iu_num": 3458,
-				"sent_num": 1083,
+				"iu_num": 3465,
+				"sent_num": 1084,
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2369
+				"sent_num": 2370
 			},
 			"grammar": {
-				"sent_num": 2979
+				"sent_num": 2980
 			},
 			"marker": {
-				"AF": 923,
+				"AF": 935,
 				"NAF": 0,
 				"PF": 167,
 				"RF": 3,
@@ -3931,7 +3931,7 @@
 				"BF": 0,
 				"CF": 1,
 				"LF": 3,
-				"GEN": 295
+				"GEN": 301
 			}
 		},
 		"text": [
@@ -3942,11 +3942,11 @@
 				"collected": "00 :09 :28",
 				"revised": "None",
 				"topic": "Farming",
-				"iu_num": 144,
+				"iu_num": 148,
 				"sent_num": 38,
 				"record_time": 563.03,
 				"marker": {
-					"AF": 31,
+					"AF": 35,
 					"NAF": 0,
 					"PF": 13,
 					"RF": 0,
@@ -3954,7 +3954,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 1,
-					"GEN": 9
+					"GEN": 11
 				}
 			},
 			{
@@ -3968,7 +3968,7 @@
 				"sent_num": 49,
 				"record_time": 682.97,
 				"marker": {
-					"AF": 105,
+					"AF": 108,
 					"NAF": 0,
 					"PF": 21,
 					"RF": 1,
@@ -4030,11 +4030,11 @@
 				"collected": "00:10:43",
 				"revised": "None",
 				"topic": "The man from China_Pani",
-				"iu_num": 265,
-				"sent_num": 52,
+				"iu_num": 267,
+				"sent_num": 53,
 				"record_time": 638.72,
 				"marker": {
-					"AF": 114,
+					"AF": 117,
 					"NAF": 0,
 					"PF": 11,
 					"RF": 2,
@@ -4042,7 +4042,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 24
+					"GEN": 25
 				}
 			},
 			{
@@ -4056,7 +4056,7 @@
 				"sent_num": 76,
 				"record_time": 834.56,
 				"marker": {
-					"AF": 119,
+					"AF": 121,
 					"NAF": 0,
 					"PF": 15,
 					"RF": 0,
@@ -4064,7 +4064,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 27
+					"GEN": 29
 				}
 			},
 			{
@@ -4074,7 +4074,7 @@
 				"collected": "00:10:14",
 				"revised": "2017-7-24",
 				"topic": "Story",
-				"iu_num": 142,
+				"iu_num": 143,
 				"sent_num": 69,
 				"record_time": 613.35,
 				"marker": {
@@ -4086,7 +4086,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 16
+					"GEN": 17
 				}
 			},
 			{
