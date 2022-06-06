@@ -2180,12 +2180,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2907,
-				"sent_num": 1093,
+				"iu_num": 2910,
+				"sent_num": 1095,
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2205
+				"sent_num": 2207
 			},
 			"grammar": {
 				"sent_num": 0
@@ -2448,11 +2448,11 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Waecacane",
 				"type": "Narrative",
-				"speaker": "巴山光, waecacane ka taitaugadu, Male, 1951",
+				"speaker": "杜山雄, waecacane ka taitaugadu, Male, 1951",
 				"collected": "2022-02-12",
 				"topic": "Frog story",
-				"iu_num": 93,
-				"sent_num": 38,
+				"iu_num": 96,
+				"sent_num": 40,
 				"record_time": 0,
 				"marker": {
 					"AF": 0,
