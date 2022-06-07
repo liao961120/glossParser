@@ -2180,7 +2180,7 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2910,
+				"iu_num": 2911,
 				"sent_num": 1095,
 				"record_time": 6154.67
 			},
@@ -2297,7 +2297,7 @@
 				"speaker": "巴清一, unknown, male, None",
 				"collected": "2004-04-22",
 				"revised": "2013-3-7",
-				"topic": "pear story",
+				"topic": "Pear story",
 				"iu_num": 37,
 				"sent_num": 19,
 				"record_time": 112.68,
@@ -2451,7 +2451,7 @@
 				"speaker": "杜山雄, waecacane ka taitaugadu, Male, 1951",
 				"collected": "2022-02-12",
 				"topic": "Frog story",
-				"iu_num": 96,
+				"iu_num": 97,
 				"sent_num": 40,
 				"record_time": 0,
 				"marker": {
