@@ -2180,12 +2180,12 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 2911,
-				"sent_num": 1095,
+				"iu_num": 3067,
+				"sent_num": 1160,
 				"record_time": 6154.67
 			},
 			"sentence": {
-				"sent_num": 2207
+				"sent_num": 2272
 			},
 			"grammar": {
 				"sent_num": 0
@@ -2640,6 +2640,27 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Tuku",
+				"type": "Narrative",
+				"speaker": "柯菊英, tuku ka taimadrilingi, Female, 1948",
+				"collected": "2022-02-12",
+				"topic": "Frog story",
+				"iu_num": 156,
+				"sent_num": 65,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
 				}
 			},
 			{
