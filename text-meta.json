@@ -1494,7 +1494,7 @@
 	"Rukai_Vedai": {
 		"summary": {
 			"story": {
-				"iu_num": 3070,
+				"iu_num": 3068,
 				"sent_num": 1163,
 				"record_time": 6154.67
 			},
@@ -1513,7 +1513,7 @@
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 60
+				"GEN": 58
 			}
 		},
 		"text": [
@@ -1602,7 +1602,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 1
+					"GEN": 0
 				}
 			},
 			{
@@ -1634,7 +1634,7 @@
 				"collected": "2009-05-05",
 				"revised": "2013-1-17",
 				"topic": "Frog Story",
-				"iu_num": 229,
+				"iu_num": 227,
 				"sent_num": 86,
 				"record_time": 524.44,
 				"marker": {
@@ -1712,7 +1712,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 4
+					"GEN": 3
 				}
 			},
 			{
