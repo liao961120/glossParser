@@ -109,6 +109,10 @@ class GlossProcessor:
         
         for fp in path.rglob('*'):
             if fp.suffix not in exts: continue
+            #######################################
+            #### Block Bunun_Isbukun 2023.2.19 ####
+            if 'Bunun_Isbukun' in str(fp): continue
+            #######################################
             try:
                 glosses, meta = process_doc(str(fp))
             except:
