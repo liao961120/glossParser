@@ -3447,10 +3447,10 @@
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2373
+				"sent_num": 2377
 			},
 			"grammar": {
-				"sent_num": 2983
+				"sent_num": 2987
 			},
 			"marker": {
 				"AF": 942,
@@ -3889,6 +3889,24 @@
 				"speaker": "None",
 				"collected": "None",
 				"sent_num": 73,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/6",
+				"type": "Sentence",
+				"speaker": "此檔案為測試用",
+				"collected": "None",
+				"sent_num": 4,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
