@@ -59,7 +59,7 @@ def is_pureDM(x):
     if re.match(r'\[X+\]', x): return False
     
     # Default rule
-    if re.match(r'^[^a-z]+$', x): return True
+    if re.match(r'^[^a-z,]+$', x): return True
     else: return False
 
 
