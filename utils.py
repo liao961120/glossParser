@@ -22,7 +22,9 @@ def get_raw_text_meta(doc):
         if k.startswith("speaker"):
             v = re.sub(r'(\d\d\d\d)(-\d{1,2})?(-\d{1,2})?', r'\1', v)
             ## Patch: Hide speaker name (2023.9.27)
-            v = ','.join(v.split(',')[2:]).strip()
+            v = [ x.strip() for x in v.split(',')[2:] ]
+            if v[-1].lower() == "none": v[-1] = "Birth?"
+            v = ', '.join(v)
         
         meta[k] = v
     
