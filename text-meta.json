@@ -1,4 +1,566 @@
 {
+	"Tsou_Tsou": {
+		"summary": {
+			"story": {
+				"iu_num": 2562,
+				"sent_num": 949,
+				"record_time": 3613.99
+			},
+			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
+				"sent_num": 0
+			},
+			"marker": {
+				"AF": 2159,
+				"NAF": 439,
+				"PF": 666,
+				"RF": 0,
+				"IF": 0,
+				"BF": 33,
+				"CF": 0,
+				"LF": 187,
+				"GEN": 602
+			}
+		},
+		"text": [
+			{
+				"file": "Tsou_Tsou/TsouNr-pear-An",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Pear Story 2",
+				"iu_num": 109,
+				"sent_num": 29,
+				"record_time": 161.99,
+				"marker": {
+					"AF": 102,
+					"NAF": 17,
+					"PF": 24,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 29
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouConv-informants",
+				"type": "Conversation",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2014-5-1",
+				"topic": "Informants",
+				"iu_num": 298,
+				"sent_num": 69,
+				"record_time": 636.43,
+				"marker": {
+					"AF": 211,
+					"NAF": 62,
+					"PF": 112,
+					"RF": 0,
+					"IF": 0,
+					"BF": 8,
+					"CF": 0,
+					"LF": 42,
+					"GEN": 93
+				}
+			},
+			{
+				"file": "Tsou_Tsou/None-1",
+				"type": "Conversation",
+				"speaker": "",
+				"collected": "2004-10-10",
+				"revised": "2013-11-18",
+				"topic": "Sngusnguyo",
+				"iu_num": 569,
+				"sent_num": 244,
+				"record_time": 0,
+				"marker": {
+					"AF": 486,
+					"NAF": 50,
+					"PF": 120,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 31,
+					"GEN": 83
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-frog-story-tu",
+				"type": "Narrative",
+				"speaker": "None, None",
+				"collected": "2002-02-00",
+				"revised": "2013-11-18",
+				"topic": "Frog Story 1",
+				"iu_num": 102,
+				"sent_num": 40,
+				"record_time": 234.41,
+				"marker": {
+					"AF": 94,
+					"NAF": 28,
+					"PF": 28,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 26
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr_lovestry_wang-2",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "2009-09-13",
+				"revised": "2013-11-18",
+				"topic": "Love Story 1",
+				"iu_num": 85,
+				"sent_num": 18,
+				"record_time": 123.34,
+				"marker": {
+					"AF": 58,
+					"NAF": 19,
+					"PF": 16,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 18
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-lovestory-zheng",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Love Story 2",
+				"iu_num": 102,
+				"sent_num": 23,
+				"record_time": 216.01,
+				"marker": {
+					"AF": 54,
+					"NAF": 12,
+					"PF": 20,
+					"RF": 0,
+					"IF": 0,
+					"BF": 3,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 23
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-pear-story-3",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Pear Story 3",
+				"iu_num": 124,
+				"sent_num": 33,
+				"record_time": 0,
+				"marker": {
+					"AF": 112,
+					"NAF": 42,
+					"PF": 27,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 42
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-pear-wang-3",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "1988",
+				"revised": "2013-11-18",
+				"topic": "Pear Story 1",
+				"iu_num": 158,
+				"sent_num": 44,
+				"record_time": 309.33,
+				"marker": {
+					"AF": 127,
+					"NAF": 33,
+					"PF": 34,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 39
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-love-story-zhuang",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Love Story 3",
+				"iu_num": 58,
+				"sent_num": 25,
+				"record_time": 131.55,
+				"marker": {
+					"AF": 56,
+					"NAF": 15,
+					"PF": 26,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 22
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouConv-typhoon",
+				"type": "Conversation",
+				"speaker": "female, None",
+				"collected": "None",
+				"revised": "2014-7-20",
+				"topic": "Typhoon",
+				"iu_num": 576,
+				"sent_num": 295,
+				"record_time": 1034.22,
+				"marker": {
+					"AF": 538,
+					"NAF": 60,
+					"PF": 144,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 103
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-frog-story-shi",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Frog Story 4",
+				"iu_num": 198,
+				"sent_num": 85,
+				"record_time": 464.57,
+				"marker": {
+					"AF": 236,
+					"NAF": 66,
+					"PF": 82,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 29,
+					"GEN": 81
+				}
+			},
+			{
+				"file": "Tsou_Tsou/Tsou-frog-story-wang-1",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Frog Story 2",
+				"iu_num": 183,
+				"sent_num": 44,
+				"record_time": 302.14,
+				"marker": {
+					"AF": 85,
+					"NAF": 35,
+					"PF": 33,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 43
+				}
+			}
+		]
+	},
+	"Atayal_Mayrinax": {
+		"summary": {
+			"story": {
+				"iu_num": 1399,
+				"sent_num": 488,
+				"record_time": 4043.28
+			},
+			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
+				"sent_num": 0
+			},
+			"marker": {
+				"AF": 525,
+				"NAF": 4,
+				"PF": 236,
+				"RF": 0,
+				"IF": 15,
+				"BF": 17,
+				"CF": 0,
+				"LF": 138,
+				"GEN": 422
+			}
+		},
+		"text": [
+			{
+				"file": "Atayal_Mayrinax/AtaNr-hunting1_Kainu",
+				"type": "Narrative",
+				"speaker": "male, 1941",
+				"collected": "2011-04-01",
+				"revised": "None",
+				"topic": "Hunting 1",
+				"iu_num": 122,
+				"sent_num": 48,
+				"record_time": 349.96,
+				"marker": {
+					"AF": 42,
+					"NAF": 0,
+					"PF": 36,
+					"RF": 0,
+					"IF": 3,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 16
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-dailylife2_Iwan",
+				"type": "Narrative",
+				"speaker": "female, None",
+				"collected": "2011-04-01",
+				"revised": "2013-1-25",
+				"topic": "Daily Life 2",
+				"iu_num": 43,
+				"sent_num": 9,
+				"record_time": 84.5,
+				"marker": {
+					"AF": 16,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 7,
+					"GEN": 5
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu",
+				"type": "Narrative",
+				"speaker": "male, 1941",
+				"collected": "2011-04-01",
+				"revised": "2014-3-6",
+				"topic": "Moving 2",
+				"iu_num": 207,
+				"sent_num": 47,
+				"record_time": 503.15,
+				"marker": {
+					"AF": 67,
+					"NAF": 0,
+					"PF": 23,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 53
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-proposal_Takun",
+				"type": "Narrative",
+				"speaker": "male, 1946",
+				"collected": "2011-04-01",
+				"revised": "2013-1-18",
+				"topic": "Proposal",
+				"iu_num": 150,
+				"sent_num": 40,
+				"record_time": 506.1,
+				"marker": {
+					"AF": 81,
+					"NAF": 0,
+					"PF": 36,
+					"RF": 0,
+					"IF": 2,
+					"BF": 1,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 76
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-dailylife3_Tauyu",
+				"type": "Narrative",
+				"speaker": "female, 1942",
+				"collected": "2011-04-01",
+				"revised": "2013-1-25",
+				"topic": "Daily Life 3",
+				"iu_num": 98,
+				"sent_num": 46,
+				"record_time": 288.24,
+				"marker": {
+					"AF": 26,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 43
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-weaving_Kagaw",
+				"type": "Narrative",
+				"speaker": "female, 1935",
+				"collected": "2011-05-27",
+				"revised": "2014-3-13",
+				"topic": "Weaving",
+				"iu_num": 152,
+				"sent_num": 103,
+				"record_time": 610.53,
+				"marker": {
+					"AF": 75,
+					"NAF": 0,
+					"PF": 37,
+					"RF": 0,
+					"IF": 0,
+					"BF": 2,
+					"CF": 0,
+					"LF": 20,
+					"GEN": 41
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-moving_Takun",
+				"type": "Narrative",
+				"speaker": "male, 1946",
+				"collected": "2011-04-01",
+				"revised": "2014-2-27",
+				"topic": "Moving 1",
+				"iu_num": 180,
+				"sent_num": 57,
+				"record_time": 461.97,
+				"marker": {
+					"AF": 36,
+					"NAF": 1,
+					"PF": 16,
+					"RF": 0,
+					"IF": 2,
+					"BF": 1,
+					"CF": 0,
+					"LF": 25,
+					"GEN": 54
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-hunting2_Buyung",
+				"type": "Narrative",
+				"speaker": "male, 1946",
+				"collected": "2011-04-01",
+				"revised": "2013-1-25",
+				"topic": "Hunting 2",
+				"iu_num": 85,
+				"sent_num": 20,
+				"record_time": 193.39,
+				"marker": {
+					"AF": 31,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 3,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 13
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-sowing_Kainu",
+				"type": "Narrative",
+				"speaker": "male, 1941",
+				"collected": "2011-04-01",
+				"revised": "2013-1-18",
+				"topic": "Sowing",
+				"iu_num": 167,
+				"sent_num": 49,
+				"record_time": 519.66,
+				"marker": {
+					"AF": 72,
+					"NAF": 0,
+					"PF": 26,
+					"RF": 0,
+					"IF": 2,
+					"BF": 4,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 55
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-dailylife1_Iwan",
+				"type": "Narrative",
+				"speaker": "female, None",
+				"collected": "2011-04-01",
+				"revised": "2013-1-25",
+				"topic": "Daily Life 1",
+				"iu_num": 79,
+				"sent_num": 21,
+				"record_time": 158.0,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 1,
+					"BF": 3,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 5
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-hunting3_Takun",
+				"type": "Narrative",
+				"speaker": "male, 1946",
+				"collected": "2011-04-01",
+				"revised": "2013-1-17",
+				"topic": "Hunting 3",
+				"iu_num": 116,
+				"sent_num": 48,
+				"record_time": 367.78,
+				"marker": {
+					"AF": 55,
+					"NAF": 3,
+					"PF": 26,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 61
+				}
+			}
+		]
+	},
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
@@ -26,53 +588,53 @@
 		},
 		"text": [
 			{
-				"file": "Seediq_Tgdaya/sdqNr-childhood_micang 2020s",
+				"file": "Seediq_Tgdaya/sdqNr-pear_temi 2020s",
 				"type": "Narrative",
-				"speaker": "周玉英, Micang Tado, female, 1942",
-				"collected": "2007-05-26",
+				"speaker": "female, 1939",
+				"collected": "None",
 				"revised": "2021-06-01",
-				"topic": "childhood",
-				"iu_num": 268,
-				"sent_num": 120,
-				"record_time": 903.93,
+				"topic": "pear",
+				"iu_num": 128,
+				"sent_num": 55,
+				"record_time": 340.33,
 				"marker": {
-					"AF": 202,
+					"AF": 101,
 					"NAF": 0,
-					"PF": 45,
-					"RF": 4,
+					"PF": 30,
+					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 30,
-					"GEN": 115
+					"LF": 11,
+					"GEN": 64
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
+				"file": "Seediq_Tgdaya/sdqNr-pear_aking 2020s",
 				"type": "Narrative",
-				"speaker": "李正祿, Awi Pawan, male, None",
-				"collected": "None",
+				"speaker": "female, 1952",
+				"collected": "2007-03-19",
 				"revised": "2021-06-01",
-				"topic": "tattoo2",
-				"iu_num": 21,
-				"sent_num": 15,
-				"record_time": 0,
+				"topic": "pear",
+				"iu_num": 96,
+				"sent_num": 26,
+				"record_time": 253.73,
 				"marker": {
-					"AF": 11,
+					"AF": 67,
 					"NAF": 0,
-					"PF": 1,
-					"RF": 2,
+					"PF": 11,
+					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 6,
-					"GEN": 2
+					"LF": 11,
+					"GEN": 41
 				}
 			},
 			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog1_ciwas_tiwas 2021s",
 				"type": "Conversation",
-				"speaker": "蔡茂琳, Pawan Nawi, female, 1915",
+				"speaker": "female, 1915",
 				"collected": "1991-08-09",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog1_ciwas_tiwas",
@@ -92,185 +654,9 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape 2020s",
-				"type": "Conversation",
-				"speaker": "曾鴛鴦, Robo Pihu, female, 1928",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "sdqCon-dialog4_robo_bakan_ape",
-				"iu_num": 143,
-				"sent_num": 53,
-				"record_time": 211.83,
-				"marker": {
-					"AF": 67,
-					"NAF": 0,
-					"PF": 17,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 18
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s",
-				"type": "Conversation",
-				"speaker": "蔡茂琳, Pawan Nawi, female, 1915",
-				"collected": "1991-08-16",
-				"revised": "2021-06-01",
-				"topic": "sdqCon-dialog2_ciwas_tiwas",
-				"iu_num": 339,
-				"sent_num": 205,
-				"record_time": 494.09,
-				"marker": {
-					"AF": 218,
-					"NAF": 0,
-					"PF": 40,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 27,
-					"GEN": 75
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-tradition_dakis 2021s",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "tradition",
-				"iu_num": 232,
-				"sent_num": 68,
-				"record_time": 332.92,
-				"marker": {
-					"AF": 134,
-					"NAF": 0,
-					"PF": 30,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 19,
-					"GEN": 67
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-frog_temi",
-				"type": "Narrative",
-				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "frog",
-				"iu_num": 426,
-				"sent_num": 111,
-				"record_time": 1124.15,
-				"marker": {
-					"AF": 209,
-					"NAF": 0,
-					"PF": 21,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 45,
-					"GEN": 103
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear-dakis 2020s",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "1996-10-19",
-				"revised": "2021-06-01",
-				"topic": "pear",
-				"iu_num": 251,
-				"sent_num": 82,
-				"record_time": 378.69,
-				"marker": {
-					"AF": 167,
-					"NAF": 0,
-					"PF": 41,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 29,
-					"GEN": 82
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
-				"type": "Narrative",
-				"speaker": "None",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "taboo",
-				"iu_num": 119,
-				"sent_num": 25,
-				"record_time": 0,
-				"marker": {
-					"AF": 44,
-					"NAF": 0,
-					"PF": 8,
-					"RF": 3,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 12,
-					"GEN": 27
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_pawan 2020s",
-				"type": "Narrative",
-				"speaker": "錢成鏡, None, male, None",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "pear",
-				"iu_num": 84,
-				"sent_num": 17,
-				"record_time": 130.98,
-				"marker": {
-					"AF": 34,
-					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 5,
-					"GEN": 16
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-sisin_dakis 2020s",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "2009-09-17",
-				"revised": "2021-06-01",
-				"topic": "sisin",
-				"iu_num": 574,
-				"sent_num": 133,
-				"record_time": 956.25,
-				"marker": {
-					"AF": 295,
-					"NAF": 0,
-					"PF": 110,
-					"RF": 7,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 49,
-					"GEN": 169
-				}
-			},
-			{
 				"file": "Seediq_Tgdaya/sdqNr-rain_pawan 2020s",
 				"type": "Narrative",
-				"speaker": "王文則, Pawan Nawi, male, 1926",
+				"speaker": "male, 1926",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "rain",
@@ -290,9 +676,185 @@
 				}
 			},
 			{
+				"file": "Seediq_Tgdaya/sdqNr-pear-dakis 2020s",
+				"type": "Narrative",
+				"speaker": "male, 1953",
+				"collected": "1996-10-19",
+				"revised": "2021-06-01",
+				"topic": "pear",
+				"iu_num": 251,
+				"sent_num": 82,
+				"record_time": 378.69,
+				"marker": {
+					"AF": 167,
+					"NAF": 0,
+					"PF": 41,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 29,
+					"GEN": 82
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-sisin_dakis 2020s",
+				"type": "Narrative",
+				"speaker": "male, 1953",
+				"collected": "2009-09-17",
+				"revised": "2021-06-01",
+				"topic": "sisin",
+				"iu_num": 574,
+				"sent_num": 133,
+				"record_time": 956.25,
+				"marker": {
+					"AF": 295,
+					"NAF": 0,
+					"PF": 110,
+					"RF": 7,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 49,
+					"GEN": 169
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-pear_pawan 2020s",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "pear",
+				"iu_num": 84,
+				"sent_num": 17,
+				"record_time": 130.98,
+				"marker": {
+					"AF": 34,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 16
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "tattoo2",
+				"iu_num": 21,
+				"sent_num": 15,
+				"record_time": 0,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s",
+				"type": "Conversation",
+				"speaker": "female, 1915",
+				"collected": "1991-08-16",
+				"revised": "2021-06-01",
+				"topic": "sdqCon-dialog2_ciwas_tiwas",
+				"iu_num": 339,
+				"sent_num": 205,
+				"record_time": 494.09,
+				"marker": {
+					"AF": 218,
+					"NAF": 0,
+					"PF": 40,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 27,
+					"GEN": 75
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-frog_temi",
+				"type": "Narrative",
+				"speaker": "female, 1939",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "frog",
+				"iu_num": 426,
+				"sent_num": 111,
+				"record_time": 1124.15,
+				"marker": {
+					"AF": 209,
+					"NAF": 0,
+					"PF": 21,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 45,
+					"GEN": 103
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-pear_lubi 2020s",
+				"type": "Narrative",
+				"speaker": "female, None",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "pear",
+				"iu_num": 87,
+				"sent_num": 16,
+				"record_time": 139.59,
+				"marker": {
+					"AF": 42,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 17
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-south_pawan 2021s",
+				"type": "Narrative",
+				"speaker": "male, 1926",
+				"collected": "1997-04-05",
+				"revised": "2021-06-01",
+				"topic": "south",
+				"iu_num": 112,
+				"sent_num": 33,
+				"record_time": 182.47,
+				"marker": {
+					"AF": 51,
+					"NAF": 0,
+					"PF": 7,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 2,
+					"GEN": 16
+				}
+			},
+			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog3_robo_bakan 2021s",
 				"type": "Conversation",
-				"speaker": "郭溫月桃, Robo Walis, female, 1934",
+				"speaker": "female, 1934",
 				"collected": "2013-09-15",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog3_robo_bakan",
@@ -314,7 +876,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-ricah_uma 2021s",
 				"type": "Narrative",
-				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
+				"speaker": "female, 1932",
 				"collected": "2007-05-07",
 				"revised": "2021-06-01",
 				"topic": "ricah",
@@ -334,185 +896,53 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-sinobale_uma 2021s",
+				"file": "Seediq_Tgdaya/sdqNr-tradition_dakis 2021s",
 				"type": "Narrative",
-				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
-				"collected": "1997-04-04",
-				"revised": "2021-06-01",
-				"topic": "sinobale",
-				"iu_num": 32,
-				"sent_num": 21,
-				"record_time": 59.19,
-				"marker": {
-					"AF": 13,
-					"NAF": 0,
-					"PF": 17,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 6
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-seediq_dakis 2020s",
-				"type": "Narrative",
-				"speaker": "郭明正, Dakis Pawan, male, 1953",
-				"collected": "None",
-				"revised": "None",
-				"topic": "seediq",
-				"iu_num": 136,
-				"sent_num": 41,
-				"record_time": 215.41,
-				"marker": {
-					"AF": 44,
-					"NAF": 0,
-					"PF": 14,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 18,
-					"GEN": 34
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-frog_lubi 2020s",
-				"type": "Narrative",
-				"speaker": "謝美, Lubi Nomin, female, None",
+				"speaker": "male, 1953",
 				"collected": "None",
 				"revised": "2021-06-01",
-				"topic": "frog",
-				"iu_num": 267,
-				"sent_num": 46,
-				"record_time": 596.17,
+				"topic": "tradition",
+				"iu_num": 232,
+				"sent_num": 68,
+				"record_time": 332.92,
 				"marker": {
-					"AF": 146,
+					"AF": 134,
 					"NAF": 0,
-					"PF": 15,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 13,
-					"GEN": 46
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-medicine_robo pihu 2020s",
-				"type": "Narrative",
-				"speaker": "曾鴛鴦, Robo Pihu, female, 1928",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "medicine",
-				"iu_num": 53,
-				"sent_num": 25,
-				"record_time": 120.21,
-				"marker": {
-					"AF": 32,
-					"NAF": 0,
-					"PF": 4,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 3
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_lubi 2020s",
-				"type": "Narrative",
-				"speaker": "謝美, Lubi Nomin, female, None",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "pear",
-				"iu_num": 87,
-				"sent_num": 16,
-				"record_time": 139.59,
-				"marker": {
-					"AF": 42,
-					"NAF": 0,
-					"PF": 5,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 17
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqCon-dialog5_dakis_takun 2020s",
-				"type": "Conversation",
-				"speaker": "邱建堂, Takun, male, 1952",
-				"collected": "None",
-				"revised": "2021-06-01",
-				"topic": "sdqCon-dialog5_dakis_takun",
-				"iu_num": 303,
-				"sent_num": 129,
-				"record_time": 418.76,
-				"marker": {
-					"AF": 99,
-					"NAF": 0,
-					"PF": 35,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 26,
-					"GEN": 59
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_aking 2020s",
-				"type": "Narrative",
-				"speaker": "黃美玉, Aking Nawi, female, 1952",
-				"collected": "2007-03-19",
-				"revised": "2021-06-01",
-				"topic": "pear",
-				"iu_num": 96,
-				"sent_num": 26,
-				"record_time": 253.73,
-				"marker": {
-					"AF": 67,
-					"NAF": 0,
-					"PF": 11,
+					"PF": 30,
 					"RF": 1,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 11,
-					"GEN": 41
+					"LF": 19,
+					"GEN": 67
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s",
-				"type": "Conversation",
-				"speaker": "邱紅春蘭, Uma Nokan, female, 1932",
+				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
+				"type": "Narrative",
+				"speaker": "",
 				"collected": "None",
 				"revised": "2021-06-01",
-				"topic": "sdqCon-plum_uma_robo",
-				"iu_num": 106,
-				"sent_num": 34,
-				"record_time": 180.7,
+				"topic": "taboo",
+				"iu_num": 119,
+				"sent_num": 25,
+				"record_time": 0,
 				"marker": {
-					"AF": 9,
+					"AF": 44,
 					"NAF": 0,
-					"PF": 33,
-					"RF": 0,
-					"IF": 0,
+					"PF": 8,
+					"RF": 3,
+					"IF": 1,
 					"BF": 0,
 					"CF": 0,
-					"LF": 7,
-					"GEN": 19
+					"LF": 12,
+					"GEN": 27
 				}
 			},
 			{
 				"file": "Seediq_Tgdaya/sdqNr-frog_aking 2020s",
 				"type": "Narrative",
-				"speaker": "黃美玉, Aking Nawi, female, 1952",
+				"speaker": "female, 1952",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
@@ -532,53 +962,53 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/sdqNr-pear_temi 2020s",
+				"file": "Seediq_Tgdaya/sdqNr-frog_lubi 2020s",
 				"type": "Narrative",
-				"speaker": "曾瑞琳, Temi Nawi, female, 1939",
+				"speaker": "female, None",
 				"collected": "None",
 				"revised": "2021-06-01",
-				"topic": "pear",
-				"iu_num": 128,
-				"sent_num": 55,
-				"record_time": 340.33,
+				"topic": "frog",
+				"iu_num": 267,
+				"sent_num": 46,
+				"record_time": 596.17,
 				"marker": {
-					"AF": 101,
+					"AF": 146,
 					"NAF": 0,
-					"PF": 30,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 11,
-					"GEN": 64
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/sdqNr-south_pawan 2021s",
-				"type": "Narrative",
-				"speaker": "王文則, Pawan Nawi, male, 1926",
-				"collected": "1997-04-05",
-				"revised": "2021-06-01",
-				"topic": "south",
-				"iu_num": 112,
-				"sent_num": 33,
-				"record_time": 182.47,
-				"marker": {
-					"AF": 51,
-					"NAF": 0,
-					"PF": 7,
+					"PF": 15,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 2,
-					"GEN": 16
+					"LF": 13,
+					"GEN": 46
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s",
+				"type": "Conversation",
+				"speaker": "female, 1932",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "sdqCon-plum_uma_robo",
+				"iu_num": 106,
+				"sent_num": 34,
+				"record_time": 180.7,
+				"marker": {
+					"AF": 9,
+					"NAF": 0,
+					"PF": 33,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 7,
+					"GEN": 19
 				}
 			},
 			{
 				"file": "Seediq_Tgdaya/sdqNr-mother_iwan 2020s",
 				"type": "Narrative",
-				"speaker": "田月嬌, Iwan Kumu, female, 1939",
+				"speaker": "female, 1939",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "mother",
@@ -598,78 +1028,142 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/13",
-				"type": "GrammarBook",
-				"topic": "第十三章 補語結構",
-				"sent_num": 44,
+				"file": "Seediq_Tgdaya/sdqNr-childhood_micang 2020s",
+				"type": "Narrative",
+				"speaker": "female, 1942",
+				"collected": "2007-05-26",
+				"revised": "2021-06-01",
+				"topic": "childhood",
+				"iu_num": 268,
+				"sent_num": 120,
+				"record_time": 903.93,
 				"marker": {
-					"AF": 0,
+					"AF": 202,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 45,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 30,
+					"GEN": 115
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-medicine_robo pihu 2020s",
+				"type": "Narrative",
+				"speaker": "female, 1928",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "medicine",
+				"iu_num": 53,
+				"sent_num": 25,
+				"record_time": 120.21,
+				"marker": {
+					"AF": 32,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 3
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-sinobale_uma 2021s",
+				"type": "Narrative",
+				"speaker": "female, 1932",
+				"collected": "1997-04-04",
+				"revised": "2021-06-01",
+				"topic": "sinobale",
+				"iu_num": 32,
+				"sent_num": 21,
+				"record_time": 59.19,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 17,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 0
+					"GEN": 6
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/08",
-				"type": "GrammarBook",
-				"topic": "第八章 祈使句結構",
-				"sent_num": 24,
+				"file": "Seediq_Tgdaya/sdqCon-dialog5_dakis_takun 2020s",
+				"type": "Conversation",
+				"speaker": "male, 1952",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "sdqCon-dialog5_dakis_takun",
+				"iu_num": 303,
+				"sent_num": 129,
+				"record_time": 418.76,
 				"marker": {
-					"AF": 0,
+					"AF": 99,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 35,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 26,
+					"GEN": 59
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-seediq_dakis 2020s",
+				"type": "Narrative",
+				"speaker": "male, 1953",
+				"collected": "None",
+				"revised": "None",
+				"topic": "seediq",
+				"iu_num": 136,
+				"sent_num": 41,
+				"record_time": 215.41,
+				"marker": {
+					"AF": 44,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 34
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape 2020s",
+				"type": "Conversation",
+				"speaker": "female, 1928",
+				"collected": "None",
+				"revised": "2021-06-01",
+				"topic": "sdqCon-dialog4_robo_bakan_ape",
+				"iu_num": 143,
+				"sent_num": 53,
+				"record_time": 211.83,
+				"marker": {
+					"AF": 67,
+					"NAF": 0,
+					"PF": 17,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 0,
-					"GEN": 0
+					"LF": 4,
+					"GEN": 18
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/09",
+				"file": "Seediq_Tgdaya/11",
 				"type": "GrammarBook",
-				"topic": "第九章 使動結構",
-				"sent_num": 27,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/12",
-				"type": "GrammarBook",
-				"topic": "第十二章 連動結構",
-				"sent_num": 20,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/10",
-				"type": "GrammarBook",
-				"topic": "第十章 否定句結構",
-				"sent_num": 34,
+				"topic": "第十一章 疑問句結構",
+				"sent_num": 63,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -700,10 +1194,10 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/14",
+				"file": "Seediq_Tgdaya/06",
 				"type": "GrammarBook",
-				"topic": "第十四章 修飾結構",
-				"sent_num": 23,
+				"topic": "第六章 焦點系統與時貌語氣系統",
+				"sent_num": 50,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -734,10 +1228,10 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/11",
+				"file": "Seediq_Tgdaya/14",
 				"type": "GrammarBook",
-				"topic": "第十一章 疑問句結構",
-				"sent_num": 63,
+				"topic": "第十四章 修飾結構",
+				"sent_num": 23,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -768,44 +1262,10 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/03",
+				"file": "Seediq_Tgdaya/12",
 				"type": "GrammarBook",
-				"topic": "第三章 詞彙與構詞",
-				"sent_num": 6,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/07",
-				"type": "GrammarBook",
-				"topic": "第七章 存在句、所有句和方位句結構",
-				"sent_num": 15,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Seediq_Tgdaya/ap2",
-				"type": "GrammarBook",
-				"topic": "長篇語料二 兩個太陽的故事",
-				"sent_num": 54,
+				"topic": "第十二章 連動結構",
+				"sent_num": 20,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -836,10 +1296,10 @@
 				}
 			},
 			{
-				"file": "Seediq_Tgdaya/06",
+				"file": "Seediq_Tgdaya/ap2",
 				"type": "GrammarBook",
-				"topic": "第六章 焦點系統與時貌語氣系統",
-				"sent_num": 50,
+				"topic": "長篇語料二 兩個太陽的故事",
+				"sent_num": 54,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -851,495 +1311,107 @@
 					"LF": 0,
 					"GEN": 0
 				}
-			}
-		]
-	},
-	"Saisiyat_Tong-he": {
-		"summary": {
-			"story": {
-				"iu_num": 3440,
-				"sent_num": 1378,
-				"record_time": 7263.93
 			},
-			"sentence": {
-				"sent_num": 0
-			},
-			"grammar": {
-				"sent_num": 0
-			},
-			"marker": {
-				"AF": 1188,
-				"NAF": 0,
-				"PF": 442,
-				"RF": 90,
-				"IF": 1,
-				"BF": 0,
-				"CF": 0,
-				"LF": 0,
-				"GEN": 349
-			}
-		},
-		"text": [
 			{
-				"file": "Saisiyat_Tong-he/SaiNr-pear4_tosi_ masin",
-				"type": "Narrative",
-				"speaker": "徐年枝, tosi' masin, female, 1942",
-				"collected": "2002-01-01",
-				"revised": "2014-1-3",
-				"topic": "pear4",
-				"iu_num": 89,
-				"sent_num": 46,
-				"record_time": 236.81,
+				"file": "Seediq_Tgdaya/13",
+				"type": "GrammarBook",
+				"topic": "第十三章 補語結構",
+				"sent_num": 44,
 				"marker": {
-					"AF": 52,
+					"AF": 0,
 					"NAF": 0,
-					"PF": 22,
-					"RF": 2,
+					"PF": 0,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 10
+					"GEN": 0
 				}
 			},
 			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog3__oemaw_a_basi_",
-				"type": "Narrative",
-				"speaker": "None, 'oemaw a basi', Male, None",
-				"collected": "2003-01-01",
-				"revised": "2013-12-4",
-				"topic": "frog3",
-				"iu_num": 181,
-				"sent_num": 80,
-				"record_time": 292.02,
+				"file": "Seediq_Tgdaya/09",
+				"type": "GrammarBook",
+				"topic": "第九章 使動結構",
+				"sent_num": 27,
 				"marker": {
-					"AF": 61,
+					"AF": 0,
 					"NAF": 0,
-					"PF": 46,
-					"RF": 2,
+					"PF": 0,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 25
+					"GEN": 0
 				}
 			},
 			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog7_kalaeh a taro_",
-				"type": "Narrative",
-				"speaker": "風秀郎, kalaeh a taro', male, 1937",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "frog7",
-				"iu_num": 109,
-				"sent_num": 58,
-				"record_time": 315.55,
+				"file": "Seediq_Tgdaya/08",
+				"type": "GrammarBook",
+				"topic": "第八章 祈使句結構",
+				"sent_num": 24,
 				"marker": {
-					"AF": 45,
+					"AF": 0,
 					"NAF": 0,
-					"PF": 6,
-					"RF": 1,
+					"PF": 0,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 3
+					"GEN": 0
 				}
 			},
 			{
-				"file": "Saisiyat_Tong-he/SaiNr-pear5__awi_ a basi_",
-				"type": "Narrative",
-				"speaker": "日繁雄, 'awi' a basi', male, 1945",
-				"collected": "2002-01-01",
-				"revised": "None",
-				"topic": "pear5",
-				"iu_num": 105,
-				"sent_num": 35,
-				"record_time": 258.47,
+				"file": "Seediq_Tgdaya/10",
+				"type": "GrammarBook",
+				"topic": "第十章 否定句結構",
+				"sent_num": 34,
 				"marker": {
-					"AF": 35,
+					"AF": 0,
 					"NAF": 0,
-					"PF": 13,
-					"RF": 5,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 10
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/Sainr-frog4_lalo a tahaeS",
-				"type": "Narrative",
-				"speaker": "高玉美, lalo a tahaeS, female, 1967",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "frog4",
-				"iu_num": 128,
-				"sent_num": 55,
-				"record_time": 304.96,
-				"marker": {
-					"AF": 38,
-					"NAF": 0,
-					"PF": 11,
-					"RF": 2,
+					"PF": 0,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 8
+					"GEN": 0
 				}
 			},
 			{
-				"file": "Saisiyat_Tong-he/SaiNr-pear3_kalaeh a taro_",
-				"type": "Narrative",
-				"speaker": "風秀郎, kalaeh a taro', male, 1937",
-				"collected": "2002-01-01",
-				"revised": "None",
-				"topic": "pear3",
-				"iu_num": 50,
-				"sent_num": 22,
-				"record_time": 115.92,
+				"file": "Seediq_Tgdaya/07",
+				"type": "GrammarBook",
+				"topic": "第七章 存在句、所有句和方位句結構",
+				"sent_num": 15,
 				"marker": {
-					"AF": 30,
+					"AF": 0,
 					"NAF": 0,
-					"PF": 13,
-					"RF": 4,
+					"PF": 0,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 2
+					"GEN": 0
 				}
 			},
 			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog1_bownay a tahes",
-				"type": "Narrative",
-				"speaker": "風德輝, bownay a tahes, male, 1933",
-				"collected": "2002-07-24",
-				"revised": "None",
-				"topic": "frog1",
-				"iu_num": 119,
-				"sent_num": 57,
-				"record_time": 369.47,
+				"file": "Seediq_Tgdaya/03",
+				"type": "GrammarBook",
+				"topic": "第三章 詞彙與構詞",
+				"sent_num": 6,
 				"marker": {
-					"AF": 42,
+					"AF": 0,
 					"NAF": 0,
-					"PF": 14,
-					"RF": 8,
+					"PF": 0,
+					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 8
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog8_parain a _oemaw",
-				"type": "Narrative",
-				"speaker": "高德盛, parain a oemaw, male, 1928",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "frog8",
-				"iu_num": 89,
-				"sent_num": 38,
-				"record_time": 216.65,
-				"marker": {
-					"AF": 34,
-					"NAF": 0,
-					"PF": 14,
-					"RF": 3,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 11
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog5__awi_ a basi_",
-				"type": "Narrative",
-				"speaker": "日繁雄, 'awi' a basi', male, 1945",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "frog5",
-				"iu_num": 279,
-				"sent_num": 92,
-				"record_time": 587.83,
-				"marker": {
-					"AF": 62,
-					"NAF": 0,
-					"PF": 19,
-					"RF": 12,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 11
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-anhi",
-				"type": "Narrative",
-				"speaker": "None",
-				"collected": "2003-01-01",
-				"revised": "2014-2-9",
-				"topic": "anhi",
-				"iu_num": 26,
-				"sent_num": 7,
-				"record_time": 70.5,
-				"marker": {
-					"AF": 5,
-					"NAF": 0,
-					"PF": 12,
-					"RF": 4,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog6_kalaeh a _oemaw",
-				"type": "Narrative",
-				"speaker": "朱阿良, kalaeh a oemaw, male, 1928",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "frog6",
-				"iu_num": 179,
-				"sent_num": 67,
-				"record_time": 470.08,
-				"marker": {
-					"AF": 54,
-					"NAF": 0,
-					"PF": 14,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 14
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-election_lahi_ a taro_ babay",
-				"type": "Conversation",
-				"speaker": "風建福, lahi' a taro' babayi, male, None",
-				"collected": "2002-01-01",
-				"revised": "2014-4-10",
-				"topic": "election",
-				"iu_num": 115,
-				"sent_num": 49,
-				"record_time": 291.54,
-				"marker": {
-					"AF": 22,
-					"NAF": 0,
-					"PF": 12,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 23
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-life_waon a boong",
-				"type": "Conversation",
-				"speaker": "風玉雲, waon a bo:ong, female, 1943",
-				"collected": "2002-01-01",
-				"revised": "2014-4-10",
-				"topic": "life",
-				"iu_num": 288,
-				"sent_num": 152,
-				"record_time": 581.61,
-				"marker": {
-					"AF": 78,
-					"NAF": 0,
-					"PF": 38,
-					"RF": 4,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 34
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-pear1__oemaw a _obay",
-				"type": "Narrative",
-				"speaker": "趙山河, 'oemaw a 'obay, male, None",
-				"collected": "2002-01-01",
-				"revised": "None",
-				"topic": "pear1",
-				"iu_num": 122,
-				"sent_num": 48,
-				"record_time": 285.47,
-				"marker": {
-					"AF": 30,
-					"NAF": 0,
-					"PF": 11,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 15
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-holiday_kalaeh a _oemaw",
-				"type": "Narrative",
-				"speaker": "朱阿良, kalaeh a oemaw, male, 1928",
-				"collected": "2003-01-01",
-				"revised": "2014-4-10",
-				"topic": "holiday",
-				"iu_num": 282,
-				"sent_num": 108,
-				"record_time": 428.9,
-				"marker": {
-					"AF": 110,
-					"NAF": 0,
-					"PF": 41,
-					"RF": 8,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 21
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-Molaw",
-				"type": "Narrative",
-				"speaker": "高德盛, parain a 'oemaw, Male, 1928",
-				"collected": "2003-01-01",
-				"revised": "2013-9-16",
-				"topic": "Molaw",
-				"iu_num": 97,
-				"sent_num": 30,
-				"record_time": 166.36,
-				"marker": {
-					"AF": 56,
-					"NAF": 0,
-					"PF": 5,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog3_'oemaw_a_basi'",
-				"type": "Narrative",
-				"speaker": "None, 'oemaw a basi', Male, None",
-				"collected": "2003-01-01",
-				"revised": "2013-12-4",
-				"topic": "frog3",
-				"iu_num": 181,
-				"sent_num": 80,
-				"record_time": 292.02,
-				"marker": {
-					"AF": 61,
-					"NAF": 0,
-					"PF": 46,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 25
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-frog2_waon a boong",
-				"type": "Narrative",
-				"speaker": "風玉雲, waon a bo:ong, female, 1943",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "frog2",
-				"iu_num": 92,
-				"sent_num": 47,
-				"record_time": 213.14,
-				"marker": {
-					"AF": 29,
-					"NAF": 0,
-					"PF": 13,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 11
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-kathethel2_kalaeh a oemaw",
-				"type": "Narrative",
-				"speaker": "朱阿良, kalaeh a oemaw, male, 1928",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "kathethel2",
-				"iu_num": 546,
-				"sent_num": 165,
-				"record_time": 1087.94,
-				"marker": {
-					"AF": 200,
-					"NAF": 0,
-					"PF": 43,
-					"RF": 18,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 78
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-flood_waon a boong",
-				"type": "Narrative",
-				"speaker": "風玉雲, waon a bo:ong, female, 1943",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "flood",
-				"iu_num": 160,
-				"sent_num": 71,
-				"record_time": 314.96,
-				"marker": {
-					"AF": 49,
-					"NAF": 0,
-					"PF": 16,
-					"RF": 4,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 16
-				}
-			},
-			{
-				"file": "Saisiyat_Tong-he/SaiNr-kathethel_parain a _oemaw",
-				"type": "Narrative",
-				"speaker": "高德盛, parain a oemaw, male, 1928",
-				"collected": "2003-01-01",
-				"revised": "None",
-				"topic": "kathethel",
-				"iu_num": 203,
-				"sent_num": 71,
-				"record_time": 363.73,
-				"marker": {
-					"AF": 95,
-					"NAF": 0,
-					"PF": 33,
-					"RF": 3,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 21
+					"GEN": 0
 				}
 			}
 		]
@@ -1371,9 +1443,250 @@
 		},
 		"text": [
 			{
+				"file": "Rukai_Vedai/RukaiNr-princess balenge_balenge",
+				"type": "Narrative",
+				"speaker": "female, 1961",
+				"collected": "2009-08-06",
+				"revised": "2014-3-27",
+				"topic": "Princess Balenge",
+				"iu_num": 213,
+				"sent_num": 86,
+				"record_time": 483.33,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-swing_taugadhu",
+				"type": "Narrative",
+				"speaker": "male, 1943",
+				"collected": "2009-08-06",
+				"revised": "None",
+				"topic": "Swing",
+				"iu_num": 232,
+				"sent_num": 78,
+				"record_time": 529.83,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 6
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Bajiaying",
+				"type": "Narrative",
+				"speaker": "Female, None",
+				"collected": "2009-05-05",
+				"revised": "2009-06-01",
+				"topic": "Frog story",
+				"iu_num": 69,
+				"sent_num": 69,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-naming_taugadhu",
+				"type": "Narrative",
+				"speaker": "male, 1943",
+				"collected": "2010-01-14",
+				"revised": "None",
+				"topic": "Naming",
+				"iu_num": 314,
+				"sent_num": 63,
+				"record_time": 780.93,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 24
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Tuku",
+				"type": "Narrative",
+				"speaker": "Female, 1948",
+				"collected": "2022-02-12",
+				"topic": "Frog story",
+				"iu_num": 159,
+				"sent_num": 68,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_ba ching-i",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "2004-04-22",
+				"revised": "2013-3-7",
+				"topic": "Pear story",
+				"iu_num": 37,
+				"sent_num": 19,
+				"record_time": 112.68,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Baqingyi",
+				"type": "Narrative",
+				"speaker": "Male, None",
+				"collected": "None",
+				"revised": "2021-04-08",
+				"topic": "Frog story",
+				"iu_num": 69,
+				"sent_num": 37,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_wauki",
+				"type": "Narrative",
+				"speaker": "male, 1933",
+				"collected": "2009-05-25",
+				"revised": "2013-3-14",
+				"topic": "Pear story",
+				"iu_num": 71,
+				"sent_num": 34,
+				"record_time": 175.38,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Kainguane",
+				"type": "Narrative",
+				"speaker": "Male, None",
+				"collected": "2009-05-05",
+				"revised": "2013-1-17",
+				"topic": "Frog Story",
+				"iu_num": 228,
+				"sent_num": 86,
+				"record_time": 524.44,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_Balenge",
+				"type": "Narrative",
+				"speaker": "female, 1961",
+				"collected": "2009-08-06",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 143,
+				"sent_num": 32,
+				"record_time": 286.67,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_salrabu",
+				"type": "Narrative",
+				"speaker": "male, 1938",
+				"collected": "2004-04-22",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 59,
+				"sent_num": 23,
+				"record_time": 192.38,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Rukai_Vedai/RukaiNr-work by men and women_taugadhu",
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943",
+				"speaker": "male, 1943",
 				"collected": "2009-08-07",
 				"revised": "None",
 				"topic": "Work by Men and Women",
@@ -1395,7 +1708,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_salrabu",
 				"type": "Narrative",
-				"speaker": "柯啟川, Salrabu, male, 1938",
+				"speaker": "male, 1938",
 				"collected": "2004-04-22",
 				"revised": "2013-1-17",
 				"topic": "Frog story",
@@ -1415,271 +1728,9 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-ghost lake_Balenge",
-				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961",
-				"collected": "2011-8-19",
-				"revised": "2014-3-27",
-				"topic": "Ghost lake",
-				"iu_num": 72,
-				"sent_num": 24,
-				"record_time": 168.84,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Bajiaying",
-				"type": "Narrative",
-				"speaker": "巴佳英, None, Female, None",
-				"collected": "2009-05-05",
-				"revised": "2009-06-01",
-				"topic": "Frog story",
-				"iu_num": 69,
-				"sent_num": 69,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Tuku",
-				"type": "Narrative",
-				"speaker": "柯菊英, tuku ka taimadrilingi, Female, 1948",
-				"collected": "2022-02-12",
-				"topic": "Frog story",
-				"iu_num": 159,
-				"sent_num": 68,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Kainguane",
-				"type": "Narrative",
-				"speaker": "王朝賢, Kainguane, Male, None",
-				"collected": "2009-05-05",
-				"revised": "2013-1-17",
-				"topic": "Frog Story",
-				"iu_num": 228,
-				"sent_num": 86,
-				"record_time": 524.44,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_Kainguane",
-				"type": "Narrative",
-				"speaker": "王朝賢, Kainguane, Male, None",
-				"collected": "2009-05-11",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 69,
-				"sent_num": 69,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_ba ching-i",
-				"type": "Narrative",
-				"speaker": "巴清一, unknown, male, None",
-				"collected": "2004-04-22",
-				"revised": "2013-3-7",
-				"topic": "Pear story",
-				"iu_num": 37,
-				"sent_num": 19,
-				"record_time": 112.68,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Waecacane",
-				"type": "Narrative",
-				"speaker": "杜山雄, waecacane ka taitaugadu, Male, 1951",
-				"collected": "2022-02-12",
-				"topic": "Frog story",
-				"iu_num": 97,
-				"sent_num": 40,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Baqingyi",
-				"type": "Narrative",
-				"speaker": "巴清一, None, Male, None",
-				"collected": "None",
-				"revised": "2021-04-08",
-				"topic": "Frog story",
-				"iu_num": 69,
-				"sent_num": 37,
-				"record_time": 0,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-childhood_balenge",
-				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, Female, 1961",
-				"collected": "2011-8-11",
-				"revised": "2014-3-13",
-				"topic": "Childhood",
-				"iu_num": 184,
-				"sent_num": 69,
-				"record_time": 436.56,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_Balenge",
-				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961",
-				"collected": "2009-08-06",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 143,
-				"sent_num": 32,
-				"record_time": 286.67,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Legeai",
-				"type": "Narrative",
-				"speaker": "巴山光, Legeai, male, None",
-				"collected": "2010-01-14",
-				"revised": "2013-1-17",
-				"topic": "Frog story",
-				"iu_num": 181,
-				"sent_num": 55,
-				"record_time": 375.54,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-naming_taugadhu",
-				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943",
-				"collected": "2010-01-14",
-				"revised": "None",
-				"topic": "Naming",
-				"iu_num": 314,
-				"sent_num": 63,
-				"record_time": 780.93,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 24
-				}
-			},
-			{
 				"file": "Rukai_Vedai/RukaiNr-marriage ceremony_taugadha",
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943",
+				"speaker": "male, 1943",
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Marriage Ceremony",
@@ -1699,75 +1750,9 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-pear_salrabu",
-				"type": "Narrative",
-				"speaker": "柯啟川, Salrabu, male, 1938",
-				"collected": "2004-04-22",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 59,
-				"sent_num": 23,
-				"record_time": 192.38,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-princess balenge_balenge",
-				"type": "Narrative",
-				"speaker": "潘柯菊華, Balenge, female, 1961",
-				"collected": "2009-08-06",
-				"revised": "2014-3-27",
-				"topic": "Princess Balenge",
-				"iu_num": 213,
-				"sent_num": 86,
-				"record_time": 483.33,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_wauki",
-				"type": "Narrative",
-				"speaker": "何維豪, Wauki, male, 1933",
-				"collected": "2009-05-25",
-				"revised": "2013-3-14",
-				"topic": "Pear story",
-				"iu_num": 71,
-				"sent_num": 34,
-				"record_time": 175.38,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
 				"file": "Rukai_Vedai/RukaiNr-becenge_tagas",
 				"type": "Narrative",
-				"speaker": "沙本賞, Tagas, Male, 1938",
+				"speaker": "Male, 1938",
 				"collected": "2009-08-07",
 				"revised": "2013-1-21",
 				"topic": "Millet",
@@ -1787,37 +1772,15 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-swing_taugadhu",
+				"file": "Rukai_Vedai/RukaiNr-ghost lake_Balenge",
 				"type": "Narrative",
-				"speaker": "杜傳, Taugadhu, male, 1943",
-				"collected": "2009-08-06",
-				"revised": "None",
-				"topic": "Swing",
-				"iu_num": 232,
-				"sent_num": 78,
-				"record_time": 529.83,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 6
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_tagas",
-				"type": "Narrative",
-				"speaker": "沙本賞, Tagas, male, 1938",
-				"collected": "2010-01-15",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 42,
-				"sent_num": 13,
-				"record_time": 108.92,
+				"speaker": "female, 1961",
+				"collected": "2011-8-19",
+				"revised": "2014-3-27",
+				"topic": "Ghost lake",
+				"iu_num": 72,
+				"sent_num": 24,
+				"record_time": 168.84,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1833,7 +1796,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_Legeai",
 				"type": "Narrative",
-				"speaker": "巴山光, Legeai, male, None",
+				"speaker": "male, None",
 				"collected": "2010-01-14",
 				"revised": "None",
 				"topic": "Pear story",
@@ -1853,11 +1816,15 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200529-FW-Jess",
-				"type": "Sentence",
-				"speaker": "宋文臣, Legeay Sukinatimi, male, 1936/ 賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-29",
-				"sent_num": 19,
+				"file": "Rukai_Vedai/RukaiNr-childhood_balenge",
+				"type": "Narrative",
+				"speaker": "Female, 1961",
+				"collected": "2011-8-11",
+				"revised": "2014-3-13",
+				"topic": "Childhood",
+				"iu_num": 184,
+				"sent_num": 69,
+				"record_time": 436.56,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1871,11 +1838,15 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200513-CL-8",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-05-13",
-				"sent_num": 24,
+				"file": "Rukai_Vedai/RukaiNr-frog_Legeai",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "2010-01-14",
+				"revised": "2013-1-17",
+				"topic": "Frog story",
+				"iu_num": 181,
+				"sent_num": 55,
+				"record_time": 375.54,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -1889,713 +1860,58 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200529-FW-Ingrid",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-29",
+				"file": "Rukai_Vedai/RukaiNr-frog_Waecacane",
+				"type": "Narrative",
+				"speaker": "Male, 1951",
+				"collected": "2022-02-12",
+				"topic": "Frog story",
+				"iu_num": 97,
+				"sent_num": 40,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_Kainguane",
+				"type": "Narrative",
+				"speaker": "Male, None",
+				"collected": "2009-05-11",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 69,
+				"sent_num": 69,
+				"record_time": 0,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-pear_tagas",
+				"type": "Narrative",
+				"speaker": "male, 1938",
+				"collected": "2010-01-15",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 42,
 				"sent_num": 13,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Ken-2",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeay Parangerange, male, 1946",
-				"collected": "2020-05-30",
-				"sent_num": 26,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Ludwig",
-				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, male, 1959/柯菊華, Balenge, female, 1961 (標號六以後)",
-				"collected": "2020-05-30",
-				"sent_num": 11,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Andrea-2",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeai, male, 1946",
-				"collected": "2020-05-29",
-				"sent_num": 35,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Jess",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, female, 1961/巴山光, Legeai Padrangedrange, male, 1946",
-				"collected": "2020-05-30",
-				"sent_num": 26,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Andrea-1",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, female, 1961",
-				"collected": "2020-05-30",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200325-CL-2",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-03-25",
-				"sent_num": 23,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200528-FW-Jess",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeay Padrangedrange, male, 1946",
-				"collected": "2020-05-28",
-				"sent_num": 10,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Yongfu-2",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-30",
-				"sent_num": 16,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Ken-2",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-29",
-				"sent_num": 11,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200415-CL-4",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-04-15",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Ken-1",
-				"type": "Sentence",
-				"speaker": "宋文臣, Legeay Sukinatimi, male, 1936",
-				"collected": "2020-05-29",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Ryan",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-30",
-				"sent_num": 46,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200528-FW-Andrea",
-				"type": "Sentence",
-				"speaker": "許進登, Bikar, male, 1950",
-				"collected": "2020-05-28",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Lixing-2",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-30",
-				"sent_num": 6,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200528-FW-Ryan",
-				"type": "Sentence",
-				"speaker": "許進登, Bikar, male, 1950",
-				"collected": "2020-05-28",
-				"sent_num": 24,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200422-CL-5",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-04-22",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200408-CL-3",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-04-08",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-yuki-1",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, female, 1961",
-				"collected": "2020-05-29",
-				"sent_num": 14,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Jimmy-1",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-29",
-				"sent_num": 11,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-yuki",
-				"type": "Sentence",
-				"speaker": "賴天賜/柯菊華, Baludase/Balenge, male/female, 1959/1961",
-				"collected": "2020-05-30",
-				"sent_num": 16,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200528-FW-yuki",
-				"type": "Sentence",
-				"speaker": "許進登, Bikar, male, 1950",
-				"collected": "2020-05-28",
-				"sent_num": 24,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Lixing-1",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-29",
-				"sent_num": 20,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200528-FW-Ludwig",
-				"type": "Sentence",
-				"speaker": "許進登, Bikar, male, 1950",
-				"collected": "2020-05-28",
-				"sent_num": 26,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Yongfu-2",
-				"type": "Sentence",
-				"speaker": "宋文臣, Leageayi, male, 1936",
-				"collected": "2020-05-29",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200531-FW-Lixing",
-				"type": "Sentence",
-				"speaker": "許進登, Bikare, male, 1950",
-				"collected": "2020-05-31",
-				"sent_num": 21,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Andrea-1",
-				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, male, 1959",
-				"collected": "2020-05-30",
-				"sent_num": 9,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200531-FW-Yongfu-1",
-				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, male, 1959",
-				"collected": "2020-05-31",
-				"sent_num": 30,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Lixing-1",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeai, male, 1946",
-				"collected": "2020-05-30",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200531-FW-Yongfu-2",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legaane, female, 1961",
-				"collected": "2020-05-31",
-				"sent_num": 16,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Ludwig",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane / Balenge, female, 1961 / 巴山光, Legeay Parangerange, male, 1946 (標號7後)",
-				"collected": "2020-05-29",
-				"sent_num": 23,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Yongfu-1",
-				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
-				"collected": "2020-05-29",
-				"sent_num": 37,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Jimmy-2",
-				"type": "Sentence",
-				"speaker": "賴天賜, Baludase, male, 1959",
-				"collected": "2020-05-30",
-				"sent_num": 5,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Ken-1",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-05-30",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200528-FW-Yongfu",
-				"type": "Sentence",
-				"speaker": "麥長老, Baelrece, male, 1958",
-				"collected": "2020-05-28",
-				"sent_num": 26,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Ingrid",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, female, 1961 / 巴山光, Legeai Padrangedrange, male, 1946",
-				"collected": "2020-05-30",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Jimmy-1",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeai, male, 1946",
-				"collected": "2020-05-30",
-				"sent_num": 21,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200531-FW-Jimmy",
-				"type": "Sentence",
-				"speaker": "許進登, Bikare, male, 1950",
-				"collected": "2020-05-31",
-				"sent_num": 11,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-yuki-2",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeai, male, 1946",
-				"collected": "2020-05-29",
-				"sent_num": 28,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Ryan",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, female, 1961",
-				"collected": "2020-05-29",
-				"sent_num": 38,
+				"record_time": 108.92,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2611,7 +1927,7 @@
 			{
 				"file": "Rukai_Vedai/20200318-CL-1",
 				"type": "Sentence",
-				"speaker": "柯菊華,  Balenge, female, 1961",
+				"speaker": "female, 1961",
 				"collected": "2020-03-18",
 				"sent_num": 10,
 				"marker": {
@@ -2627,11 +1943,11 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200531-FW-Ingrid",
+				"file": "Rukai_Vedai/20200531-FW-Lixing",
 				"type": "Sentence",
-				"speaker": "賴天賜, Paludase Aluladen, male, 1959",
+				"speaker": "male, 1950",
 				"collected": "2020-05-31",
-				"sent_num": 25,
+				"sent_num": 21,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2645,101 +1961,11 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200529-FW-Lixing-2",
+				"file": "Rukai_Vedai/20200529-FW-Lixing-1",
 				"type": "Sentence",
-				"speaker": "宋文臣, Leageayi, male, 1936",
+				"speaker": "male, 1959",
 				"collected": "2020-05-29",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200529-FW-Jimmy-2",
-				"type": "Sentence",
-				"speaker": "宋文臣, Leageayi, male, 1936",
-				"collected": "2020-05-29",
-				"sent_num": 14,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200429-CL-6",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-04-29",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200531-FW-yuki",
-				"type": "Sentence",
-				"speaker": "巴山光, Legeay Parangerange, male, 1946",
-				"collected": "2020-05-31",
-				"sent_num": 48,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200530-FW-Andrea-2",
-				"type": "Sentence",
-				"speaker": "柯菊華, Legeane, female, 1961",
-				"collected": "2020-05-30",
-				"sent_num": 10,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/20200508-CL-7",
-				"type": "Sentence",
-				"speaker": "柯菊華, Balenge, female, 1961",
-				"collected": "2020-05-08",
-				"sent_num": 23,
+				"sent_num": 20,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2755,7 +1981,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ken",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Padrangedrange, male, 1946",
+				"speaker": "male, 1946",
 				"collected": "2020-05-28",
 				"sent_num": 23,
 				"marker": {
@@ -2771,11 +1997,119 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200528-FW-Ingrid",
+				"file": "Rukai_Vedai/20200531-FW-Jimmy",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeay Padrangedrange, male, 1946 /宋文成, Legeay Sukinatimi, male, 1936",
+				"speaker": "male, 1950",
+				"collected": "2020-05-31",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200508-CL-7",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-08",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-31",
+				"sent_num": 25,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 13,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Andrea-2",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-29",
+				"sent_num": 35,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Andrea-1",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 9,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-yuki",
+				"type": "Sentence",
+				"speaker": "male, 1950",
 				"collected": "2020-05-28",
-				"sent_num": 36,
+				"sent_num": 24,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2791,7 +2125,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "巴山光, Legeai, male, 1946",
+				"speaker": "male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 23,
 				"marker": {
@@ -2807,606 +2141,10 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/20200528-FW-Jimmy",
+				"file": "Rukai_Vedai/20200529-FW-Ken-1",
 				"type": "Sentence",
-				"speaker": "麥長老, Baelrece, male, 1958",
-				"collected": "2020-05-28",
-				"sent_num": 16,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			}
-		]
-	},
-	"Sakizaya_Sakizaya": {
-		"summary": {
-			"story": {
-				"iu_num": 2087,
-				"sent_num": 923,
-				"record_time": 4686.77
-			},
-			"sentence": {
-				"sent_num": 0
-			},
-			"grammar": {
-				"sent_num": 1531
-			},
-			"marker": {
-				"AF": 747,
-				"NAF": 0,
-				"PF": 163,
-				"RF": 6,
-				"IF": 9,
-				"BF": 5,
-				"CF": 0,
-				"LF": 101,
-				"GEN": 598
-			}
-		},
-		"text": [
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-frog_panay",
-				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949",
-				"collected": "2008-01-05",
-				"revised": "None",
-				"topic": "frog_Panay",
-				"iu_num": 106,
-				"sent_num": 54,
-				"record_time": 309.21,
-				"marker": {
-					"AF": 51,
-					"NAF": 0,
-					"PF": 12,
-					"RF": 3,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 28
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-rain-kaniw",
-				"type": "Narrative",
-				"speaker": "楊富男, kaniw, male, 1942",
-				"collected": "2009-10-31",
-				"revised": "None",
-				"topic": "rain_Kaniw",
-				"iu_num": 124,
-				"sent_num": 39,
-				"record_time": 242.9,
-				"marker": {
-					"AF": 29,
-					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
-					"IF": 2,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 20
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-class_sinay",
-				"type": "Narrative",
-				"speaker": "林來億, Sinay, male, None",
-				"collected": "2009-10-31",
-				"revised": "None",
-				"topic": "class_Sinay",
-				"iu_num": 198,
-				"sent_num": 84,
-				"record_time": 470.29,
-				"marker": {
-					"AF": 77,
-					"NAF": 0,
-					"PF": 19,
-					"RF": 0,
-					"IF": 4,
-					"BF": 5,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 53
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-pear_dungi",
-				"type": "Narrative",
-				"speaker": "蔡宜庭, dungi, female, 1949",
-				"collected": "2009-08-28",
-				"revised": "None",
-				"topic": "pear_dungi",
-				"iu_num": 94,
-				"sent_num": 42,
-				"record_time": 173.51,
-				"marker": {
-					"AF": 42,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 27
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-school_Panay",
-				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949",
-				"collected": "2008-01-05",
-				"revised": "None",
-				"topic": "school_panay",
-				"iu_num": 51,
-				"sent_num": 23,
-				"record_time": 137.54,
-				"marker": {
-					"AF": 15,
-					"NAF": 0,
-					"PF": 4,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 8,
-					"GEN": 27
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-palamal_kaniw",
-				"type": "Narrative",
-				"speaker": "楊富男, kaniw, male, 1942",
-				"collected": "2009-10-31",
-				"revised": "None",
-				"topic": "Palamal_Kaniw",
-				"iu_num": 262,
-				"sent_num": 113,
-				"record_time": 508.74,
-				"marker": {
-					"AF": 100,
-					"NAF": 0,
-					"PF": 13,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 13,
-					"GEN": 60
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-maibol_Panay",
-				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949",
-				"collected": "2008-01-05",
-				"revised": "2014-12-13",
-				"topic": "maibul_panay",
-				"iu_num": 39,
-				"sent_num": 21,
-				"record_time": 90.72,
-				"marker": {
-					"AF": 8,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 2,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 13
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-frog_sinay",
-				"type": "Narrative",
-				"speaker": "林來億, Sinay, male, None",
-				"collected": "2009-10-31",
-				"revised": "2014-2-19",
-				"topic": "frog_sinay",
-				"iu_num": 108,
-				"sent_num": 39,
-				"record_time": 230.53,
-				"marker": {
-					"AF": 32,
-					"NAF": 0,
-					"PF": 10,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 24
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-frog_dungi",
-				"type": "Narrative",
-				"speaker": "蔡宜庭, dungi, female, 1949",
-				"collected": "2009-08-28",
-				"revised": "None",
-				"topic": "frog_Dungi",
-				"iu_num": 129,
-				"sent_num": 58,
-				"record_time": 238.28,
-				"marker": {
-					"AF": 43,
-					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 32
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-frog_bunuk",
-				"type": "Narrative",
-				"speaker": "葉珠君, bunuk, female, 1958",
-				"collected": "2008-01-05",
-				"revised": "None",
-				"topic": "frog_Bunuk",
-				"iu_num": 143,
-				"sent_num": 90,
-				"record_time": 409.5,
-				"marker": {
-					"AF": 68,
-					"NAF": 0,
-					"PF": 22,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 15,
-					"GEN": 55
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-pear_bunuk",
-				"type": "Narrative",
-				"speaker": "葉珠君, bunuk, female, 1958",
-				"collected": "2008-01-05",
-				"revised": "2014-2-19",
-				"topic": "pear_bunuk",
-				"iu_num": 120,
-				"sent_num": 58,
-				"record_time": 278.58,
-				"marker": {
-					"AF": 59,
-					"NAF": 0,
-					"PF": 13,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 4,
-					"GEN": 63
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-tribalhistory_sinay",
-				"type": "Narrative",
-				"speaker": "林來億, Sinay, male, None",
-				"collected": "2009-10-31",
-				"revised": "2017-7-19",
-				"topic": "tribalhistory_Sinay",
-				"iu_num": 480,
-				"sent_num": 208,
-				"record_time": 1056.92,
-				"marker": {
-					"AF": 144,
-					"NAF": 0,
-					"PF": 33,
-					"RF": 1,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 37,
-					"GEN": 136
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-hunting_kaniw",
-				"type": "Narrative",
-				"speaker": "楊富男, kaniw, male, 1942",
-				"collected": "2009-10-31",
-				"revised": "None",
-				"topic": "hunting_Kaniw",
-				"iu_num": 129,
-				"sent_num": 49,
-				"record_time": 267.56,
-				"marker": {
-					"AF": 44,
-					"NAF": 0,
-					"PF": 16,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 5,
-					"GEN": 16
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-sapat_Panay",
-				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949",
-				"collected": "2008-01-05",
-				"revised": "2017-7-9",
-				"topic": "sapad-panay",
-				"iu_num": 60,
-				"sent_num": 21,
-				"record_time": 146.06,
-				"marker": {
-					"AF": 11,
-					"NAF": 0,
-					"PF": 1,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 23
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/skzyNr-pear_panay",
-				"type": "Narrative",
-				"speaker": "葉阿妹, panay, female, 1949",
-				"collected": "2008-01-05",
-				"revised": "None",
-				"topic": "pear_panay",
-				"iu_num": 44,
-				"sent_num": 24,
-				"record_time": 126.43,
-				"marker": {
-					"AF": 24,
-					"NAF": 0,
-					"PF": 2,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 21
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/13",
-				"type": "GrammarBook",
-				"topic": "第十三章 補語結構",
-				"sent_num": 48,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/08",
-				"type": "GrammarBook",
-				"topic": "第八章 祈使句結構",
-				"sent_num": 22,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/09",
-				"type": "GrammarBook",
-				"topic": "第九章 使動結構",
-				"sent_num": 29,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/12",
-				"type": "GrammarBook",
-				"topic": "第十二章 連動結構",
-				"sent_num": 19,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/10",
-				"type": "GrammarBook",
-				"topic": "第十章 否定句結構",
-				"sent_num": 46,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/ap1",
-				"type": "GrammarBook",
-				"topic": "長篇語料一 石頭火鍋",
-				"sent_num": 78,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/14",
-				"type": "GrammarBook",
-				"topic": "第十四章 修飾結構",
-				"sent_num": 29,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/04",
-				"type": "GrammarBook",
-				"topic": "第四章 基本句型與詞序",
-				"sent_num": 44,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/11",
-				"type": "GrammarBook",
-				"topic": "第十一章 疑問句結構",
-				"sent_num": 67,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/05",
-				"type": "GrammarBook",
-				"topic": "第五章 格位標記與代名詞系統",
-				"sent_num": 63,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/03",
-				"type": "GrammarBook",
-				"topic": "第三章 詞彙與構詞",
-				"sent_num": 5,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/07",
-				"type": "GrammarBook",
-				"topic": "第七章 存在句、所有句和方位句結構",
-				"sent_num": 10,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/ap2",
-				"type": "GrammarBook",
-				"topic": "長篇語料二 咒語和祭司的故事",
-				"sent_num": 68,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Sakizaya_Sakizaya/15",
-				"type": "GrammarBook",
-				"topic": "第十五章 並列結構",
+				"speaker": "male, 1936",
+				"collected": "2020-05-29",
 				"sent_num": 17,
 				"marker": {
 					"AF": 0,
@@ -3421,10 +2159,731 @@
 				}
 			},
 			{
-				"file": "Sakizaya_Sakizaya/06",
-				"type": "GrammarBook",
-				"topic": "第六章 焦點系統與時貌語氣系統",
-				"sent_num": 63,
+				"file": "Rukai_Vedai/20200531-FW-yuki",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-31",
+				"sent_num": 48,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Yongfu-2",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-31",
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Jimmy",
+				"type": "Sentence",
+				"speaker": "male, 1958",
+				"collected": "2020-05-28",
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Jimmy-2",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 5,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ken-2",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Ludwig",
+				"type": "Sentence",
+				"speaker": "male, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Andrea",
+				"type": "Sentence",
+				"speaker": "male, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ludwig",
+				"type": "Sentence",
+				"speaker": "male, 1959/柯菊華, Balenge, female, 1961 (標號六以後)",
+				"collected": "2020-05-30",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Jess",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-28",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200415-CL-4",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-04-15",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200422-CL-5",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-04-22",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-yuki-1",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-29",
+				"sent_num": 14,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200513-CL-8",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-13",
+				"sent_num": 24,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Jess",
+				"type": "Sentence",
+				"speaker": "male, 1936/ 賴天賜, Paludase Aluladen, male, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ryan",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 46,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ken-1",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-30",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Yongfu-2",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Lixing-2",
+				"type": "Sentence",
+				"speaker": "male, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ken-2",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "male, 1946 /宋文成, Legeay Sukinatimi, male, 1936",
+				"collected": "2020-05-28",
+				"sent_num": 36,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ryan",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-29",
+				"sent_num": 38,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Jimmy-1",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200429-CL-6",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-04-29",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-yuki",
+				"type": "Sentence",
+				"speaker": "male/female, 1959/1961",
+				"collected": "2020-05-30",
+				"sent_num": 16,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Yongfu-1",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-29",
+				"sent_num": 37,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Jimmy-1",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 21,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Ludwig",
+				"type": "Sentence",
+				"speaker": "female, 1961 / 巴山光, Legeay Parangerange, male, 1946 (標號7後)",
+				"collected": "2020-05-29",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200408-CL-3",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-04-08",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Yongfu-2",
+				"type": "Sentence",
+				"speaker": "male, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Lixing-1",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Yongfu",
+				"type": "Sentence",
+				"speaker": "male, 1958",
+				"collected": "2020-05-28",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Jimmy-2",
+				"type": "Sentence",
+				"speaker": "male, 1936",
+				"collected": "2020-05-29",
+				"sent_num": 14,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Lixing-2",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-30",
+				"sent_num": 6,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-yuki-2",
+				"type": "Sentence",
+				"speaker": "male, 1946",
+				"collected": "2020-05-29",
+				"sent_num": 28,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Jess",
+				"type": "Sentence",
+				"speaker": "female, 1961/巴山光, Legeai Padrangedrange, male, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 26,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Andrea-2",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-30",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200325-CL-2",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-03-25",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200528-FW-Ryan",
+				"type": "Sentence",
+				"speaker": "male, 1950",
+				"collected": "2020-05-28",
+				"sent_num": 24,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200530-FW-Ingrid",
+				"type": "Sentence",
+				"speaker": "female, 1961 / 巴山光, Legeai Padrangedrange, male, 1946",
+				"collected": "2020-05-30",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200531-FW-Yongfu-1",
+				"type": "Sentence",
+				"speaker": "male, 1959",
+				"collected": "2020-05-31",
+				"sent_num": 30,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/20200529-FW-Andrea-1",
+				"type": "Sentence",
+				"speaker": "female, 1961",
+				"collected": "2020-05-30",
+				"sent_num": 17,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3466,9 +2925,75 @@
 		},
 		"text": [
 			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr-puratu_Muu",
+				"type": "Narrative",
+				"speaker": "male, 1932",
+				"collected": "None",
+				"revised": "2017-6-6",
+				"topic": "puratu",
+				"iu_num": 481,
+				"sent_num": 144,
+				"record_time": 852.28,
+				"marker": {
+					"AF": 126,
+					"NAF": 0,
+					"PF": 32,
+					"RF": 0,
+					"IF": 10,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 47
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_fishing_Pani",
+				"type": "Narrative",
+				"speaker": "male, 1951",
+				"collected": "00:11:26",
+				"revised": "None",
+				"topic": "Fishing",
+				"iu_num": 318,
+				"sent_num": 49,
+				"record_time": 682.97,
+				"marker": {
+					"AF": 108,
+					"NAF": 0,
+					"PF": 21,
+					"RF": 1,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_farming_Muu",
+				"type": "Narrative",
+				"speaker": "male, 1947",
+				"collected": "00 :09 :28",
+				"revised": "None",
+				"topic": "Farming",
+				"iu_num": 151,
+				"sent_num": 38,
+				"record_time": 563.03,
+				"marker": {
+					"AF": 35,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 11
+				}
+			},
+			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_domestic_troubles_Muu",
 				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932",
+				"speaker": "male, 1932",
 				"collected": "2012-05-30",
 				"revised": "2017-6-6",
 				"topic": "domestic_troubles",
@@ -3488,9 +3013,207 @@
 				}
 			},
 			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_sad_song_Muu",
+				"type": "Narrative",
+				"speaker": "male, 1932",
+				"collected": "0000-00-00",
+				"revised": "2017-6-6",
+				"topic": "a sad song",
+				"iu_num": 15,
+				"sent_num": 12,
+				"record_time": 114.54,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr-fishing_Muu",
+				"type": "Narrative",
+				"speaker": "male, 1932",
+				"collected": "2012-12-08",
+				"revised": "2017-6-6",
+				"topic": "fishing",
+				"iu_num": 497,
+				"sent_num": 161,
+				"record_time": 961.32,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 30
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu",
+				"type": "Narrative",
+				"speaker": "female, 1939",
+				"collected": "2012-07-18",
+				"revised": "2017-6-6",
+				"topic": "sowing",
+				"iu_num": 83,
+				"sent_num": 45,
+				"record_time": 336.42,
+				"marker": {
+					"AF": 49,
+					"NAF": 0,
+					"PF": 4,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_millet_Muu",
+				"type": "Narrative",
+				"speaker": "male, 1932",
+				"collected": "2012-06-??",
+				"revised": "2014-2-10",
+				"topic": "Millet",
+				"iu_num": 207,
+				"sent_num": 96,
+				"record_time": 410.12,
+				"marker": {
+					"AF": 37,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 23
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_frog_Uva",
+				"type": "Narrative",
+				"speaker": "male, 1951",
+				"collected": "None",
+				"revised": "2016-5-24",
+				"topic": "Frog story",
+				"iu_num": 153,
+				"sent_num": 81,
+				"record_time": 468.98,
+				"marker": {
+					"AF": 69,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 38
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_the man from china_Pani",
+				"type": "Narrative",
+				"speaker": "male, 1951",
+				"collected": "00:10:43",
+				"revised": "None",
+				"topic": "The man from China_Pani",
+				"iu_num": 268,
+				"sent_num": 53,
+				"record_time": 638.72,
+				"marker": {
+					"AF": 118,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 2,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 25
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr-frogstory_angai",
+				"type": "Narrative",
+				"speaker": "male, 1953",
+				"collected": "13:57",
+				"revised": "2015-9-2",
+				"topic": "Frog story",
+				"iu_num": 399,
+				"sent_num": 76,
+				"record_time": 834.56,
+				"marker": {
+					"AF": 122,
+					"NAF": 0,
+					"PF": 15,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 29
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr-story_pani",
+				"type": "Narrative",
+				"speaker": "male, 1951",
+				"collected": "00:10:14",
+				"revised": "2017-7-24",
+				"topic": "Story",
+				"iu_num": 144,
+				"sent_num": 70,
+				"record_time": 613.35,
+				"marker": {
+					"AF": 56,
+					"NAF": 0,
+					"PF": 8,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 17
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_family_Paicu",
+				"type": "Narrative",
+				"speaker": "female, 1939",
+				"collected": "2012-05-31",
+				"revised": "2017-6-6",
+				"topic": "family",
+				"iu_num": 57,
+				"sent_num": 21,
+				"record_time": 286.65,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 9
+				}
+			},
+			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Kuatu",
 				"type": "Narrative",
-				"speaker": "蕭范秀玉, Kuatʉ, female, 1941",
+				"speaker": "female, 1941",
 				"collected": "2008-05-31",
 				"revised": "2017-6-6",
 				"topic": "sowing",
@@ -3512,7 +3235,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting1_Muu",
 				"type": "Narrative",
-				"speaker": "翁成, Mu'u Ka'angena, male, 1947",
+				"speaker": "male, 1947",
 				"collected": "00:10:27",
 				"revised": "2017-6-6",
 				"topic": "hunting1",
@@ -3532,339 +3255,9 @@
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_fishing_Pani",
-				"type": "Narrative",
-				"speaker": "孔岳中, Pani Kanpanena, male, 1951",
-				"collected": "00:11:26",
-				"revised": "None",
-				"topic": "Fishing",
-				"iu_num": 318,
-				"sent_num": 49,
-				"record_time": 682.97,
-				"marker": {
-					"AF": 108,
-					"NAF": 0,
-					"PF": 21,
-					"RF": 1,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 3
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_the man from china_Pani",
-				"type": "Narrative",
-				"speaker": "孔岳中, Pani Kanpanena, male, 1951",
-				"collected": "00:10:43",
-				"revised": "None",
-				"topic": "The man from China_Pani",
-				"iu_num": 268,
-				"sent_num": 53,
-				"record_time": 638.72,
-				"marker": {
-					"AF": 118,
-					"NAF": 0,
-					"PF": 11,
-					"RF": 2,
-					"IF": 2,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 25
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_farming_Muu",
-				"type": "Narrative",
-				"speaker": "翁成, Mu'u Ka'angena, male, 1947",
-				"collected": "00 :09 :28",
-				"revised": "None",
-				"topic": "Farming",
-				"iu_num": 151,
-				"sent_num": 38,
-				"record_time": 563.03,
-				"marker": {
-					"AF": 35,
-					"NAF": 0,
-					"PF": 13,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 11
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting_taboos_Angai",
-				"type": "Narrative",
-				"speaker": "蕭能吉, Angai, male, 1936",
-				"collected": "2011-05-30",
-				"revised": "2017-6-6",
-				"topic": "hunting.taboos",
-				"iu_num": 138,
-				"sent_num": 22,
-				"record_time": 234.64,
-				"marker": {
-					"AF": 28,
-					"NAF": 0,
-					"PF": 2,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu",
-				"type": "Narrative",
-				"speaker": "翁范秀香, Paicʉ, female, 1939",
-				"collected": "2012-07-18",
-				"revised": "2017-6-6",
-				"topic": "sowing",
-				"iu_num": 83,
-				"sent_num": 45,
-				"record_time": 336.42,
-				"marker": {
-					"AF": 49,
-					"NAF": 0,
-					"PF": 4,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 2
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr-frogstory_angai",
-				"type": "Narrative",
-				"speaker": "翁博學, 'Angai Ka'angena, male, 1953",
-				"collected": "13:57",
-				"revised": "2015-9-2",
-				"topic": "Frog story",
-				"iu_num": 399,
-				"sent_num": 76,
-				"record_time": 834.56,
-				"marker": {
-					"AF": 122,
-					"NAF": 0,
-					"PF": 15,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 29
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_sad_song_Muu",
-				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932",
-				"collected": "0000-00-00",
-				"revised": "2017-6-6",
-				"topic": "a sad song",
-				"iu_num": 15,
-				"sent_num": 12,
-				"record_time": 114.54,
-				"marker": {
-					"AF": 11,
-					"NAF": 0,
-					"PF": 1,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_frog_Uva",
-				"type": "Narrative",
-				"speaker": "孔金治, Uva Kapanena, male, 1951",
-				"collected": "None",
-				"revised": "2016-5-24",
-				"topic": "Frog story",
-				"iu_num": 153,
-				"sent_num": 81,
-				"record_time": 468.98,
-				"marker": {
-					"AF": 69,
-					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 38
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_family_Paicu",
-				"type": "Narrative",
-				"speaker": "翁范秀香, Paicʉ, female, 1939",
-				"collected": "2012-05-31",
-				"revised": "2017-6-6",
-				"topic": "family",
-				"iu_num": 57,
-				"sent_num": 21,
-				"record_time": 286.65,
-				"marker": {
-					"AF": 24,
-					"NAF": 0,
-					"PF": 2,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 9
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_mikon_Kuatu",
-				"type": "Narrative",
-				"speaker": "蕭范秀玉, Kuatʉ, female, 1941",
-				"collected": "2012-05-31",
-				"revised": "2017-6-6",
-				"topic": "mikon",
-				"iu_num": 33,
-				"sent_num": 11,
-				"record_time": 133.11,
-				"marker": {
-					"AF": 22,
-					"NAF": 0,
-					"PF": 1,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr-story_pani",
-				"type": "Narrative",
-				"speaker": "孔岳中, Pani Kanpanena, male, 1951",
-				"collected": "00:10:14",
-				"revised": "2017-7-24",
-				"topic": "Story",
-				"iu_num": 144,
-				"sent_num": 70,
-				"record_time": 613.35,
-				"marker": {
-					"AF": 56,
-					"NAF": 0,
-					"PF": 8,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 17
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_millet_Muu",
-				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932",
-				"collected": "2012-06-??",
-				"revised": "2014-2-10",
-				"topic": "Millet",
-				"iu_num": 207,
-				"sent_num": 96,
-				"record_time": 410.12,
-				"marker": {
-					"AF": 37,
-					"NAF": 0,
-					"PF": 9,
-					"RF": 0,
-					"IF": 2,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 23
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr-puratu_Muu",
-				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932",
-				"collected": "None",
-				"revised": "2017-6-6",
-				"topic": "puratu",
-				"iu_num": 481,
-				"sent_num": 144,
-				"record_time": 852.28,
-				"marker": {
-					"AF": 126,
-					"NAF": 0,
-					"PF": 32,
-					"RF": 0,
-					"IF": 10,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 47
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr-fishing_Muu",
-				"type": "Narrative",
-				"speaker": "翁坤, Mu'u, male, 1932",
-				"collected": "2012-12-08",
-				"revised": "2017-6-6",
-				"topic": "fishing",
-				"iu_num": 497,
-				"sent_num": 161,
-				"record_time": 961.32,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 30
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/kkvNr_life_Kuatu",
-				"type": "Narrative",
-				"speaker": "蕭范秀玉, Kuatʉ, female, 1941",
-				"collected": "2012-05-30",
-				"revised": "2017-6-6",
-				"topic": "life",
-				"iu_num": 54,
-				"sent_num": 29,
-				"record_time": 261.34,
-				"marker": {
-					"AF": 32,
-					"NAF": 0,
-					"PF": 7,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 7
-				}
-			},
-			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_dailylife_Angai",
 				"type": "Narrative",
-				"speaker": "蕭能吉, Angai, male, 1936",
+				"speaker": "male, 1936",
 				"collected": "2012-05-30",
 				"revised": "2017-6-6",
 				"topic": "dailylife",
@@ -3884,45 +3277,75 @@
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/5",
-				"type": "Sentence",
-				"speaker": "None",
-				"collected": "None",
-				"sent_num": 73,
+				"file": "Kanakanavu_Kanakanavu/kkvNr_mikon_Kuatu",
+				"type": "Narrative",
+				"speaker": "female, 1941",
+				"collected": "2012-05-31",
+				"revised": "2017-6-6",
+				"topic": "mikon",
+				"iu_num": 33,
+				"sent_num": 11,
+				"record_time": 133.11,
 				"marker": {
-					"AF": 0,
+					"AF": 22,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 1,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 0
+					"GEN": 1
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/6",
-				"type": "Sentence",
-				"speaker": "此檔案為測試用",
-				"collected": "None",
-				"sent_num": 4,
+				"file": "Kanakanavu_Kanakanavu/kkvNr_life_Kuatu",
+				"type": "Narrative",
+				"speaker": "female, 1941",
+				"collected": "2012-05-30",
+				"revised": "2017-6-6",
+				"topic": "life",
+				"iu_num": 54,
+				"sent_num": 29,
+				"record_time": 261.34,
 				"marker": {
-					"AF": 0,
+					"AF": 32,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 7,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 0
+					"GEN": 7
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting_taboos_Angai",
+				"type": "Narrative",
+				"speaker": "male, 1936",
+				"collected": "2011-05-30",
+				"revised": "2017-6-6",
+				"topic": "hunting.taboos",
+				"iu_num": 138,
+				"sent_num": 22,
+				"record_time": 234.64,
+				"marker": {
+					"AF": 28,
+					"NAF": 0,
+					"PF": 2,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
 				}
 			},
 			{
 				"file": "Kanakanavu_Kanakanavu/4",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 181,
 				"marker": {
@@ -3940,7 +3363,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/1",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 492,
 				"marker": {
@@ -3956,11 +3379,29 @@
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/3",
+				"file": "Kanakanavu_Kanakanavu/6",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
-				"sent_num": 524,
+				"sent_num": 4,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/5",
+				"type": "Sentence",
+				"speaker": "",
+				"collected": "None",
+				"sent_num": 73,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3976,7 +3417,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/2",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 16,
 				"marker": {
@@ -3992,146 +3433,11 @@
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/13",
-				"type": "GrammarBook",
-				"topic": "第十三章 補語結構",
-				"sent_num": 45,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/ap3",
-				"type": "GrammarBook",
-				"topic": "長篇語料三 楠梓仙溪的故事",
-				"sent_num": 58,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/08",
-				"type": "GrammarBook",
-				"topic": "第八章 祈使句結構",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/09",
-				"type": "GrammarBook",
-				"topic": "第九章 使動結構",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/12",
-				"type": "GrammarBook",
-				"topic": "第十二章 連動結構",
-				"sent_num": 20,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/10",
-				"type": "GrammarBook",
-				"topic": "第十章 否定句結構",
-				"sent_num": 31,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/ap1",
-				"type": "GrammarBook",
-				"topic": "長篇語料一 射日",
-				"sent_num": 100,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/14",
-				"type": "GrammarBook",
-				"topic": "第十四章 修飾結構",
-				"sent_num": 32,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/04",
-				"type": "GrammarBook",
-				"topic": "第四章 基本句型與詞序",
-				"sent_num": 40,
+				"file": "Kanakanavu_Kanakanavu/3",
+				"type": "Sentence",
+				"speaker": "",
+				"collected": "None",
+				"sent_num": 524,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -4162,6 +3468,91 @@
 				}
 			},
 			{
+				"file": "Kanakanavu_Kanakanavu/ap1",
+				"type": "GrammarBook",
+				"topic": "長篇語料一 射日",
+				"sent_num": 100,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/06",
+				"type": "GrammarBook",
+				"topic": "第六章 焦點系統與時貌語氣系統",
+				"sent_num": 55,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/04",
+				"type": "GrammarBook",
+				"topic": "第四章 基本句型與詞序",
+				"sent_num": 40,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/14",
+				"type": "GrammarBook",
+				"topic": "第十四章 修飾結構",
+				"sent_num": 32,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/ap3",
+				"type": "GrammarBook",
+				"topic": "長篇語料三 楠梓仙溪的故事",
+				"sent_num": 58,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Kanakanavu_Kanakanavu/05",
 				"type": "GrammarBook",
 				"topic": "第五章 格位標記與代名詞系統",
@@ -4179,44 +3570,10 @@
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/03",
+				"file": "Kanakanavu_Kanakanavu/12",
 				"type": "GrammarBook",
-				"topic": "第三章 詞彙與構詞",
-				"sent_num": 6,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/07",
-				"type": "GrammarBook",
-				"topic": "第七章 存在句、所有句和方位句結構",
-				"sent_num": 9,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Kanakanavu_Kanakanavu/ap2",
-				"type": "GrammarBook",
-				"topic": "長篇語料二 洪水",
-				"sent_num": 57,
+				"topic": "第十二章 連動結構",
+				"sent_num": 20,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -4247,10 +3604,112 @@
 				}
 			},
 			{
-				"file": "Kanakanavu_Kanakanavu/06",
+				"file": "Kanakanavu_Kanakanavu/ap2",
 				"type": "GrammarBook",
-				"topic": "第六章 焦點系統與時貌語氣系統",
-				"sent_num": 55,
+				"topic": "長篇語料二 洪水",
+				"sent_num": 57,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/13",
+				"type": "GrammarBook",
+				"topic": "第十三章 補語結構",
+				"sent_num": 45,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/09",
+				"type": "GrammarBook",
+				"topic": "第九章 使動結構",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/08",
+				"type": "GrammarBook",
+				"topic": "第八章 祈使句結構",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/10",
+				"type": "GrammarBook",
+				"topic": "第十章 否定句結構",
+				"sent_num": 31,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/07",
+				"type": "GrammarBook",
+				"topic": "第七章 存在句、所有句和方位句結構",
+				"sent_num": 9,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/03",
+				"type": "GrammarBook",
+				"topic": "第三章 詞彙與構詞",
+				"sent_num": 6,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -4265,12 +3724,12 @@
 			}
 		]
 	},
-	"Atayal_Mayrinax": {
+	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 1399,
-				"sent_num": 488,
-				"record_time": 4043.28
+				"iu_num": 7026,
+				"sent_num": 2393,
+				"record_time": 10661.93
 			},
 			"sentence": {
 				"sent_num": 0
@@ -4279,144 +3738,78 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 525,
-				"NAF": 4,
-				"PF": 236,
+				"AF": 1100,
+				"NAF": 32,
+				"PF": 0,
 				"RF": 0,
-				"IF": 15,
-				"BF": 17,
+				"IF": 0,
+				"BF": 0,
 				"CF": 0,
-				"LF": 138,
-				"GEN": 422
+				"LF": 613,
+				"GEN": 2151
 			}
 		},
 		"text": [
 			{
-				"file": "Atayal_Mayrinax/AtaNr-weaving_Kagaw",
-				"type": "Narrative",
-				"speaker": "劉秋梅, Kagaw, female, 1935",
-				"collected": "2011-05-27",
-				"revised": "2014-3-13",
-				"topic": "Weaving",
-				"iu_num": 152,
-				"sent_num": 103,
-				"record_time": 610.53,
-				"marker": {
-					"AF": 75,
-					"NAF": 0,
-					"PF": 37,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 20,
-					"GEN": 41
-				}
-			},
-			{
-				"file": "Atayal_Mayrinax/AtaNr-hunting1_Kainu",
-				"type": "Narrative",
-				"speaker": "劉國基, Kainu, male, 1941",
-				"collected": "2011-04-01",
-				"revised": "None",
-				"topic": "Hunting 1",
-				"iu_num": 122,
-				"sent_num": 48,
-				"record_time": 349.96,
-				"marker": {
-					"AF": 42,
-					"NAF": 0,
-					"PF": 36,
-					"RF": 0,
-					"IF": 3,
-					"BF": 0,
-					"CF": 0,
-					"LF": 10,
-					"GEN": 16
-				}
-			},
-			{
-				"file": "Atayal_Mayrinax/AtaNr-sowing_Kainu",
-				"type": "Narrative",
-				"speaker": "劉國基, Kainu, male, 1941",
-				"collected": "2011-04-01",
-				"revised": "2013-1-18",
-				"topic": "Sowing",
-				"iu_num": 167,
-				"sent_num": 49,
-				"record_time": 519.66,
-				"marker": {
-					"AF": 72,
-					"NAF": 0,
-					"PF": 26,
-					"RF": 0,
-					"IF": 2,
-					"BF": 4,
-					"CF": 0,
-					"LF": 23,
-					"GEN": 55
-				}
-			},
-			{
-				"file": "Atayal_Mayrinax/AtaNr-proposal_Takun",
-				"type": "Narrative",
-				"speaker": "劉建和, Takun, male, 1946",
-				"collected": "2011-04-01",
-				"revised": "2013-1-18",
-				"topic": "Proposal",
-				"iu_num": 150,
-				"sent_num": 40,
-				"record_time": 506.1,
-				"marker": {
-					"AF": 81,
-					"NAF": 0,
-					"PF": 36,
-					"RF": 0,
-					"IF": 2,
-					"BF": 1,
-					"CF": 0,
-					"LF": 12,
-					"GEN": 76
-				}
-			},
-			{
-				"file": "Atayal_Mayrinax/AtaNr-dailylife1_Iwan",
-				"type": "Narrative",
-				"speaker": "劉春香, Iwan, female, None",
-				"collected": "2011-04-01",
-				"revised": "2013-1-25",
-				"topic": "Daily Life 1",
-				"iu_num": 79,
-				"sent_num": 21,
-				"record_time": 158.0,
+				"file": "Kavalan_Xinshe/KavCon-home_buya_imuy",
+				"type": "Conversation",
+				"speaker": "female, 1952",
+				"collected": "2003-06-01",
+				"revised": "2014-1-15",
+				"topic": "Returning Home",
+				"iu_num": 287,
+				"sent_num": 96,
+				"record_time": 384.62,
 				"marker": {
 					"AF": 24,
 					"NAF": 0,
-					"PF": 9,
+					"PF": 0,
 					"RF": 0,
-					"IF": 1,
-					"BF": 3,
+					"IF": 0,
+					"BF": 0,
 					"CF": 0,
-					"LF": 4,
-					"GEN": 5
+					"LF": 20,
+					"GEN": 85
 				}
 			},
 			{
-				"file": "Atayal_Mayrinax/AtaNr-hunting2_Buyung",
+				"file": "Kavalan_Xinshe/KavNr-frog_imuy_longversion",
 				"type": "Narrative",
-				"speaker": "林逢禮, Buyung, male, 1946",
-				"collected": "2011-04-01",
-				"revised": "2013-1-25",
-				"topic": "Hunting 2",
-				"iu_num": 85,
-				"sent_num": 20,
-				"record_time": 193.39,
+				"speaker": "female, 1952",
+				"collected": "2003-06-01",
+				"revised": "None",
+				"topic": "Frog story",
+				"iu_num": 362,
+				"sent_num": 96,
+				"record_time": 593.1,
 				"marker": {
-					"AF": 31,
+					"AF": 52,
 					"NAF": 0,
-					"PF": 13,
+					"PF": 0,
 					"RF": 0,
-					"IF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 98
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-frog_banday",
+				"type": "Narrative",
+				"speaker": "male, 1932",
+				"collected": "2003-06-01",
+				"revised": "None",
+				"topic": "Frog story",
+				"iu_num": 123,
+				"sent_num": 47,
+				"record_time": 291.0,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 2,
@@ -4424,21 +3817,307 @@
 				}
 			},
 			{
-				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu",
+				"file": "Kavalan_Xinshe/KavNr-pear_Haciang",
 				"type": "Narrative",
-				"speaker": "劉國基, Kainu, male, 1941",
-				"collected": "2011-04-01",
-				"revised": "2014-3-6",
-				"topic": "Moving 2",
-				"iu_num": 207,
-				"sent_num": 47,
-				"record_time": 503.15,
+				"speaker": "female, 1944",
+				"collected": "2004-04-01",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 154,
+				"sent_num": 58,
+				"record_time": 228.42,
 				"marker": {
-					"AF": 67,
+					"AF": 36,
 					"NAF": 0,
-					"PF": 23,
+					"PF": 0,
 					"RF": 0,
-					"IF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 21,
+					"GEN": 64
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-pear_ipay",
+				"type": "Narrative",
+				"speaker": "male, 1931",
+				"collected": "2003-06-01",
+				"revised": "2013-1-17",
+				"topic": "Pear story",
+				"iu_num": 52,
+				"sent_num": 20,
+				"record_time": 81.19,
+				"marker": {
+					"AF": 16,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 8,
+					"GEN": 11
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-pear_abas",
+				"type": "Narrative",
+				"speaker": "male, 1933",
+				"collected": "2003-04-19",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 111,
+				"sent_num": 32,
+				"record_time": 154.84,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 5,
+					"GEN": 21
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-pear_buya",
+				"type": "Narrative",
+				"speaker": "male, 1957",
+				"collected": "2003-05-30",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 86,
+				"sent_num": 47,
+				"record_time": 215.63,
+				"marker": {
+					"AF": 22,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 31,
+					"GEN": 61
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/kavCon-speech_buya_syulan",
+				"type": "Conversation",
+				"speaker": "female, 1957",
+				"collected": "2003-06-01",
+				"revised": "2014-1-14",
+				"topic": "Kavalan Speech Contest",
+				"iu_num": 269,
+				"sent_num": 88,
+				"record_time": 313.8,
+				"marker": {
+					"AF": 20,
+					"NAF": 1,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 18,
+					"GEN": 58
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-ancestor_buya",
+				"type": "Narrative",
+				"speaker": "male, 1957",
+				"collected": "2004-10-20",
+				"revised": "2014-6-11",
+				"topic": "Ancestors",
+				"iu_num": 180,
+				"sent_num": 51,
+				"record_time": 440.52,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 49
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavCon-marriage_abas_pilaw",
+				"type": "Narrative",
+				"speaker": "male, 1933",
+				"collected": "2005-12-01",
+				"revised": "2014-1-15",
+				"topic": "Marriage",
+				"iu_num": 624,
+				"sent_num": 188,
+				"record_time": 773.43,
+				"marker": {
+					"AF": 79,
+					"NAF": 11,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 40,
+					"GEN": 173
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-map_buya",
+				"type": "Narrative",
+				"speaker": "male, 1957",
+				"collected": "2003-06-01",
+				"revised": "None",
+				"topic": "Map",
+				"iu_num": 52,
+				"sent_num": 39,
+				"record_time": 114.52,
+				"marker": {
+					"AF": 18,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 22
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavCon-angry_pilaw_abas",
+				"type": "Conversation",
+				"speaker": "male, 1933",
+				"collected": "2005-12-01",
+				"revised": "2013-9-12",
+				"topic": "Angry",
+				"iu_num": 297,
+				"sent_num": 111,
+				"record_time": 382.18,
+				"marker": {
+					"AF": 38,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 40,
+					"GEN": 94
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-frog_imuy2",
+				"type": "Narrative",
+				"speaker": "female, 1952",
+				"collected": "2003-06-01",
+				"revised": "2013-7-24",
+				"topic": "Frog Story",
+				"iu_num": 245,
+				"sent_num": 53,
+				"record_time": 349.72,
+				"marker": {
+					"AF": 32,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 65
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-frog_Haciang",
+				"type": "Narrative",
+				"speaker": "female, 1944",
+				"collected": "2005-04-01",
+				"revised": "None",
+				"topic": "Frog story",
+				"iu_num": 214,
+				"sent_num": 115,
+				"record_time": 302.31,
+				"marker": {
+					"AF": 40,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 27,
+					"GEN": 69
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-pear_imuy",
+				"type": "Narrative",
+				"speaker": "female, 1952",
+				"collected": "2003-05-30",
+				"revised": "None",
+				"topic": "Pear Story",
+				"iu_num": 93,
+				"sent_num": 22,
+				"record_time": 117.53,
+				"marker": {
+					"AF": 13,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 29
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-frog_abas",
+				"type": "Narrative",
+				"speaker": "male, 1933",
+				"collected": "2005-01-01",
+				"revised": "2014-2-19",
+				"topic": "Frog story",
+				"iu_num": 139,
+				"sent_num": 82,
+				"record_time": 660.66,
+				"marker": {
+					"AF": 69,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 19,
+					"GEN": 91
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavCon-weaving_abas_ipay3",
+				"type": "Conversation",
+				"speaker": "male, 1933",
+				"collected": "2004-01-01",
+				"revised": "2014-1-15",
+				"topic": "Weaving",
+				"iu_num": 212,
+				"sent_num": 75,
+				"record_time": 258.43,
+				"marker": {
+					"AF": 36,
+					"NAF": 2,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 20,
@@ -4446,91 +4125,801 @@
 				}
 			},
 			{
-				"file": "Atayal_Mayrinax/AtaNr-hunting3_Takun",
+				"file": "Kavalan_Xinshe/KavNr-sea_buya",
 				"type": "Narrative",
-				"speaker": "劉建和, Takun, male, 1946",
-				"collected": "2011-04-01",
-				"revised": "2013-1-17",
-				"topic": "Hunting 3",
-				"iu_num": 116,
-				"sent_num": 48,
-				"record_time": 367.78,
+				"speaker": "male, 1957",
+				"collected": "2004-10-01",
+				"revised": "None",
+				"topic": "Sea",
+				"iu_num": 47,
+				"sent_num": 16,
+				"record_time": 112.99,
 				"marker": {
-					"AF": 55,
-					"NAF": 3,
-					"PF": 26,
+					"AF": 10,
+					"NAF": 0,
+					"PF": 0,
 					"RF": 0,
 					"IF": 0,
-					"BF": 6,
+					"BF": 0,
 					"CF": 0,
-					"LF": 11,
-					"GEN": 61
+					"LF": 1,
+					"GEN": 5
 				}
 			},
 			{
-				"file": "Atayal_Mayrinax/AtaNr-dailylife2_Iwan",
+				"file": "Kavalan_Xinshe/KavNr-frog_syulan",
 				"type": "Narrative",
-				"speaker": "劉春香, Iwan, female, None",
-				"collected": "2011-04-01",
-				"revised": "2013-1-25",
-				"topic": "Daily Life 2",
-				"iu_num": 43,
-				"sent_num": 9,
-				"record_time": 84.5,
+				"speaker": "female, 1957",
+				"collected": "2003-05-30",
+				"revised": "None",
+				"topic": "Frog story",
+				"iu_num": 150,
+				"sent_num": 44,
+				"record_time": 253.12,
 				"marker": {
-					"AF": 16,
+					"AF": 20,
 					"NAF": 0,
-					"PF": 9,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 16,
+					"GEN": 43
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-frog_api2",
+				"type": "Narrative",
+				"speaker": "male, 1927",
+				"collected": "2004-01-01",
+				"revised": "None",
+				"topic": "Frog story",
+				"iu_num": 395,
+				"sent_num": 158,
+				"record_time": 640.97,
+				"marker": {
+					"AF": 65,
+					"NAF": 1,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 33,
+					"GEN": 207
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavCon-banana trees_abas_ipay2",
+				"type": "Conversation",
+				"speaker": "male, 1933",
+				"collected": "2004-01-01",
+				"revised": "2013-9-18",
+				"topic": "Barking banana trees",
+				"iu_num": 53,
+				"sent_num": 23,
+				"record_time": 62.04,
+				"marker": {
+					"AF": 1,
+					"NAF": 2,
+					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 7,
-					"GEN": 5
+					"GEN": 11
 				}
 			},
 			{
-				"file": "Atayal_Mayrinax/AtaNr-dailylife3_Tauyu",
-				"type": "Narrative",
-				"speaker": "龍鳳廷, Tauyu, female, 1942",
-				"collected": "2011-04-01",
-				"revised": "2013-1-25",
-				"topic": "Daily Life 3",
-				"iu_num": 98,
-				"sent_num": 46,
-				"record_time": 288.24,
+				"file": "Kavalan_Xinshe/KavCon-relatives_buya_ngengi",
+				"type": "Conversation",
+				"speaker": "female, 1941",
+				"collected": "2004-11-01",
+				"revised": "2014-1-15",
+				"topic": "Relatives",
+				"iu_num": 1090,
+				"sent_num": 328,
+				"record_time": 1285.68,
 				"marker": {
-					"AF": 26,
-					"NAF": 0,
-					"PF": 5,
+					"AF": 134,
+					"NAF": 7,
+					"PF": 0,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 4,
-					"GEN": 43
+					"LF": 85,
+					"GEN": 301
 				}
 			},
 			{
-				"file": "Atayal_Mayrinax/AtaNr-moving_Takun",
+				"file": "Kavalan_Xinshe/KavNr-pear_syulan",
 				"type": "Narrative",
-				"speaker": "劉建和, Takun, male, 1946",
-				"collected": "2011-04-01",
-				"revised": "2014-2-27",
-				"topic": "Moving 1",
-				"iu_num": 180,
-				"sent_num": 57,
-				"record_time": 461.97,
+				"speaker": "female, 1957",
+				"collected": "2003-05-30",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 90,
+				"sent_num": 21,
+				"record_time": 164.01,
 				"marker": {
-					"AF": 36,
-					"NAF": 1,
-					"PF": 16,
+					"AF": 18,
+					"NAF": 0,
+					"PF": 0,
 					"RF": 0,
-					"IF": 2,
-					"BF": 1,
+					"IF": 0,
+					"BF": 0,
 					"CF": 0,
-					"LF": 25,
-					"GEN": 54
+					"LF": 11,
+					"GEN": 21
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavCon-earthquake_abas_haciang",
+				"type": "Conversation",
+				"speaker": "male, 1933",
+				"collected": "2005-01-25",
+				"revised": "2014-1-14",
+				"topic": "Earthquake",
+				"iu_num": 994,
+				"sent_num": 313,
+				"record_time": 1056.35,
+				"marker": {
+					"AF": 110,
+					"NAF": 5,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 65,
+					"GEN": 258
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-frog_buya",
+				"type": "Narrative",
+				"speaker": "male, 1957",
+				"collected": "2003-05-30",
+				"revised": "None",
+				"topic": "Frog story",
+				"iu_num": 186,
+				"sent_num": 54,
+				"record_time": 276.24,
+				"marker": {
+					"AF": 41,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 23,
+					"GEN": 55
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-pear_api",
+				"type": "Narrative",
+				"speaker": "male, 1927",
+				"collected": "2003-06-01",
+				"revised": "2013-1-17",
+				"topic": "Pear story",
+				"iu_num": 108,
+				"sent_num": 38,
+				"record_time": 163.63,
+				"marker": {
+					"AF": 24,
+					"NAF": 3,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 10,
+					"GEN": 44
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-map_syulan",
+				"type": "Narrative",
+				"speaker": "female, 1957",
+				"collected": "2003-06-01",
+				"revised": "None",
+				"topic": "Map",
+				"iu_num": 42,
+				"sent_num": 18,
+				"record_time": 56.94,
+				"marker": {
+					"AF": 18,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 7
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KacCon-Teaching Weaving_abas_ipay",
+				"type": "Conversation",
+				"speaker": "male, 1933",
+				"collected": "2004-01-01",
+				"revised": "2014-2-10",
+				"topic": "Teaching Weaving",
+				"iu_num": 139,
+				"sent_num": 53,
+				"record_time": 317.67,
+				"marker": {
+					"AF": 21,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 14,
+					"GEN": 46
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-map_imuy",
+				"type": "Narrative",
+				"speaker": "female, 1952",
+				"collected": "2003-06-01",
+				"revised": "None",
+				"topic": "Map",
+				"iu_num": 53,
+				"sent_num": 13,
+				"record_time": 71.3,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 8
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-ancestor_ngengi",
+				"type": "Narrative",
+				"speaker": "female, 1941",
+				"collected": "2004-11-03",
+				"revised": "2014-1-16",
+				"topic": "Ancestors",
+				"iu_num": 110,
+				"sent_num": 68,
+				"record_time": 393.94,
+				"marker": {
+					"AF": 28,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 9,
+					"GEN": 72
+				}
+			},
+			{
+				"file": "Kavalan_Xinshe/KavNr-pear_banday",
+				"type": "Narrative",
+				"speaker": "male, 1932",
+				"collected": "2003-06-01",
+				"revised": "None",
+				"topic": "Pear story",
+				"iu_num": 69,
+				"sent_num": 26,
+				"record_time": 145.15,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 17
+				}
+			}
+		]
+	},
+	"Saisiyat_Tong-he": {
+		"summary": {
+			"story": {
+				"iu_num": 3440,
+				"sent_num": 1378,
+				"record_time": 7263.93
+			},
+			"sentence": {
+				"sent_num": 0
+			},
+			"grammar": {
+				"sent_num": 0
+			},
+			"marker": {
+				"AF": 1188,
+				"NAF": 0,
+				"PF": 442,
+				"RF": 90,
+				"IF": 1,
+				"BF": 0,
+				"CF": 0,
+				"LF": 0,
+				"GEN": 349
+			}
+		},
+		"text": [
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-kathethel_parain a _oemaw",
+				"type": "Narrative",
+				"speaker": "male, 1928",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "kathethel",
+				"iu_num": 203,
+				"sent_num": 71,
+				"record_time": 363.73,
+				"marker": {
+					"AF": 95,
+					"NAF": 0,
+					"PF": 33,
+					"RF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 21
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog3_'oemaw_a_basi'",
+				"type": "Narrative",
+				"speaker": "Male, None",
+				"collected": "2003-01-01",
+				"revised": "2013-12-4",
+				"topic": "frog3",
+				"iu_num": 181,
+				"sent_num": 80,
+				"record_time": 292.02,
+				"marker": {
+					"AF": 61,
+					"NAF": 0,
+					"PF": 46,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 25
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog2_waon a boong",
+				"type": "Narrative",
+				"speaker": "female, 1943",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "frog2",
+				"iu_num": 92,
+				"sent_num": 47,
+				"record_time": 213.14,
+				"marker": {
+					"AF": 29,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 11
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-anhi",
+				"type": "Narrative",
+				"speaker": "",
+				"collected": "2003-01-01",
+				"revised": "2014-2-9",
+				"topic": "anhi",
+				"iu_num": 26,
+				"sent_num": 7,
+				"record_time": 70.5,
+				"marker": {
+					"AF": 5,
+					"NAF": 0,
+					"PF": 12,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-holiday_kalaeh a _oemaw",
+				"type": "Narrative",
+				"speaker": "male, 1928",
+				"collected": "2003-01-01",
+				"revised": "2014-4-10",
+				"topic": "holiday",
+				"iu_num": 282,
+				"sent_num": 108,
+				"record_time": 428.9,
+				"marker": {
+					"AF": 110,
+					"NAF": 0,
+					"PF": 41,
+					"RF": 8,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 21
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-kathethel2_kalaeh a oemaw",
+				"type": "Narrative",
+				"speaker": "male, 1928",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "kathethel2",
+				"iu_num": 546,
+				"sent_num": 165,
+				"record_time": 1087.94,
+				"marker": {
+					"AF": 200,
+					"NAF": 0,
+					"PF": 43,
+					"RF": 18,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 78
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog1_bownay a tahes",
+				"type": "Narrative",
+				"speaker": "male, 1933",
+				"collected": "2002-07-24",
+				"revised": "None",
+				"topic": "frog1",
+				"iu_num": 119,
+				"sent_num": 57,
+				"record_time": 369.47,
+				"marker": {
+					"AF": 42,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 8,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 8
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-election_lahi_ a taro_ babay",
+				"type": "Conversation",
+				"speaker": "male, None",
+				"collected": "2002-01-01",
+				"revised": "2014-4-10",
+				"topic": "election",
+				"iu_num": 115,
+				"sent_num": 49,
+				"record_time": 291.54,
+				"marker": {
+					"AF": 22,
+					"NAF": 0,
+					"PF": 12,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 23
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-pear3_kalaeh a taro_",
+				"type": "Narrative",
+				"speaker": "male, 1937",
+				"collected": "2002-01-01",
+				"revised": "None",
+				"topic": "pear3",
+				"iu_num": 50,
+				"sent_num": 22,
+				"record_time": 115.92,
+				"marker": {
+					"AF": 30,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-pear4_tosi_ masin",
+				"type": "Narrative",
+				"speaker": "female, 1942",
+				"collected": "2002-01-01",
+				"revised": "2014-1-3",
+				"topic": "pear4",
+				"iu_num": 89,
+				"sent_num": 46,
+				"record_time": 236.81,
+				"marker": {
+					"AF": 52,
+					"NAF": 0,
+					"PF": 22,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 10
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog6_kalaeh a _oemaw",
+				"type": "Narrative",
+				"speaker": "male, 1928",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "frog6",
+				"iu_num": 179,
+				"sent_num": 67,
+				"record_time": 470.08,
+				"marker": {
+					"AF": 54,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 14
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-pear5__awi_ a basi_",
+				"type": "Narrative",
+				"speaker": "male, 1945",
+				"collected": "2002-01-01",
+				"revised": "None",
+				"topic": "pear5",
+				"iu_num": 105,
+				"sent_num": 35,
+				"record_time": 258.47,
+				"marker": {
+					"AF": 35,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 5,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 10
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-Molaw",
+				"type": "Narrative",
+				"speaker": "Male, 1928",
+				"collected": "2003-01-01",
+				"revised": "2013-9-16",
+				"topic": "Molaw",
+				"iu_num": 97,
+				"sent_num": 30,
+				"record_time": 166.36,
+				"marker": {
+					"AF": 56,
+					"NAF": 0,
+					"PF": 5,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 2
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog8_parain a _oemaw",
+				"type": "Narrative",
+				"speaker": "male, 1928",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "frog8",
+				"iu_num": 89,
+				"sent_num": 38,
+				"record_time": 216.65,
+				"marker": {
+					"AF": 34,
+					"NAF": 0,
+					"PF": 14,
+					"RF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 11
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog5__awi_ a basi_",
+				"type": "Narrative",
+				"speaker": "male, 1945",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "frog5",
+				"iu_num": 279,
+				"sent_num": 92,
+				"record_time": 587.83,
+				"marker": {
+					"AF": 62,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 12,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 11
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-pear1__oemaw a _obay",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "2002-01-01",
+				"revised": "None",
+				"topic": "pear1",
+				"iu_num": 122,
+				"sent_num": 48,
+				"record_time": 285.47,
+				"marker": {
+					"AF": 30,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 15
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-flood_waon a boong",
+				"type": "Narrative",
+				"speaker": "female, 1943",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "flood",
+				"iu_num": 160,
+				"sent_num": 71,
+				"record_time": 314.96,
+				"marker": {
+					"AF": 49,
+					"NAF": 0,
+					"PF": 16,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 16
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog3__oemaw_a_basi_",
+				"type": "Narrative",
+				"speaker": "Male, None",
+				"collected": "2003-01-01",
+				"revised": "2013-12-4",
+				"topic": "frog3",
+				"iu_num": 181,
+				"sent_num": 80,
+				"record_time": 292.02,
+				"marker": {
+					"AF": 61,
+					"NAF": 0,
+					"PF": 46,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 25
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-frog7_kalaeh a taro_",
+				"type": "Narrative",
+				"speaker": "male, 1937",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "frog7",
+				"iu_num": 109,
+				"sent_num": 58,
+				"record_time": 315.55,
+				"marker": {
+					"AF": 45,
+					"NAF": 0,
+					"PF": 6,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 3
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/Sainr-frog4_lalo a tahaeS",
+				"type": "Narrative",
+				"speaker": "female, 1967",
+				"collected": "2003-01-01",
+				"revised": "None",
+				"topic": "frog4",
+				"iu_num": 128,
+				"sent_num": 55,
+				"record_time": 304.96,
+				"marker": {
+					"AF": 38,
+					"NAF": 0,
+					"PF": 11,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 8
+				}
+			},
+			{
+				"file": "Saisiyat_Tong-he/SaiNr-life_waon a boong",
+				"type": "Conversation",
+				"speaker": "female, 1943",
+				"collected": "2002-01-01",
+				"revised": "2014-4-10",
+				"topic": "life",
+				"iu_num": 288,
+				"sent_num": 152,
+				"record_time": 581.61,
+				"marker": {
+					"AF": 78,
+					"NAF": 0,
+					"PF": 38,
+					"RF": 4,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 34
 				}
 			}
 		]
@@ -4564,7 +4953,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-custom_Liu",
 				"type": "Narrative",
-				"speaker": "劉李俊, Liu, male, None",
+				"speaker": "male, None",
 				"collected": "2005-05-24",
 				"revised": "2014-1-16",
 				"topic": "Custom",
@@ -4584,17 +4973,39 @@
 				}
 			},
 			{
-				"file": "Amis_Ciwkangan/Amis_Nr-crab_panay",
+				"file": "Amis_Ciwkangan/Amis_Nr-frog_minzhu",
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949",
-				"collected": "2004-04-04",
-				"revised": "None",
-				"topic": "Crab",
-				"iu_num": 85,
-				"sent_num": 25,
-				"record_time": 117.18,
+				"speaker": "female, None",
+				"collected": "2003-06-01",
+				"revised": "2013-1-16",
+				"topic": "Frog Story",
+				"iu_num": 169,
+				"sent_num": 41,
+				"record_time": 271.82,
 				"marker": {
-					"AF": 15,
+					"AF": 36,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 40
+				}
+			},
+			{
+				"file": "Amis_Ciwkangan/Amis_Nr-frog_ofad",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "2005-04-27",
+				"revised": "2014-3-5",
+				"topic": "Frog Story",
+				"iu_num": 166,
+				"sent_num": 49,
+				"record_time": 232.7,
+				"marker": {
+					"AF": 28,
 					"NAF": 0,
 					"PF": 16,
 					"RF": 0,
@@ -4602,123 +5013,13 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 17
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-pear_cinhua",
-				"type": "Narrative",
-				"speaker": "嚴金花, Cinhua, female, None",
-				"collected": "2005-05-19",
-				"revised": "2013-1-16",
-				"topic": "Pear Story",
-				"iu_num": 134,
-				"sent_num": 33,
-				"record_time": 188.41,
-				"marker": {
-					"AF": 33,
-					"NAF": 0,
-					"PF": 20,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 38
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-intro_Panay",
-				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949",
-				"collected": "2007-01-05",
-				"revised": "2014-1-16",
-				"topic": "Self-introduction",
-				"iu_num": 46,
-				"sent_num": 13,
-				"record_time": 72.19,
-				"marker": {
-					"AF": 11,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 11
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-intro_tamih",
-				"type": "Narrative",
-				"speaker": "林茂德, Tamih, male, 1926",
-				"collected": "2007-01-05",
-				"revised": "2014-1-16",
-				"topic": "Religion and My Life",
-				"iu_num": 405,
-				"sent_num": 93,
-				"record_time": 570.5,
-				"marker": {
-					"AF": 80,
-					"NAF": 0,
-					"PF": 6,
-					"RF": 0,
-					"IF": 5,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 89
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-pear_lungi",
-				"type": "Narrative",
-				"speaker": "張惠敏, Lungi, female, 1949",
-				"collected": "2005-05-19",
-				"revised": "None",
-				"topic": "Pear Story",
-				"iu_num": 132,
-				"sent_num": 25,
-				"record_time": 226.56,
-				"marker": {
-					"AF": 41,
-					"NAF": 0,
-					"PF": 10,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 27
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-intro_ofad",
-				"type": "Narrative",
-				"speaker": "陳金龍, Ofad, male, None",
-				"collected": "2005-07-08",
-				"revised": "2014-1-16",
-				"topic": "Introduction",
-				"iu_num": 136,
-				"sent_num": 33,
-				"record_time": 170.18,
-				"marker": {
-					"AF": 33,
-					"NAF": 0,
-					"PF": 2,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 30
+					"GEN": 50
 				}
 			},
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-peanut_panay",
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949",
+				"speaker": "female, 1949",
 				"collected": "2003-04-04",
 				"revised": "None",
 				"topic": "Peanut",
@@ -4738,53 +5039,31 @@
 				}
 			},
 			{
-				"file": "Amis_Ciwkangan/Amis_Nr-pear_zuomei",
+				"file": "Amis_Ciwkangan/Amis_Nr-intro_tamih",
 				"type": "Narrative",
-				"speaker": "嚴胡佐妹, Zuomei, female, None",
-				"collected": "2003-06-01",
-				"revised": "2013-1-17",
-				"topic": "Pear Story",
-				"iu_num": 147,
-				"sent_num": 33,
-				"record_time": 198.45,
-				"marker": {
-					"AF": 53,
-					"NAF": 0,
-					"PF": 5,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 9,
-					"GEN": 54
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-pear_tamih",
-				"type": "Narrative",
-				"speaker": "林茂德, Tamih, male, 1926",
+				"speaker": "male, 1926",
 				"collected": "2007-01-05",
-				"revised": "None",
-				"topic": "Pear Story",
-				"iu_num": 39,
-				"sent_num": 10,
-				"record_time": 53.06,
+				"revised": "2014-1-16",
+				"topic": "Religion and My Life",
+				"iu_num": 405,
+				"sent_num": 93,
+				"record_time": 570.5,
 				"marker": {
-					"AF": 7,
+					"AF": 80,
 					"NAF": 0,
 					"PF": 6,
 					"RF": 0,
-					"IF": 0,
+					"IF": 5,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 12
+					"GEN": 89
 				}
 			},
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_minzhu",
 				"type": "Narrative",
-				"speaker": "嚴敏珠, Minzhu, female, None",
+				"speaker": "female, None",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Pear Story",
@@ -4806,7 +5085,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Conv-talking_tamih_panay",
 				"type": "Conversation",
-				"speaker": "李金妹, Panay, female, 1949",
+				"speaker": "female, 1949",
 				"collected": "2004-05-13",
 				"revised": "None",
 				"topic": "Talking",
@@ -4826,31 +5105,53 @@
 				}
 			},
 			{
-				"file": "Amis_Ciwkangan/Amis_Nr-pear_panay",
+				"file": "Amis_Ciwkangan/Amis_Nr-pear_cinhua",
 				"type": "Narrative",
-				"speaker": "李金妹, Panay, female, 1949",
-				"collected": "2007-01-05",
-				"revised": "None",
+				"speaker": "female, None",
+				"collected": "2005-05-19",
+				"revised": "2013-1-16",
 				"topic": "Pear Story",
-				"iu_num": 163,
-				"sent_num": 46,
-				"record_time": 293.09,
+				"iu_num": 134,
+				"sent_num": 33,
+				"record_time": 188.41,
 				"marker": {
-					"AF": 56,
+					"AF": 33,
+					"NAF": 0,
+					"PF": 20,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 38
+				}
+			},
+			{
+				"file": "Amis_Ciwkangan/Amis_Nr-pear_zuomei",
+				"type": "Narrative",
+				"speaker": "female, None",
+				"collected": "2003-06-01",
+				"revised": "2013-1-17",
+				"topic": "Pear Story",
+				"iu_num": 147,
+				"sent_num": 33,
+				"record_time": 198.45,
+				"marker": {
+					"AF": 53,
 					"NAF": 0,
 					"PF": 5,
 					"RF": 0,
-					"IF": 3,
+					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 3,
-					"GEN": 42
+					"LF": 9,
+					"GEN": 54
 				}
 			},
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_zuomei",
 				"type": "Narrative",
-				"speaker": "嚴胡佐妹, Zuomei, female, None",
+				"speaker": "female, None",
 				"collected": "2003-06-01",
 				"revised": "2013-1-16",
 				"topic": "Frog Story",
@@ -4870,75 +5171,9 @@
 				}
 			},
 			{
-				"file": "Amis_Ciwkangan/Amis_Conv-farming_marang_furayang",
-				"type": "Conversation",
-				"speaker": "高林春花, Furayang, female, None",
-				"collected": "2005-05-13",
-				"revised": "None",
-				"topic": "Farming",
-				"iu_num": 231,
-				"sent_num": 64,
-				"record_time": 330.0,
-				"marker": {
-					"AF": 46,
-					"NAF": 0,
-					"PF": 22,
-					"RF": 0,
-					"IF": 7,
-					"BF": 0,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 47
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-frog_ofad",
-				"type": "Narrative",
-				"speaker": "陳金龍, Ofad, male, None",
-				"collected": "2005-04-27",
-				"revised": "2014-3-5",
-				"topic": "Frog Story",
-				"iu_num": 166,
-				"sent_num": 49,
-				"record_time": 232.7,
-				"marker": {
-					"AF": 28,
-					"NAF": 0,
-					"PF": 16,
-					"RF": 0,
-					"IF": 1,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 50
-				}
-			},
-			{
-				"file": "Amis_Ciwkangan/Amis_Nr-frog_minzhu",
-				"type": "Narrative",
-				"speaker": "嚴敏珠, Minzhu, female, None",
-				"collected": "2003-06-01",
-				"revised": "2013-1-16",
-				"topic": "Frog Story",
-				"iu_num": 169,
-				"sent_num": 41,
-				"record_time": 271.82,
-				"marker": {
-					"AF": 36,
-					"NAF": 0,
-					"PF": 19,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 40
-				}
-			},
-			{
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_cinhua",
 				"type": "Narrative",
-				"speaker": "嚴金花, Cinhua, female, None",
+				"speaker": "female, None",
 				"collected": "2005-05-19",
 				"revised": "None",
 				"topic": "Frog Story",
@@ -4956,397 +5191,61 @@
 					"LF": 8,
 					"GEN": 51
 				}
-			}
-		]
-	},
-	"Kavalan_Xinshe": {
-		"summary": {
-			"story": {
-				"iu_num": 7026,
-				"sent_num": 2393,
-				"record_time": 10661.93
-			},
-			"sentence": {
-				"sent_num": 0
-			},
-			"grammar": {
-				"sent_num": 0
-			},
-			"marker": {
-				"AF": 1100,
-				"NAF": 32,
-				"PF": 0,
-				"RF": 0,
-				"IF": 0,
-				"BF": 0,
-				"CF": 0,
-				"LF": 613,
-				"GEN": 2151
-			}
-		},
-		"text": [
-			{
-				"file": "Kavalan_Xinshe/KavNr-frog_imuy2",
-				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952",
-				"collected": "2003-06-01",
-				"revised": "2013-7-24",
-				"topic": "Frog Story",
-				"iu_num": 245,
-				"sent_num": 53,
-				"record_time": 349.72,
-				"marker": {
-					"AF": 32,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 17,
-					"GEN": 65
-				}
 			},
 			{
-				"file": "Kavalan_Xinshe/KavNr-frog_imuy_longversion",
+				"file": "Amis_Ciwkangan/Amis_Nr-pear_lungi",
 				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952",
-				"collected": "2003-06-01",
+				"speaker": "female, 1949",
+				"collected": "2005-05-19",
 				"revised": "None",
-				"topic": "Frog story",
-				"iu_num": 362,
-				"sent_num": 96,
-				"record_time": 593.1,
+				"topic": "Pear Story",
+				"iu_num": 132,
+				"sent_num": 25,
+				"record_time": 226.56,
 				"marker": {
-					"AF": 52,
+					"AF": 41,
 					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 23,
-					"GEN": 98
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-map_syulan",
-				"type": "Narrative",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957",
-				"collected": "2003-06-01",
-				"revised": "None",
-				"topic": "Map",
-				"iu_num": 42,
-				"sent_num": 18,
-				"record_time": 56.94,
-				"marker": {
-					"AF": 18,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 7
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-map_imuy",
-				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952",
-				"collected": "2003-06-01",
-				"revised": "None",
-				"topic": "Map",
-				"iu_num": 53,
-				"sent_num": 13,
-				"record_time": 71.3,
-				"marker": {
-					"AF": 15,
-					"NAF": 0,
-					"PF": 0,
+					"PF": 10,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 8
+					"GEN": 27
 				}
 			},
 			{
-				"file": "Kavalan_Xinshe/KavCon-angry_pilaw_abas",
-				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2005-12-01",
-				"revised": "2013-9-12",
-				"topic": "Angry",
-				"iu_num": 297,
-				"sent_num": 111,
-				"record_time": 382.18,
-				"marker": {
-					"AF": 38,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 40,
-					"GEN": 94
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_buya",
+				"file": "Amis_Ciwkangan/Amis_Nr-intro_ofad",
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957",
-				"collected": "2003-05-30",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 86,
-				"sent_num": 47,
-				"record_time": 215.63,
+				"speaker": "male, None",
+				"collected": "2005-07-08",
+				"revised": "2014-1-16",
+				"topic": "Introduction",
+				"iu_num": 136,
+				"sent_num": 33,
+				"record_time": 170.18,
 				"marker": {
-					"AF": 22,
+					"AF": 33,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 2,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 31,
-					"GEN": 61
+					"LF": 0,
+					"GEN": 30
 				}
 			},
 			{
-				"file": "Kavalan_Xinshe/KavNr-map_buya",
+				"file": "Amis_Ciwkangan/Amis_Nr-intro_Panay",
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957",
-				"collected": "2003-06-01",
-				"revised": "None",
-				"topic": "Map",
-				"iu_num": 52,
-				"sent_num": 39,
-				"record_time": 114.52,
-				"marker": {
-					"AF": 18,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 10,
-					"GEN": 22
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_api",
-				"type": "Narrative",
-				"speaker": "朱阿比, Api, male, 1927",
-				"collected": "2003-06-01",
-				"revised": "2013-1-17",
-				"topic": "Pear story",
-				"iu_num": 108,
-				"sent_num": 38,
-				"record_time": 163.63,
-				"marker": {
-					"AF": 24,
-					"NAF": 3,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 10,
-					"GEN": 44
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KacCon-Teaching Weaving_abas_ipay",
-				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2004-01-01",
-				"revised": "2014-2-10",
-				"topic": "Teaching Weaving",
-				"iu_num": 139,
-				"sent_num": 53,
-				"record_time": 317.67,
-				"marker": {
-					"AF": 21,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 14,
-					"GEN": 46
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-ancestor_buya",
-				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957",
-				"collected": "2004-10-20",
-				"revised": "2014-6-11",
-				"topic": "Ancestors",
-				"iu_num": 180,
-				"sent_num": 51,
-				"record_time": 440.52,
-				"marker": {
-					"AF": 24,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 14,
-					"GEN": 49
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-sea_buya",
-				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957",
-				"collected": "2004-10-01",
-				"revised": "None",
-				"topic": "Sea",
-				"iu_num": 47,
-				"sent_num": 16,
-				"record_time": 112.99,
-				"marker": {
-					"AF": 10,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 1,
-					"GEN": 5
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_imuy",
-				"type": "Narrative",
-				"speaker": "潘金妹, Imuy, female, 1952",
-				"collected": "2003-05-30",
-				"revised": "None",
-				"topic": "Pear Story",
-				"iu_num": 93,
-				"sent_num": 22,
-				"record_time": 117.53,
-				"marker": {
-					"AF": 13,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 11,
-					"GEN": 29
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavCon-relatives_buya_ngengi",
-				"type": "Conversation",
-				"speaker": "林阿份, Ngengi, female, 1941",
-				"collected": "2004-11-01",
-				"revised": "2014-1-15",
-				"topic": "Relatives",
-				"iu_num": 1090,
-				"sent_num": 328,
-				"record_time": 1285.68,
-				"marker": {
-					"AF": 134,
-					"NAF": 7,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 85,
-					"GEN": 301
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavCon-home_buya_imuy",
-				"type": "Conversation",
-				"speaker": "潘金妹, Imuy, female, 1952",
-				"collected": "2003-06-01",
-				"revised": "2014-1-15",
-				"topic": "Returning Home",
-				"iu_num": 287,
-				"sent_num": 96,
-				"record_time": 384.62,
-				"marker": {
-					"AF": 24,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 20,
-					"GEN": 85
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_abas",
-				"type": "Narrative",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2003-04-19",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 111,
-				"sent_num": 32,
-				"record_time": 154.84,
-				"marker": {
-					"AF": 24,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 5,
-					"GEN": 21
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_syulan",
-				"type": "Narrative",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957",
-				"collected": "2003-05-30",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 90,
-				"sent_num": 21,
-				"record_time": 164.01,
-				"marker": {
-					"AF": 18,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 11,
-					"GEN": 21
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_banday",
-				"type": "Narrative",
-				"speaker": "偕萬來, Banday, male, 1932",
-				"collected": "2003-06-01",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 69,
-				"sent_num": 26,
-				"record_time": 145.15,
+				"speaker": "female, 1949",
+				"collected": "2007-01-05",
+				"revised": "2014-1-16",
+				"topic": "Self-introduction",
+				"iu_num": 46,
+				"sent_num": 13,
+				"record_time": 72.19,
 				"marker": {
 					"AF": 11,
 					"NAF": 0,
@@ -5355,608 +5254,709 @@
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 12,
+					"LF": 1,
+					"GEN": 11
+				}
+			},
+			{
+				"file": "Amis_Ciwkangan/Amis_Nr-crab_panay",
+				"type": "Narrative",
+				"speaker": "female, 1949",
+				"collected": "2004-04-04",
+				"revised": "None",
+				"topic": "Crab",
+				"iu_num": 85,
+				"sent_num": 25,
+				"record_time": 117.18,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 16,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
 					"GEN": 17
 				}
 			},
 			{
-				"file": "Kavalan_Xinshe/KavNr-frog_buya",
+				"file": "Amis_Ciwkangan/Amis_Nr-pear_tamih",
 				"type": "Narrative",
-				"speaker": "謝宗修, Buya, male, 1957",
-				"collected": "2003-05-30",
+				"speaker": "male, 1926",
+				"collected": "2007-01-05",
 				"revised": "None",
-				"topic": "Frog story",
-				"iu_num": 186,
-				"sent_num": 54,
-				"record_time": 276.24,
+				"topic": "Pear Story",
+				"iu_num": 39,
+				"sent_num": 10,
+				"record_time": 53.06,
 				"marker": {
-					"AF": 41,
+					"AF": 7,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 6,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 23,
-					"GEN": 55
+					"LF": 0,
+					"GEN": 12
 				}
 			},
 			{
-				"file": "Kavalan_Xinshe/KavNr-frog_api2",
+				"file": "Amis_Ciwkangan/Amis_Nr-pear_panay",
 				"type": "Narrative",
-				"speaker": "朱阿比, Api, male, 1927",
-				"collected": "2004-01-01",
+				"speaker": "female, 1949",
+				"collected": "2007-01-05",
 				"revised": "None",
-				"topic": "Frog story",
-				"iu_num": 395,
-				"sent_num": 158,
-				"record_time": 640.97,
+				"topic": "Pear Story",
+				"iu_num": 163,
+				"sent_num": 46,
+				"record_time": 293.09,
 				"marker": {
-					"AF": 65,
-					"NAF": 1,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 33,
-					"GEN": 207
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_ipay",
-				"type": "Narrative",
-				"speaker": "潘烏吉, Ipay, male, 1931",
-				"collected": "2003-06-01",
-				"revised": "2013-1-17",
-				"topic": "Pear story",
-				"iu_num": 52,
-				"sent_num": 20,
-				"record_time": 81.19,
-				"marker": {
-					"AF": 16,
+					"AF": 56,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 5,
 					"RF": 0,
-					"IF": 0,
+					"IF": 3,
 					"BF": 0,
 					"CF": 0,
-					"LF": 8,
-					"GEN": 11
+					"LF": 3,
+					"GEN": 42
 				}
 			},
 			{
-				"file": "Kavalan_Xinshe/KavCon-marriage_abas_pilaw",
-				"type": "Narrative",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2005-12-01",
-				"revised": "2014-1-15",
-				"topic": "Marriage",
-				"iu_num": 624,
-				"sent_num": 188,
-				"record_time": 773.43,
-				"marker": {
-					"AF": 79,
-					"NAF": 11,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 40,
-					"GEN": 173
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-frog_abas",
-				"type": "Narrative",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2005-01-01",
-				"revised": "2014-2-19",
-				"topic": "Frog story",
-				"iu_num": 139,
-				"sent_num": 82,
-				"record_time": 660.66,
-				"marker": {
-					"AF": 69,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 19,
-					"GEN": 91
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/kavCon-speech_buya_syulan",
+				"file": "Amis_Ciwkangan/Amis_Conv-farming_marang_furayang",
 				"type": "Conversation",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957",
-				"collected": "2003-06-01",
-				"revised": "2014-1-14",
-				"topic": "Kavalan Speech Contest",
-				"iu_num": 269,
-				"sent_num": 88,
-				"record_time": 313.8,
-				"marker": {
-					"AF": 20,
-					"NAF": 1,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 18,
-					"GEN": 58
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavCon-weaving_abas_ipay3",
-				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2004-01-01",
-				"revised": "2014-1-15",
-				"topic": "Weaving",
-				"iu_num": 212,
-				"sent_num": 75,
-				"record_time": 258.43,
-				"marker": {
-					"AF": 36,
-					"NAF": 2,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 20,
-					"GEN": 53
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavCon-earthquake_abas_haciang",
-				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2005-01-25",
-				"revised": "2014-1-14",
-				"topic": "Earthquake",
-				"iu_num": 994,
-				"sent_num": 313,
-				"record_time": 1056.35,
-				"marker": {
-					"AF": 110,
-					"NAF": 5,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 65,
-					"GEN": 258
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-frog_banday",
-				"type": "Narrative",
-				"speaker": "偕萬來, Banday, male, 1932",
-				"collected": "2003-06-01",
+				"speaker": "female, None",
+				"collected": "2005-05-13",
 				"revised": "None",
-				"topic": "Frog story",
-				"iu_num": 123,
-				"sent_num": 47,
-				"record_time": 291.0,
+				"topic": "Farming",
+				"iu_num": 231,
+				"sent_num": 64,
+				"record_time": 330.0,
 				"marker": {
-					"AF": 41,
+					"AF": 46,
 					"NAF": 0,
-					"PF": 0,
+					"PF": 22,
 					"RF": 0,
-					"IF": 0,
+					"IF": 7,
 					"BF": 0,
 					"CF": 0,
-					"LF": 2,
-					"GEN": 13
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-frog_syulan",
-				"type": "Narrative",
-				"speaker": "謝潘秀蘭, Syulan, female, 1957",
-				"collected": "2003-05-30",
-				"revised": "None",
-				"topic": "Frog story",
-				"iu_num": 150,
-				"sent_num": 44,
-				"record_time": 253.12,
-				"marker": {
-					"AF": 20,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 16,
-					"GEN": 43
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-ancestor_ngengi",
-				"type": "Narrative",
-				"speaker": "林阿份, Ngengi, female, 1941",
-				"collected": "2004-11-03",
-				"revised": "2014-1-16",
-				"topic": "Ancestors",
-				"iu_num": 110,
-				"sent_num": 68,
-				"record_time": 393.94,
-				"marker": {
-					"AF": 28,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 9,
-					"GEN": 72
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-pear_Haciang",
-				"type": "Narrative",
-				"speaker": "潘金英, Haciang, female, 1944",
-				"collected": "2004-04-01",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 154,
-				"sent_num": 58,
-				"record_time": 228.42,
-				"marker": {
-					"AF": 36,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 21,
-					"GEN": 64
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavCon-banana trees_abas_ipay2",
-				"type": "Conversation",
-				"speaker": "潘天利, Abas, male, 1933",
-				"collected": "2004-01-01",
-				"revised": "2013-9-18",
-				"topic": "Barking banana trees",
-				"iu_num": 53,
-				"sent_num": 23,
-				"record_time": 62.04,
-				"marker": {
-					"AF": 1,
-					"NAF": 2,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 7,
-					"GEN": 11
-				}
-			},
-			{
-				"file": "Kavalan_Xinshe/KavNr-frog_Haciang",
-				"type": "Narrative",
-				"speaker": "潘金英, Haciang, female, 1944",
-				"collected": "2005-04-01",
-				"revised": "None",
-				"topic": "Frog story",
-				"iu_num": 214,
-				"sent_num": 115,
-				"record_time": 302.31,
-				"marker": {
-					"AF": 40,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 27,
-					"GEN": 69
+					"LF": 3,
+					"GEN": 47
 				}
 			}
 		]
 	},
-	"Tsou_Tsou": {
+	"Sakizaya_Sakizaya": {
 		"summary": {
 			"story": {
-				"iu_num": 2562,
-				"sent_num": 949,
-				"record_time": 3613.99
+				"iu_num": 2087,
+				"sent_num": 923,
+				"record_time": 4686.77
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 0
+				"sent_num": 1531
 			},
 			"marker": {
-				"AF": 2159,
-				"NAF": 439,
-				"PF": 666,
-				"RF": 0,
-				"IF": 0,
-				"BF": 33,
+				"AF": 747,
+				"NAF": 0,
+				"PF": 163,
+				"RF": 6,
+				"IF": 9,
+				"BF": 5,
 				"CF": 0,
-				"LF": 187,
-				"GEN": 602
+				"LF": 101,
+				"GEN": 598
 			}
 		},
 		"text": [
 			{
-				"file": "Tsou_Tsou/TsouNr-love-story-zhuang",
+				"file": "Sakizaya_Sakizaya/skzyNr-maibol_Panay",
 				"type": "Narrative",
-				"speaker": "莊榮貴, None, male, None",
-				"collected": "None",
-				"revised": "2013-11-18",
-				"topic": "Love Story 3",
-				"iu_num": 58,
-				"sent_num": 25,
-				"record_time": 131.55,
+				"speaker": "female, 1949",
+				"collected": "2008-01-05",
+				"revised": "2014-12-13",
+				"topic": "maibul_panay",
+				"iu_num": 39,
+				"sent_num": 21,
+				"record_time": 90.72,
 				"marker": {
-					"AF": 56,
-					"NAF": 15,
-					"PF": 26,
+					"AF": 8,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 1,
+					"GEN": 13
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-pear_panay",
+				"type": "Narrative",
+				"speaker": "female, 1949",
+				"collected": "2008-01-05",
+				"revised": "None",
+				"topic": "pear_panay",
+				"iu_num": 44,
+				"sent_num": 24,
+				"record_time": 126.43,
+				"marker": {
+					"AF": 24,
+					"NAF": 0,
+					"PF": 2,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 2,
-					"GEN": 22
+					"LF": 0,
+					"GEN": 21
 				}
 			},
 			{
-				"file": "Tsou_Tsou/TsouNr_lovestry_wang-2",
+				"file": "Sakizaya_Sakizaya/skzyNr-frog_sinay",
 				"type": "Narrative",
-				"speaker": "汪啟聖, None, male, None",
-				"collected": "2009-09-13",
-				"revised": "2013-11-18",
-				"topic": "Love Story 1",
-				"iu_num": 85,
-				"sent_num": 18,
-				"record_time": 123.34,
+				"speaker": "male, None",
+				"collected": "2009-10-31",
+				"revised": "2014-2-19",
+				"topic": "frog_sinay",
+				"iu_num": 108,
+				"sent_num": 39,
+				"record_time": 230.53,
 				"marker": {
-					"AF": 58,
-					"NAF": 19,
+					"AF": 32,
+					"NAF": 0,
+					"PF": 10,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 24
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-hunting_kaniw",
+				"type": "Narrative",
+				"speaker": "male, 1942",
+				"collected": "2009-10-31",
+				"revised": "None",
+				"topic": "hunting_Kaniw",
+				"iu_num": 129,
+				"sent_num": 49,
+				"record_time": 267.56,
+				"marker": {
+					"AF": 44,
+					"NAF": 0,
 					"PF": 16,
 					"RF": 0,
-					"IF": 0,
-					"BF": 1,
+					"IF": 1,
+					"BF": 0,
 					"CF": 0,
-					"LF": 4,
-					"GEN": 18
+					"LF": 5,
+					"GEN": 16
 				}
 			},
 			{
-				"file": "Tsou_Tsou/TsouNr-lovestory-zheng",
+				"file": "Sakizaya_Sakizaya/skzyNr-class_sinay",
 				"type": "Narrative",
-				"speaker": "鄭振宗, None, male, None",
-				"collected": "None",
-				"revised": "2013-11-18",
-				"topic": "Love Story 2",
-				"iu_num": 102,
-				"sent_num": 23,
-				"record_time": 216.01,
+				"speaker": "male, None",
+				"collected": "2009-10-31",
+				"revised": "None",
+				"topic": "class_Sinay",
+				"iu_num": 198,
+				"sent_num": 84,
+				"record_time": 470.29,
 				"marker": {
-					"AF": 54,
-					"NAF": 12,
-					"PF": 20,
+					"AF": 77,
+					"NAF": 0,
+					"PF": 19,
+					"RF": 0,
+					"IF": 4,
+					"BF": 5,
+					"CF": 0,
+					"LF": 3,
+					"GEN": 53
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-tribalhistory_sinay",
+				"type": "Narrative",
+				"speaker": "male, None",
+				"collected": "2009-10-31",
+				"revised": "2017-7-19",
+				"topic": "tribalhistory_Sinay",
+				"iu_num": 480,
+				"sent_num": 208,
+				"record_time": 1056.92,
+				"marker": {
+					"AF": 144,
+					"NAF": 0,
+					"PF": 33,
+					"RF": 1,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 37,
+					"GEN": 136
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-frog_bunuk",
+				"type": "Narrative",
+				"speaker": "female, 1958",
+				"collected": "2008-01-05",
+				"revised": "None",
+				"topic": "frog_Bunuk",
+				"iu_num": 143,
+				"sent_num": 90,
+				"record_time": 409.5,
+				"marker": {
+					"AF": 68,
+					"NAF": 0,
+					"PF": 22,
 					"RF": 0,
 					"IF": 0,
-					"BF": 3,
+					"BF": 0,
 					"CF": 0,
-					"LF": 5,
+					"LF": 15,
+					"GEN": 55
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-palamal_kaniw",
+				"type": "Narrative",
+				"speaker": "male, 1942",
+				"collected": "2009-10-31",
+				"revised": "None",
+				"topic": "Palamal_Kaniw",
+				"iu_num": 262,
+				"sent_num": 113,
+				"record_time": 508.74,
+				"marker": {
+					"AF": 100,
+					"NAF": 0,
+					"PF": 13,
+					"RF": 0,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 13,
+					"GEN": 60
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-frog_panay",
+				"type": "Narrative",
+				"speaker": "female, 1949",
+				"collected": "2008-01-05",
+				"revised": "None",
+				"topic": "frog_Panay",
+				"iu_num": 106,
+				"sent_num": 54,
+				"record_time": 309.21,
+				"marker": {
+					"AF": 51,
+					"NAF": 0,
+					"PF": 12,
+					"RF": 3,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 28
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-frog_dungi",
+				"type": "Narrative",
+				"speaker": "female, 1949",
+				"collected": "2009-08-28",
+				"revised": "None",
+				"topic": "frog_Dungi",
+				"iu_num": 129,
+				"sent_num": 58,
+				"record_time": 238.28,
+				"marker": {
+					"AF": 43,
+					"NAF": 0,
+					"PF": 9,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 4,
+					"GEN": 32
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-sapat_Panay",
+				"type": "Narrative",
+				"speaker": "female, 1949",
+				"collected": "2008-01-05",
+				"revised": "2017-7-9",
+				"topic": "sapad-panay",
+				"iu_num": 60,
+				"sent_num": 21,
+				"record_time": 146.06,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
 					"GEN": 23
 				}
 			},
 			{
-				"file": "Tsou_Tsou/TsouNr-pear-wang-3",
+				"file": "Sakizaya_Sakizaya/skzyNr-rain-kaniw",
 				"type": "Narrative",
-				"speaker": "汪明輝, None, male, None",
-				"collected": "1988",
-				"revised": "2013-11-18",
-				"topic": "Pear Story 1",
-				"iu_num": 158,
-				"sent_num": 44,
-				"record_time": 309.33,
-				"marker": {
-					"AF": 127,
-					"NAF": 33,
-					"PF": 34,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 14,
-					"GEN": 39
-				}
-			},
-			{
-				"file": "Tsou_Tsou/TsouNr-frog-story-shi",
-				"type": "Narrative",
-				"speaker": "石光將, None, male, None",
-				"collected": "None",
-				"revised": "2013-11-18",
-				"topic": "Frog Story 4",
-				"iu_num": 198,
-				"sent_num": 85,
-				"record_time": 464.57,
-				"marker": {
-					"AF": 236,
-					"NAF": 66,
-					"PF": 82,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 29,
-					"GEN": 81
-				}
-			},
-			{
-				"file": "Tsou_Tsou/TsouNr-pear-An",
-				"type": "Narrative",
-				"speaker": "安榮進, None, male, None",
-				"collected": "None",
-				"revised": "2013-11-18",
-				"topic": "Pear Story 2",
-				"iu_num": 109,
-				"sent_num": 29,
-				"record_time": 161.99,
-				"marker": {
-					"AF": 102,
-					"NAF": 17,
-					"PF": 24,
-					"RF": 0,
-					"IF": 0,
-					"BF": 2,
-					"CF": 0,
-					"LF": 3,
-					"GEN": 29
-				}
-			},
-			{
-				"file": "Tsou_Tsou/TsouNr-pear-story-3",
-				"type": "Narrative",
-				"speaker": "鄭信得, None, male, None",
-				"collected": "None",
-				"revised": "2013-11-18",
-				"topic": "Pear Story 3",
+				"speaker": "male, 1942",
+				"collected": "2009-10-31",
+				"revised": "None",
+				"topic": "rain_Kaniw",
 				"iu_num": 124,
-				"sent_num": 33,
-				"record_time": 0,
+				"sent_num": 39,
+				"record_time": 242.9,
 				"marker": {
-					"AF": 112,
-					"NAF": 42,
-					"PF": 27,
+					"AF": 29,
+					"NAF": 0,
+					"PF": 9,
 					"RF": 0,
-					"IF": 0,
-					"BF": 1,
+					"IF": 2,
+					"BF": 0,
 					"CF": 0,
-					"LF": 17,
-					"GEN": 42
+					"LF": 4,
+					"GEN": 20
 				}
 			},
 			{
-				"file": "Tsou_Tsou/None-1",
-				"type": "Conversation",
-				"speaker": "None",
-				"collected": "2004-10-10",
-				"revised": "2013-11-18",
-				"topic": "Sngusnguyo",
-				"iu_num": 569,
-				"sent_num": 244,
-				"record_time": 0,
-				"marker": {
-					"AF": 486,
-					"NAF": 50,
-					"PF": 120,
-					"RF": 0,
-					"IF": 0,
-					"BF": 6,
-					"CF": 0,
-					"LF": 31,
-					"GEN": 83
-				}
-			},
-			{
-				"file": "Tsou_Tsou/Tsou-frog-story-wang-1",
+				"file": "Sakizaya_Sakizaya/skzyNr-pear_bunuk",
 				"type": "Narrative",
-				"speaker": "汪幸時, None, male, None",
-				"collected": "None",
-				"revised": "2013-11-18",
-				"topic": "Frog Story 2",
-				"iu_num": 183,
-				"sent_num": 44,
-				"record_time": 302.14,
+				"speaker": "female, 1958",
+				"collected": "2008-01-05",
+				"revised": "2014-2-19",
+				"topic": "pear_bunuk",
+				"iu_num": 120,
+				"sent_num": 58,
+				"record_time": 278.58,
 				"marker": {
-					"AF": 85,
-					"NAF": 35,
-					"PF": 33,
+					"AF": 59,
+					"NAF": 0,
+					"PF": 13,
 					"RF": 0,
 					"IF": 0,
-					"BF": 2,
+					"BF": 0,
 					"CF": 0,
-					"LF": 12,
-					"GEN": 43
+					"LF": 4,
+					"GEN": 63
 				}
 			},
 			{
-				"file": "Tsou_Tsou/TsouNr-frog-story-tu",
+				"file": "Sakizaya_Sakizaya/skzyNr-pear_dungi",
 				"type": "Narrative",
-				"speaker": "杜, None, None, None",
-				"collected": "2002-02-00",
-				"revised": "2013-11-18",
-				"topic": "Frog Story 1",
-				"iu_num": 102,
-				"sent_num": 40,
-				"record_time": 234.41,
+				"speaker": "female, 1949",
+				"collected": "2009-08-28",
+				"revised": "None",
+				"topic": "pear_dungi",
+				"iu_num": 94,
+				"sent_num": 42,
+				"record_time": 173.51,
 				"marker": {
-					"AF": 94,
-					"NAF": 28,
-					"PF": 28,
+					"AF": 42,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 27
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/skzyNr-school_Panay",
+				"type": "Narrative",
+				"speaker": "female, 1949",
+				"collected": "2008-01-05",
+				"revised": "None",
+				"topic": "school_panay",
+				"iu_num": 51,
+				"sent_num": 23,
+				"record_time": 137.54,
+				"marker": {
+					"AF": 15,
+					"NAF": 0,
+					"PF": 4,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 8,
-					"GEN": 26
+					"GEN": 27
 				}
 			},
 			{
-				"file": "Tsou_Tsou/TsouConv-informants",
-				"type": "Conversation",
-				"speaker": "汪明輝和汪幸時, None, male, None",
-				"collected": "None",
-				"revised": "2014-5-1",
-				"topic": "Informants",
-				"iu_num": 298,
-				"sent_num": 69,
-				"record_time": 636.43,
+				"file": "Sakizaya_Sakizaya/11",
+				"type": "GrammarBook",
+				"topic": "第十一章 疑問句結構",
+				"sent_num": 67,
 				"marker": {
-					"AF": 211,
-					"NAF": 62,
-					"PF": 112,
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
 					"RF": 0,
 					"IF": 0,
-					"BF": 8,
+					"BF": 0,
 					"CF": 0,
-					"LF": 42,
-					"GEN": 93
+					"LF": 0,
+					"GEN": 0
 				}
 			},
 			{
-				"file": "Tsou_Tsou/TsouConv-typhoon",
-				"type": "Conversation",
-				"speaker": "安寶妹, None, female, None",
-				"collected": "None",
-				"revised": "2014-7-20",
-				"topic": "Typhoon",
-				"iu_num": 576,
-				"sent_num": 295,
-				"record_time": 1034.22,
+				"file": "Sakizaya_Sakizaya/ap1",
+				"type": "GrammarBook",
+				"topic": "長篇語料一 石頭火鍋",
+				"sent_num": 78,
 				"marker": {
-					"AF": 538,
-					"NAF": 60,
-					"PF": 144,
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
 					"RF": 0,
 					"IF": 0,
-					"BF": 6,
+					"BF": 0,
 					"CF": 0,
-					"LF": 20,
-					"GEN": 103
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/06",
+				"type": "GrammarBook",
+				"topic": "第六章 焦點系統與時貌語氣系統",
+				"sent_num": 63,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/04",
+				"type": "GrammarBook",
+				"topic": "第四章 基本句型與詞序",
+				"sent_num": 44,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/14",
+				"type": "GrammarBook",
+				"topic": "第十四章 修飾結構",
+				"sent_num": 29,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/05",
+				"type": "GrammarBook",
+				"topic": "第五章 格位標記與代名詞系統",
+				"sent_num": 63,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/12",
+				"type": "GrammarBook",
+				"topic": "第十二章 連動結構",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/15",
+				"type": "GrammarBook",
+				"topic": "第十五章 並列結構",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/ap2",
+				"type": "GrammarBook",
+				"topic": "長篇語料二 咒語和祭司的故事",
+				"sent_num": 68,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/13",
+				"type": "GrammarBook",
+				"topic": "第十三章 補語結構",
+				"sent_num": 48,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/09",
+				"type": "GrammarBook",
+				"topic": "第九章 使動結構",
+				"sent_num": 29,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/08",
+				"type": "GrammarBook",
+				"topic": "第八章 祈使句結構",
+				"sent_num": 22,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/10",
+				"type": "GrammarBook",
+				"topic": "第十章 否定句結構",
+				"sent_num": 46,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/07",
+				"type": "GrammarBook",
+				"topic": "第七章 存在句、所有句和方位句結構",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Sakizaya_Sakizaya/03",
+				"type": "GrammarBook",
+				"topic": "第三章 詞彙與構詞",
+				"sent_num": 5,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
 				}
 			}
 		]
