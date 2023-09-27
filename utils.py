@@ -21,6 +21,8 @@ def get_raw_text_meta(doc):
         if k.startswith("transcribe"): continue
         if k.startswith("speaker"):
             v = re.sub(r'(\d\d\d\d)(-\d{1,2})?(-\d{1,2})?', r'\1', v)
+            ## Patch: Hide speaker name (2023.9.27)
+            v = ','.join(v.split(',')[2:]).strip()
         
         meta[k] = v
     
