@@ -3809,7 +3809,7 @@
 	"Tsou_Tsou": {
 		"summary": {
 			"story": {
-				"iu_num": 2561,
+				"iu_num": 2562,
 				"sent_num": 949,
 				"record_time": 3613.99
 			},
@@ -3927,7 +3927,7 @@
 				"collected": "2004-10-10",
 				"revised": "2013-11-18",
 				"topic": "Sngusnguyo",
-				"iu_num": 568,
+				"iu_num": 569,
 				"sent_num": 244,
 				"record_time": 0,
 				"marker": {
@@ -4106,10 +4106,10 @@
 				"record_time": 8689.82
 			},
 			"sentence": {
-				"sent_num": 2370
+				"sent_num": 2373
 			},
 			"grammar": {
-				"sent_num": 3911
+				"sent_num": 3914
 			},
 			"marker": {
 				"AF": 942,
@@ -4565,7 +4565,7 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"sent_num": 522,
+				"sent_num": 524,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -4583,7 +4583,7 @@
 				"type": "Sentence",
 				"speaker": "None",
 				"collected": "None",
-				"sent_num": 491,
+				"sent_num": 492,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
