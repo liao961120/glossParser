@@ -33,7 +33,8 @@ class Drive():
         ls = []
         for f in files:
             if f['mimeType'] != 'application/vnd.google-apps.folder':
-                ls.append(f)
+                if f['mimeType'] == 'text/plain':
+                    ls.append(f)
             else:
                 subdir = self.list_child_recursive(f['id'])
                 ls.append({
