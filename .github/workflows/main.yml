@@ -23,6 +23,7 @@ jobs:
         pip install -r requirements.txt
         unzip -P ${{ secrets.FORMCORP }} form-corp-data.json.zip
         python3 download_corpus_data.py
+        python3 basicTerms.py  # Download 基本詞彙 from Google Sheet
         python3 GlossProcessor.py
         python3 GenerateMetas.py
         python3 GenerateMetasCSV.py
