@@ -10,7 +10,7 @@
 				"sent_num": 2373
 			},
 			"grammar": {
-				"sent_num": 3019
+				"sent_num": 3914
 			},
 			"marker": {
 				"AF": 942,
@@ -538,6 +538,23 @@
 				"type": "GrammarBook",
 				"topic": "長篇語料二 洪水",
 				"sent_num": 57,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Kanakanavu_Kanakanavu/A2",
+				"type": "GrammarBook",
+				"topic": "附錄二 基本詞彙",
+				"sent_num": 895,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -5257,7 +5274,7 @@
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 1567
+				"sent_num": 2080
 			},
 			"marker": {
 				"AF": 747,
@@ -5620,6 +5637,23 @@
 				}
 			},
 			{
+				"file": "Sakizaya_Sakizaya/A2",
+				"type": "GrammarBook",
+				"topic": "附錄二 基本詞彙",
+				"sent_num": 513,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Sakizaya_Sakizaya/07",
 				"type": "GrammarBook",
 				"topic": "第七章 存在句、所有句和方位句結構",
@@ -5887,7 +5921,7 @@
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2157
+				"sent_num": 2798
 			},
 			"marker": {
 				"AF": 2545,
@@ -6479,6 +6513,23 @@
 				"type": "GrammarBook",
 				"topic": "長篇語料二 兩個太陽的故事",
 				"sent_num": 54,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/A2",
+				"type": "GrammarBook",
+				"topic": "附錄二 基本詞彙",
+				"sent_num": 641,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
