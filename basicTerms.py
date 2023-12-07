@@ -18,7 +18,7 @@ def main():
     if not OUTDIR.exists(): OUTDIR.mkdir(parents=True)
 
     # Download Google sheets as TSVs
-    excel = Path(DATA_DIR) / "Grammar-基本詞彙.xlsx"
+    excel = OUTDIR / "Grammar-基本詞彙.xlsx"
     download_excel(outfp=excel)
     export_sheets(excel, outdir=OUTDIR)
 
