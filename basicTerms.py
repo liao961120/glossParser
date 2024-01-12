@@ -36,9 +36,10 @@ def main():
                 if a_url == "":
                     a_url = r["音檔網址"].strip()
                 if a_url.lower().startswith("http://ABSENT") or a_url.lower().startswith("https://ABSENT"):
-                    a_url = ""
+                    a_url = "ABSENT"
                 if a_url.startswith("https://drive.google.com/file/d/"):
-                    a_url = a_url.replace("https://drive.google.com/file/d/", "").split("/")[0]
+                    gid = a_url.replace("https://drive.google.com/file/d/", "").split("/")[0]
+                    a_url = f"https://drive.google.com/uc?export=open&id={gid}"
                 txt += row2gloss_A2(i, ori, ch, a_url) + '\n'
                 i += 1
 
@@ -89,9 +90,8 @@ def row2gloss_A2(i, ori, ch, a_url):
 _
 _
 
+#a_url {a_url}
 """
-    if a_url != "":
-        g += f"#a_url {a_url}\n"
     return g
 
 
