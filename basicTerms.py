@@ -35,6 +35,10 @@ def main():
                 a_url = r["覆寫音檔網址"].strip()
                 if a_url == "":
                     a_url = r["音檔網址"].strip()
+                if a_url.lower.startsWith("http://ABSENT") or a_url.lower.startsWith("https://ABSENT"):
+                    a_url = ""
+                if a_url.startswith("https://drive.google.com/file/d/"):
+                    a_url = a_url.replace("https://drive.google.com/file/d/", "").split("/")[0]
                 txt += row2gloss_A2(i, ori, ch, a_url) + '\n'
                 i += 1
 
@@ -85,8 +89,9 @@ def row2gloss_A2(i, ori, ch, a_url):
 _
 _
 
-#a_url {a_url}
 """
+    if a_url != "":
+        g += f"#a_url {a_url}\n"
     return g
 
 
