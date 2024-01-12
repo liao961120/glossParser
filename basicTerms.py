@@ -39,7 +39,7 @@ def main():
                     a_url = "ABSENT"
                 if a_url.startswith("https://drive.google.com/file/d/"):
                     gid = a_url.replace("https://drive.google.com/file/d/", "").split("/")[0]
-                    a_url = f"https://drive.google.com/file/d/{gid}/preview"
+                    a_url = f"https://drive.google.com/uc?id={gid}&export=download"
                 txt += row2gloss_A2(i, ori, ch, a_url) + '\n'
                 i += 1
 
