@@ -35,11 +35,13 @@ def main():
                 a_url = r["覆寫音檔網址"].strip()
                 if a_url == "":
                     a_url = r["音檔網址"].strip()
-                if a_url.lower().startswith("http://ABSENT") or a_url.lower().startswith("https://ABSENT"):
+                elif a_url.lower().startswith("ABSENT"):
                     a_url = "ABSENT"
-                if a_url.startswith("https://drive.google.com/file/d/"):
-                    gid = a_url.replace("https://drive.google.com/file/d/", "").split("/")[0]
-                    a_url = f"https://drive.google.com/uc?id={gid}&export=download"
+                elif a_url.lower().endswith(".mp3") or a_url.lower().endswith(".wav"):
+                    a_url = f"https://formcorp-audio.netlify.app/{a_url}"
+                else:
+                    if not a_url.startswith("http"):
+                        Warning("Unexpected URL format in `{a_url}` (Line #{i} in {fp.name})")
                 txt += row2gloss_A2(i, ori, ch, a_url) + '\n'
                 i += 1
 
