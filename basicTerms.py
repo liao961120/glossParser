@@ -12,7 +12,7 @@ LANG_MAP = {
 }
 DATA_DIR = Data().grammar_files_raw
 OUTDIR = Path("docs/grammar-basicTerms/")
-
+AUDIO_SERVER = "http://140.112.147.116:8080"
 
 def main():
     if not OUTDIR.exists(): OUTDIR.mkdir(parents=True)
@@ -38,7 +38,7 @@ def main():
                 elif a_url.lower().startswith("ABSENT"):
                     a_url = "ABSENT"
                 elif a_url.lower().endswith(".mp3") or a_url.lower().endswith(".wav"):
-                    a_url = f"https://formcorp-audio.netlify.app/{a_url}"
+                    a_url = f"{AUDIO_SERVER}/{a_url}"
                 else:
                     if not a_url.startswith("http"):
                         Warning("Unexpected URL format in `{a_url}` (Line #{i} in {fp.name})")

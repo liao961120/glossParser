@@ -14,6 +14,7 @@ from data import Data
 DATA = Data()
 DOCS_FOLDER_PATH = pathlib.Path(DATA.corpus_files_root)
 PUBLIC_DIR = DATA.public
+AUDIO_SERVER = "http://140.112.147.116:8080"
 
 
 def main():
@@ -274,6 +275,9 @@ def get_audio_url(free_lines):
     for line in free_lines:
         if re.match(r'#a_url http', line):
             return line.replace('#a_url ', '')
+        if re.match(r'#a_url ', line):
+            return AUDIO_SERVER + '/' + line.replace('#a_url ', '').strip()
+            
     return None
 
 
