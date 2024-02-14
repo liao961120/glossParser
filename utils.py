@@ -1,5 +1,6 @@
 import re
-import logging
+PAT_ZH = re.compile(u'[\u2E80-\u2FD5\u3190-\u319f\u3400-\u4DBF\u4E00-\u9FCC\uF900-\uFAAD]')
+PAT_NUM = re.compile('\d+')
 
 def get_raw_text_meta(doc):
     if isinstance(doc, str):
@@ -20,18 +21,45 @@ def get_raw_text_meta(doc):
         k = k.lower()
         if k.startswith("transcribe"): continue
         if k.startswith("speaker"):
-            if re.search(r'(\d\d\d\d)', v):
-                v = re.sub(r'(\d\d\d\d)(-\d{1,2})?(-\d{1,2})?', r'\1', v)
-                ## Patch: Hide speaker name (2023.9.27)
-                v = [ x.strip() for x in v.split(',')[2:] ]
-                if v[-1].lower() == "none": v[-1] = "19??"
-                if v[-2].lower() == "none": v[-1] = "????"
-                v = ', '.join(v)
-        
+            v = anonymize(v)
         meta[k] = v
     
     return meta
 
+
+def anonymize(speaker_line):
+    elems = [ x.strip() for x in speaker_line.split(",") ]
+    elems = [ x for x in elems if x != "none" and x != "" ]
+    
+    out = []
+    for e in elems:
+        if e in ["female", "male", "男", "女", "男性", "女性"]:
+            out.append(e)
+        elif has_zh(e):
+            out.append(anonymize_name(e))
+        elif has_num(e):
+            out.append(anonymize_num(e))
+    
+    return ", ".join(out)
+
+
+def anonymize_name(s):
+    return s[0] + "〇" * (len(s) - 1)
+
+def anonymize_num(s):
+    return s[:4]
+
+
+def has_zh(s):
+    if PAT_ZH.search(s):
+        return True
+    return False
+
+
+def has_num(s):
+    if PAT_NUM.match(s):
+        return True
+    return False
 
 # 半形轉全形函數
 def strB2Q(ustring):
