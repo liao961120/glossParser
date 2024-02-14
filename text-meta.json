@@ -28,7 +28,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-pear-An",
 				"type": "Narrative",
-				"speaker": "安榮進, None, male, None",
+				"speaker": "安〇〇, male",
 				"collected": "None",
 				"revised": "2013-11-18",
 				"topic": "Pear Story 2",
@@ -50,7 +50,7 @@
 			{
 				"file": "Tsou_Tsou/Tsou-frog-story-wang-1",
 				"type": "Narrative",
-				"speaker": "汪幸時, None, male, None",
+				"speaker": "汪〇〇, male",
 				"collected": "None",
 				"revised": "2013-11-18",
 				"topic": "Frog Story 2",
@@ -72,7 +72,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-pear-story-3",
 				"type": "Narrative",
-				"speaker": "鄭信得, None, male, None",
+				"speaker": "鄭〇〇, male",
 				"collected": "None",
 				"revised": "2013-11-18",
 				"topic": "Pear Story 3",
@@ -94,7 +94,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr_lovestry_wang-2",
 				"type": "Narrative",
-				"speaker": "汪啟聖, None, male, None",
+				"speaker": "汪〇〇, male",
 				"collected": "2009-09-13",
 				"revised": "2013-11-18",
 				"topic": "Love Story 1",
@@ -116,7 +116,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-pear-wang-3",
 				"type": "Narrative",
-				"speaker": "汪明輝, None, male, None",
+				"speaker": "汪〇〇, male",
 				"collected": "1988",
 				"revised": "2013-11-18",
 				"topic": "Pear Story 1",
@@ -138,7 +138,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-frog-story-tu",
 				"type": "Narrative",
-				"speaker": "杜, None, None, None",
+				"speaker": "杜",
 				"collected": "2002-02-00",
 				"revised": "2013-11-18",
 				"topic": "Frog Story 1",
@@ -160,7 +160,7 @@
 			{
 				"file": "Tsou_Tsou/None-1",
 				"type": "Conversation",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "2004-10-10",
 				"revised": "2013-11-18",
 				"topic": "Sngusnguyo",
@@ -182,7 +182,7 @@
 			{
 				"file": "Tsou_Tsou/TsouConv-typhoon",
 				"type": "Conversation",
-				"speaker": "安寶妹, None, female, None",
+				"speaker": "安〇〇, female",
 				"collected": "None",
 				"revised": "2014-7-20",
 				"topic": "Typhoon",
@@ -204,7 +204,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-love-story-zhuang",
 				"type": "Narrative",
-				"speaker": "莊榮貴, None, male, None",
+				"speaker": "莊〇〇, male",
 				"collected": "None",
 				"revised": "2013-11-18",
 				"topic": "Love Story 3",
@@ -226,7 +226,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-frog-story-shi",
 				"type": "Narrative",
-				"speaker": "石光將, None, male, None",
+				"speaker": "石〇〇, male",
 				"collected": "None",
 				"revised": "2013-11-18",
 				"topic": "Frog Story 4",
@@ -248,7 +248,7 @@
 			{
 				"file": "Tsou_Tsou/TsouNr-lovestory-zheng",
 				"type": "Narrative",
-				"speaker": "鄭振宗, None, male, None",
+				"speaker": "鄭〇〇, male",
 				"collected": "None",
 				"revised": "2013-11-18",
 				"topic": "Love Story 2",
@@ -270,7 +270,7 @@
 			{
 				"file": "Tsou_Tsou/TsouConv-informants",
 				"type": "Conversation",
-				"speaker": "汪明輝和汪幸時, None, male, None",
+				"speaker": "汪〇〇〇〇〇〇, male",
 				"collected": "None",
 				"revised": "2014-5-1",
 				"topic": "Informants",
@@ -320,7 +320,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "葉〇〇, female, 1949",
 				"collected": "2008-01-05",
 				"revised": "None",
 				"topic": "frog_Panay",
@@ -342,7 +342,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-pear_panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "葉〇〇, female, 1949",
 				"collected": "2008-01-05",
 				"revised": "None",
 				"topic": "pear_panay",
@@ -364,7 +364,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-pear_dungi",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "蔡〇〇, female, 1949",
 				"collected": "2009-08-28",
 				"revised": "None",
 				"topic": "pear_dungi",
@@ -386,7 +386,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-maibol_Panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "葉〇〇, female, 1949",
 				"collected": "2008-01-05",
 				"revised": "2014-12-13",
 				"topic": "maibul_panay",
@@ -408,7 +408,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-school_Panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "葉〇〇, female, 1949",
 				"collected": "2008-01-05",
 				"revised": "None",
 				"topic": "school_panay",
@@ -430,7 +430,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-sapat_Panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "葉〇〇, female, 1949",
 				"collected": "2008-01-05",
 				"revised": "2017-7-9",
 				"topic": "sapad-panay",
@@ -452,7 +452,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_sinay",
 				"type": "Narrative",
-				"speaker": "林來億, Sinay, male, None",
+				"speaker": "林〇〇, male",
 				"collected": "2009-10-31",
 				"revised": "2014-2-19",
 				"topic": "frog_sinay",
@@ -474,7 +474,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-palamal_kaniw",
 				"type": "Narrative",
-				"speaker": "male, 1942",
+				"speaker": "楊〇〇, male, 1942",
 				"collected": "2009-10-31",
 				"revised": "None",
 				"topic": "Palamal_Kaniw",
@@ -496,7 +496,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-hunting_kaniw",
 				"type": "Narrative",
-				"speaker": "male, 1942",
+				"speaker": "楊〇〇, male, 1942",
 				"collected": "2009-10-31",
 				"revised": "None",
 				"topic": "hunting_Kaniw",
@@ -518,7 +518,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-rain-kaniw",
 				"type": "Narrative",
-				"speaker": "male, 1942",
+				"speaker": "楊〇〇, male, 1942",
 				"collected": "2009-10-31",
 				"revised": "None",
 				"topic": "rain_Kaniw",
@@ -540,7 +540,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-tribalhistory_sinay",
 				"type": "Narrative",
-				"speaker": "林來億, Sinay, male, None",
+				"speaker": "林〇〇, male",
 				"collected": "2009-10-31",
 				"revised": "2017-7-19",
 				"topic": "tribalhistory_Sinay",
@@ -562,7 +562,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-pear_bunuk",
 				"type": "Narrative",
-				"speaker": "female, 1958",
+				"speaker": "葉〇〇, female, 1958",
 				"collected": "2008-01-05",
 				"revised": "2014-2-19",
 				"topic": "pear_bunuk",
@@ -584,7 +584,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_bunuk",
 				"type": "Narrative",
-				"speaker": "female, 1958",
+				"speaker": "葉〇〇, female, 1958",
 				"collected": "2008-01-05",
 				"revised": "None",
 				"topic": "frog_Bunuk",
@@ -606,7 +606,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-class_sinay",
 				"type": "Narrative",
-				"speaker": "林來億, Sinay, male, None",
+				"speaker": "林〇〇, male",
 				"collected": "2009-10-31",
 				"revised": "None",
 				"topic": "class_Sinay",
@@ -628,7 +628,7 @@
 			{
 				"file": "Sakizaya_Sakizaya/skzyNr-frog_dungi",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "蔡〇〇, female, 1949",
 				"collected": "2009-08-28",
 				"revised": "None",
 				"topic": "frog_Dungi",
@@ -967,7 +967,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-pear_Samingaz",
 				"type": "Narrative",
-				"speaker": "顏雲美, Samingaz Ispalidav, Female, None",
+				"speaker": "顏〇〇",
 				"collected": "2017-01-05",
 				"revised": "None",
 				"topic": "pear_Samingaz",
@@ -989,7 +989,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-pear_Talum",
 				"type": "Narrative",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2017-01-03",
 				"revised": "None",
 				"topic": "pear_Talum",
@@ -1011,7 +1011,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-pear_Hanaivaz",
 				"type": "Narrative",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-05-20",
 				"revised": "None",
 				"topic": "pear_Hanaivaz",
@@ -1033,7 +1033,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Samingaz",
 				"type": "Narrative",
-				"speaker": "顏雲美, Samingaz Ispalidav, Female, None",
+				"speaker": "顏〇〇",
 				"collected": "2017-01-05",
 				"revised": "None",
 				"topic": "frog_Samingaz",
@@ -1055,7 +1055,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-pear_Laniahu",
 				"type": "Narrative",
-				"speaker": "顏光榮, Laniahu Isbalidav, Male, None",
+				"speaker": "顏〇〇",
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "pear_Laniahu",
@@ -1077,7 +1077,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Hanaivaz",
 				"type": "Narrative",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-03-23",
 				"revised": "None",
 				"topic": "frog_Hanaivaz",
@@ -1099,7 +1099,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Laniahu",
 				"type": "Narrative",
-				"speaker": "顏光榮, Laniahu Isbalidav, Male, None",
+				"speaker": "顏〇〇",
 				"collected": "2017-01-02",
 				"topic": "frog_Laniahu",
 				"iu_num": 466,
@@ -1120,7 +1120,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Adus",
 				"type": "Narrative",
-				"speaker": "顏洪, Adus Baingkinuaz, Female, None",
+				"speaker": "顏〇",
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "frog_Adus",
@@ -1142,7 +1142,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-hunter-becominig-a-bird_Hanaivaz",
 				"type": "Narrative",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-03-23",
 				"revised": "None",
 				"topic": "hunter-becominig-a-bird_Hanaivaz",
@@ -1164,7 +1164,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Ciang",
 				"type": "Narrative",
-				"speaker": "male, 1944",
+				"speaker": "顏〇〇, male, 1944",
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "frog_Ciang",
@@ -1186,7 +1186,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-lazy-daughter_Hanaivaz",
 				"type": "Narrative",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-03-23",
 				"revised": "None",
 				"topic": "lazy-daughter-in-law_Hanaivaz",
@@ -1208,7 +1208,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-frog_Talum",
 				"type": "Narrative",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2017-01-03",
 				"revised": "None",
 				"topic": "forg_Talum",
@@ -1230,7 +1230,7 @@
 			{
 				"file": "Bunun_Isbukun/bnNr-pear_Ciang",
 				"type": "Narrative",
-				"speaker": "male, 1944",
+				"speaker": "顏〇〇, male, 1944",
 				"collected": "2017-01-02",
 				"revised": "None",
 				"topic": "pear_Ciang",
@@ -1252,7 +1252,7 @@
 			{
 				"file": "Bunun_Isbukun/56",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏, 1944",
 				"collected": "2016-06-2",
 				"sent_num": 19,
 				"marker": {
@@ -1270,7 +1270,7 @@
 			{
 				"file": "Bunun_Isbukun/37",
 				"type": "Sentence",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-05",
 				"sent_num": 10,
 				"marker": {
@@ -1288,7 +1288,7 @@
 			{
 				"file": "Bunun_Isbukun/23",
 				"type": "Sentence",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-05",
 				"sent_num": 7,
 				"marker": {
@@ -1306,7 +1306,7 @@
 			{
 				"file": "Bunun_Isbukun/01-5",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-05",
 				"sent_num": 10,
 				"marker": {
@@ -1324,7 +1324,7 @@
 			{
 				"file": "Bunun_Isbukun/60",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 21,
 				"marker": {
@@ -1342,7 +1342,7 @@
 			{
 				"file": "Bunun_Isbukun/61",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏, 1944",
 				"collected": "2016-06-05",
 				"sent_num": 10,
 				"marker": {
@@ -1360,7 +1360,7 @@
 			{
 				"file": "Bunun_Isbukun/43",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
 				"sent_num": 9,
 				"marker": {
@@ -1378,7 +1378,7 @@
 			{
 				"file": "Bunun_Isbukun/18",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-02",
 				"sent_num": 7,
 				"marker": {
@@ -1396,7 +1396,7 @@
 			{
 				"file": "Bunun_Isbukun/14",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 8,
 				"marker": {
@@ -1414,7 +1414,7 @@
 			{
 				"file": "Bunun_Isbukun/03-3",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 14,
 				"marker": {
@@ -1432,7 +1432,7 @@
 			{
 				"file": "Bunun_Isbukun/62",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-06",
 				"sent_num": 43,
 				"marker": {
@@ -1450,7 +1450,7 @@
 			{
 				"file": "Bunun_Isbukun/40",
 				"type": "Sentence",
-				"speaker": "Male, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-02",
 				"sent_num": 7,
 				"marker": {
@@ -1468,7 +1468,7 @@
 			{
 				"file": "Bunun_Isbukun/16",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-05",
 				"sent_num": 17,
 				"marker": {
@@ -1486,7 +1486,7 @@
 			{
 				"file": "Bunun_Isbukun/03",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-02",
 				"sent_num": 6,
 				"marker": {
@@ -1504,7 +1504,7 @@
 			{
 				"file": "Bunun_Isbukun/49",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-05-03",
 				"sent_num": 11,
 				"marker": {
@@ -1522,7 +1522,7 @@
 			{
 				"file": "Bunun_Isbukun/63",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 920,
 				"marker": {
@@ -1540,7 +1540,7 @@
 			{
 				"file": "Bunun_Isbukun/53",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-03-22",
 				"sent_num": 15,
 				"marker": {
@@ -1558,7 +1558,7 @@
 			{
 				"file": "Bunun_Isbukun/04",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-02",
 				"sent_num": 8,
 				"marker": {
@@ -1576,7 +1576,7 @@
 			{
 				"file": "Bunun_Isbukun/01-1",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 11,
 				"marker": {
@@ -1594,7 +1594,7 @@
 			{
 				"file": "Bunun_Isbukun/36",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 16,
 				"marker": {
@@ -1612,7 +1612,7 @@
 			{
 				"file": "Bunun_Isbukun/15",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 11,
 				"marker": {
@@ -1630,7 +1630,7 @@
 			{
 				"file": "Bunun_Isbukun/52",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-05-10",
 				"sent_num": 17,
 				"marker": {
@@ -1648,7 +1648,7 @@
 			{
 				"file": "Bunun_Isbukun/10-5",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 9,
 				"marker": {
@@ -1666,7 +1666,7 @@
 			{
 				"file": "Bunun_Isbukun/35",
 				"type": "Sentence",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 4,
 				"marker": {
@@ -1684,7 +1684,7 @@
 			{
 				"file": "Bunun_Isbukun/03-6",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-05",
 				"sent_num": 10,
 				"marker": {
@@ -1702,7 +1702,7 @@
 			{
 				"file": "Bunun_Isbukun/01-4",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 12,
 				"marker": {
@@ -1720,7 +1720,7 @@
 			{
 				"file": "Bunun_Isbukun/01-3",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 15,
 				"marker": {
@@ -1738,7 +1738,7 @@
 			{
 				"file": "Bunun_Isbukun/20",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
 				"sent_num": 15,
 				"marker": {
@@ -1756,7 +1756,7 @@
 			{
 				"file": "Bunun_Isbukun/09",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-05",
 				"sent_num": 8,
 				"marker": {
@@ -1774,7 +1774,7 @@
 			{
 				"file": "Bunun_Isbukun/03-4",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 18,
 				"marker": {
@@ -1792,7 +1792,7 @@
 			{
 				"file": "Bunun_Isbukun/10-7",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-06",
 				"sent_num": 4,
 				"marker": {
@@ -1810,7 +1810,7 @@
 			{
 				"file": "Bunun_Isbukun/07",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 5,
 				"marker": {
@@ -1828,7 +1828,7 @@
 			{
 				"file": "Bunun_Isbukun/51",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-04-19",
 				"sent_num": 22,
 				"marker": {
@@ -1846,7 +1846,7 @@
 			{
 				"file": "Bunun_Isbukun/08",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 4,
 				"marker": {
@@ -1864,7 +1864,7 @@
 			{
 				"file": "Bunun_Isbukun/26",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
 				"sent_num": 11,
 				"marker": {
@@ -1882,7 +1882,7 @@
 			{
 				"file": "Bunun_Isbukun/25",
 				"type": "Sentence",
-				"speaker": "Male, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-02",
 				"sent_num": 6,
 				"marker": {
@@ -1900,7 +1900,7 @@
 			{
 				"file": "Bunun_Isbukun/64",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 74,
 				"marker": {
@@ -1918,7 +1918,7 @@
 			{
 				"file": "Bunun_Isbukun/03-2",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
 				"sent_num": 14,
 				"marker": {
@@ -1936,7 +1936,7 @@
 			{
 				"file": "Bunun_Isbukun/54",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-04-28",
 				"sent_num": 29,
 				"marker": {
@@ -1954,7 +1954,7 @@
 			{
 				"file": "Bunun_Isbukun/12",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 17,
 				"marker": {
@@ -1972,7 +1972,7 @@
 			{
 				"file": "Bunun_Isbukun/38",
 				"type": "Sentence",
-				"speaker": "Male, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-06",
 				"sent_num": 6,
 				"marker": {
@@ -1990,7 +1990,7 @@
 			{
 				"file": "Bunun_Isbukun/41",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
 				"revised": "2016-07-28",
 				"sent_num": 9,
@@ -2009,7 +2009,7 @@
 			{
 				"file": "Bunun_Isbukun/45",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-05",
 				"sent_num": 4,
 				"marker": {
@@ -2027,7 +2027,7 @@
 			{
 				"file": "Bunun_Isbukun/19",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-03",
 				"sent_num": 5,
 				"marker": {
@@ -2045,7 +2045,7 @@
 			{
 				"file": "Bunun_Isbukun/39",
 				"type": "Sentence",
-				"speaker": "None, None, None, None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 66,
 				"marker": {
@@ -2063,7 +2063,7 @@
 			{
 				"file": "Bunun_Isbukun/17",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-06",
 				"sent_num": 31,
 				"marker": {
@@ -2081,7 +2081,7 @@
 			{
 				"file": "Bunun_Isbukun/10",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-02",
 				"sent_num": 4,
 				"marker": {
@@ -2099,7 +2099,7 @@
 			{
 				"file": "Bunun_Isbukun/01-2",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-03",
 				"sent_num": 6,
 				"marker": {
@@ -2117,7 +2117,7 @@
 			{
 				"file": "Bunun_Isbukun/50",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-03-05",
 				"sent_num": 19,
 				"marker": {
@@ -2135,7 +2135,7 @@
 			{
 				"file": "Bunun_Isbukun/27",
 				"type": "Sentence",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 5,
 				"marker": {
@@ -2153,7 +2153,7 @@
 			{
 				"file": "Bunun_Isbukun/44",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 3,
 				"marker": {
@@ -2171,7 +2171,7 @@
 			{
 				"file": "Bunun_Isbukun/57",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 29,
 				"marker": {
@@ -2189,7 +2189,7 @@
 			{
 				"file": "Bunun_Isbukun/46",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-06",
 				"sent_num": 12,
 				"marker": {
@@ -2207,7 +2207,7 @@
 			{
 				"file": "Bunun_Isbukun/22",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 7,
 				"marker": {
@@ -2225,7 +2225,7 @@
 			{
 				"file": "Bunun_Isbukun/11",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-02",
 				"sent_num": 10,
 				"marker": {
@@ -2243,7 +2243,7 @@
 			{
 				"file": "Bunun_Isbukun/02",
 				"type": "Sentence",
-				"speaker": "None, None, None, None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 30,
 				"marker": {
@@ -2261,7 +2261,7 @@
 			{
 				"file": "Bunun_Isbukun/24",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-06",
 				"sent_num": 11,
 				"marker": {
@@ -2279,7 +2279,7 @@
 			{
 				"file": "Bunun_Isbukun/42",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 7,
 				"marker": {
@@ -2297,7 +2297,7 @@
 			{
 				"file": "Bunun_Isbukun/48",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-04-12",
 				"sent_num": 23,
 				"marker": {
@@ -2315,7 +2315,7 @@
 			{
 				"file": "Bunun_Isbukun/55",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-05-24",
 				"sent_num": 36,
 				"marker": {
@@ -2333,7 +2333,7 @@
 			{
 				"file": "Bunun_Isbukun/32",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-02",
 				"sent_num": 11,
 				"marker": {
@@ -2351,7 +2351,7 @@
 			{
 				"file": "Bunun_Isbukun/10-4",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 5,
 				"marker": {
@@ -2369,7 +2369,7 @@
 			{
 				"file": "Bunun_Isbukun/31",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-06",
 				"sent_num": 12,
 				"marker": {
@@ -2387,7 +2387,7 @@
 			{
 				"file": "Bunun_Isbukun/10-3",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 14,
 				"marker": {
@@ -2405,7 +2405,7 @@
 			{
 				"file": "Bunun_Isbukun/29",
 				"type": "Sentence",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 9,
 				"marker": {
@@ -2423,7 +2423,7 @@
 			{
 				"file": "Bunun_Isbukun/10-6",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-05",
 				"sent_num": 11,
 				"marker": {
@@ -2441,7 +2441,7 @@
 			{
 				"file": "Bunun_Isbukun/06",
 				"type": "Sentence",
-				"speaker": "M, 1943",
+				"speaker": "顏〇〇, 1943",
 				"collected": "2016-06-03",
 				"sent_num": 8,
 				"marker": {
@@ -2459,7 +2459,7 @@
 			{
 				"file": "Bunun_Isbukun/03-5",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 14,
 				"marker": {
@@ -2477,7 +2477,7 @@
 			{
 				"file": "Bunun_Isbukun/59",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 16,
 				"marker": {
@@ -2495,7 +2495,7 @@
 			{
 				"file": "Bunun_Isbukun/13",
 				"type": "Sentence",
-				"speaker": "M, 1943",
+				"speaker": "顏〇〇, 1943",
 				"collected": "2016-06-03",
 				"sent_num": 17,
 				"marker": {
@@ -2513,7 +2513,7 @@
 			{
 				"file": "Bunun_Isbukun/21",
 				"type": "Sentence",
-				"speaker": "Female, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-04",
 				"sent_num": 5,
 				"marker": {
@@ -2531,7 +2531,7 @@
 			{
 				"file": "Bunun_Isbukun/05",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
 				"sent_num": 12,
 				"marker": {
@@ -2549,7 +2549,7 @@
 			{
 				"file": "Bunun_Isbukun/30",
 				"type": "Sentence",
-				"speaker": "Male, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-05",
 				"revised": "2016-06-08",
 				"sent_num": 8,
@@ -2568,7 +2568,7 @@
 			{
 				"file": "Bunun_Isbukun/34",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
 				"sent_num": 17,
 				"marker": {
@@ -2586,7 +2586,7 @@
 			{
 				"file": "Bunun_Isbukun/03-7",
 				"type": "Sentence",
-				"speaker": "M, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-06",
 				"sent_num": 23,
 				"marker": {
@@ -2604,7 +2604,7 @@
 			{
 				"file": "Bunun_Isbukun/10-2",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-03",
 				"sent_num": 12,
 				"marker": {
@@ -2622,7 +2622,7 @@
 			{
 				"file": "Bunun_Isbukun/28",
 				"type": "Sentence",
-				"speaker": "Male, 1958",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"revised": "2016-06-05",
 				"sent_num": 13,
@@ -2641,7 +2641,7 @@
 			{
 				"file": "Bunun_Isbukun/33",
 				"type": "Sentence",
-				"speaker": "Male, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-03",
 				"sent_num": 5,
 				"marker": {
@@ -2659,7 +2659,7 @@
 			{
 				"file": "Bunun_Isbukun/47",
 				"type": "Sentence",
-				"speaker": "F, 1950",
+				"speaker": "顏〇〇, 1950",
 				"collected": "2016-03-01",
 				"sent_num": 15,
 				"marker": {
@@ -2677,7 +2677,7 @@
 			{
 				"file": "Bunun_Isbukun/01",
 				"type": "Sentence",
-				"speaker": "M, 1944",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-02",
 				"sent_num": 8,
 				"marker": {
@@ -2723,7 +2723,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog2_ciwas_tiwas 2021s",
 				"type": "Conversation",
-				"speaker": "female, 1915",
+				"speaker": "蔡〇〇, female, 1915",
 				"collected": "1991-08-16",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog2_ciwas_tiwas",
@@ -2745,7 +2745,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-pear_aking 2020s",
 				"type": "Narrative",
-				"speaker": "female, 1952",
+				"speaker": "黃〇〇, female, 1952",
 				"collected": "2007-03-19",
 				"revised": "2021-06-01",
 				"topic": "pear",
@@ -2767,7 +2767,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-ricah_uma 2021s",
 				"type": "Narrative",
-				"speaker": "female, 1932",
+				"speaker": "邱〇〇〇, female, 1932",
 				"collected": "2007-05-07",
 				"revised": "2021-06-01",
 				"topic": "ricah",
@@ -2789,7 +2789,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-rain_pawan 2020s",
 				"type": "Narrative",
-				"speaker": "male, 1926",
+				"speaker": "王〇〇, male, 1926",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "rain",
@@ -2811,7 +2811,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-pear_pawan 2020s",
 				"type": "Narrative",
-				"speaker": "錢成鏡, None, male, None",
+				"speaker": "錢〇〇, male",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "pear",
@@ -2833,7 +2833,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-south_pawan 2021s",
 				"type": "Narrative",
-				"speaker": "male, 1926",
+				"speaker": "王〇〇, male, 1926",
 				"collected": "1997-04-05",
 				"revised": "2021-06-01",
 				"topic": "south",
@@ -2855,7 +2855,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-medicine_robo pihu 2020s",
 				"type": "Narrative",
-				"speaker": "female, 1928",
+				"speaker": "曾〇〇, female, 1928",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "medicine",
@@ -2877,7 +2877,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-frog_temi",
 				"type": "Narrative",
-				"speaker": "female, 1939",
+				"speaker": "曾〇〇, female, 1939",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
@@ -2899,7 +2899,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-frog_aking 2020s",
 				"type": "Narrative",
-				"speaker": "female, 1952",
+				"speaker": "黃〇〇, female, 1952",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
@@ -2921,7 +2921,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape 2020s",
 				"type": "Conversation",
-				"speaker": "female, 1928",
+				"speaker": "曾〇〇, female, 1928",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog4_robo_bakan_ape",
@@ -2943,7 +2943,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-frog_lubi 2020s",
 				"type": "Narrative",
-				"speaker": "謝美, Lubi Nomin, female, None",
+				"speaker": "謝〇, female",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "frog",
@@ -2965,7 +2965,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-mother_iwan 2020s",
 				"type": "Narrative",
-				"speaker": "female, 1939",
+				"speaker": "田〇〇, female, 1939",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "mother",
@@ -2987,7 +2987,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-childhood_micang 2020s",
 				"type": "Narrative",
-				"speaker": "female, 1942",
+				"speaker": "周〇〇, female, 1942",
 				"collected": "2007-05-26",
 				"revised": "2021-06-01",
 				"topic": "childhood",
@@ -3009,7 +3009,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-pear_lubi 2020s",
 				"type": "Narrative",
-				"speaker": "謝美, Lubi Nomin, female, None",
+				"speaker": "謝〇, female",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "pear",
@@ -3031,7 +3031,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan 2021s",
 				"type": "Narrative",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "taboo",
@@ -3053,7 +3053,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog5_dakis_takun 2020s",
 				"type": "Conversation",
-				"speaker": "male, 1952",
+				"speaker": "邱〇〇, male, 1952",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog5_dakis_takun",
@@ -3075,7 +3075,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan 2020s",
 				"type": "Narrative",
-				"speaker": "李正祿, Awi Pawan, male, None",
+				"speaker": "李〇〇, male",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "tattoo2",
@@ -3097,7 +3097,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-tradition_dakis 2021s",
 				"type": "Narrative",
-				"speaker": "male, 1953",
+				"speaker": "郭〇〇, male, 1953",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "tradition",
@@ -3119,7 +3119,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog1_ciwas_tiwas 2021s",
 				"type": "Conversation",
-				"speaker": "female, 1915",
+				"speaker": "蔡〇〇, female, 1915",
 				"collected": "1991-08-09",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog1_ciwas_tiwas",
@@ -3141,7 +3141,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqCon-plum_uma_robo 2020s",
 				"type": "Conversation",
-				"speaker": "female, 1932",
+				"speaker": "邱〇〇〇, female, 1932",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-plum_uma_robo",
@@ -3163,7 +3163,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-sinobale_uma 2021s",
 				"type": "Narrative",
-				"speaker": "female, 1932",
+				"speaker": "邱〇〇〇, female, 1932",
 				"collected": "1997-04-04",
 				"revised": "2021-06-01",
 				"topic": "sinobale",
@@ -3185,7 +3185,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqCon-dialog3_robo_bakan 2021s",
 				"type": "Conversation",
-				"speaker": "female, 1934",
+				"speaker": "郭〇〇〇, female, 1934",
 				"collected": "2013-09-15",
 				"revised": "2021-06-01",
 				"topic": "sdqCon-dialog3_robo_bakan",
@@ -3207,7 +3207,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-sisin_dakis 2020s",
 				"type": "Narrative",
-				"speaker": "male, 1953",
+				"speaker": "郭〇〇, male, 1953",
 				"collected": "2009-09-17",
 				"revised": "2021-06-01",
 				"topic": "sisin",
@@ -3229,7 +3229,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-seediq_dakis 2020s",
 				"type": "Narrative",
-				"speaker": "male, 1953",
+				"speaker": "郭〇〇, male, 1953",
 				"collected": "None",
 				"revised": "None",
 				"topic": "seediq",
@@ -3251,7 +3251,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-pear_temi 2020s",
 				"type": "Narrative",
-				"speaker": "female, 1939",
+				"speaker": "曾〇〇, female, 1939",
 				"collected": "None",
 				"revised": "2021-06-01",
 				"topic": "pear",
@@ -3273,7 +3273,7 @@
 			{
 				"file": "Seediq_Tgdaya/sdqNr-pear-dakis 2020s",
 				"type": "Narrative",
-				"speaker": "male, 1953",
+				"speaker": "郭〇〇, male, 1953",
 				"collected": "1996-10-19",
 				"revised": "2021-06-01",
 				"topic": "pear",
@@ -3612,7 +3612,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-pear4_tosi_ masin",
 				"type": "Narrative",
-				"speaker": "female, 1942",
+				"speaker": "徐〇〇, female, 1942",
 				"collected": "2002-01-01",
 				"revised": "2014-1-3",
 				"topic": "pear4",
@@ -3634,7 +3634,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog6_kalaeh a _oemaw",
 				"type": "Narrative",
-				"speaker": "male, 1928",
+				"speaker": "朱〇〇, male, 1928",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog6",
@@ -3656,7 +3656,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog3__oemaw_a_basi_",
 				"type": "Narrative",
-				"speaker": "None, 'oemaw a basi', Male, None",
+				"speaker": "",
 				"collected": "2003-01-01",
 				"revised": "2013-12-4",
 				"topic": "frog3",
@@ -3678,7 +3678,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog3_'oemaw_a_basi'",
 				"type": "Narrative",
-				"speaker": "None, 'oemaw a basi', Male, None",
+				"speaker": "",
 				"collected": "2003-01-01",
 				"revised": "2013-12-4",
 				"topic": "frog3",
@@ -3700,7 +3700,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-election_lahi_ a taro_ babay",
 				"type": "Conversation",
-				"speaker": "風建福, lahi' a taro' babayi, male, None",
+				"speaker": "風〇〇, male",
 				"collected": "2002-01-01",
 				"revised": "2014-4-10",
 				"topic": "election",
@@ -3722,7 +3722,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-pear3_kalaeh a taro_",
 				"type": "Narrative",
-				"speaker": "male, 1937",
+				"speaker": "風〇〇, male, 1937",
 				"collected": "2002-01-01",
 				"revised": "None",
 				"topic": "pear3",
@@ -3744,7 +3744,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-pear1__oemaw a _obay",
 				"type": "Narrative",
-				"speaker": "趙山河, 'oemaw a 'obay, male, None",
+				"speaker": "趙〇〇, male",
 				"collected": "2002-01-01",
 				"revised": "None",
 				"topic": "pear1",
@@ -3766,7 +3766,7 @@
 			{
 				"file": "Saisiyat_Tong-he/Sainr-frog4_lalo a tahaeS",
 				"type": "Narrative",
-				"speaker": "female, 1967",
+				"speaker": "高〇〇, female, 1967",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog4",
@@ -3788,7 +3788,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-pear5__awi_ a basi_",
 				"type": "Narrative",
-				"speaker": "male, 1945",
+				"speaker": "日〇〇, male, 1945",
 				"collected": "2002-01-01",
 				"revised": "None",
 				"topic": "pear5",
@@ -3810,7 +3810,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-kathethel2_kalaeh a oemaw",
 				"type": "Narrative",
-				"speaker": "male, 1928",
+				"speaker": "朱〇〇, male, 1928",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "kathethel2",
@@ -3832,7 +3832,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog8_parain a _oemaw",
 				"type": "Narrative",
-				"speaker": "male, 1928",
+				"speaker": "高〇〇, male, 1928",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog8",
@@ -3854,7 +3854,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog2_waon a boong",
 				"type": "Narrative",
-				"speaker": "female, 1943",
+				"speaker": "風〇〇, female, 1943",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog2",
@@ -3876,7 +3876,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-anhi",
 				"type": "Narrative",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "2003-01-01",
 				"revised": "2014-2-9",
 				"topic": "anhi",
@@ -3898,7 +3898,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-life_waon a boong",
 				"type": "Conversation",
-				"speaker": "female, 1943",
+				"speaker": "風〇〇, female, 1943",
 				"collected": "2002-01-01",
 				"revised": "2014-4-10",
 				"topic": "life",
@@ -3920,7 +3920,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-Molaw",
 				"type": "Narrative",
-				"speaker": "Male, 1928",
+				"speaker": "高〇〇, 1928",
 				"collected": "2003-01-01",
 				"revised": "2013-9-16",
 				"topic": "Molaw",
@@ -3942,7 +3942,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog7_kalaeh a taro_",
 				"type": "Narrative",
-				"speaker": "male, 1937",
+				"speaker": "風〇〇, male, 1937",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog7",
@@ -3964,7 +3964,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-holiday_kalaeh a _oemaw",
 				"type": "Narrative",
-				"speaker": "male, 1928",
+				"speaker": "朱〇〇, male, 1928",
 				"collected": "2003-01-01",
 				"revised": "2014-4-10",
 				"topic": "holiday",
@@ -3986,7 +3986,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog5__awi_ a basi_",
 				"type": "Narrative",
-				"speaker": "male, 1945",
+				"speaker": "日〇〇, male, 1945",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "frog5",
@@ -4008,7 +4008,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-frog1_bownay a tahes",
 				"type": "Narrative",
-				"speaker": "male, 1933",
+				"speaker": "風〇〇, male, 1933",
 				"collected": "2002-07-24",
 				"revised": "None",
 				"topic": "frog1",
@@ -4030,7 +4030,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-flood_waon a boong",
 				"type": "Narrative",
-				"speaker": "female, 1943",
+				"speaker": "風〇〇, female, 1943",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "flood",
@@ -4052,7 +4052,7 @@
 			{
 				"file": "Saisiyat_Tong-he/SaiNr-kathethel_parain a _oemaw",
 				"type": "Narrative",
-				"speaker": "male, 1928",
+				"speaker": "高〇〇, male, 1928",
 				"collected": "2003-01-01",
 				"revised": "None",
 				"topic": "kathethel",
@@ -4102,7 +4102,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_cinhua",
 				"type": "Narrative",
-				"speaker": "嚴金花, Cinhua, female, None",
+				"speaker": "嚴〇〇, female",
 				"collected": "2005-05-19",
 				"revised": "2013-1-16",
 				"topic": "Pear Story",
@@ -4124,7 +4124,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-custom_Liu",
 				"type": "Narrative",
-				"speaker": "劉李俊, Liu, male, None",
+				"speaker": "劉〇〇, male",
 				"collected": "2005-05-24",
 				"revised": "2014-1-16",
 				"topic": "Custom",
@@ -4146,7 +4146,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-intro_ofad",
 				"type": "Narrative",
-				"speaker": "陳金龍, Ofad, male, None",
+				"speaker": "陳〇〇, male",
 				"collected": "2005-07-08",
 				"revised": "2014-1-16",
 				"topic": "Introduction",
@@ -4168,7 +4168,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_minzhu",
 				"type": "Narrative",
-				"speaker": "嚴敏珠, Minzhu, female, None",
+				"speaker": "嚴〇〇, female",
 				"collected": "2003-06-01",
 				"revised": "2013-1-16",
 				"topic": "Frog Story",
@@ -4190,7 +4190,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_zuomei",
 				"type": "Narrative",
-				"speaker": "嚴胡佐妹, Zuomei, female, None",
+				"speaker": "嚴〇〇〇, female",
 				"collected": "2003-06-01",
 				"revised": "2013-1-17",
 				"topic": "Pear Story",
@@ -4212,7 +4212,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-peanut_panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "李〇〇, female, 1949",
 				"collected": "2003-04-04",
 				"revised": "None",
 				"topic": "Peanut",
@@ -4234,7 +4234,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_zuomei",
 				"type": "Narrative",
-				"speaker": "嚴胡佐妹, Zuomei, female, None",
+				"speaker": "嚴〇〇〇, female",
 				"collected": "2003-06-01",
 				"revised": "2013-1-16",
 				"topic": "Frog Story",
@@ -4256,7 +4256,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Conv-farming_marang_furayang",
 				"type": "Conversation",
-				"speaker": "高林春花, Furayang, female, None",
+				"speaker": "高〇〇〇, female",
 				"collected": "2005-05-13",
 				"revised": "None",
 				"topic": "Farming",
@@ -4278,7 +4278,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_cinhua",
 				"type": "Narrative",
-				"speaker": "嚴金花, Cinhua, female, None",
+				"speaker": "嚴〇〇, female",
 				"collected": "2005-05-19",
 				"revised": "None",
 				"topic": "Frog Story",
@@ -4300,7 +4300,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "李〇〇, female, 1949",
 				"collected": "2007-01-05",
 				"revised": "None",
 				"topic": "Pear Story",
@@ -4322,7 +4322,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-intro_tamih",
 				"type": "Narrative",
-				"speaker": "male, 1926",
+				"speaker": "林〇〇, male, 1926",
 				"collected": "2007-01-05",
 				"revised": "2014-1-16",
 				"topic": "Religion and My Life",
@@ -4344,7 +4344,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_lungi",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "張〇〇, female, 1949",
 				"collected": "2005-05-19",
 				"revised": "None",
 				"topic": "Pear Story",
@@ -4366,7 +4366,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-crab_panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "李〇〇, female, 1949",
 				"collected": "2004-04-04",
 				"revised": "None",
 				"topic": "Crab",
@@ -4388,7 +4388,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Conv-talking_tamih_panay",
 				"type": "Conversation",
-				"speaker": "female, 1949",
+				"speaker": "李〇〇, female, 1949",
 				"collected": "2004-05-13",
 				"revised": "None",
 				"topic": "Talking",
@@ -4410,7 +4410,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_tamih",
 				"type": "Narrative",
-				"speaker": "male, 1926",
+				"speaker": "林〇〇, male, 1926",
 				"collected": "2007-01-05",
 				"revised": "None",
 				"topic": "Pear Story",
@@ -4432,7 +4432,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-pear_minzhu",
 				"type": "Narrative",
-				"speaker": "嚴敏珠, Minzhu, female, None",
+				"speaker": "嚴〇〇, female",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Pear Story",
@@ -4454,7 +4454,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-frog_ofad",
 				"type": "Narrative",
-				"speaker": "陳金龍, Ofad, male, None",
+				"speaker": "陳〇〇, male",
 				"collected": "2005-04-27",
 				"revised": "2014-3-5",
 				"topic": "Frog Story",
@@ -4476,7 +4476,7 @@
 			{
 				"file": "Amis_Ciwkangan/Amis_Nr-intro_Panay",
 				"type": "Narrative",
-				"speaker": "female, 1949",
+				"speaker": "李〇〇, female, 1949",
 				"collected": "2007-01-05",
 				"revised": "2014-1-16",
 				"topic": "Self-introduction",
@@ -4526,7 +4526,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Kuatu",
 				"type": "Narrative",
-				"speaker": "female, 1941",
+				"speaker": "蕭〇〇〇, female, 1941",
 				"collected": "2008-05-31",
 				"revised": "2017-6-6",
 				"topic": "sowing",
@@ -4548,7 +4548,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_the man from china_Pani",
 				"type": "Narrative",
-				"speaker": "male, 1951",
+				"speaker": "孔〇〇, male, 1951",
 				"collected": "00:10:43",
 				"revised": "None",
 				"topic": "The man from China_Pani",
@@ -4570,7 +4570,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_mikon_Kuatu",
 				"type": "Narrative",
-				"speaker": "female, 1941",
+				"speaker": "蕭〇〇〇, female, 1941",
 				"collected": "2012-05-31",
 				"revised": "2017-6-6",
 				"topic": "mikon",
@@ -4592,7 +4592,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sad_song_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "翁〇, male, 1932",
 				"collected": "0000-00-00",
 				"revised": "2017-6-6",
 				"topic": "a sad song",
@@ -4614,7 +4614,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_life_Kuatu",
 				"type": "Narrative",
-				"speaker": "female, 1941",
+				"speaker": "蕭〇〇〇, female, 1941",
 				"collected": "2012-05-30",
 				"revised": "2017-6-6",
 				"topic": "life",
@@ -4636,7 +4636,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_dailylife_Angai",
 				"type": "Narrative",
-				"speaker": "male, 1936",
+				"speaker": "蕭〇〇, male, 1936",
 				"collected": "2012-05-30",
 				"revised": "2017-6-6",
 				"topic": "dailylife",
@@ -4658,7 +4658,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_family_Paicu",
 				"type": "Narrative",
-				"speaker": "female, 1939",
+				"speaker": "翁〇〇〇, female, 1939",
 				"collected": "2012-05-31",
 				"revised": "2017-6-6",
 				"topic": "family",
@@ -4680,7 +4680,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_millet_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "翁〇, male, 1932",
 				"collected": "2012-06-??",
 				"revised": "2014-2-10",
 				"topic": "Millet",
@@ -4702,7 +4702,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_domestic_troubles_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "翁〇, male, 1932",
 				"collected": "2012-05-30",
 				"revised": "2017-6-6",
 				"topic": "domestic_troubles",
@@ -4724,7 +4724,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu",
 				"type": "Narrative",
-				"speaker": "female, 1939",
+				"speaker": "翁〇〇〇, female, 1939",
 				"collected": "2012-07-18",
 				"revised": "2017-6-6",
 				"topic": "sowing",
@@ -4746,7 +4746,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr-fishing_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "翁〇, male, 1932",
 				"collected": "2012-12-08",
 				"revised": "2017-6-6",
 				"topic": "fishing",
@@ -4768,7 +4768,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_fishing_Pani",
 				"type": "Narrative",
-				"speaker": "male, 1951",
+				"speaker": "孔〇〇, male, 1951",
 				"collected": "00:11:26",
 				"revised": "None",
 				"topic": "Fishing",
@@ -4790,7 +4790,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_farming_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1947",
+				"speaker": "翁〇, male, 1947",
 				"collected": "00 :09 :28",
 				"revised": "None",
 				"topic": "Farming",
@@ -4812,7 +4812,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting1_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1947",
+				"speaker": "翁〇, male, 1947",
 				"collected": "00:10:27",
 				"revised": "2017-6-6",
 				"topic": "hunting1",
@@ -4834,7 +4834,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr-story_pani",
 				"type": "Narrative",
-				"speaker": "male, 1951",
+				"speaker": "孔〇〇, male, 1951",
 				"collected": "00:10:14",
 				"revised": "2017-7-24",
 				"topic": "Story",
@@ -4856,7 +4856,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_hunting_taboos_Angai",
 				"type": "Narrative",
-				"speaker": "male, 1936",
+				"speaker": "蕭〇〇, male, 1936",
 				"collected": "2011-05-30",
 				"revised": "2017-6-6",
 				"topic": "hunting.taboos",
@@ -4878,7 +4878,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr_frog_Uva",
 				"type": "Narrative",
-				"speaker": "male, 1951",
+				"speaker": "孔〇〇, male, 1951",
 				"collected": "None",
 				"revised": "2016-5-24",
 				"topic": "Frog story",
@@ -4900,7 +4900,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr-puratu_Muu",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "翁〇, male, 1932",
 				"collected": "None",
 				"revised": "2017-6-6",
 				"topic": "puratu",
@@ -4922,7 +4922,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/kkvNr-frogstory_angai",
 				"type": "Narrative",
-				"speaker": "male, 1953",
+				"speaker": "翁〇〇, male, 1953",
 				"collected": "13:57",
 				"revised": "2015-9-2",
 				"topic": "Frog story",
@@ -4944,7 +4944,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/4",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 181,
 				"marker": {
@@ -4962,7 +4962,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/3",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 524,
 				"marker": {
@@ -4980,7 +4980,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/2",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 16,
 				"marker": {
@@ -4998,7 +4998,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/5",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 73,
 				"marker": {
@@ -5016,7 +5016,7 @@
 			{
 				"file": "Kanakanavu_Kanakanavu/1",
 				"type": "Sentence",
-				"speaker": "None",
+				"speaker": "",
 				"collected": "None",
 				"sent_num": 492,
 				"marker": {
@@ -5368,7 +5368,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-princess balenge_balenge",
 				"type": "Narrative",
-				"speaker": "female, 1961",
+				"speaker": "潘〇〇〇, female, 1961",
 				"collected": "2009-08-06",
 				"revised": "2014-3-27",
 				"topic": "Princess Balenge",
@@ -5390,7 +5390,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_salrabu",
 				"type": "Narrative",
-				"speaker": "male, 1938",
+				"speaker": "柯〇〇, male, 1938",
 				"collected": "2004-04-22",
 				"revised": "2013-1-17",
 				"topic": "Frog story",
@@ -5412,7 +5412,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_Balenge",
 				"type": "Narrative",
-				"speaker": "female, 1961",
+				"speaker": "潘〇〇〇, female, 1961",
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Pear story",
@@ -5434,7 +5434,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Baqingyi",
 				"type": "Narrative",
-				"speaker": "巴清一, None, Male, None",
+				"speaker": "巴〇〇",
 				"collected": "None",
 				"revised": "2021-04-08",
 				"topic": "Frog story",
@@ -5456,7 +5456,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_Legeai",
 				"type": "Narrative",
-				"speaker": "巴山光, Legeai, male, None",
+				"speaker": "巴〇〇, male",
 				"collected": "2010-01-14",
 				"revised": "None",
 				"topic": "Pear story",
@@ -5478,7 +5478,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-ghost lake_Balenge",
 				"type": "Narrative",
-				"speaker": "female, 1961",
+				"speaker": "潘〇〇〇, female, 1961",
 				"collected": "2011-8-19",
 				"revised": "2014-3-27",
 				"topic": "Ghost lake",
@@ -5500,7 +5500,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-marriage ceremony_taugadha",
 				"type": "Narrative",
-				"speaker": "male, 1943",
+				"speaker": "杜〇, male, 1943",
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Marriage Ceremony",
@@ -5522,7 +5522,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Legeai",
 				"type": "Narrative",
-				"speaker": "巴山光, Legeai, male, None",
+				"speaker": "巴〇〇, male",
 				"collected": "2010-01-14",
 				"revised": "2013-1-17",
 				"topic": "Frog story",
@@ -5544,7 +5544,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_ba ching-i",
 				"type": "Narrative",
-				"speaker": "巴清一, unknown, male, None",
+				"speaker": "巴〇〇, male",
 				"collected": "2004-04-22",
 				"revised": "2013-3-7",
 				"topic": "Pear story",
@@ -5566,7 +5566,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-childhood_balenge",
 				"type": "Narrative",
-				"speaker": "Female, 1961",
+				"speaker": "潘〇〇〇, 1961",
 				"collected": "2011-8-11",
 				"revised": "2014-3-13",
 				"topic": "Childhood",
@@ -5588,7 +5588,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-naming_taugadhu",
 				"type": "Narrative",
-				"speaker": "male, 1943",
+				"speaker": "杜〇, male, 1943",
 				"collected": "2010-01-14",
 				"revised": "None",
 				"topic": "Naming",
@@ -5610,7 +5610,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Tuku",
 				"type": "Narrative",
-				"speaker": "Female, 1948",
+				"speaker": "柯〇〇, 1948",
 				"collected": "2022-02-12",
 				"topic": "Frog story",
 				"iu_num": 159,
@@ -5631,7 +5631,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_tagas",
 				"type": "Narrative",
-				"speaker": "male, 1938",
+				"speaker": "沙〇〇, male, 1938",
 				"collected": "2010-01-15",
 				"revised": "None",
 				"topic": "Pear story",
@@ -5653,7 +5653,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-swing_taugadhu",
 				"type": "Narrative",
-				"speaker": "male, 1943",
+				"speaker": "杜〇, male, 1943",
 				"collected": "2009-08-06",
 				"revised": "None",
 				"topic": "Swing",
@@ -5675,7 +5675,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_salrabu",
 				"type": "Narrative",
-				"speaker": "male, 1938",
+				"speaker": "柯〇〇, male, 1938",
 				"collected": "2004-04-22",
 				"revised": "None",
 				"topic": "Pear story",
@@ -5697,7 +5697,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Bajiaying",
 				"type": "Narrative",
-				"speaker": "巴佳英, None, Female, None",
+				"speaker": "巴〇〇",
 				"collected": "2009-05-05",
 				"revised": "2009-06-01",
 				"topic": "Frog story",
@@ -5719,7 +5719,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-becenge_tagas",
 				"type": "Narrative",
-				"speaker": "Male, 1938",
+				"speaker": "沙〇〇, 1938",
 				"collected": "2009-08-07",
 				"revised": "2013-1-21",
 				"topic": "Millet",
@@ -5741,7 +5741,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-work by men and women_taugadhu",
 				"type": "Narrative",
-				"speaker": "male, 1943",
+				"speaker": "杜〇, male, 1943",
 				"collected": "2009-08-07",
 				"revised": "None",
 				"topic": "Work by Men and Women",
@@ -5763,7 +5763,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_wauki",
 				"type": "Narrative",
-				"speaker": "male, 1933",
+				"speaker": "何〇〇, male, 1933",
 				"collected": "2009-05-25",
 				"revised": "2013-3-14",
 				"topic": "Pear story",
@@ -5785,7 +5785,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Waecacane",
 				"type": "Narrative",
-				"speaker": "Male, 1951",
+				"speaker": "杜〇〇, 1951",
 				"collected": "2022-02-12",
 				"topic": "Frog story",
 				"iu_num": 97,
@@ -5806,7 +5806,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-frog_Kainguane",
 				"type": "Narrative",
-				"speaker": "王朝賢, Kainguane, Male, None",
+				"speaker": "王〇〇",
 				"collected": "2009-05-05",
 				"revised": "2013-1-17",
 				"topic": "Frog Story",
@@ -5828,7 +5828,7 @@
 			{
 				"file": "Rukai_Vedai/RukaiNr-pear_Kainguane",
 				"type": "Narrative",
-				"speaker": "王朝賢, Kainguane, Male, None",
+				"speaker": "王〇〇",
 				"collected": "2009-05-11",
 				"revised": "None",
 				"topic": "Pear story",
@@ -5850,7 +5850,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Lixing-2",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 6,
 				"marker": {
@@ -5868,7 +5868,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ken-1",
 				"type": "Sentence",
-				"speaker": "male, 1936",
+				"speaker": "宋〇〇, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 17,
 				"marker": {
@@ -5886,7 +5886,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ludwig",
 				"type": "Sentence",
-				"speaker": "male, 1950",
+				"speaker": "許〇〇, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 26,
 				"marker": {
@@ -5904,7 +5904,7 @@
 			{
 				"file": "Rukai_Vedai/20200513-CL-8",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-13",
 				"sent_num": 24,
 				"marker": {
@@ -5922,7 +5922,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Yongfu-2",
 				"type": "Sentence",
-				"speaker": "male, 1936",
+				"speaker": "宋〇〇, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 19,
 				"marker": {
@@ -5940,7 +5940,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Yongfu",
 				"type": "Sentence",
-				"speaker": "male, 1958",
+				"speaker": "麥〇〇, male, 1958",
 				"collected": "2020-05-28",
 				"sent_num": 26,
 				"marker": {
@@ -5958,7 +5958,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Jimmy",
 				"type": "Sentence",
-				"speaker": "male, 1958",
+				"speaker": "麥〇〇, male, 1958",
 				"collected": "2020-05-28",
 				"sent_num": 16,
 				"marker": {
@@ -5976,7 +5976,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ludwig",
 				"type": "Sentence",
-				"speaker": "male, 1959/柯菊華, Balenge, female, 1961 (標號六以後)",
+				"speaker": "賴〇〇, male, 1〇〇〇〇〇〇〇, female, 1〇〇〇〇〇〇〇〇〇〇〇",
 				"collected": "2020-05-30",
 				"sent_num": 11,
 				"marker": {
@@ -5994,7 +5994,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Jess",
 				"type": "Sentence",
-				"speaker": "female, 1961/巴山光, Legeai Padrangedrange, male, 1946",
+				"speaker": "柯〇〇, female, 1〇〇〇〇〇〇〇, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 26,
 				"marker": {
@@ -6012,7 +6012,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "male, 1950",
+				"speaker": "許〇〇, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 24,
 				"marker": {
@@ -6030,7 +6030,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 13,
 				"marker": {
@@ -6048,7 +6048,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-yuki-2",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-29",
 				"sent_num": 28,
 				"marker": {
@@ -6066,7 +6066,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Jimmy-2",
 				"type": "Sentence",
-				"speaker": "male, 1936",
+				"speaker": "宋〇〇, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 14,
 				"marker": {
@@ -6084,7 +6084,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Andrea-1",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-30",
 				"sent_num": 17,
 				"marker": {
@@ -6102,7 +6102,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "male, 1946 /宋文成, Legeay Sukinatimi, male, 1936",
+				"speaker": "巴〇〇, male, 1〇〇〇〇〇〇〇〇, male, 1936",
 				"collected": "2020-05-28",
 				"sent_num": 36,
 				"marker": {
@@ -6120,7 +6120,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-yuki",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-31",
 				"sent_num": 48,
 				"marker": {
@@ -6138,7 +6138,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Andrea-2",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-30",
 				"sent_num": 10,
 				"marker": {
@@ -6156,7 +6156,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ken-2",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 26,
 				"marker": {
@@ -6174,7 +6174,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Jess",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-28",
 				"sent_num": 10,
 				"marker": {
@@ -6192,7 +6192,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-31",
 				"sent_num": 30,
 				"marker": {
@@ -6210,7 +6210,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-yuki-1",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-29",
 				"sent_num": 14,
 				"marker": {
@@ -6228,7 +6228,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-29",
 				"sent_num": 38,
 				"marker": {
@@ -6246,7 +6246,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Jimmy-1",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 21,
 				"marker": {
@@ -6264,7 +6264,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 37,
 				"marker": {
@@ -6282,7 +6282,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ken-2",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 11,
 				"marker": {
@@ -6300,7 +6300,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Lixing-1",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 19,
 				"marker": {
@@ -6318,7 +6318,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Ludwig",
 				"type": "Sentence",
-				"speaker": "female, 1961 / 巴山光, Legeay Parangerange, male, 1946 (標號7後)",
+				"speaker": "柯〇〇, female, 1〇〇〇〇〇〇〇〇〇, male, 1〇〇〇〇〇〇〇〇〇〇",
 				"collected": "2020-05-29",
 				"sent_num": 23,
 				"marker": {
@@ -6336,7 +6336,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Jimmy",
 				"type": "Sentence",
-				"speaker": "male, 1950",
+				"speaker": "許〇〇, male, 1950",
 				"collected": "2020-05-31",
 				"sent_num": 11,
 				"marker": {
@@ -6354,7 +6354,7 @@
 			{
 				"file": "Rukai_Vedai/20200508-CL-7",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-08",
 				"sent_num": 23,
 				"marker": {
@@ -6372,7 +6372,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Andrea-2",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-29",
 				"sent_num": 35,
 				"marker": {
@@ -6390,7 +6390,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Yongfu-1",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 23,
 				"marker": {
@@ -6408,7 +6408,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Lixing-1",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 20,
 				"marker": {
@@ -6426,7 +6426,7 @@
 			{
 				"file": "Rukai_Vedai/20200408-CL-3",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-04-08",
 				"sent_num": 17,
 				"marker": {
@@ -6444,7 +6444,7 @@
 			{
 				"file": "Rukai_Vedai/20200422-CL-5",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-04-22",
 				"sent_num": 19,
 				"marker": {
@@ -6462,7 +6462,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Jess",
 				"type": "Sentence",
-				"speaker": "male, 1936/ 賴天賜, Paludase Aluladen, male, 1959",
+				"speaker": "宋〇〇, male, 1〇〇〇〇〇〇〇〇, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 19,
 				"marker": {
@@ -6480,7 +6480,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Andrea-1",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 9,
 				"marker": {
@@ -6498,7 +6498,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-31",
 				"sent_num": 25,
 				"marker": {
@@ -6516,7 +6516,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-yuki",
 				"type": "Sentence",
-				"speaker": "male, 1950",
+				"speaker": "許〇〇, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 24,
 				"marker": {
@@ -6534,7 +6534,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Yongfu-2",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 16,
 				"marker": {
@@ -6552,7 +6552,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ingrid",
 				"type": "Sentence",
-				"speaker": "female, 1961 / 巴山光, Legeai Padrangedrange, male, 1946",
+				"speaker": "柯〇〇, female, 1〇〇〇〇〇〇〇〇〇, male, 1946",
 				"collected": "2020-05-30",
 				"sent_num": 19,
 				"marker": {
@@ -6570,7 +6570,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-yuki",
 				"type": "Sentence",
-				"speaker": "male/female, 1959/1961",
+				"speaker": "賴〇〇〇〇〇〇, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 16,
 				"marker": {
@@ -6588,7 +6588,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Ken",
 				"type": "Sentence",
-				"speaker": "male, 1946",
+				"speaker": "巴〇〇, male, 1946",
 				"collected": "2020-05-28",
 				"sent_num": 23,
 				"marker": {
@@ -6606,7 +6606,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Lixing",
 				"type": "Sentence",
-				"speaker": "male, 1950",
+				"speaker": "許〇〇, male, 1950",
 				"collected": "2020-05-31",
 				"sent_num": 21,
 				"marker": {
@@ -6624,7 +6624,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ryan",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 46,
 				"marker": {
@@ -6642,7 +6642,7 @@
 			{
 				"file": "Rukai_Vedai/20200415-CL-4",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-04-15",
 				"sent_num": 19,
 				"marker": {
@@ -6660,7 +6660,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Jimmy-1",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-29",
 				"sent_num": 11,
 				"marker": {
@@ -6678,7 +6678,7 @@
 			{
 				"file": "Rukai_Vedai/20200325-CL-2",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-03-25",
 				"sent_num": 23,
 				"marker": {
@@ -6696,7 +6696,7 @@
 			{
 				"file": "Rukai_Vedai/20200531-FW-Yongfu-2",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-31",
 				"sent_num": 16,
 				"marker": {
@@ -6714,7 +6714,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Jimmy-2",
 				"type": "Sentence",
-				"speaker": "male, 1959",
+				"speaker": "賴〇〇, male, 1959",
 				"collected": "2020-05-30",
 				"sent_num": 5,
 				"marker": {
@@ -6732,7 +6732,7 @@
 			{
 				"file": "Rukai_Vedai/20200429-CL-6",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-04-29",
 				"sent_num": 19,
 				"marker": {
@@ -6750,7 +6750,7 @@
 			{
 				"file": "Rukai_Vedai/20200528-FW-Andrea",
 				"type": "Sentence",
-				"speaker": "male, 1950",
+				"speaker": "許〇〇, male, 1950",
 				"collected": "2020-05-28",
 				"sent_num": 19,
 				"marker": {
@@ -6768,7 +6768,7 @@
 			{
 				"file": "Rukai_Vedai/20200318-CL-1",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-03-18",
 				"sent_num": 10,
 				"marker": {
@@ -6786,7 +6786,7 @@
 			{
 				"file": "Rukai_Vedai/20200529-FW-Lixing-2",
 				"type": "Sentence",
-				"speaker": "male, 1936",
+				"speaker": "宋〇〇, male, 1936",
 				"collected": "2020-05-29",
 				"sent_num": 17,
 				"marker": {
@@ -6804,7 +6804,7 @@
 			{
 				"file": "Rukai_Vedai/20200530-FW-Ken-1",
 				"type": "Sentence",
-				"speaker": "female, 1961",
+				"speaker": "柯〇〇, female, 1961",
 				"collected": "2020-05-30",
 				"sent_num": 17,
 				"marker": {
@@ -6850,7 +6850,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-moving_Takun",
 				"type": "Narrative",
-				"speaker": "male, 1946",
+				"speaker": "劉〇〇, male, 1946",
 				"collected": "2011-04-01",
 				"revised": "2014-2-27",
 				"topic": "Moving 1",
@@ -6872,7 +6872,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-hunting2_Buyung",
 				"type": "Narrative",
-				"speaker": "male, 1946",
+				"speaker": "林〇〇, male, 1946",
 				"collected": "2011-04-01",
 				"revised": "2013-1-25",
 				"topic": "Hunting 2",
@@ -6894,7 +6894,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-sowing_Kainu",
 				"type": "Narrative",
-				"speaker": "male, 1941",
+				"speaker": "劉〇〇, male, 1941",
 				"collected": "2011-04-01",
 				"revised": "2013-1-18",
 				"topic": "Sowing",
@@ -6916,7 +6916,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-proposal_Takun",
 				"type": "Narrative",
-				"speaker": "male, 1946",
+				"speaker": "劉〇〇, male, 1946",
 				"collected": "2011-04-01",
 				"revised": "2013-1-18",
 				"topic": "Proposal",
@@ -6938,7 +6938,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-hunting3_Takun",
 				"type": "Narrative",
-				"speaker": "male, 1946",
+				"speaker": "劉〇〇, male, 1946",
 				"collected": "2011-04-01",
 				"revised": "2013-1-17",
 				"topic": "Hunting 3",
@@ -6960,7 +6960,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-dailylife2_Iwan",
 				"type": "Narrative",
-				"speaker": "劉春香, Iwan, female, None",
+				"speaker": "劉〇〇, female",
 				"collected": "2011-04-01",
 				"revised": "2013-1-25",
 				"topic": "Daily Life 2",
@@ -6982,7 +6982,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-dailylife1_Iwan",
 				"type": "Narrative",
-				"speaker": "劉春香, Iwan, female, None",
+				"speaker": "劉〇〇, female",
 				"collected": "2011-04-01",
 				"revised": "2013-1-25",
 				"topic": "Daily Life 1",
@@ -7004,7 +7004,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-hunting1_Kainu",
 				"type": "Narrative",
-				"speaker": "male, 1941",
+				"speaker": "劉〇〇, male, 1941",
 				"collected": "2011-04-01",
 				"revised": "None",
 				"topic": "Hunting 1",
@@ -7026,7 +7026,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-dailylife3_Tauyu",
 				"type": "Narrative",
-				"speaker": "female, 1942",
+				"speaker": "龍〇〇, female, 1942",
 				"collected": "2011-04-01",
 				"revised": "2013-1-25",
 				"topic": "Daily Life 3",
@@ -7048,7 +7048,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-weaving_Kagaw",
 				"type": "Narrative",
-				"speaker": "female, 1935",
+				"speaker": "劉〇〇, female, 1935",
 				"collected": "2011-05-27",
 				"revised": "2014-3-13",
 				"topic": "Weaving",
@@ -7070,7 +7070,7 @@
 			{
 				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu",
 				"type": "Narrative",
-				"speaker": "male, 1941",
+				"speaker": "劉〇〇, male, 1941",
 				"collected": "2011-04-01",
 				"revised": "2014-3-6",
 				"topic": "Moving 2",
@@ -7120,7 +7120,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-home_buya_imuy",
 				"type": "Conversation",
-				"speaker": "female, 1952",
+				"speaker": "潘〇〇, female, 1952",
 				"collected": "2003-06-01",
 				"revised": "2014-1-15",
 				"topic": "Returning Home",
@@ -7142,7 +7142,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_syulan",
 				"type": "Narrative",
-				"speaker": "female, 1957",
+				"speaker": "謝〇〇〇, female, 1957",
 				"collected": "2003-05-30",
 				"revised": "None",
 				"topic": "Pear story",
@@ -7164,7 +7164,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-banana trees_abas_ipay2",
 				"type": "Conversation",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2004-01-01",
 				"revised": "2013-9-18",
 				"topic": "Barking banana trees",
@@ -7186,7 +7186,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-earthquake_abas_haciang",
 				"type": "Conversation",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2005-01-25",
 				"revised": "2014-1-14",
 				"topic": "Earthquake",
@@ -7208,7 +7208,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_buya",
 				"type": "Narrative",
-				"speaker": "male, 1957",
+				"speaker": "謝〇〇, male, 1957",
 				"collected": "2003-05-30",
 				"revised": "None",
 				"topic": "Pear story",
@@ -7230,7 +7230,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-ancestor_ngengi",
 				"type": "Narrative",
-				"speaker": "female, 1941",
+				"speaker": "林〇〇, female, 1941",
 				"collected": "2004-11-03",
 				"revised": "2014-1-16",
 				"topic": "Ancestors",
@@ -7252,7 +7252,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_imuy",
 				"type": "Narrative",
-				"speaker": "female, 1952",
+				"speaker": "潘〇〇, female, 1952",
 				"collected": "2003-05-30",
 				"revised": "None",
 				"topic": "Pear Story",
@@ -7274,7 +7274,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-map_buya",
 				"type": "Narrative",
-				"speaker": "male, 1957",
+				"speaker": "謝〇〇, male, 1957",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Map",
@@ -7296,7 +7296,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_abas",
 				"type": "Narrative",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2003-04-19",
 				"revised": "None",
 				"topic": "Pear story",
@@ -7318,7 +7318,7 @@
 			{
 				"file": "Kavalan_Xinshe/kavCon-speech_buya_syulan",
 				"type": "Conversation",
-				"speaker": "female, 1957",
+				"speaker": "謝〇〇〇, female, 1957",
 				"collected": "2003-06-01",
 				"revised": "2014-1-14",
 				"topic": "Kavalan Speech Contest",
@@ -7340,7 +7340,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_abas",
 				"type": "Narrative",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2005-01-01",
 				"revised": "2014-2-19",
 				"topic": "Frog story",
@@ -7362,7 +7362,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_Haciang",
 				"type": "Narrative",
-				"speaker": "female, 1944",
+				"speaker": "潘〇〇, female, 1944",
 				"collected": "2005-04-01",
 				"revised": "None",
 				"topic": "Frog story",
@@ -7384,7 +7384,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-weaving_abas_ipay3",
 				"type": "Conversation",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2004-01-01",
 				"revised": "2014-1-15",
 				"topic": "Weaving",
@@ -7406,7 +7406,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_api",
 				"type": "Narrative",
-				"speaker": "male, 1927",
+				"speaker": "朱〇〇, male, 1927",
 				"collected": "2003-06-01",
 				"revised": "2013-1-17",
 				"topic": "Pear story",
@@ -7428,7 +7428,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_api2",
 				"type": "Narrative",
-				"speaker": "male, 1927",
+				"speaker": "朱〇〇, male, 1927",
 				"collected": "2004-01-01",
 				"revised": "None",
 				"topic": "Frog story",
@@ -7450,7 +7450,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_imuy2",
 				"type": "Narrative",
-				"speaker": "female, 1952",
+				"speaker": "潘〇〇, female, 1952",
 				"collected": "2003-06-01",
 				"revised": "2013-7-24",
 				"topic": "Frog Story",
@@ -7472,7 +7472,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_banday",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "偕〇〇, male, 1932",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Frog story",
@@ -7494,7 +7494,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_banday",
 				"type": "Narrative",
-				"speaker": "male, 1932",
+				"speaker": "偕〇〇, male, 1932",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Pear story",
@@ -7516,7 +7516,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_buya",
 				"type": "Narrative",
-				"speaker": "male, 1957",
+				"speaker": "謝〇〇, male, 1957",
 				"collected": "2003-05-30",
 				"revised": "None",
 				"topic": "Frog story",
@@ -7538,7 +7538,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_ipay",
 				"type": "Narrative",
-				"speaker": "male, 1931",
+				"speaker": "潘〇〇, male, 1931",
 				"collected": "2003-06-01",
 				"revised": "2013-1-17",
 				"topic": "Pear story",
@@ -7560,7 +7560,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-pear_Haciang",
 				"type": "Narrative",
-				"speaker": "female, 1944",
+				"speaker": "潘〇〇, female, 1944",
 				"collected": "2004-04-01",
 				"revised": "None",
 				"topic": "Pear story",
@@ -7582,7 +7582,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-marriage_abas_pilaw",
 				"type": "Narrative",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2005-12-01",
 				"revised": "2014-1-15",
 				"topic": "Marriage",
@@ -7604,7 +7604,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-angry_pilaw_abas",
 				"type": "Conversation",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2005-12-01",
 				"revised": "2013-9-12",
 				"topic": "Angry",
@@ -7626,7 +7626,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-map_imuy",
 				"type": "Narrative",
-				"speaker": "female, 1952",
+				"speaker": "潘〇〇, female, 1952",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Map",
@@ -7648,7 +7648,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_imuy_longversion",
 				"type": "Narrative",
-				"speaker": "female, 1952",
+				"speaker": "潘〇〇, female, 1952",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Frog story",
@@ -7670,7 +7670,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-map_syulan",
 				"type": "Narrative",
-				"speaker": "female, 1957",
+				"speaker": "謝〇〇〇, female, 1957",
 				"collected": "2003-06-01",
 				"revised": "None",
 				"topic": "Map",
@@ -7692,7 +7692,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavCon-relatives_buya_ngengi",
 				"type": "Conversation",
-				"speaker": "female, 1941",
+				"speaker": "林〇〇, female, 1941",
 				"collected": "2004-11-01",
 				"revised": "2014-1-15",
 				"topic": "Relatives",
@@ -7714,7 +7714,7 @@
 			{
 				"file": "Kavalan_Xinshe/KacCon-Teaching Weaving_abas_ipay",
 				"type": "Conversation",
-				"speaker": "male, 1933",
+				"speaker": "潘〇〇, male, 1933",
 				"collected": "2004-01-01",
 				"revised": "2014-2-10",
 				"topic": "Teaching Weaving",
@@ -7736,7 +7736,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-sea_buya",
 				"type": "Narrative",
-				"speaker": "male, 1957",
+				"speaker": "謝〇〇, male, 1957",
 				"collected": "2004-10-01",
 				"revised": "None",
 				"topic": "Sea",
@@ -7758,7 +7758,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-frog_syulan",
 				"type": "Narrative",
-				"speaker": "female, 1957",
+				"speaker": "謝〇〇〇, female, 1957",
 				"collected": "2003-05-30",
 				"revised": "None",
 				"topic": "Frog story",
@@ -7780,7 +7780,7 @@
 			{
 				"file": "Kavalan_Xinshe/KavNr-ancestor_buya",
 				"type": "Narrative",
-				"speaker": "male, 1957",
+				"speaker": "謝〇〇, male, 1957",
 				"collected": "2004-10-20",
 				"revised": "2014-6-11",
 				"topic": "Ancestors",
