@@ -35,8 +35,10 @@ def main():
                 a_url = r["覆寫音檔網址"].strip()
                 if a_url == "":
                     a_url = r["音檔網址"].strip()
+                elif a_url.lower().startswith("NO_AUDIO"):
+                    a_url = "NO_AUDIO"
                 elif a_url.lower().startswith("ABSENT"):
-                    a_url = "ABSENT"
+                    a_url = "NO_AUDIO"
                 elif a_url.lower().endswith(".mp3") or a_url.lower().endswith(".wav"):
                     a_url = f"{AUDIO_SERVER}/{a_url}"
                 else:
