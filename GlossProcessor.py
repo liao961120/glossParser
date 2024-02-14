@@ -273,6 +273,8 @@ def get_audio_time(free_lines):
 
 def get_audio_url(free_lines):
     for line in free_lines:
+        if line.startswith("#a_url NO_AUDIO"):
+            return None
         if re.match(r'#a_url http', line):
             return line.replace('#a_url ', '')
         if re.match(r'#a_url ', line):
