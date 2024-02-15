@@ -12,7 +12,7 @@ LANG_MAP = {
 }
 DATA_DIR = Data().grammar_files_raw
 OUTDIR = Path("docs/grammar-basicTerms/")
-AUDIO_SERVER = "http://140.112.147.116:8080"
+AUDIO_SERVER = "https://140.112.147.116:8080"
 
 def main():
     if not OUTDIR.exists(): OUTDIR.mkdir(parents=True)
