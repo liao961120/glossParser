@@ -14,7 +14,7 @@ from data import Data
 DATA = Data()
 DOCS_FOLDER_PATH = pathlib.Path(DATA.corpus_files_root)
 PUBLIC_DIR = DATA.public
-AUDIO_SERVER = "//140.112.147.116:8080"
+AUDIO_SERVER = "https://formosanbank.linguistics.ntu.edu.tw/files/audio"
 
 
 def main():
