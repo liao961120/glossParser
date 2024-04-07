@@ -1,15 +1,13 @@
-import os
 import re
-import sys
 import json
 import pathlib
 import logging
 from datetime import datetime
-from urllib.parse import urlparse
 from bs4 import UnicodeDammit
 from utils import get_raw_text_meta
 from tokenizer import align
 from data import Data
+from urllib.parse import quote
 
 DATA = Data()
 DOCS_FOLDER_PATH = pathlib.Path(DATA.corpus_files_root)
@@ -278,7 +276,7 @@ def get_audio_url(free_lines):
         if re.match(r'#a_url http', line):
             return line.replace('#a_url ', '')
         if re.match(r'#a_url ', line):
-            return AUDIO_SERVER + '/' + line.replace('#a_url ', '').strip()
+            return AUDIO_SERVER + '/' + quote(line.replace('#a_url ', '').strip())
             
     return None
 

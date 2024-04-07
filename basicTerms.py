@@ -3,6 +3,7 @@ import csv
 import pylightxl as xl
 from pathlib import Path
 from data import Data
+from urllib.parse import quote
 
 
 LANG_MAP = {
@@ -12,7 +13,7 @@ LANG_MAP = {
 }
 DATA_DIR = Data().grammar_files_raw
 OUTDIR = Path("docs/grammar-basicTerms/")
-AUDIO_SERVER = "//140.112.147.116:8080"
+AUDIO_SERVER = "https://formosanbank.linguistics.ntu.edu.tw/files/audio"
 
 def main():
     if not OUTDIR.exists(): OUTDIR.mkdir(parents=True)
@@ -32,15 +33,11 @@ def main():
                 if r["從語料庫移除"] == "刪除": continue
                 ori = r["族語"]
                 ch = r["中文翻譯"]
-                a_url = r["覆寫音檔網址"].strip()
-                if a_url == "":
-                    a_url = r["音檔網址"].strip()
-                elif a_url.lower().startswith("NO_AUDIO"):
-                    a_url = "NO_AUDIO"
-                elif a_url.lower().startswith("ABSENT"):
+                a_url = r["音檔"].strip()
+                if a_url.upper() in ["", "ABSENT", "NO_AUDIO"]:
                     a_url = "NO_AUDIO"
                 elif a_url.lower().endswith(".mp3") or a_url.lower().endswith(".wav"):
-                    a_url = f"{AUDIO_SERVER}/{a_url}"
+                    a_url = f"{AUDIO_SERVER}/{quote(a_url)}"
                 else:
                     if not a_url.startswith("http"):
                         Warning("Unexpected URL format in `{a_url}` (Line #{i} in {fp.name})")
