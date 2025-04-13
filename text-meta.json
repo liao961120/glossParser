@@ -3162,9 +3162,9 @@
 	"Tsou_Tsou": {
 		"summary": {
 			"story": {
-				"iu_num": 2562,
-				"sent_num": 949,
-				"record_time": 3613.99
+				"iu_num": 2686,
+				"sent_num": 982,
+				"record_time": 3810.66
 			},
 			"sentence": {
 				"sent_num": 0
@@ -3173,15 +3173,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 2159,
-				"NAF": 439,
-				"PF": 666,
+				"AF": 2271,
+				"NAF": 481,
+				"PF": 693,
 				"RF": 0,
 				"IF": 0,
-				"BF": 33,
+				"BF": 34,
 				"CF": 0,
-				"LF": 187,
-				"GEN": 602
+				"LF": 204,
+				"GEN": 643
 			}
 		},
 		"text": [
@@ -3381,6 +3381,28 @@
 					"CF": 0,
 					"LF": 14,
 					"GEN": 39
+				}
+			},
+			{
+				"file": "Tsou_Tsou/TsouNr-pear-zheng-2",
+				"type": "Narrative",
+				"speaker": "鄭〇〇, male",
+				"collected": "None",
+				"revised": "2013-11-18",
+				"topic": "Pear Story 3",
+				"iu_num": 124,
+				"sent_num": 33,
+				"record_time": 196.67,
+				"marker": {
+					"AF": 112,
+					"NAF": 42,
+					"PF": 27,
+					"RF": 0,
+					"IF": 0,
+					"BF": 1,
+					"CF": 0,
+					"LF": 17,
+					"GEN": 41
 				}
 			},
 			{
@@ -6893,26 +6915,26 @@
 	"Seediq_Tgdaya": {
 		"summary": {
 			"story": {
-				"iu_num": 4837,
-				"sent_num": 1613,
-				"record_time": 8860.84
+				"iu_num": 4977,
+				"sent_num": 1653,
+				"record_time": 9126.39
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2797
+				"sent_num": 2837
 			},
 			"marker": {
-				"AF": 2545,
+				"AF": 2600,
 				"NAF": 0,
-				"PF": 616,
-				"RF": 38,
-				"IF": 1,
+				"PF": 625,
+				"RF": 43,
+				"IF": 2,
 				"BF": 0,
 				"CF": 1,
-				"LF": 392,
-				"GEN": 1232
+				"LF": 410,
+				"GEN": 1261
 			}
 		},
 		"text": [
@@ -7269,6 +7291,28 @@
 				}
 			},
 			{
+				"file": "Seediq_Tgdaya/sdqNr-tattoo2_pawan",
+				"type": "Narrative",
+				"speaker": "王〇〇",
+				"collected": "None",
+				"revised": "2008-08-29",
+				"topic": "Tattoo",
+				"iu_num": 21,
+				"sent_num": 15,
+				"record_time": 47.14,
+				"marker": {
+					"AF": 11,
+					"NAF": 0,
+					"PF": 1,
+					"RF": 2,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 6,
+					"GEN": 2
+				}
+			},
+			{
 				"file": "Seediq_Tgdaya/sdqNr-pear_pawan 2020s",
 				"type": "Narrative",
 				"speaker": "錢〇〇, male",
@@ -7398,6 +7442,28 @@
 					"CF": 0,
 					"LF": 11,
 					"GEN": 41
+				}
+			},
+			{
+				"file": "Seediq_Tgdaya/sdqNr-taboo_pawan",
+				"type": "Narrative",
+				"speaker": "錢〇〇",
+				"collected": "None",
+				"revised": "2013-05-28",
+				"topic": "Taboo",
+				"iu_num": 119,
+				"sent_num": 25,
+				"record_time": 218.41,
+				"marker": {
+					"AF": 44,
+					"NAF": 0,
+					"PF": 8,
+					"RF": 3,
+					"IF": 1,
+					"BF": 0,
+					"CF": 0,
+					"LF": 12,
+					"GEN": 27
 				}
 			},
 			{
