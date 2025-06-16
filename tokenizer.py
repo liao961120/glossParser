@@ -31,6 +31,8 @@ def align(ori, en="", ch="", gloss_id=""):
     for i, ori_tk in enumerate(ori):
         if anno_idx == len(en) or anno_idx == len(ch):
             return tokens
+        en_tk = get_arr_val(en, anno_idx, "")
+        ch_tk = get_arr_val(ch, anno_idx, "")
 
         tk = {
             'ori': ori_tk,
@@ -38,14 +40,13 @@ def align(ori, en="", ch="", gloss_id=""):
             'ch': '',
             'is_DM': is_pureDM(ori_tk)
         }
-
         if is_pureDM(ori_tk):
             # Assign if duplicate DM markers in annotaion
-            if en[anno_idx] == ori_tk and ch[anno_idx] == ori_tk:
+            if en_tk == ori_tk and ch_tk == ori_tk:
                 tk['en'], tk['ch'] = '', ''
                 anno_idx += 1
         else:
-            tk['en'], tk['ch'] = en[anno_idx], ch[anno_idx]
+            tk['en'], tk['ch'] = en_tk, ch_tk
             anno_idx += 1
 
         tokens[i] = tk
@@ -62,6 +63,11 @@ def is_pureDM(x):
     if re.match(r'^[^a-z,]+$', x): return True
     else: return False
 
+
+def get_arr_val(arr, idx, default):
+    if idx < len(arr):
+        return arr[idx]
+    return default
 
 
 def replace_backslash(x):
