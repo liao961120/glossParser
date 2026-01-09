@@ -36,11 +36,13 @@ Atayal_Mayrinax/AtaNr-hunting2_Buyung,Atayal_Mayrinax,Narrative,Hunting 2,"林�
 Atayal_Mayrinax/AtaNr-sowing_Kainu,Atayal_Mayrinax,Narrative,Sowing,"劉〇〇, male, 1941",2011-04-01,2013-1-18,NA,167,49,0:08:39
 Atayal_Mayrinax/AtaNr-moving_Takun,Atayal_Mayrinax,Narrative,Moving 1,"劉〇〇, male, 1946",2011-04-01,2014-2-27,NA,180,57,0:07:41
 Atayal_Mayrinax/AtaNr-hunting3_Takun,Atayal_Mayrinax,Narrative,Hunting 3,"劉〇〇, male, 1946",2011-04-01,2013-1-17,NA,116,48,0:06:07
+Atayal_Mayrinax/AtaNr-moving_Kainu ,Atayal_Mayrinax,Narrative,Moving 2,"劉〇〇, male, 1941",2011-04-01,2014-3-6,NA,207,47,0:08:23
 Atayal_Mayrinax/AtaNr-moving_Kainu,Atayal_Mayrinax,Narrative,Moving 2,"劉〇〇, male, 1941",2011-04-01,2014-3-6,NA,207,47,0:08:23
 Atayal_Mayrinax/AtaNr-hunting1_Kainu,Atayal_Mayrinax,Narrative,Hunting 1,"劉〇〇, male, 1941",2011-04-01,NA,NA,122,48,0:05:49
 Atayal_Mayrinax/AtaNr-dailylife3_Tauyu,Atayal_Mayrinax,Narrative,Daily Life 3,"龍〇〇, female, 1942",2011-04-01,2013-1-25,NA,98,46,0:04:48
 Atayal_Mayrinax/AtaNr-dailylife2_Iwan,Atayal_Mayrinax,Narrative,Daily Life 2,"劉〇〇, female",2011-04-01,2013-1-25,NA,43,9,0:01:24
 Atayal_Mayrinax/AtaNr-weaving_Kagaw,Atayal_Mayrinax,Narrative,Weaving,"劉〇〇, female, 1935",2011-05-27,2014-3-13,NA,152,103,0:10:10
+Atayal_Mayrinax/AtaNr-hunting3_Takun ,Atayal_Mayrinax,Narrative,Hunting 3,"劉〇〇, male, 1946",2011-04-01,2013-1-17,NA,116,48,0:06:07
 Kanakanavu_Kanakanavu/kkvNr-fishing_Muu,Kanakanavu_Kanakanavu,Narrative,fishing,"翁〇, male, 1932",2012-12-08,2017-6-6,NA,497,161,0:16:01
 Kanakanavu_Kanakanavu/kkvNr_sowing_Paicu,Kanakanavu_Kanakanavu,Narrative,sowing,"翁〇〇〇, female, 1939",2012-07-18,2017-6-6,NA,83,45,0:05:36
 Kanakanavu_Kanakanavu/kkvNr_sad_song_Muu,Kanakanavu_Kanakanavu,Narrative,a sad song,"翁〇, male, 1932",0000-00-00,2017-6-6,NA,15,12,0:01:54
@@ -53,7 +55,7 @@ Kanakanavu_Kanakanavu/kkvNr_life_Kuatu,Kanakanavu_Kanakanavu,Narrative,life,"蕭
 Kanakanavu_Kanakanavu/kkvNr_sowing_Kuatu,Kanakanavu_Kanakanavu,Narrative,sowing,"蕭〇〇〇, female, 1941",2008-05-31,2017-6-6,NA,62,16,0:02:55
 Kanakanavu_Kanakanavu/kkvNr_hunting1_Muu,Kanakanavu_Kanakanavu,Narrative,hunting1,"翁〇, male, 1947",00:10:27,2017-6-6,NA,118,64,0:10:21
 Kanakanavu_Kanakanavu/kkvNr_the man from china_Pani,Kanakanavu_Kanakanavu,Narrative,The man from China_Pani,"孔〇〇, male, 1951",00:10:43,NA,NA,268,53,0:10:38
-Kanakanavu_Kanakanavu/kkvNr-frogstory_angai,Kanakanavu_Kanakanavu,Narrative,Frog story,"翁〇〇, male, 1953",13:57,2015-9-2,NA,399,76,0:13:54
+Kanakanavu_Kanakanavu/kkvNr-frogstory_angai,Kanakanavu_Kanakanavu,Narrative,Frog story,"翁〇〇, male, 1953",13:57,2015-9-2,NA,400,76,0:13:54
 Kanakanavu_Kanakanavu/kkvNr-story_pani,Kanakanavu_Kanakanavu,Narrative,Story,"孔〇〇, male, 1951",00:10:14,2017-7-24,NA,144,70,0:10:13
 Kanakanavu_Kanakanavu/kkvNr_frog_Uva,Kanakanavu_Kanakanavu,Narrative,Frog story,"孔〇〇, male, 1951",NA,2016-5-24,NA,153,81,0:07:48
 Kanakanavu_Kanakanavu/kkvNr_mikon_Kuatu,Kanakanavu_Kanakanavu,Narrative,mikon,"蕭〇〇〇, female, 1941",2012-05-31,2017-6-6,NA,33,11,0:02:13
@@ -98,105 +100,105 @@ Bunun_Isbukun/bnNr-pear_Hanaivaz,Bunun_Isbukun,Narrative,pear_Hanaivaz,"顏〇�
 Bunun_Isbukun/bnNr-frog_Talum,Bunun_Isbukun,Narrative,forg_Talum,"顏〇〇, 1958",2017-01-03,NA,NA,116,46,0:04:28
 Bunun_Isbukun/10,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-02,NA,NA,0,4,0:00:00
 Bunun_Isbukun/10-6,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-05,NA,NA,0,11,0:00:00
-Bunun_Isbukun/54,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-04-28,NA,NA,0,29,0:00:00
+Bunun_Isbukun/59_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,16,0:00:00
 Bunun_Isbukun/22,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,7,0:00:00
-Bunun_Isbukun/30,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-05,2016-06-08,NA,0,8,0:00:00
 Bunun_Isbukun/56,Bunun_Isbukun,Sentence,NA,"顏, 1944",2016-06-2,NA,NA,0,19,0:00:00
 Bunun_Isbukun/45,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-05,NA,NA,0,4,0:00:00
+Bunun_Isbukun/61_revised,Bunun_Isbukun,Sentence,NA,"顏, 1944",2016-06-05,NA,NA,0,10,0:00:00
 Bunun_Isbukun/32,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,11,0:00:00
-Bunun_Isbukun/55,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-05-24,NA,NA,0,36,0:00:00
+Bunun_Isbukun/53_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-03-22,NA,NA,0,15,0:00:00
+Bunun_Isbukun/14_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,8,0:00:00
 Bunun_Isbukun/42,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,7,0:00:00
-Bunun_Isbukun/11,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,10,0:00:00
+Bunun_Isbukun/03-3_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,14,0:00:00
+Bunun_Isbukun/13_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1943",2016-06-03,NA,NA,0,17,0:00:00
 Bunun_Isbukun/19,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,5,0:00:00
-Bunun_Isbukun/10-2,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,12,0:00:00
+Bunun_Isbukun/49_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-05-03,NA,NA,0,11,0:00:00
+Bunun_Isbukun/62_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,43,0:00:00
+Bunun_Isbukun/01-3_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,15,0:00:00
+Bunun_Isbukun/03-6_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-05,NA,NA,0,10,0:00:00
 Bunun_Isbukun/03-2,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,14,0:00:00
 Bunun_Isbukun/10-7,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-06,NA,NA,0,4,0:00:00
-Bunun_Isbukun/03-6,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-05,NA,NA,0,10,0:00:00
 Bunun_Isbukun/15,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,11,0:00:00
-Bunun_Isbukun/26,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,11,0:00:00
 Bunun_Isbukun/31,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,12,0:00:00
-Bunun_Isbukun/17,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-06,NA,NA,0,31,0:00:00
-Bunun_Isbukun/13,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1943",2016-06-03,NA,NA,0,17,0:00:00
+Bunun_Isbukun/01-5_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-05,NA,NA,0,10,0:00:00
 Bunun_Isbukun/38,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-06,NA,NA,0,6,0:00:00
 Bunun_Isbukun/03-7,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,23,0:00:00
-Bunun_Isbukun/18,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,7,0:00:00
-Bunun_Isbukun/47,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-03-01,NA,NA,0,15,0:00:00
-Bunun_Isbukun/33,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,5,0:00:00
+Bunun_Isbukun/55_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-05-24,NA,NA,0,36,0:00:00
+Bunun_Isbukun/10-2_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,12,0:00:00
+Bunun_Isbukun/52_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-05-10,NA,NA,0,17,0:00:00
 Bunun_Isbukun/01-1,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,11,0:00:00
 Bunun_Isbukun/06,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1943",2016-06-03,NA,NA,0,8,0:00:00
-Bunun_Isbukun/57,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,29,0:00:00
-Bunun_Isbukun/05,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,12,0:00:00
-Bunun_Isbukun/60,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,21,0:00:00
-Bunun_Isbukun/64,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,74,0:00:00
-Bunun_Isbukun/62,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,43,0:00:00
-Bunun_Isbukun/03-5,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,14,0:00:00
-Bunun_Isbukun/63,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,920,0:00:00
-Bunun_Isbukun/01-3,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,15,0:00:00
-Bunun_Isbukun/52,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-05-10,NA,NA,0,17,0:00:00
-Bunun_Isbukun/59,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,16,0:00:00
-Bunun_Isbukun/24,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,11,0:00:00
+Bunun_Isbukun/30_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-05,2016-06-08,NA,0,8,0:00:00
+Bunun_Isbukun/20_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,15,0:00:00
+Bunun_Isbukun/24_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,11,0:00:00
 Bunun_Isbukun/43,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,9,0:00:00
 Bunun_Isbukun/23,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-05,NA,NA,0,7,0:00:00
+Bunun_Isbukun/37_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-05,NA,NA,0,10,0:00:00
 Bunun_Isbukun/10-5,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,9,0:00:00
-Bunun_Isbukun/61,Bunun_Isbukun,Sentence,NA,"顏, 1944",2016-06-05,NA,NA,0,10,0:00:00
-Bunun_Isbukun/01-2,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,6,0:00:00
+Bunun_Isbukun/17_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-06,NA,NA,0,31,0:00:00
+Bunun_Isbukun/11_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,10,0:00:00
 Bunun_Isbukun/03-4,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,18,0:00:00
 Bunun_Isbukun/39,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,66,0:00:00
+Bunun_Isbukun/60_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,21,0:00:00
 Bunun_Isbukun/01-4,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,12,0:00:00
 Bunun_Isbukun/09,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-05,NA,NA,0,8,0:00:00
 Bunun_Isbukun/27,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,5,0:00:00
-Bunun_Isbukun/29,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,9,0:00:00
+Bunun_Isbukun/50_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-03-05,NA,NA,0,19,0:00:00
+Bunun_Isbukun/03_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-02,NA,NA,0,6,0:00:00
+Bunun_Isbukun/46_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,12,0:00:00
+Bunun_Isbukun/54_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-04-28,NA,NA,0,29,0:00:00
+Bunun_Isbukun/18_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,7,0:00:00
 Bunun_Isbukun/28,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,2016-06-05,NA,0,13,0:00:00
-Bunun_Isbukun/50,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-03-05,NA,NA,0,19,0:00:00
+Bunun_Isbukun/63_revised,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,920,0:00:00
 Bunun_Isbukun/40,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-02,NA,NA,0,7,0:00:00
-Bunun_Isbukun/03-3,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,14,0:00:00
-Bunun_Isbukun/20,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,15,0:00:00
-Bunun_Isbukun/01-5,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-05,NA,NA,0,10,0:00:00
-Bunun_Isbukun/51,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-04-19,NA,NA,0,22,0:00:00
-Bunun_Isbukun/46,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-06,NA,NA,0,12,0:00:00
+Bunun_Isbukun/04_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,8,0:00:00
 Bunun_Isbukun/35,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,4,0:00:00
 Bunun_Isbukun/44,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,3,0:00:00
 Bunun_Isbukun/41,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,2016-07-28,NA,0,9,0:00:00
-Bunun_Isbukun/02,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,30,0:00:00
 Bunun_Isbukun/21,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,5,0:00:00
-Bunun_Isbukun/53,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-03-22,NA,NA,0,15,0:00:00
-Bunun_Isbukun/34,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,17,0:00:00
-Bunun_Isbukun/04,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-02,NA,NA,0,8,0:00:00
-Bunun_Isbukun/49,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-05-03,NA,NA,0,11,0:00:00
+Bunun_Isbukun/05_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,12,0:00:00
+Bunun_Isbukun/57_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,29,0:00:00
+Bunun_Isbukun/03-5_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,14,0:00:00
 Bunun_Isbukun/07,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,5,0:00:00
-Bunun_Isbukun/48,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-04-12,NA,NA,0,23,0:00:00
-Bunun_Isbukun/14,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,8,0:00:00
+Bunun_Isbukun/64_revised,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,74,0:00:00
+Bunun_Isbukun/10-3_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,14,0:00:00
+Bunun_Isbukun/51_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-04-19,NA,NA,0,22,0:00:00
 Bunun_Isbukun/25,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-02,NA,NA,0,6,0:00:00
 Bunun_Isbukun/08,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,4,0:00:00
 Bunun_Isbukun/36,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-04,NA,NA,0,16,0:00:00
-Bunun_Isbukun/03,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-02,NA,NA,0,6,0:00:00
-Bunun_Isbukun/10-3,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,14,0:00:00
+Bunun_Isbukun/02_revised,Bunun_Isbukun,Sentence,NA,NA,NA,NA,NA,0,30,0:00:00
+Bunun_Isbukun/47_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-03-01,NA,NA,0,15,0:00:00
+Bunun_Isbukun/01-2_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,6,0:00:00
 Bunun_Isbukun/01,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-02,NA,NA,0,8,0:00:00
+Bunun_Isbukun/29_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,9,0:00:00
+Bunun_Isbukun/34_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,17,0:00:00
 Bunun_Isbukun/10-4,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-04,NA,NA,0,5,0:00:00
-Bunun_Isbukun/12,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,17,0:00:00
-Bunun_Isbukun/37,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-05,NA,NA,0,10,0:00:00
-Bunun_Isbukun/16,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-05,NA,NA,0,17,0:00:00
-Rukai_Vedai/RukaiNr-swing_taugadhu,Rukai_Vedai,Narrative,Swing,"杜〇, male, 1943",2009-08-06,NA,NA,232,78,0:08:49
-Rukai_Vedai/RukaiNr-marriage ceremony_taugadha,Rukai_Vedai,Narrative,Marriage Ceremony,"杜〇, male, 1943",2009-08-06,NA,NA,276,94,0:11:57
+Bunun_Isbukun/26_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-03,NA,NA,0,11,0:00:00
+Bunun_Isbukun/48_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-04-12,NA,NA,0,23,0:00:00
+Bunun_Isbukun/12_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1950",2016-06-03,NA,NA,0,17,0:00:00
+Bunun_Isbukun/33_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1944",2016-06-03,NA,NA,0,5,0:00:00
+Bunun_Isbukun/16_revised,Bunun_Isbukun,Sentence,NA,"顏〇〇, 1958",2016-06-05,NA,NA,0,17,0:00:00
+Rukai_Vedai/RukaiNr-childhood_balenge_edited,Rukai_Vedai,Narrative,Childhood,"潘〇〇〇, 1961",2011-8-11,2014-3-13,NA,184,69,0:07:16
 Rukai_Vedai/RukaiNr-frog_Tuku,Rukai_Vedai,Narrative,Frog story,"柯〇〇, 1948",2022-02-12,NA,NA,159,68,0:00:00
-Rukai_Vedai/RukaiNr-childhood_balenge,Rukai_Vedai,Narrative,Childhood,"潘〇〇〇, 1961",2011-8-11,2014-3-13,NA,184,69,0:07:16
+Rukai_Vedai/RukaiNr-swing_taugadhu_edited,Rukai_Vedai,Narrative,Swing,"杜〇, male, 1943",2009-08-06,NA,NA,232,78,0:08:49
+Rukai_Vedai/RukaiNr-princess balenge_balenge_edited,Rukai_Vedai,Narrative,Princess Balenge,"潘〇〇〇, female, 1961",2009-08-06,2014-3-27,NA,213,86,0:08:03
 Rukai_Vedai/RukaiNr-pear_tagas,Rukai_Vedai,Narrative,Pear story,"沙〇〇, male, 1938",2010-01-15,NA,NA,42,13,0:01:48
 Rukai_Vedai/RukaiNr-frog_Baqingyi,Rukai_Vedai,Narrative,Frog story,巴〇〇,NA,2021-04-08,NA,69,37,0:00:00
-Rukai_Vedai/RukaiNr-frog_Waecacane,Rukai_Vedai,Narrative,Frog story,"杜〇〇, 1951",2022-02-12,NA,NA,97,40,0:00:00
-Rukai_Vedai/RukaiNr-pear_Legeai,Rukai_Vedai,Narrative,Pear story,"巴〇〇, male",2010-01-14,NA,NA,102,39,0:04:17
-Rukai_Vedai/RukaiNr-ghost lake_Balenge,Rukai_Vedai,Narrative,Ghost lake,"潘〇〇〇, female, 1961",2011-8-19,2014-3-27,NA,72,24,0:02:48
-Rukai_Vedai/RukaiNr-becenge_tagas,Rukai_Vedai,Narrative,Millet,"沙〇〇, 1938",2009-08-07,2013-1-21,NA,65,24,0:02:26
+Rukai_Vedai/RukaiNr-naming_taugadhu_edited,Rukai_Vedai,Narrative,Naming,"杜〇, male, 1943",2010-01-14,NA,NA,314,63,0:13:00
+Rukai_Vedai/RukaiNr-frog_Waecacane_edited,Rukai_Vedai,Narrative,Frog story,"杜〇〇, 1951",2022-02-12,NA,NA,97,40,0:00:00
 Rukai_Vedai/RukaiNr-pear_Kainguane,Rukai_Vedai,Narrative,Pear story,王〇〇,2009-05-11,NA,NA,69,69,0:00:00
-Rukai_Vedai/RukaiNr-work by men and women_taugadhu,Rukai_Vedai,Narrative,Work by Men and Women,"杜〇, male, 1943",2009-08-07,NA,NA,241,99,0:07:52
+Rukai_Vedai/RukaiNr-pear_Legeai_edited,Rukai_Vedai,Narrative,Pear story,"巴〇〇, male",2010-01-14,NA,NA,102,39,0:04:17
 Rukai_Vedai/RukaiNr-frog_Legeai,Rukai_Vedai,Narrative,Frog story,"巴〇〇, male",2010-01-14,2013-1-17,NA,181,55,0:06:15
+Rukai_Vedai/RukaiNr-work by men and women_taugadhu_edited,Rukai_Vedai,Narrative,Work by Men and Women,"杜〇, male, 1943",2009-08-07,NA,NA,241,99,0:07:52
 Rukai_Vedai/RukaiNr-pear_ba ching-i,Rukai_Vedai,Narrative,Pear story,"巴〇〇, male",2004-04-22,2013-3-7,NA,37,19,0:01:52
 Rukai_Vedai/RukaiNr-frog_salrabu,Rukai_Vedai,Narrative,Frog story,"柯〇〇, male, 1938",2004-04-22,2013-1-17,NA,146,42,0:06:25
 Rukai_Vedai/RukaiNr-pear_wauki,Rukai_Vedai,Narrative,Pear story,"何〇〇, male, 1933",2009-05-25,2013-3-14,NA,71,34,0:02:55
+Rukai_Vedai/RukaiNr-becenge_tagas_edited,Rukai_Vedai,Narrative,Millet,"沙〇〇, 1938",2009-08-07,2013-1-21,NA,65,24,0:02:26
 Rukai_Vedai/RukaiNr-pear_salrabu,Rukai_Vedai,Narrative,Pear story,"柯〇〇, male, 1938",2004-04-22,NA,NA,59,23,0:03:12
 Rukai_Vedai/RukaiNr-frog_Kainguane,Rukai_Vedai,Narrative,Frog Story,王〇〇,2009-05-05,2013-1-17,NA,228,86,0:08:44
-Rukai_Vedai/RukaiNr-princess balenge_balenge,Rukai_Vedai,Narrative,Princess Balenge,"潘〇〇〇, female, 1961",2009-08-06,2014-3-27,NA,213,86,0:08:03
+Rukai_Vedai/RukaiNr-ghost lake_Balenge_edited,Rukai_Vedai,Narrative,Ghost lake,"潘〇〇〇, female, 1961",2011-8-19,2014-3-27,NA,72,24,0:02:48
+Rukai_Vedai/RukaiNr-marriage ceremony_taugadha_edited,Rukai_Vedai,Narrative,Marriage Ceremony,"杜〇, male, 1943",2009-08-06,NA,NA,276,94,0:11:57
 Rukai_Vedai/RukaiNr-frog_Bajiaying,Rukai_Vedai,Narrative,Frog story,巴〇〇,2009-05-05,2009-06-01,NA,69,69,0:00:00
-Rukai_Vedai/RukaiNr-naming_taugadhu,Rukai_Vedai,Narrative,Naming,"杜〇, male, 1943",2010-01-14,NA,NA,314,63,0:13:00
 Rukai_Vedai/RukaiNr-pear_Balenge,Rukai_Vedai,Narrative,Pear story,"潘〇〇〇, female, 1961",2009-08-06,NA,NA,143,32,0:04:46
 Rukai_Vedai/20200529-FW-Jimmy-1,Rukai_Vedai,Sentence,NA,"賴〇〇, male, 1959",2020-05-29,NA,NA,0,11,0:00:00
 Rukai_Vedai/20200528-FW-Ryan,Rukai_Vedai,Sentence,NA,"許〇〇, male, 1950",2020-05-28,NA,NA,0,24,0:00:00
@@ -293,7 +295,7 @@ Seediq_Tgdaya/sdqCon-dialog3_robo_bakan 2021s,Seediq_Tgdaya,Conversation,sdqCon-
 Seediq_Tgdaya/sdqCon-dialog5_dakis_takun 2020s,Seediq_Tgdaya,Conversation,sdqCon-dialog5_dakis_takun,"邱〇〇, male, 1952",NA,2021-06-01,NA,303,129,0:06:58
 Seediq_Tgdaya/sdqNr-sinobale_uma 2021s,Seediq_Tgdaya,Narrative,sinobale,"邱〇〇〇, female, 1932",1997-04-04,2021-06-01,NA,32,21,0:00:59
 Seediq_Tgdaya/sdqNr-seediq_dakis 2020s,Seediq_Tgdaya,Narrative,seediq,"郭〇〇, male, 1953",NA,NA,NA,136,41,0:03:35
-Seediq_Tgdaya/sdqNr-sisin_dakis 2020s,Seediq_Tgdaya,Narrative,sisin,"郭〇〇, male, 1953",2009-09-17,2021-06-01,NA,574,133,0:15:56
+Seediq_Tgdaya/sdqNr-sisin_dakis 2020s,Seediq_Tgdaya,Narrative,sisin,"郭〇〇, male, 1953",2009-09-17,2021-06-01,NA,574,132,0:15:56
 Seediq_Tgdaya/sdqCon-dialog4_robo_bakan_ape 2020s,Seediq_Tgdaya,Conversation,sdqCon-dialog4_robo_bakan_ape,"曾〇〇, female, 1928",NA,2021-06-01,NA,143,53,0:03:31
 Seediq_Tgdaya/sdqCon-dialog1_ciwas_tiwas 2021s,Seediq_Tgdaya,Conversation,sdqCon-dialog1_ciwas_tiwas,"蔡〇〇, female, 1915",1991-08-09,2021-06-01,NA,316,165,0:07:49
 Seediq_Tgdaya/sdqNr-tradition_dakis 2021s,Seediq_Tgdaya,Narrative,tradition,"郭〇〇, male, 1953",NA,2021-06-01,NA,232,68,0:05:32
@@ -358,7 +360,7 @@ Kavalan_Xinshe/KavNr-pear_api,Kavalan_Xinshe,Narrative,Pear story,"朱〇〇, ma
 Kavalan_Xinshe/KavNr-frog_Haciang,Kavalan_Xinshe,Narrative,Frog story,"潘〇〇, female, 1944",2005-04-01,NA,NA,214,115,0:05:02
 Kavalan_Xinshe/KavNr-frog_api2,Kavalan_Xinshe,Narrative,Frog story,"朱〇〇, male, 1927",2004-01-01,NA,NA,395,158,0:10:40
 Kavalan_Xinshe/KavNr-frog_abas,Kavalan_Xinshe,Narrative,Frog story,"潘〇〇, male, 1933",2005-01-01,2014-2-19,NA,139,82,0:11:00
-Kavalan_Xinshe/KavCon-earthquake_abas_haciang,Kavalan_Xinshe,Conversation,Earthquake,"潘〇〇, male, 1933",2005-01-25,2014-1-14,NA,994,313,0:17:36
+Kavalan_Xinshe/KavCon-earthquake_abas_haciang,Kavalan_Xinshe,Conversation,Earthquake,"潘〇〇, male, 1933",2005-01-25,2014-1-14,NA,995,313,0:17:36
 Kavalan_Xinshe/KavNr-frog_imuy2,Kavalan_Xinshe,Narrative,Frog Story,"潘〇〇, female, 1952",2003-06-01,2013-7-24,NA,245,53,0:05:49
 Saisiyat_Tong-he/SaiNr-frog2_waon a boong,Saisiyat_Tong-he,Narrative,frog2,"風〇〇, female, 1943",2003-01-01,NA,NA,92,47,0:03:33
 Saisiyat_Tong-he/SaiNr-frog5__awi_ a basi_,Saisiyat_Tong-he,Narrative,frog5,"日〇〇, male, 1945",2003-01-01,NA,NA,279,92,0:09:47

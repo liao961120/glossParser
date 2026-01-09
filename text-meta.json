@@ -437,15 +437,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 2278,
+				"AF": 2277,
 				"NAF": 481,
-				"PF": 696,
+				"PF": 694,
 				"RF": 0,
 				"IF": 0,
 				"BF": 35,
 				"CF": 0,
 				"LF": 204,
-				"GEN": 643
+				"GEN": 644
 			}
 		},
 		"text": [
@@ -506,7 +506,7 @@
 				"marker": {
 					"AF": 488,
 					"NAF": 50,
-					"PF": 122,
+					"PF": 121,
 					"RF": 0,
 					"IF": 0,
 					"BF": 6,
@@ -570,15 +570,15 @@
 				"sent_num": 295,
 				"record_time": 1034.22,
 				"marker": {
-					"AF": 540,
-					"NAF": 60,
-					"PF": 145,
+					"AF": 542,
+					"NAF": 59,
+					"PF": 144,
 					"RF": 0,
 					"IF": 0,
 					"BF": 6,
 					"CF": 0,
 					"LF": 20,
-					"GEN": 103
+					"GEN": 102
 				}
 			},
 			{
@@ -614,7 +614,7 @@
 				"sent_num": 29,
 				"record_time": 161.99,
 				"marker": {
-					"AF": 102,
+					"AF": 101,
 					"NAF": 17,
 					"PF": 24,
 					"RF": 0,
@@ -636,7 +636,7 @@
 				"sent_num": 69,
 				"record_time": 636.43,
 				"marker": {
-					"AF": 212,
+					"AF": 211,
 					"NAF": 62,
 					"PF": 112,
 					"RF": 0,
@@ -688,7 +688,7 @@
 					"BF": 1,
 					"CF": 0,
 					"LF": 17,
-					"GEN": 41
+					"GEN": 42
 				}
 			},
 			{
@@ -724,15 +724,15 @@
 				"sent_num": 40,
 				"record_time": 234.41,
 				"marker": {
-					"AF": 94,
-					"NAF": 28,
+					"AF": 93,
+					"NAF": 29,
 					"PF": 28,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 8,
-					"GEN": 26
+					"GEN": 27
 				}
 			}
 		]
@@ -740,9 +740,9 @@
 	"Atayal_Mayrinax": {
 		"summary": {
 			"story": {
-				"iu_num": 1399,
-				"sent_num": 488,
-				"record_time": 4043.28
+				"iu_num": 1722,
+				"sent_num": 583,
+				"record_time": 4914.21
 			},
 			"sentence": {
 				"sent_num": 0
@@ -751,15 +751,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 525,
-				"NAF": 4,
-				"PF": 236,
+				"AF": 649,
+				"NAF": 7,
+				"PF": 285,
 				"RF": 0,
-				"IF": 15,
-				"BF": 17,
+				"IF": 17,
+				"BF": 23,
 				"CF": 0,
-				"LF": 138,
-				"GEN": 422
+				"LF": 169,
+				"GEN": 535
 			}
 		},
 		"text": [
@@ -818,7 +818,7 @@
 				"sent_num": 20,
 				"record_time": 193.39,
 				"marker": {
-					"AF": 31,
+					"AF": 33,
 					"NAF": 0,
 					"PF": 13,
 					"RF": 0,
@@ -896,6 +896,28 @@
 				}
 			},
 			{
+				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu ",
+				"type": "Narrative",
+				"speaker": "劉〇〇, male, 1941",
+				"collected": "2011-04-01",
+				"revised": "2014-3-6",
+				"topic": "Moving 2",
+				"iu_num": 207,
+				"sent_num": 47,
+				"record_time": 503.15,
+				"marker": {
+					"AF": 67,
+					"NAF": 0,
+					"PF": 23,
+					"RF": 0,
+					"IF": 2,
+					"BF": 0,
+					"CF": 0,
+					"LF": 19,
+					"GEN": 53
+				}
+			},
+			{
 				"file": "Atayal_Mayrinax/AtaNr-moving_Kainu",
 				"type": "Narrative",
 				"speaker": "劉〇〇, male, 1941",
@@ -950,7 +972,7 @@
 				"sent_num": 46,
 				"record_time": 288.24,
 				"marker": {
-					"AF": 26,
+					"AF": 27,
 					"NAF": 0,
 					"PF": 5,
 					"RF": 0,
@@ -994,15 +1016,37 @@
 				"sent_num": 103,
 				"record_time": 610.53,
 				"marker": {
-					"AF": 75,
+					"AF": 74,
 					"NAF": 0,
 					"PF": 37,
 					"RF": 0,
 					"IF": 0,
 					"BF": 2,
 					"CF": 0,
-					"LF": 20,
+					"LF": 21,
 					"GEN": 41
+				}
+			},
+			{
+				"file": "Atayal_Mayrinax/AtaNr-hunting3_Takun ",
+				"type": "Narrative",
+				"speaker": "劉〇〇, male, 1946",
+				"collected": "2011-04-01",
+				"revised": "2013-1-17",
+				"topic": "Hunting 3",
+				"iu_num": 116,
+				"sent_num": 48,
+				"record_time": 367.78,
+				"marker": {
+					"AF": 55,
+					"NAF": 3,
+					"PF": 26,
+					"RF": 0,
+					"IF": 0,
+					"BF": 6,
+					"CF": 0,
+					"LF": 11,
+					"GEN": 60
 				}
 			}
 		]
@@ -1010,7 +1054,7 @@
 	"Kanakanavu_Kanakanavu": {
 		"summary": {
 			"story": {
-				"iu_num": 3476,
+				"iu_num": 3477,
 				"sent_num": 1087,
 				"record_time": 8689.82
 			},
@@ -1021,15 +1065,15 @@
 				"sent_num": 3914
 			},
 			"marker": {
-				"AF": 959,
+				"AF": 963,
 				"NAF": 0,
-				"PF": 170,
+				"PF": 172,
 				"RF": 3,
 				"IF": 20,
 				"BF": 0,
 				"CF": 1,
 				"LF": 3,
-				"GEN": 307
+				"GEN": 309
 			}
 		},
 		"text": [
@@ -1066,7 +1110,7 @@
 				"sent_num": 45,
 				"record_time": 336.42,
 				"marker": {
-					"AF": 51,
+					"AF": 50,
 					"NAF": 0,
 					"PF": 4,
 					"RF": 0,
@@ -1154,15 +1198,15 @@
 				"sent_num": 49,
 				"record_time": 682.97,
 				"marker": {
-					"AF": 108,
+					"AF": 109,
 					"NAF": 0,
-					"PF": 21,
+					"PF": 22,
 					"RF": 1,
 					"IF": 1,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 3
+					"GEN": 4
 				}
 			},
 			{
@@ -1220,7 +1264,7 @@
 				"sent_num": 29,
 				"record_time": 261.34,
 				"marker": {
-					"AF": 33,
+					"AF": 34,
 					"NAF": 0,
 					"PF": 7,
 					"RF": 0,
@@ -1266,7 +1310,7 @@
 				"marker": {
 					"AF": 71,
 					"NAF": 0,
-					"PF": 19,
+					"PF": 20,
 					"RF": 0,
 					"IF": 1,
 					"BF": 0,
@@ -1304,11 +1348,11 @@
 				"collected": "13:57",
 				"revised": "2015-9-2",
 				"topic": "Frog story",
-				"iu_num": 399,
+				"iu_num": 400,
 				"sent_num": 76,
 				"record_time": 834.56,
 				"marker": {
-					"AF": 134,
+					"AF": 135,
 					"NAF": 0,
 					"PF": 15,
 					"RF": 0,
@@ -1338,7 +1382,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 17
+					"GEN": 18
 				}
 			},
 			{
@@ -1352,7 +1396,7 @@
 				"sent_num": 81,
 				"record_time": 468.98,
 				"marker": {
-					"AF": 69,
+					"AF": 70,
 					"NAF": 0,
 					"PF": 9,
 					"RF": 0,
@@ -1360,7 +1404,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 38
+					"GEN": 37
 				}
 			},
 			{
@@ -1418,7 +1462,7 @@
 				"sent_num": 144,
 				"record_time": 852.28,
 				"marker": {
-					"AF": 126,
+					"AF": 127,
 					"NAF": 0,
 					"PF": 32,
 					"RF": 0,
@@ -1426,7 +1470,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 1,
-					"GEN": 47
+					"GEN": 48
 				}
 			},
 			{
@@ -1863,9 +1907,9 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 756,
+				"AF": 757,
 				"NAF": 0,
-				"PF": 251,
+				"PF": 252,
 				"RF": 0,
 				"IF": 46,
 				"BF": 0,
@@ -1954,7 +1998,7 @@
 				"marker": {
 					"AF": 73,
 					"NAF": 0,
-					"PF": 19,
+					"PF": 20,
 					"RF": 0,
 					"IF": 3,
 					"BF": 0,
@@ -2018,7 +2062,7 @@
 				"sent_num": 49,
 				"record_time": 377.09,
 				"marker": {
-					"AF": 32,
+					"AF": 33,
 					"NAF": 0,
 					"PF": 24,
 					"RF": 0,
@@ -2197,11 +2241,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/54",
+				"file": "Bunun_Isbukun/59_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-04-28",
-				"sent_num": 29,
+				"collected": "2016-06-04",
+				"sent_num": 16,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2220,25 +2264,6 @@
 				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
 				"sent_num": 7,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/30",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1944",
-				"collected": "2016-06-05",
-				"revised": "2016-06-08",
-				"sent_num": 8,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2288,6 +2313,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/61_revised",
+				"type": "Sentence",
+				"speaker": "顏, 1944",
+				"collected": "2016-06-05",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/32",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1958",
@@ -2306,11 +2349,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/55",
+				"file": "Bunun_Isbukun/53_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-05-24",
-				"sent_num": 36,
+				"collected": "2016-03-22",
+				"sent_num": 15,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/14_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-06-04",
+				"sent_num": 8,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2342,11 +2403,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/11",
+				"file": "Bunun_Isbukun/03-3_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-02",
-				"sent_num": 10,
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-06-03",
+				"sent_num": 14,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/13_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1943",
+				"collected": "2016-06-03",
+				"sent_num": 17,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2378,11 +2457,65 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/10-2",
+				"file": "Bunun_Isbukun/49_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-05-03",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/62_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-06",
+				"sent_num": 43,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/01-3_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-04",
+				"sent_num": 15,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/03-6_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1944",
-				"collected": "2016-06-03",
-				"sent_num": 12,
+				"collected": "2016-06-05",
+				"sent_num": 10,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2432,46 +2565,10 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/03-6",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1944",
-				"collected": "2016-06-05",
-				"sent_num": 10,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
 				"file": "Bunun_Isbukun/15",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-04",
-				"sent_num": 11,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/26",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-03",
 				"sent_num": 11,
 				"marker": {
 					"AF": 0,
@@ -2504,29 +2601,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/17",
+				"file": "Bunun_Isbukun/01-5_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-06",
-				"sent_num": 31,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/13",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1943",
-				"collected": "2016-06-03",
-				"sent_num": 17,
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-05",
+				"sent_num": 10,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2576,29 +2655,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/18",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-02",
-				"sent_num": 7,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/47",
+				"file": "Bunun_Isbukun/55_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-03-01",
-				"sent_num": 15,
+				"collected": "2016-05-24",
+				"sent_num": 36,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2612,11 +2673,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/33",
+				"file": "Bunun_Isbukun/10-2_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-03",
-				"sent_num": 5,
+				"sent_num": 12,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/52_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-05-10",
+				"sent_num": 17,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2666,136 +2745,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/57",
+				"file": "Bunun_Isbukun/30_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
+				"speaker": "顏〇〇, 1944",
+				"collected": "2016-06-05",
+				"revised": "2016-06-08",
+				"sent_num": 8,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/20_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
-				"sent_num": 29,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/05",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-03",
-				"sent_num": 12,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/60",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-04",
-				"sent_num": 21,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/64",
-				"type": "Sentence",
-				"speaker": "",
-				"collected": "None",
-				"sent_num": 74,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/62",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-06",
-				"sent_num": 43,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/03-5",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-04",
-				"sent_num": 14,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/63",
-				"type": "Sentence",
-				"speaker": "",
-				"collected": "None",
-				"sent_num": 920,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/01-3",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-04",
 				"sent_num": 15,
 				"marker": {
 					"AF": 0,
@@ -2810,43 +2782,7 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/52",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-05-10",
-				"sent_num": 17,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/59",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-04",
-				"sent_num": 16,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/24",
+				"file": "Bunun_Isbukun/24_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-06",
@@ -2900,6 +2836,24 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/37_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-06-05",
+				"sent_num": 10,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/10-5",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1958",
@@ -2918,11 +2872,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/61",
+				"file": "Bunun_Isbukun/17_revised",
 				"type": "Sentence",
-				"speaker": "顏, 1944",
-				"collected": "2016-06-05",
-				"sent_num": 10,
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-06-06",
+				"sent_num": 31,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2936,11 +2890,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/01-2",
+				"file": "Bunun_Isbukun/11_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1944",
-				"collected": "2016-06-03",
-				"sent_num": 6,
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-02",
+				"sent_num": 10,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -2977,6 +2931,24 @@
 				"speaker": "",
 				"collected": "None",
 				"sent_num": 66,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/60_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-04",
+				"sent_num": 21,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3044,11 +3016,83 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/29",
+				"file": "Bunun_Isbukun/50_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-04",
-				"sent_num": 9,
+				"collected": "2016-03-05",
+				"sent_num": 19,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/03_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1944",
+				"collected": "2016-06-02",
+				"sent_num": 6,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/46_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-06",
+				"sent_num": 12,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/54_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-04-28",
+				"sent_num": 29,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/18_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-02",
+				"sent_num": 7,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3081,11 +3125,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/50",
+				"file": "Bunun_Isbukun/63_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-03-05",
-				"sent_num": 19,
+				"speaker": "",
+				"collected": "None",
+				"sent_num": 920,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3117,83 +3161,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/03-3",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-03",
-				"sent_num": 14,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/20",
+				"file": "Bunun_Isbukun/04_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-03",
-				"sent_num": 15,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/01-5",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-05",
-				"sent_num": 10,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/51",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-04-19",
-				"sent_num": 22,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/46",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-06",
-				"sent_num": 12,
+				"collected": "2016-06-02",
+				"sent_num": 8,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3262,24 +3234,6 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/02",
-				"type": "Sentence",
-				"speaker": "",
-				"collected": "None",
-				"sent_num": 30,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
 				"file": "Bunun_Isbukun/21",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
@@ -3298,29 +3252,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/53",
+				"file": "Bunun_Isbukun/05_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-03-22",
-				"sent_num": 15,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/34",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-03",
-				"sent_num": 17,
+				"sent_num": 12,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3334,29 +3270,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/04",
-				"type": "Sentence",
-				"speaker": "顏〇〇, 1958",
-				"collected": "2016-06-02",
-				"sent_num": 8,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Bunun_Isbukun/49",
+				"file": "Bunun_Isbukun/57_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-05-03",
-				"sent_num": 11,
+				"collected": "2016-06-03",
+				"sent_num": 29,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/03-5_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-06-04",
+				"sent_num": 14,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3388,11 +3324,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/48",
+				"file": "Bunun_Isbukun/64_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-04-12",
-				"sent_num": 23,
+				"speaker": "",
+				"collected": "None",
+				"sent_num": 74,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3406,11 +3342,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/14",
+				"file": "Bunun_Isbukun/10-3_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-04",
-				"sent_num": 8,
+				"collected": "2016-06-03",
+				"sent_num": 14,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/51_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-04-19",
+				"sent_num": 22,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3478,11 +3432,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/03",
+				"file": "Bunun_Isbukun/02_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1944",
-				"collected": "2016-06-02",
-				"sent_num": 6,
+				"speaker": "",
+				"collected": "None",
+				"sent_num": 30,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3496,11 +3450,29 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/10-3",
+				"file": "Bunun_Isbukun/47_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
+				"collected": "2016-03-01",
+				"sent_num": 15,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/01-2_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1944",
 				"collected": "2016-06-03",
-				"sent_num": 14,
+				"sent_num": 6,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3532,6 +3504,42 @@
 				}
 			},
 			{
+				"file": "Bunun_Isbukun/29_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-06-04",
+				"sent_num": 9,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/34_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-03",
+				"sent_num": 17,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Bunun_Isbukun/10-4",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
@@ -3550,7 +3558,43 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/12",
+				"file": "Bunun_Isbukun/26_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1958",
+				"collected": "2016-06-03",
+				"sent_num": 11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/48_revised",
+				"type": "Sentence",
+				"speaker": "顏〇〇, 1950",
+				"collected": "2016-04-12",
+				"sent_num": 23,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Bunun_Isbukun/12_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1950",
 				"collected": "2016-06-03",
@@ -3568,11 +3612,11 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/37",
+				"file": "Bunun_Isbukun/33_revised",
 				"type": "Sentence",
-				"speaker": "顏〇〇, 1950",
-				"collected": "2016-06-05",
-				"sent_num": 10,
+				"speaker": "顏〇〇, 1944",
+				"collected": "2016-06-03",
+				"sent_num": 5,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3586,7 +3630,7 @@
 				}
 			},
 			{
-				"file": "Bunun_Isbukun/16",
+				"file": "Bunun_Isbukun/16_revised",
 				"type": "Sentence",
 				"speaker": "顏〇〇, 1958",
 				"collected": "2016-06-05",
@@ -3632,15 +3676,15 @@
 		},
 		"text": [
 			{
-				"file": "Rukai_Vedai/RukaiNr-swing_taugadhu",
+				"file": "Rukai_Vedai/RukaiNr-childhood_balenge_edited",
 				"type": "Narrative",
-				"speaker": "杜〇, male, 1943",
-				"collected": "2009-08-06",
-				"revised": "None",
-				"topic": "Swing",
-				"iu_num": 232,
-				"sent_num": 78,
-				"record_time": 529.83,
+				"speaker": "潘〇〇〇, 1961",
+				"collected": "2011-8-11",
+				"revised": "2014-3-13",
+				"topic": "Childhood",
+				"iu_num": 184,
+				"sent_num": 69,
+				"record_time": 436.56,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3650,29 +3694,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 6
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-marriage ceremony_taugadha",
-				"type": "Narrative",
-				"speaker": "杜〇, male, 1943",
-				"collected": "2009-08-06",
-				"revised": "None",
-				"topic": "Marriage Ceremony",
-				"iu_num": 276,
-				"sent_num": 94,
-				"record_time": 717.27,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
+					"GEN": 0
 				}
 			},
 			{
@@ -3697,15 +3719,15 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-childhood_balenge",
+				"file": "Rukai_Vedai/RukaiNr-swing_taugadhu_edited",
 				"type": "Narrative",
-				"speaker": "潘〇〇〇, 1961",
-				"collected": "2011-8-11",
-				"revised": "2014-3-13",
-				"topic": "Childhood",
-				"iu_num": 184,
-				"sent_num": 69,
-				"record_time": 436.56,
+				"speaker": "杜〇, male, 1943",
+				"collected": "2009-08-06",
+				"revised": "None",
+				"topic": "Swing",
+				"iu_num": 232,
+				"sent_num": 78,
+				"record_time": 529.83,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3715,7 +3737,29 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 0
+					"GEN": 6
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-princess balenge_balenge_edited",
+				"type": "Narrative",
+				"speaker": "潘〇〇〇, female, 1961",
+				"collected": "2009-08-06",
+				"revised": "2014-3-27",
+				"topic": "Princess Balenge",
+				"iu_num": 213,
+				"sent_num": 86,
+				"record_time": 483.33,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 1
 				}
 			},
 			{
@@ -3763,7 +3807,29 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-frog_Waecacane",
+				"file": "Rukai_Vedai/RukaiNr-naming_taugadhu_edited",
+				"type": "Narrative",
+				"speaker": "杜〇, male, 1943",
+				"collected": "2010-01-14",
+				"revised": "None",
+				"topic": "Naming",
+				"iu_num": 314,
+				"sent_num": 63,
+				"record_time": 780.93,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 24
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-frog_Waecacane_edited",
 				"type": "Narrative",
 				"speaker": "杜〇〇, 1951",
 				"collected": "2022-02-12",
@@ -3781,72 +3847,6 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 1
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-pear_Legeai",
-				"type": "Narrative",
-				"speaker": "巴〇〇, male",
-				"collected": "2010-01-14",
-				"revised": "None",
-				"topic": "Pear story",
-				"iu_num": 102,
-				"sent_num": 39,
-				"record_time": 257.66,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 1
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-ghost lake_Balenge",
-				"type": "Narrative",
-				"speaker": "潘〇〇〇, female, 1961",
-				"collected": "2011-8-19",
-				"revised": "2014-3-27",
-				"topic": "Ghost lake",
-				"iu_num": 72,
-				"sent_num": 24,
-				"record_time": 168.84,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-becenge_tagas",
-				"type": "Narrative",
-				"speaker": "沙〇〇, 1938",
-				"collected": "2009-08-07",
-				"revised": "2013-1-21",
-				"topic": "Millet",
-				"iu_num": 65,
-				"sent_num": 24,
-				"record_time": 146.4,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 0
 				}
 			},
 			{
@@ -3872,15 +3872,15 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-work by men and women_taugadhu",
+				"file": "Rukai_Vedai/RukaiNr-pear_Legeai_edited",
 				"type": "Narrative",
-				"speaker": "杜〇, male, 1943",
-				"collected": "2009-08-07",
+				"speaker": "巴〇〇, male",
+				"collected": "2010-01-14",
 				"revised": "None",
-				"topic": "Work by Men and Women",
-				"iu_num": 241,
-				"sent_num": 99,
-				"record_time": 472.11,
+				"topic": "Pear story",
+				"iu_num": 102,
+				"sent_num": 39,
+				"record_time": 257.66,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -3890,7 +3890,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 12
+					"GEN": 1
 				}
 			},
 			{
@@ -3913,6 +3913,28 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-work by men and women_taugadhu_edited",
+				"type": "Narrative",
+				"speaker": "杜〇, male, 1943",
+				"collected": "2009-08-07",
+				"revised": "None",
+				"topic": "Work by Men and Women",
+				"iu_num": 241,
+				"sent_num": 99,
+				"record_time": 472.11,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 12
 				}
 			},
 			{
@@ -3982,6 +4004,28 @@
 				}
 			},
 			{
+				"file": "Rukai_Vedai/RukaiNr-becenge_tagas_edited",
+				"type": "Narrative",
+				"speaker": "沙〇〇, 1938",
+				"collected": "2009-08-07",
+				"revised": "2013-1-21",
+				"topic": "Millet",
+				"iu_num": 65,
+				"sent_num": 24,
+				"record_time": 146.4,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
 				"file": "Rukai_Vedai/RukaiNr-pear_salrabu",
 				"type": "Narrative",
 				"speaker": "柯〇〇, male, 1938",
@@ -4026,15 +4070,37 @@
 				}
 			},
 			{
-				"file": "Rukai_Vedai/RukaiNr-princess balenge_balenge",
+				"file": "Rukai_Vedai/RukaiNr-ghost lake_Balenge_edited",
 				"type": "Narrative",
 				"speaker": "潘〇〇〇, female, 1961",
-				"collected": "2009-08-06",
+				"collected": "2011-8-19",
 				"revised": "2014-3-27",
-				"topic": "Princess Balenge",
-				"iu_num": 213,
-				"sent_num": 86,
-				"record_time": 483.33,
+				"topic": "Ghost lake",
+				"iu_num": 72,
+				"sent_num": 24,
+				"record_time": 168.84,
+				"marker": {
+					"AF": 0,
+					"NAF": 0,
+					"PF": 0,
+					"RF": 0,
+					"IF": 0,
+					"BF": 0,
+					"CF": 0,
+					"LF": 0,
+					"GEN": 0
+				}
+			},
+			{
+				"file": "Rukai_Vedai/RukaiNr-marriage ceremony_taugadha_edited",
+				"type": "Narrative",
+				"speaker": "杜〇, male, 1943",
+				"collected": "2009-08-06",
+				"revised": "None",
+				"topic": "Marriage Ceremony",
+				"iu_num": 276,
+				"sent_num": 94,
+				"record_time": 717.27,
 				"marker": {
 					"AF": 0,
 					"NAF": 0,
@@ -4067,28 +4133,6 @@
 					"CF": 0,
 					"LF": 0,
 					"GEN": 0
-				}
-			},
-			{
-				"file": "Rukai_Vedai/RukaiNr-naming_taugadhu",
-				"type": "Narrative",
-				"speaker": "杜〇, male, 1943",
-				"collected": "2010-01-14",
-				"revised": "None",
-				"topic": "Naming",
-				"iu_num": 314,
-				"sent_num": 63,
-				"record_time": 780.93,
-				"marker": {
-					"AF": 0,
-					"NAF": 0,
-					"PF": 0,
-					"RF": 0,
-					"IF": 0,
-					"BF": 0,
-					"CF": 0,
-					"LF": 0,
-					"GEN": 24
 				}
 			},
 			{
@@ -5101,7 +5145,7 @@
 				"sent_num": 2067
 			},
 			"marker": {
-				"AF": 751,
+				"AF": 750,
 				"NAF": 0,
 				"PF": 163,
 				"RF": 6,
@@ -5278,7 +5322,7 @@
 				"sent_num": 54,
 				"record_time": 309.21,
 				"marker": {
-					"AF": 51,
+					"AF": 50,
 					"NAF": 0,
 					"PF": 12,
 					"RF": 3,
@@ -5738,25 +5782,25 @@
 		"summary": {
 			"story": {
 				"iu_num": 4977,
-				"sent_num": 1653,
+				"sent_num": 1652,
 				"record_time": 9126.39
 			},
 			"sentence": {
 				"sent_num": 0
 			},
 			"grammar": {
-				"sent_num": 2837
+				"sent_num": 2836
 			},
 			"marker": {
 				"AF": 2603,
 				"NAF": 0,
-				"PF": 625,
+				"PF": 623,
 				"RF": 43,
 				"IF": 2,
 				"BF": 0,
 				"CF": 1,
 				"LF": 410,
-				"GEN": 1261
+				"GEN": 1262
 			}
 		},
 		"text": [
@@ -5905,13 +5949,13 @@
 				"marker": {
 					"AF": 100,
 					"NAF": 0,
-					"PF": 35,
+					"PF": 36,
 					"RF": 2,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 26,
-					"GEN": 59
+					"GEN": 60
 				}
 			},
 			{
@@ -5966,17 +6010,17 @@
 				"revised": "2021-06-01",
 				"topic": "sisin",
 				"iu_num": 574,
-				"sent_num": 133,
+				"sent_num": 132,
 				"record_time": 956.25,
 				"marker": {
-					"AF": 295,
+					"AF": 294,
 					"NAF": 0,
 					"PF": 110,
 					"RF": 7,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 49,
+					"LF": 50,
 					"GEN": 169
 				}
 			},
@@ -6013,7 +6057,7 @@
 				"sent_num": 165,
 				"record_time": 469.9,
 				"marker": {
-					"AF": 149,
+					"AF": 148,
 					"NAF": 0,
 					"PF": 33,
 					"RF": 6,
@@ -6059,7 +6103,7 @@
 				"marker": {
 					"AF": 215,
 					"NAF": 0,
-					"PF": 35,
+					"PF": 34,
 					"RF": 1,
 					"IF": 0,
 					"BF": 0,
@@ -6079,7 +6123,7 @@
 				"sent_num": 82,
 				"record_time": 378.69,
 				"marker": {
-					"AF": 167,
+					"AF": 169,
 					"NAF": 0,
 					"PF": 41,
 					"RF": 0,
@@ -6101,9 +6145,9 @@
 				"sent_num": 46,
 				"record_time": 596.17,
 				"marker": {
-					"AF": 146,
+					"AF": 147,
 					"NAF": 0,
-					"PF": 15,
+					"PF": 14,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
@@ -6125,7 +6169,7 @@
 				"marker": {
 					"AF": 209,
 					"NAF": 0,
-					"PF": 21,
+					"PF": 20,
 					"RF": 0,
 					"IF": 0,
 					"BF": 0,
@@ -6255,7 +6299,7 @@
 				"sent_num": 205,
 				"record_time": 494.09,
 				"marker": {
-					"AF": 219,
+					"AF": 218,
 					"NAF": 0,
 					"PF": 40,
 					"RF": 0,
@@ -6306,7 +6350,7 @@
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 30,
+					"LF": 29,
 					"GEN": 115
 				}
 			},
@@ -6670,7 +6714,7 @@
 	"Kavalan_Xinshe": {
 		"summary": {
 			"story": {
-				"iu_num": 7026,
+				"iu_num": 7027,
 				"sent_num": 2393,
 				"record_time": 10661.93
 			},
@@ -6681,15 +6725,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1100,
+				"AF": 1102,
 				"NAF": 32,
 				"PF": 0,
 				"RF": 0,
 				"IF": 0,
 				"BF": 0,
 				"CF": 0,
-				"LF": 613,
-				"GEN": 2152
+				"LF": 614,
+				"GEN": 2155
 			}
 		},
 		"text": [
@@ -6748,7 +6792,7 @@
 				"sent_num": 26,
 				"record_time": 145.15,
 				"marker": {
-					"AF": 11,
+					"AF": 12,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
@@ -7122,7 +7166,7 @@
 				"sent_num": 47,
 				"record_time": 215.63,
 				"marker": {
-					"AF": 22,
+					"AF": 23,
 					"NAF": 0,
 					"PF": 0,
 					"RF": 0,
@@ -7130,7 +7174,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 31,
-					"GEN": 61
+					"GEN": 62
 				}
 			},
 			{
@@ -7328,7 +7372,7 @@
 					"BF": 0,
 					"CF": 0,
 					"LF": 19,
-					"GEN": 91
+					"GEN": 92
 				}
 			},
 			{
@@ -7338,7 +7382,7 @@
 				"collected": "2005-01-25",
 				"revised": "2014-1-14",
 				"topic": "Earthquake",
-				"iu_num": 994,
+				"iu_num": 995,
 				"sent_num": 313,
 				"record_time": 1056.35,
 				"marker": {
@@ -7349,8 +7393,8 @@
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
-					"LF": 65,
-					"GEN": 258
+					"LF": 66,
+					"GEN": 259
 				}
 			},
 			{
@@ -7391,15 +7435,15 @@
 				"sent_num": 0
 			},
 			"marker": {
-				"AF": 1129,
+				"AF": 1109,
 				"NAF": 0,
-				"PF": 396,
-				"RF": 88,
+				"PF": 378,
+				"RF": 86,
 				"IF": 1,
 				"BF": 0,
 				"CF": 0,
 				"LF": 0,
-				"GEN": 324
+				"GEN": 309
 			}
 		},
 		"text": [
@@ -7458,15 +7502,15 @@
 				"sent_num": 108,
 				"record_time": 428.9,
 				"marker": {
-					"AF": 111,
+					"AF": 94,
 					"NAF": 0,
-					"PF": 41,
-					"RF": 8,
+					"PF": 34,
+					"RF": 6,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 21
+					"GEN": 17
 				}
 			},
 			{
@@ -7549,7 +7593,7 @@
 					"AF": 49,
 					"NAF": 0,
 					"PF": 16,
-					"RF": 4,
+					"RF": 5,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
@@ -7570,7 +7614,7 @@
 				"marker": {
 					"AF": 200,
 					"NAF": 0,
-					"PF": 43,
+					"PF": 44,
 					"RF": 18,
 					"IF": 0,
 					"BF": 0,
@@ -7678,7 +7722,7 @@
 				"sent_num": 80,
 				"record_time": 292.02,
 				"marker": {
-					"AF": 61,
+					"AF": 62,
 					"NAF": 0,
 					"PF": 46,
 					"RF": 2,
@@ -7766,15 +7810,15 @@
 				"sent_num": 49,
 				"record_time": 291.54,
 				"marker": {
-					"AF": 23,
+					"AF": 18,
 					"NAF": 0,
-					"PF": 12,
+					"PF": 9,
 					"RF": 2,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 23
+					"GEN": 19
 				}
 			},
 			{
@@ -7810,15 +7854,15 @@
 				"sent_num": 152,
 				"record_time": 581.61,
 				"marker": {
-					"AF": 78,
+					"AF": 79,
 					"NAF": 0,
-					"PF": 38,
-					"RF": 4,
+					"PF": 29,
+					"RF": 3,
 					"IF": 0,
 					"BF": 0,
 					"CF": 0,
 					"LF": 0,
-					"GEN": 34
+					"GEN": 27
 				}
 			},
 			{
